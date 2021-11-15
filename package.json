@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@fwd/api": "github:fwd/api",
+    "csvtojson": "^2.0.10"
+  }
+}
