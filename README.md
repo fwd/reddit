@@ -10,4 +10,4 @@ Compiled by [@fwd](https://github.com/@fwd)
 
 ## Github Stars
 
-[![Stargazers over time](https://starchart.cc/fwd/headlines)](https://starchart.cc/fwd/headlines)
+[![Stargazers over time](https://starchart.cc/fwd/news)](https://starchart.cc/fwd/news)
