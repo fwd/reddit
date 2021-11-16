@@ -6,9 +6,9 @@ See **headlines.json** file for dataset. CSV available upon request.
 
 Compiled by the team at **[Fresh Web Designs](https://github.com/@fwd)**
 
-**Source:** Headlines are compiled from Reddit.com every 24 hours. 
-
 **Sentiment**: Data includes sentiment score. We use a AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of input text.
+
+**Source:** Headlines are compiled from Reddit.com every 24 hours. Please note, 'published' data point is when it was published on Reddit, not the article's published date.
 
 ## Keep Project Alive
 
