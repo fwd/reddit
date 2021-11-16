@@ -2,7 +2,7 @@
 
 For research purposes. Available in JSON format. 
 
-See **headlines.json** folder for dataset.
+See **headlines.json** file for dataset. CSV available upon request. 
 
 Compiled by the team at **[Fresh Web Designs](https://github.com/@fwd)**
 
