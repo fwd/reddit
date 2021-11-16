@@ -6,7 +6,9 @@ See **headlines.json** folder for dataset.
 
 Compiled by the team at **[Fresh Web Designs](https://github.com/@fwd)**
 
-## Please consider donating crypto
+**Source:** Headlines are compiled from Reddit.com every 24 hours. 
+
+## Keep Project Alive
 
 We accept Crypto donations at the following addresses: 
 
