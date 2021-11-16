@@ -1,10 +1,28 @@
 # News Headlines Dataset
 
-For research purposes. Datasets available in CSV & JSON format. 
+For research purposes. Available in JSON format. 
 
-See /datasets folder for data.
+See **headlines.json** folder for dataset.
 
-Compiled by [@fwd](https://github.com/@fwd)
+Compiled by the team at **[Fresh Web Designs](https://github.com/@fwd)**
+
+## Please consider donating crypto
+
+We accept Crypto donations at the following addresses: 
+
+```
+# Nano
+nano_3gf57qk4agze3ozwfhe8w6oap3jmdb4ofe9qo1ra3wcs5jc888rwyt61ymea
+
+# Bitcoin
+bc1qcgvew2a7ta3f7xy5999tdwyd8clrvdtpe2uvj5
+
+# Doge
+D9U1FLygkMydx3DE2sXgnuFpHm7ePm3Zwe
+
+# Ethereum
+0xdD4691Dc9562FB262e4b2076bE255303243f271d
+```
 
 ---
 
