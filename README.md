@@ -4,7 +4,7 @@ For research purposes. Available in JSON format.
 
 See **headlines.json** file for dataset. CSV available upon request. 
 
-Compiled by the team at **[Fresh Web Designs](https://github.com/@fwd)**
+Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
 **Sentiment**: Data includes sentiment score. We use a AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of input text.
 
