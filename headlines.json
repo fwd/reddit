@@ -1,5 +1,158 @@
 [
     {
+        "title": "Mobile phone lines inside Sudan are cut before planned protests",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/africa/mobile-phone-lines-inside-sudan-are-cut-before-planned-protests-2021-11-17/",
+        "sentiment": -3,
+        "timestamp": 1637151910,
+        "published": "November 17, 2021 7:25 AM"
+    },
+    {
+        "title": "Dark roofs to be banned in NSW, planning minister says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/australia-news/2021/nov/17/dark-roofs-to-be-banned-in-nsw-planning-minister-says",
+        "sentiment": -2,
+        "timestamp": 1637160140,
+        "published": "November 17, 2021 9:42 AM"
+    },
+    {
+        "title": "Tesla car batteries are being used in a study on how EVs could help power the grid",
+        "domain": "teslarati.com",
+        "category": "technology",
+        "link": "https://www.teslarati.com/tesla-car-batteries-grid-research-australia/",
+        "sentiment": 2,
+        "timestamp": 1637162020,
+        "published": "November 17, 2021 10:13 AM"
+    },
+    {
+        "title": "Biden asks regulators to examine possible 'illegal conduct' by oil and gas companies as prices soar",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2021/11/17/biden-asks-regulators-examine-conduct-oil-and-gas-companies/8649244002/",
+        "sentiment": 0,
+        "timestamp": 1637162426,
+        "published": "November 17, 2021 10:20 AM"
+    },
+    {
+        "title": "Ari Berman: With Extreme Gerrymandering, the Republicans Are Rigging the Next Decade of Elections",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2021/11/17/ari_berman_gop_gerrymandering",
+        "sentiment": 0,
+        "timestamp": 1637162476,
+        "published": "November 17, 2021 10:21 AM"
+    },
+    {
+        "title": "Restore Net Neutrality, Or Facebook Will Dominate The Internet Forever",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/epxndw/restore-net-neutrality-or-facebook-will-dominate-the-internet-forever",
+        "sentiment": 1,
+        "timestamp": 1637162861,
+        "published": "November 17, 2021 10:27 AM"
+    },
+    {
+        "title": "British F35 jet crashes into Mediterranean",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2021/nov/17/british-f35-jet-crashes-into-mediterranean?CMP=Share_AndroidApp_Other",
+        "sentiment": 0,
+        "timestamp": 1637163297,
+        "published": "November 17, 2021 10:34 AM"
+    },
+    {
+        "title": "Federal investigators launch civil rights probe into Southlake, Texas, schools",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/southlake-texas-critical-race-theory-investigation-rcna5839",
+        "sentiment": 0,
+        "timestamp": 1637164405,
+        "published": "November 17, 2021 10:53 AM"
+    },
+    {
+        "title": "Leading Nursing Organizations Issue Policy Brief Regarding Nurses Spreading Misinformation about COVID-19",
+        "domain": "ncsbn.org",
+        "category": "news",
+        "link": "https://www.ncsbn.org/16370.htm",
+        "sentiment": 0,
+        "timestamp": 1637165207,
+        "published": "November 17, 2021 11:06 AM"
+    },
+    {
+        "title": "Apple will start letting you fix your own iPhone",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/tech/apple/apple-will-start-letting-fix-iphone-rcna5859",
+        "sentiment": 0,
+        "timestamp": 1637165215,
+        "published": "November 17, 2021 11:06 AM"
+    },
+    {
+        "title": "Chris Christie Wimps Out, Refuses to Criticize Fox News and Tucker",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/chris-christie-wimps-out-refuses-to-criticize-fox-news-and-tucker?ref=home?ref=home",
+        "sentiment": -4,
+        "timestamp": 1637165865,
+        "published": "November 17, 2021 11:17 AM"
+    },
+    {
+        "title": "YouTube co-founder predicts ‘decline’ of the platform following removal of dislikes | It’s a ‘universally disliked change,’ says co-founder Jawed Karim",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/17/22787080/youtube-dislikes-criticism-cofounder-jawed-karim-first-video-description-zoo",
+        "sentiment": -4,
+        "timestamp": 1637166596,
+        "published": "November 17, 2021 11:29 AM"
+    },
+    {
+        "title": "High school students clap back at school board protestors claiming book “teaches kids how to be gay” | One student pointed out the irony in all the \"Free Speech\" Trump supporters draped in American flags and calling for government censorship and book burning.",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/high-school-students-clap-back-school-board-protestors-claiming-book-teaches-kids-gay/",
+        "sentiment": 1,
+        "timestamp": 1637166852,
+        "published": "November 17, 2021 11:34 AM"
+    },
+    {
+        "title": "Karen Gillan To Star In Emily Kapnek’s ‘Rhona Who Lives By The River’ Animated Musical Series With Danny Elfman In Works At Disney+",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/karen-gillan-emily-kapnek-rhona-who-lives-by-the-river-animated-musical-disney-plus-danny-elfman-1234875074/",
+        "sentiment": 0,
+        "timestamp": 1637166995,
+        "published": "November 17, 2021 11:36 AM"
+    },
+    {
+        "title": "\"QAnon Shaman\" Jacob Chansley sentenced to 41 months in prison for role in January 6 attack",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/jacob-chansley-qanon-shaman-sentenced-january-6-attack-capitol/",
+        "sentiment": -5,
+        "timestamp": 1637168054,
+        "published": "November 17, 2021 11:54 AM"
+    },
+    {
+        "title": "Arcane | Act III Teaser | Netflix",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=KXtf2gEdnyQ",
+        "sentiment": 0,
+        "timestamp": 1637168429,
+        "published": "November 17, 2021 12:00 PM"
+    },
+    {
+        "title": "‘The Wheel of Time’ Review: “The initial six episodes give little indication of what makes Jordan's world distinctive”.",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/wheel-of-time-review-1235048788/",
+        "sentiment": 0,
+        "timestamp": 1637168508,
+        "published": "November 17, 2021 12:01 PM"
+    },
+    {
         "title": "Rating agencies say Biden's spending plans will not add to inflationary pressure",
         "domain": "reuters.com",
         "category": "politics",
