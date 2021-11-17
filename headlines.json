@@ -1,5 +1,113 @@
 [
     {
+        "title": "Japanese experts craft 'super clone' of Afghan mural from Bamiyan valley destroyed by the Taliban",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2021-11-17/japan-experts-craft-super-clone-of-destroyed-afghan-mural/100629000",
+        "sentiment": -3,
+        "timestamp": 1637143492,
+        "published": "November 17, 2021 5:04 AM"
+    },
+    {
+        "title": "Brazil’s Amazon beef plan will ‘legalise deforestation’ say critics",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/17/brazils-amazon-beef-plan-will-legalise-deforestation-say-critics",
+        "sentiment": -2,
+        "timestamp": 1637144465,
+        "published": "November 17, 2021 5:21 AM"
+    },
+    {
+        "title": "'A Damn Shame': Ohio Senate Approves 'Extreme' Gerrymandered Map Favoring GOP",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/16/damn-shame-ohio-senate-approves-extreme-gerrymandered-map-favoring-gop",
+        "sentiment": 0,
+        "timestamp": 1637146781,
+        "published": "November 17, 2021 5:59 AM"
+    },
+    {
+        "title": "Exclusive: LAPD partnered with tech firm that enables secretive online spying",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/17/los-angeles-police-surveillance-social-media-voyager?CMP=Share_AndroidApp_Other",
+        "sentiment": 2,
+        "timestamp": 1637147179,
+        "published": "November 17, 2021 6:06 AM"
+    },
+    {
+        "title": "Stacey Abrams Just Gave Democrats a Blueprint for Saving Themselves | Opinion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/stacey-abrams-just-gave-democrats-blueprint-saving-themselves-opinion-1649944",
+        "sentiment": 0,
+        "timestamp": 1637149439,
+        "published": "November 17, 2021 6:43 AM"
+    },
+    {
+        "title": "Swiss government: Same-sex couples can marry starting July 1",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/lifestyle-switzerland-europe-marriage-referendums-68dc4617c7429e2212915758796e0398",
+        "sentiment": 0,
+        "timestamp": 1637149658,
+        "published": "November 17, 2021 6:47 AM"
+    },
+    {
+        "title": "FBI Raids Home of Elections Official Tied to QAnon Voter Fraud Scheme",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/fbi-raids-home-of-tina-peters-mesa-county-elections-official-tied-to-qanon-voter-fraud-scheme?via=twitter_page",
+        "sentiment": -4,
+        "timestamp": 1637149660,
+        "published": "November 17, 2021 6:47 AM"
+    },
+    {
+        "title": "Vials labeled 'smallpox' found at vaccine research facility in Pennsylvania, CDC says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/16/health/smallpox-vials-found/index.html",
+        "sentiment": 0,
+        "timestamp": 1637151090,
+        "published": "November 17, 2021 7:11 AM"
+    },
+    {
+        "title": "Former Bush lawyer Richard Painter on the Jan. 6 cover-up: \"Like the mistake Weimar Germany made\" | We haven't faced anything this bad \"since the Civil War,\" says former White House lawyer — and it's getting worse",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/17/former-bush-lawyer-richard-painter-on-the-jan-6-cover-up-like-the-mistake-weimar-germany-made/",
+        "sentiment": -11,
+        "timestamp": 1637151493,
+        "published": "November 17, 2021 7:18 AM"
+    },
+    {
+        "title": "Estonia plans snap military exercise, razor wire along Russian border",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/estonia-announces-snap-military-exercise-will-put-razor-wire-along-russian-2021-11-17/",
+        "sentiment": 0,
+        "timestamp": 1637151765,
+        "published": "November 17, 2021 7:22 AM"
+    },
+    {
+        "title": "CPAC president said PBS should be defunded for 'Sesame Street' having an Asian-American muppet",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/cpac-head-wants-defund-pbs-sesame-street-asian-american-muppet-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637152838,
+        "published": "November 17, 2021 7:40 AM"
+    },
+    {
+        "title": "Suspended Texas doctor who promoted ivermectin as Covid treatment resigns from hospital",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/suspended-texas-doctor-promoted-ivermectin-covid-treatment-resigns-hos-rcna5833",
+        "sentiment": -1,
+        "timestamp": 1637154912,
+        "published": "November 17, 2021 8:15 AM"
+    },
+    {
         "title": "Navy sailors who refuse COVID-19 vaccine will be discharged, face other administrative actions",
         "domain": "fox2detroit.com",
         "category": "politics",
