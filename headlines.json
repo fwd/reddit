@@ -1,5 +1,122 @@
 [
     {
+        "title": "US reportedly plans diplomatic boycott of China’s Winter Olympics | Winter Olympics",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/nov/16/us-reportedly-plans-diplomatic-boycott-of-chinas-winter-olympics",
+        "sentiment": -2,
+        "timestamp": 1637154225,
+        "published": "November 17, 2021 8:03 AM"
+    },
+    {
+        "title": "Russian anti-satellite test adds to worsening problem of space debris",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/science-environment-59307862",
+        "sentiment": -5,
+        "timestamp": 1637162407,
+        "published": "November 17, 2021 10:20 AM"
+    },
+    {
+        "title": "Cornyn says GOP might not run someone against Sinema in 2024",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/581924-cornyn-says-gop-might-not-run-someone-against-sinema-in-2024",
+        "sentiment": 0,
+        "timestamp": 1637163852,
+        "published": "November 17, 2021 10:44 AM"
+    },
+    {
+        "title": "Poland to begin work on 180km-long 5.5m-high border wall in December",
+        "domain": "globalconstructionreview.com",
+        "category": "worldnews",
+        "link": "https://www.globalconstructionreview.com/poland-to-begin-work-on-5-5m-high-border-wall-in-december/",
+        "sentiment": 0,
+        "timestamp": 1637167127,
+        "published": "November 17, 2021 11:38 AM"
+    },
+    {
+        "title": "Kyle Rittenhouse trial live updates: Jury asks where and how it can to rewatch video evidence",
+        "domain": "jsonline.com",
+        "category": "news",
+        "link": "https://www.jsonline.com/story/news/crime/2021/11/16/kyle-rittenhouse-trial-live-updates-from-kenosha/8637377002/",
+        "sentiment": 0,
+        "timestamp": 1637171756,
+        "published": "November 17, 2021 12:55 PM"
+    },
+    {
+        "title": "‘The Sinner’ To End With Season 4 As USA Network",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/the-sinner-canceled-end-season-4-bill-pullman-usa-network-programming-strategy-1234876043/",
+        "sentiment": 0,
+        "timestamp": 1637172133,
+        "published": "November 17, 2021 1:02 PM"
+    },
+    {
+        "title": "EU aims to curb deforestation with beef and coffee import ban",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/17/eu-deforestation-beef-coffee-import-ban-commodities-endangered-forests",
+        "sentiment": -2,
+        "timestamp": 1637172543,
+        "published": "November 17, 2021 1:09 PM"
+    },
+    {
+        "title": "Alabama Republican touts provision in infrastructure bill he voted against",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/finance/581934-alabama-republican-touts-provision-in-infrastructure-bill-he-voted-against",
+        "sentiment": -2,
+        "timestamp": 1637173775,
+        "published": "November 17, 2021 1:29 PM"
+    },
+    {
+        "title": "Russian ransomware gangs start collaborating with Chinese hackers",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-start-collaborating-with-chinese-hackers/",
+        "sentiment": 0,
+        "timestamp": 1637174065,
+        "published": "November 17, 2021 1:34 PM"
+    },
+    {
+        "title": "Temple Police arrest woman seen in video throwing soup at restaurant employee’s face",
+        "domain": "kwtx.com",
+        "category": "news",
+        "link": "https://www.kwtx.com/2021/11/17/temple-police-arrest-woman-seen-video-throwing-soup-restaurant-employees-face/",
+        "sentiment": -2,
+        "timestamp": 1637175154,
+        "published": "November 17, 2021 1:52 PM"
+    },
+    {
+        "title": "Activision Blizzard Shareholders Call On Bobby Kotick, Board Members To Resign",
+        "domain": "gameinformer.com",
+        "category": "technology",
+        "link": "https://www.gameinformer.com/2021/11/17/activision-blizzard-shareholders-call-on-bobby-kotick-board-members-to-resign",
+        "sentiment": -1,
+        "timestamp": 1637175251,
+        "published": "November 17, 2021 1:54 PM"
+    },
+    {
+        "title": "‘Reno 911’ Special ‘The Hunt for QAnon’ Gets Premiere Date on Paramount Plus, The special will air on the streamer starting Dec. 23",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/reno-911-the-hunt-for-qanon-premiere-date-paramount-plus-1235114288/",
+        "sentiment": 0,
+        "timestamp": 1637175982,
+        "published": "November 17, 2021 2:06 PM"
+    },
+    {
+        "title": "FBI raids home of Lauren Boebert's ex-campaign manager in Colorado election tampering probe",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/17/fbi-raids-home-of-lauren-boeberts-ex-campaign-manager-in-colorado-tampering-probe/",
+        "sentiment": 0,
+        "timestamp": 1637176192,
+        "published": "November 17, 2021 2:09 PM"
+    },
+    {
         "title": "Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi",
         "domain": "cnn.com",
         "category": "worldnews",
