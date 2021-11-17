@@ -1,5 +1,32 @@
 [
     {
+        "title": "Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/16/politics/biden-china-taiwan/index.html",
+        "sentiment": 1,
+        "timestamp": 1637163631,
+        "published": "November 17, 2021 10:40 AM"
+    },
+    {
+        "title": "Republicans don't care about death threats against colleagues — they are too busy seeking revenge | Republicans will find a reason to impeach Joe Biden — but can't be bothered by Paul Gosar's threats",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/17/dont-care-about-against-colleagues--they-are-too-busy-seeking-revenge/",
+        "sentiment": -12,
+        "timestamp": 1637170989,
+        "published": "November 17, 2021 12:43 PM"
+    },
+    {
+        "title": "Number of smokers worldwide in decline, says WHO",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/next/2021/11/17/the-number-of-smokers-worldwide-is-falling-but-more-must-be-done-to-help-them-quit-says-wh",
+        "sentiment": 0,
+        "timestamp": 1637172242,
+        "published": "November 17, 2021 1:04 PM"
+    },
+    {
         "title": "IBM clears the 100-qubit mark with its new processor",
         "domain": "arstechnica.com",
         "category": "technology",
