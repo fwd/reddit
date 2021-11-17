@@ -1,5 +1,86 @@
 [
     {
+        "title": "Albuquerque has new response to 911 calls involving mentally ill people",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/albuquerque-new-response-911-calls-involving-mentally-ill-people-rcna5623",
+        "sentiment": -2,
+        "timestamp": 1637146826,
+        "published": "November 17, 2021 6:00 AM"
+    },
+    {
+        "title": "Israel, Jordan and UAE to sign a huge solar power for desalinated water deal",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/israel-jordan-uae-sign-deal-110029062.html",
+        "sentiment": 1,
+        "timestamp": 1637148767,
+        "published": "November 17, 2021 6:32 AM"
+    },
+    {
+        "title": "Opinion: Trump supporters’ logic of political violence should alarm us all",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/15/trump-supporters-political-violence-deadly",
+        "sentiment": -5,
+        "timestamp": 1637153631,
+        "published": "November 17, 2021 7:53 AM"
+    },
+    {
+        "title": "Coming off climate talks, US to hold huge crude sale in Gulf",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/cc0deca6a28aab21cd4e0aa35ea7b6af",
+        "sentiment": 0,
+        "timestamp": 1637155497,
+        "published": "November 17, 2021 8:24 AM"
+    },
+    {
+        "title": "Republican seeks credit for infrastructure bill he voted against; As Republicans seek credit for the infrastructure package they voted against, it's hard not to feel a sense of deja vu.",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/republican-seeks-credit-infrastructure-bill-he-voted-against-n1284009",
+        "sentiment": -1,
+        "timestamp": 1637155842,
+        "published": "November 17, 2021 8:30 AM"
+    },
+    {
+        "title": "Stephen Graham on his dramatic year: prison officer, care home … and now a kitchen nightmare",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/food/2021/nov/14/stephen-graham-on-his-big-acting-year-prison-care-home-and-now-a-kitchen-nightmare-boiling-point",
+        "sentiment": 0,
+        "timestamp": 1637157249,
+        "published": "November 17, 2021 8:54 AM"
+    },
+    {
+        "title": "Leaked Audio: Amazon Workers Grill Managers at Anti-Union Meeting",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/4awvvd/leaked-audio-amazon-workers-grill-managers-at-anti-union-meeting",
+        "sentiment": -1,
+        "timestamp": 1637159202,
+        "published": "November 17, 2021 9:26 AM"
+    },
+    {
+        "title": "Lawsuit: Miami Police Arrested Man for Stealing His Own Car",
+        "domain": "miaminewtimes.com",
+        "category": "news",
+        "link": "https://www.miaminewtimes.com/news/miami-cops-arrest-man-for-stealing-his-own-car-lawsuit-13335518",
+        "sentiment": -7,
+        "timestamp": 1637159413,
+        "published": "November 17, 2021 9:30 AM"
+    },
+    {
+        "title": "Peter Dinklage to Receive Gotham Awards’ Performer Tribute",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2021/11/peter-dinklage-gotham-awards-performer-tribute-1234679841/",
+        "sentiment": 2,
+        "timestamp": 1637162797,
+        "published": "November 17, 2021 10:26 AM"
+    },
+    {
         "title": "The fake news sites pushing Republicans' critical race theory scare",
         "domain": "theguardian.com",
         "category": "politics",
