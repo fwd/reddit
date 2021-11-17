@@ -1,5 +1,104 @@
 [
     {
+        "title": "The fake news sites pushing Republicans' critical race theory scare",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/17/fake-news-sites-republicans-critical-race-theory-scare",
+        "sentiment": -5,
+        "timestamp": 1637148709,
+        "published": "November 17, 2021 6:31 AM"
+    },
+    {
+        "title": "Ted Cruz’s Dirty Limerick About Joe Biden Turns Him Into A Twitter Laughingstock",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ted-cruz-joe-biden-limerick_n_6194aba3e4b0f398aefd4f98",
+        "sentiment": -2,
+        "timestamp": 1637149682,
+        "published": "November 17, 2021 6:48 AM"
+    },
+    {
+        "title": "Michigan GOP's latest vote-crushing scheme could eliminate 20% of polling sites",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/17/michigan-gops-latest-vote-crushing-scheme-could-eliminate-20-of-polling-sites/",
+        "sentiment": 0,
+        "timestamp": 1637152715,
+        "published": "November 17, 2021 7:38 AM"
+    },
+    {
+        "title": "The definition of 'fully vaccinated' is changing to three Covid-19 doses",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/11/17/world/coronavirus-newsletter-intl-17-11-21/index.html",
+        "sentiment": 0,
+        "timestamp": 1637153468,
+        "published": "November 17, 2021 7:51 AM"
+    },
+    {
+        "title": "What a staggering gun cache discovered in one suspected neo-Nazi's house says about far-right extremism in Europe",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/17/europe/austria-far-right-extremism-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1637154463,
+        "published": "November 17, 2021 8:07 AM"
+    },
+    {
+        "title": "After ousting Liz Cheney, Republicans prove they're a bigger threat than 9/11 hijackers",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/voices/2021/05/13/jan-6th-insurrection-greater-danger-democracy-than-9-11-column/5057119001/",
+        "sentiment": -2,
+        "timestamp": 1637154783,
+        "published": "November 17, 2021 8:13 AM"
+    },
+    {
+        "title": "Israeli Soldiers Awoke, Gathered and Illegally Recorded Palestinian Minors",
+        "domain": "haaretz.com",
+        "category": "worldnews",
+        "link": "https://www.haaretz.com/israel-news/israeli-soldiers-awoke-gathered-and-illegally-recorded-palestinian-minors-1.10392674",
+        "sentiment": -3,
+        "timestamp": 1637155143,
+        "published": "November 17, 2021 8:19 AM"
+    },
+    {
+        "title": "Peaky Blinders Creator's 'SAS: Rogue Heroes' Lands at Epix, Starring Alfie Allen & Sofia Boutella",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/peaky-blinders-steven-knights-sas-rogue-heroes-epix-1235112479/",
+        "sentiment": 0,
+        "timestamp": 1637156630,
+        "published": "November 17, 2021 8:43 AM"
+    },
+    {
+        "title": "Apple announces Self Service Repair",
+        "domain": "apple.com",
+        "category": "technology",
+        "link": "https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/",
+        "sentiment": 0,
+        "timestamp": 1637157904,
+        "published": "November 17, 2021 9:05 AM"
+    },
+    {
+        "title": "Beginning next year, Apple will send you parts and tools to fix your iPhone and Mac at home",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2021/11/17/beginning-next-year-apple-will-mail-you-parts-and-tools-to-fix-your-iphone-and-mac-at-home/",
+        "sentiment": 0,
+        "timestamp": 1637158555,
+        "published": "November 17, 2021 9:15 AM"
+    },
+    {
+        "title": "Apple will offer iPhone parts and instructions for DIY repair | A huge shift from Apple",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions",
+        "sentiment": 1,
+        "timestamp": 1637158703,
+        "published": "November 17, 2021 9:18 AM"
+    },
+    {
         "title": "Japanese experts craft 'super clone' of Afghan mural from Bamiyan valley destroyed by the Taliban",
         "domain": "abc.net.au",
         "category": "news",
