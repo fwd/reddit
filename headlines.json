@@ -1,5 +1,77 @@
 [
     {
+        "title": "IBM clears the 100-qubit mark with its new processor",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/11/ibm-clears-the-100-qubit-mark-with-its-new-processor/",
+        "sentiment": 1,
+        "timestamp": 1637163970,
+        "published": "November 17, 2021 10:46 AM"
+    },
+    {
+        "title": "Rep. Gosar Faces Censure for AOC Murder Video, Refuses to Apologize. Sister Calls Him a “Sociopath.”",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2021/11/17/youngest_sister_of_rep_paul_gosar",
+        "sentiment": -5,
+        "timestamp": 1637165562,
+        "published": "November 17, 2021 11:12 AM"
+    },
+    {
+        "title": "Florida tops 1,000 manatee deaths in grim single-year record",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/florida-tops-1000-manatee-deaths-grim-single-year-81230664",
+        "sentiment": -2,
+        "timestamp": 1637167333,
+        "published": "November 17, 2021 11:42 AM"
+    },
+    {
+        "title": "Top military leader says China's hypersonic missile test 'went around the world'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html",
+        "sentiment": 2,
+        "timestamp": 1637168208,
+        "published": "November 17, 2021 11:56 AM"
+    },
+    {
+        "title": "Landscapers (2021) | Official Trailer | HBO",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/WYSpdaYTW1Y",
+        "sentiment": 0,
+        "timestamp": 1637168560,
+        "published": "November 17, 2021 12:02 PM"
+    },
+    {
+        "title": "$285 Billion Tax Cut for the Rich Is Now 2nd Most Expensive Piece of Build Back Better",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/17/285-billion-tax-cut-rich-now-2nd-most-expensive-piece-build-back-better",
+        "sentiment": 3,
+        "timestamp": 1637169050,
+        "published": "November 17, 2021 12:10 PM"
+    },
+    {
+        "title": "2 Men Convicted of Killing Malcolm X Will Be Exonerated After 55 Years",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/17/nyregion/malcolm-x-killing-exonerated.html?smid=tw-nytimes&smtyp=cur",
+        "sentiment": -3,
+        "timestamp": 1637169769,
+        "published": "November 17, 2021 12:22 PM"
+    },
+    {
+        "title": "$750 million lawsuit filed against Travis Scott, Drake on behalf of Astroworld victims",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/750-million-lawsuit-filed-travis-scott-drake-behalf-astroworld-victims-rcna5850",
+        "sentiment": -5,
+        "timestamp": 1637170624,
+        "published": "November 17, 2021 12:37 PM"
+    },
+    {
         "title": "Mobile phone lines inside Sudan are cut before planned protests",
         "domain": "reuters.com",
         "category": "worldnews",
