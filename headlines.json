@@ -1,5 +1,149 @@
 [
     {
+        "title": "Rating agencies say Biden's spending plans will not add to inflationary pressure",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/exclusive-rating-agencies-say-bidens-spending-plans-will-not-add-inflationary-2021-11-17/",
+        "sentiment": -1,
+        "timestamp": 1637154012,
+        "published": "November 17, 2021 8:00 AM"
+    },
+    {
+        "title": "More kids in hospital, schools shut as smog smothers Delhi",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/india/india-temporarily-shuts-five-coal-fired-power-plants-around-new-delhi-2021-11-17/",
+        "sentiment": -2,
+        "timestamp": 1637155071,
+        "published": "November 17, 2021 8:17 AM"
+    },
+    {
+        "title": "China Is Now World's Richest Nation, Ahead Of US",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/china-is-now-worlds-richest-nation-ahead-of-us-2612496",
+        "sentiment": 0,
+        "timestamp": 1637156776,
+        "published": "November 17, 2021 8:46 AM"
+    },
+    {
+        "title": "Amazon to stop accepting Visa's UK-issued credit cards over high fees",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/retail-consumer/amazon-stop-accepting-visa-credit-cards-issued-uk-bloomberg-news-2021-11-17/",
+        "sentiment": 0,
+        "timestamp": 1637158131,
+        "published": "November 17, 2021 9:08 AM"
+    },
+    {
+        "title": "'A sham from the beginning': Man at center of GOP vote fraud hype lied, pleads guilty",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/-a-sham-from-the-beginning-man-at-center-of-gop-vote-fraud-hype-lied-pleads-guilty-126409797816",
+        "sentiment": -9,
+        "timestamp": 1637158819,
+        "published": "November 17, 2021 9:20 AM"
+    },
+    {
+        "title": "Windows 11 Will Soon Block All Default Browser Workarounds",
+        "domain": "howtogeek.com",
+        "category": "technology",
+        "link": "https://www.howtogeek.com/768188/windows-11-will-soon-block-all-default-browser-workarounds/amp/",
+        "sentiment": -1,
+        "timestamp": 1637160092,
+        "published": "November 17, 2021 9:41 AM"
+    },
+    {
+        "title": "New US Travel Advisory For India Warns About Rapes",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/india-news/do-not-travel-to-india-pak-border-exercise-caution-due-to-crime-and-terrorism-us-updates-travel-advisory-to-citizens-2612650/amp/1",
+        "sentiment": -2,
+        "timestamp": 1637161267,
+        "published": "November 17, 2021 10:01 AM"
+    },
+    {
+        "title": "Drug overdose deaths top 100,000 annually for the first time, driven by fentanyl, CDC data show",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/17/health/drug-overdose-deaths-record-high/index.html",
+        "sentiment": 0,
+        "timestamp": 1637161522,
+        "published": "November 17, 2021 10:05 AM"
+    },
+    {
+        "title": "FBI Raids Home of GOP Election Official Linked to QAnon’s Ron Watkins",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/93byb7/tina-peters-fbi-raid-linked-ron-watkins",
+        "sentiment": 0,
+        "timestamp": 1637161627,
+        "published": "November 17, 2021 10:07 AM"
+    },
+    {
+        "title": "‘We’re Preparing For a Long Battle.’ Librarians Grapple With Conservatives’ Latest Efforts to Ban Books",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6117685/book-bans-school-libraries",
+        "sentiment": -3,
+        "timestamp": 1637161990,
+        "published": "November 17, 2021 10:13 AM"
+    },
+    {
+        "title": "EU plans to ban food imports from deforested areas",
+        "domain": "rfi.fr",
+        "category": "worldnews",
+        "link": "https://www.rfi.fr/en/business-and-tech/20211117-eu-plans-to-ban-food-imports-from-deforested-areas",
+        "sentiment": -2,
+        "timestamp": 1637162612,
+        "published": "November 17, 2021 10:23 AM"
+    },
+    {
+        "title": "U.S. seeks four years in prison for Capitol rioter 'QAnon Shaman'",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-seeks-four-years-prison-capitol-rioter-qanon-shaman-2021-11-17/",
+        "sentiment": -2,
+        "timestamp": 1637163801,
+        "published": "November 17, 2021 10:43 AM"
+    },
+    {
+        "title": "Apple will sell you iPhone parts to fix your own phone at home",
+        "domain": "theverge.com",
+        "category": "worldnews",
+        "link": "https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions",
+        "sentiment": 0,
+        "timestamp": 1637164232,
+        "published": "November 17, 2021 10:50 AM"
+    },
+    {
+        "title": "Ozark: Season 4 | Official Teaser | Netflix",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=z8QwwWnLboU",
+        "sentiment": 0,
+        "timestamp": 1637164819,
+        "published": "November 17, 2021 11:00 AM"
+    },
+    {
+        "title": "‘The Crown’ Casts Its Prince William: Dominic West’s Son Senan West to Play Royal Heir",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/streaming/news/the-crown-prince-william-dominic-west-son-senan-1235114068/",
+        "sentiment": 0,
+        "timestamp": 1637164945,
+        "published": "November 17, 2021 11:02 AM"
+    },
+    {
+        "title": "Restore Net Neutrality, Or Facebook Will Dominate The Internet Forever. Without a functioning FCC, it’s only a matter of time before Big Tech and Big Telecom team up to screw us all.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/epxndw/restore-net-neutrality-or-facebook-will-dominate-the-internet-forever",
+        "sentiment": 4,
+        "timestamp": 1637165697,
+        "published": "November 17, 2021 11:14 AM"
+    },
+    {
         "title": "Albuquerque has new response to 911 calls involving mentally ill people",
         "domain": "nbcnews.com",
         "category": "news",
