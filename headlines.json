@@ -1,5 +1,113 @@
 [
     {
+        "title": "Steve Bannon pleading not guilty to contempt of Congress charges",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html",
+        "sentiment": -1,
+        "timestamp": 1637175071,
+        "published": "November 17, 2021 1:51 PM"
+    },
+    {
+        "title": "Trump tells McConnell to resign if Biden social bill passes, vows to withhold endorsements",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-tells-mcconnell-resign-if-biden-social-bill-passes-vows-withhold-endorsements-1650373",
+        "sentiment": -1,
+        "timestamp": 1637175589,
+        "published": "November 17, 2021 1:59 PM"
+    },
+    {
+        "title": "Marvel Studios Is Casting for a Daredevil Project",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/marvel-studios-reportedly-casting-for-daredevil-project",
+        "sentiment": 5,
+        "timestamp": 1637177528,
+        "published": "November 17, 2021 2:32 PM"
+    },
+    {
+        "title": "Majority Of Americans Want The Supreme Court To Reject Texas’ Extreme Abortion Law",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/majority-of-americans-want-the-supreme-court-to-reject-texas-extreme-abortion-law_n_619541dee4b07fe20105862c",
+        "sentiment": 4,
+        "timestamp": 1637178410,
+        "published": "November 17, 2021 2:46 PM"
+    },
+    {
+        "title": "After comparing 17.5 million strategies, researchers validate CDC’s vaccine rollout recommendation",
+        "domain": "news.iastate.edu",
+        "category": "technology",
+        "link": "https://www.news.iastate.edu/news/2021/11/17/cdc-recommendation",
+        "sentiment": 1,
+        "timestamp": 1637180142,
+        "published": "November 17, 2021 3:15 PM"
+    },
+    {
+        "title": "‘How I Met Your Father’ Premiere Date: Tuesday, Jan. 18 on Hulu",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/17/how-i-met-your-father-premiere-date-january-2022-hulu-video/",
+        "sentiment": 0,
+        "timestamp": 1637180241,
+        "published": "November 17, 2021 3:17 PM"
+    },
+    {
+        "title": "Fugitive California couple convicted in COVID loan fraud scheme sentenced to federal prison in absentia",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/richard-ayvazyan-marietta-terabelian-sentenced-covid-loan-fraud-scheme-fugitives/?intcid=CNI-00-10aaa3b",
+        "sentiment": -10,
+        "timestamp": 1637181455,
+        "published": "November 17, 2021 3:37 PM"
+    },
+    {
+        "title": "House to censure and remove Gosar from committees over violent video targeting AOC and Biden",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html",
+        "sentiment": -3,
+        "timestamp": 1637181541,
+        "published": "November 17, 2021 3:39 PM"
+    },
+    {
+        "title": "Bill Gates’ TerraPower will build its first advanced nuclear reactor in a coal town in Wyoming",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/17/bill-gates-terrapower-builds-its-first-nuclear-reactor-in-a-coal-town.html",
+        "sentiment": 1,
+        "timestamp": 1637181580,
+        "published": "November 17, 2021 3:39 PM"
+    },
+    {
+        "title": "About 97 million more people are living on less than $1.90 a day because of the pandemic, increasing the global poverty rate from 7.8 to 9.1 percent",
+        "domain": "blogs.worldbank.org",
+        "category": "worldnews",
+        "link": "https://blogs.worldbank.org/developmenttalk/covid-19-leaves-legacy-rising-poverty-and-widening-inequality",
+        "sentiment": -1,
+        "timestamp": 1637182087,
+        "published": "November 17, 2021 3:48 PM"
+    },
+    {
+        "title": "Apple launches 'Self Service Repair,' allowing you to do your own iPhone screen repairs and more",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2021/11/17/apple-launches-self-service-repair-allowing-you-to-do-your-own-iphone-screen-repairs-and-more/",
+        "sentiment": 0,
+        "timestamp": 1637183832,
+        "published": "November 17, 2021 4:17 PM"
+    },
+    {
+        "title": "Facebook’s “Metaverse” Must Be Stopped / It is no utopian vision — it's another opportunity for Big Tech to colonize our lives in the name of profit.",
+        "domain": "jacobinmag.com",
+        "category": "technology",
+        "link": "https://jacobinmag.com/2021/11/facebook-metaverse-mark-zuckerberg-play-to-earn-surveillance-tech-industry",
+        "sentiment": 4,
+        "timestamp": 1637184007,
+        "published": "November 17, 2021 4:20 PM"
+    },
+    {
         "title": "GOP Rep Cheerfully Takes Credit For BIF After Voting Against It",
         "domain": "talkingpointsmemo.com",
         "category": "politics",
