@@ -1,5 +1,77 @@
 [
     {
+        "title": "Rapper Young Dolph shot and killed in Memphis, law enforcement sources confirm",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/local/rapper-young-dolph-shot-killed-memphis-law-enforcement-sources-confirm/Y37EQYI6TJBHHMLLBAR6KSMPNA/",
+        "sentiment": -3,
+        "timestamp": 1637179116,
+        "published": "November 17, 2021 2:58 PM"
+    },
+    {
+        "title": "The Medicaid Expansion Fight Is Proof the Republican Party Has Long Traded Human Lives for Political Points",
+        "domain": "esquire.com",
+        "category": "politics",
+        "link": "https://www.esquire.com/news-politics/politics/a38279688/medicaid-expansion-save-lives-republican-states-refuse/",
+        "sentiment": -1,
+        "timestamp": 1637179624,
+        "published": "November 17, 2021 3:07 PM"
+    },
+    {
+        "title": "White House: \"Ironic\" that GOP condemns members for infrastructure vote but not Paul Gosar",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/white-house-ironic-that-gop-condemns-members-infrastructure-vote-not-paul-gosar-1650447",
+        "sentiment": -3,
+        "timestamp": 1637183690,
+        "published": "November 17, 2021 4:14 PM"
+    },
+    {
+        "title": "Belarus shuts down Russian oil pipeline to EU, despite Putin's warnings",
+        "domain": "theweek.com",
+        "category": "worldnews",
+        "link": "https://theweek.com/world/1007232/belarus-shuts-down-russian-oil-pipeline-to-eu-despite-putins-warnings",
+        "sentiment": -3,
+        "timestamp": 1637183742,
+        "published": "November 17, 2021 4:15 PM"
+    },
+    {
+        "title": "Canada halts import of goods linked to forced labour from China, Malaysia",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/canada-stop-forced-labour-imports-1.6252283",
+        "sentiment": -1,
+        "timestamp": 1637184170,
+        "published": "November 17, 2021 4:22 PM"
+    },
+    {
+        "title": "House censures Rep. Gosar for violent video in rare rebuke",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-entertainment-marjorie-taylor-greene-censures-alexandria-ocasio-cortez-854fd412b7a1049c8fb9a83fe2c56b8f",
+        "sentiment": -3,
+        "timestamp": 1637184929,
+        "published": "November 17, 2021 4:35 PM"
+    },
+    {
+        "title": "Elizabeth Warren Urges Biden to Free People Imprisoned on Marijuana Charges",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/elizabeth-warren-urges-biden-to-free-people-imprisoned-on-marijuana-charges/?utm_source=sillychillly",
+        "sentiment": -3,
+        "timestamp": 1637185005,
+        "published": "November 17, 2021 4:36 PM"
+    },
+    {
+        "title": "Canzano: ESPN focuses -- says it is working to fix fuzzy Pac-12 football broadcasts",
+        "domain": "oregonlive.com",
+        "category": "television",
+        "link": "https://www.oregonlive.com/sports/john_canzano/2021/11/canzano-espn-focuses-says-it-is-working-to-fix-fuzzy-pac-12-football-broadcasts.html",
+        "sentiment": 0,
+        "timestamp": 1637185101,
+        "published": "November 17, 2021 4:38 PM"
+    },
+    {
         "title": "Steve Bannon pleading not guilty to contempt of Congress charges",
         "domain": "cnn.com",
         "category": "news",
