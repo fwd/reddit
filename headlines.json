@@ -1,5 +1,86 @@
 [
     {
+        "title": "GOP Rep Cheerfully Takes Credit For BIF After Voting Against It",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/gary-palmer-credit-bif-vote-against",
+        "sentiment": 2,
+        "timestamp": 1637162319,
+        "published": "November 17, 2021 10:18 AM"
+    },
+    {
+        "title": "Biden asks for investigation into whether oil companies are illegally increasing prices",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/energy-environment/581933-biden-asks-for-investigation-into-whether-oil-companies-are",
+        "sentiment": -3,
+        "timestamp": 1637163288,
+        "published": "November 17, 2021 10:34 AM"
+    },
+    {
+        "title": "UK fighting hacking epidemic as Russian ransomware attacks increase",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2021/nov/17/uk-tackles-record-cyber-incidents-as-russian-ransomware-attacks-increase",
+        "sentiment": -2,
+        "timestamp": 1637173013,
+        "published": "November 17, 2021 1:16 PM"
+    },
+    {
+        "title": "Trump says he will 'never ever' endorse any Republican who votes for Biden's Build Back Better plan",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/trump-threatens-not-to-endorse-republicans-who-support-bidens-agenda-2021-11",
+        "sentiment": 4,
+        "timestamp": 1637174160,
+        "published": "November 17, 2021 1:36 PM"
+    },
+    {
+        "title": "Japan 'driverless' bullet train stops on a dime during maiden test | JR East hails results as it prepares for looming operator shortage",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Technology/Japan-driverless-bullet-train-stops-on-a-dime-during-maiden-test",
+        "sentiment": -4,
+        "timestamp": 1637175606,
+        "published": "November 17, 2021 2:00 PM"
+    },
+    {
+        "title": "Judge at Rittenhouse trial blasts media coverage of him",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/0e4b6ad5a286af9ddbb8c8546550f1dc",
+        "sentiment": 0,
+        "timestamp": 1637176368,
+        "published": "November 17, 2021 2:12 PM"
+    },
+    {
+        "title": "Black man stomped by South Carolina officer gets $650K",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/black-man-stomped-south-carolina-officer-650k-81232845",
+        "sentiment": 0,
+        "timestamp": 1637178193,
+        "published": "November 17, 2021 2:43 PM"
+    },
+    {
+        "title": "Randall Park Stars In Blockbuster Video Store Comedy Series Ordered By Netflix From ‘Superstore’ Duo, David Caspe & Davis Entertainment",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/randall-park-blockbuster-video-store-comedy-series-netflix-from-superstore-duo-david-caspe-1234876166/",
+        "sentiment": 4,
+        "timestamp": 1637179302,
+        "published": "November 17, 2021 3:01 PM"
+    },
+    {
+        "title": "‘Letterkenny” Season 10 Premiere Date on Hulu — 26th December 2021",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/17/letterkenny-season-10-premiere-date-hulu/",
+        "sentiment": 0,
+        "timestamp": 1637180268,
+        "published": "November 17, 2021 3:17 PM"
+    },
+    {
         "title": "US reportedly plans diplomatic boycott of China’s Winter Olympics | Winter Olympics",
         "domain": "theguardian.com",
         "category": "worldnews",
