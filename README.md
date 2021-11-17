@@ -8,7 +8,9 @@ Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
 **Sentiment**: Data includes sentiment score. We use a AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of input text.
 
-**Source:** Headlines are compiled from Reddit.com every 24 hours. Please note, 'published' data point is when it was published on Reddit, not the article's published date.
+**Source:** Headlines are compiled from Reddit.com every 1 hour. Please note, 'published' data point is when a headline was published on Reddit, not the article's website.
+
+**Subreddits**: r/news, r/worldnews, r/technology, r/television, r/entertaiment, r/politics
 
 ## Keep Project Alive
 
