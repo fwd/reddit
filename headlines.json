@@ -1,5 +1,68 @@
 [
     {
+        "title": "GOP Gov. Hogan accuses Trump of cancel culture for criticizing pro-infrastructure House Republicans",
+        "domain": "foxnews.com",
+        "category": "politics",
+        "link": "https://www.foxnews.com/politics/gop-gov-hogan-accuses-trump-of-cancel-culture-for-criticizing-pro-infrastructure-house-republicans",
+        "sentiment": -5,
+        "timestamp": 1637219720,
+        "published": "November 18, 2021 2:15 AM"
+    },
+    {
+        "title": "US travel advisory flags rape in India, asks American visitors to exercise 'increased caution'",
+        "domain": "theprint.in",
+        "category": "worldnews",
+        "link": "https://theprint.in/diplomacy/us-travel-advisory-flags-rape-in-india-asks-american-visitors-to-exercise-increased-caution/767463/",
+        "sentiment": -4,
+        "timestamp": 1637226971,
+        "published": "November 18, 2021 4:16 AM"
+    },
+    {
+        "title": "Baby Elephant Dies After Losing Her Trunk to a Poacher’s Trap",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en_us/article/v7deb9/baby-elephant-dies-after-losing-her-trunk",
+        "sentiment": -4,
+        "timestamp": 1637227864,
+        "published": "November 18, 2021 4:31 AM"
+    },
+    {
+        "title": "US cars mandated to spot drunk drivers—and stop them",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-cars-mandated-drunk-driversand.html",
+        "sentiment": -3,
+        "timestamp": 1637229121,
+        "published": "November 18, 2021 4:52 AM"
+    },
+    {
+        "title": "Let’s Stop Handing the Pentagon Blank Checks",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/economy/pentagon-budget-spending/",
+        "sentiment": -1,
+        "timestamp": 1637229824,
+        "published": "November 18, 2021 5:03 AM"
+    },
+    {
+        "title": "SSE announces $16.8bn investment to expedite net-zero efforts",
+        "domain": "power-technology.com",
+        "category": "technology",
+        "link": "https://www.power-technology.com/news/sse-investment-net-zero/",
+        "sentiment": 0,
+        "timestamp": 1637232134,
+        "published": "November 18, 2021 5:42 AM"
+    },
+    {
+        "title": "Streamlabs will drop ‘OBS’ name after getting called out by open-source app",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/17/22788051/streamlabs-quickly-drops-obs-name-called-out",
+        "sentiment": -1,
+        "timestamp": 1637234195,
+        "published": "November 18, 2021 6:16 AM"
+    },
+    {
         "title": "Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges",
         "domain": "bbc.co.uk",
         "category": "news",
