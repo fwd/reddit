@@ -10,11 +10,11 @@ Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
 **Source:** Headlines are compiled from Reddit.com every 1 hour. Please note, 'published' data point is when a headline was published on Reddit, not the article's website.
 
-**Subreddits**: r/news, r/worldnews, r/technology, r/television, r/entertaiment, r/politics
+**Subreddits**: r/news, r/worldnews, r/technology, r/television, r/entertaiment, r/politics, r/sports
 
-## Have custom scraping needs? 
+## Need Custom Scraping?
 
-We're a software company in Miami, Florida. We work all over the world projects large and small. We usually accept most Crypto. Reach out @ hello@fwd.dev 
+We're a software company based out of Miami, Florida, US. We work on projects all over the world projects, large and small. We accept most Crypto. Reach out @ hello@fwd.dev 
 
 ## Donate
 
