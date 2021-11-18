@@ -2,9 +2,7 @@
 
 For research purposes. Available in JSON format. 
 
-See **headlines.json** file for dataset. 
-
-See **script.JS** file scrape script.  
+See **headlines.json** file for dataset. And **script.js** file for scraping script written in javascript.  
 
 Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
@@ -40,4 +38,4 @@ D9U1FLygkMydx3DE2sXgnuFpHm7ePm3Zwe
 
 ## Github Stars
 
-[![Stargazers over time](https://starchart.cc/fwd/news)](https://starchart.cc/fwd/news.svg)
+[![Stargazers over time](https://starchart.cc/fwd/news.svg)](https://starchart.cc/fwd/news)
