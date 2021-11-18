@@ -1,5 +1,113 @@
 [
     {
+        "title": "Oil prices are finally falling. Thank China and Joe Biden",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/18/investing/premarket-stocks-trading/index.html",
+        "sentiment": 1,
+        "timestamp": 1637251389,
+        "published": "November 18, 2021 11:03 AM"
+    },
+    {
+        "title": "Poll: 46 percent say Biden has done less than expected since entering office",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/hilltv/what-americas-thinking/581547-poll-more-voters-say-biden-has-done-less-than-expected-since",
+        "sentiment": 0,
+        "timestamp": 1637251520,
+        "published": "November 18, 2021 11:05 AM"
+    },
+    {
+        "title": "ABC's Jonathan Karl Says Top Republicans Privately Bashed Paul Gosar As 'Not All There'",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/jon-karl-paul-gosar-republicans-censure_n_6195c513e4b07fe2010644fc",
+        "sentiment": 2,
+        "timestamp": 1637251854,
+        "published": "November 18, 2021 11:10 AM"
+    },
+    {
+        "title": "Nearly 15,000 Yemeni Huthi fighters have been killed near the strategic city of Marib since June, sources close to the rebels said Thursday, in a rare admission of their casualties during the seven-year war",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211118-yemen-huthis-say-nearly-15-000-rebels-killed-since-mid-june",
+        "sentiment": -7,
+        "timestamp": 1637254046,
+        "published": "November 18, 2021 11:47 AM"
+    },
+    {
+        "title": "Canada floods leave thousands of farm animals dead and more trapped | Torrential rains pummelled swathes of western Canada’s British Columbia and Washington state in the US in recent days – dumping a month’s worth of rain in two days in some areas",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/18/canada-floods-leave-thousands-of-farm-animals-dead-and-more-trapped",
+        "sentiment": -4,
+        "timestamp": 1637254901,
+        "published": "November 18, 2021 12:01 PM"
+    },
+    {
+        "title": "Judge rejects Bannon effort to slow walk contempt case",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948",
+        "sentiment": -3,
+        "timestamp": 1637258064,
+        "published": "November 18, 2021 12:54 PM"
+    },
+    {
+        "title": "China prioritizes local chip needs during global crunch | Foreign players face capacity squeeze after recent power disruptions",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Tech/Semiconductors/China-prioritizes-local-chip-needs-during-global-crunch",
+        "sentiment": -2,
+        "timestamp": 1637258189,
+        "published": "November 18, 2021 12:56 PM"
+    },
+    {
+        "title": "10 anti-coup protesters shot dead in Sudan capital, say medics",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/17/africa/sudan-protests-five-killed-intl/index.html",
+        "sentiment": -5,
+        "timestamp": 1637258729,
+        "published": "November 18, 2021 1:05 PM"
+    },
+    {
+        "title": "Chloé Zhao To EP Vincent Chin Series From Participant",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/chloe-zhao-ep-vincent-chin-series-participant-1234876643/",
+        "sentiment": 0,
+        "timestamp": 1637258914,
+        "published": "November 18, 2021 1:08 PM"
+    },
+    {
+        "title": "How Cellphone Data Collected for Advertising Landed at U.S. Government Agencies",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/mobilewalla-says-data-it-gathered-from-consumers-cellphones-ended-up-with-government-11637242202",
+        "sentiment": 0,
+        "timestamp": 1637261180,
+        "published": "November 18, 2021 1:46 PM"
+    },
+    {
+        "title": "Mahatma Gandhi’s statue in Melbourne vandalised day after it was unveiled",
+        "domain": "scroll.in",
+        "category": "worldnews",
+        "link": "https://scroll.in/latest/1010618/mahatma-gandhis-statue-in-melbourne-vandalised-day-after-it-was-unveiled",
+        "sentiment": 0,
+        "timestamp": 1637261821,
+        "published": "November 18, 2021 1:57 PM"
+    },
+    {
+        "title": "Canadian police arrest teen for stealing $36.5 million in cryptocurrency",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/canada-cryptocurrency-arrest-171617452.html",
+        "sentiment": -4,
+        "timestamp": 1637263351,
+        "published": "November 18, 2021 2:22 PM"
+    },
+    {
         "title": "Psaki says Kamala Harris 'absolutely' faces more criticism because she's the first woman and first woman of color to be vice president",
         "domain": "businessinsider.com",
         "category": "politics",
