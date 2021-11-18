@@ -1,5 +1,95 @@
 [
     {
+        "title": "Lauren Boebert Went Full Racist Conspiracy Theory Against Ilhan Omar",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/jgm8dx/lauren-boebert-racist-conspiracy-theory-against-ilhan-omar",
+        "sentiment": -6,
+        "timestamp": 1637267743,
+        "published": "November 18, 2021 3:35 PM"
+    },
+    {
+        "title": "The Premier League and NBCUniversal, via the NBC Sports Group, have today announced a new six-year broadcast deal in the United States. The agreement, which will see NBC Sports remain the Premier League’s official broadcast partner in the US until 2028, will cover all 380 matches every season.",
+        "domain": "premierleague.com",
+        "category": "television",
+        "link": "https://www.premierleague.com/news/2356002",
+        "sentiment": 2,
+        "timestamp": 1637268829,
+        "published": "November 18, 2021 3:53 PM"
+    },
+    {
+        "title": "Elizabeth Warren Releases Blueprint to End 'Free Ride' for Tax-Dodging US Billionaires",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/18/elizabeth-warren-releases-blueprint-end-free-ride-tax-dodging-us-billionaires",
+        "sentiment": 0,
+        "timestamp": 1637269598,
+        "published": "November 18, 2021 4:06 PM"
+    },
+    {
+        "title": "SpaceX details plan to build Mars Base Alpha with reusable Starship rockets",
+        "domain": "teslarati.com",
+        "category": "technology",
+        "link": "https://www.teslarati.com/spacex-starship-mars-base-alpha-construction-plan/",
+        "sentiment": 0,
+        "timestamp": 1637269716,
+        "published": "November 18, 2021 4:08 PM"
+    },
+    {
+        "title": "The Pattern of GOP Voter Fraud - In case after case from 2020, it turns out that Republicans were the ones misbehaving at the ballot box",
+        "domain": "thebulwark.com",
+        "category": "politics",
+        "link": "https://www.thebulwark.com/the-pattern-of-gop-voter-fraud/",
+        "sentiment": -6,
+        "timestamp": 1637270003,
+        "published": "November 18, 2021 4:13 PM"
+    },
+    {
+        "title": "Germany moves to legalise cannabis in economy-boosting bid after Merkel departure",
+        "domain": "express.co.uk",
+        "category": "worldnews",
+        "link": "https://www.express.co.uk/news/world/1523645/germany-news-legalise-cannabis-economy-angela-merkel",
+        "sentiment": 0,
+        "timestamp": 1637271134,
+        "published": "November 18, 2021 4:32 PM"
+    },
+    {
+        "title": "Chris Hadfield says more regulations needed to protect astronauts from space debris",
+        "domain": "cbc.ca",
+        "category": "technology",
+        "link": "https://www.cbc.ca/radio/thecurrent/the-current-for-nov-18-2021-1.6253610/chris-hadfield-says-more-regulations-needed-to-protect-astronauts-from-space-debris-1.6254255",
+        "sentiment": 1,
+        "timestamp": 1637271184,
+        "published": "November 18, 2021 4:33 PM"
+    },
+    {
+        "title": "Physicist who found a way to trap light wins $1M science prize",
+        "domain": "cbc.ca",
+        "category": "technology",
+        "link": "https://www.cbc.ca/news/science/sajeev-john-herzberg-medal-1.6251055",
+        "sentiment": 3,
+        "timestamp": 1637271876,
+        "published": "November 18, 2021 4:44 PM"
+    },
+    {
+        "title": "Placing solar power on 43% of US landfills could meet ~5% of electricity needs, while generating up to $6.6 billion per year in revenue",
+        "domain": "pv-magazine-usa.com",
+        "category": "technology",
+        "link": "https://pv-magazine-usa.com/2021/11/18/landfills-could-host-more-than-60-gw-of-solar-rmi-says/",
+        "sentiment": 0,
+        "timestamp": 1637273064,
+        "published": "November 18, 2021 5:04 PM"
+    },
+    {
+        "title": "Jury in Rittenhouse murder trial ends third day of deliberations without verdict",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/jury-rittenhouse-murder-trial-deliberate-third-day-wisconsin-court-2021-11-18/?taid=6196830fdc1696000175212d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "sentiment": -3,
+        "timestamp": 1637274094,
+        "published": "November 18, 2021 5:21 PM"
+    },
+    {
         "title": "Judge bans MSNBC from Kenosha courthouse after report of producer following jurors",
         "domain": "nytimes.com",
         "category": "politics",
