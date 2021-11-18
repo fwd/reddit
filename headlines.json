@@ -1,5 +1,95 @@
 [
     {
+        "title": "Emergency funds help kitten found with his paws nearly cut off",
+        "domain": "newschannel5.com",
+        "category": "news",
+        "link": "https://www.newschannel5.com/news/emergency-funds-help-kitten-found-with-his-paws-nearly-cut-off",
+        "sentiment": -1,
+        "timestamp": 1637228287,
+        "published": "November 18, 2021 4:38 AM"
+    },
+    {
+        "title": "Schrier Buys up to $1 Million in Apple Stock: She reported the purchase months after making it, an apparent violation of federal law.",
+        "domain": "prospect.org",
+        "category": "politics",
+        "link": "https://prospect.org/power/schrier-buys-up-to-1-million-in-apple-stock/",
+        "sentiment": -2,
+        "timestamp": 1637230617,
+        "published": "November 18, 2021 5:16 AM"
+    },
+    {
+        "title": "Philippines tells China to 'back off' after South China Sea standoff",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/china/philippines-tells-china-back-after-south-china-sea-standoff-n1284077",
+        "sentiment": 0,
+        "timestamp": 1637233669,
+        "published": "November 18, 2021 6:07 AM"
+    },
+    {
+        "title": "Thousands of Phone Numbers Exposed in Robinhood Hack",
+        "domain": "pcmag.com",
+        "category": "technology",
+        "link": "https://www.pcmag.com/news/thousands-of-phone-numbers-exposed-in-robinhood-hack",
+        "sentiment": -1,
+        "timestamp": 1637234534,
+        "published": "November 18, 2021 6:22 AM"
+    },
+    {
+        "title": "'If You Care About Inflation,' Says Jayapal, 'Then Pass the Build Back Better Act' | \"Let's cut child care costs in half, let's cut prescription drug pricing costs significantly... Those are the things that are going to cut costs for Americans.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/17/if-you-care-about-inflation-says-jayapal-then-pass-build-back-better-act",
+        "sentiment": 3,
+        "timestamp": 1637235288,
+        "published": "November 18, 2021 6:34 AM"
+    },
+    {
+        "title": "Pakistan passes anti-rape bill allowing chemical castration",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/18/asia/pakistan-rape-chemical-castration-intl-hnk/index.html?utm_content=2021-11-18T08%3A20%3A07&utm_source=twCNN&utm_medium=social&utm_term=link",
+        "sentiment": 0,
+        "timestamp": 1637235740,
+        "published": "November 18, 2021 6:42 AM"
+    },
+    {
+        "title": "Donald Trump Continues to Stoke a Domestic Terrorism Movement",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/11/trump-domestic-terrorism-january-6/",
+        "sentiment": 0,
+        "timestamp": 1637235837,
+        "published": "November 18, 2021 6:43 AM"
+    },
+    {
+        "title": "Sanders Says Deficit Concerns 'Seem to Melt Away' When It's Time to Fill Pentagon Coffers",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/18/sanders-says-deficit-concerns-seem-melt-away-when-its-time-fill-pentagon-coffers",
+        "sentiment": -2,
+        "timestamp": 1637237959,
+        "published": "November 18, 2021 7:19 AM"
+    },
+    {
+        "title": "New Electric Propulsion Engine For Spacecraft Test-Fired in Orbit For First Time",
+        "domain": "sciencealert.com",
+        "category": "technology",
+        "link": "https://www.sciencealert.com/iodine-spacecraft-propulsion-has-been-tested-in-orbit",
+        "sentiment": 0,
+        "timestamp": 1637238292,
+        "published": "November 18, 2021 7:24 AM"
+    },
+    {
+        "title": "Russian Disinformation Is Taking Hold in Africa",
+        "domain": "cigionline.org",
+        "category": "technology",
+        "link": "https://www.cigionline.org/articles/russian-disinformation-is-taking-hold-in-africa/",
+        "sentiment": 0,
+        "timestamp": 1637239678,
+        "published": "November 18, 2021 7:47 AM"
+    },
+    {
         "title": "GOP Gov. Hogan accuses Trump of cancel culture for criticizing pro-infrastructure House Republicans",
         "domain": "foxnews.com",
         "category": "politics",
