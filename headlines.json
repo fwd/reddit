@@ -1,5 +1,95 @@
 [
     {
+        "title": "U.S. holds historic oil and gas lease sale in Gulf of Mexico days after climate summit",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/17/us-holds-oil-and-gas-lease-sale-in-gulf-of-mexico-after-cop26.html",
+        "sentiment": 0,
+        "timestamp": 1637185565,
+        "published": "November 17, 2021 4:46 PM"
+    },
+    {
+        "title": "Anger as Boebert refers to ‘jihad squad’ in debate about Republican video depicting murder of AOC",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-paul-gosar-jihad-squad-b1959707.html",
+        "sentiment": -5,
+        "timestamp": 1637186723,
+        "published": "November 17, 2021 5:05 PM"
+    },
+    {
+        "title": "IATSE Vote Leaves Bitter Taste for Many Members",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/film/news/iatse-vote-mathew-loeb-bitter-taste-1235113733/",
+        "sentiment": -2,
+        "timestamp": 1637186741,
+        "published": "November 17, 2021 5:05 PM"
+    },
+    {
+        "title": "‘Hello Tomorrow!’: Jacki Weaver Joins Billy Crudup In Apple Retro-Future Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/hello-tomorrow-jacki-weaver-billy-crudup-apple-series-1234876356/",
+        "sentiment": 0,
+        "timestamp": 1637188851,
+        "published": "November 17, 2021 5:40 PM"
+    },
+    {
+        "title": "Israel Hasn't Provided Evidence on Palestinian NGOs It Labeled as Terror Groups, EU Foreign Minister Says",
+        "domain": "haaretz.com",
+        "category": "worldnews",
+        "link": "https://www.haaretz.com/israel-news/.premium-eu-israel-didn-t-provide-evidence-on-palestinian-ngos-labeled-terror-groups-1.10395713",
+        "sentiment": -3,
+        "timestamp": 1637189218,
+        "published": "November 17, 2021 5:46 PM"
+    },
+    {
+        "title": "Kyle Rittenhouse trial: Jurors complete second day of deliberations",
+        "domain": "wftv.com",
+        "category": "news",
+        "link": "https://www.wftv.com/news/trending/kyle-rittenhouse-trial-jurors-return-second-day-deliberations/MA5BFKPJ75H53HXCIUKTMTZRF4/",
+        "sentiment": 0,
+        "timestamp": 1637189834,
+        "published": "November 17, 2021 5:57 PM"
+    },
+    {
+        "title": "Watchdog finds no money has flowed out of agency tasked by Trump admin. to fight pandemic",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582046-watchdog-finds-no-money-has-flowed-out-of-agency-tasked-by-trump-to",
+        "sentiment": -2,
+        "timestamp": 1637190455,
+        "published": "November 17, 2021 6:07 PM"
+    },
+    {
+        "title": "Lil Nas X made a 21 minute long fake episode of Maury (complete with Maury himself) in order to pay off a five second bit in his last music video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=VGX8T_4fY_o",
+        "sentiment": -4,
+        "timestamp": 1637191622,
+        "published": "November 17, 2021 6:27 PM"
+    },
+    {
+        "title": "Hamilton teen accused of stealing $46M worth of cryptocurrency, buying 'rare' online gaming name",
+        "domain": "cp24.com",
+        "category": "technology",
+        "link": "https://www.cp24.com/news/hamilton-teen-accused-of-stealing-46m-worth-of-cryptocurrency-buying-rare-online-gaming-name-1.5669961",
+        "sentiment": -2,
+        "timestamp": 1637191930,
+        "published": "November 17, 2021 6:32 PM"
+    },
+    {
+        "title": "The most powerful telescope ever built is about to change how we see the universe",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/11/15/world/james-webb-space-telescope-explainer-scn/index.html",
+        "sentiment": 2,
+        "timestamp": 1637193228,
+        "published": "November 17, 2021 6:53 PM"
+    },
+    {
         "title": "Helicopters drop food for Canadian flood victims, more rain expected",
         "domain": "reuters.com",
         "category": "worldnews",
