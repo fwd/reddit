@@ -1,5 +1,68 @@
 [
     {
+        "title": "Idaho Lawmaker Is Censured for Doxxing Intern Who Reported Rape",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/17/us/priscilla-giddings-idaho-doxxing.html",
+        "sentiment": -4,
+        "timestamp": 1637187944,
+        "published": "November 17, 2021 5:25 PM"
+    },
+    {
+        "title": "TikTok May Owe You a Chunk of Its $92 Million Data Breach Settlement",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/tiktok-may-owe-you-a-chunk-of-its-92-million-data-brea-1848078505",
+        "sentiment": -1,
+        "timestamp": 1637193940,
+        "published": "November 17, 2021 7:05 PM"
+    },
+    {
+        "title": "3 months since Taliban takeover, Afghanistan hunger crisis leaves children emaciated -- The number of Afghans living in near-famine conditions has risen to 8.7 million",
+        "domain": "usatoday.com",
+        "category": "worldnews",
+        "link": "https://www.usatoday.com/story/news/world/2021/11/15/afghanistan-hunger-crisis-leaves-children-emaciated-under-taliban-rule/8586866002/",
+        "sentiment": -5,
+        "timestamp": 1637194889,
+        "published": "November 17, 2021 7:21 PM"
+    },
+    {
+        "title": "Two Climate Activists Halt Operations at World's Largest Coal Port | \"It is now our duty to defend the biosphere that gives us life and to every person that Australia has forgotten and ignored,\" said Hannah Doole of the campaign group Blockade Australia.",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2021/11/17/two-climate-activists-halt-operations-worlds-largest-coal-port",
+        "sentiment": -5,
+        "timestamp": 1637195037,
+        "published": "November 17, 2021 7:23 PM"
+    },
+    {
+        "title": "Massachusetts Senate approves sweeping mental health bill",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-health-massachusetts-mental-health-09b1424982827985c8480b26ecc92b32",
+        "sentiment": 2,
+        "timestamp": 1637197412,
+        "published": "November 17, 2021 8:03 PM"
+    },
+    {
+        "title": "‘Tiger King’ Season 2 Is a Dull Rehash of a Show That Should’ve Stayed in Quarantine",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/reviews/tiger-king-2-review-netflix-1235114746/",
+        "sentiment": -2,
+        "timestamp": 1637197610,
+        "published": "November 17, 2021 8:06 PM"
+    },
+    {
+        "title": "Apple will let iPhone users repair their own devices",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/11/17/tech/apple-iphone-right-to-repair/index.html",
+        "sentiment": 0,
+        "timestamp": 1637197821,
+        "published": "November 17, 2021 8:10 PM"
+    },
+    {
         "title": "U.S. holds historic oil and gas lease sale in Gulf of Mexico days after climate summit",
         "domain": "cnbc.com",
         "category": "news",
