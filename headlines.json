@@ -1,5 +1,77 @@
 [
     {
+        "title": "Japan looks to accept more foreigners in key policy shift",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/china/major-shift-japan-looking-accept-more-foreigners-indefinitely-2021-11-18/",
+        "sentiment": 1,
+        "timestamp": 1637222666,
+        "published": "November 18, 2021 3:04 AM"
+    },
+    {
+        "title": "After Years of Injustice, Black Farmers Had a Shot at Debt Relief. Then Stephen Miller Stepped In.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/food/2021/11/black-farmers-debt-relief-stephen-miller-usda-loans-discrimination/",
+        "sentiment": -4,
+        "timestamp": 1637235404,
+        "published": "November 18, 2021 6:36 AM"
+    },
+    {
+        "title": "Starbucks and Amazon are opening cashierless coffee shop in Manhattan.",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/18/starbucks-opens-pickup-store-with-amazon-go-technology-in-manhattan.html",
+        "sentiment": 0,
+        "timestamp": 1637238288,
+        "published": "November 18, 2021 7:24 AM"
+    },
+    {
+        "title": "Pakistani government approves chemical castration of rape convicts",
+        "domain": "timesofislamabad.com",
+        "category": "worldnews",
+        "link": "https://timesofislamabad.com/18-Nov-2021/pakistani-government-approves-chemical-castration-of-rape-convicts",
+        "sentiment": -2,
+        "timestamp": 1637238326,
+        "published": "November 18, 2021 7:25 AM"
+    },
+    {
+        "title": "Trump and his regime committed — or at least condoned — mass murder. America just doesn't care",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/18/and-his-regime-committed--or-at-least-condoned--mass-murder-america-just-doesnt-care/",
+        "sentiment": -3,
+        "timestamp": 1637238583,
+        "published": "November 18, 2021 7:29 AM"
+    },
+    {
+        "title": "Christian Hall, teen in mental health crisis had hands up when shot by Pa. State Police, new videos show",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/christian-hall-pennsylvania-police-shooting-video-rcna5626",
+        "sentiment": -3,
+        "timestamp": 1637239739,
+        "published": "November 18, 2021 7:48 AM"
+    },
+    {
+        "title": "Prosecutors rest their case in trial of three men accused of killing Ahmaud Arbery",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/16/us/ahmaud-arbery-killing-trial-day-8-tuesday/index.html",
+        "sentiment": -5,
+        "timestamp": 1637240561,
+        "published": "November 18, 2021 8:02 AM"
+    },
+    {
+        "title": "Randall Park to Star in Netflix Comedy Series Set at Last Blockbuster",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/randall-park-blockbuster-netflix-series-vanessa-ramos-1235114492/",
+        "sentiment": 4,
+        "timestamp": 1637242751,
+        "published": "November 18, 2021 8:39 AM"
+    },
+    {
         "title": "Emergency funds help kitten found with his paws nearly cut off",
         "domain": "newschannel5.com",
         "category": "news",
