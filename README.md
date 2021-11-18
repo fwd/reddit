@@ -14,7 +14,7 @@ Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
 ## Need Custom Scraping?
 
-We're a software company based out of Miami, Florida, US. We work on projects all over the world projects, large and small. We accept most Crypto. Reach out @ hello@fwd.dev 
+We're a software company based out of Miami, Florida, US. We work on projects all over the world, large and small. We accept most Crypto. Everything is done on Github. Reach out @ hello@fwd.dev 
 
 ## Donate
 
