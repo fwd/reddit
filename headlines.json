@@ -1,5 +1,104 @@
 [
     {
+        "title": "London's Royal Institution shuts door on French far-right commentator Zemmour",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/londons-royal-institution-shuts-door-french-far-right-commentator-zemmour-2021-11-18/",
+        "sentiment": 0,
+        "timestamp": 1637232508,
+        "published": "November 18, 2021 5:48 AM"
+    },
+    {
+        "title": "State of emergency declared after Canada storm - BBC News",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-59324764.amp",
+        "sentiment": -2,
+        "timestamp": 1637242087,
+        "published": "November 18, 2021 8:28 AM"
+    },
+    {
+        "title": "A million Afghan children at risk of dying amid acute malnutrition, WHO says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/who-says-million-afghan-children-risk-dying-amid-acute-malnutrition-2021-11-12/",
+        "sentiment": -5,
+        "timestamp": 1637245035,
+        "published": "November 18, 2021 9:17 AM"
+    },
+    {
+        "title": "Rupert Murdoch Belatedly Gets Tired of Trump’s Whining About the Election",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/rupert-murdoch-belatedly-gets-tired-of-trumps-whining-about-the-election",
+        "sentiment": -2,
+        "timestamp": 1637245899,
+        "published": "November 18, 2021 9:31 AM"
+    },
+    {
+        "title": "Gabon is last bastion of endangered African forest elephants",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/science-africa-environment-and-nature-forests-environment-2fc74761dac498146018192ecc830516",
+        "sentiment": 0,
+        "timestamp": 1637247010,
+        "published": "November 18, 2021 9:50 AM"
+    },
+    {
+        "title": "Promising future mRNA Vaccine against Ticks on early stages",
+        "domain": "science.org",
+        "category": "news",
+        "link": "https://www.science.org/doi/10.1126/scitranslmed.abj9827",
+        "sentiment": 0,
+        "timestamp": 1637248887,
+        "published": "November 18, 2021 10:21 AM"
+    },
+    {
+        "title": "French dictionary adds non-binary pronoun, sparking anger",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/18/europe/french-dictionary-non-binary-scli-intl/index.html",
+        "sentiment": -3,
+        "timestamp": 1637249154,
+        "published": "November 18, 2021 10:25 AM"
+    },
+    {
+        "title": "Democrat calls on Pentagon to strip Michael Flynn of his pension, calling him a ‘traitor’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-dod-michael-flynn-pension-b1960162.html",
+        "sentiment": 0,
+        "timestamp": 1637249684,
+        "published": "November 18, 2021 10:34 AM"
+    },
+    {
+        "title": "The internet is hooked on packages. Hackers have noticed",
+        "domain": "readme.security",
+        "category": "technology",
+        "link": "https://readme.security/the-internet-is-hooked-on-packages-hackers-have-noticed-7de3e6f50728",
+        "sentiment": 0,
+        "timestamp": 1637250149,
+        "published": "November 18, 2021 10:42 AM"
+    },
+    {
+        "title": "Fire Marshall Bill In The Hospital - Jim Carrey in \"In Living Colour\"",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=8rQkjBuJD-4&ab_channel=TheWellOfDarkSouls",
+        "sentiment": -2,
+        "timestamp": 1637251254,
+        "published": "November 18, 2021 11:00 AM"
+    },
+    {
+        "title": "UN to Elon Musk: Here's that $6 billion plan to end world hunger",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/18/tech/elon-musk-world-hunger-wfp-donation/index.html",
+        "sentiment": -2,
+        "timestamp": 1637251577,
+        "published": "November 18, 2021 11:06 AM"
+    },
+    {
         "title": "Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.",
         "domain": "politico.com",
         "category": "politics",
