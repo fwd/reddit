@@ -1,5 +1,68 @@
 [
     {
+        "title": "Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-59328040",
+        "sentiment": -5,
+        "timestamp": 1637215889,
+        "published": "November 18, 2021 1:11 AM"
+    },
+    {
+        "title": "This new startup has built a record-breaking 256-qubit quantum computer",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2021/11/17/1040243/quantum-computer-256-bit-startup/",
+        "sentiment": 0,
+        "timestamp": 1637221216,
+        "published": "November 18, 2021 2:40 AM"
+    },
+    {
+        "title": "Mask-wearing cuts Covid incidence by 53%, says global study",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/17/wearing-masks-single-most-effective-way-to-tackle-covid-study-finds",
+        "sentiment": -1,
+        "timestamp": 1637228529,
+        "published": "November 18, 2021 4:42 AM"
+    },
+    {
+        "title": "US travel advisory flags rape in India, asks American visitors to exercise ‘increased caution’: In its latest travel advisory for American travellers coming to India, the US has highlighted “rape” as a major concern, thereby putting India in the ‘Level 2’ category of travel destinations.",
+        "domain": "theprint.in",
+        "category": "worldnews",
+        "link": "https://theprint.in/india/us-travel-advisory-flags-rape-in-india-asks-american-visitors-to-exercise-increased-caution/767463/",
+        "sentiment": -4,
+        "timestamp": 1637229089,
+        "published": "November 18, 2021 4:51 AM"
+    },
+    {
+        "title": "Pakistan passes anti-rape bill allowing chemical castration of repeat offenders",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/18/asia/pakistan-rape-chemical-castration-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1637229157,
+        "published": "November 18, 2021 4:52 AM"
+    },
+    {
+        "title": "Read how a facebook post incited a series of attacks on religious minorities in Bangladesh",
+        "domain": "lowyinstitute.org",
+        "category": "technology",
+        "link": "https://www.lowyinstitute.org/the-interpreter/minorities-under-attack-bangladesh",
+        "sentiment": -1,
+        "timestamp": 1637230240,
+        "published": "November 18, 2021 5:10 AM"
+    },
+    {
+        "title": "Omar Sy as ‘Lupin’ Wins Rose d’Or for Performance of the Year",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/omar-sy-lupin-rose-dor-performance-2021-1235049723/",
+        "sentiment": 5,
+        "timestamp": 1637232323,
+        "published": "November 18, 2021 5:45 AM"
+    },
+    {
         "title": "Israel surveils Palestinians in West Bank in massive facial recognition program - Israel News",
         "domain": "haaretz.com",
         "category": "worldnews",
