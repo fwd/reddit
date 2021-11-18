@@ -1,5 +1,77 @@
 [
     {
+        "title": "Bernie Sanders calls out Pelosi, Schumer for supporting tax break for rich people",
+        "domain": "foxbusiness.com",
+        "category": "politics",
+        "link": "https://www.foxbusiness.com/politics/bernie-sanders-calls-out-pelosi-schumer-for-supporting-tax-break-for-rich-people",
+        "sentiment": 3,
+        "timestamp": 1637260882,
+        "published": "November 18, 2021 1:41 PM"
+    },
+    {
+        "title": "Beto O'Rourke raises $2M in first 24 hours of launching campaign",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/11/17/beto-orourke-fundraising-election-governor/",
+        "sentiment": 0,
+        "timestamp": 1637261570,
+        "published": "November 18, 2021 1:52 PM"
+    },
+    {
+        "title": "‘We have fallen into a trap’: for hotel staff Qatar’s World Cup dream is a nightmare",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2021/nov/18/we-have-fallen-into-a-trap-for-hotel-staff-qatar-world-cup-dream-is-a-nightmare?",
+        "sentiment": -1,
+        "timestamp": 1637261788,
+        "published": "November 18, 2021 1:56 PM"
+    },
+    {
+        "title": "Hundreds of Iraqis fly home from Belarus, abandoning effort to reach EU",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/iraqis-fly-home-from-belarus-1.6253444",
+        "sentiment": 1,
+        "timestamp": 1637262207,
+        "published": "November 18, 2021 2:03 PM"
+    },
+    {
+        "title": "With supply short, Ford dips toe into computer chip business",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-business-ford-motor-co-0c9bdee289807e49ff430086023f7ef1",
+        "sentiment": 0,
+        "timestamp": 1637262558,
+        "published": "November 18, 2021 2:09 PM"
+    },
+    {
+        "title": "Markey Amendment Would Redirect 1% of Funds From 'Bloated' Pentagon to Address Climate Crisis",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/18/markey-amendment-would-redirect-1-funds-bloated-pentagon-address-climate-crisis",
+        "sentiment": -3,
+        "timestamp": 1637262923,
+        "published": "November 18, 2021 2:15 PM"
+    },
+    {
+        "title": "Intel's chip recovery plan could restore US manufacturing prowess",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/features/intels-chip-recovery-plan-could-restore-us-manufacturing-prowess/",
+        "sentiment": 1,
+        "timestamp": 1637263171,
+        "published": "November 18, 2021 2:19 PM"
+    },
+    {
+        "title": "Miramax sues Quentin Tarantino over planned 'Pulp Fiction' NFTs - Miramax said in a federal court filing that it owns \"nearly all\" of the rights to the film Tarantino wrote and directed",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/news/us-news/miramax-sues-quentin-tarantino-planned-pulp-fiction-nfts-rcna5802",
+        "sentiment": -2,
+        "timestamp": 1637264216,
+        "published": "November 18, 2021 2:36 PM"
+    },
+    {
         "title": "Oil prices are finally falling. Thank China and Joe Biden",
         "domain": "cnn.com",
         "category": "politics",
