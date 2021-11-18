@@ -1,5 +1,122 @@
 [
     {
+        "title": "UN envoy: Afghanistan on brink of `humanitarian catastrophe'",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/afghanistan-business-united-states-united-nations-economy-07e97d6ef6a99003d296f6d6f437af81",
+        "sentiment": 0,
+        "timestamp": 1637244664,
+        "published": "November 18, 2021 9:11 AM"
+    },
+    {
+        "title": "Rupert Murdoch Tells Trump to STFU About 2020",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/ruper-murdoch-donald-trump-living-in-the-past",
+        "sentiment": 0,
+        "timestamp": 1637245204,
+        "published": "November 18, 2021 9:20 AM"
+    },
+    {
+        "title": "Fury in Kashmir After Deadly Police Raid at Shopping Complex",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html",
+        "sentiment": -3,
+        "timestamp": 1637246905,
+        "published": "November 18, 2021 9:48 AM"
+    },
+    {
+        "title": "Lauren Boebert accuses Black Congresswoman of marrying her brother in House speech",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/lauren-boebert-accuses-black-congresswoman-marrying-brother-house-speech/",
+        "sentiment": -2,
+        "timestamp": 1637252110,
+        "published": "November 18, 2021 11:15 AM"
+    },
+    {
+        "title": "French lawmakers voted on Thursday to end wild animals being used in live circus shows, spelling an end to performing tigers, lions or bears. Performances of wild animals will be prohibited in two years and owning them outlawed in seven years",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211118-france-bans-wild-animals-in-circuses",
+        "sentiment": 0,
+        "timestamp": 1637254290,
+        "published": "November 18, 2021 11:51 AM"
+    },
+    {
+        "title": "Google signs 5-year deal to pay for news from AFP",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/google-signs-5-year-deal-pay-news-afp-2021-11-17/",
+        "sentiment": -1,
+        "timestamp": 1637254297,
+        "published": "November 18, 2021 11:51 AM"
+    },
+    {
+        "title": "Sanders Announces He’s Voting No on $778 Billion Defense Bill",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/sanders-announces-hes-voting-no-on-778-billion-defense-bill/",
+        "sentiment": -1,
+        "timestamp": 1637254412,
+        "published": "November 18, 2021 11:53 AM"
+    },
+    {
+        "title": "Get a first look at The Gilded Age, Julian Fellowes' much-anticipated new show coming to HBO Max January 22.",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/the-gilded-age-hbo-first-look-julian-fellowes/",
+        "sentiment": 0,
+        "timestamp": 1637254495,
+        "published": "November 18, 2021 11:54 AM"
+    },
+    {
+        "title": "Texts Show Kimberly Guilfoyle Bragged About Raising Millions for Rally That Fueled Capitol Riot",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/texts-show-kimberly-guilfoyle-bragged-about-raising-millions-for-rally-that-fueled-capitol-riot?utm_source=sailthru&utm_medium=email&utm_campaign=majorinvestigations&utm_content=feature",
+        "sentiment": -2,
+        "timestamp": 1637254559,
+        "published": "November 18, 2021 11:55 AM"
+    },
+    {
+        "title": "The Gilded Age | Official Teaser | HBO",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/ZYBuU32B8PI",
+        "sentiment": 0,
+        "timestamp": 1637254931,
+        "published": "November 18, 2021 12:02 PM"
+    },
+    {
+        "title": "Jesse Eisenberg Joins FX on Hulu Series 'Fleishman Is in Trouble'",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/jesse-eisenberg-lizzy-caplan-fleishman-is-in-trouble-fx-hulu-1235115134/",
+        "sentiment": 0,
+        "timestamp": 1637254951,
+        "published": "November 18, 2021 12:02 PM"
+    },
+    {
+        "title": "The Ocean Cleanup Proves Viability of Technology with System 002; Removal of Plastic from Great Pacific Garbage Patch to Begin Immediately • The Ocean Cleanup",
+        "domain": "theoceancleanup.com",
+        "category": "technology",
+        "link": "https://theoceancleanup.com/press/press-releases/the-ocean-cleanup-proves-viability-of-technology-with-system-002-removal-of-plastic-from-great-pacific-garbage-patch-to-begin-immediately/",
+        "sentiment": 2,
+        "timestamp": 1637255249,
+        "published": "November 18, 2021 12:07 PM"
+    },
+    {
+        "title": "Arbery's shooter admits he was not under any threat",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/ahmaud-arbery-georgia-brunswick-al-sharpton-3692e2b6351c528f5192158809cf595f",
+        "sentiment": -3,
+        "timestamp": 1637255865,
+        "published": "November 18, 2021 12:17 PM"
+    },
+    {
         "title": "Hindu hardliners have attacked and set fire to the home of a former Indian foreign minister. Salman Khurshid published a book last month in which he compared Hindu nationalism under Modi to extremist groups such as ISIL",
         "domain": "m.thewire.in",
         "category": "worldnews",
