@@ -1,5 +1,131 @@
 [
     {
+        "title": "Marjorie Taylor Greene says McCarthy promised committee assignments back if GOP wins House",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/marjorie-taylor-greene-says-mccarthy-promised-committee-assignments-back-if-gop-wins-house-1650572",
+        "sentiment": 5,
+        "timestamp": 1637238259,
+        "published": "November 18, 2021 7:24 AM"
+    },
+    {
+        "title": "China Evergrande ‘likely to default’ within months – S&P",
+        "domain": "asiamarkets.com",
+        "category": "worldnews",
+        "link": "https://www.asiamarkets.com/china-evergrande-likely-to-default-within-months-sp/",
+        "sentiment": 0,
+        "timestamp": 1637238909,
+        "published": "November 18, 2021 7:35 AM"
+    },
+    {
+        "title": "WE Charity misled donors about building schools in Kenya, records show | CBC News",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/we-charity-misled-donors-records-show-1.6251985",
+        "sentiment": 0,
+        "timestamp": 1637241011,
+        "published": "November 18, 2021 8:10 AM"
+    },
+    {
+        "title": "Feds launch a civil rights investigation into Texas school district",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/feds-launch-civil-rights-investigation-southlake-schools-4a35319c-2ff3-443e-ae12-9ed3e905a3fa.html",
+        "sentiment": 0,
+        "timestamp": 1637241171,
+        "published": "November 18, 2021 8:12 AM"
+    },
+    {
+        "title": "Tennis association questions authenticity of email attributed to missing Chinese athlete",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/peng-shuai-naomi-osaka-joins-calls-answers-metoo-allegations-rcna5827",
+        "sentiment": -2,
+        "timestamp": 1637242356,
+        "published": "November 18, 2021 8:32 AM"
+    },
+    {
+        "title": "‘You can’t buy wildlife once it’s dead’: Commission allows 550 residences on disputed Calusa golf course",
+        "domain": "local10.com",
+        "category": "news",
+        "link": "https://www.local10.com/news/local/2021/11/17/you-cant-buy-wildlife-once-its-dead-commissioners-vote-against-save-calusas-cause/",
+        "sentiment": -2,
+        "timestamp": 1637242378,
+        "published": "November 18, 2021 8:32 AM"
+    },
+    {
+        "title": "‘Zero-Covid is not going to happen’: experts predict a steep rise in US cases this winter",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/18/zero-covid-experts-predict-rise-us-cases-winter",
+        "sentiment": 1,
+        "timestamp": 1637243017,
+        "published": "November 18, 2021 8:43 AM"
+    },
+    {
+        "title": "City of Aurora will pay $15 million settlement over death of Elijah McClain",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/elijah-mcclain-settlement-aurora-to-pay-family-15-million/",
+        "sentiment": -2,
+        "timestamp": 1637243216,
+        "published": "November 18, 2021 8:46 AM"
+    },
+    {
+        "title": "Elon Musk says SpaceX will ‘hopefully’ launch first orbital Starship flight in January",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/17/elon-musk-spacex-will-hopefully-launch-starship-flight-in-january.html",
+        "sentiment": 0,
+        "timestamp": 1637243697,
+        "published": "November 18, 2021 8:54 AM"
+    },
+    {
+        "title": "F.B.I. Set Plan to Track Threats Against School Boards and Teachers",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html",
+        "sentiment": -2,
+        "timestamp": 1637244224,
+        "published": "November 18, 2021 9:03 AM"
+    },
+    {
+        "title": "Facebook’s “Metaverse” Must Be Stopped: \"Facebook founder Mark Zuckerberg's metaverse is no utopian vision — it's another opportunity for Big Tech to colonize our lives in the name of profit.\"",
+        "domain": "jacobinmag.com",
+        "category": "technology",
+        "link": "https://jacobinmag.com/2021/11/facebook-metaverse-mark-zuckerberg-play-to-earn-surveillance-tech-industry",
+        "sentiment": 4,
+        "timestamp": 1637244850,
+        "published": "November 18, 2021 9:14 AM"
+    },
+    {
+        "title": "REVIEW: COWBOY BEBOP struggles to find footing in the shadow of a giant",
+        "domain": "comicsbeat.com",
+        "category": "television",
+        "link": "https://www.comicsbeat.com/review-cowboy-bebop/",
+        "sentiment": -2,
+        "timestamp": 1637245521,
+        "published": "November 18, 2021 9:25 AM"
+    },
+    {
+        "title": "Apple, Drake and others face $750 million lawsuit over Astroworld deaths",
+        "domain": "appleinsider.com",
+        "category": "technology",
+        "link": "https://appleinsider.com/articles/21/11/18/apple-drake-and-others-face-750-million-lawsuit-over-astroworld-deaths",
+        "sentiment": -4,
+        "timestamp": 1637246208,
+        "published": "November 18, 2021 9:36 AM"
+    },
+    {
+        "title": "Spotify launches lyrics feature globally for free and paying users",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/18/22788998/spotify-lyrics-launches-globally-how-to-access",
+        "sentiment": 1,
+        "timestamp": 1637246583,
+        "published": "November 18, 2021 9:43 AM"
+    },
+    {
         "title": "Japan looks to accept more foreigners in key policy shift",
         "domain": "reuters.com",
         "category": "worldnews",
