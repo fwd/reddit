@@ -1,5 +1,131 @@
 [
     {
+        "title": "Psaki says Kamala Harris 'absolutely' faces more criticism because she's the first woman and first woman of color to be vice president",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/psaki-kamala-harris-absolutely-faces-more-criticism-because-shes-a-woman-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637252350,
+        "published": "November 18, 2021 11:19 AM"
+    },
+    {
+        "title": "Germany won't admit refugees from Belarus-Polish border — interior minister",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/germany-wont-admit-refugees-belarus-polish-border-interior-minister-2021-11-18/",
+        "sentiment": 1,
+        "timestamp": 1637254284,
+        "published": "November 18, 2021 11:51 AM"
+    },
+    {
+        "title": "Sanders Rips 'Hypocrisy' As Democrats Edge Closer to Tax Cuts for the Rich",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/sanders-democrat-hypocrisy-salt-tax-cuts-for-the-rich-biden-2021-11",
+        "sentiment": 1,
+        "timestamp": 1637254838,
+        "published": "November 18, 2021 12:00 PM"
+    },
+    {
+        "title": "Suicide prevention text hotline now available in the US.",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/media-telecom/us-allow-texting-new-988-suicide-prevention-hotline-2021-11-18/",
+        "sentiment": -2,
+        "timestamp": 1637256324,
+        "published": "November 18, 2021 12:25 PM"
+    },
+    {
+        "title": "Netflix’s ‘Lupin’ Part 3 Now Filming in Paris",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/netflix-lupin-part-3-1235115205/",
+        "sentiment": 0,
+        "timestamp": 1637256766,
+        "published": "November 18, 2021 12:32 PM"
+    },
+    {
+        "title": "Steve Wozniak's startup Privateer plans to launch hundreds of satellites to study space debris",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/steve-wozniak-privateer-hundreds-satellites-space-debris",
+        "sentiment": 0,
+        "timestamp": 1637257322,
+        "published": "November 18, 2021 12:42 PM"
+    },
+    {
+        "title": "Synthetic biology yields easy-to-use underwater adhesives",
+        "domain": "engineering.wustl.edu",
+        "category": "technology",
+        "link": "https://engineering.wustl.edu/news/2021/Synthetic-biology-yields-easy-to-use-underwater-adhesives.html",
+        "sentiment": 0,
+        "timestamp": 1637257398,
+        "published": "November 18, 2021 12:43 PM"
+    },
+    {
+        "title": "Judge Rejects Bannon Attempt to Push Contempt of Congress Hearing Into New Year",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/steve-bannons-attempt-to-push-jan-6-committee-contempt-hearing-into-new-year-is-rejected-by-judge-judge",
+        "sentiment": -3,
+        "timestamp": 1637257419,
+        "published": "November 18, 2021 12:43 PM"
+    },
+    {
+        "title": "United Nations calls Elon Musk's bluff, unveils plan to spend his $6.6B on world hunger relief",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/united-nations-calls-elon-musks-bluff-unveils-plan-spend-his-66b-world-hunger-relief-1650062",
+        "sentiment": -1,
+        "timestamp": 1637257423,
+        "published": "November 18, 2021 12:43 PM"
+    },
+    {
+        "title": "Putin says West taking Russia's 'red lines' too lightly",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/putin-says-west-not-taking-russias-warnings-red-lines-seriously-enough-2021-11-18/",
+        "sentiment": 0,
+        "timestamp": 1637257435,
+        "published": "November 18, 2021 12:43 PM"
+    },
+    {
+        "title": "Kyle Rittenhouse trial: MSNBC barred from court, producer followed jury bus",
+        "domain": "fox10phoenix.com",
+        "category": "news",
+        "link": "https://www.fox10phoenix.com/news/kyle-rittenhouse-trial-kenosha-pd-says-person-tried-to-photograph-jurors",
+        "sentiment": 0,
+        "timestamp": 1637258393,
+        "published": "November 18, 2021 12:59 PM"
+    },
+    {
+        "title": "“South Park: Post Covid” Promo",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/DhVsTHZvOPw",
+        "sentiment": 0,
+        "timestamp": 1637258680,
+        "published": "November 18, 2021 1:04 PM"
+    },
+    {
+        "title": "David Attenborough’s ‘Kingdom Of Plants’ Gets VR Makeover With Oculus TV",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/david-attenboroughs-kingdom-of-plants-oculus-tv-1235115169/",
+        "sentiment": 0,
+        "timestamp": 1637259431,
+        "published": "November 18, 2021 1:17 PM"
+    },
+    {
+        "title": "Gov. Stitt commutes Julius Jones' sentence to life in prison without parole",
+        "domain": "okcfox.com",
+        "category": "news",
+        "link": "https://okcfox.com/news/local/julius-jones-kevin-stitt-oklahoma-execution-clemency",
+        "sentiment": -4,
+        "timestamp": 1637259775,
+        "published": "November 18, 2021 1:22 PM"
+    },
+    {
         "title": "UN envoy: Afghanistan on brink of `humanitarian catastrophe'",
         "domain": "apnews.com",
         "category": "news",
