@@ -1,5 +1,122 @@
 [
     {
+        "title": "Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862",
+        "sentiment": 5,
+        "timestamp": 1637236107,
+        "published": "November 18, 2021 6:48 AM"
+    },
+    {
+        "title": "Opinion: Insurrectionists are finally receiving justice. But the GOP is more unhinged than ever.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/18/insurrectionists-are-finally-receiving-justice-gop-is-more-unhinged-than-ever/",
+        "sentiment": 2,
+        "timestamp": 1637240915,
+        "published": "November 18, 2021 8:08 AM"
+    },
+    {
+        "title": "Julius Jones is scheduled to be executed today and Oklahoma's governor has still not decided if he will commute the death sentence",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/18/us/julius-jones-oklahoma-execution-decision/index.html",
+        "sentiment": -4,
+        "timestamp": 1637243482,
+        "published": "November 18, 2021 8:51 AM"
+    },
+    {
+        "title": "Social media creating virus of lies, says Nobel winner Maria Ressa",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/18/social-media-creating-virus-of-lies-says-nobel-winner-maria-ressa",
+        "sentiment": 4,
+        "timestamp": 1637245388,
+        "published": "November 18, 2021 9:23 AM"
+    },
+    {
+        "title": "OSHA is suspending enforcement of the government's new employer vaccine rule",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/covid-vaccine-mandate-osha-suspending-enforcement/?ftag=CNM-00-10aab7e&linkId=140666664",
+        "sentiment": 0,
+        "timestamp": 1637246035,
+        "published": "November 18, 2021 9:33 AM"
+    },
+    {
+        "title": "Taiwan opens office in Lithuania, brushing aside China opposition",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/china/taiwan-opens-office-lithuania-brushing-aside-china-opposition-2021-11-18/",
+        "sentiment": 0,
+        "timestamp": 1637246307,
+        "published": "November 18, 2021 9:38 AM"
+    },
+    {
+        "title": "House Republicans used to police their own members, now it’s anything goes",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/meet-the-press/house-republicans-used-police-their-own-members-now-it-s-n1284086",
+        "sentiment": 0,
+        "timestamp": 1637247278,
+        "published": "November 18, 2021 9:54 AM"
+    },
+    {
+        "title": "Apple's Right-to-Repair policy was forced by Green Investors and Regulatory Pressure",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/17/22787336/apple-right-to-repair-self-service-diy-reason-microsoft",
+        "sentiment": -2,
+        "timestamp": 1637247893,
+        "published": "November 18, 2021 10:04 AM"
+    },
+    {
+        "title": "Katie Porter decimates Louis DeJoy’s leadership of USPS with a sharpie",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/katie-porter-louis-dejoy-usps-b1958677.html",
+        "sentiment": 1,
+        "timestamp": 1637248709,
+        "published": "November 18, 2021 10:18 AM"
+    },
+    {
+        "title": "Courage the Cowardly Dog - Last of the Star Makers | Happy pre-Friday",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/5r5-MPLKrIk",
+        "sentiment": 3,
+        "timestamp": 1637249681,
+        "published": "November 18, 2021 10:34 AM"
+    },
+    {
+        "title": "Facebook Isn’t Telling You How Popular Right-Wing Content Is on the Platform - Facebook insists that mainstream news sites perform the best on its platform. But by other measures, sensationalist, partisan content reigns",
+        "domain": "themarkup.org",
+        "category": "technology",
+        "link": "https://themarkup.org/citizen-browser/2021/11/18/facebook-isnt-telling-you-how-popular-right-wing-content-is-on-the-platform",
+        "sentiment": 6,
+        "timestamp": 1637249844,
+        "published": "November 18, 2021 10:37 AM"
+    },
+    {
+        "title": "Give YouTube the finger by restoring dislike counts with this plugin",
+        "domain": "thenextweb.com",
+        "category": "technology",
+        "link": "https://thenextweb.com/news/give-youtube-the-finger-by-restoring-dislike-counts-with-this-plugin",
+        "sentiment": -1,
+        "timestamp": 1637250189,
+        "published": "November 18, 2021 10:43 AM"
+    },
+    {
+        "title": "Randall Park to star in Netflix comedy series set at the last Blockbuster",
+        "domain": "nbcnews.com",
+        "category": "television",
+        "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/randall-park-star-netflix-comedy-series-set-last-blockbuster-rcna5939",
+        "sentiment": 4,
+        "timestamp": 1637250575,
+        "published": "November 18, 2021 10:49 AM"
+    },
+    {
         "title": "Marjorie Taylor Greene says McCarthy promised committee assignments back if GOP wins House",
         "domain": "newsweek.com",
         "category": "politics",
