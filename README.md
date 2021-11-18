@@ -2,7 +2,9 @@
 
 For research purposes. Available in JSON format. 
 
-See **headlines.json** file for dataset. CSV available upon request. 
+See **headlines.json** file for dataset. 
+
+See **script.JS** file scrape script.  
 
 Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
@@ -12,7 +14,11 @@ Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
 
 **Subreddits**: r/news, r/worldnews, r/technology, r/television, r/entertaiment, r/politics
 
-## Keep Project Alive
+## Have custom scraping needs? 
+
+We're a software company in Miami, Florida. We work all over the world projects large and small. We usually accept most Crypto. Reach out @ hello@fwd.dev 
+
+## Donate
 
 We accept Crypto donations at the following addresses: 
 
@@ -34,4 +40,4 @@ D9U1FLygkMydx3DE2sXgnuFpHm7ePm3Zwe
 
 ## Github Stars
 
-[![Stargazers over time](https://starchart.cc/fwd/news)](https://starchart.cc/fwd/news)
+[![Stargazers over time](https://starchart.cc/fwd/news)](https://starchart.cc/fwd/news.svg)
