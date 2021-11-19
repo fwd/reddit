@@ -1,5 +1,59 @@
 [
     {
+        "title": "'They eat their children' — The wife of a former Interpol president who went missing in China in 2018 calls the Chinese government a 'monster'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/eat-children-wife-former-interpol-031054256.html",
+        "sentiment": -2,
+        "timestamp": 1637308379,
+        "published": "November 19, 2021 2:52 AM"
+    },
+    {
+        "title": "Elijah McClain’s family to reportedly receive $15m from Colorado in highest ever settlement",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/18/elijah-mcclain-family-colorado-settlement",
+        "sentiment": 1,
+        "timestamp": 1637308962,
+        "published": "November 19, 2021 3:02 AM"
+    },
+    {
+        "title": "Ford plans to produce 600,000 EVs a year by the end of 2023",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/ford-600000-electric-vehicles-2023-061606689.html",
+        "sentiment": 0,
+        "timestamp": 1637313137,
+        "published": "November 19, 2021 4:12 AM"
+    },
+    {
+        "title": "Germany will legalize Cannabis",
+        "domain": "tagesspiegel.de",
+        "category": "news",
+        "link": "https://www.tagesspiegel.de/politik/abgabe-in-lizenzierten-coffeeshops-ampel-parteien-einigen-sich-auf-legalisierung-von-cannabis/27813422.html",
+        "sentiment": 0,
+        "timestamp": 1637314014,
+        "published": "November 19, 2021 4:26 AM"
+    },
+    {
+        "title": "Austria announces fourth national lockdown and compulsory vaccination",
+        "domain": "thelocal.at",
+        "category": "worldnews",
+        "link": "https://www.thelocal.at/20211119/austria-nationwide-covid-measures/",
+        "sentiment": 0,
+        "timestamp": 1637314670,
+        "published": "November 19, 2021 4:37 AM"
+    },
+    {
+        "title": "Bipartisan Bill Seeks to Stop Warrantless Car Spying by Police: Federal authorities can extract photos, texts, and other sensitive data from automotive computers, The Intercept previously revealed.",
+        "domain": "theintercept.com",
+        "category": "technology",
+        "link": "https://theintercept.com/2021/11/18/bill-warrantless-searches-car-data-police/",
+        "sentiment": -1,
+        "timestamp": 1637316541,
+        "published": "November 19, 2021 5:09 AM"
+    },
+    {
         "title": "Austria to be first European country to make the COVID vacccine mandatory for all citizen",
         "domain": "orf.at",
         "category": "worldnews",
