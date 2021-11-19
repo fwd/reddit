@@ -1,5 +1,122 @@
 [
     {
+        "title": "UN Wants Proof Of Missing Chinese Tennis Star Peng Shuai's Well-Being",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/un-wants-proof-of-missing-chinese-tennis-star-peng-shuais-well-being-2617393",
+        "sentiment": 0,
+        "timestamp": 1637324459,
+        "published": "November 19, 2021 7:20 AM"
+    },
+    {
+        "title": "S.Korea scrambles fighter jets as China, Russia aircraft enter air defense zone",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/skorea-scrambles-fighter-jets-china-russia-aircraft-enter-air-defense-zone-2021-11-19/",
+        "sentiment": 0,
+        "timestamp": 1637324707,
+        "published": "November 19, 2021 7:25 AM"
+    },
+    {
+        "title": "House passes Biden’s Build Back Better bill, sending measure with free preschool, climate initiatives to the Senate",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2021/11/19/joe-bidens-build-back-better-bill-passes-house-goes-senate/6242199001/",
+        "sentiment": 3,
+        "timestamp": 1637333450,
+        "published": "November 19, 2021 9:50 AM"
+    },
+    {
+        "title": "Lee County man arrested after making threat to carry out \"mass murder\" at church | Mississippi News Group",
+        "domain": "msnewsgroup.com",
+        "category": "news",
+        "link": "https://msnewsgroup.com/breakingmississippinews/lee-county-man-arrested-after-making-threat-to-carry-out-mass-murder-at-church/",
+        "sentiment": -7,
+        "timestamp": 1637333678,
+        "published": "November 19, 2021 9:54 AM"
+    },
+    {
+        "title": "Today, jurors got to hear Elizabeth Holmes’ lies for themselves",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/18/22790541/elizabeth-holmes-fraud-lies-recording",
+        "sentiment": 0,
+        "timestamp": 1637334470,
+        "published": "November 19, 2021 10:07 AM"
+    },
+    {
+        "title": "Pocono teen had his hands up when killed by State Police, new videos show",
+        "domain": "poconorecord.com",
+        "category": "news",
+        "link": "https://www.poconorecord.com/story/news/2021/11/18/unredacted-footage-shows-christian-hall-had-hands-up-when-shot-police/8638670002/",
+        "sentiment": -3,
+        "timestamp": 1637334720,
+        "published": "November 19, 2021 10:12 AM"
+    },
+    {
+        "title": "Joe Biden Is Succeeding",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/18/opinion/biden-infrastructure-stimulus-bill.html",
+        "sentiment": 3,
+        "timestamp": 1637335841,
+        "published": "November 19, 2021 10:30 AM"
+    },
+    {
+        "title": "House Passes Build Back Better Bill",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/build-back-better-house_n_6196eb6ee4b044a1cc04fc2a",
+        "sentiment": 2,
+        "timestamp": 1637335859,
+        "published": "November 19, 2021 10:30 AM"
+    },
+    {
+        "title": "President Biden Announces Nominees for United States Postal Service Board of Governors",
+        "domain": "whitehouse.gov",
+        "category": "politics",
+        "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-biden-announces-nominees-for-united-states-postal-service-board-of-governors/",
+        "sentiment": 1,
+        "timestamp": 1637336455,
+        "published": "November 19, 2021 10:40 AM"
+    },
+    {
+        "title": "Biden To Take Key Step Toward Ousting Postmaster Louis DeJoy",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/biden-to-take-key-step-toward-ousting-postmaster-louis-dejoy",
+        "sentiment": 0,
+        "timestamp": 1637336632,
+        "published": "November 19, 2021 10:43 AM"
+    },
+    {
+        "title": "Harvard University is offering FREE computer science course that any person can enroll and learn without any prior knowledge on this topic",
+        "domain": "coursetime.net",
+        "category": "technology",
+        "link": "https://coursetime.net/cs50-introduction-to-computer-science/",
+        "sentiment": 1,
+        "timestamp": 1637337804,
+        "published": "November 19, 2021 11:03 AM"
+    },
+    {
+        "title": "The Next Game of Thrones Probably Won’t Look Like The Wheel of Time | by Darren Mooney",
+        "domain": "escapistmagazine.com",
+        "category": "television",
+        "link": "https://www.escapistmagazine.com/the-next-game-of-thrones-probably-wont-look-like-the-wheel-of-time/",
+        "sentiment": 2,
+        "timestamp": 1637338517,
+        "published": "November 19, 2021 11:15 AM"
+    },
+    {
+        "title": "I still can't believe that they pulled it off. Pure genius. An episode of Seinfeld inside Curb your Enthusiasm.",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=Yd3TuRi_cGo",
+        "sentiment": 1,
+        "timestamp": 1637339992,
+        "published": "November 19, 2021 11:39 AM"
+    },
+    {
         "title": "Hamas proscribed as terrorist group by UK",
         "domain": "bbc.com",
         "category": "worldnews",
