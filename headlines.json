@@ -1,5 +1,140 @@
 [
     {
+        "title": "Disease control chief: \"All of Germany is one big outbreak\"",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-europe-germany-berlin-cd31b33f8acb3bbb1cb11bfd495348f7",
+        "sentiment": -2,
+        "timestamp": 1637333141,
+        "published": "November 19, 2021 9:45 AM"
+    },
+    {
+        "title": "UK set to declare ‘rabidly anti-Semitic’ Hamas as a terrorist organization",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/uk-anti-semitic-hamas-terrorist-organization/",
+        "sentiment": -2,
+        "timestamp": 1637333791,
+        "published": "November 19, 2021 9:56 AM"
+    },
+    {
+        "title": "China says 'not aware' of tennis player Peng Shuai issue",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/sports-china-media-social-media-beijing-3c2a5e60f1412760e59594bd138ecdc8",
+        "sentiment": 0,
+        "timestamp": 1637334928,
+        "published": "November 19, 2021 10:15 AM"
+    },
+    {
+        "title": "Canadian indigenous protesters say police making arrests at site of disputed pipeline",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/us/canadian-police-set-remove-indigenous-protesters-site-disputed-pipeline-2021-11-18/",
+        "sentiment": -6,
+        "timestamp": 1637336338,
+        "published": "November 19, 2021 10:38 AM"
+    },
+    {
+        "title": "Kamala Harris Will Be First Woman to Hold Presidential Powers As Biden Undergoes Physical",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/kamala-harris-will-first-woman-hold-presidential-powers-biden-undergoes-physical-1651228",
+        "sentiment": 0,
+        "timestamp": 1637336588,
+        "published": "November 19, 2021 10:43 AM"
+    },
+    {
+        "title": "61% of Americans believe that the Supreme Court is motivated by politics, while just 32% think it's motivated by the law: poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/61-percent-think-supreme-court-motivated-politics-not-law-poll-2021-11",
+        "sentiment": 8,
+        "timestamp": 1637338177,
+        "published": "November 19, 2021 11:09 AM"
+    },
+    {
+        "title": "‘Attack on Titan The Final Season - Part 2’ Premieres January 9th on Funimation & Crunchyroll",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/daily-briefs/2021-11-19/crunchyroll-funimation-to-stream-attack-on-titan-the-final-season-anime-part-2-in-january/.179746",
+        "sentiment": 0,
+        "timestamp": 1637338758,
+        "published": "November 19, 2021 11:19 AM"
+    },
+    {
+        "title": "Bernie Sanders Rips Nancy Pelosi Over Dem 'Hypocrisy' On Proposed Tax Break For The Rich | \"We’ve got to demand the wealthy start paying their fair share, not give them more tax breaks,\" grumbled Sanders of the Build Back Better giveaway.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bernie-sanders-nancy-pelosi-trump-salt-deductions_n_619723ace4b025be1ad9a3f8",
+        "sentiment": 8,
+        "timestamp": 1637339224,
+        "published": "November 19, 2021 11:27 AM"
+    },
+    {
+        "title": "Chinese Govt Asks Contract Chipmakers to Prioritize Local Clients",
+        "domain": "tomshardware.com",
+        "category": "technology",
+        "link": "https://www.tomshardware.com/news/chinese-govt-asks-contract-chipmakers-to-prioritize-local-clients",
+        "sentiment": 0,
+        "timestamp": 1637339379,
+        "published": "November 19, 2021 11:29 AM"
+    },
+    {
+        "title": "Thousands of protesters converged on Isfahan in central Iran to voice their anger after the city's lifeblood river dried up due to drought and diversion. The massive protest was the biggest since demonstrations over the water crisis started on November 9",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211119-thousands-protest-dried-up-river-in-iran-s-isfahan",
+        "sentiment": -10,
+        "timestamp": 1637339418,
+        "published": "November 19, 2021 11:30 AM"
+    },
+    {
+        "title": "Gang sold tons of horse disguised as beef and put rotting meat in hamburgers, Brazilian officials say",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/19/americas/brazil-horse-meat-gang-intl-hnk-scli/index.html",
+        "sentiment": -1,
+        "timestamp": 1637340022,
+        "published": "November 19, 2021 11:40 AM"
+    },
+    {
+        "title": "China says ‘not aware’ of tennis player Peng Shuai issue",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/sports-china-media-social-media-beijing-3c2a5e60f1412760e59594bd138ecdc8?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP&s=09",
+        "sentiment": 0,
+        "timestamp": 1637340026,
+        "published": "November 19, 2021 11:40 AM"
+    },
+    {
+        "title": "Elizabeth Warren Tells Biden To Keep Campaign Promise, Free Cannabis Convicts",
+        "domain": "ibtimes.com",
+        "category": "politics",
+        "link": "https://www.ibtimes.com/elizabeth-warren-tells-biden-keep-campaign-promise-free-cannabis-convicts-3335507",
+        "sentiment": 2,
+        "timestamp": 1637341089,
+        "published": "November 19, 2021 11:58 AM"
+    },
+    {
+        "title": "Future German coalition agrees to legalize cannabis",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/future-german-coalition-agrees-to-legalize-cannabis/amp/",
+        "sentiment": 1,
+        "timestamp": 1637342655,
+        "published": "November 19, 2021 12:24 PM"
+    },
+    {
+        "title": "'How to With John Wilson' Launches Stellar Second Season",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/reviews/how-to-with-john-wilson-season-2-1235115422/",
+        "sentiment": 0,
+        "timestamp": 1637342797,
+        "published": "November 19, 2021 12:26 PM"
+    },
+    {
         "title": "UN Wants Proof Of Missing Chinese Tennis Star Peng Shuai's Well-Being",
         "domain": "ndtv.com",
         "category": "worldnews",
