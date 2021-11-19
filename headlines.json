@@ -1,5 +1,104 @@
 [
     {
+        "title": "Facebook tells LA police to stop spying on users with fake accounts",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/business-59341750",
+        "sentiment": -4,
+        "timestamp": 1637339725,
+        "published": "November 19, 2021 11:35 AM"
+    },
+    {
+        "title": "Entire House GOP opposes Biden's $1.7T bill, but 42 percent of Republicans voters back it",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/entire-house-gop-opposes-bidens-17t-bill-42-percent-republicans-voters-back-it-1651201",
+        "sentiment": 0,
+        "timestamp": 1637340977,
+        "published": "November 19, 2021 11:56 AM"
+    },
+    {
+        "title": "Sierra Teller Ornelas on Native Representation in 'Rutherford Falls'",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/opinion/sierra-teller-ornelas-rutherford-falls-native-american-heritage-month-1235113545/",
+        "sentiment": 0,
+        "timestamp": 1637342069,
+        "published": "November 19, 2021 12:14 PM"
+    },
+    {
+        "title": "Senate confirms Oregon man as the first Native American to lead the National Park Service",
+        "domain": "opb.org",
+        "category": "politics",
+        "link": "https://www.opb.org/article/2021/11/18/chuck-sams-national-park-service-director-oregon-native-american-cayuse-walla-walla/",
+        "sentiment": 0,
+        "timestamp": 1637342091,
+        "published": "November 19, 2021 12:14 PM"
+    },
+    {
+        "title": "Tesla subjects women to 'nightmarish' sexual harassment at factory -lawsuit",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/tesla-subjects-women-nightmarish-sexual-harassment-factory-lawsuit-2021-11-19/",
+        "sentiment": -3,
+        "timestamp": 1637342842,
+        "published": "November 19, 2021 12:27 PM"
+    },
+    {
+        "title": "U.S. warns China after South China Sea standoff with Philippines",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/china/us-warns-china-after-south-china-sea-standoff-with-philippines-2021-11-19/",
+        "sentiment": -2,
+        "timestamp": 1637343131,
+        "published": "November 19, 2021 12:32 PM"
+    },
+    {
+        "title": "Tesla accused of ‘rampant sexual harassment’ in new worker lawsuit",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/19/22791321/worker-sues-tesla-rampant-sexual-harassment-fremont-elon-musk",
+        "sentiment": -4,
+        "timestamp": 1637343613,
+        "published": "November 19, 2021 12:40 PM"
+    },
+    {
+        "title": "First electric autonomous cargo ship launched in Norway. \"will eliminate the need for around 40,000 truck journeys a year that are now fuelled by polluting diesel\"",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-electric-autonomous-cargo-ship-norway.html",
+        "sentiment": 1,
+        "timestamp": 1637344225,
+        "published": "November 19, 2021 12:50 PM"
+    },
+    {
+        "title": "Kyle Rittenhouse found not guilty",
+        "domain": "waow.com",
+        "category": "news",
+        "link": "https://www.waow.com/news/top-stories/kyle-rittenhouse-found-not-guilty/article_09567392-4963-11ec-9a8b-63ffcad3e580.html?utm_medium=social&utm_source=twitter_WAOW",
+        "sentiment": 3,
+        "timestamp": 1637345757,
+        "published": "November 19, 2021 1:15 PM"
+    },
+    {
+        "title": "Governing body for women's tennis threatens to pull out of China and cancel 10 events if it doesn't get answers over Peng Shuai's disappearance.",
+        "domain": "insider.com",
+        "category": "worldnews",
+        "link": "https://www.insider.com/wta-threatens-to-pull-chinese-events-over-peng-shaui-disappearance-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637346026,
+        "published": "November 19, 2021 1:20 PM"
+    },
+    {
+        "title": "'Tiger King' star Carole Baskin 'glad to hear' legally dead ex is alive | Toronto Sun",
+        "domain": "torontosun.com",
+        "category": "television",
+        "link": "https://torontosun.com/entertainment/television/tiger-king-star-carole-baskin-glad-to-hear-legally-dead-ex-is-alive",
+        "sentiment": -1,
+        "timestamp": 1637346459,
+        "published": "November 19, 2021 1:27 PM"
+    },
+    {
         "title": "Disease control chief: \"All of Germany is one big outbreak\"",
         "domain": "apnews.com",
         "category": "worldnews",
