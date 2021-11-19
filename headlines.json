@@ -1,5 +1,86 @@
 [
     {
+        "title": "Jury to begin deliberations in Charlottesville Unite the Right civil trial",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/19/us/charlottesville-unite-the-right-civil-trial-jury-deliberation/index.html",
+        "sentiment": 0,
+        "timestamp": 1637327191,
+        "published": "November 19, 2021 8:06 AM"
+    },
+    {
+        "title": "‘Professor or comrade?’ Republicans go full red scare on Soviet-born Biden pick",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/18/senate-republicans-red-scare-saule-omarova-biden-nominee",
+        "sentiment": -2,
+        "timestamp": 1637327270,
+        "published": "November 19, 2021 8:07 AM"
+    },
+    {
+        "title": "FDA clears Moderna and Pfizer's Covid vaccine booster shots for all U.S. adults",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/19/fda-clears-modernas-covid-vaccine-booster-shots-for-all-us-adults.html",
+        "sentiment": 1,
+        "timestamp": 1637329100,
+        "published": "November 19, 2021 8:38 AM"
+    },
+    {
+        "title": "FAA forced delay in 5G rollout despite having no proof of harm to aviation - US delays even as 40 countries use C-band with no reports of harm to altimeters.",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/11/faa-forced-delay-in-5g-rollout-despite-having-no-proof-of-harm-to-aviation/",
+        "sentiment": -8,
+        "timestamp": 1637329255,
+        "published": "November 19, 2021 8:40 AM"
+    },
+    {
+        "title": "Michigan kids hospitalized with COVID-19 nears peak. Doctor: 'We're a little bit on edge.'",
+        "domain": "eu.freep.com",
+        "category": "news",
+        "link": "https://eu.freep.com/story/news/health/2021/11/18/michigan-kids-hospitalized-covid-nears-pandemic-peak/8656709002/",
+        "sentiment": -2,
+        "timestamp": 1637329324,
+        "published": "November 19, 2021 8:42 AM"
+    },
+    {
+        "title": "'I Did!': Ocasio-Cortez Interjects After McCarthy States 'Nobody Elected Joe Biden to Be FDR' | \"Effective heckling is a lost art,\" said one observer, \"but AOC managed to silence McCarthy for at least a few seconds.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/19/i-did-ocasio-cortez-interjects-after-mccarthy-states-nobody-elected-joe-biden-be-fdr",
+        "sentiment": -1,
+        "timestamp": 1637329365,
+        "published": "November 19, 2021 8:42 AM"
+    },
+    {
+        "title": "US Postal Service board chair expected to be replaced by Biden",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582321-us-postal-service-board-chair-not-expected-to-be-renominated-by-biden",
+        "sentiment": 0,
+        "timestamp": 1637330306,
+        "published": "November 19, 2021 8:58 AM"
+    },
+    {
+        "title": "Peng Shuai hasn't been seen in public since making sexual assault allegation",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/19/tennis/peng-shuai-china-explainer-intl-hnk/index.html",
+        "sentiment": -4,
+        "timestamp": 1637330812,
+        "published": "November 19, 2021 9:06 AM"
+    },
+    {
+        "title": "'What's at stake is obviously the security of our nation,' NSA chief says of defending US from cyberattacks",
+        "domain": "abcnews.go.com",
+        "category": "technology",
+        "link": "https://abcnews.go.com/Politics/whats-stake-security-nation-nsa-chief-defending-us/story?id=81258606",
+        "sentiment": 0,
+        "timestamp": 1637332025,
+        "published": "November 19, 2021 9:27 AM"
+    },
+    {
         "title": "Kevin McCarthy breaks record for longest-ever House speech, talking for more than 8 hours to obstruct Biden's social-spending bill",
         "domain": "businessinsider.com",
         "category": "politics",
