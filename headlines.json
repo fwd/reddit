@@ -1,5 +1,86 @@
 [
     {
+        "title": "Texas Sheriff Linked to Oath Keepers Charged with 'Official Oppression'",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/texas-sheriff-oath-keeper-arrest-1259582/",
+        "sentiment": -3,
+        "timestamp": 1637272276,
+        "published": "November 18, 2021 4:51 PM"
+    },
+    {
+        "title": "Wisconsin governor vetoes redistricting maps, calls them 'gerrymandering 2.0'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/582261-wisconsin-governor-vetoes-redistricting-maps-calls-them-gerrymandering",
+        "sentiment": 0,
+        "timestamp": 1637278328,
+        "published": "November 18, 2021 6:32 PM"
+    },
+    {
+        "title": "Taiwan deploys advanced fighter jets amid tensions with China",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/asia-pacific/582095-taiwan-deploys-advanced-fighter-jets-amid-tensions-with",
+        "sentiment": 1,
+        "timestamp": 1637280692,
+        "published": "November 18, 2021 7:11 PM"
+    },
+    {
+        "title": "One-year-old Syrian child dies in forest on Poland-Belarus border | A one-year-old child from Syria has died in a forest in Poland near the border with Belarus, according to Polish medical workers, becoming the youngest known victim of the crisis on the eastern edge of the European Union.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/18/one-year-old-syrian-child-dies-in-forest-on-poland-belarus-border",
+        "sentiment": -9,
+        "timestamp": 1637281829,
+        "published": "November 18, 2021 7:30 PM"
+    },
+    {
+        "title": "“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs",
+        "domain": "torrentfreak.com",
+        "category": "technology",
+        "link": "https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/",
+        "sentiment": 1,
+        "timestamp": 1637281848,
+        "published": "November 18, 2021 7:30 PM"
+    },
+    {
+        "title": "US indicts Iranian hackers for Proud Boys voter intimidation emails",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/security/us-indicts-iranian-hackers-for-proud-boys-voter-intimidation-emails/",
+        "sentiment": 0,
+        "timestamp": 1637282151,
+        "published": "November 18, 2021 7:35 PM"
+    },
+    {
+        "title": "DuckDuckGo Wants to Stop Apps From Tracking You on Android",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/duckduckgo-android-app-tracking-block/",
+        "sentiment": -1,
+        "timestamp": 1637282998,
+        "published": "November 18, 2021 7:49 PM"
+    },
+    {
+        "title": "WTA Chairman willing to pull out of China if tennis star Peng Shuai not accounted for",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/18/china/wta-ceo-peng-shuai-steve-simon-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1637283672,
+        "published": "November 18, 2021 8:01 PM"
+    },
+    {
+        "title": "Amazon deforestation unexpectedly surges 22% to its highest level since 2006: 5,110 square miles of rainforest was cleared in the Brazilian Amazon between August 1, 2020 and July 31, 2021",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/11/amazon-deforestation-unexpectedly-surges-22-to-highest-level-since-2006/",
+        "sentiment": 1,
+        "timestamp": 1637283983,
+        "published": "November 18, 2021 8:06 PM"
+    },
+    {
         "title": "Teen Girls Attack Students on SEPTA Train",
         "domain": "nbcphiladelphia.com",
         "category": "news",
