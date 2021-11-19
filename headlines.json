@@ -1,5 +1,59 @@
 [
     {
+        "title": "Teen Girls Attack Students on SEPTA Train",
+        "domain": "nbcphiladelphia.com",
+        "category": "news",
+        "link": "https://www.nbcphiladelphia.com/news/local/video-teen-girls-attack-students-on-septa-train/3051706/",
+        "sentiment": -1,
+        "timestamp": 1637273444,
+        "published": "November 18, 2021 5:10 PM"
+    },
+    {
+        "title": "France bans wild circus animals and mink farms, but not bullfighting | France",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/18/france-bans-wild-circus-animals-and-mink-farms-but-not-bullfighting",
+        "sentiment": 0,
+        "timestamp": 1637276024,
+        "published": "November 18, 2021 5:53 PM"
+    },
+    {
+        "title": "Son of Toronto cop used confidential information from father to commit murder, documents allege | A Toronto police officer allegedly gave confidential information to his son, who is accused of using it to aid in the murder of Bill Horace, a former Liberian rebel leader and accused war criminal",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/toronto/son-of-toronto-cop-used-confidential-information-from-father-to-commit-murder-documents-allege-1.6252783",
+        "sentiment": -14,
+        "timestamp": 1637279165,
+        "published": "November 18, 2021 6:46 PM"
+    },
+    {
+        "title": "Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency by an Earth-Abundant Electrolyzer",
+        "domain": "pubs.acs.org",
+        "category": "technology",
+        "link": "https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565",
+        "sentiment": 0,
+        "timestamp": 1637279811,
+        "published": "November 18, 2021 6:56 PM"
+    },
+    {
+        "title": "Grocery stores running out of food in BC cities cut off by flooding",
+        "domain": "dailyhive.com",
+        "category": "worldnews",
+        "link": "https://dailyhive.com/vancouver/grocery-stores-no-food-bc-flooding",
+        "sentiment": -1,
+        "timestamp": 1637280331,
+        "published": "November 18, 2021 7:05 PM"
+    },
+    {
+        "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business/video/playlists/business-tesla/",
+        "sentiment": 3,
+        "timestamp": 1637280502,
+        "published": "November 18, 2021 7:08 PM"
+    },
+    {
         "title": "Muncie Central High School to have third e-learning day after student-led Black Lives Matter protests",
         "domain": "wishtv.com",
         "category": "news",
