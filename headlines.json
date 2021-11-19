@@ -1,5 +1,59 @@
 [
     {
+        "title": "'Squid Game,' 'Seinfeld' and 'You' Dominate Netflix",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/tv-ratings-seinfeld-you-squid-game-my-name-1235115452/",
+        "sentiment": 0,
+        "timestamp": 1637269090,
+        "published": "November 18, 2021 3:58 PM"
+    },
+    {
+        "title": "Democrat Evers vetoes Republican-drawn redistricting",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/elections-wisconsin-legislature-redistricting-wisconsin-supreme-court-29104625c253dce689d662383a9a50ab",
+        "sentiment": 0,
+        "timestamp": 1637277721,
+        "published": "November 18, 2021 6:22 PM"
+    },
+    {
+        "title": "Tesla, electric SUVs get poor scores from Consumer Reports",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/asia/tesla-electric-suvs-get-poor-scores-consumer-reports-2021-11-18/",
+        "sentiment": -2,
+        "timestamp": 1637282016,
+        "published": "November 18, 2021 7:33 PM"
+    },
+    {
+        "title": "Brazil: Amazon sees worst deforestation levels in 15 years",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-latin-america-59341770",
+        "sentiment": -3,
+        "timestamp": 1637288900,
+        "published": "November 18, 2021 9:28 PM"
+    },
+    {
+        "title": "WTA chairman willing to pull out of China if tennis star Peng Shuai not accounted for",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/18/china/wta-ceo-peng-shuai-steve-simon-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1637289508,
+        "published": "November 18, 2021 9:38 PM"
+    },
+    {
+        "title": "More than 1 million in US may permanently lose sense of smell due to Covid",
+        "domain": "jamanetwork.com",
+        "category": "news",
+        "link": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2786433?guestAccessKey=6c370061-4714-4661-8aff-4a3018110eab&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=111821",
+        "sentiment": 0,
+        "timestamp": 1637291103,
+        "published": "November 18, 2021 10:05 PM"
+    },
+    {
         "title": "150 British army Royal Engineers will be sent to help reinforce Poland's border with Belarus",
         "domain": "bbc.co.uk",
         "category": "worldnews",
