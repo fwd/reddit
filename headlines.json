@@ -1,5 +1,77 @@
 [
     {
+        "title": "County clerk tied to Pillow Guy searched by FBI after compromising election equipment",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/county-clerk-tied-to-pillow-guy-searched-by-fbi-after-compromising-election-equipment-126517317632",
+        "sentiment": 0,
+        "timestamp": 1637273160,
+        "published": "November 18, 2021 5:06 PM"
+    },
+    {
+        "title": "Ex-NFL player Zac Stacy allegedly seen in video brutally attacking ex-girlfriend:",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/ex-nfl-player-zac-stacy-allegedly-seen-in-video-brutally-attacking-ex-girlfriend-report",
+        "sentiment": -4,
+        "timestamp": 1637291543,
+        "published": "November 18, 2021 10:12 PM"
+    },
+    {
+        "title": "WTA prepared to pull tournaments out of China over allegations by the still missing Peng Shuai",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/wta-prepared-pull-tournaments-out-china-over-peng-allegation-2021-11-19/",
+        "sentiment": -3,
+        "timestamp": 1637291726,
+        "published": "November 18, 2021 10:15 PM"
+    },
+    {
+        "title": "FDA wants 55 years to process FOIA request over vaccine data",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/wait-what-fda-wants-55-years-process-foia-request-over-vaccine-data-2021-11-18/",
+        "sentiment": 0,
+        "timestamp": 1637291935,
+        "published": "November 18, 2021 10:18 PM"
+    },
+    {
+        "title": "Biden welcomes Trudeau and López Obrador to the White House in revival of US-Mexico-Canada summit",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2021/11/18/politics/us-canada-mexico-summit/index.html",
+        "sentiment": 2,
+        "timestamp": 1637292426,
+        "published": "November 18, 2021 10:27 PM"
+    },
+    {
+        "title": "Winamp prepares a relaunch, new beta version almost ready",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/software/winamp-prepares-a-relaunch-new-beta-version-almost-ready/",
+        "sentiment": 0,
+        "timestamp": 1637293199,
+        "published": "November 18, 2021 10:39 PM"
+    },
+    {
+        "title": "Amazon's Dark Secret: It Has Failed to Protect Your Data",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/amazon-failed-to-protect-your-data-investigation/",
+        "sentiment": -1,
+        "timestamp": 1637293861,
+        "published": "November 18, 2021 10:51 PM"
+    },
+    {
+        "title": "Australian Online Privacy Bill to make social media age verification mandatory for tech giants, Reddit, Zoom, gaming platforms",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/australian-online-privacy-bill-to-make-social-media-age-verification-mandatory-for-tech-giants-reddit-zoom-gaming-platforms/",
+        "sentiment": -1,
+        "timestamp": 1637294346,
+        "published": "November 18, 2021 10:59 PM"
+    },
+    {
         "title": "'Squid Game,' 'Seinfeld' and 'You' Dominate Netflix",
         "domain": "variety.com",
         "category": "television",
