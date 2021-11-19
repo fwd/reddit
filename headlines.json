@@ -1,5 +1,77 @@
 [
     {
+        "title": "150 British army Royal Engineers will be sent to help reinforce Poland's border with Belarus",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-59331828",
+        "sentiment": 2,
+        "timestamp": 1637275468,
+        "published": "November 18, 2021 5:44 PM"
+    },
+    {
+        "title": "Republicans Ban Elmo From Attending Conservative Conference",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/cpac-bans-elmo-twitter_n_6196ce1de4b07fe20108f653",
+        "sentiment": -2,
+        "timestamp": 1637278846,
+        "published": "November 18, 2021 6:40 PM"
+    },
+    {
+        "title": "Paul Gosar retweets same video aimed at AOC after House censures him",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/18/paul-gosar-retweets-video-aoc-twitter",
+        "sentiment": 0,
+        "timestamp": 1637282254,
+        "published": "November 18, 2021 7:37 PM"
+    },
+    {
+        "title": "Do Not Welcome Our New Billionaire Overlords: Billionaires now hold so much of the world’s wealth, their apologists argue, there’s no choice but to rely on them for philanthropy. But we can’t take our eyes off the ball: We need to tax the ultrarich out of existence.",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/11/elon-musk-wealth-tax-inequality-poverty-philanthropy",
+        "sentiment": 2,
+        "timestamp": 1637283436,
+        "published": "November 18, 2021 7:57 PM"
+    },
+    {
+        "title": "Leaked documents reveal (Thailand) government is revoking the passport of activists and artists",
+        "domain": "thaienquirer.com",
+        "category": "worldnews",
+        "link": "https://www.thaienquirer.com/35047/leaked-documents-reveal-government-is-revoking-the-passport-of-activists-and-artists/",
+        "sentiment": -1,
+        "timestamp": 1637283598,
+        "published": "November 18, 2021 7:59 PM"
+    },
+    {
+        "title": "Tiger King 2: The least vital docuseries in years",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/tiger-king-2-is-the-least-vital-docuseries-in-years-1848082734",
+        "sentiment": 0,
+        "timestamp": 1637284539,
+        "published": "November 18, 2021 8:15 PM"
+    },
+    {
+        "title": "Florida on Thursday banned schools and businesses from requiring vaccination against COVID-19",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/florida-bans-strict-vaccine-mandates-schools-businesses-2021-11-18/",
+        "sentiment": -2,
+        "timestamp": 1637286826,
+        "published": "November 18, 2021 8:53 PM"
+    },
+    {
+        "title": "US states investigate Instagram for ‘wreaking havoc’ on teens’ mental health",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2021/nov/18/instagram-investigation-teenagers-children-facebook",
+        "sentiment": 0,
+        "timestamp": 1637288371,
+        "published": "November 18, 2021 9:19 PM"
+    },
+    {
         "title": "Texas Sheriff Linked to Oath Keepers Charged with 'Official Oppression'",
         "domain": "rollingstone.com",
         "category": "politics",
