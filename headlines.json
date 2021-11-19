@@ -1,5 +1,131 @@
 [
     {
+        "title": "Kevin McCarthy breaks record for longest-ever House speech, talking for more than 8 hours to obstruct Biden's social-spending bill",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mccarthy-breaks-house-record-8hr-speech-block-biden-spending-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637316383,
+        "published": "November 19, 2021 5:06 AM"
+    },
+    {
+        "title": "Austria imposes mandatory COVID vaccination from February",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/austria-mandatory-coronavirus-vaccination-february/",
+        "sentiment": -2,
+        "timestamp": 1637318692,
+        "published": "November 19, 2021 5:44 AM"
+    },
+    {
+        "title": "WTA prepared to pull out of China over Peng Shuai's disappearance",
+        "domain": "china-underground.com",
+        "category": "worldnews",
+        "link": "https://china-underground.com/2021/11/19/wta-prepared-to-pull-out-of-china-over-peng-shuais-disappearance/",
+        "sentiment": 1,
+        "timestamp": 1637319700,
+        "published": "November 19, 2021 6:01 AM"
+    },
+    {
+        "title": "The G.O.P. Has a Bad Men Problem",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/19/opinion/trump-gop-misogyny.html",
+        "sentiment": -5,
+        "timestamp": 1637321011,
+        "published": "November 19, 2021 6:23 AM"
+    },
+    {
+        "title": "Deforestation in Brazil’s Amazon at highest level since 2006 | Environment",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2021/nov/18/deforestation-in-brazils-amazon-rises-by-more-than-a-fifth-in-a-year/",
+        "sentiment": 0,
+        "timestamp": 1637322095,
+        "published": "November 19, 2021 6:41 AM"
+    },
+    {
+        "title": "The disposable US workforce: life as an ‘essential’ meatpacking plant worker",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2021/nov/19/the-disposable-us-workforce-life-as-an-essential-meatpacking-plant-worker?CMP=Share_iOSApp_Other",
+        "sentiment": 0,
+        "timestamp": 1637322828,
+        "published": "November 19, 2021 6:53 AM"
+    },
+    {
+        "title": "In Wisconsin, democracy is not dying in darkness, but in broad daylight.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html",
+        "sentiment": 2,
+        "timestamp": 1637323465,
+        "published": "November 19, 2021 7:04 AM"
+    },
+    {
+        "title": "Jimmy Hoffa: Deathbed confession sparks long missing US union boss body hunt",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-59346106",
+        "sentiment": -2,
+        "timestamp": 1637323840,
+        "published": "November 19, 2021 7:10 AM"
+    },
+    {
+        "title": "Austria announces Europe's first nationwide vaccine mandate and reimposes lockdown as Covid-19 soars",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/19/europe/austria-national-lockdown-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1637324670,
+        "published": "November 19, 2021 7:24 AM"
+    },
+    {
+        "title": "A Tesla factory worker alleges sexual harassment is rampant in a rare lawsuit. Now other women are stepping forward.",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2021/11/19/tesla-sexual-harassment/",
+        "sentiment": -5,
+        "timestamp": 1637325790,
+        "published": "November 19, 2021 7:43 AM"
+    },
+    {
+        "title": "U.K. to investigate possible Russian involvement in death of woman poisoned by nerve agent",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/uk-investigate-possible-russian-involvement-death-woman-poisoned-nerve-agent-1650868",
+        "sentiment": -4,
+        "timestamp": 1637326371,
+        "published": "November 19, 2021 7:52 AM"
+    },
+    {
+        "title": "Singapore’s tech-utopia dream is turning into a surveillance state nightmare",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/singapores-tech-utopia-dream-is-turning-into-a-surveillance-state-nightmare/",
+        "sentiment": 1,
+        "timestamp": 1637327212,
+        "published": "November 19, 2021 8:06 AM"
+    },
+    {
+        "title": "Biden expected to replace Ron Bloom, USPS board chair and key DeJoy ally, on postal board",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/business/2021/11/19/usps-biden-bloom-dejoy/",
+        "sentiment": 2,
+        "timestamp": 1637327248,
+        "published": "November 19, 2021 8:07 AM"
+    },
+    {
+        "title": "Andrew Marr to leave BBC to get own voice back",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-59348808",
+        "sentiment": -1,
+        "timestamp": 1637328360,
+        "published": "November 19, 2021 8:26 AM"
+    },
+    {
         "title": "Monkey-Brain Study With Links To China's Military Roils Top European University",
         "domain": "reuters.com",
         "category": "technology",
