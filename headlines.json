@@ -1,5 +1,113 @@
 [
     {
+        "title": "Canadian army stops delivering supplies to Afghan translator stranded in Ukraine",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-canadian-army-stops-delivering-supplies-to-afghan-translator-stranded/",
+        "sentiment": -1,
+        "timestamp": 1637336491,
+        "published": "November 19, 2021 10:41 AM"
+    },
+    {
+        "title": "Mexico Sends 1500 National Troops to Riviera Maya for Tourist Protection",
+        "domain": "travelinglifestyle.net",
+        "category": "worldnews",
+        "link": "https://www.travelinglifestyle.net/mexico-sends-1500-national-troops-to-riviera-maya-for-tourist-protection/",
+        "sentiment": 0,
+        "timestamp": 1637337943,
+        "published": "November 19, 2021 11:05 AM"
+    },
+    {
+        "title": "Poland says Belarus ferries migrants back to border after clearing camps",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/poland-says-small-groups-migrants-still-trying-enter-belarus-2021-11-19/",
+        "sentiment": 0,
+        "timestamp": 1637341633,
+        "published": "November 19, 2021 12:07 PM"
+    },
+    {
+        "title": "‘Threats Have Real Consequences’: Gabby Giffords Speaks Out About Gosar Video",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/gabby-giffords-responds-paul-gosar-video-1259803/",
+        "sentiment": 0,
+        "timestamp": 1637342261,
+        "published": "November 19, 2021 12:17 PM"
+    },
+    {
+        "title": "GOP lawmaker says gays who get beat up are getting “normal consequences” for “perverse lifestyle”",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/gop-lawmaker-says-gays-get-beat-getting-normal-consequences-perverse-lifestyle/",
+        "sentiment": 0,
+        "timestamp": 1637343582,
+        "published": "November 19, 2021 12:39 PM"
+    },
+    {
+        "title": "Elizabeth Warren asks Joe Biden to cancel student debt, expunge nonviolent marijuana charges",
+        "domain": "masslive.com",
+        "category": "politics",
+        "link": "https://www.masslive.com/politics/2021/11/elizabeth-warren-asks-joe-biden-to-cancel-student-debt-expunge-nonviolent-marijuana-charges.html",
+        "sentiment": -5,
+        "timestamp": 1637344563,
+        "published": "November 19, 2021 12:56 PM"
+    },
+    {
+        "title": "Vials labeled \"Smallpox\" found in Pennsylvania lab freezer have no trace of virus, CDC says",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/smallpox-vials-no-virus-cdc/",
+        "sentiment": -1,
+        "timestamp": 1637345390,
+        "published": "November 19, 2021 1:09 PM"
+    },
+    {
+        "title": "Army bars vaccine refusers from promotions and reenlistment as deadline approaches",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html",
+        "sentiment": 0,
+        "timestamp": 1637347927,
+        "published": "November 19, 2021 1:52 PM"
+    },
+    {
+        "title": "A convicted Russian agent who was recently freed from US prison says her new seat in Russia's parliament is 'not a reward'",
+        "domain": "businessinsider.com.au",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com.au/russian-spy-maria-butina-new-parliament-seat-not-a-reward-2021-11",
+        "sentiment": -4,
+        "timestamp": 1637348812,
+        "published": "November 19, 2021 2:06 PM"
+    },
+    {
+        "title": "BBC Will Triple Investment In Animation For Kids Aged 7–12",
+        "domain": "cartoonbrew.com",
+        "category": "television",
+        "link": "https://www.cartoonbrew.com/business/bbc-will-triple-investment-in-animation-for-kids-aged-7-12-210683.html",
+        "sentiment": 0,
+        "timestamp": 1637349734,
+        "published": "November 19, 2021 2:22 PM"
+    },
+    {
+        "title": "Henry Winkler Calls Barry Season 3 the Most Dramatic Moment of His Career",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2021/11/henry-winkler-vulture-festival-barry-season-3-most-dramatic-ever.html",
+        "sentiment": 0,
+        "timestamp": 1637350116,
+        "published": "November 19, 2021 2:28 PM"
+    },
+    {
+        "title": "Todd Packer reads declined Cameo requests",
+        "domain": "bookoncameo.com",
+        "category": "television",
+        "link": "https://bookoncameo.com/toddpacker",
+        "sentiment": 0,
+        "timestamp": 1637350611,
+        "published": "November 19, 2021 2:36 PM"
+    },
+    {
         "title": "Facebook tells LA police to stop spying on users with fake accounts",
         "domain": "bbc.com",
         "category": "news",
