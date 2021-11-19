@@ -1,5 +1,77 @@
 [
     {
+        "title": "Elizabeth Warren is blunt: Biden can make the joint decision to cancel student debt and legalize marijuana with a 'signature on two different pieces of paper'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elizabeth-warren-cancel-student-loan-debt-legalize-marijuana-biden-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637352220,
+        "published": "November 19, 2021 3:03 PM"
+    },
+    {
+        "title": "‘I can’t do this any more’: US faces nurse shortage from burnout",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/19/us-faces-nurse-shortage-burnout-covid",
+        "sentiment": -2,
+        "timestamp": 1637353714,
+        "published": "November 19, 2021 3:28 PM"
+    },
+    {
+        "title": "Australia calls for global action to fight online misinformation",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/asia/australia-calls-global-action-fight-online-misinformation-2021-11-19/?rpc=401&",
+        "sentiment": -3,
+        "timestamp": 1637354065,
+        "published": "November 19, 2021 3:34 PM"
+    },
+    {
+        "title": "Indian farmers score victory as Modi retreats on pro-corporate farm laws",
+        "domain": "peoplesworld.org",
+        "category": "worldnews",
+        "link": "https://www.peoplesworld.org/article/indian-farmers-score-victory-as-modi-retreats-on-pro-corporate-farm-laws/",
+        "sentiment": 3,
+        "timestamp": 1637354194,
+        "published": "November 19, 2021 3:36 PM"
+    },
+    {
+        "title": "US demands ‘verifiable proof’ of tennis player Peng Shuai’s well-being after she disappears following claim of sexual abuse against Chinese ex-official",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/article/3156768/us-demands-verifiable-proof-tennis-player-peng-shuais-well-being",
+        "sentiment": -3,
+        "timestamp": 1637354679,
+        "published": "November 19, 2021 3:44 PM"
+    },
+    {
+        "title": "Attempted breach of Ohio county election network draws FBI and state scrutiny",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/politics/attempted-breach-ohio-election/2021/11/19/12417a4c-488c-11ec-b8d9-232f4afe4d9b_story.html",
+        "sentiment": -2,
+        "timestamp": 1637356336,
+        "published": "November 19, 2021 4:12 PM"
+    },
+    {
+        "title": "Riots erupt during anti-lockdown protest in Rotterdam.",
+        "domain": "bnonews.com",
+        "category": "worldnews",
+        "link": "https://bnonews.com/index.php/2021/11/riots-erupt-rotterdam-coronavirus-protest/",
+        "sentiment": -4,
+        "timestamp": 1637356343,
+        "published": "November 19, 2021 4:12 PM"
+    },
+    {
+        "title": "‘Star Wars: Ahsoka’: Natasha Liu Bordizzo To Play Sabine Wren In Disney+ Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/star-wars-ahsoka-natasha-liu-bordizzo-sabine-wren-disney-plus-rosario-dawson-1234877527/",
+        "sentiment": 0,
+        "timestamp": 1637357801,
+        "published": "November 19, 2021 4:36 PM"
+    },
+    {
         "title": "Indonesia Prepares Six Major Nursery Centers to Produce 51 Million Seedlings per Year",
         "domain": "nusantarapol.com",
         "category": "worldnews",
