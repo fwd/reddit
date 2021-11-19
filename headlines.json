@@ -1,5 +1,122 @@
 [
     {
+        "title": "Hamas proscribed as terrorist group by UK",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-59346441",
+        "sentiment": -2,
+        "timestamp": 1637323691,
+        "published": "November 19, 2021 7:08 AM"
+    },
+    {
+        "title": "Hamas to be declared a terrorist group by UK",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-59346441",
+        "sentiment": -2,
+        "timestamp": 1637329341,
+        "published": "November 19, 2021 8:42 AM"
+    },
+    {
+        "title": "FDA clears Pfizer, Moderna Covid booster shots for all adults",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025",
+        "sentiment": 1,
+        "timestamp": 1637330302,
+        "published": "November 19, 2021 8:58 AM"
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59343650",
+        "sentiment": 0,
+        "timestamp": 1637330645,
+        "published": "November 19, 2021 9:04 AM"
+    },
+    {
+        "title": "'Disappearance' Of China's Tennis Star Is Textbook Communist Rule",
+        "domain": "thefederalist.com",
+        "category": "worldnews",
+        "link": "https://thefederalist.com/2021/11/19/the-suspicious-disappearance-of-chinas-tennis-star-is-right-out-of-the-ccps-playbook/",
+        "sentiment": 0,
+        "timestamp": 1637331134,
+        "published": "November 19, 2021 9:12 AM"
+    },
+    {
+        "title": "‘Cruel, False And Bigoted’: Lauren Boebert Ripped On-Air By Local TV Anchor",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/lauren-boebert-denver-anchor_n_61975c6fe4b0f398af0349e3",
+        "sentiment": -1,
+        "timestamp": 1637331246,
+        "published": "November 19, 2021 9:14 AM"
+    },
+    {
+        "title": "Biden to transfer power to Harris while he gets colonoscopy",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582331-biden-to-transfer-power-to-harris-while-he-gets-colonoscopy",
+        "sentiment": 0,
+        "timestamp": 1637332618,
+        "published": "November 19, 2021 9:36 AM"
+    },
+    {
+        "title": "House passes $1.75 trillion Biden plan that funds universal pre-K, Medicare expansion and renewable energy credits",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/19/biden-build-back-better-bill-house-passes-social-safety-net-and-climate-plan.html?__source=sharebar|twitter&par=sharebar",
+        "sentiment": 0,
+        "timestamp": 1637333268,
+        "published": "November 19, 2021 9:47 AM"
+    },
+    {
+        "title": "Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html",
+        "sentiment": 0,
+        "timestamp": 1637333451,
+        "published": "November 19, 2021 9:50 AM"
+    },
+    {
+        "title": "Ford Mustang Mach-E Outscores All Tesla Models, Standing Tall In Reliability Vehicle List Of Consumer Reports",
+        "domain": "benzinga.com",
+        "category": "technology",
+        "link": "https://www.benzinga.com/news/21/11/24187309/ford-mustang-mach-e-outscores-all-tesla-models-standing-tall-in-reliability-vehicle-list-of-consumer",
+        "sentiment": 2,
+        "timestamp": 1637333670,
+        "published": "November 19, 2021 9:54 AM"
+    },
+    {
+        "title": "The Amazon lobbyists who kill U.S. consumer privacy protections",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/",
+        "sentiment": -5,
+        "timestamp": 1637333906,
+        "published": "November 19, 2021 9:58 AM"
+    },
+    {
+        "title": "The Marriott hotel in Prague declined to host a conference of activists and leaders from China's Uyghur diaspora citing \"political neutrality,\" an email shared with Axios shows. The decision to reject the conference reflects China's growing ability to extend authoritarian control beyond its borders",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/marriott-uyghur-conference-d6deb429-9b5e-4759-ba10-98d59e81be12.html",
+        "sentiment": 4,
+        "timestamp": 1637334361,
+        "published": "November 19, 2021 10:06 AM"
+    },
+    {
+        "title": "Elon Musk's Starlink to help monitor illegal deforestation in the Amazon rainforest",
+        "domain": "teslarati.com",
+        "category": "technology",
+        "link": "https://www.teslarati.com/elon-musk-starlink-vs-amazon-illegal-deforestation/",
+        "sentiment": -1,
+        "timestamp": 1637335352,
+        "published": "November 19, 2021 10:22 AM"
+    },
+    {
         "title": "Jury to begin deliberations in Charlottesville Unite the Right civil trial",
         "domain": "cnn.com",
         "category": "news",
