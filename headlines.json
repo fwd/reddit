@@ -1,5 +1,77 @@
 [
     {
+        "title": "Scientists mystified, wary, as Africa avoids COVID disaster",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-science-health-pandemics-united-nations-fcf28a83c9352a67e50aa2172eb01a2f",
+        "sentiment": -3,
+        "timestamp": 1637339210,
+        "published": "November 19, 2021 11:26 AM"
+    },
+    {
+        "title": "Edge and Windows 11 — the return of Microsoft's IE fiasco?",
+        "domain": "computerworld.com",
+        "category": "technology",
+        "link": "https://www.computerworld.com/article/3641233/edge-and-windows-11-the-return-of-microsofts-ie-fiasco.html",
+        "sentiment": -3,
+        "timestamp": 1637343485,
+        "published": "November 19, 2021 12:38 PM"
+    },
+    {
+        "title": "Nicaragua Leaves the Organization of American States",
+        "domain": "telesurenglish.net",
+        "category": "worldnews",
+        "link": "https://www.telesurenglish.net/news/Nicaragua-Leaves-the-Organization-of-American-States-20211119-0005.html",
+        "sentiment": 0,
+        "timestamp": 1637351912,
+        "published": "November 19, 2021 2:58 PM"
+    },
+    {
+        "title": "U.S. ignores recommendation to put India on religious freedom violation list",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/india-biden-administration-religious-freedom-caatsa-923a25ba-ef34-4bda-8409-f47732c6e356.html",
+        "sentiment": -1,
+        "timestamp": 1637357845,
+        "published": "November 19, 2021 4:37 PM"
+    },
+    {
+        "title": "Corporations are using inflation as an excuse to raise prices and make fatter profits — and it's making the problem worse",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/corporations-using-inflation-as-excuse-to-reap-fatter-profits-reich-2021-11",
+        "sentiment": -4,
+        "timestamp": 1637359262,
+        "published": "November 19, 2021 5:01 PM"
+    },
+    {
+        "title": "Four Taiwan semiconductor makers provided data to US government after being asked to provide information deemed confidential about semiconductor makers’ inventories, lead times, clients and suppliers",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4350391",
+        "sentiment": 0,
+        "timestamp": 1637359552,
+        "published": "November 19, 2021 5:05 PM"
+    },
+    {
+        "title": "Ford and Rivian cancel plans to jointly develop an electric vehicle",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/19/ford-and-rivian-cancel-plans-to-jointly-develop-an-electric-vehicle.html",
+        "sentiment": -1,
+        "timestamp": 1637361202,
+        "published": "November 19, 2021 5:33 PM"
+    },
+    {
+        "title": "Univ. of Maryland slammed for separating Asian students from 'students of color' in graphic",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/asian-america/univ-maryland-slammed-separating-asian-students-students-color-graphic-rcna6151",
+        "sentiment": 0,
+        "timestamp": 1637361827,
+        "published": "November 19, 2021 5:43 PM"
+    },
+    {
         "title": "Visualizations show the extensive cloud of debris Russia’s anti-satellite test created",
         "domain": "theverge.com",
         "category": "technology",
