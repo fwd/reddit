@@ -1,5 +1,77 @@
 [
     {
+        "title": "Indonesia Prepares Six Major Nursery Centers to Produce 51 Million Seedlings per Year",
+        "domain": "nusantarapol.com",
+        "category": "worldnews",
+        "link": "https://www.nusantarapol.com/2021/11/indonesia-prepares-six-major-nurseries-center-to-produce-51-million-seedlings-per-year.html",
+        "sentiment": 0,
+        "timestamp": 1637338172,
+        "published": "November 19, 2021 11:09 AM"
+    },
+    {
+        "title": "Rockstar apologizes for the state of GTA Trilogy",
+        "domain": "rockstargames.com",
+        "category": "technology",
+        "link": "https://www.rockstargames.com/newswire/article/393o373751k48k/a-note-from-the-rockstar-games-team-re-grand-theft-auto-the-trilogy-th?",
+        "sentiment": -1,
+        "timestamp": 1637347027,
+        "published": "November 19, 2021 1:37 PM"
+    },
+    {
+        "title": "RNC chair contradicts Trump: 'Biden won the election'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/582372-rnc-chair-contradicts-trump-biden-won-the-election",
+        "sentiment": 3,
+        "timestamp": 1637347093,
+        "published": "November 19, 2021 1:38 PM"
+    },
+    {
+        "title": "Defense attorney in the Ahmaud Arbery murder trial sought a plea deal for one defendant and was declined, Arbery's mother's lawyer says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/19/us/ahmaud-arbery-killing-trial-testimony-concludes/index.html",
+        "sentiment": -2,
+        "timestamp": 1637348117,
+        "published": "November 19, 2021 1:55 PM"
+    },
+    {
+        "title": "White House concerned by reports about Chinese tennis star Peng",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/white-house-concerned-by-reports-about-chinese-tennis-star-peng-2021-11-19/",
+        "sentiment": -2,
+        "timestamp": 1637348617,
+        "published": "November 19, 2021 2:03 PM"
+    },
+    {
+        "title": "Access to unsafe toilets is impacting the health of 3.6 billion people, says UN",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/next/2021/11/19/un-world-toilet-day-the-devastating-impact-of-unsafe-toilets-for-3-6-billion-people",
+        "sentiment": -2,
+        "timestamp": 1637349775,
+        "published": "November 19, 2021 2:22 PM"
+    },
+    {
+        "title": "Man in China banned from all-you-can-eat BBQ for eating too much",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-asia-china-59331975?at_campaign=64&at_custom4=37D4E1F4-485F-11EC-83A0-7DE639982C1E&at_custom3=BBC+News&at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom2=facebook_page&fbclid=IwAR0Kmgbk0-tRbx2H0AUlqkbH9QKwm0ceDPq8eYlAym0ccVLi6PRxLYDEQFE",
+        "sentiment": -2,
+        "timestamp": 1637350060,
+        "published": "November 19, 2021 2:27 PM"
+    },
+    {
+        "title": "Croatia's seed-scattering drones replant forests hurt by fire",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/environment/croatias-seed-scattering-drones-replant-forests-hurt-by-fire-2021-11-17/",
+        "sentiment": -4,
+        "timestamp": 1637350402,
+        "published": "November 19, 2021 2:33 PM"
+    },
+    {
         "title": "Canadian army stops delivering supplies to Afghan translator stranded in Ukraine",
         "domain": "theglobeandmail.com",
         "category": "worldnews",
