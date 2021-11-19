@@ -1,5 +1,86 @@
 [
     {
+        "title": "4 teens to face ethnic intimidation charges for attacking Asian classmates on SEPTA",
+        "domain": "whyy.org",
+        "category": "news",
+        "link": "https://whyy.org/articles/septa-philly-schools-investigate-assault-against-students-on-broad-street-line/",
+        "sentiment": -5,
+        "timestamp": 1637312676,
+        "published": "November 19, 2021 4:04 AM"
+    },
+    {
+        "title": "Kevin McCarthy said in an hours-long floor speech that no one elected Biden to be FDR, prompting AOC to shout 'I did!'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kevin-mccarthy-no-one-elected-biden-fdr-aoc-i-did-2021-11",
+        "sentiment": -1,
+        "timestamp": 1637313669,
+        "published": "November 19, 2021 4:21 AM"
+    },
+    {
+        "title": "Deforestation in the Amazon hits 15-year high as illegal logging continues A new report undermines Brazilian government claims it's curbing illegal logging in the Amazon, suggesting deforestation has jumped by almost a quarter.",
+        "domain": "sbs.com.au",
+        "category": "worldnews",
+        "link": "https://www.sbs.com.au/news/deforestation-in-the-amazon-hits-15-year-high-as-illegal-logging-continues/d46dd63e-251e-4346-b6df-261934544a03",
+        "sentiment": -8,
+        "timestamp": 1637313970,
+        "published": "November 19, 2021 4:26 AM"
+    },
+    {
+        "title": "American Battery Technology Company approved to build battery recycling facility in Nevada",
+        "domain": "pv-magazine-usa.com",
+        "category": "technology",
+        "link": "https://pv-magazine-usa.com/2021/11/18/american-battery-technology-company-approved-to-build-battery-recycling-facility-in-nevada/",
+        "sentiment": 2,
+        "timestamp": 1637315103,
+        "published": "November 19, 2021 4:45 AM"
+    },
+    {
+        "title": "Hospitalizations rising among fully vaccinated in U.S., Fauci says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/health/health-news/hospitalizations-rising-fully-vaccinated-us-fauci-says-rcna5907",
+        "sentiment": 0,
+        "timestamp": 1637315256,
+        "published": "November 19, 2021 4:47 AM"
+    },
+    {
+        "title": "Austria reimposes full lockdown, plans to make COVID vaccines compulsory",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/austria-reimposes-full-lockdown-makes-vaccination-compulsory-2021-11-19/",
+        "sentiment": 0,
+        "timestamp": 1637316996,
+        "published": "November 19, 2021 5:16 AM"
+    },
+    {
+        "title": "Ex-NFL player Zac Stacy arrested after alleged brutal attack of woman in Florida, jail records show",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/ex-nfl-player-zac-stacy-arrested-after-alleged-brutal-attack-of-woman-in-florida-jail-records-show",
+        "sentiment": -7,
+        "timestamp": 1637317430,
+        "published": "November 19, 2021 5:23 AM"
+    },
+    {
+        "title": "Anti-coal protesters shut down world’s largest coal port | A sustained protest movement by Blockade Australia has shut down export operations at the Port of Newcastle",
+        "domain": "mining-technology.com",
+        "category": "worldnews",
+        "link": "https://www.mining-technology.com/news/port-of-newcastle-sustained-protest-worlds-largest-coal-port/",
+        "sentiment": -6,
+        "timestamp": 1637318910,
+        "published": "November 19, 2021 5:48 AM"
+    },
+    {
+        "title": "Scientists test ion thrusters powered by iodine",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/in-a-space-first-scientists-test-ion-thrusters-powered-by-iodine/",
+        "sentiment": 0,
+        "timestamp": 1637320177,
+        "published": "November 19, 2021 6:09 AM"
+    },
+    {
         "title": "'They eat their children' — The wife of a former Interpol president who went missing in China in 2018 calls the Chinese government a 'monster'",
         "domain": "news.yahoo.com",
         "category": "worldnews",
