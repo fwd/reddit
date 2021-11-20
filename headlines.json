@@ -1,5 +1,113 @@
 [
     {
+        "title": "Iranians Hold Mass Protest Over Poor Water Management Amid Drought",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/iran-water-protests-isfahan/31569555.html",
+        "sentiment": -4,
+        "timestamp": 1637412100,
+        "published": "November 20, 2021 7:41 AM"
+    },
+    {
+        "title": "Vietnamese workers at Chinese factory in Serbia cry for help",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-china-europe-serbia-pollution-67431ad5f51b553357911dea24c70359",
+        "sentiment": 1,
+        "timestamp": 1637419019,
+        "published": "November 20, 2021 9:36 AM"
+    },
+    {
+        "title": "First Native to head the National Park Service - Charles “Chuck” Sams III is the agency's first Senate-confirmed parks director in nearly five years",
+        "domain": "indiancountrytoday.com",
+        "category": "politics",
+        "link": "https://indiancountrytoday.com/news/first-native-to-head-the-national-park-service",
+        "sentiment": 0,
+        "timestamp": 1637419346,
+        "published": "November 20, 2021 9:42 AM"
+    },
+    {
+        "title": "Two in hospital after police fire on Dutch COVID-19 protesters",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/rotterdam-mayor-slams-violent-covid-19-protests-scores-arrested-2021-11-20/",
+        "sentiment": -4,
+        "timestamp": 1637419807,
+        "published": "November 20, 2021 9:50 AM"
+    },
+    {
+        "title": "New Campaign Aims to Reform NY’s ‘Racist, Draconian’ Sentencing Laws",
+        "domain": "citylimits.org",
+        "category": "news",
+        "link": "https://citylimits.org/2021/11/18/new-campaign-aims-to-reform-nys-racist-draconian-sentencing-laws/",
+        "sentiment": -2,
+        "timestamp": 1637419807,
+        "published": "November 20, 2021 9:50 AM"
+    },
+    {
+        "title": "Joe Manchin worries Biden's social spending agenda costs too much, so why did he just vote for an infrastructure law that costs more?",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/joe-manchin-build-back-better-expensive-infrastructure-pricier-deficit-cbo-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637420559,
+        "published": "November 20, 2021 10:02 AM"
+    },
+    {
+        "title": "Colombia: President issues apology after police cadets dress like Nazis. Ivan Duque has issued an apology after police cadets were pictured dressed in Nazi-style uniforms with flags and other regalia as part of \"cultural exchange.\" The head of the academy has been sacked",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/colombia-president-issues-apology-after-police-cadets-dress-like-nazis/a-59887169",
+        "sentiment": 0,
+        "timestamp": 1637422017,
+        "published": "November 20, 2021 10:26 AM"
+    },
+    {
+        "title": "World's First Electric Autonomous Cargo Ship Launched In Norway",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/worlds-first-electric-autonomous-cargo-ship-launched-in-norway-2617903",
+        "sentiment": 1,
+        "timestamp": 1637422314,
+        "published": "November 20, 2021 10:31 AM"
+    },
+    {
+        "title": "President Joe Biden won applause Friday for moving to replace Ron Bloom and John Barger, two members of the U.S. Postal Service Board of Governors who've shown unwavering loyalty to scandal-plagued Postmaster General Louis DeJoy even as he's dramatically worsened mail delivery performance.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/19/now-fire-dejoy-biden-moves-replace-trump-picked-postal-board-members",
+        "sentiment": 5,
+        "timestamp": 1637424536,
+        "published": "November 20, 2021 11:08 AM"
+    },
+    {
+        "title": "Locked Out of ‘God Mode,’ Runners Are Hacking Their Treadmills - NordicTrack customers were watching Netflix using a simple trick—until the company blocked their access.",
+        "domain": "wired.co.uk",
+        "category": "technology",
+        "link": "https://www.wired.co.uk/article/nordictrack-ifit-treadmill-privilege-mode",
+        "sentiment": -1,
+        "timestamp": 1637424745,
+        "published": "November 20, 2021 11:12 AM"
+    },
+    {
+        "title": "Sarah Snook (Succession) is the Performer of the Week. Honorable mentions: Jennifer Aniston (The Morning Show), Matt Ryan (Legends of Tomorrow) and Timothy Omundson & Corbin Bernsen (Psych 3).",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/20/sarah-snook-performance-succession-season-3-episode-5-shiv-roy/",
+        "sentiment": 0,
+        "timestamp": 1637425688,
+        "published": "November 20, 2021 11:28 AM"
+    },
+    {
+        "title": "MrBeast Now Wants to Save the Oceans With 'Team Seas' and the Internet is here for it",
+        "domain": "news18.com",
+        "category": "technology",
+        "link": "https://www.news18.com/news/buzz/mrbeast-now-wants-to-clean-up-the-oceans-with-team-seas-and-internet-is-here-for-it-4385849.html",
+        "sentiment": 2,
+        "timestamp": 1637425695,
+        "published": "November 20, 2021 11:28 AM"
+    },
+    {
         "title": "Northern Territory to ban unvaccinated travellers",
         "domain": "news.com.au",
         "category": "worldnews",
