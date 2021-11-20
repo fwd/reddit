@@ -1,5 +1,59 @@
 [
     {
+        "title": "Andrew Coffee IV found not guilty of murder, attempted murder in Indian River County SWAT raid",
+        "domain": "wptv.com",
+        "category": "news",
+        "link": "https://www.wptv.com/news/region-indian-river-county/andrew-coffee-iv-found-not-guilty-on-5-counts-in-indian-river-county-swat-raid",
+        "sentiment": -1,
+        "timestamp": 1637387107,
+        "published": "November 20, 2021 12:45 AM"
+    },
+    {
+        "title": "Democrats are way behind in countering GOP messages about critical race theory",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/critical-race-theory-democrats-strategy-to-counter-republicans-messaging-education-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637387372,
+        "published": "November 20, 2021 12:49 AM"
+    },
+    {
+        "title": "Students walk out of class, protest school leaders in Bellevue",
+        "domain": "kiro7.com",
+        "category": "news",
+        "link": "https://www.kiro7.com/news/local/student-protest-newport-high-school-leads-lockdown/KDIBOJE4PVGMNFUOBO6LERVHHE/",
+        "sentiment": -2,
+        "timestamp": 1637391746,
+        "published": "November 20, 2021 2:02 AM"
+    },
+    {
+        "title": "‘We are more powerful than Modi’: Indian farmers celebrate U-turn on laws",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/19/we-are-more-powerful-than-modi-indian-farmers-celebrate-laws-repealing",
+        "sentiment": 5,
+        "timestamp": 1637399501,
+        "published": "November 20, 2021 4:11 AM"
+    },
+    {
+        "title": "Tesla drivers left unable to start their cars after outage",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/technology-59357306",
+        "sentiment": -4,
+        "timestamp": 1637402647,
+        "published": "November 20, 2021 5:04 AM"
+    },
+    {
+        "title": "Japan's Toughest Schoolgirls - The Sailor Suit Rebel Alliance",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=PaUXsrYwuvQ",
+        "sentiment": -2,
+        "timestamp": 1637404037,
+        "published": "November 20, 2021 5:27 AM"
+    },
+    {
         "title": "COVID: AstraZeneca unveils antibody treatment and preventative shot for those who can’t be vaccinated - AstraZeneca said the drug reduced the risk of severe disease and death by 77 per cent",
         "domain": "smh.com.au",
         "category": "worldnews",
