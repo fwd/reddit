@@ -1,5 +1,77 @@
 [
     {
+        "title": "NBC4 Washington: Murder Charge Dropped Against Man in High-Speed Chase, Crash in DC",
+        "domain": "nbcwashington.com",
+        "category": "news",
+        "link": "https://www.nbcwashington.com/news/local/murder-charge-dropped-against-man-in-high-speed-chase-crash-in-dc/2888501/",
+        "sentiment": -5,
+        "timestamp": 1637432580,
+        "published": "November 20, 2021 1:23 PM"
+    },
+    {
+        "title": "Thousands protest virus restrictions in Vienna, Zurich",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-europe-austria-vienna-bea60fffc55590d0b956752274ddfb88",
+        "sentiment": -2,
+        "timestamp": 1637435232,
+        "published": "November 20, 2021 2:07 PM"
+    },
+    {
+        "title": "Wisconsin Republicans, at the urging of Sen. Ron Johnson, are pushing to unilaterally seize control over federal elections in the battleground state, an effort that observers warned is part of the GOP's multi-pronged assault on democracy in the wake of former President Donald Trump's defeat last yea",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/20/blatant-partisan-power-grab-wisconsin-gop-attempts-seize-control-states-elections",
+        "sentiment": -6,
+        "timestamp": 1637439103,
+        "published": "November 20, 2021 3:11 PM"
+    },
+    {
+        "title": "Biden and aides tell allies he is running in 2024 amid growing Democratic fears",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/biden-reelection-2024/2021/11/20/0779469c-4947-11ec-95dc-5f2a96e00fa3_story.html",
+        "sentiment": 1,
+        "timestamp": 1637439581,
+        "published": "November 20, 2021 3:19 PM"
+    },
+    {
+        "title": "Covid: WHO says it is very worried about Europe surge",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59358074",
+        "sentiment": -3,
+        "timestamp": 1637443899,
+        "published": "November 20, 2021 4:31 PM"
+    },
+    {
+        "title": "Malarial mosquitoes completely suppressed in gene drive experiments that mimic natural environments",
+        "domain": "imperial.ac.uk",
+        "category": "technology",
+        "link": "https://www.imperial.ac.uk/news/227193/malarial-mosquitoes-suppressed-experiments-that-mimic/",
+        "sentiment": 1,
+        "timestamp": 1637448209,
+        "published": "November 20, 2021 5:43 PM"
+    },
+    {
+        "title": "France: Tens of thousands protest violence against women. Chanting protesters took to the streets across France to call for an end to sexual violence. More than 100 women have been killed in France by their partners or ex-partners in 2021",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/france-tens-of-thousands-protest-violence-against-women/a-59891650",
+        "sentiment": -13,
+        "timestamp": 1637448949,
+        "published": "November 20, 2021 5:55 PM"
+    },
+    {
+        "title": "An Oral History of ‘Curb Your Enthusiasm’ Cameos",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2021/11/19/22789464/curb-your-enthusiasm-cameos-oral-history",
+        "sentiment": 0,
+        "timestamp": 1637449820,
+        "published": "November 20, 2021 6:10 PM"
+    },
+    {
         "title": "Yemeni army strikes military bases, Aramco refineries and airports deep inside Saudi Arabia",
         "domain": "thecradle.co",
         "category": "worldnews",
