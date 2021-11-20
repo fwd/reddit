@@ -1,5 +1,59 @@
 [
     {
+        "title": "NYC aims to be first to rein in AI hiring tools",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/technology-business-race-and-ethnicity-racial-injustice-artificial-intelligence-2fe8d3ef7008d299d9d810f0c0f7905d",
+        "sentiment": 0,
+        "timestamp": 1637347562,
+        "published": "November 19, 2021 1:46 PM"
+    },
+    {
+        "title": "Zero emissions and, soon, zero crew: the world's first fully electric autonomous cargo vessel was unveiled in Norway, a small but promising step toward reducing the maritime industry's climate footprint",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211119-first-electric-autonomous-cargo-ship-launched-in-norway",
+        "sentiment": 0,
+        "timestamp": 1637354886,
+        "published": "November 19, 2021 3:48 PM"
+    },
+    {
+        "title": "A Lumber Poacher Has Been Foiled—by Tree DNA",
+        "domain": "popularmechanics.com",
+        "category": "news",
+        "link": "https://www.popularmechanics.com/science/a38303861/lumber-poacher-foiled-by-tree-dna/",
+        "sentiment": 0,
+        "timestamp": 1637363169,
+        "published": "November 19, 2021 6:06 PM"
+    },
+    {
+        "title": "US and Taiwan to hold talks on Monday about forging closer economic ties",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/article/3156774/us-and-taiwan-hold-talks-monday-about-forging-closer-economic-ties",
+        "sentiment": 0,
+        "timestamp": 1637366408,
+        "published": "November 19, 2021 7:00 PM"
+    },
+    {
+        "title": "KCPD Det. Eric DeValkenaere found guilty in death of Cameron Lamb",
+        "domain": "kshb.com",
+        "category": "news",
+        "link": "https://www.kshb.com/news/crime/kcpd-det-eric-devalkenaere-found-guilty-in-death-of-cameron-lamb",
+        "sentiment": -5,
+        "timestamp": 1637366766,
+        "published": "November 19, 2021 7:06 PM"
+    },
+    {
+        "title": "GoFundMe explains why it removed fundraisers for Kyle Rittenhouse's legal fees",
+        "domain": "msn.com",
+        "category": "technology",
+        "link": "https://www.msn.com/en-us/news/crime/gofundme-explains-why-it-removed-fundraisers-for-kyle-rittenhouses-legal-fees/ar-AAQUZr1",
+        "sentiment": 1,
+        "timestamp": 1637366956,
+        "published": "November 19, 2021 7:09 PM"
+    },
+    {
         "title": "Scientists mystified, wary, as Africa avoids COVID disaster",
         "domain": "apnews.com",
         "category": "news",
