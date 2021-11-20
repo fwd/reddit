@@ -1,5 +1,113 @@
 [
     {
+        "title": "Fire breaks out near Place de L'Opera in central Paris",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/20/europe/paris-opera-fire-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1637428546,
+        "published": "November 20, 2021 12:15 PM"
+    },
+    {
+        "title": "Man arrested after shooting and killing wife at Mississippi casino | Mississippi News Group",
+        "domain": "msnewsgroup.com",
+        "category": "news",
+        "link": "https://msnewsgroup.com/breakingmississippinews/man-arrested-after-shooting-and-killing-wife-at-mississippi-casino/",
+        "sentiment": -6,
+        "timestamp": 1637435277,
+        "published": "November 20, 2021 2:07 PM"
+    },
+    {
+        "title": "'Orgy of violence': Dutch police open fire on rioters",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/orgy-violence-dutch-police-open-fire-rioters-81295729",
+        "sentiment": -2,
+        "timestamp": 1637436954,
+        "published": "November 20, 2021 2:35 PM"
+    },
+    {
+        "title": "Biden mourns loss of over 40 transgender Americans that died by violence in 2021",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582483-biden-mourns-loss-of-over-40-transgender-americans-that-died-by",
+        "sentiment": -11,
+        "timestamp": 1637439537,
+        "published": "November 20, 2021 3:18 PM"
+    },
+    {
+        "title": "BLM supporter who drove through Yorba Linda protest crowd was denied her rights at hearing, judge rules",
+        "domain": "ocregister.com",
+        "category": "news",
+        "link": "https://www.ocregister.com/2021/11/19/judge-rules-blm-supporter-who-drove-through-yorba-linda-protest-crowd-was-denied-her-rights-at-hearing/",
+        "sentiment": -3,
+        "timestamp": 1637439617,
+        "published": "November 20, 2021 3:20 PM"
+    },
+    {
+        "title": "Cawthorn praises Rittenhouse verdict, tells supporters: ‘Be armed, be dangerous.’",
+        "domain": "newsobserver.com",
+        "category": "politics",
+        "link": "https://www.newsobserver.com/news/politics-government/article255964907.html?fbclid=IwAR1-vyzNueqdFLP3MFAp2XJ5ONjm4QFNikK6N4EiV5t2warXJaoWtBP2jag",
+        "sentiment": 1,
+        "timestamp": 1637439789,
+        "published": "November 20, 2021 3:23 PM"
+    },
+    {
+        "title": "On World Children’s Day… Israel Killed 15 Palestinian Kids, Detained Hundreds In 10 Months",
+        "domain": "palestineonline.org",
+        "category": "worldnews",
+        "link": "http://palestineonline.org/on-world-childrens-day-israel-killed-15-palestinian-kids-detained-hundreds-in-10-months/",
+        "sentiment": -5,
+        "timestamp": 1637440288,
+        "published": "November 20, 2021 3:31 PM"
+    },
+    {
+        "title": "China’s burned-out tech workers are fighting back against long hours",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2021/11/15/1039650/china-tech-workers-996-fight-back/",
+        "sentiment": -2,
+        "timestamp": 1637440888,
+        "published": "November 20, 2021 3:41 PM"
+    },
+    {
+        "title": "Crypto-Fueled Plan to Buy the U.S. Constitution Ends With a Big Pool of Money and No Constitution",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/crypto-fueled-plan-to-buy-the-u-s-constitution-ends-wi-1848089201",
+        "sentiment": 0,
+        "timestamp": 1637441108,
+        "published": "November 20, 2021 3:45 PM"
+    },
+    {
+        "title": "‘Station 19,’ ‘Grey’s Anatomy,’ ‘Big Sky’ Surge in Multiplatform Viewing",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/greys-anatomy-station-19-big-ratings-muiltiplatform-1235050616/",
+        "sentiment": 0,
+        "timestamp": 1637443186,
+        "published": "November 20, 2021 4:19 PM"
+    },
+    {
+        "title": "Mark Zuckerberg's metaverse could fracture the world as we know it — letting people 'reality block' things they disagree with and making polarization even worse",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-meta-metaverse-splinter-reality-more-2021-11",
+        "sentiment": -5,
+        "timestamp": 1637443637,
+        "published": "November 20, 2021 4:27 PM"
+    },
+    {
+        "title": "Empire's revenge on Azura is the cruelest thing I've ever seen (\"Foundation\", Apple+)",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=t05qXF5QLWw",
+        "sentiment": -2,
+        "timestamp": 1637444246,
+        "published": "November 20, 2021 4:37 PM"
+    },
+    {
         "title": "Kyoto University experiment removes mouse memories with light",
         "domain": "soranews24.com",
         "category": "worldnews",
