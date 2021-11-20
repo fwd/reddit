@@ -1,5 +1,77 @@
 [
     {
+        "title": "Media dilemma: How to cover indecent politicians without amplifying them?",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/media-dilemma-how-to-cover-indecent-politicians-without-amplifying-them-126722117722",
+        "sentiment": -1,
+        "timestamp": 1637398232,
+        "published": "November 20, 2021 3:50 AM"
+    },
+    {
+        "title": "'Blatant Partisan Power Grab': Wisconsin GOP Attempts to Seize Control of State's Elections",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/20/blatant-partisan-power-grab-wisconsin-gop-attempts-seize-control-states-elections",
+        "sentiment": 0,
+        "timestamp": 1637410257,
+        "published": "November 20, 2021 7:10 AM"
+    },
+    {
+        "title": "These Democrats Are Helping Companies Take Gold From Public Lands for Free",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/11/general-mining-law-1872-companies-public-lands-gold-silver-royalties-joe-manchin-catherine-cortez-masto/",
+        "sentiment": 5,
+        "timestamp": 1637411979,
+        "published": "November 20, 2021 7:39 AM"
+    },
+    {
+        "title": "U.S. warns allies of possible Russian incursion as troops amass near Ukraine",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html",
+        "sentiment": -2,
+        "timestamp": 1637412676,
+        "published": "November 20, 2021 7:51 AM"
+    },
+    {
+        "title": "MediaTek’s new Dimensity 9000 flagship could compete with Qualcomm’s top-tier Snapdragon chips",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/18/22790189/mediatek-dimensity-9000-flagship-chip-qualcomm-snapdragon-competition-arm",
+        "sentiment": 2,
+        "timestamp": 1637413859,
+        "published": "November 20, 2021 8:10 AM"
+    },
+    {
+        "title": "Arizona man convicted after threatening Pelosi with ‘I’m coming to kill you’ message",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/arizona-man-convicted-threatening-pelosi-m-coming-kill-message-rcna6218",
+        "sentiment": -7,
+        "timestamp": 1637414078,
+        "published": "November 20, 2021 8:14 AM"
+    },
+    {
+        "title": "Single-use plastic plates and cutlery could be banned in England",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/20/single-use-plastic-plates-and-cutlery-could-be-banned-in-england",
+        "sentiment": -2,
+        "timestamp": 1637414121,
+        "published": "November 20, 2021 8:15 AM"
+    },
+    {
+        "title": "This US law mandates that new cars have anti-drink driving tech. Critics say it's a loss of privacy",
+        "domain": "euronews.com",
+        "category": "technology",
+        "link": "https://www.euronews.com/next/2021/11/20/this-us-law-mandates-that-new-cars-have-anti-drink-driving-tech-critics-say-it-s-a-loss-of",
+        "sentiment": -5,
+        "timestamp": 1637415500,
+        "published": "November 20, 2021 8:38 AM"
+    },
+    {
         "title": "Biden surprises with USPS board shake-up; key DeJoy allies to be replaced",
         "domain": "msnbc.com",
         "category": "politics",
