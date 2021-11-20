@@ -1,5 +1,68 @@
 [
     {
+        "title": "U.S. senators move to block $650 mln arms sale to Saudi Arabia",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/markets/asia/us-senators-move-block-650-mln-arms-sale-saudi-arabia-2021-11-18/",
+        "sentiment": -1,
+        "timestamp": 1637364200,
+        "published": "November 19, 2021 6:23 PM"
+    },
+    {
+        "title": "US warns \"other countries\" about threatening Lithuania over Taiwan office",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/china/us-warns-other-countries-about-threatening-lithuania-over-taiwan-office-2021-11-19/",
+        "sentiment": -4,
+        "timestamp": 1637369757,
+        "published": "November 19, 2021 7:55 PM"
+    },
+    {
+        "title": "Attorney accuses Arbery advocates of `lynching' defendants",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/ahmaud-arbery-georgia-brunswick-crime-martin-luther-king-iii-626cf8c7dcf80d608642894163df1d86",
+        "sentiment": -2,
+        "timestamp": 1637372291,
+        "published": "November 19, 2021 8:38 PM"
+    },
+    {
+        "title": "Austria plans compulsory Covid vaccination for all",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/19/austria-plans-compulsory-covid-vaccination-for-all",
+        "sentiment": 0,
+        "timestamp": 1637374172,
+        "published": "November 19, 2021 9:09 PM"
+    },
+    {
+        "title": "Kansas City police officer Eric DeValkenaere found guilty in fatal shooting of a Black man | KCUR 89.3 - NPR in Kansas City. Local news, entertainment and podcasts.",
+        "domain": "kcur.org",
+        "category": "news",
+        "link": "https://www.kcur.org/news/2021-11-19/kansas-city-police-officer-eric-devalkenaere-found-guilty-in-fatal-shooting-of-a-black-man",
+        "sentiment": -6,
+        "timestamp": 1637374670,
+        "published": "November 19, 2021 9:17 PM"
+    },
+    {
+        "title": "Lawsuit: Tesla is like a “frat house” with “frequent groping on the factory floor”",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/11/lawsuit-tesla-is-like-a-frat-house-with-frequent-groping-on-the-factory-floor/",
+        "sentiment": 0,
+        "timestamp": 1637376961,
+        "published": "November 19, 2021 9:56 PM"
+    },
+    {
+        "title": "As Amazon Shifts to Big-Budget Bets, ‘The Wheel of Time’ Looks to Break Out Big",
+        "domain": "observer.com",
+        "category": "television",
+        "link": "https://observer.com/2021/11/amazon-wheel-of-time-ratings-prime-video-vs-netflix-disney-apple-hbo/",
+        "sentiment": 1,
+        "timestamp": 1637377437,
+        "published": "November 19, 2021 10:03 PM"
+    },
+    {
         "title": "Some Tesla drivers report being locked out during server outage",
         "domain": "nbcnews.com",
         "category": "news",
