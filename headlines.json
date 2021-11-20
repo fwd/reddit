@@ -1,5 +1,41 @@
 [
     {
+        "title": "New lawsuit filed on behalf of more than 280 Astroworld Festival concertgoers",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/19/us/lawsuit-280-astroworld-festival-attendees-travis-scott/index.html",
+        "sentiment": -2,
+        "timestamp": 1637402283,
+        "published": "November 20, 2021 4:58 AM"
+    },
+    {
+        "title": "Don't go to Mexico: Cartel expert warns tourists to stay away as drug gangs' war escalates and country's National Guard is deployed to Cancún",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10221537/Mexican-artel-expert-warns-tourists-stay-away-drug-gangs-war-escalates.html",
+        "sentiment": -4,
+        "timestamp": 1637403195,
+        "published": "November 20, 2021 5:13 AM"
+    },
+    {
+        "title": "20% of the worlds Sequoias destroyed by wildfire in the last two years",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "http://www.theguardian.com/us-news/2021/nov/19/giant-sequoias-wildfires-killed",
+        "sentiment": -3,
+        "timestamp": 1637403974,
+        "published": "November 20, 2021 5:26 AM"
+    },
+    {
+        "title": "Colombia: President issues apology after police cadets dress like Nazis",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/news/other/colombia-president-issues-apology-after-police-cadets-dress-like-nazis/ar-AAQVwiy",
+        "sentiment": 1,
+        "timestamp": 1637404455,
+        "published": "November 20, 2021 5:34 AM"
+    },
+    {
         "title": "Andrew Coffee IV found not guilty of murder, attempted murder in Indian River County SWAT raid",
         "domain": "wptv.com",
         "category": "news",
