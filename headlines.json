@@ -1,5 +1,104 @@
 [
     {
+        "title": "CBD ban removed from Montana’s marijuana program",
+        "domain": "billingsgazette.com",
+        "category": "politics",
+        "link": "https://billingsgazette.com/news/state-and-regional/cbd-ban-removed-from-montana-s-marijuana-program/article_039c6a4c-273c-5b97-994b-bff283c90f69.html",
+        "sentiment": -2,
+        "timestamp": 1637424188,
+        "published": "November 20, 2021 11:03 AM"
+    },
+    {
+        "title": "'Democracy is on the line': Election officials face ongoing threats for doing their jobs",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/democracy-line-election-officials-face-ongoing-threats-jobs/story?id=81278394",
+        "sentiment": -2,
+        "timestamp": 1637430128,
+        "published": "November 20, 2021 12:42 PM"
+    },
+    {
+        "title": "Committee to Protect Journalists calls on Canadian police to release detained journalists",
+        "domain": "cpj.org",
+        "category": "worldnews",
+        "link": "https://cpj.org/2021/11/cpj-calls-on-canadian-police-to-release-detained-journalists/",
+        "sentiment": -1,
+        "timestamp": 1637430179,
+        "published": "November 20, 2021 12:42 PM"
+    },
+    {
+        "title": "House bill makes child tax credit fully refundable, a boon for low earners",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/19/house-bill-extends-enhanced-child-tax-credit-for-a-year.html",
+        "sentiment": 0,
+        "timestamp": 1637430284,
+        "published": "November 20, 2021 12:44 PM"
+    },
+    {
+        "title": "RCMP arrest photojournalist Amber Bracken and 13 others during pipeline protest in Wet’suwet’en territory",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/canada/article-rcmp-arrest-photojournalist-and-13-others-during-pipeline-protest-in/",
+        "sentiment": -4,
+        "timestamp": 1637431164,
+        "published": "November 20, 2021 12:59 PM"
+    },
+    {
+        "title": "Thousands march in France protesting violence against women",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/20/thousands-march-in-france-over-violence-against-women",
+        "sentiment": -5,
+        "timestamp": 1637433815,
+        "published": "November 20, 2021 1:43 PM"
+    },
+    {
+        "title": "Texas Cops Tase, Pepper Spray High School Students Protesting Suspension of Student Who Reported Alleged Sexual Assault",
+        "domain": "lawandcrime.com",
+        "category": "politics",
+        "link": "https://lawandcrime.com/caught-on-video/texas-cops-tase-pepper-spray-high-school-students-protesting-suspension-of-student-who-reported-alleged-sexual-assault/",
+        "sentiment": -4,
+        "timestamp": 1637434084,
+        "published": "November 20, 2021 1:48 PM"
+    },
+    {
+        "title": "A look at the intimate details Amazon knows about us",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/look-intimate-details-amazon-knows-about-us-2021-11-19/",
+        "sentiment": 0,
+        "timestamp": 1637434288,
+        "published": "November 20, 2021 1:51 PM"
+    },
+    {
+        "title": "Worlds next door: looking for habitable planets at Alpha Centauri",
+        "domain": "sydney.edu.au",
+        "category": "technology",
+        "link": "https://www.sydney.edu.au/news-opinion/news/2021/11/17/worlds-next-door-habitable-planets-alpha-centauri-exoplanets-breakthrough.html",
+        "sentiment": 0,
+        "timestamp": 1637434878,
+        "published": "November 20, 2021 2:01 PM"
+    },
+    {
+        "title": "The time Weird Al was on Jeopardy",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=BvUZijEuNDQ",
+        "sentiment": -4,
+        "timestamp": 1637434891,
+        "published": "November 20, 2021 2:01 PM"
+    },
+    {
+        "title": "FBI investigates attempted breach of local election network in Ohio",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/20/fbi-investigates-attempted-breach-local-election-network-ohio",
+        "sentiment": -2,
+        "timestamp": 1637435864,
+        "published": "November 20, 2021 2:17 PM"
+    },
+    {
         "title": "US defends air strikes that killed civilians in Syria",
         "domain": "bbc.com",
         "category": "worldnews",
