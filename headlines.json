@@ -1,5 +1,113 @@
 [
     {
+        "title": "US defends air strikes that killed civilians in Syria",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-59279585/",
+        "sentiment": -4,
+        "timestamp": 1637413990,
+        "published": "November 20, 2021 8:13 AM"
+    },
+    {
+        "title": "Build Back Better is a 21st century New Deal",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/white-house/582443-build-back-better-is-a-21st-century-new-deal",
+        "sentiment": 2,
+        "timestamp": 1637418876,
+        "published": "November 20, 2021 9:34 AM"
+    },
+    {
+        "title": "Senate confirms first Native American to lead National Park Service",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/senate-confirms-first-native-american-lead-national-park-service-n1284288",
+        "sentiment": 0,
+        "timestamp": 1637421335,
+        "published": "November 20, 2021 10:15 AM"
+    },
+    {
+        "title": "Republicans are coming for California’s public schools. And they could actually win",
+        "domain": "sfchronicle.com",
+        "category": "politics",
+        "link": "https://www.sfchronicle.com/opinion/openforum/article/Republicans-are-coming-for-California-s-public-16637069.php",
+        "sentiment": 4,
+        "timestamp": 1637422611,
+        "published": "November 20, 2021 10:36 AM"
+    },
+    {
+        "title": "India Police Charge Amazon Executives In Alleged Marijuana Smuggling Case",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/markets/asia/india-police-charge-amazon-execs-alleged-marijuana-smuggling-case-2021-11-20/",
+        "sentiment": -2,
+        "timestamp": 1637423370,
+        "published": "November 20, 2021 10:49 AM"
+    },
+    {
+        "title": "Peng Shuai: Chinese state media claims to show new video clips of Chinese tennis star",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/20/tennis/peng-shuai-video-clip-spt-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1637427381,
+        "published": "November 20, 2021 11:56 AM"
+    },
+    {
+        "title": "177 lawsuits filed two weeks after deadly Astroworld tragedy",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/astroworld-festival-travis-scott-houston-concert-deaths-live-nation/11255030/",
+        "sentiment": -7,
+        "timestamp": 1637430521,
+        "published": "November 20, 2021 12:48 PM"
+    },
+    {
+        "title": "Fusion’s role in fighting climate change",
+        "domain": "thebulletin.org",
+        "category": "technology",
+        "link": "https://thebulletin.org/premium/2021-11/fusions-role-in-fighting-climate-change/",
+        "sentiment": -2,
+        "timestamp": 1637430691,
+        "published": "November 20, 2021 12:51 PM"
+    },
+    {
+        "title": "What Apple’s self-service plan means for DIY and third-party repair",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/19/22787245/apple-iphone-mac-self-service-program-repair-diy",
+        "sentiment": 0,
+        "timestamp": 1637430819,
+        "published": "November 20, 2021 12:53 PM"
+    },
+    {
+        "title": "David Fuller: Hospital worker admits murdering two women and sexually assaulting nearly 80 corpses | UK News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/david-fuller-admits-killing-two-women-in-1987-12459818",
+        "sentiment": -4,
+        "timestamp": 1637431186,
+        "published": "November 20, 2021 12:59 PM"
+    },
+    {
+        "title": "Read the emails Elon Musk sent Tesla employees about music on the job and following directions",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/19/elon-musk-emails-at-tesla-in-october-2021-music-direct-orders.html",
+        "sentiment": 0,
+        "timestamp": 1637431821,
+        "published": "November 20, 2021 1:10 PM"
+    },
+    {
+        "title": "Leaked audio: Amazon CEO Andy Jassy tells employees that 'salacious' reporters and politicians only talk about the 'rarities or edge cases' that make the company look bad",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/amazon-ceo-andy-jassy-reporters-politicians-all-hands-salacious-criticism-2021-11",
+        "sentiment": -4,
+        "timestamp": 1637432582,
+        "published": "November 20, 2021 1:23 PM"
+    },
+    {
         "title": "Europe's COVID crisis pits vaccinated against unvaccinated",
         "domain": "apnews.com",
         "category": "worldnews",
