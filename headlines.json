@@ -1,5 +1,95 @@
 [
     {
+        "title": "Israel returns wrong body to family of slain Palestinian",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/middle-east-jerusalem-israel-west-bank-a2b5d97c01894da8747d13848214d310",
+        "sentiment": -2,
+        "timestamp": 1637402213,
+        "published": "November 20, 2021 4:56 AM"
+    },
+    {
+        "title": "‘First woman president’: Kamala Harris makes history when she briefly assumes powers of presidency during Biden procedure | Ms Harris is the first woman to exercise the powers of the presidency under the 25th amendment",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-president-kamala-harris-b1960913.html",
+        "sentiment": 0,
+        "timestamp": 1637407002,
+        "published": "November 20, 2021 6:16 AM"
+    },
+    {
+        "title": "Sinema holds firm in support of the filibuster, imperiling late voting rights push",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/sinema-filibuster-voting-rights/2021/11/19/6be2b338-4966-11ec-95dc-5f2a96e00fa3_story.html",
+        "sentiment": 2,
+        "timestamp": 1637411796,
+        "published": "November 20, 2021 7:36 AM"
+    },
+    {
+        "title": "Amazon wages secret war on Americans' privacy, documents show",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "http://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/",
+        "sentiment": -2,
+        "timestamp": 1637413534,
+        "published": "November 20, 2021 8:05 AM"
+    },
+    {
+        "title": "Biden deemed 'fit to successfully execute the duties of the president' after first physical in office",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html",
+        "sentiment": 3,
+        "timestamp": 1637413939,
+        "published": "November 20, 2021 8:12 AM"
+    },
+    {
+        "title": "There's nothing more frightening in America today than an angry White man",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/20/us/angry-white-men-trials-blake-cec/index.html",
+        "sentiment": -6,
+        "timestamp": 1637414513,
+        "published": "November 20, 2021 8:21 AM"
+    },
+    {
+        "title": "All Republicans care about these days is trolling — and Kevin McCarthy is hilariously bad at it",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/20/all-care-about-these-days-is-trolling--and-kevin-mccarthy-is-hilariously-at-it/",
+        "sentiment": -1,
+        "timestamp": 1637414762,
+        "published": "November 20, 2021 8:26 AM"
+    },
+    {
+        "title": "Feds Probe Lindell Associate’s Link to Ohio Election-Data Breach",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/feds-probe-lindell-associate-douglas-franks-link-to-lake-county-ohio-election-data-breach",
+        "sentiment": -2,
+        "timestamp": 1637415439,
+        "published": "November 20, 2021 8:37 AM"
+    },
+    {
+        "title": "Britain seeks ban of single use plastic plates and cutlery in England",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/article/us-britain-plastic-idUSKBN2I5008",
+        "sentiment": -2,
+        "timestamp": 1637417507,
+        "published": "November 20, 2021 9:11 AM"
+    },
+    {
+        "title": "Ohio retirement fund sues Facebook over investment loss",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/tech/tech-news/ohio-retirement-fund-sues-facebook-investment-loss-rcna5693",
+        "sentiment": -5,
+        "timestamp": 1637418623,
+        "published": "November 20, 2021 9:30 AM"
+    },
+    {
         "title": "Media dilemma: How to cover indecent politicians without amplifying them?",
         "domain": "msnbc.com",
         "category": "politics",
