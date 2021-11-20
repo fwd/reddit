@@ -1,5 +1,149 @@
 [
     {
+        "title": "Europe's COVID crisis pits vaccinated against unvaccinated",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-lifestyle-health-holidays-austria-eca483dc933075818334c74de26fb9c0",
+        "sentiment": -3,
+        "timestamp": 1637409893,
+        "published": "November 20, 2021 7:04 AM"
+    },
+    {
+        "title": "CNN - Gerrymandering: How it's being exposed and how it affects your state",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html",
+        "sentiment": -1,
+        "timestamp": 1637416673,
+        "published": "November 20, 2021 8:57 AM"
+    },
+    {
+        "title": "2 Million Missing Workers Are Immigrants Who Never Came to Solve the Labor Shortage",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/immigration-could-solve-labor-shortage-3-million-missing-workers-trump-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637418513,
+        "published": "November 20, 2021 9:28 AM"
+    },
+    {
+        "title": "Queen marks first wedding anniversary without Prince Philip",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/queen-marks-first-wedding-anniversary-without-prince-philip-12473273",
+        "sentiment": 0,
+        "timestamp": 1637418515,
+        "published": "November 20, 2021 9:28 AM"
+    },
+    {
+        "title": "Biden-Harris Administration Memorializes Transgender Day of Remembrance | The White House",
+        "domain": "whitehouse.gov",
+        "category": "politics",
+        "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/",
+        "sentiment": 0,
+        "timestamp": 1637418887,
+        "published": "November 20, 2021 9:34 AM"
+    },
+    {
+        "title": "Jaw bombs, the deadliest threat to Sri Lanka’s elephants, are scaling up",
+        "domain": "news.mongabay.com",
+        "category": "news",
+        "link": "https://news.mongabay.com/2021/11/jaw-bombs-the-deadliest-threat-to-sri-lankas-elephants-are-scaling-up/",
+        "sentiment": -2,
+        "timestamp": 1637422707,
+        "published": "November 20, 2021 10:38 AM"
+    },
+    {
+        "title": "Big Tech at COP26: Here's who attended the climate talks and what roles they played",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/big-tech-at-cop26-who-attended-the-climate-talks-and-what-role-did-they-play/",
+        "sentiment": 1,
+        "timestamp": 1637423414,
+        "published": "November 20, 2021 10:50 AM"
+    },
+    {
+        "title": "[TX] Police Respond to ‘Calm Things Down’ During Protest at Little Elm HS",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/local/police-respond-to-calm-things-down-after-disruption-during-protest-at-little-elm-hs/2820925/",
+        "sentiment": -2,
+        "timestamp": 1637423847,
+        "published": "November 20, 2021 10:57 AM"
+    },
+    {
+        "title": "Wife of jailed ex-Interpol chief says friend risks same fate",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/europe-china-france-beijing-lyon-996e99536927f114713eea18b6cd1e60",
+        "sentiment": -3,
+        "timestamp": 1637423888,
+        "published": "November 20, 2021 10:58 AM"
+    },
+    {
+        "title": "Home Office ‘covering up’ its own study of why refugees come to the UK",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/uk-news/2021/nov/20/home-office-covering-up-its-own-study-of-why-refugees-come-to-the-uk",
+        "sentiment": 0,
+        "timestamp": 1637424477,
+        "published": "November 20, 2021 11:07 AM"
+    },
+    {
+        "title": "MediaTek Unveils Fully Loaded Flagship Mobile Processor",
+        "domain": "extremetech.com",
+        "category": "technology",
+        "link": "https://www.extremetech.com/mobile/329214-mediatek-unveils-fully-loaded-flagship-mobile-processor",
+        "sentiment": 2,
+        "timestamp": 1637424762,
+        "published": "November 20, 2021 11:12 AM"
+    },
+    {
+        "title": "Poland says Belarus has changed tactics on border crisis - Belarus said to be directing smaller groups of people to multiple points along the EU’s eastern frontier",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/20/poland-says-belarus-changed-tactics-border-crisis-migrants",
+        "sentiment": -3,
+        "timestamp": 1637424769,
+        "published": "November 20, 2021 11:12 AM"
+    },
+    {
+        "title": "Dutch police open fire on Covid lockdown protesters as European nations reintroduce restrictions",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/police-netherlands-open-fire-covid-lockdown-protesters-european-nation-rcna6231",
+        "sentiment": -4,
+        "timestamp": 1637425034,
+        "published": "November 20, 2021 11:17 AM"
+    },
+    {
+        "title": "Judge Blames Trump for Jan. 6, Tells Rioter ‘You Were a Pawn in a Game’",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/judge-blames-trump-jan-6-riot-1260527/",
+        "sentiment": -2,
+        "timestamp": 1637425889,
+        "published": "November 20, 2021 11:31 AM"
+    },
+    {
+        "title": "Old Norse, Old English, and Old French scenes in Vikings",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/-EPoGQZbLD0",
+        "sentiment": 0,
+        "timestamp": 1637428879,
+        "published": "November 20, 2021 12:21 PM"
+    },
+    {
+        "title": "'Chloe' First-Look Images Reveal New Psychological Thriller From Prime Video and BBC One",
+        "domain": "streamingdigitally.com",
+        "category": "television",
+        "link": "https://www.streamingdigitally.com/news/bbc-one-prime-video-chloe-first-look-images-released/",
+        "sentiment": 0,
+        "timestamp": 1637429769,
+        "published": "November 20, 2021 12:36 PM"
+    },
+    {
         "title": "Iranians Hold Mass Protest Over Poor Water Management Amid Drought",
         "domain": "rferl.org",
         "category": "worldnews",
