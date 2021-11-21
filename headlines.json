@@ -1,5 +1,113 @@
 [
     {
+        "title": "Woman detained for allegedly writing on Kenosha County Courthouse steps as protesters gather",
+        "domain": "cbs58.com",
+        "category": "news",
+        "link": "https://www.cbs58.com/news/judge-schroeder-must-go-woman-cited-for-allegedly-writing-on-kenosha-county-courthouse-steps",
+        "sentiment": -4,
+        "timestamp": 1637491137,
+        "published": "November 21, 2021 5:38 AM"
+    },
+    {
+        "title": "Dutch police detain dozens in a second night of COVID-19 rioting",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/dutch-police-detain-dozens-second-night-covid-19-rioting-2021-11-21/",
+        "sentiment": -2,
+        "timestamp": 1637495013,
+        "published": "November 21, 2021 6:43 AM"
+    },
+    {
+        "title": "China is now world's richest country",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/report-china-now-worlds-richest-170102566.html",
+        "sentiment": 0,
+        "timestamp": 1637498393,
+        "published": "November 21, 2021 7:39 AM"
+    },
+    {
+        "title": "The GOP Dark Money Group Giving Big to White Supremacists",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/the-gop-dark-money-group-donors-trust-giving-big-to-vdare-white-supremacists?ref=home?ref=home",
+        "sentiment": 1,
+        "timestamp": 1637499468,
+        "published": "November 21, 2021 7:57 AM"
+    },
+    {
+        "title": "A GOP Senate candidate bragged that he's not vaccinated but financial disclosures show he's making money from companies that make COVID-19 vaccines",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-senate-candidate-mark-pukita-not-vaccinated-money-makers-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637499773,
+        "published": "November 21, 2021 8:02 AM"
+    },
+    {
+        "title": "Up to a fifth of world’s biggest trees destroyed in recent fires",
+        "domain": "theage.com.au",
+        "category": "worldnews",
+        "link": "https://www.theage.com.au/world/north-america/up-to-a-fifth-of-world-s-biggest-trees-destroyed-in-recent-fires-20211121-p59ar2.html?utm_medium=Social&utm_source=Twitter#Echobox=1637475137",
+        "sentiment": -3,
+        "timestamp": 1637500375,
+        "published": "November 21, 2021 8:12 AM"
+    },
+    {
+        "title": "Democrats push for boost in wildland firefighter pay, increased mental health benefits",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/equilibrium-sustainability/578761-democrats-push-for-boost-in-wildland-firefighter-pay",
+        "sentiment": 3,
+        "timestamp": 1637500709,
+        "published": "November 21, 2021 8:18 AM"
+    },
+    {
+        "title": "Another voter fraud accusation blows up in Republicans' faces",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html",
+        "sentiment": -6,
+        "timestamp": 1637500908,
+        "published": "November 21, 2021 8:21 AM"
+    },
+    {
+        "title": "North Carolina Lieutenant Governor Says Straights Are ‘Superior’ to Gays",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/north-carolina-lieutenant-governor-mark-robinson-says-straights-are-superior-to-gays",
+        "sentiment": 0,
+        "timestamp": 1637501471,
+        "published": "November 21, 2021 8:31 AM"
+    },
+    {
+        "title": "Sports Viewers Are Ditching Pay TV",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2021/11/21/sports-fans-are-being-sidelined-as-rsns-fight-the-decay-of-pay-tv.html",
+        "sentiment": -1,
+        "timestamp": 1637504960,
+        "published": "November 21, 2021 9:29 AM"
+    },
+    {
+        "title": "We tried Tesla's 'full self-driving.' Here's what happened",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/11/18/cars/tesla-full-self-driving-brooklyn/index.html",
+        "sentiment": 0,
+        "timestamp": 1637505283,
+        "published": "November 21, 2021 9:34 AM"
+    },
+    {
+        "title": "Restaurants are turning to robotic servers because they can't find enough staff. These videos show how they clear tables and bring food to diners.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/labor-shortage-watch-robotic-servers-restaurant-video-technology-automation-robotech-2021-11",
+        "sentiment": 1,
+        "timestamp": 1637505544,
+        "published": "November 21, 2021 9:39 AM"
+    },
+    {
         "title": "Plastic pollution: New meat tray 'could save tonnes of waste'",
         "domain": "bbc.com",
         "category": "news",
