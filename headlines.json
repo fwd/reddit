@@ -1,5 +1,59 @@
 [
     {
+        "title": "An Indian coal billionaire added more wealth than Bezos this year",
+        "domain": "qz.com",
+        "category": "worldnews",
+        "link": "https://qz.com/india/2089248/gautam-adanis-net-worth-in-2021-has-risen-more-than-ambanis/#:~:text=An%20Indian%20coal%20billionaire%20added,Bezos%20or%20Ambani%20this%20year&text=The%20wealth%20of%20Gautam%20Adani,Asia's%20richest%20man%2C%20Mukesh%20Ambani.",
+        "sentiment": 3,
+        "timestamp": 1637475673,
+        "published": "November 21, 2021 1:21 AM"
+    },
+    {
+        "title": "Hong Kong public libraries purge 29 titles about the Tiananmen Massacre from the shelves",
+        "domain": "hongkongfp.com",
+        "category": "worldnews",
+        "link": "https://hongkongfp.com/2021/11/21/hong-kong-public-libraries-purge-29-titles-about-the-tiananmen-massacre-from-their-shelves/",
+        "sentiment": 0,
+        "timestamp": 1637478137,
+        "published": "November 21, 2021 2:02 AM"
+    },
+    {
+        "title": "How Facebook and Google fund global misinformation",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/",
+        "sentiment": -2,
+        "timestamp": 1637481039,
+        "published": "November 21, 2021 2:50 AM"
+    },
+    {
+        "title": "El Salvador plans first Bitcoin city backed by Bitcoin bonds.",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/rates-bonds/el-salvador-plans-first-bitcoin-city-backed-by-bitcoin-bonds-2021-11-21/",
+        "sentiment": 1,
+        "timestamp": 1637481683,
+        "published": "November 21, 2021 3:01 AM"
+    },
+    {
+        "title": "Weekend Update: Adele Proposal & New Lethal Weapon Movie - SNL",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/AC_zJsBCshw",
+        "sentiment": -2,
+        "timestamp": 1637481911,
+        "published": "November 21, 2021 3:05 AM"
+    },
+    {
+        "title": "A new DuckDuckGo tool is supposed to prevent apps from tracking Android users",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/20/22793068/duckduckgo-tool-prevent-apps-tracking-android-users",
+        "sentiment": -1,
+        "timestamp": 1637483683,
+        "published": "November 21, 2021 3:34 AM"
+    },
+    {
         "title": "Canada in discussions with 'closest partners' on possible Olympic boycott",
         "domain": "ctvnews.ca",
         "category": "worldnews",
