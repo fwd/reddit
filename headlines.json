@@ -1,5 +1,104 @@
 [
     {
+        "title": "Plastic pollution: New meat tray 'could save tonnes of waste'",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-wales-59331845",
+        "sentiment": 0,
+        "timestamp": 1637479296,
+        "published": "November 21, 2021 2:21 AM"
+    },
+    {
+        "title": "Sinema Digs in on Filibuster Defense Amid GOP's Assault on Voting Rights | Republicans and a pair of Senate Democrats are \"using the filibuster to destroy and undermine the life of this democracy and the daily lives of people,\" warned Rev. Dr. William Barber II.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/20/sinema-digs-filibuster-defense-amid-gops-assault-voting-rights",
+        "sentiment": -9,
+        "timestamp": 1637491328,
+        "published": "November 21, 2021 5:42 AM"
+    },
+    {
+        "title": "Senior Pentagon official warns the US military is 'not ready' for climate change",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/20/politics/pentagon-climate-change-warning/index.html",
+        "sentiment": -2,
+        "timestamp": 1637492020,
+        "published": "November 21, 2021 5:53 AM"
+    },
+    {
+        "title": "As Gerrymanders Get Worse, Legal Options to Overturn Them Dwindle",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/21/us/redistricting-gerrymandering-republicans.html",
+        "sentiment": -2,
+        "timestamp": 1637495989,
+        "published": "November 21, 2021 6:59 AM"
+    },
+    {
+        "title": "Poland may completely close border with Belarus – govt rep",
+        "domain": "belsat.eu",
+        "category": "worldnews",
+        "link": "https://belsat.eu/en/news/10-11-2021-poland-may-completely-close-border-with-belarus-govt-rep/",
+        "sentiment": 0,
+        "timestamp": 1637496151,
+        "published": "November 21, 2021 7:02 AM"
+    },
+    {
+        "title": "California AG Wants Circuit to Reconsider Rejecting Ban on Private Prisons",
+        "domain": "documentedny.com",
+        "category": "news",
+        "link": "https://documentedny.com/2021/11/20/california-ag-wants-circuit-to-reconsider-rejecting-ban-on-private-prisons/",
+        "sentiment": -3,
+        "timestamp": 1637496203,
+        "published": "November 21, 2021 7:03 AM"
+    },
+    {
+        "title": "Hamas gunman kills 1, wounds 4 in terror shooting in Jerusalem Old City",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/2-injured-1-critically-in-suspected-shooting-attack-in-jerusalem-old-city/",
+        "sentiment": -6,
+        "timestamp": 1637497758,
+        "published": "November 21, 2021 7:29 AM"
+    },
+    {
+        "title": "Many of 200+ witnesses are ex-Trump admin staff who voluntarily came forward",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/20/politics/zoe-lofgren-jan-6-committee-interviews/index.html",
+        "sentiment": 0,
+        "timestamp": 1637498484,
+        "published": "November 21, 2021 7:41 AM"
+    },
+    {
+        "title": "Microsoft is embarrassing itself and customers can see it",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/microsoft-is-embarrassing-itself-and-customers-can-see-it/",
+        "sentiment": -2,
+        "timestamp": 1637500076,
+        "published": "November 21, 2021 8:07 AM"
+    },
+    {
+        "title": "Reining in COVID-19 Disinformation from China, Russia and Elsewhere",
+        "domain": "rand.org",
+        "category": "technology",
+        "link": "https://www.rand.org/blog/2021/11/reining-in-covid-19-disinformation-from-china-russia.html",
+        "sentiment": 0,
+        "timestamp": 1637501528,
+        "published": "November 21, 2021 8:32 AM"
+    },
+    {
+        "title": "Remember 'Human Target'? Would be awesome if DC brought this version back to 'Titans' or something.",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=Le27pXJGuBc",
+        "sentiment": 4,
+        "timestamp": 1637502044,
+        "published": "November 21, 2021 8:40 AM"
+    },
+    {
         "title": "Britain and Poland to work together on new billion dollar Polish air defence system",
         "domain": "ukdefencejournal.org.uk",
         "category": "worldnews",
