@@ -1,5 +1,149 @@
 [
     {
+        "title": "Poland says Belarus keeps bringing migrants to its border",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/poland-says-belarus-keeps-bringing-migrants-its-border-2021-11-21/?rpc=401&",
+        "sentiment": 0,
+        "timestamp": 1637496120,
+        "published": "November 21, 2021 7:02 AM"
+    },
+    {
+        "title": "China downgrades diplomatic ties with Lithuania over Taiwan",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/china-downgrades-its-diplomatic-ties-with-lithuania-over-taiwan-issue-2021-11-21/",
+        "sentiment": 0,
+        "timestamp": 1637499351,
+        "published": "November 21, 2021 7:55 AM"
+    },
+    {
+        "title": "Italian island of Vulcano orders partial evacuation after increased activity - Mayor of island that gave volcanoes their name also bans tourists after rise in sulphurous gases",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/21/volcanic-italian-island-evacuation-increased-activity-vulcano",
+        "sentiment": 1,
+        "timestamp": 1637505401,
+        "published": "November 21, 2021 9:36 AM"
+    },
+    {
+        "title": "Afghan families sell daughters into marriage as economy collapses",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/afghan-families-sell-daughters-marriage-economy-collapses-rcna5829",
+        "sentiment": -2,
+        "timestamp": 1637505696,
+        "published": "November 21, 2021 9:41 AM"
+    },
+    {
+        "title": "‘Heal the past’: first Native American confirmed to oversee national parks - The confirmation of Charles F Sams III marks a symbolic moment for many Indigenous communities",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/environment/2021/nov/20/chuck-sams-national-park-service-confirmed-indigenous-americans",
+        "sentiment": 0,
+        "timestamp": 1637506112,
+        "published": "November 21, 2021 9:48 AM"
+    },
+    {
+        "title": "Migrant boat with 10 dead bodies arrives in Sicily",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/migrant-boat-with-10-dead-bodies-arrives-sicily-2021-11-19/",
+        "sentiment": -3,
+        "timestamp": 1637507779,
+        "published": "November 21, 2021 10:16 AM"
+    },
+    {
+        "title": "VIDEO: 9-year-old Florida girl fights off suspected robber to protect mom",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/video-9-year-old-florida-girl-fights-off-suspected-robber-to-protect-mom#",
+        "sentiment": -2,
+        "timestamp": 1637508842,
+        "published": "November 21, 2021 10:34 AM"
+    },
+    {
+        "title": "CNN Gives Tesla's Full Self-Driving A Whirl, And It Isn't Pretty",
+        "domain": "hotcars.com",
+        "category": "news",
+        "link": "https://www.hotcars.com/cnn-tesla-full-self-driving/",
+        "sentiment": -1,
+        "timestamp": 1637509461,
+        "published": "November 21, 2021 10:44 AM"
+    },
+    {
+        "title": "A CNN reporter tried Tesla's Full Self-Driving in New York City. It kept trying to turn into oncoming traffic",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/cnn-reporter-tried-teslas-full-self-driving-new-york-city-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637509516,
+        "published": "November 21, 2021 10:45 AM"
+    },
+    {
+        "title": "Republicans define themselves by misogyny and violence",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/21/republicans-define-themselves-by-misogyny-violence/",
+        "sentiment": -3,
+        "timestamp": 1637509997,
+        "published": "November 21, 2021 10:53 AM"
+    },
+    {
+        "title": "Record Number of Ghost Guns Found in DC in 2021",
+        "domain": "nbcwashington.com",
+        "category": "news",
+        "link": "https://www.nbcwashington.com/news/local/dc-gun-violence/record-number-of-ghost-guns-found-in-dc-in-2021/2888734/",
+        "sentiment": -1,
+        "timestamp": 1637510051,
+        "published": "November 21, 2021 10:54 AM"
+    },
+    {
+        "title": "Suspected Neo-Nazi's astonishing weapons arsenal seized by anti terror cops",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/suspected-neo-nazis-astonishing-weapons-arsenal-seized-anti-terror-cops-1651449",
+        "sentiment": -5,
+        "timestamp": 1637511151,
+        "published": "November 21, 2021 11:12 AM"
+    },
+    {
+        "title": "Ghislaine Maxwell trial: Federal judge to question more than 200 potential jurors",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/ghislaine-maxwell-trial-federal-judge-question-200-potential/story?id=81189192",
+        "sentiment": 0,
+        "timestamp": 1637511776,
+        "published": "November 21, 2021 11:22 AM"
+    },
+    {
+        "title": "Why you and I will pay the price for the next big cybersecurity crisis",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2021/nov/21/why-you-and-i-will-pay-the-price-for-the-next-big-cybersecurity-crisis",
+        "sentiment": -3,
+        "timestamp": 1637512016,
+        "published": "November 21, 2021 11:26 AM"
+    },
+    {
+        "title": "Asteroid Close Calls",
+        "domain": "planetary.org",
+        "category": "technology",
+        "link": "https://www.planetary.org/defend-earth/asteroid-close-calls",
+        "sentiment": 0,
+        "timestamp": 1637512041,
+        "published": "November 21, 2021 11:27 AM"
+    },
+    {
+        "title": "SNL - New Military Weapon",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/n45nrfwX1H4",
+        "sentiment": 0,
+        "timestamp": 1637513070,
+        "published": "November 21, 2021 11:44 AM"
+    },
+    {
         "title": "A MAGA squad of Trump loyalists in the House sees its influence grow amid demands for Political Purity",
         "domain": "washingtonpost.com",
         "category": "politics",
