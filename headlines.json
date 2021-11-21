@@ -1,5 +1,59 @@
 [
     {
+        "title": "Prominent Afghan doctor kidnapped, killed in northern city",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/world/prominent-afghan-doctor-kidnapped-killed-in-northern-city-1.5674473",
+        "sentiment": -3,
+        "timestamp": 1637456110,
+        "published": "November 20, 2021 7:55 PM"
+    },
+    {
+        "title": "Thousands of Iranian farmers protest against severe water shortages",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2021/11/20/thousands-of-iranian-farmers-protest-against-severe-water-shortages",
+        "sentiment": -6,
+        "timestamp": 1637456306,
+        "published": "November 20, 2021 7:58 PM"
+    },
+    {
+        "title": "'A precarious situation.' Ohio refinery shutdowns could cause multistate diesel fuel shortages",
+        "domain": "cincinnati.com",
+        "category": "news",
+        "link": "https://www.cincinnati.com/story/news/2021/11/18/fuel-shortages-ohio-refineries-shut-down-simultaneously/8651555002/",
+        "sentiment": -2,
+        "timestamp": 1637457577,
+        "published": "November 20, 2021 8:19 PM"
+    },
+    {
+        "title": "Congressional Stock Trading Should Be Banned. Period. | Americans shouldn't have to be concerned about members of Congress being more focused on their stock portfolio than on the country's problems and their constituents' best interests.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2021/11/20/congressional-stock-trading-should-be-banned-period",
+        "sentiment": 0,
+        "timestamp": 1637459298,
+        "published": "November 20, 2021 8:48 PM"
+    },
+    {
+        "title": "DuckDuckGo wants to stop apps tracking you on Android",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2021/11/duckduckgo-wants-to-stop-apps-tracking-you-on-android/",
+        "sentiment": -1,
+        "timestamp": 1637459577,
+        "published": "November 20, 2021 8:52 PM"
+    },
+    {
+        "title": "Chinese Land Grab On Bhutanese Territory, 4 Villages Built In 1 Year",
+        "domain": "ndtv.com",
+        "category": "news",
+        "link": "https://www.ndtv.com/world-news/chinese-landgrab-on-bhutanese-territory-4-villages-built-in-1-year-2615065",
+        "sentiment": 0,
+        "timestamp": 1637460328,
+        "published": "November 20, 2021 9:05 PM"
+    },
+    {
         "title": "GOP Senator Echoes Dems' Frustration Over Republicans Stalling Biden's Diplomatic Picks",
         "domain": "newsweek.com",
         "category": "politics",
