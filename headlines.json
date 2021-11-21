@@ -1,5 +1,41 @@
 [
     {
+        "title": "Fueled by Trump-inspired grievance, attempts to terrorize public officials escalate",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/fueled-trump-inspired-grievance-attempts-terrorize-public-officials-escalate-n1284291",
+        "sentiment": -3,
+        "timestamp": 1637488839,
+        "published": "November 21, 2021 5:00 AM"
+    },
+    {
+        "title": "Top Democrat proposes crushing sanctions if Russia invades Ukraine",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/russia-ukraine-sanctions-menendez-e468f461-e370-4724-beaa-0fd31c55427f.html",
+        "sentiment": 1,
+        "timestamp": 1637489456,
+        "published": "November 21, 2021 5:10 AM"
+    },
+    {
+        "title": "Internet of Things (IoT) in Retail 2021",
+        "domain": "datamation.com",
+        "category": "technology",
+        "link": "https://www.datamation.com/networks/internet-of-things-iot-retail/",
+        "sentiment": 0,
+        "timestamp": 1637492468,
+        "published": "November 21, 2021 6:01 AM"
+    },
+    {
+        "title": "'The Wheel of Time' review: A scaled-down epic, with interesting twists",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2021/11/20/1056816693/amazon-reinvents-the-wheel-of-time-for-the-small-screen-with-surprising-turns",
+        "sentiment": 2,
+        "timestamp": 1637494831,
+        "published": "November 21, 2021 6:40 AM"
+    },
+    {
         "title": "‘We need to be alarmed’: food banks in overdrive as politicians allow Australians to go hungry",
         "domain": "theguardian.com",
         "category": "worldnews",
