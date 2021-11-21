@@ -1,5 +1,68 @@
 [
     {
+        "title": "GOP Senator Echoes Dems' Frustration Over Republicans Stalling Biden's Diplomatic Picks",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/gop-senator-echoes-dems-frustration-over-republicans-stalling-bidens-diplomatic-picks-1651625",
+        "sentiment": -4,
+        "timestamp": 1637446058,
+        "published": "November 20, 2021 5:07 PM"
+    },
+    {
+        "title": "Parents protesting 'critical race theory' identify another target: Mental health programs",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/us-news/parents-protesting-critical-race-theory-identify-new-target-mental-hea-rcna4991",
+        "sentiment": -2,
+        "timestamp": 1637451376,
+        "published": "November 20, 2021 6:36 PM"
+    },
+    {
+        "title": "China-Africa Trade Swelled 38.2% to Hit Record High",
+        "domain": "yicaiglobal.com",
+        "category": "worldnews",
+        "link": "https://www.yicaiglobal.com/news/china-africa-trade-swelled-382-to-hit-record-high-in-first-nine-months",
+        "sentiment": 0,
+        "timestamp": 1637454004,
+        "published": "November 20, 2021 7:20 PM"
+    },
+    {
+        "title": "Accidental discharge of passenger's gun at Atlanta airport causes panic, halts flights",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/world/accidental-discharge-of-passenger-s-gun-at-atlanta-airport-causes-panic-halts-flights-1.5674723",
+        "sentiment": -6,
+        "timestamp": 1637456023,
+        "published": "November 20, 2021 7:53 PM"
+    },
+    {
+        "title": "‘Arcane’ Renewed For Season 2 By Netflix",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/arcane-renewed-season-2-netflix-1234878165/",
+        "sentiment": 0,
+        "timestamp": 1637456454,
+        "published": "November 20, 2021 8:00 PM"
+    },
+    {
+        "title": "Russia preparing to attack Ukraine by late January: Ukraine defense intelligence agency chief",
+        "domain": "militarytimes.com",
+        "category": "worldnews",
+        "link": "https://www.militarytimes.com/flashpoints/2021/11/20/russia-preparing-to-attack-ukraine-by-late-january-ukraine-defense-intelligence-agency-chief/",
+        "sentiment": -1,
+        "timestamp": 1637456458,
+        "published": "November 20, 2021 8:00 PM"
+    },
+    {
+        "title": "5 Georgia officers indicted on murder charges in festivalgoer's death",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/5-georgia-officers-indicted-death-festivalgoer-rcna6223",
+        "sentiment": -8,
+        "timestamp": 1637456763,
+        "published": "November 20, 2021 8:06 PM"
+    },
+    {
         "title": "Kyle Rittenhouse acquittal sparks protests across US",
         "domain": "abcnews.go.com",
         "category": "news",
