@@ -1,5 +1,95 @@
 [
     {
+        "title": "G.O.P. Donors Back Manchin and Sinema as They Reshape Biden’s Agenda",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html?referringSource=articleShare",
+        "sentiment": 0,
+        "timestamp": 1637506066,
+        "published": "November 21, 2021 9:47 AM"
+    },
+    {
+        "title": "Joe Biden signs $1 trillion US infrastructure bill",
+        "domain": "cbc.ca",
+        "category": "politics",
+        "link": "https://www.cbc.ca/amp/1.6249871",
+        "sentiment": 0,
+        "timestamp": 1637509358,
+        "published": "November 21, 2021 10:42 AM"
+    },
+    {
+        "title": "Western Canada braces for more torrential rain after deadly mudslides",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/21/western-canada-braces-for-new-atmospheric-river-as-three-more-bodies-recovered-from-mudslides",
+        "sentiment": -3,
+        "timestamp": 1637510679,
+        "published": "November 21, 2021 11:04 AM"
+    },
+    {
+        "title": "Virginia's Lt. Governor-elect Interview Veers Off the Rails as She Spreads Covid Misinformation",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/virginias-lt-governor-elect-interview-veers-off-the-rails-as-she-spreads-covid-misinformation-1260821/",
+        "sentiment": -2,
+        "timestamp": 1637513317,
+        "published": "November 21, 2021 11:48 AM"
+    },
+    {
+        "title": "Latest Peng Shuai images do little to ease concerns about her safety | Peng Shuai",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/nov/21/latest-peng-shuai-images-do-little-to-ease-fears-about-her-safety-wta-france-tennis-china",
+        "sentiment": 3,
+        "timestamp": 1637514528,
+        "published": "November 21, 2021 12:08 PM"
+    },
+    {
+        "title": "Chinese tennis star Peng Shuai claims to be safe in 30 minute video call with IOC chief Thomas Bach",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/chinese-tennis-star-peng-shuai-claims-to-be-safe-in-video-call-with-ioc-chief/a-59892881",
+        "sentiment": 1,
+        "timestamp": 1637514529,
+        "published": "November 21, 2021 12:08 PM"
+    },
+    {
+        "title": "'More Bubbas, no Black pastors': Attorney for man accused of killing Arbery decried as racist",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/more-bubbas-no-black-pastors-attorney-man-accused-killing-arbery-n1284089",
+        "sentiment": -9,
+        "timestamp": 1637516292,
+        "published": "November 21, 2021 12:38 PM"
+    },
+    {
+        "title": "IOC president has video call with Chinese star Peng Shuai",
+        "domain": "news24.com",
+        "category": "news",
+        "link": "https://www.news24.com/sport/Tennis/WTATour/ioc-president-has-video-call-with-chinese-star-peng-shuai-20211121",
+        "sentiment": 0,
+        "timestamp": 1637516824,
+        "published": "November 21, 2021 12:47 PM"
+    },
+    {
+        "title": "Samsung Has No Solution For Issue Plaguing Many New York Customers",
+        "domain": "hudsonvalleypost.com",
+        "category": "technology",
+        "link": "https://hudsonvalleypost.com/samsung-has-no-solution-for-issue-plaguing-many-new-york-customers/",
+        "sentiment": -3,
+        "timestamp": 1637517627,
+        "published": "November 21, 2021 1:00 PM"
+    },
+    {
+        "title": "To sink nuclear talks with the U.S., Iran's hard-liners use a novel weapon: A hit TV show: ‘Gando’",
+        "domain": "latimes.com",
+        "category": "television",
+        "link": "https://www.latimes.com/world-nation/story/2021-11-18/iran-hardliners-hit-show-gando-torpedo-nuclear-talks",
+        "sentiment": 2,
+        "timestamp": 1637518785,
+        "published": "November 21, 2021 1:19 PM"
+    },
+    {
         "title": "Protests erupt over virus rules in Austria, Italy, Croatia",
         "domain": "9news.com.au",
         "category": "worldnews",
