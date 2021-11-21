@@ -1,5 +1,50 @@
 [
     {
+        "title": "Kyle Rittenhouse acquittal sparks protests across US",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/kyle-rittenhouse-acquittal-sparks-protests-us/story?id=81299021",
+        "sentiment": -2,
+        "timestamp": 1637434857,
+        "published": "November 20, 2021 2:00 PM"
+    },
+    {
+        "title": "Opinion: Is this the dawn of a vigilante era?",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/20/opinions/kyle-rittenhouse-acquittal-future-in-america-van-jones/index.html",
+        "sentiment": 0,
+        "timestamp": 1637440672,
+        "published": "November 20, 2021 3:37 PM"
+    },
+    {
+        "title": "Lucid motors, a new luxury ev car company, is motortrends best car of 2022 marking the first a new car company has won this achievement",
+        "domain": "motortrend.com",
+        "category": "technology",
+        "link": "https://www.motortrend.com/news/lucid-air-2022-car-of-the-year/",
+        "sentiment": 8,
+        "timestamp": 1637452588,
+        "published": "November 20, 2021 6:56 PM"
+    },
+    {
+        "title": "Applause breaks out after House passes Biden spending bill",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2021/11/19/vote-build-back-better-bill-passes-house-pelosi-vpx.cnn/video/playlists/this-week-in-politics/",
+        "sentiment": 2,
+        "timestamp": 1637452691,
+        "published": "November 20, 2021 6:58 PM"
+    },
+    {
+        "title": "Season 2 of Arcane announced",
+        "domain": "clips.twitch.tv",
+        "category": "television",
+        "link": "https://clips.twitch.tv/SpotlessAdventurousPangolinDoggo-Iv-R8GoRG5l9HZMB",
+        "sentiment": 0,
+        "timestamp": 1637454179,
+        "published": "November 20, 2021 7:22 PM"
+    },
+    {
         "title": "NBC4 Washington: Murder Charge Dropped Against Man in High-Speed Chase, Crash in DC",
         "domain": "nbcwashington.com",
         "category": "news",
