@@ -1,5 +1,86 @@
 [
     {
+        "title": "Chinese tennis star Peng Shuai said she is safe in video call, says International Olympic Committee",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/21/sport/peng-shuai-video-call-thomas-bach-spt-intl/index.html",
+        "sentiment": 1,
+        "timestamp": 1637517480,
+        "published": "November 21, 2021 12:58 PM"
+    },
+    {
+        "title": "Trump Administration Staff Are Squealing to Jan. 6 Committee, Member Says",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-officials-squealing-jan-6-committee-1260842/",
+        "sentiment": 0,
+        "timestamp": 1637525252,
+        "published": "November 21, 2021 3:07 PM"
+    },
+    {
+        "title": "Hamas Gunman Kills 1, Wounds 4 in Terror Shooting in Jerusalem Old City",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/2-injured-1-critically-in-suspected-shooting-attack-in-jerusalem-old-city/",
+        "sentiment": -6,
+        "timestamp": 1637525505,
+        "published": "November 21, 2021 3:11 PM"
+    },
+    {
+        "title": "Khashoggi's fiancee urges Justin Bieber to cancel Saudi performance",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/khashoggis-fiancee-urges-justin-bieber-cancel-saudi-performance-2021-11-21/",
+        "sentiment": -1,
+        "timestamp": 1637526171,
+        "published": "November 21, 2021 3:22 PM"
+    },
+    {
+        "title": "Filipino megachurch founder forced girls and young women into sex, telling them it was ‘God’s will,’ feds say",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/nation/2021/11/19/apollo-quiboloy-charged-sex-trafficking/",
+        "sentiment": -1,
+        "timestamp": 1637526223,
+        "published": "November 21, 2021 3:23 PM"
+    },
+    {
+        "title": "California Police Seek 80 Suspects In Flash-Mob Department Store Robbery",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/california-police-seek-80-suspects-flash-mob-department-store-robbery-2021-11-21/",
+        "sentiment": -1,
+        "timestamp": 1637527820,
+        "published": "November 21, 2021 3:50 PM"
+    },
+    {
+        "title": "Shell CEO Says Company Needs Oil To Finance Clean Energy Future",
+        "domain": "insideevs.com",
+        "category": "technology",
+        "link": "https://insideevs.com/news/549414/shell-oil-pays-for-green/",
+        "sentiment": 2,
+        "timestamp": 1637528357,
+        "published": "November 21, 2021 3:59 PM"
+    },
+    {
+        "title": "Nick Kroll and Jason Mantzoukas Have All Kinds of Chemistry",
+        "domain": "newyorker.com",
+        "category": "television",
+        "link": "https://www.newyorker.com/culture/the-new-yorker-interview/nick-kroll-and-jason-mantzoukas-have-all-kinds-of-chemistry",
+        "sentiment": 0,
+        "timestamp": 1637528648,
+        "published": "November 21, 2021 4:04 PM"
+    },
+    {
+        "title": "Marines On Track For Worst COVID-19 Vaccination Record In US Military",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/marines-track-worst-vaccination-record-us-military-washington-post-2021-11-21/",
+        "sentiment": -3,
+        "timestamp": 1637528653,
+        "published": "November 21, 2021 4:04 PM"
+    },
+    {
         "title": "GOP New Hampshire Guv: ‘Of Course’ Gosar Should’ve Been Punished for Violent AOC Video",
         "domain": "thedailybeast.com",
         "category": "politics",
