@@ -1,5 +1,95 @@
 [
     {
+        "title": "GOP bill would federally decriminalize marijuana",
+        "domain": "kxan.com",
+        "category": "politics",
+        "link": "https://www.kxan.com/news/national-news/gop-bill-would-federally-decriminalize-marijuana/",
+        "sentiment": 0,
+        "timestamp": 1637508746,
+        "published": "November 21, 2021 10:32 AM"
+    },
+    {
+        "title": "Chinese hypersonic weapon fired missile over South China Sea",
+        "domain": "ft.com",
+        "category": "worldnews",
+        "link": "https://www.ft.com/content/a127f6de-f7b1-459e-b7ae-c14ed6a9198c",
+        "sentiment": -2,
+        "timestamp": 1637518693,
+        "published": "November 21, 2021 1:18 PM"
+    },
+    {
+        "title": "Russian rescue dog Monika has a new leash on life after prosthetics operation",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/20/europe/russia-dog-prosthetic-vet-rescue-animal-operation-scli-intl/index.html",
+        "sentiment": 2,
+        "timestamp": 1637521036,
+        "published": "November 21, 2021 1:57 PM"
+    },
+    {
+        "title": "Destroying Democracy Is Central to the Privatization of Public Goods",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/11/democracy-privatization-of-everything-cohen-mikaelian-excerpt",
+        "sentiment": -3,
+        "timestamp": 1637526757,
+        "published": "November 21, 2021 3:32 PM"
+    },
+    {
+        "title": "Kashoggi's Fiancee Urges Justin Bieber To Cancel Saudi Performance",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/middle-east/khashoggis-fiancee-urges-justin-bieber-cancel-saudi-performance-2021-11-21/",
+        "sentiment": -1,
+        "timestamp": 1637529342,
+        "published": "November 21, 2021 4:15 PM"
+    },
+    {
+        "title": "Australia surpasses 85 per cent full vaccination rate",
+        "domain": "9news.com.au",
+        "category": "worldnews",
+        "link": "https://www.9news.com.au/national/coronavirus-vaccine-rollout-australia-state-by-state-guide-covid19-vaccination-rates-single-dose-double-doses-explainer/abacde8f-d35e-45ee-83bc-069ede212ecf",
+        "sentiment": 0,
+        "timestamp": 1637529850,
+        "published": "November 21, 2021 4:24 PM"
+    },
+    {
+        "title": "Facebook Messenger and Instagram may not get default end-to-end encryption until 2023",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/21/22794622/messenger-instagram-end-to-end-encryption-default-2023",
+        "sentiment": 0,
+        "timestamp": 1637530082,
+        "published": "November 21, 2021 4:28 PM"
+    },
+    {
+        "title": "U.S. Intel Shows Russian Plans for Potential Ukraine Invasion",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-11-21/u-s-intel-shows-russian-plans-for-potential-ukraine-invasion",
+        "sentiment": -1,
+        "timestamp": 1637531408,
+        "published": "November 21, 2021 4:50 PM"
+    },
+    {
+        "title": "Afghanistan: Taliban unveil new rules banning women in TV dramas",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-59368488",
+        "sentiment": 0,
+        "timestamp": 1637531493,
+        "published": "November 21, 2021 4:51 PM"
+    },
+    {
+        "title": "Korea’s CJ ENM Makes $1 Billion Bet on Endeavor Content to Become a Global Entertainment Player",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/cj-enm-endeavor-content-acquire-1-billion-1235115777/",
+        "sentiment": 0,
+        "timestamp": 1637533485,
+        "published": "November 21, 2021 5:24 PM"
+    },
+    {
         "title": "Chinese tennis star Peng Shuai said she is safe in video call, says International Olympic Committee",
         "domain": "cnn.com",
         "category": "worldnews",
