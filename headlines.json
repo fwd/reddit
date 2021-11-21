@@ -1,5 +1,68 @@
 [
     {
+        "title": "Why Republicans Can’t Stop Talking About Masculinity",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2021/11/21/josh-hawley-madison-cawthorn-jd-vance-masculinity-523136",
+        "sentiment": -1,
+        "timestamp": 1637508771,
+        "published": "November 21, 2021 10:32 AM"
+    },
+    {
+        "title": "GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up'",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html",
+        "sentiment": -3,
+        "timestamp": 1637510874,
+        "published": "November 21, 2021 11:07 AM"
+    },
+    {
+        "title": "Poland says Belarus border crisis may be prelude to \"something worse\"",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/poland-says-belarus-keeps-bringing-migrants-its-border-2021-11-21/",
+        "sentiment": -6,
+        "timestamp": 1637516485,
+        "published": "November 21, 2021 12:41 PM"
+    },
+    {
+        "title": "Peng Shuai: fresh videos fail to ease concerns as China faces global backlash",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/nov/21/peng-shuai-fresh-video-emerges-as-china-faces-growing-global-condemnation",
+        "sentiment": 1,
+        "timestamp": 1637516951,
+        "published": "November 21, 2021 12:49 PM"
+    },
+    {
+        "title": "Dozens of looters rush California Nordstrom store",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/amp/rcna6265",
+        "sentiment": 0,
+        "timestamp": 1637521494,
+        "published": "November 21, 2021 2:04 PM"
+    },
+    {
+        "title": "India police charge Amazon execs in alleged marijuana smuggling case",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/asia/india-police-charge-amazon-execs-alleged-marijuana-smuggling-case-2021-11-20/",
+        "sentiment": -2,
+        "timestamp": 1637522381,
+        "published": "November 21, 2021 2:19 PM"
+    },
+    {
+        "title": "Facebook group 'seeing laugh reacts on death' as COVID misinformation spreads",
+        "domain": "abc.net.au",
+        "category": "technology",
+        "link": "https://www.abc.net.au/news/2021-11-22/facebook-group-seeing-laugh-reacts-on-death-/100629854",
+        "sentiment": -1,
+        "timestamp": 1637523713,
+        "published": "November 21, 2021 2:41 PM"
+    },
+    {
         "title": "G.O.P. Donors Back Manchin and Sinema as They Reshape Biden’s Agenda",
         "domain": "nytimes.com",
         "category": "politics",
