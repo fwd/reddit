@@ -1,5 +1,104 @@
 [
     {
+        "title": "Protests erupt over virus rules in Austria, Italy, Croatia",
+        "domain": "9news.com.au",
+        "category": "worldnews",
+        "link": "https://www.9news.com.au/world/protests-erupt-over-virus-rules-in-austria-italy-croatia/2aebd1a4-9907-47d6-a6f6-f05af5aeaeab?ocid=Social-9NewsP&fbclid=IwAR3jWc0NkQwFeMjKltW2h0SUeJmklnzH59kil-KLSrVa6NrVKUdAfk1l9JU",
+        "sentiment": -2,
+        "timestamp": 1637491067,
+        "published": "November 21, 2021 5:37 AM"
+    },
+    {
+        "title": "Russian Anti-Vaccine Disinformation Campaign Backfires",
+        "domain": "voanews.com",
+        "category": "worldnews",
+        "link": "https://www.voanews.com/a/russian-anti-vaccine-disinformation-campaign-backfires/6318536.html",
+        "sentiment": 0,
+        "timestamp": 1637509451,
+        "published": "November 21, 2021 10:44 AM"
+    },
+    {
+        "title": "O'Rourke says he stands by his 2019 'we're gonna take your AR-15, your AK-47' comment",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/582534-orourke-says-he-stand-by-his-2019-were-gonna-take-your-ar-15-view",
+        "sentiment": 0,
+        "timestamp": 1637509553,
+        "published": "November 21, 2021 10:45 AM"
+    },
+    {
+        "title": "UK demands immediate release of UN staff detained by Houthis",
+        "domain": "arabnews.com",
+        "category": "news",
+        "link": "https://www.arabnews.com/node/1971886",
+        "sentiment": -3,
+        "timestamp": 1637511015,
+        "published": "November 21, 2021 11:10 AM"
+    },
+    {
+        "title": "Ghislaine Maxwell sex crimes trial highlights conditions at Brooklyn jail",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/ghislaine-maxwell-sex-crimes-trial-highlights-conditions-brooklyn-jail-2021-11-18/",
+        "sentiment": -3,
+        "timestamp": 1637511398,
+        "published": "November 21, 2021 11:16 AM"
+    },
+    {
+        "title": "More Americans say they’re not planning to have a child, new poll says, as U.S. birthrate declines",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2021/11/21/americans-childless-pew-us-population/?utm_source=reddit.com",
+        "sentiment": 0,
+        "timestamp": 1637512226,
+        "published": "November 21, 2021 11:30 AM"
+    },
+    {
+        "title": "Some US Christian schools believe religious freedom means they can fire gay teachers",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/21/christian-schools-us-religious-freedom-fire-gay-teachers",
+        "sentiment": 0,
+        "timestamp": 1637512793,
+        "published": "November 21, 2021 11:39 AM"
+    },
+    {
+        "title": "Russian ‘COVID-19 Tourists’ Flood Croatia Seeking Jabs",
+        "domain": "balkaninsight.com",
+        "category": "worldnews",
+        "link": "https://balkaninsight.com/2021/11/19/russian-covid-tourists-flood-croatia-seeking-jabs/",
+        "sentiment": 0,
+        "timestamp": 1637513065,
+        "published": "November 21, 2021 11:44 AM"
+    },
+    {
+        "title": "LightSail 2 solar sail is still soaring above Earth more than two years after launch",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/light-sail-2-solar-sail-still-flying-planetary-society",
+        "sentiment": 0,
+        "timestamp": 1637513521,
+        "published": "November 21, 2021 11:52 AM"
+    },
+    {
+        "title": "'SNL' Alum Peter Aykroyd, Brother of Dan, Dies at 66",
+        "domain": "extratv.com",
+        "category": "television",
+        "link": "https://extratv.com/2021/11/21/snl-alum-peter-aykroyd-brother-of-dan-dies/",
+        "sentiment": 0,
+        "timestamp": 1637513819,
+        "published": "November 21, 2021 11:56 AM"
+    },
+    {
+        "title": "The political risks of Big Data dominance | Big Data's hubristic claim that it understands humanity opens the door to dangerous manipulation.",
+        "domain": "newstatesman.com",
+        "category": "technology",
+        "link": "https://www.newstatesman.com/ideas/agora/2021/11/the-political-risks-of-big-data-dominance",
+        "sentiment": -3,
+        "timestamp": 1637514721,
+        "published": "November 21, 2021 12:12 PM"
+    },
+    {
         "title": "Poland says Belarus keeps bringing migrants to its border",
         "domain": "reuters.com",
         "category": "worldnews",
