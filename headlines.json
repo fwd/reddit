@@ -1,5 +1,104 @@
 [
     {
+        "title": "A MAGA squad of Trump loyalists in the House sees its influence grow amid demands for Political Purity",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/greene-boebert-gosar-gaetz/2021/11/20/c77dc78a-47dd-11ec-973c-be864f938c72_story.html",
+        "sentiment": -1,
+        "timestamp": 1637494988,
+        "published": "November 21, 2021 6:43 AM"
+    },
+    {
+        "title": "Researchers identify 102 students who died at Native American school in Nebraska | Native Americans",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/15/nebraska-native-american-boarding-school-students-died",
+        "sentiment": -3,
+        "timestamp": 1637498189,
+        "published": "November 21, 2021 7:36 AM"
+    },
+    {
+        "title": "Meta delays encrypted messages on Facebook and Instagram to 2023",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2021/nov/21/meta-delays-encrypted-messages-on-facebook-and-instagram-to-2023",
+        "sentiment": 0,
+        "timestamp": 1637503605,
+        "published": "November 21, 2021 9:06 AM"
+    },
+    {
+        "title": "An independent Scotland would be a good fit for the Nordic Council - Helsinki Times",
+        "domain": "helsinkitimes.fi",
+        "category": "worldnews",
+        "link": "https://www.helsinkitimes.fi/columns/columns/viewpoint/20402-an-independent-scotland-would-be-a-good-fit-for-the-nordic-council.html",
+        "sentiment": 4,
+        "timestamp": 1637503859,
+        "published": "November 21, 2021 9:10 AM"
+    },
+    {
+        "title": "3 arrested after dozens ransack a Nordstrom store near San Francisco, police say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/21/us/nordstrom-ransacked-california-walnut-creek/index.html",
+        "sentiment": -3,
+        "timestamp": 1637505008,
+        "published": "November 21, 2021 9:30 AM"
+    },
+    {
+        "title": "Microsoft Edge’s new ‘Buy now, pay later’ feature is the definition of bloatware",
+        "domain": "xda-developers.com",
+        "category": "technology",
+        "link": "https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/",
+        "sentiment": -1,
+        "timestamp": 1637506150,
+        "published": "November 21, 2021 9:49 AM"
+    },
+    {
+        "title": "Young progressives warn that Democrats could have a youth voter problem in 2022",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html",
+        "sentiment": -4,
+        "timestamp": 1637506240,
+        "published": "November 21, 2021 9:50 AM"
+    },
+    {
+        "title": "It's time to repeal and replace citizen's arrest laws",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/criminal-justice/582508-its-time-to-repeal-and-replace-citizens-arrest-laws",
+        "sentiment": -2,
+        "timestamp": 1637506308,
+        "published": "November 21, 2021 9:51 AM"
+    },
+    {
+        "title": "Is Microsoft Stealing People’s Bookmarks?",
+        "domain": "schneier.com",
+        "category": "technology",
+        "link": "https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html",
+        "sentiment": -2,
+        "timestamp": 1637506423,
+        "published": "November 21, 2021 9:53 AM"
+    },
+    {
+        "title": "Overloaded: is there simply too much culture?",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/20/overloaded-is-there-simply-too-much-culture",
+        "sentiment": 0,
+        "timestamp": 1637508393,
+        "published": "November 21, 2021 10:26 AM"
+    },
+    {
+        "title": "Walking in Staten - SNL",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/W62Vmju18Vw",
+        "sentiment": 0,
+        "timestamp": 1637508731,
+        "published": "November 21, 2021 10:32 AM"
+    },
+    {
         "title": "Woman detained for allegedly writing on Kenosha County Courthouse steps as protesters gather",
         "domain": "cbs58.com",
         "category": "news",
