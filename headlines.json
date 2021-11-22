@@ -1,5 +1,113 @@
 [
     {
+        "title": "Amazon deforestation rate in Brazil highest since 2006",
+        "domain": "balkangreenenergynews.com",
+        "category": "worldnews",
+        "link": "https://balkangreenenergynews.com/amazon-deforestation-rate-in-brazil-highest-since-2006/",
+        "sentiment": 0,
+        "timestamp": 1637590932,
+        "published": "November 22, 2021 9:22 AM"
+    },
+    {
+        "title": "Dreadful intervention | South Side on HBO Max",
+        "domain": "vimeo.com",
+        "category": "television",
+        "link": "https://vimeo.com/648609922",
+        "sentiment": -3,
+        "timestamp": 1637592252,
+        "published": "November 22, 2021 9:44 AM"
+    },
+    {
+        "title": "Tokyo 'Joker' train attacker served new attempted murder warrant",
+        "domain": "japantimes.co.jp",
+        "category": "worldnews",
+        "link": "https://www.japantimes.co.jp/news/2021/11/22/national/crime-legal/joker-train-attack-murder/",
+        "sentiment": -2,
+        "timestamp": 1637592628,
+        "published": "November 22, 2021 9:50 AM"
+    },
+    {
+        "title": "Von Dutch Doc Is No Murder Mystery — It’s About Identity and Clothes – Rolling Stone",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv/tv-features/von-dutch-curse-docuseries-paris-hilton-1258954/",
+        "sentiment": -3,
+        "timestamp": 1637593313,
+        "published": "November 22, 2021 10:01 AM"
+    },
+    {
+        "title": "The Real Inflation Problem Is Corporate Profiteering",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164505/inflation-corporate-profiteering-biden-consumers",
+        "sentiment": -2,
+        "timestamp": 1637594510,
+        "published": "November 22, 2021 10:21 AM"
+    },
+    {
+        "title": "Portugal becomes fourth EU country to stop using coal plants",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-environment-and-nature-europe-portugal-european-union-b09d32a0ee8c661f6932d79bda9d2d19",
+        "sentiment": -1,
+        "timestamp": 1637595641,
+        "published": "November 22, 2021 10:40 AM"
+    },
+    {
+        "title": "England will be first country to require new homes to include EV chargers",
+        "domain": "gov.uk",
+        "category": "technology",
+        "link": "https://www.gov.uk/government/news/pm-to-announce-electric-vehicle-revolution",
+        "sentiment": 0,
+        "timestamp": 1637596590,
+        "published": "November 22, 2021 10:56 AM"
+    },
+    {
+        "title": "GoDaddy discloses recent security breach that exposed 1.2 million accounts",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/godaddy-wordpress-security-issue-1-2-million-users-150142622.html",
+        "sentiment": -3,
+        "timestamp": 1637596797,
+        "published": "November 22, 2021 10:59 AM"
+    },
+    {
+        "title": "Wind turbine giant Vestas' data compromised in cyberattack",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-compromised-in-cyberattack/",
+        "sentiment": 0,
+        "timestamp": 1637598053,
+        "published": "November 22, 2021 11:20 AM"
+    },
+    {
+        "title": "Man arrested in murder of 25-year-old pregnant Houston woman",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/cavanna-smith-kwanmaine-travion-boyd-pregnant-woman-killed-womans-body-on-irvington-and-reid/11261810/",
+        "sentiment": -5,
+        "timestamp": 1637598383,
+        "published": "November 22, 2021 11:26 AM"
+    },
+    {
+        "title": "MacGruber TV Series Gets Premiere Date, Teaser Trailer",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/2021/11/macgruber-tv-series-premiere-date-teaser-trailer/",
+        "sentiment": 0,
+        "timestamp": 1637598639,
+        "published": "November 22, 2021 11:30 AM"
+    },
+    {
+        "title": "People Are Turning to Bots for Holiday Shopping Amid the Supply Chain Crisis",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/holiday-shopping-compete-with-bots-supply-chain-issues-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637598943,
+        "published": "November 22, 2021 11:35 AM"
+    },
+    {
         "title": "Ex-Unilever CEO takes swipe at Australia, says it would be ‘stupid’ not to phase out coal",
         "domain": "cnbc.com",
         "category": "worldnews",
