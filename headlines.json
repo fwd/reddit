@@ -1,5 +1,32 @@
 [
     {
+        "title": "Air New Zealand cancels 1000 flights due to continued border uncertainty",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/business/air-new-zealand-cancels-1000-flights-due-to-continued-border-uncertainty/3MQP5TIN6DX7DKTMEM4HWVWD4A/?c_id=3&objectid=12487795&amp;ref=rss",
+        "sentiment": -1,
+        "timestamp": 1637561019,
+        "published": "November 22, 2021 1:03 AM"
+    },
+    {
+        "title": "Chinese researchers warn Japan may intervene militarily if Beijing tries to seize Taiwan by force",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3156843/china-warned-japan-may-intervene-militarily-if-it-invades",
+        "sentiment": -2,
+        "timestamp": 1637564513,
+        "published": "November 22, 2021 2:01 AM"
+    },
+    {
+        "title": "Cloud seeding gains steam as West faces worsening droughts",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/weather/2021/11/21/cloud-seeding-drought-west/",
+        "sentiment": -1,
+        "timestamp": 1637564547,
+        "published": "November 22, 2021 2:02 AM"
+    },
+    {
         "title": "Indigenous community evicted as land clashes over agribusiness rock Paraguay",
         "domain": "theguardian.com",
         "category": "worldnews",
