@@ -1,5 +1,113 @@
 [
     {
+        "title": "Cuba congratulates Venezuela on poll before result was out",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-latin-america-59331696",
+        "sentiment": 0,
+        "timestamp": 1637605200,
+        "published": "November 22, 2021 1:20 PM"
+    },
+    {
+        "title": "The line between right-wing trolling and violence is collapsing",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/22/the-line-between-right-wing-trolling-and-violence-is-collapsing/",
+        "sentiment": -5,
+        "timestamp": 1637606643,
+        "published": "November 22, 2021 1:44 PM"
+    },
+    {
+        "title": "N.Y. prosecutors set sights on new Trump target: Widely different valuations on the same properties",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/trump-organization-investigation-property-values-vance-james/2021/11/19/78c15850-4706-11ec-95dc-5f2a96e00fa3_story.html",
+        "sentiment": 0,
+        "timestamp": 1637607388,
+        "published": "November 22, 2021 1:56 PM"
+    },
+    {
+        "title": "Police suspect woman attacked, killed by her own dogs in southwest Houston",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2021/11/22/police-suspect-woman-attacked-killed-by-her-own-dogs-in-southwest-houston/",
+        "sentiment": -5,
+        "timestamp": 1637607474,
+        "published": "November 22, 2021 1:57 PM"
+    },
+    {
+        "title": "Rooftop solar helps send South Australia grid to zero demand in world first",
+        "domain": "reneweconomy.com.au",
+        "category": "technology",
+        "link": "https://reneweconomy.com.au/rooftop-solar-helps-send-south-australia-grid-to-zero-demand-in-world-first/",
+        "sentiment": 1,
+        "timestamp": 1637607913,
+        "published": "November 22, 2021 2:05 PM"
+    },
+    {
+        "title": "Ray Donovan: The Movie Trailer Promises to Tie Up 'Loose Ends'— Premiere Date - 14th January",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/22/ray-donovan-the-movie-trailer-showtime-video-premiere-date/",
+        "sentiment": 1,
+        "timestamp": 1637607978,
+        "published": "November 22, 2021 2:06 PM"
+    },
+    {
+        "title": "Republicans are rigging elections for the next decade",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/11/republicans-are-rigging-elections-for-the-next-decade/",
+        "sentiment": 0,
+        "timestamp": 1637608892,
+        "published": "November 22, 2021 2:21 PM"
+    },
+    {
+        "title": "Facebook may be dangerously unprepared for Libya’s upcoming presidential election, documents show | Researchers say the company has struggled to control hate speech and misinformation in the fast moving conflict.",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/facebook-libya-election/",
+        "sentiment": -11,
+        "timestamp": 1637608959,
+        "published": "November 22, 2021 2:22 PM"
+    },
+    {
+        "title": "Over a million WordPress sites breached",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/over-a-million-godaddy-managed-wordpress-sites-cracked/",
+        "sentiment": -2,
+        "timestamp": 1637609355,
+        "published": "November 22, 2021 2:29 PM"
+    },
+    {
+        "title": "Jaguars in Mexico are growing in number, a promising sign that national conservation strategies are working",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/11/jaguars-in-mexico-are-growing-in-number-a-promising-sign-that-national-conservation-strategies-are-working/",
+        "sentiment": 1,
+        "timestamp": 1637609544,
+        "published": "November 22, 2021 2:32 PM"
+    },
+    {
+        "title": "Netflix employee at center of Dave Chappelle protest resigns",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/tech/tech-news/netflix-employee-center-dave-chappelle-protest-resigns-rcna6362?cid=sm_npd_nn_tw_ma&s=09",
+        "sentiment": -3,
+        "timestamp": 1637610312,
+        "published": "November 22, 2021 2:45 PM"
+    },
+    {
+        "title": "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle",
+        "domain": "fox2detroit.com",
+        "category": "technology",
+        "link": "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle",
+        "sentiment": -2,
+        "timestamp": 1637611085,
+        "published": "November 22, 2021 2:58 PM"
+    },
+    {
         "title": "Michael Cohen ends prison term after Trump-related crimes",
         "domain": "apnews.com",
         "category": "news",
