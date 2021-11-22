@@ -1,5 +1,68 @@
 [
     {
+        "title": "1-year-old injured in drive-by shooting in SW Houston, police say",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/1-year-old-shot-drive-by-shooting-renwick-southwest-houston/11259450/",
+        "sentiment": -2,
+        "timestamp": 1637526442,
+        "published": "November 21, 2021 3:27 PM"
+    },
+    {
+        "title": "AOC: Dem Leaders Will Struggle to Get Votes If Reconciliation Doesn't Pass Soon",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-democratic-leaders-struggle-legislative-votes-reconciliation-passage-biden-progressives-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637532044,
+        "published": "November 21, 2021 5:00 PM"
+    },
+    {
+        "title": "The world's first electric and self-propelled container ship – Yara Birkeland – has departed for its maiden voyage in the Oslo fjord.",
+        "domain": "kongsberg.com",
+        "category": "worldnews",
+        "link": "https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2021/first-fully-emission-free-container-ship/",
+        "sentiment": 0,
+        "timestamp": 1637535036,
+        "published": "November 21, 2021 5:50 PM"
+    },
+    {
+        "title": "WTA chief says new video of Chinese tennis star Peng Shuai 'insufficient' to assure her safety",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/20/tennis/peng-shuai-video-clip-spt-intl/index.html",
+        "sentiment": 1,
+        "timestamp": 1637536114,
+        "published": "November 21, 2021 6:08 PM"
+    },
+    {
+        "title": "Amazon Deforestation Soars to 15-Year High",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html",
+        "sentiment": 0,
+        "timestamp": 1637536582,
+        "published": "November 21, 2021 6:16 PM"
+    },
+    {
+        "title": "Jennifer Coolidge, Selena Gomez Among THR Critics Picks for TV Standouts",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/jennifer-coolidge-selena-gomez-tv-standout-performances-emmys-1235050016",
+        "sentiment": -2,
+        "timestamp": 1637539101,
+        "published": "November 21, 2021 6:58 PM"
+    },
+    {
+        "title": "Texas grid vulnerable to blackouts during severe winter weather, even with new preparations, ERCOT estimates show",
+        "domain": "kwtx.com",
+        "category": "news",
+        "link": "https://www.kwtx.com/2021/11/21/texas-grid-vulnerable-blackouts-during-severe-winter-weather-even-with-new-preparations-ercot-estimates-show/",
+        "sentiment": -4,
+        "timestamp": 1637539453,
+        "published": "November 21, 2021 7:04 PM"
+    },
+    {
         "title": "The GOP’s Redistricting Loophole: An under-the-radar Supreme Court ruling is making it easier for Republicans to defend racially discriminatory voting district maps.",
         "domain": "brennancenter.org",
         "category": "politics",
