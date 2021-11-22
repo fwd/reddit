@@ -1,5 +1,86 @@
 [
     {
+        "title": "US missionaries say 2 abductees freed in Haiti",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/7c9a01e4cbded48c99b6bda46041ba79",
+        "sentiment": 0,
+        "timestamp": 1637529730,
+        "published": "November 21, 2021 4:22 PM"
+    },
+    {
+        "title": "Europe is learning a crucial lesson -- vaccines work, but they alone won't stop Covid now",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/19/europe/europe-covid-vaccination-rates-fourth-wave-cmd-intl/index.html",
+        "sentiment": -1,
+        "timestamp": 1637536368,
+        "published": "November 21, 2021 6:12 PM"
+    },
+    {
+        "title": "'Frustrated' GOP Rep. John Curtis Wants Voters to Abandon Trump Allies Gaetz, Greene, Boebert",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/frustrated-gop-rep-john-curtis-wants-voters-abandon-trump-allies-gaetz-greene-boebert-1651737",
+        "sentiment": -2,
+        "timestamp": 1637546974,
+        "published": "November 21, 2021 9:09 PM"
+    },
+    {
+        "title": "'Piracy' website offers NFT art as free downloads",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/technology-59262326?at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom3=BBC+News&at_custom4=B9B2C06C-4970-11EC-B2C8-EDE839982C1E&at_custom2=facebook_page&at_campaign=64",
+        "sentiment": 1,
+        "timestamp": 1637548336,
+        "published": "November 21, 2021 9:32 PM"
+    },
+    {
+        "title": "AOC: 'We're Not Trump' Is Not Enough for Democrats to Win Elections",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-not-trump-not-enough-democrats-to-win-elections-2021-11",
+        "sentiment": 4,
+        "timestamp": 1637548538,
+        "published": "November 21, 2021 9:35 PM"
+    },
+    {
+        "title": "As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html",
+        "sentiment": 1,
+        "timestamp": 1637548654,
+        "published": "November 21, 2021 9:37 PM"
+    },
+    {
+        "title": "Leaked Texts: Jan. 6 Organizers Say They Were ‘Following POTUS’ Lead’",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-features/j6-white-house-rally-organizers-trump-cooperate-1260849/",
+        "sentiment": -1,
+        "timestamp": 1637548787,
+        "published": "November 21, 2021 9:39 PM"
+    },
+    {
+        "title": "Scrubs Cox Reveals His Feelings About J.D.",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/6f2lfVwLxBM",
+        "sentiment": 0,
+        "timestamp": 1637549327,
+        "published": "November 21, 2021 9:48 PM"
+    },
+    {
+        "title": "WhatsApp privacy policy tweaked in Europe after record fine",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59348921",
+        "sentiment": 2,
+        "timestamp": 1637551090,
+        "published": "November 21, 2021 10:18 PM"
+    },
+    {
         "title": "Palestinian teen stabs 67-year-old in Jaffa in suspected terror attack",
         "domain": "ynetnews.com",
         "category": "news",
