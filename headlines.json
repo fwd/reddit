@@ -1,5 +1,104 @@
 [
     {
+        "title": "Ex-Unilever CEO takes swipe at Australia, says it would be ‘stupid’ not to phase out coal",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/22/ex-unilever-ceo-paul-polman-takes-swipe-at-australia.html",
+        "sentiment": 0,
+        "timestamp": 1637588768,
+        "published": "November 22, 2021 8:46 AM"
+    },
+    {
+        "title": "Facebook and Instagram encryption plans delayed by Meta until 2023",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59373959",
+        "sentiment": -1,
+        "timestamp": 1637588936,
+        "published": "November 22, 2021 8:48 AM"
+    },
+    {
+        "title": "School cancelled, barricades on the street and pharmacies trashed: days of rioting against measures to curb the spread of Covid-19 have brought normal routines on France's Caribbean island of Guadeloupe to a standstill",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211122-explosive-covid-riots-paralyse-france-s-guadeloupe",
+        "sentiment": -1,
+        "timestamp": 1637590024,
+        "published": "November 22, 2021 9:07 AM"
+    },
+    {
+        "title": "Jan. 6 Rioter-on-the-Run Hosts Pity Party on Russian State TV",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/evan-neumann-the-jan-6-rioter-on-the-run-in-belarus-sucks-up-to-moscow-on-rt",
+        "sentiment": -2,
+        "timestamp": 1637591688,
+        "published": "November 22, 2021 9:34 AM"
+    },
+    {
+        "title": "'Anonymized Data' Is A Gibberish Term, And Rampant Location Data Sales Is Still A Problem",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211110/07551647913/anonymized-data-is-gibberish-term-rampant-location-data-sales-is-still-problem.shtml",
+        "sentiment": -2,
+        "timestamp": 1637592271,
+        "published": "November 22, 2021 9:44 AM"
+    },
+    {
+        "title": "Target to keep stores closed on Thanksgiving for good | AP News",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-lifestyle-holidays-shopping-f280f3afa3edf048e468aac33d9eb9a2",
+        "sentiment": 3,
+        "timestamp": 1637592324,
+        "published": "November 22, 2021 9:45 AM"
+    },
+    {
+        "title": "Peacock Renews Comedy Series 'We Are Lady Parts' for Season 2",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/we-are-lady-parts-season-2-renewed-peacock-1235117099/",
+        "sentiment": 1,
+        "timestamp": 1637593324,
+        "published": "November 22, 2021 10:02 AM"
+    },
+    {
+        "title": "Two quit Fox News over Tucker Carlson's Capitol attack series",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/media/2021/nov/22/fox-news-tucker-carlson-patriot-purge-capitol-attack-goldberg-hayes",
+        "sentiment": -1,
+        "timestamp": 1637593508,
+        "published": "November 22, 2021 10:05 AM"
+    },
+    {
+        "title": "Apple releases macOS 12.1 beta 3 to developers [Update: Public beta too]",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2021/11/16/apple-releases-macos-12-1-beta-3/",
+        "sentiment": 0,
+        "timestamp": 1637593714,
+        "published": "November 22, 2021 10:08 AM"
+    },
+    {
+        "title": "Korean Sci-Fi Netflix Series 'The Silent Sea' Brings Viewers To The Moon",
+        "domain": "augustman.com",
+        "category": "television",
+        "link": "https://www.augustman.com/sg/culture/film-tv/details-about-netflixs-new-korean-sci-fi-series-the-silent-sea/",
+        "sentiment": 0,
+        "timestamp": 1637593751,
+        "published": "November 22, 2021 10:09 AM"
+    },
+    {
+        "title": "Univ. of Washington researchers develop device to detect opioid overdose and inject antidote",
+        "domain": "geekwire.com",
+        "category": "technology",
+        "link": "https://www.geekwire.com/2021/univ-of-washington-researchers-develop-device-to-detect-opioid-overdose-and-inject-antidote/",
+        "sentiment": 0,
+        "timestamp": 1637593934,
+        "published": "November 22, 2021 10:12 AM"
+    },
+    {
         "title": "Dry River Triggers Mass Protest In Iran's Third-Largest City",
         "domain": "rferl.org",
         "category": "worldnews",
