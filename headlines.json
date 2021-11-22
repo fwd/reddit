@@ -1,5 +1,59 @@
 [
     {
+        "title": "Two Fox News commentators resign over Tucker Carlson's series on Jan. 6 siege : NPR",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/21/1052837157/fox-resignations-tucker-carlson-patriot-purge-documentary",
+        "sentiment": -1,
+        "timestamp": 1637569520,
+        "published": "November 22, 2021 3:25 AM"
+    },
+    {
+        "title": "'Tiger King' Joe Exotic diagnosed with cancer, moved to North Carolina facility",
+        "domain": "foxla.com",
+        "category": "news",
+        "link": "https://www.foxla.com/news/tiger-king-joe-exotic-diagnosed-with-cancer-moved-to-north-carolina-facility",
+        "sentiment": -1,
+        "timestamp": 1637573295,
+        "published": "November 22, 2021 4:28 AM"
+    },
+    {
+        "title": "Tesla Supercharging Costs Have Quadrupled Overnight",
+        "domain": "carbuzz.com",
+        "category": "technology",
+        "link": "https://carbuzz.com/news/tesla-supercharging-costs-have-quadrupled-overnight",
+        "sentiment": 0,
+        "timestamp": 1637574348,
+        "published": "November 22, 2021 4:45 AM"
+    },
+    {
+        "title": "Elon Musk says Tesla's Model S Plaid may come to China around March",
+        "domain": "livemint.com",
+        "category": "technology",
+        "link": "https://www.livemint.com/companies/news/elon-musk-says-tesla-s-model-s-plaid-may-come-to-china-around-march-11637567489304.html",
+        "sentiment": 0,
+        "timestamp": 1637576198,
+        "published": "November 22, 2021 5:16 AM"
+    },
+    {
+        "title": "Filming Wraps On Bridgerton Season Two",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/filming-wraps-on-bridgerton-season-two-1234878705/",
+        "sentiment": 0,
+        "timestamp": 1637576813,
+        "published": "November 22, 2021 5:26 AM"
+    },
+    {
+        "title": "YouTuber Shares First Photos of Real-Life Squid Game Recreation: 'Wish the 456 Contestants Good Luck'",
+        "domain": "people.com",
+        "category": "technology",
+        "link": "https://people.com/human-interest/youtube-star-mrbeast-shares-first-photos-squid-game-recreation/",
+        "sentiment": 4,
+        "timestamp": 1637577449,
+        "published": "November 22, 2021 5:37 AM"
+    },
+    {
         "title": "I’m a Defense Industry Worker. It’s Time to Cut the Pentagon Budget.",
         "domain": "thenation.com",
         "category": "politics",
