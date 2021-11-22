@@ -1,5 +1,86 @@
 [
     {
+        "title": "Is China considering a data tax on big tech? Signs point to yes | Key party member says profits earned on information belong to all, not just companies",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Economy/Is-China-considering-a-data-tax-on-big-tech-Signs-point-to-yes",
+        "sentiment": 4,
+        "timestamp": 1637610659,
+        "published": "November 22, 2021 2:50 PM"
+    },
+    {
+        "title": "Do-It-Yourself artificial pancreas given approval by team of experts",
+        "domain": "kcl.ac.uk",
+        "category": "technology",
+        "link": "https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts",
+        "sentiment": 2,
+        "timestamp": 1637613091,
+        "published": "November 22, 2021 3:31 PM"
+    },
+    {
+        "title": "Italy lights up Colosseum in red to remember women killed by men",
+        "domain": "wantedinrome.com",
+        "category": "worldnews",
+        "link": "https://www.wantedinrome.com/news/italy-lights-up-colosseum-in-red-to-remember-women-killed-by-men.html",
+        "sentiment": -3,
+        "timestamp": 1637615236,
+        "published": "November 22, 2021 4:07 PM"
+    },
+    {
+        "title": "Opinion: Republicans are fomenting a violent insurgency in America. It may have already started.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/22/republicans-are-fomenting-violent-extremism-are-also-hostage-extremists/",
+        "sentiment": -3,
+        "timestamp": 1637618157,
+        "published": "November 22, 2021 4:55 PM"
+    },
+    {
+        "title": "The Weeknd’s HBO Series ‘The Idol’ Gets Greenlight, Adds Eight to Cast Including Troye Sivan and Anne Heche",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/the-weeknd-hbo-series-the-idol-cast-troye-sivan-1235117644/",
+        "sentiment": 0,
+        "timestamp": 1637618738,
+        "published": "November 22, 2021 5:05 PM"
+    },
+    {
+        "title": "Alex Jones, Roger Stone subpoenaed in House Jan. 6 Capitol riot probe",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/22/alex-jones-roger-stone-subpoenaed-in-house-jan-6-capitol-riot-probe.html",
+        "sentiment": -2,
+        "timestamp": 1637619732,
+        "published": "November 22, 2021 5:22 PM"
+    },
+    {
+        "title": "Driver to face homicide charges for deaths at Wisconsin Christmas parade",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/five-dead-dozens-injured-after-suv-plows-into-wisconsin-christmas-parade-2021-11-22/",
+        "sentiment": -6,
+        "timestamp": 1637620074,
+        "published": "November 22, 2021 5:27 PM"
+    },
+    {
+        "title": "Baltimore County police officer convicted of 2nd degree rape sentenced to home detention",
+        "domain": "foxbaltimore.com",
+        "category": "news",
+        "link": "https://foxbaltimore.com/news/local/baltimore-county-police-officer-convicted-2nd-degree-rape-home-detention",
+        "sentiment": -10,
+        "timestamp": 1637620884,
+        "published": "November 22, 2021 5:41 PM"
+    },
+    {
+        "title": "Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol",
+        "sentiment": 0,
+        "timestamp": 1637621069,
+        "published": "November 22, 2021 5:44 PM"
+    },
+    {
         "title": "Trump allies are pushing him away from running again in 2024 to avoid a disastrous defeat, report says",
         "domain": "businessinsider.com.au",
         "category": "politics",
