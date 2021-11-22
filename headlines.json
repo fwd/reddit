@@ -1,5 +1,59 @@
 [
     {
+        "title": "Palestinian teen stabs 67-year-old in Jaffa in suspected terror attack",
+        "domain": "ynetnews.com",
+        "category": "news",
+        "link": "https://www.ynetnews.com/article/syy380ddt",
+        "sentiment": -7,
+        "timestamp": 1637528494,
+        "published": "November 21, 2021 4:01 PM"
+    },
+    {
+        "title": "Protests against Covid-19 vaccines and lockdowns erupt across Europe",
+        "domain": "news.com.au",
+        "category": "worldnews",
+        "link": "https://www.news.com.au/world/europe/protests-against-covid19-vaccines-and-lockdowns-erupt-across-europe/news-story/c50ff8a4a50a7ff32cf6cbb02e061ed1",
+        "sentiment": -2,
+        "timestamp": 1637539886,
+        "published": "November 21, 2021 7:11 PM"
+    },
+    {
+        "title": "Chinese freight train loaded with winter supplies departs for Afghanistan",
+        "domain": "news.cgtn.com",
+        "category": "worldnews",
+        "link": "https://news.cgtn.com/news/2021-11-21/Freight-train-full-of-winter-supplies-departs-China-for-Afghanistan-15mziSP1i1i/index.html",
+        "sentiment": 0,
+        "timestamp": 1637542459,
+        "published": "November 21, 2021 7:54 PM"
+    },
+    {
+        "title": "Illinois Supreme Court upholds Deerfield's assault weapons ban in divided ruling",
+        "domain": "lakemchenryscanner.com",
+        "category": "news",
+        "link": "https://www.lakemchenryscanner.com/2021/11/19/illinois-supreme-court-upholds-deerfields-assault-weapons-ban-in-divided-ruling/",
+        "sentiment": 0,
+        "timestamp": 1637544960,
+        "published": "November 21, 2021 8:36 PM"
+    },
+    {
+        "title": "Multiple injured after car runs through Wisconsin holiday parade",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/us/live-news/wisconsin-waukesha-christmas-parade-car-plow/index.html",
+        "sentiment": -2,
+        "timestamp": 1637546219,
+        "published": "November 21, 2021 8:56 PM"
+    },
+    {
+        "title": "Two Fox News Contributors Quit Over Tucker Carlson’s January 6 Series: “The Voices Of The Responsible Are Being Drowned Out By The Irresponsible”",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/fox-news-contributors-quit-over-tucker-carlson-1234878610/",
+        "sentiment": 0,
+        "timestamp": 1637549081,
+        "published": "November 21, 2021 9:44 PM"
+    },
+    {
         "title": "Hamas gunman kills Israeli in Jerusalem's Old City, is shot dead by police",
         "domain": "reuters.com",
         "category": "news",
