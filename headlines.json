@@ -1,5 +1,149 @@
 [
     {
+        "title": "Concerns remain for Chinese tennis star despite telling Olympics chief she's safe",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/chinese-tennis-star-peng-shuai-informs-olympic-committee-safe-well-rcna6282",
+        "sentiment": 1,
+        "timestamp": 1637577740,
+        "published": "November 22, 2021 5:42 AM"
+    },
+    {
+        "title": "Senate's Jan. 6 ethics probe into Cruz, Hawley drags on",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033",
+        "sentiment": -1,
+        "timestamp": 1637581467,
+        "published": "November 22, 2021 6:44 AM"
+    },
+    {
+        "title": "Arizona and West Virginia stand to gain big from BBB – but Sinema and Manchin might still sink it | Do the two senators who control fate of BBB value “corporations and billionaires\" over their own constituents?",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/22/arizona-and-west-virginia-would-win-big-from-bbb-are-manchin-and-sinema-paying-attention/",
+        "sentiment": 3,
+        "timestamp": 1637581483,
+        "published": "November 22, 2021 6:44 AM"
+    },
+    {
+        "title": "Teen‎ager se‎xually assaul‎ted by Af‎ghan m‎an di‎es in Tu‎rkey",
+        "domain": "duvarenglish.com",
+        "category": "worldnews",
+        "link": "https://www.duvarenglish.com/teenager-sexually-assaulted-by-afghan-man-dies-in-turkey-news-59609",
+        "sentiment": 0,
+        "timestamp": 1637583461,
+        "published": "November 22, 2021 7:17 AM"
+    },
+    {
+        "title": "Dutch COVID-19 unrest 'pure violence' by 'idiots': PM",
+        "domain": "enca.com",
+        "category": "worldnews",
+        "link": "https://www.enca.com/news/dutch-covid-unrest-pure-violence-idiots-pm",
+        "sentiment": 0,
+        "timestamp": 1637584097,
+        "published": "November 22, 2021 7:28 AM"
+    },
+    {
+        "title": "Congressional gerrymandering by Texas Republicans cut out the heart of Houston’s Asian community",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/11/22/texas-redistricting-congressional-asian/",
+        "sentiment": -1,
+        "timestamp": 1637584922,
+        "published": "November 22, 2021 7:42 AM"
+    },
+    {
+        "title": "Alexandria Ocasio-Cortez fears midterms could see authoritarian takeover by GOP",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/alexandria-ocasio-cortez-fears-midterms-authoritarian-takeover-gop-1651827",
+        "sentiment": 0,
+        "timestamp": 1637585269,
+        "published": "November 22, 2021 7:47 AM"
+    },
+    {
+        "title": "European thinktank adds U.S. to list of \"backsliding\" democracies for 1st time",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/us-backsliding-democracy-list-idea-thinktank-global-democracies/",
+        "sentiment": 0,
+        "timestamp": 1637585586,
+        "published": "November 22, 2021 7:53 AM"
+    },
+    {
+        "title": "Democracy slipping away at record rate, intergovernmental body warns",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/democracy-slipping-away-record-rate-intergovernmental-body-warns-2021-11-22/",
+        "sentiment": -2,
+        "timestamp": 1637585607,
+        "published": "November 22, 2021 7:53 AM"
+    },
+    {
+        "title": "Kojima Productions launches new film, TV and music division",
+        "domain": "gamesindustry.biz",
+        "category": "television",
+        "link": "https://www.gamesindustry.biz/articles/2021-11-22-kojima-productions-launches-new-film-tv-and-music-division",
+        "sentiment": 0,
+        "timestamp": 1637586337,
+        "published": "November 22, 2021 8:05 AM"
+    },
+    {
+        "title": "Rolls-Royce's all-electric airplane smashes record with 387.4 MPH top speed",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/rolls-royces-all-electric-airplane-hits-a-record-3874-mph-top-speed-082803118.html",
+        "sentiment": 2,
+        "timestamp": 1637586417,
+        "published": "November 22, 2021 8:06 AM"
+    },
+    {
+        "title": "WhatsApp pushes privacy update to comply with Irish ruling",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/technology-business-europe-data-privacy-ireland-54295317b794588f413051740d616cd9",
+        "sentiment": 0,
+        "timestamp": 1637586692,
+        "published": "November 22, 2021 8:11 AM"
+    },
+    {
+        "title": "‘We were two tortured idiots trying to make TV’: The Adam and Joe Show, 25 years on",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/22/we-were-two-tortured-idiots-trying-to-make-tv-the-adam-and-joe-show-25-years-on?CMP=Share_AndroidApp_Other",
+        "sentiment": -4,
+        "timestamp": 1637586875,
+        "published": "November 22, 2021 8:14 AM"
+    },
+    {
+        "title": "Uber enters booming cannabis market with orders in Ontario",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/markets/commodities/exclusive-uber-takes-new-trip-with-cannabis-delivery-ontario-2021-11-22/",
+        "sentiment": 0,
+        "timestamp": 1637587671,
+        "published": "November 22, 2021 8:27 AM"
+    },
+    {
+        "title": "Desperate Parents Turn to Shopping Bots to Hunt for Hottest Christmas Gifts - Use of programs that scour retail sites for hard-to-find items has soared since the start of the pandemic",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/desperate-parents-turn-to-shopping-bots-to-hunt-for-hottest-christmas-gifts-11637417633",
+        "sentiment": -3,
+        "timestamp": 1637587766,
+        "published": "November 22, 2021 8:29 AM"
+    },
+    {
+        "title": "Covid: Austria back in lockdown despite protests",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-europe-59369488",
+        "sentiment": -2,
+        "timestamp": 1637588123,
+        "published": "November 22, 2021 8:35 AM"
+    },
+    {
         "title": "U.S.’s 2021 COVID Deaths Top Last Year’s",
         "domain": "thedailybeast.com",
         "category": "politics",
