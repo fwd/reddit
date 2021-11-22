@@ -1,5 +1,104 @@
 [
     {
+        "title": "Trump allies are pushing him away from running again in 2024 to avoid a disastrous defeat, report says",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/trump-aides-pushing-him-not-to-run-in-2024-report-2021-11?_ga=2.51915434.2004442333.1637428706-866682933.16372704",
+        "sentiment": -6,
+        "timestamp": 1637609802,
+        "published": "November 22, 2021 2:36 PM"
+    },
+    {
+        "title": "Japan looking to allow more foreigners to stay indefinitely in a major immigration policy shift",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/18/japan-could-allow-more-foreigners-to-stay-indefinitely-in-major-shift.html",
+        "sentiment": 1,
+        "timestamp": 1637612723,
+        "published": "November 22, 2021 3:25 PM"
+    },
+    {
+        "title": "GoDaddy says information on 1.2 million customers exposed in data breach",
+        "domain": "thehill.com",
+        "category": "technology",
+        "link": "https://thehill.com/policy/cybersecurity/582676-godaddy-says-information-on-12-million-customer-exposed-in-data-breach",
+        "sentiment": -3,
+        "timestamp": 1637614161,
+        "published": "November 22, 2021 3:49 PM"
+    },
+    {
+        "title": "The chase for fusion energy. An emerging industry of nuclear-fusion firms promises to have commercial reactors ready in the next decade.",
+        "domain": "nature.com",
+        "category": "technology",
+        "link": "https://www.nature.com/immersive/d41586-021-03401-w/index.html",
+        "sentiment": 1,
+        "timestamp": 1637614719,
+        "published": "November 22, 2021 3:58 PM"
+    },
+    {
+        "title": "Covid-19 cases in children are up 32% from two weeks ago, pediatricians' group says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/22/health/covid-19-children-cases-up-again/index.html",
+        "sentiment": 0,
+        "timestamp": 1637615278,
+        "published": "November 22, 2021 4:07 PM"
+    },
+    {
+        "title": "'Pipelines will be blown up,' says David Suzuki, if leaders don't act on climate change",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/canada/pipelines-will-be-blown-up-says-david-suzuki-if-leaders-dont-act-on-climate-change",
+        "sentiment": 0,
+        "timestamp": 1637615658,
+        "published": "November 22, 2021 4:14 PM"
+    },
+    {
+        "title": "Judge declines Florida request to immediately block Biden HHS vaccine rule for health care workers",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/22/politics/florida-biden-hhs-vaccine-mandate/index.html?utm_content=2021-11-22T21%3A16%3A07&utm_term=link&utm_source=twCNN&utm_medium=social",
+        "sentiment": 1,
+        "timestamp": 1637616166,
+        "published": "November 22, 2021 4:22 PM"
+    },
+    {
+        "title": "NASA Plans to Put a Nuclear Reactor on the Moon Within a Decade | The agency put out a request for proposals for a lunar nuclear power plant that can power surface exploration.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/y3vd4g/nasa-plans-to-put-a-nuclear-reactor-on-the-moon-within-a-decade",
+        "sentiment": 1,
+        "timestamp": 1637616829,
+        "published": "November 22, 2021 4:33 PM"
+    },
+    {
+        "title": "Why Batman: The Animated Series Remains a Beloved, Nostalgic Hit",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hbo-max/batman-the-animated-series-episodes-streaming-legacy/",
+        "sentiment": 3,
+        "timestamp": 1637617590,
+        "published": "November 22, 2021 4:46 PM"
+    },
+    {
+        "title": "Two Fox contributors quit, citing ‘irresponsible’ voices",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/arts-and-entertainment-media-tucker-carlson-jonah-goldberg-153c988b675cc5bfdce8e30912886f8d",
+        "sentiment": 0,
+        "timestamp": 1637618329,
+        "published": "November 22, 2021 4:58 PM"
+    },
+    {
+        "title": "SNL' Alum Peter Aykroyd Died After Untreated Abdominal Hernia, Brother Dan Aykroyd Says",
+        "domain": "trendingsearchs.com",
+        "category": "television",
+        "link": "https://trendingsearchs.com/snl-alum-peter-aykroyd-died-after-untreated-abdominal-hernia-brother-dan-aykroyd-says/",
+        "sentiment": -3,
+        "timestamp": 1637618858,
+        "published": "November 22, 2021 5:07 PM"
+    },
+    {
         "title": "\"Midnight is approaching” to pass voting rights protections",
         "domain": "axios.com",
         "category": "politics",
