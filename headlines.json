@@ -1,5 +1,122 @@
 [
     {
+        "title": "India’s Modi says will repeal controversial farm laws - PM Narendra Modi says he has decided to withdraw three farm laws that sparked year-long protests.",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/19/indias-modi-says-will-repeal-controversial-farm-laws",
+        "sentiment": -4,
+        "timestamp": 1637536275,
+        "published": "November 21, 2021 6:11 PM"
+    },
+    {
+        "title": "Mexican authorities find 600 migrants hidden in two trailers in Veracruz",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/21/americas/mexico-us-border-migrant-trailer-smuggling-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1637536435,
+        "published": "November 21, 2021 6:13 PM"
+    },
+    {
+        "title": "Republican lawmakers embrace natural immunity as substitute for COVID vaccines",
+        "domain": "marketwatch.com",
+        "category": "politics",
+        "link": "https://www.marketwatch.com/story/republican-lawmakers-embrace-natural-immunity-as-substitute-for-covid-vaccines-01637531286?siteid=yhoof2",
+        "sentiment": 2,
+        "timestamp": 1637537019,
+        "published": "November 21, 2021 6:23 PM"
+    },
+    {
+        "title": "Winter 2021/2022 - Latest seasonal forecasts show the colder than expected La Nina having a strong influence on the jet stream pattern between the North Pacific and the North Atlantic ocean. This will influence the weather patterns across the Northern Hemisphere in the upcoming winter season.",
+        "domain": "severe-weather.eu",
+        "category": "worldnews",
+        "link": "https://www.severe-weather.eu/long-range-2/winter-season-2021-2022-usa-europe-final-weather-forecast-fa/",
+        "sentiment": 2,
+        "timestamp": 1637540132,
+        "published": "November 21, 2021 7:15 PM"
+    },
+    {
+        "title": "Illinois Supreme Court Upholds Assault Weapons Ban In Deerfield",
+        "domain": "chicago.cbslocal.com",
+        "category": "politics",
+        "link": "https://chicago.cbslocal.com/2021/11/18/illinois-supreme-court-upholds-assault-weapons-ban-deerfield/",
+        "sentiment": 0,
+        "timestamp": 1637544770,
+        "published": "November 21, 2021 8:32 PM"
+    },
+    {
+        "title": "Revealed: How Lord Salisbury hid rape by his British consul in Benin",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/21/revealed-how-lord-salisbury-hid-by-his-british-consul-in-benin",
+        "sentiment": -5,
+        "timestamp": 1637548427,
+        "published": "November 21, 2021 9:33 PM"
+    },
+    {
+        "title": "Far-right populist, ex-protest leader set for runoff vote in Chile’s presidential election",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/21/far-right-populist-looks-set-to-win-first-round-of-chiles-presidential-election",
+        "sentiment": 0,
+        "timestamp": 1637549312,
+        "published": "November 21, 2021 9:48 PM"
+    },
+    {
+        "title": "Residents evacuated from Italian island Vulcano over carbon dioxide levels",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/21/europe/italy-vulcano-island-residents-evacuated-intl-scli/index.html",
+        "sentiment": -1,
+        "timestamp": 1637549540,
+        "published": "November 21, 2021 9:52 PM"
+    },
+    {
+        "title": "Ted Cruz Just Can’t Quit Spreading False Voter Fraud Claims",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/ted-cruz-false-voter-fraud-claims-1260861/",
+        "sentiment": -5,
+        "timestamp": 1637550890,
+        "published": "November 21, 2021 10:14 PM"
+    },
+    {
+        "title": "Two missionaries released in Haiti after group kidnapping",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/21/americas/haiti-missionaries-two-released-intl-latam/index.html",
+        "sentiment": -2,
+        "timestamp": 1637551577,
+        "published": "November 21, 2021 10:26 PM"
+    },
+    {
+        "title": "A Power Struggle Over Cobalt Rattles the Clean Energy Revolution",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html",
+        "sentiment": 0,
+        "timestamp": 1637552693,
+        "published": "November 21, 2021 10:44 PM"
+    },
+    {
+        "title": "An Australian artist and programmer has created a website that claims to let people download \"every NFT\" on the Ethereum blockchain in one go.",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/technology-59262326?at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom3=BBC+News&at_custom4=B9B2C06C-4970-11EC-B2C8-EDE839982C1E&at_custom2=facebook_page&at_campaign=64",
+        "sentiment": 0,
+        "timestamp": 1637553364,
+        "published": "November 21, 2021 10:56 PM"
+    },
+    {
+        "title": "Mother/Android trailer 2021",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/nm_3c9PYFc0",
+        "sentiment": 0,
+        "timestamp": 1637553768,
+        "published": "November 21, 2021 11:02 PM"
+    },
+    {
         "title": "US missionaries say 2 abductees freed in Haiti",
         "domain": "apnews.com",
         "category": "news",
