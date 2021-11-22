@@ -1,5 +1,95 @@
 [
     {
+        "title": "Democracy slipping away at record rate, study warns",
+        "domain": "straitstimes.com",
+        "category": "politics",
+        "link": "https://www.straitstimes.com/world/europe/democracy-slipping-away-at-record-rate-study-warns",
+        "sentiment": -2,
+        "timestamp": 1637569865,
+        "published": "November 22, 2021 3:31 AM"
+    },
+    {
+        "title": "Police charge Amazon India executives in drug smuggling case",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/business-59342011",
+        "sentiment": -2,
+        "timestamp": 1637571631,
+        "published": "November 22, 2021 4:00 AM"
+    },
+    {
+        "title": "Te‎enager sexu‎ally assaul‎ted by Afg‎han m‎an die‎s in Turk‎ey",
+        "domain": "duvarenglish.com",
+        "category": "worldnews",
+        "link": "https://www.duvarenglish.com/teenager-sexually-assaulted-by-afghan-man-dies-in-turkey-news-59609",
+        "sentiment": 0,
+        "timestamp": 1637573045,
+        "published": "November 22, 2021 4:24 AM"
+    },
+    {
+        "title": "Hundreds march in East Jerusalem in support of Hamas gunman",
+        "domain": "ynetnews.com",
+        "category": "worldnews",
+        "link": "https://www.ynetnews.com/article/sk00ebqodt#autoplay",
+        "sentiment": 2,
+        "timestamp": 1637574248,
+        "published": "November 22, 2021 4:44 AM"
+    },
+    {
+        "title": "US added to list of ‘backsliding’ democracies for first time",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/22/us-list-backsliding-democracies-civil-liberties-international",
+        "sentiment": 0,
+        "timestamp": 1637575365,
+        "published": "November 22, 2021 5:02 AM"
+    },
+    {
+        "title": "US added to list of ‘backsliding’ democracies for first time: ‘Visible deterioration’ in US civil liberties began in at least 2019, says international thinktank",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2021/nov/22/us-list-backsliding-democracies-civil-liberties-international",
+        "sentiment": 0,
+        "timestamp": 1637577192,
+        "published": "November 22, 2021 5:33 AM"
+    },
+    {
+        "title": "Spain's Socialist Government Moves Forward with 4-Day Work Week Trial",
+        "domain": "time.com",
+        "category": "worldnews",
+        "link": "https://time.com/5948677/four-day-work-week-spain/",
+        "sentiment": 0,
+        "timestamp": 1637577375,
+        "published": "November 22, 2021 5:36 AM"
+    },
+    {
+        "title": "‘Blade Runner’ TV Series Being Developed Says Ridley Scott",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/blade-runner-alien-tv-ridley-scott-alien-1235051593/",
+        "sentiment": 0,
+        "timestamp": 1637579756,
+        "published": "November 22, 2021 6:15 AM"
+    },
+    {
+        "title": "100 Years of Robots: How Technology – And Our Lives",
+        "domain": "msn.com",
+        "category": "technology",
+        "link": "https://www.msn.com/en-us/news/technology/100-years-of-robots-how-technology-and-our-lives-have-changed/ss-AAQYoRY",
+        "sentiment": 0,
+        "timestamp": 1637580655,
+        "published": "November 22, 2021 6:30 AM"
+    },
+    {
+        "title": "U.S. lawmakers call for privacy legislation after Reuters report on Amazon lobbying",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/world/us/us-lawmakers-call-privacy-legislation-after-reuters-report-amazon-lobbying-2021-11-22/",
+        "sentiment": -2,
+        "timestamp": 1637581326,
+        "published": "November 22, 2021 6:42 AM"
+    },
+    {
         "title": "Two Fox News commentators resign over Tucker Carlson's series on Jan. 6 siege : NPR",
         "domain": "npr.org",
         "category": "politics",
