@@ -1,5 +1,104 @@
 [
     {
+        "title": "U.S.’s 2021 COVID Deaths Top Last Year’s",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/uss-2021-covid-deaths-more-than-double-last-years",
+        "sentiment": 0,
+        "timestamp": 1637560498,
+        "published": "November 22, 2021 12:54 AM"
+    },
+    {
+        "title": "Polish mothers stage aid operation for migrant families",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/polish-mothers-stage-aid-operation-for-migrant-families/av-59893468",
+        "sentiment": 0,
+        "timestamp": 1637563057,
+        "published": "November 22, 2021 1:37 AM"
+    },
+    {
+        "title": "Energy transition can no longer be delayed: President Jokowi - ANTARA News",
+        "domain": "en.antaranews.com",
+        "category": "worldnews",
+        "link": "https://en.antaranews.com/news/200689/energy-transition-can-no-longer-be-delayed-president-jokowi",
+        "sentiment": -2,
+        "timestamp": 1637563144,
+        "published": "November 22, 2021 1:39 AM"
+    },
+    {
+        "title": "Austria enters nationwide lockdown to fight soaring cases",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/Health/wireStory/austria-enters-nationwide-lockdown-fight-soaring-cases-81322488",
+        "sentiment": -1,
+        "timestamp": 1637571409,
+        "published": "November 22, 2021 3:56 AM"
+    },
+    {
+        "title": "Democrats are sleepwalking towards electoral disaster in 2022",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/white-house/582481-democrats-are-sleepwalking-towards-electoral-disaster-in-2022",
+        "sentiment": -2,
+        "timestamp": 1637576954,
+        "published": "November 22, 2021 5:29 AM"
+    },
+    {
+        "title": "Ethiopian artifacts stolen by British soldiers returned after 150 years",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-11-21/artefacts-stolen-from-british-soliders-returned-to-ethiopia/100637388",
+        "sentiment": -2,
+        "timestamp": 1637580985,
+        "published": "November 22, 2021 6:36 AM"
+    },
+    {
+        "title": "Recreational marijuana nearing enough signatures to force lawmakers’ hands, organizer says",
+        "domain": "news5cleveland.com",
+        "category": "politics",
+        "link": "https://www.news5cleveland.com/news/state/recreational-marijuana-nearing-enough-signatures-to-force-lawmakers-hands-organizer-says",
+        "sentiment": 0,
+        "timestamp": 1637581090,
+        "published": "November 22, 2021 6:38 AM"
+    },
+    {
+        "title": "In first, US added to annual list of ‘backsliding’ democracies",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2021/11/22/in-first-us-added-to-annual-list-of-backsliding-democracies",
+        "sentiment": 0,
+        "timestamp": 1637582427,
+        "published": "November 22, 2021 7:00 AM"
+    },
+    {
+        "title": "The Wheel of Time's Opening Credits are amazing!",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/R4rYWtTo7Ig",
+        "sentiment": 4,
+        "timestamp": 1637582678,
+        "published": "November 22, 2021 7:04 AM"
+    },
+    {
+        "title": "Bobby Flay Sets New Deal With Food Network After Stalled Talks Quietly Resumed (EXCLUSIVE)",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/bobby-flay-food-network-deal-1235116866/",
+        "sentiment": 0,
+        "timestamp": 1637582873,
+        "published": "November 22, 2021 7:07 AM"
+    },
+    {
+        "title": "Why Are Electric Vehicle Companies Worth So Much Money?",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/v7dezy/why-are-electric-vehicle-companies-worth-so-much-money",
+        "sentiment": 2,
+        "timestamp": 1637583934,
+        "published": "November 22, 2021 7:25 AM"
+    },
+    {
         "title": "Democracy slipping away at record rate, study warns",
         "domain": "straitstimes.com",
         "category": "politics",
