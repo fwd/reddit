@@ -1,5 +1,131 @@
 [
     {
+        "title": "Michael Cohen ends prison term after Trump-related crimes",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/donald-trump-crime-new-york-manhattan-campaigns-3a0413202e80ab99c9f6377f97d07c04",
+        "sentiment": -5,
+        "timestamp": 1637603216,
+        "published": "November 22, 2021 12:46 PM"
+    },
+    {
+        "title": "Joe Biden Sets $15 Minimum Wage For Federal Contractors | The higher wage floor will apply to new federal contracts across the country after Jan. 30.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/biden-15-dollar-minimum-wage-federal-contractors_n_619bc744e4b044a1cc0aed75",
+        "sentiment": 0,
+        "timestamp": 1637603655,
+        "published": "November 22, 2021 12:54 PM"
+    },
+    {
+        "title": "'Dead Boy Detectives' HBO Max Pilot Sets Main Cast",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/dead-boy-detectives-hbo-max-pilot-cast-1235116122/",
+        "sentiment": 0,
+        "timestamp": 1637604261,
+        "published": "November 22, 2021 1:04 PM"
+    },
+    {
+        "title": "Al Gore 'was a man' about his election loss, unlike Trump, judge says",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html",
+        "sentiment": -3,
+        "timestamp": 1637604704,
+        "published": "November 22, 2021 1:11 PM"
+    },
+    {
+        "title": "3 teens arrested in shooting at suburban Denver high school",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/teens-arrested-shooting-suburban-denver-high-school-81331326",
+        "sentiment": -3,
+        "timestamp": 1637605498,
+        "published": "November 22, 2021 1:24 PM"
+    },
+    {
+        "title": "UK-based EV retrofitter company looks to grow in the US market",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/22/22763435/everrati-ev-retrofitter-announces-expansion-us-operations-interview",
+        "sentiment": 0,
+        "timestamp": 1637606222,
+        "published": "November 22, 2021 1:37 PM"
+    },
+    {
+        "title": "GoDaddy security breach",
+        "domain": "sec.gov",
+        "category": "technology",
+        "link": "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000122/gddyblogpostnov222021.htm",
+        "sentiment": -2,
+        "timestamp": 1637606379,
+        "published": "November 22, 2021 1:39 PM"
+    },
+    {
+        "title": "Bitcoin Miners Are Flocking to Texas as Grid Operator Warns of Future Blackouts",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/bitcoin-miners-are-flocking-to-texas-as-grid-operator-w-1848103092",
+        "sentiment": -2,
+        "timestamp": 1637606429,
+        "published": "November 22, 2021 1:40 PM"
+    },
+    {
+        "title": "NASA wants to put nuclear reactors on the Moon to power a future manned base",
+        "domain": "euronews.com",
+        "category": "technology",
+        "link": "https://www.euronews.com/next/2021/11/22/nasa-wants-to-put-nuclear-reactors-on-the-moon-and-one-day-mars",
+        "sentiment": 0,
+        "timestamp": 1637606585,
+        "published": "November 22, 2021 1:43 PM"
+    },
+    {
+        "title": "Facebook researchers wanted to block racist hate speech, but executives reportedly dismissed their solution to avoid backlash from 'conservative partners'",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-meta-employees-hate-speech-dismissed-2021-11",
+        "sentiment": -9,
+        "timestamp": 1637606691,
+        "published": "November 22, 2021 1:44 PM"
+    },
+    {
+        "title": "As We See It - Official Trailer | Prime Video",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/H_JA2JXM25Y",
+        "sentiment": 0,
+        "timestamp": 1637608622,
+        "published": "November 22, 2021 2:17 PM"
+    },
+    {
+        "title": "Authorities identify driver of SUV they say drove into Waukesha parade that killed 5 and injured more than 40",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/22/us/waukesha-car-parade-crowd-monday/index.html",
+        "sentiment": -5,
+        "timestamp": 1637608662,
+        "published": "November 22, 2021 2:17 PM"
+    },
+    {
+        "title": "Workers in Vietnam lived inside factories to keep Samsung’s products on shelves during the pandemic | As Covid-19 threatened the tech supply chain, some companies, including Apple suppliers, went to extreme lengths to keep their products flowing.",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/samsung-worker-factories-pandemic/",
+        "sentiment": -2,
+        "timestamp": 1637608864,
+        "published": "November 22, 2021 2:21 PM"
+    },
+    {
+        "title": "Amateur rapper charged over Wisconsin Christmas parade carnage",
+        "domain": "7news.com.au",
+        "category": "news",
+        "link": "https://7news.com.au/sunrise/on-the-show/amateur-rapper-reportedly-in-custody-over-wisconsin-christmas-parade-carnage-c-4659076",
+        "sentiment": -3,
+        "timestamp": 1637609001,
+        "published": "November 22, 2021 2:23 PM"
+    },
+    {
         "title": "Majorities back maintaining Roe v. Wade, oppose states' abortion clinic restrictions",
         "domain": "abcnews.go.com",
         "category": "politics",
