@@ -1,5 +1,86 @@
 [
     {
+        "title": "Hamas gunman kills Israeli in Jerusalem's Old City, is shot dead by police",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/middle-east/gunman-kills-one-jerusalems-old-city-is-shot-dead-israeli-police-say-2021-11-21/",
+        "sentiment": -6,
+        "timestamp": 1637514068,
+        "published": "November 21, 2021 12:01 PM"
+    },
+    {
+        "title": "In Hard Times, Afghan Farmers Are Turning to Opium for Security",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html",
+        "sentiment": -1,
+        "timestamp": 1637524015,
+        "published": "November 21, 2021 2:46 PM"
+    },
+    {
+        "title": "As Georgia grows more Democratic, its members of Congress will not",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/21/1057630022/as-georgia-grows-more-democratic-its-members-of-congress-will-not",
+        "sentiment": 0,
+        "timestamp": 1637526615,
+        "published": "November 21, 2021 3:30 PM"
+    },
+    {
+        "title": "Biden marks 'deadliest year on record for transgender Americans' on day of remembrance",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html",
+        "sentiment": 0,
+        "timestamp": 1637537886,
+        "published": "November 21, 2021 6:38 PM"
+    },
+    {
+        "title": "‘Epic’ bust: State police in Oregon seize 500,000 pounds of marijuana",
+        "domain": "whio.com",
+        "category": "news",
+        "link": "https://www.whio.com/news/trending/epic-bust-state-police-oregon-seize-500000-pounds-marijuana/RSKPBJV32JF4NJT4DZ6CSJT5Q4/",
+        "sentiment": 0,
+        "timestamp": 1637539522,
+        "published": "November 21, 2021 7:05 PM"
+    },
+    {
+        "title": "Ted Cruz Gets Shut Down On CBS For Indulging Voter Fraud Lies",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ted-cruz-cbs-brennan_n_619ac6d5e4b0ae9a42a26faf",
+        "sentiment": -4,
+        "timestamp": 1637540100,
+        "published": "November 21, 2021 7:15 PM"
+    },
+    {
+        "title": "Democracy Slipping Away At Record Rate, Intergovernmental Body Warns",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/democracy-slipping-away-record-rate-intergovernmental-body-warns-2021-11-22/",
+        "sentiment": -2,
+        "timestamp": 1637540734,
+        "published": "November 21, 2021 7:25 PM"
+    },
+    {
+        "title": "Megachurch leader who calls himself the 'son of God' charged with sex trafficking",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/megachurch-leader-calls-son-god-charged-sex-trafficking-rcna6112?cid=sm_npd_nn_tw_ma&s=09",
+        "sentiment": -3,
+        "timestamp": 1637542874,
+        "published": "November 21, 2021 8:01 PM"
+    },
+    {
+        "title": "Instagram Founder's Instagram Locked When One Person Convinced Instagram He Had Died",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211118/08383547966/instagram-founders-instagram-locked-when-one-person-convinced-instagram-he-had-died.shtml",
+        "sentiment": -2,
+        "timestamp": 1637545424,
+        "published": "November 21, 2021 8:43 PM"
+    },
+    {
         "title": "1-year-old injured in drive-by shooting in SW Houston, police say",
         "domain": "abc13.com",
         "category": "news",
