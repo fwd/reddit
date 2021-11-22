@@ -1,5 +1,131 @@
 [
     {
+        "title": "Majorities back maintaining Roe v. Wade, oppose states' abortion clinic restrictions",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/majorities-back-maintaining-roe-wade-oppose-states-abortion/story?id=81095216",
+        "sentiment": 0,
+        "timestamp": 1637599644,
+        "published": "November 22, 2021 11:47 AM"
+    },
+    {
+        "title": "AOC calls out the 'enormous' amount of executive power Biden could have on student debt, climate change, and immigration while she's watching him 'hand the pen to Joe Manchin and Kyrsten Sinema'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-student-debt-climate-immigration-biden-enormous-executive-action-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637601747,
+        "published": "November 22, 2021 12:22 PM"
+    },
+    {
+        "title": "A 'duty' to chase Ahmaud Arbery? Jury in murder trial hears clashing accounts",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/prosecution-begin-closing-argument-georgia-trial-over-killing-ahmaud-arbery-2021-11-22/",
+        "sentiment": -2,
+        "timestamp": 1637602167,
+        "published": "November 22, 2021 12:29 PM"
+    },
+    {
+        "title": "Former New York Governor Andrew Cuomo engaged in sexual harassment, New York state lawmakers' probe finds",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/cuomo-engaged-sexual-harassment-state-assembly-probe-finds-2021-11-22/",
+        "sentiment": -3,
+        "timestamp": 1637602249,
+        "published": "November 22, 2021 12:30 PM"
+    },
+    {
+        "title": "Republican donors are pouring money into Sen. Kyrsten Sinema",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/republican-donors-pouring-money-sen-kyrsten-sinema/",
+        "sentiment": 0,
+        "timestamp": 1637602924,
+        "published": "November 22, 2021 12:42 PM"
+    },
+    {
+        "title": "‘Solar Opposites’ Christmas Special Walks the Line Between Raunchy and Festive",
+        "domain": "decider.com",
+        "category": "television",
+        "link": "https://decider.com/2021/11/22/solar-opposites-chirstmas-special-review/",
+        "sentiment": 2,
+        "timestamp": 1637603046,
+        "published": "November 22, 2021 12:44 PM"
+    },
+    {
+        "title": "Jan. 6 Committee tells court it urgently needs Trump records",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/582645-jan-6-committee-tells-court-it-urgently-needs-trump-records",
+        "sentiment": 0,
+        "timestamp": 1637603495,
+        "published": "November 22, 2021 12:51 PM"
+    },
+    {
+        "title": "Mark Hamill & Lena Headey Give a Voice Acting Master Class | Masters of the Universe: Revelation",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/tx3RGWnL9Fw",
+        "sentiment": 0,
+        "timestamp": 1637603560,
+        "published": "November 22, 2021 12:52 PM"
+    },
+    {
+        "title": "Outrage after two journalists detained at Indigenous protest in Canada. Press organizations have condemned the arrest of two journalists who were detained by RCMP while covering Indigenous-led resistance to a controversial pipeline project.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/22/canada-two-journalists-detained-indigenous-pipeline-protest",
+        "sentiment": -15,
+        "timestamp": 1637603633,
+        "published": "November 22, 2021 12:53 PM"
+    },
+    {
+        "title": "NASA prepares to deflect asteroid for first time in planetary defence test",
+        "domain": "news.sky.com",
+        "category": "technology",
+        "link": "https://news.sky.com/story/nasa-prepares-to-deflect-asteroid-for-first-time-in-planetary-defence-test-12475727",
+        "sentiment": 0,
+        "timestamp": 1637604049,
+        "published": "November 22, 2021 1:00 PM"
+    },
+    {
+        "title": "With gas prices and power blackouts on the rise, is green technology the solution?",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-gas-prices-power-blackouts-green.html",
+        "sentiment": 2,
+        "timestamp": 1637605124,
+        "published": "November 22, 2021 1:18 PM"
+    },
+    {
+        "title": "Priceless Roman mosaic spent 50 years as a coffee table in New York apartment",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/artanddesign/2021/nov/22/priceless-roman-mosaic-coffee-table-new-york-apartment",
+        "sentiment": 0,
+        "timestamp": 1637605425,
+        "published": "November 22, 2021 1:23 PM"
+    },
+    {
+        "title": "Kevin Spacey loses Arbitration Case Against 'House of Cards' Producer, Ordered To Pay $31 million in Damages and Legal Fees",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/house-of-cards-kevin-spacey-arbitration-1235117425/",
+        "sentiment": -3,
+        "timestamp": 1637605753,
+        "published": "November 22, 2021 1:29 PM"
+    },
+    {
+        "title": "Electric cars aren’t enough to hit climate targets: we need to develop better public transport too",
+        "domain": "theconversation.com",
+        "category": "technology",
+        "link": "https://theconversation.com/electric-cars-arent-enough-to-hit-climate-targets-we-need-to-develop-better-public-transport-too-171330",
+        "sentiment": 2,
+        "timestamp": 1637605816,
+        "published": "November 22, 2021 1:30 PM"
+    },
+    {
         "title": "Holly Hobbie Season 3 | Release Date: November 23, 2021 and Episode Synopsis",
         "domain": "thetealmango.com",
         "category": "television",
