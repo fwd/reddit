@@ -1,5 +1,32 @@
 [
     {
+        "title": "In pictures: British Columbia devastated by floods",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/news/other/in-pictures-british-columbia-devastated-by-floods/ar-AAQUV44",
+        "sentiment": -2,
+        "timestamp": 1637562581,
+        "published": "November 22, 2021 1:29 AM"
+    },
+    {
+        "title": "U.S. senator introduces bill to block Brazilian beef imports after \"mad cow\" reports",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/markets/commodities/us-senator-introduces-bill-block-brazilian-beef-imports-after-mad-cow-reports-2021-11-18/",
+        "sentiment": -4,
+        "timestamp": 1637567814,
+        "published": "November 22, 2021 2:56 AM"
+    },
+    {
+        "title": "Riot Games' looking at Arcane to be the launchpad for more projects with Fortiche; as well as eyeing live-action projects",
+        "domain": "businessinsider.com",
+        "category": "television",
+        "link": "https://www.businessinsider.com/netflix-arcane-riot-games-league-of-legends-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637569490,
+        "published": "November 22, 2021 3:24 AM"
+    },
+    {
         "title": "Air New Zealand cancels 1000 flights due to continued border uncertainty",
         "domain": "nzherald.co.nz",
         "category": "worldnews",
