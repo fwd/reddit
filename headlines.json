@@ -1,5 +1,131 @@
 [
     {
+        "title": "Dry River Triggers Mass Protest In Iran's Third-Largest City",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/iran-protests-river-dry/31569852.html",
+        "sentiment": -2,
+        "timestamp": 1637580873,
+        "published": "November 22, 2021 6:34 AM"
+    },
+    {
+        "title": "UK will require new homes to have EV chargers starting in 2022",
+        "domain": "engadget.com",
+        "category": "worldnews",
+        "link": "https://www.engadget.com/uk-announces-that-new-homes-must-have-ev-chargers-113524579.html",
+        "sentiment": 0,
+        "timestamp": 1637585901,
+        "published": "November 22, 2021 7:58 AM"
+    },
+    {
+        "title": "Paul Gosar said Trump called to support him after being censured for his anime video showing him attacking AOC",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gosar-says-trump-called-support-censure-aoc-anime-attack-video-2021-11",
+        "sentiment": 1,
+        "timestamp": 1637586502,
+        "published": "November 22, 2021 8:08 AM"
+    },
+    {
+        "title": "The People Dream of a President Who Will Take on Corporations - Broad, bipartisan swathes of the American people want a leader who will fight on their team against the entrenched power of corporate interests.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164490/biden-fight-corporate-power-popular",
+        "sentiment": 2,
+        "timestamp": 1637586955,
+        "published": "November 22, 2021 8:15 AM"
+    },
+    {
+        "title": "Most Germans will be ‘vaccinated, cured or dead’ by winter end, says minister",
+        "domain": "thelocal.de",
+        "category": "worldnews",
+        "link": "https://www.thelocal.de/20211122/germans-will-be-vaccinated-cured-or-dead-after-winter-minister-claims/",
+        "sentiment": 0,
+        "timestamp": 1637587313,
+        "published": "November 22, 2021 8:21 AM"
+    },
+    {
+        "title": "Ted Cruz gets shut down live on air over bogus election fraud claims | ‘OK Senator, there is no evidence of fraud that would really have drawn the outcome of the election into doubt. You know that’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/ted-cruz-cbs-election-fraud-b1961943.html",
+        "sentiment": -10,
+        "timestamp": 1637587584,
+        "published": "November 22, 2021 8:26 AM"
+    },
+    {
+        "title": "[UK] Bulb Energy, which supplies 1.7m customers, collapses into administration | Energy industry",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2021/nov/22/bulb-energy-which-supplies-17m-customers-collapses-into-administration",
+        "sentiment": -2,
+        "timestamp": 1637587875,
+        "published": "November 22, 2021 8:31 AM"
+    },
+    {
+        "title": "Liberals Really Need to Look at the Fact that They’re Going to Need to Defend Themselves",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/11/liberal-guns-rights-activist-kyle-rittenhouse.html",
+        "sentiment": 0,
+        "timestamp": 1637588166,
+        "published": "November 22, 2021 8:36 AM"
+    },
+    {
+        "title": "A nursing home where 83 residents died of Covid is still in business under a new name",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/health/health-news/nursing-home-83-residents-died-covid-still-business-new-name-rcna6189",
+        "sentiment": -3,
+        "timestamp": 1637588926,
+        "published": "November 22, 2021 8:48 AM"
+    },
+    {
+        "title": "Kathleen Kennedy Talks ‘Emotional’ Obi-Wan Reunion, Suggests Star Wars Sequel Trilogy Characters Could Return",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/movies/news/kathleen-kennedy-talks-emotional-obi-wan-reunion-star-wars-sequel-characters-exclusive/",
+        "sentiment": 0,
+        "timestamp": 1637589749,
+        "published": "November 22, 2021 9:02 AM"
+    },
+    {
+        "title": "Official: More than 90% of fed workers got shots by deadline",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/2e0a1fd3f4669e87540f09b3cd6b137d",
+        "sentiment": 0,
+        "timestamp": 1637589917,
+        "published": "November 22, 2021 9:05 AM"
+    },
+    {
+        "title": "Inside Facebook’s Data Wars",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/07/14/technology/facebook-data.html",
+        "sentiment": 0,
+        "timestamp": 1637591219,
+        "published": "November 22, 2021 9:26 AM"
+    },
+    {
+        "title": "Toddler with rifle fatally shoots father, police say",
+        "domain": "wbrc.com",
+        "category": "news",
+        "link": "https://www.wbrc.com/2021/11/22/toddler-with-rifle-fatally-shoots-father-police-say/?fbclid=IwAR2OtoQAQyMo3wK0OalT0K8mGu5nv7QEvOGQgWh1y3PJINyt6RxeByPTh1I",
+        "sentiment": 0,
+        "timestamp": 1637591556,
+        "published": "November 22, 2021 9:32 AM"
+    },
+    {
+        "title": "NASA's DART mission to smack an asteroid launches this week. Here's how to watch online.",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/nasa-dart-asteroid-impact-mission-webcasts",
+        "sentiment": 0,
+        "timestamp": 1637591872,
+        "published": "November 22, 2021 9:37 AM"
+    },
+    {
         "title": "Concerns remain for Chinese tennis star despite telling Olympics chief she's safe",
         "domain": "nbcnews.com",
         "category": "worldnews",
