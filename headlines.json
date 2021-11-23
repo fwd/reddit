@@ -1,5 +1,131 @@
 [
     {
+        "title": "Trial opens against accused elephant poachers in Indonesia",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/trial-opens-accused-elephant-poachers-indonesia-81325315",
+        "sentiment": -2,
+        "timestamp": 1637675703,
+        "published": "November 23, 2021 8:55 AM"
+    },
+    {
+        "title": "Democracy scholars on voting rights: 'Midnight is approaching'",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/democracy-scholars-voting-rights-midnight-approaching-n1284350",
+        "sentiment": 0,
+        "timestamp": 1637683684,
+        "published": "November 23, 2021 11:08 AM"
+    },
+    {
+        "title": "Jury begins deliberations in murder trial of 3 men in Ahmaud Arbery's killing",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/jury-begins-deliberations-murder-trial-3-men-ahmaud-arberys-killing-rcna6450",
+        "sentiment": -5,
+        "timestamp": 1637686812,
+        "published": "November 23, 2021 12:00 PM"
+    },
+    {
+        "title": "'Now, Let’s Take This Nationwide': Biden Raises Minimum Wage for All Federal Contract Workers to $15",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/23/now-lets-take-nationwide-biden-raises-minimum-wage-all-federal-contract-workers-15",
+        "sentiment": 0,
+        "timestamp": 1637687748,
+        "published": "November 23, 2021 12:15 PM"
+    },
+    {
+        "title": "‘Groo the Wanderer’ Comic by Sergio Aragones Eyed for Animation",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/groo-the-wanderer-animated-movie-1235050656/",
+        "sentiment": 1,
+        "timestamp": 1637688132,
+        "published": "November 23, 2021 12:22 PM"
+    },
+    {
+        "title": "Six Inuit snatched by Denmark 70 years ago demand compensation",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/22/six-inuit-snatched-by-denmark-70-years-ago-demand-compensation",
+        "sentiment": -1,
+        "timestamp": 1637688612,
+        "published": "November 23, 2021 12:30 PM"
+    },
+    {
+        "title": "RNC using donor funds to pay Donald Trump’s legal bills in N.Y. criminal probe",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/23/rnc-using-donor-funds-to-pay-donald-trumps-legal-bills-in-ny-criminal-probe/",
+        "sentiment": -3,
+        "timestamp": 1637688991,
+        "published": "November 23, 2021 12:36 PM"
+    },
+    {
+        "title": "Seven anti-vaccine doctors contract Covid after Florida summit",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/23/florida-doctors-covid-coronavirus-bruce-boros",
+        "sentiment": 0,
+        "timestamp": 1637689623,
+        "published": "November 23, 2021 12:47 PM"
+    },
+    {
+        "title": "Opinion: It’s not ‘polarization.’ We suffer from Republican radicalization.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/18/its-not-polarization-we-suffer-republican-radicalization/",
+        "sentiment": -2,
+        "timestamp": 1637690025,
+        "published": "November 23, 2021 12:53 PM"
+    },
+    {
+        "title": "An “incident” with the James Webb Space Telescope has occurred - NASA is leading an anomaly review board to investigate and conduct additional testing.",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/11/an-incident-with-the-james-webb-space-telescope-has-occurred/",
+        "sentiment": 2,
+        "timestamp": 1637690251,
+        "published": "November 23, 2021 12:57 PM"
+    },
+    {
+        "title": "India plans law that will prohibit ‘all private cryptocurrencies,’ with ‘certain exceptions’",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2021/11/23/india-plans-law-that-will-prohibit-all-private-cryptocurrencies-with-certain-exceptions/",
+        "sentiment": -1,
+        "timestamp": 1637690308,
+        "published": "November 23, 2021 12:58 PM"
+    },
+    {
+        "title": "Roboats are autonomous ferries, waste collectors and bridges all in one",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/autonomous-roboats-are-ferries-waste-collectors-and-bridges-all-in-one/",
+        "sentiment": -1,
+        "timestamp": 1637690730,
+        "published": "November 23, 2021 1:05 PM"
+    },
+    {
+        "title": "Apple sues NSO Group to curb the abuse of state-sponsored spyware",
+        "domain": "apple.com",
+        "category": "technology",
+        "link": "https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/",
+        "sentiment": -5,
+        "timestamp": 1637690888,
+        "published": "November 23, 2021 1:08 PM"
+    },
+    {
+        "title": "Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators",
+        "domain": "euronews.com",
+        "category": "technology",
+        "link": "https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators",
+        "sentiment": -2,
+        "timestamp": 1637692721,
+        "published": "November 23, 2021 1:38 PM"
+    },
+    {
         "title": "U.S. issues 'Do Not Travel' COVID-19 warning for Germany, Denmark",
         "domain": "reuters.com",
         "category": "worldnews",
