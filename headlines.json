@@ -1,5 +1,68 @@
 [
     {
+        "title": "JK Rowling receives 'death threats' after activists pose outside Edinburgh home",
+        "domain": "edinburghlive.co.uk",
+        "category": "worldnews",
+        "link": "https://www.edinburghlive.co.uk/news/edinburgh-news/jk-rowling-receives-death-threats-22237464",
+        "sentiment": 0,
+        "timestamp": 1637660233,
+        "published": "November 23, 2021 4:37 AM"
+    },
+    {
+        "title": "Niagara County Court Judge Matthew Murphy Decides \"No Jail\" for Serial Rapist After \"Praying On It\".",
+        "domain": "nbc12.com",
+        "category": "news",
+        "link": "https://www.nbc12.com/2021/11/22/man-gets-no-jail-time-ny-rape-case/?fbclid=IwAR3EW_nwquHb74q7nR6gTeSLClDuh9OMFuJTugFnOgPGualHLD5ejq1IUp0",
+        "sentiment": -4,
+        "timestamp": 1637662921,
+        "published": "November 23, 2021 5:22 AM"
+    },
+    {
+        "title": "Chinese Xiaomi phones spy on their users. Lithuania calls for the devices to be scrapped; the Netherlands keeps silent.",
+        "domain": "ftm.eu",
+        "category": "worldnews",
+        "link": "https://www.ftm.eu/articles/xiaomi-phones-spy-on-their-users",
+        "sentiment": 0,
+        "timestamp": 1637663130,
+        "published": "November 23, 2021 5:25 AM"
+    },
+    {
+        "title": "Dodge to phase out its Challenger and Charger muscle cars in shift towards EVs",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/dodge-is-killing-its-challenger-and-charger-muscle-cars-in-favor-of-e-vs-085839976.html",
+        "sentiment": 0,
+        "timestamp": 1637664727,
+        "published": "November 23, 2021 5:52 AM"
+    },
+    {
+        "title": "Apple told the SEC it doesn't silence employees regarding workplace harassment or discrimination. New whistleblower documents show that isn't true.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/apple-sec-response-under-scrutiny-after-whistleblower-comes-forward",
+        "sentiment": -5,
+        "timestamp": 1637665027,
+        "published": "November 23, 2021 5:57 AM"
+    },
+    {
+        "title": "Samsung set to announce new $17 billion advanced chip plant in Texas",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/23/22245325/samsung-building-chipmaking-fab-texas-taylor",
+        "sentiment": 1,
+        "timestamp": 1637665649,
+        "published": "November 23, 2021 6:07 AM"
+    },
+    {
+        "title": "Amazon and Apple handed $225 million in Italian antitrust fines",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/italys-antitrust-fines-amazon-apple-more-than-200-mln-euros-alleged-collusion-2021-11-23/",
+        "sentiment": -2,
+        "timestamp": 1637666096,
+        "published": "November 23, 2021 6:14 AM"
+    },
+    {
         "title": "Francisca Susano, a Filipina claimant to the oldest living person in the world title, and considered oldest living Filipino person, dies at 124.",
         "domain": "cnn.ph",
         "category": "worldnews",
