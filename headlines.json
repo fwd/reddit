@@ -1,5 +1,86 @@
 [
     {
+        "title": "U.S. issues 'Do Not Travel' COVID-19 warning for Germany, Denmark",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-raises-covid-19-travel-warning-germany-denmark-2021-11-22/",
+        "sentiment": -3,
+        "timestamp": 1637667533,
+        "published": "November 23, 2021 6:38 AM"
+    },
+    {
+        "title": "Georgia passes map that aims to gain Republicans a seat in Congress",
+        "domain": "ajc.com",
+        "category": "politics",
+        "link": "https://www.ajc.com/politics/georgia-passes-map-that-aims-to-gain-republicans-a-seat-in-congress/Z4BGWXEWMRFENFZFPQKXGOXJCE/",
+        "sentiment": 2,
+        "timestamp": 1637667734,
+        "published": "November 23, 2021 6:42 AM"
+    },
+    {
+        "title": "Indigenous Greenlanders demand compensation from Denmark over failed colonial experiment",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2021/11/23/indigenous-greenlanders-demand-compensation-from-denmark-over-failed-colonial-experiment",
+        "sentiment": -3,
+        "timestamp": 1637680470,
+        "published": "November 23, 2021 10:14 AM"
+    },
+    {
+        "title": "Rural Democrats are freaking out about their party's apathy toward rural voters ahead of the 2022 midterms. Here's the memo showing what they want to do about it.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/democrats-rural-voter-strategy-criticism-2022-midterms-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637681021,
+        "published": "November 23, 2021 10:23 AM"
+    },
+    {
+        "title": "Hayao Miyazaki’s \"Future Boy Conan\" is finally available, and it’s essential anime",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/22797303/future-boy-conan-review-hayao-miyazaki-directorial-debut",
+        "sentiment": 0,
+        "timestamp": 1637683826,
+        "published": "November 23, 2021 11:10 AM"
+    },
+    {
+        "title": "Starbucks launches aggressive anti-union effort as upstate New York stores organize",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2021/nov/23/starbucks-aggressive-anti-union-effort-new-york-stores-organize",
+        "sentiment": -2,
+        "timestamp": 1637684568,
+        "published": "November 23, 2021 11:22 AM"
+    },
+    {
+        "title": "A young Argentine was caught in a cocaine-fueled celebrity scandal; 25 years later, Google won’t let her forget",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/argentina-denegri-google-right-forget/",
+        "sentiment": -4,
+        "timestamp": 1637686702,
+        "published": "November 23, 2021 11:58 AM"
+    },
+    {
+        "title": "Visa slams Amazon over credit card ban",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/visa-slams-amazon-over-credit-card-ban",
+        "sentiment": -2,
+        "timestamp": 1637687080,
+        "published": "November 23, 2021 12:04 PM"
+    },
+    {
+        "title": "NASA wants to defend Earth from asteroids — so it’s slamming a spacecraft into one",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/23/22797714/nasa-dart-asteroid-planetary-defense-redirect-crash-course-launch",
+        "sentiment": 0,
+        "timestamp": 1637689047,
+        "published": "November 23, 2021 12:37 PM"
+    },
+    {
         "title": "Violence Spikes As Myanmar Garment Workers Say Factories Are Colluding With the Junta",
         "domain": "vice.com",
         "category": "worldnews",
