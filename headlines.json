@@ -1,5 +1,50 @@
 [
     {
+        "title": "Paul Gosar, Censured Over Anime Meme, Says 7 Siblings Are 'Horrific to Me'",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/paul-gosar-censured-siblings-horrible-cortez-sirius-1651181",
+        "sentiment": 0,
+        "timestamp": 1637612405,
+        "published": "November 22, 2021 3:20 PM"
+    },
+    {
+        "title": "US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html",
+        "sentiment": -1,
+        "timestamp": 1637616657,
+        "published": "November 22, 2021 4:30 PM"
+    },
+    {
+        "title": "Judge says Gore, unlike Trump, 'was a man' and accepted election loss",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582697-judge-says-gore-unlike-trump-was-a-man-and-accepted-election-loss",
+        "sentiment": -2,
+        "timestamp": 1637619471,
+        "published": "November 22, 2021 5:17 PM"
+    },
+    {
+        "title": "Iowa can't block Medicaid coverage for gender confirmation surgery, judge rules",
+        "domain": "desmoinesregister.com",
+        "category": "news",
+        "link": "https://www.desmoinesregister.com/story/news/politics/2021/11/22/iowa-law-unconstitutional-ban-medicaid-coverage-transgender-transition-gender-confirmation-surgery/8722373002/",
+        "sentiment": 1,
+        "timestamp": 1637620522,
+        "published": "November 22, 2021 5:35 PM"
+    },
+    {
+        "title": "Roger Stone and Alex Jones among five to receive Capitol attack subpoenas",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/22/roger-stone-alex-jones-subpoenas-capitol-attack",
+        "sentiment": -1,
+        "timestamp": 1637626093,
+        "published": "November 22, 2021 7:08 PM"
+    },
+    {
         "title": "Is China considering a data tax on big tech? Signs point to yes | Key party member says profits earned on information belong to all, not just companies",
         "domain": "asia.nikkei.com",
         "category": "technology",
