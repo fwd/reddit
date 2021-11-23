@@ -1,5 +1,131 @@
 [
     {
+        "title": "South Park: Post Covid Teaser Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=EH1dG4dlRw4",
+        "sentiment": 0,
+        "timestamp": 1637687185,
+        "published": "November 23, 2021 12:06 PM"
+    },
+    {
+        "title": "Over a million GoDaddy WordPress customers had email addresses exposed in latest breach",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/22/22796729/godaddy-email-addresses-passwords-security-breach-managed-wordpress-ssl-keys",
+        "sentiment": -3,
+        "timestamp": 1637691641,
+        "published": "November 23, 2021 1:20 PM"
+    },
+    {
+        "title": "Biden administration files emergency court motion to reinstate vaccine mandate",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/biden-white-house-motion-vaccine-mandate-b1963057.html",
+        "sentiment": -2,
+        "timestamp": 1637692089,
+        "published": "November 23, 2021 1:28 PM"
+    },
+    {
+        "title": "Voters From Both Parties Overwhelmingly Want Biden to Crack Down on Corporate Crime - The president needs to use \"the considerable powers of the executive branch... to show the people that he is on their side, not the side of the wealthy and well-connected few,\" said one progressive advocate.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/23/voters-both-parties-overwhelmingly-want-biden-crack-down-corporate-crime",
+        "sentiment": 0,
+        "timestamp": 1637692490,
+        "published": "November 23, 2021 1:34 PM"
+    },
+    {
+        "title": "Facebook fed posts with violence and nudity to people with low digital literacy skills",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-facebook-fed-violence-nudity-people.html",
+        "sentiment": -3,
+        "timestamp": 1637692982,
+        "published": "November 23, 2021 1:43 PM"
+    },
+    {
+        "title": "Euphoria Season Two Teaser",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=RPz_XktsEFE",
+        "sentiment": 3,
+        "timestamp": 1637693120,
+        "published": "November 23, 2021 1:45 PM"
+    },
+    {
+        "title": "Brian Laundrie died from gunshot wound to head, lawyer says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/brian-laundrie-cause-death-ruled-gunshot-wound-head-lawyer-says-rcna6485",
+        "sentiment": -3,
+        "timestamp": 1637693202,
+        "published": "November 23, 2021 1:46 PM"
+    },
+    {
+        "title": "Jury holds pharmacies responsible for role in opioid crisis",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-health-ohio-medication-opioids-d778b97c0eb409aa0d53dcfd9e4f2ad0?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter&s=09",
+        "sentiment": -1,
+        "timestamp": 1637693240,
+        "published": "November 23, 2021 1:47 PM"
+    },
+    {
+        "title": "All three console makers now say they’re concerned about Activision",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gaming/2021/11/nintendo-joins-other-console-makers-in-condemning-activision-harassment/",
+        "sentiment": -2,
+        "timestamp": 1637693372,
+        "published": "November 23, 2021 1:49 PM"
+    },
+    {
+        "title": "Moscow tells 13 mostly U.S. tech firms they must set up in Russia by 2022",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/europe/moscow-says-13-foreign-tech-firms-must-be-represented-russian-soil-by-2022-2021-11-23/",
+        "sentiment": 0,
+        "timestamp": 1637693819,
+        "published": "November 23, 2021 1:56 PM"
+    },
+    {
+        "title": "\"Around the World in 80 Days\" - Official Preview (PBS Masterpiece/BBC)",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/76Ge6vO4q9Y",
+        "sentiment": 4,
+        "timestamp": 1637694007,
+        "published": "November 23, 2021 2:00 PM"
+    },
+    {
+        "title": "New Windows zero-day with public exploit lets you become an admin",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/",
+        "sentiment": -2,
+        "timestamp": 1637694357,
+        "published": "November 23, 2021 2:05 PM"
+    },
+    {
+        "title": "Components shortage sends smartphone market into decline",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2021/11/components-shortage-sends-smartphone-market-into-decline/",
+        "sentiment": -2,
+        "timestamp": 1637694455,
+        "published": "November 23, 2021 2:07 PM"
+    },
+    {
+        "title": "Japan to allocate $5.2 bln to fund chip plants by TSMC, others",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/japan-allocate-52-bln-fund-chip-plants-by-tsmc-others-nikkei-2021-11-23/",
+        "sentiment": 0,
+        "timestamp": 1637694783,
+        "published": "November 23, 2021 2:13 PM"
+    },
+    {
         "title": "Trial opens against accused elephant poachers in Indonesia",
         "domain": "abcnews.go.com",
         "category": "worldnews",
