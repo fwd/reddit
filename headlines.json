@@ -1,5 +1,131 @@
 [
     {
+        "title": "Violence Spikes As Myanmar Garment Workers Say Factories Are Colluding With the Junta",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/k7w85m/myanmar-garment-workers-junta",
+        "sentiment": -6,
+        "timestamp": 1637668742,
+        "published": "November 23, 2021 6:59 AM"
+    },
+    {
+        "title": "US warship again transits sensitive Taiwan Strait",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/23/asia/taiwan-strait-us-warship-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1637671981,
+        "published": "November 23, 2021 7:53 AM"
+    },
+    {
+        "title": "'Outlander' Season 6 Premiere Date — Returns March 6, 2022",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/22/outlander-season-6-premiere-date-starz/",
+        "sentiment": 0,
+        "timestamp": 1637676078,
+        "published": "November 23, 2021 9:01 AM"
+    },
+    {
+        "title": "EXCLUSIVE Germany's government-in-waiting agrees to phase out coal by 2030 -sources",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/cop/exclusive-germanys-government-in-waiting-agrees-phase-out-coal-by-2030-sources-2021-11-23/",
+        "sentiment": 3,
+        "timestamp": 1637679290,
+        "published": "November 23, 2021 9:54 AM"
+    },
+    {
+        "title": "India busts Pakistan Ship With Radioactive Materials Heading to China",
+        "domain": "tfiglobalnews.com",
+        "category": "worldnews",
+        "link": "https://tfiglobalnews.com/2021/11/23/india-busts-pakistan-china-nuclear-nexus/",
+        "sentiment": 0,
+        "timestamp": 1637679989,
+        "published": "November 23, 2021 10:06 AM"
+    },
+    {
+        "title": "Pope to young people: We need you to protect environment",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/pope-francis-science-europe-environment-vatican-city-efbea9290cdabd111b51782992d5750e",
+        "sentiment": 1,
+        "timestamp": 1637680801,
+        "published": "November 23, 2021 10:20 AM"
+    },
+    {
+        "title": "Man charged with carrying loaded firearm to the Capitol on Jan. 6",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178",
+        "sentiment": -3,
+        "timestamp": 1637681086,
+        "published": "November 23, 2021 10:24 AM"
+    },
+    {
+        "title": "Russian Cannibal Killer Is Arrested When Headless Corpse Rolls Out Of His Car",
+        "domain": "donkeyjunk.com",
+        "category": "worldnews",
+        "link": "https://www.donkeyjunk.com/post/russian-cannibal-killer-is-arrested-when-headless-corpse-rolls-out-of-his-car",
+        "sentiment": -4,
+        "timestamp": 1637681193,
+        "published": "November 23, 2021 10:26 AM"
+    },
+    {
+        "title": "There Won’t Be Many Competitive Districts Left After This Round Of Gerrymandering",
+        "domain": "fivethirtyeight.com",
+        "category": "politics",
+        "link": "https://fivethirtyeight.com/videos/there-wont-be-many-competitive-districts-left-after-this-round-of-gerrymandering/",
+        "sentiment": 2,
+        "timestamp": 1637681493,
+        "published": "November 23, 2021 10:31 AM"
+    },
+    {
+        "title": "RNC paying some Trump legal bills: report",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/582757-rnc-paying-some-trump-legal-bills-report",
+        "sentiment": 1,
+        "timestamp": 1637681527,
+        "published": "November 23, 2021 10:32 AM"
+    },
+    {
+        "title": "2 lawyers who tried to overturn 2020 election results were ordered by judge to pay $187,000 as they 'should have known better'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/judge-orders-187k-fines-for-lawyers-who-tried-overturn-election-2021-11",
+        "sentiment": -1,
+        "timestamp": 1637682488,
+        "published": "November 23, 2021 10:48 AM"
+    },
+    {
+        "title": "Dollar Tree hikes prices 25%. Most items will cost $1.25",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/23/investing/dollar-tree-prices-inflation/index.html?utm_content=2021-11-23T15%3A45%3A07&utm_term=link&utm_medium=social&utm_source=twCNN",
+        "sentiment": 0,
+        "timestamp": 1637682689,
+        "published": "November 23, 2021 10:51 AM"
+    },
+    {
+        "title": "Antitrust authorities in Italy have fined Apple and Amazon with combined penalties of more than €200 million for alleged anti-competitive behavior in relation to the sale of the former’s products",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/in/news/italian-regulator-fines-apple-and-amazon-euro200m",
+        "sentiment": 0,
+        "timestamp": 1637682940,
+        "published": "November 23, 2021 10:55 AM"
+    },
+    {
+        "title": "‘Bel-Air’: Peacock Rolls Out First Teaser For ‘Fresh Prince’ Drama Reboot",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/bel-air-peacock-rolls-out-first-teaser-for-fresh-prince-drama-reboot-1234879474/",
+        "sentiment": 0,
+        "timestamp": 1637685676,
+        "published": "November 23, 2021 11:41 AM"
+    },
+    {
         "title": "Trump-backed Pa. Senate candidate Sean Parnell loses custody battle, suspends campaign",
         "domain": "usatoday.com",
         "category": "politics",
