@@ -1,5 +1,104 @@
 [
     {
+        "title": "At least 45 dead after bus crashes and catches fire in Bulgaria",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/europe-bulgaria-e0734d9ca70b3ca8eb16af5a6316dc60",
+        "sentiment": -5,
+        "timestamp": 1637693066,
+        "published": "November 23, 2021 1:44 PM"
+    },
+    {
+        "title": "Jury holds CVS, Walgreens and Walmart responsible for role in opioid crisis",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/23/jury-holds-cvs-walgreens-and-walmart-responsible-for-role-in-opioid-crisis.html",
+        "sentiment": -1,
+        "timestamp": 1637694593,
+        "published": "November 23, 2021 2:09 PM"
+    },
+    {
+        "title": "Helena Bonham Carter To Star In ITV’s ‘Nolly’ From Russell T Davies; Debut Project For Nicola Shindler’s Quay Street Productions",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/helena-bonham-carter-to-star-in-itvs-nolly-1234879430/",
+        "sentiment": 0,
+        "timestamp": 1637696447,
+        "published": "November 23, 2021 2:40 PM"
+    },
+    {
+        "title": "Why do all microwaves have the same 'beep'?",
+        "domain": "wgbh.org",
+        "category": "technology",
+        "link": "https://www.wgbh.org/news/local-news/2021/11/17/why-do-all-microwaves-have-the-same-beep",
+        "sentiment": 0,
+        "timestamp": 1637696538,
+        "published": "November 23, 2021 2:42 PM"
+    },
+    {
+        "title": "NC Republicans are becoming the party of bigots, insurrectionists and the cowardly who let it happen",
+        "domain": "charlotteobserver.com",
+        "category": "politics",
+        "link": "https://www.charlotteobserver.com/opinion/article256035372.html",
+        "sentiment": -2,
+        "timestamp": 1637697098,
+        "published": "November 23, 2021 2:51 PM"
+    },
+    {
+        "title": "UK Animal Welfare Law Would Recognize Lobsters, Crabs, Octopuses as Sentient Beings",
+        "domain": "ecowatch.com",
+        "category": "worldnews",
+        "link": "https://www.ecowatch.com/lobsters-octopuses-sentient-beings-2655784055.html",
+        "sentiment": 0,
+        "timestamp": 1637697932,
+        "published": "November 23, 2021 3:05 PM"
+    },
+    {
+        "title": "Jury awards millions in damages for Unite the Right violence",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/violence-lawsuits-race-and-ethnicity-charlottesville-01d9437ec28ed71b4bae293d7e0d815d",
+        "sentiment": -3,
+        "timestamp": 1637698109,
+        "published": "November 23, 2021 3:08 PM"
+    },
+    {
+        "title": "Jan. 6 committee subpoenas Proud Boys, Oath Keepers",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/582862-jan-6-committee-subpoenas-proud-boys-oath-keepers",
+        "sentiment": 2,
+        "timestamp": 1637698618,
+        "published": "November 23, 2021 3:16 PM"
+    },
+    {
+        "title": "China's new privacy law leaves U.S. behind",
+        "domain": "axios.com",
+        "category": "technology",
+        "link": "https://www.axios.com/china-privacy-law-leaves-us-behind-31875e27-e25a-4322-b262-3878445f4fa9.html",
+        "sentiment": 0,
+        "timestamp": 1637698851,
+        "published": "November 23, 2021 3:20 PM"
+    },
+    {
+        "title": "Social media use linked to depression in adults",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/health/health-news/social-media-use-linked-depression-adults-rcna6445",
+        "sentiment": 0,
+        "timestamp": 1637699091,
+        "published": "November 23, 2021 3:24 PM"
+    },
+    {
+        "title": "Street Gang | Official Trailer | HBO",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=uQEFS6aKXCU",
+        "sentiment": 0,
+        "timestamp": 1637700415,
+        "published": "November 23, 2021 3:46 PM"
+    },
+    {
         "title": "Afghans 'marry off' baby girls for dowries as starvation looms.",
         "domain": "news.trust.org",
         "category": "news",
