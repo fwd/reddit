@@ -1,5 +1,59 @@
 [
     {
+        "title": "Parents sue Wisconsin school for letting children change pronouns without their consent | Wisconsin",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/22/transgender-children-wisconsin-school-parents",
+        "sentiment": 0,
+        "timestamp": 1637626508,
+        "published": "November 22, 2021 7:15 PM"
+    },
+    {
+        "title": "Dark Money Is Driving Today's \"Concerned Moms\" Attacking Anti-Racism in Schools| Right-wing women’s groups are raking in donations from organizations spawned by Charles Koch and other billionaires",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/dark-money-is-driving-todays-concerned-moms-attacking-anti-racism-in-schools/",
+        "sentiment": -3,
+        "timestamp": 1637629631,
+        "published": "November 22, 2021 8:07 PM"
+    },
+    {
+        "title": "Calls for cats to be indoor-only rise in Queensland's north",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-11-23/cat-curfew-call-for-far-north-queensland-councils/100639206",
+        "sentiment": 1,
+        "timestamp": 1637633716,
+        "published": "November 22, 2021 9:15 PM"
+    },
+    {
+        "title": "Comcast considers moving some content to Peacock from Hulu",
+        "domain": "finance.yahoo.com",
+        "category": "television",
+        "link": "https://finance.yahoo.com/news/comcast-considers-moving-content-peacock-222544528.html",
+        "sentiment": 0,
+        "timestamp": 1637635117,
+        "published": "November 22, 2021 9:38 PM"
+    },
+    {
+        "title": "Judge orders two lawyers who filed suit challenging 2020 election to pay hefty fees: ‘They need to take responsibility’",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/they-need-to-take-responsibility-federal-judge-orders-hefty-fees-assessed-against-two-lawyers-who-filed-suit-challenging-2020-election/2021/11/22/b7ff5392-4be7-11ec-b0b0-766bbbe79347_story.html",
+        "sentiment": -1,
+        "timestamp": 1637635445,
+        "published": "November 22, 2021 9:44 PM"
+    },
+    {
+        "title": "‘House of Cards’ Creator Beau Willimon to Develop Series on Malaysia’s 1MDB Corruption Scandal",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/beau-willimon-jho-low-1mbd-series-1235052072/",
+        "sentiment": -6,
+        "timestamp": 1637637577,
+        "published": "November 22, 2021 10:19 PM"
+    },
+    {
         "title": "Japan is considering the unprecedented release of state oil reserves after a request from Washington for coordinated action to combat soaring energy prices",
         "domain": "asahi.com",
         "category": "worldnews",
