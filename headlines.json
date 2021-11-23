@@ -1,5 +1,104 @@
 [
     {
+        "title": "Trump-backed Pa. Senate candidate Sean Parnell loses custody battle, suspends campaign",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2021/11/22/trump-backed-sean-parnell-loses-custody-fight-suspends-senate-bid/8727143002/",
+        "sentiment": -1,
+        "timestamp": 1637667594,
+        "published": "November 23, 2021 6:39 AM"
+    },
+    {
+        "title": "President Biden Announces Release from the Strategic Petroleum Reserve As Part of Ongoing Efforts to Lower Prices and Address Lack of Supply Around the World",
+        "domain": "whitehouse.gov",
+        "category": "politics",
+        "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/23/president-biden-announces-release-from-the-strategic-petroleum-reserve-as-part-of-ongoing-efforts-to-lower-prices-and-address-lack-of-supply-around-the-world/",
+        "sentiment": -2,
+        "timestamp": 1637670984,
+        "published": "November 23, 2021 7:36 AM"
+    },
+    {
+        "title": "Turkish lira plummets to 'insane' historic low after Erdogan sparks sell-off",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/23/turkish-lira-plummets-to-historic-low-after-erdogan-sparks-selloff-.html?__source=iosappshare%7Ccom.apple.UIKit.activity.Message",
+        "sentiment": 0,
+        "timestamp": 1637672281,
+        "published": "November 23, 2021 7:58 AM"
+    },
+    {
+        "title": "Rare Einstein manuscript with early calculations for theory of relativity up for auction",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/einstein-manuscript-auction-paris-theory-relativity-rcna6430",
+        "sentiment": 0,
+        "timestamp": 1637673554,
+        "published": "November 23, 2021 8:19 AM"
+    },
+    {
+        "title": "LinkedIn is shutting down its Chinese site after drawing criticism for censoring profiles with content considered offensive to the country's government",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/microsoft-linkedin-shuts-down-in-china-censoring-content-offensive-government-2021-10",
+        "sentiment": -4,
+        "timestamp": 1637675913,
+        "published": "November 23, 2021 8:58 AM"
+    },
+    {
+        "title": "Opinion: If Biden fails to secure voting rights, it will be his most lasting legacy",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/23/if-biden-fails-secure-voting-rights-it-will-be-his-most-lasting-legacy/?utm_source=twitter&utm_medium=social&utm_campaign=wp_opinions",
+        "sentiment": 0,
+        "timestamp": 1637676858,
+        "published": "November 23, 2021 9:14 AM"
+    },
+    {
+        "title": "Prince Andrew accusations left out of Epstein-Maxwell case",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/world/ghislaine-maxwell-trial-jeffrey-epstsein-prince-andrew-1.6259247",
+        "sentiment": -2,
+        "timestamp": 1637677065,
+        "published": "November 23, 2021 9:17 AM"
+    },
+    {
+        "title": "'Palestine Lives in My Heart Forever': Greek Contestant Withdraws from Miss Universe Pageant in Israel",
+        "domain": "palestinechronicle.com",
+        "category": "worldnews",
+        "link": "https://www.palestinechronicle.com/palestine-lives-in-my-heart-forever-greek-contestant-withdraws-from-miss-universe-pageant-in-israel/",
+        "sentiment": -2,
+        "timestamp": 1637677195,
+        "published": "November 23, 2021 9:19 AM"
+    },
+    {
+        "title": "A promotional stunt for Thanksgiving ends in comedic (and almost Hindenburgian) disaster. From \"WKRP in Cincinnati\", considered by many to be one of the series' most iconic moments.",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=HiSkjcl9yW4",
+        "sentiment": -2,
+        "timestamp": 1637680480,
+        "published": "November 23, 2021 10:14 AM"
+    },
+    {
+        "title": "Facebook found that a vast amount of its anti-vaxx content comes from a hard core of only 111 accounts",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-identifies-111-accounts-behind-most-anti-vaxx-posts-2021-3?r=US&IR=T",
+        "sentiment": -1,
+        "timestamp": 1637681093,
+        "published": "November 23, 2021 10:24 AM"
+    },
+    {
+        "title": "India announces plans to ban most cryptocurrencies in new clampdown",
+        "domain": "euronews.com",
+        "category": "technology",
+        "link": "https://www.euronews.com/next/2021/11/23/india-is-planning-to-tighten-crypto-regulation-to-deter-trading-in-a-new-clampdown-sources",
+        "sentiment": -2,
+        "timestamp": 1637681883,
+        "published": "November 23, 2021 10:38 AM"
+    },
+    {
         "title": "‘Vaccinated, recovered or dead’: Germany gives stark winter warning to its people",
         "domain": "cnbc.com",
         "category": "news",
