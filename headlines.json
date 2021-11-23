@@ -1,5 +1,131 @@
 [
     {
+        "title": "Afghans 'marry off' baby girls for dowries as starvation looms.",
+        "domain": "news.trust.org",
+        "category": "news",
+        "link": "https://news.trust.org/item/20211123035757-ylrch",
+        "sentiment": -1,
+        "timestamp": 1637680341,
+        "published": "November 23, 2021 10:12 AM"
+    },
+    {
+        "title": "Self-Pitying Jan. 6 Rioter-on-the-Run Sucks Up to Russia on State TV",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/evan-neumann-the-jan-6-rioter-on-the-run-in-belarus-sucks-up-to-moscow-on-rt",
+        "sentiment": -3,
+        "timestamp": 1637686154,
+        "published": "November 23, 2021 11:49 AM"
+    },
+    {
+        "title": "Biden's safety net package would raise, not lower, taxes on millionaires, new estimates show",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/congress/biden-s-safety-net-package-would-raise-not-lower-taxes-n1284454",
+        "sentiment": 1,
+        "timestamp": 1637691025,
+        "published": "November 23, 2021 1:10 PM"
+    },
+    {
+        "title": "Kevin Strickland free after 43 years in prison on wrongful conviction",
+        "domain": "kshb.com",
+        "category": "news",
+        "link": "https://www.kshb.com/news/local-news/kevin-strickland-free-after-43-years-in-prison-on-wrongful-conviction",
+        "sentiment": -3,
+        "timestamp": 1637692973,
+        "published": "November 23, 2021 1:42 PM"
+    },
+    {
+        "title": "Ex-U.S. intelligence officials working for foreign countries on rise, report says",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ex-us-intelligence-officials-working-foreign-countries-rise-report-says-1652572",
+        "sentiment": 1,
+        "timestamp": 1637693493,
+        "published": "November 23, 2021 1:51 PM"
+    },
+    {
+        "title": "Brian Laundrie autopsy shows he died by suicide, attorney says",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/23/us/brian-laundrie-autopsy/index.html",
+        "sentiment": -5,
+        "timestamp": 1637693963,
+        "published": "November 23, 2021 1:59 PM"
+    },
+    {
+        "title": "5-year-old fatally shot in Pennsylvania after 3 children left alone in room with gun",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/5-year-old-fatally-shot-pennsylvania-3-children-left-alone-room-gun-rcna6489",
+        "sentiment": -3,
+        "timestamp": 1637694486,
+        "published": "November 23, 2021 2:08 PM"
+    },
+    {
+        "title": "China bans celebrities from showing off wealth and 'extravagant pleasure' on social media, saying pop stars must comply with 'core socialist values'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/china-bans-celebs-from-showing-off-wealth-on-social-media-2021-11",
+        "sentiment": 3,
+        "timestamp": 1637695109,
+        "published": "November 23, 2021 2:18 PM"
+    },
+    {
+        "title": "Popeyes opens first location in England. Its biscuits mystify British diners",
+        "domain": "al.com",
+        "category": "worldnews",
+        "link": "https://www.al.com/news/2021/11/popeyes-opens-first-location-in-england-its-biscuits-mystify-british-diners.html",
+        "sentiment": 0,
+        "timestamp": 1637695235,
+        "published": "November 23, 2021 2:20 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell's family appeals to United Nations for help getting her out on bail",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/ghislaine-maxwells-family-appeals-united-nations-help-getting-bail-rcna6469",
+        "sentiment": 3,
+        "timestamp": 1637695308,
+        "published": "November 23, 2021 2:21 PM"
+    },
+    {
+        "title": "Apple Sues Israeli Spyware Maker, Seeking to Block Its Access to iPhones",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/11/23/technology/apple-nso-group-lawsuit.html",
+        "sentiment": -3,
+        "timestamp": 1637695946,
+        "published": "November 23, 2021 2:32 PM"
+    },
+    {
+        "title": "Promo for King of the Hill reruns returning to Adult Swim",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=v0KHYhd_mBc",
+        "sentiment": 0,
+        "timestamp": 1637696647,
+        "published": "November 23, 2021 2:44 PM"
+    },
+    {
+        "title": "U.S. banks must seek regulatory permission before engaging in certain crypto activities -regulator",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/finance/us-banks-must-seek-regulatory-permission-before-engaging-certain-crypto-2021-11-23/",
+        "sentiment": 1,
+        "timestamp": 1637697017,
+        "published": "November 23, 2021 2:50 PM"
+    },
+    {
+        "title": "Anthony Anderson, Hugh Dancy Join ‘Law & Order’ Revival at NBC",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/anthony-anderson-hugh-dancy-join-law-order-revival-at-nbc-1235052342/",
+        "sentiment": 1,
+        "timestamp": 1637698015,
+        "published": "November 23, 2021 3:06 PM"
+    },
+    {
         "title": "South Park: Post Covid Teaser Trailer",
         "domain": "youtube.com",
         "category": "television",
