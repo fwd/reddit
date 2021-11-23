@@ -1,5 +1,95 @@
 [
     {
+        "title": "El Salvador Bitcoin city planned at base of Conchagua volcano",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/world-latin-america-59368483",
+        "sentiment": 0,
+        "timestamp": 1637659852,
+        "published": "November 23, 2021 4:30 AM"
+    },
+    {
+        "title": "India: Over 50 churches stop holding worship services after authorities impose ban on Christian gatherings in several states",
+        "domain": "christianpost.com",
+        "category": "worldnews",
+        "link": "https://www.christianpost.com/news/authorities-in-india-impose-ban-on-christian-gatherings-worship.html",
+        "sentiment": -4,
+        "timestamp": 1637664067,
+        "published": "November 23, 2021 5:41 AM"
+    },
+    {
+        "title": "First authorization for assisted suicide in Italy",
+        "domain": "ansa.it",
+        "category": "worldnews",
+        "link": "https://www.ansa.it/english/news/general_news/2021/11/23/first-authorization-for-assisted-suicide-in-italy-3_e7d75a6e-3d89-4c27-9b9b-b4cc27b8619d.html",
+        "sentiment": -2,
+        "timestamp": 1637664216,
+        "published": "November 23, 2021 5:43 AM"
+    },
+    {
+        "title": "World Cup host Qatar used ex-CIA officer to spy on FIFA",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/soccer-sports-business-migration-middle-east-d9716b62fc69ab88beb3553d402da7d1",
+        "sentiment": 0,
+        "timestamp": 1637664815,
+        "published": "November 23, 2021 5:53 AM"
+    },
+    {
+        "title": "Ipsos poll finds New Zealand, Canada, Germany and Sweden seen as providing best leadership on COVID",
+        "domain": "techbomb.ca",
+        "category": "worldnews",
+        "link": "https://techbomb.ca/covid-19/ipsos-poll-finds-new-zealand-canada-germany-and-sweden-seen-as-providing-best-leadership-on-covid/",
+        "sentiment": 4,
+        "timestamp": 1637664877,
+        "published": "November 23, 2021 5:54 AM"
+    },
+    {
+        "title": "An 11 year old finds a 2,000 year old coin from Jerusalem with the writing \"Shekel Israel\" on it, likely to be minted in the Jewish Temple",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/archaeology/11-year-old-finds-holy-jerusalem-silver-coin-likely-minted-in-the-temple-685758",
+        "sentiment": 0,
+        "timestamp": 1637665157,
+        "published": "November 23, 2021 5:59 AM"
+    },
+    {
+        "title": "Perspective | ‘Succession’ takes us behind the scenes of an anti-democratic conclave, and the sights are terrifying",
+        "domain": "washingtonpost.com",
+        "category": "television",
+        "link": "https://www.washingtonpost.com/arts-entertainment/tv/2021/11/22/succession-murdoch-fox-news-gop/",
+        "sentiment": 0,
+        "timestamp": 1637665562,
+        "published": "November 23, 2021 6:06 AM"
+    },
+    {
+        "title": "The United Nations has urged China to release a citizen journalist jailed for her coverage of the country’s Covid-19 response and who her family say is close to death after a hunger strike",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/20/un-urges-china-to-free-seriously-ill-journalist-jailed-over-wuhan-covid-reporting",
+        "sentiment": -6,
+        "timestamp": 1637666119,
+        "published": "November 23, 2021 6:15 AM"
+    },
+    {
+        "title": "'Total Asymmetric Warfare': Georgia GOP Redraws Political Map as US Senate Dems Do Nothing",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/22/total-asymmetric-warfare-georgia-gop-redraws-political-map-us-senate-dems-do-nothing",
+        "sentiment": 0,
+        "timestamp": 1637667133,
+        "published": "November 23, 2021 6:32 AM"
+    },
+    {
+        "title": "Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html",
+        "sentiment": -7,
+        "timestamp": 1637667303,
+        "published": "November 23, 2021 6:35 AM"
+    },
+    {
         "title": "JK Rowling receives 'death threats' after activists pose outside Edinburgh home",
         "domain": "edinburghlive.co.uk",
         "category": "worldnews",
