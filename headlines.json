@@ -1,5 +1,104 @@
 [
     {
+        "title": "Biden administration asks federal appeals court to immediately lift pause on business vaccine mandate",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/23/business-vaccine-mandate-biden-administration-asks-court-to-lift-pause-.html",
+        "sentiment": 0,
+        "timestamp": 1637699111,
+        "published": "November 23, 2021 3:25 PM"
+    },
+    {
+        "title": "Investors now make up more than 25% of Ontario homebuyers, pushing prices higher, experts warn",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/toronto/investors-in-ontario-real-estate-market-1.6258199",
+        "sentiment": -2,
+        "timestamp": 1637701319,
+        "published": "November 23, 2021 4:01 PM"
+    },
+    {
+        "title": "Michigan teacher says he quit after being ordered to remove Pride flag from middle school classroom",
+        "domain": "mlive.com",
+        "category": "news",
+        "link": "https://www.mlive.com/news/kalamazoo/2021/11/michigan-teacher-says-he-quit-after-being-ordered-to-remove-pride-flag-from-middle-school-classroom.html",
+        "sentiment": 0,
+        "timestamp": 1637704493,
+        "published": "November 23, 2021 4:54 PM"
+    },
+    {
+        "title": "Texts show Kimberly Guilfoyle bragged about raising millions for rally that fueled Capitol riot",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/texts-show-kimberly-guilfoyle-bragged-about-raising-millions-for-rally-that-fueled-capitol-riot?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_tampa&stream=top",
+        "sentiment": -2,
+        "timestamp": 1637704536,
+        "published": "November 23, 2021 4:55 PM"
+    },
+    {
+        "title": "8-year-old boy dies from injuries in Waukesha Holiday Parade tragedy",
+        "domain": "cbs58.com",
+        "category": "news",
+        "link": "https://cbs58.com/news/8-year-old-boy-dies-from-injuries-in-waukesha-holiday-parade-tragedy/",
+        "sentiment": -4,
+        "timestamp": 1637707875,
+        "published": "November 23, 2021 5:51 PM"
+    },
+    {
+        "title": "Apple sues company known for hacking iPhones on behalf of governments",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/23/apple-sues-nso-group-company-known-for-hacking-iphones-on-behalf-of-governments.html",
+        "sentiment": -2,
+        "timestamp": 1637708279,
+        "published": "November 23, 2021 5:57 PM"
+    },
+    {
+        "title": "Spanish renters are declaring 'war' on the American investors that bought up all the apartments in their neighborhoods",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/spanish-renters-tenants-declare-war-on-american-private-equity-firms-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637708635,
+        "published": "November 23, 2021 6:03 PM"
+    },
+    {
+        "title": "‘Hellbound’ & ‘Arcane’ Top Weekly Netflix Top Ten TV List",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/hellbound-arcane-top-netflix-top-ten-tv-lists-1234879851/",
+        "sentiment": 4,
+        "timestamp": 1637708999,
+        "published": "November 23, 2021 6:09 PM"
+    },
+    {
+        "title": "\"Samsung Electronics Announces New Advanced Semiconductor Fab Site in Taylor, Texas\"",
+        "domain": "news.samsung.com",
+        "category": "technology",
+        "link": "https://news.samsung.com/us/samsung-new-advanced-semiconductor-fab-site-taylor-texas/",
+        "sentiment": 1,
+        "timestamp": 1637709161,
+        "published": "November 23, 2021 6:12 PM"
+    },
+    {
+        "title": "‘The Wheel Of Time’ Makes Strong Debut As Amazon Prime Video Doubles Down On Genre With ‘Mass Effect’ Adaptation & Prepares To Usher In ‘LOTR’",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/the-wheel-of-time-premiere-ratings-amazon-prime-video-mass-effect-lort-of-the-rings-jennifer-salke-qa-1234879517/",
+        "sentiment": 2,
+        "timestamp": 1637709211,
+        "published": "November 23, 2021 6:13 PM"
+    },
+    {
+        "title": "‘Seinfeld’ actor Lou Cutell dies at 91",
+        "domain": "yahoo.com",
+        "category": "television",
+        "link": "https://www.yahoo.com/entertainment/seinfeld-actor-lou-cutell-dies-200200971.html",
+        "sentiment": 0,
+        "timestamp": 1637709763,
+        "published": "November 23, 2021 6:22 PM"
+    },
+    {
         "title": "Proud Boys, Oath Keepers receive subpoenas in Congressional January 6th probe",
         "domain": "npr.org",
         "category": "politics",
