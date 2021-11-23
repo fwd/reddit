@@ -1,5 +1,50 @@
 [
     {
+        "title": "Proud Boys, Oath Keepers receive subpoenas in Congressional January 6th probe",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee",
+        "sentiment": 2,
+        "timestamp": 1637700576,
+        "published": "November 23, 2021 3:49 PM"
+    },
+    {
+        "title": "Guatemala has decreed a state of emergency in El Estor, an eastern town of mainly indigenous people in conflict with a Swiss-owned nickel mine they accuse of polluting their lake",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211123-state-of-emergency-for-guatemalan-town-battling-nickel-mine",
+        "sentiment": -6,
+        "timestamp": 1637703364,
+        "published": "November 23, 2021 4:36 PM"
+    },
+    {
+        "title": "The Wheel of Time - Sing for Manetheren",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/SG6fVoWjLJw",
+        "sentiment": 0,
+        "timestamp": 1637703459,
+        "published": "November 23, 2021 4:37 PM"
+    },
+    {
+        "title": "Animation writers seek pay hike in upcoming labor talks, hoping to close pay gap with their Live-Action counterparts",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/film/news/animation-writers-animation-guild-labor-negotiations-1235118230/",
+        "sentiment": 0,
+        "timestamp": 1637704084,
+        "published": "November 23, 2021 4:48 PM"
+    },
+    {
+        "title": "Apple Files Lawsuit Against Israeli Surveillance Company NSO Group",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/apple-files-lawsuit-against-israeli-surveillance-compan-1848111559",
+        "sentiment": -2,
+        "timestamp": 1637704207,
+        "published": "November 23, 2021 4:50 PM"
+    },
+    {
         "title": "At least 45 dead after bus crashes and catches fire in Bulgaria",
         "domain": "apnews.com",
         "category": "worldnews",
