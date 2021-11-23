@@ -1,5 +1,131 @@
 [
     {
+        "title": "‘Vaccinated, recovered or dead’: Germany gives stark winter warning to its people",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/23/vaccinated-recovered-or-dead-germanys-warning-to-its-people.html",
+        "sentiment": -3,
+        "timestamp": 1637655344,
+        "published": "November 23, 2021 3:15 AM"
+    },
+    {
+        "title": "UK's New Policy Says All New Buildings Must Have EV Chargers",
+        "domain": "interestingengineering.com",
+        "category": "technology",
+        "link": "https://interestingengineering.com/uks-new-policy-says-all-new-buildings-must-have-ev-chargers",
+        "sentiment": 0,
+        "timestamp": 1637663185,
+        "published": "November 23, 2021 5:26 AM"
+    },
+    {
+        "title": "Russian-controlled forces in Donbass raise combat readiness - Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-controlled-forces-donbass-raise-combat-readiness-ukraine-2021-11-23/",
+        "sentiment": -1,
+        "timestamp": 1637667462,
+        "published": "November 23, 2021 6:37 AM"
+    },
+    {
+        "title": "RNC paying Donald Trump's legal bills reveals GOP remains hitched to former president",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/rnc-paying-donald-trump-legal-bills-gop-remains-hitched-former-president-republicans-1652349",
+        "sentiment": 1,
+        "timestamp": 1637672067,
+        "published": "November 23, 2021 7:54 AM"
+    },
+    {
+        "title": "Italy hits Amazon and Apple with £168m fine for violating EU rules",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10234033/Italy-hits-Amazon-Apple-168m-antitrust-fine-violating-EU-rules.html",
+        "sentiment": 0,
+        "timestamp": 1637672892,
+        "published": "November 23, 2021 8:08 AM"
+    },
+    {
+        "title": "Windows on ARM Laptops Reportedly Hamstrung by Qualcomm, but That Might Soon Change",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/windows-on-arm-laptops-reportedly-hamstrung-by-qualcomm-1848106461",
+        "sentiment": 0,
+        "timestamp": 1637673242,
+        "published": "November 23, 2021 8:14 AM"
+    },
+    {
+        "title": "American Institutions Are Not Taking the Threat of Right-Wing Violence Seriously Enough",
+        "domain": "washingtonmonthly.com",
+        "category": "politics",
+        "link": "https://washingtonmonthly.com/2021/11/16/american-institutions-are-not-taking-the-threat-of-right-wing-violence-seriously-enough/",
+        "sentiment": -5,
+        "timestamp": 1637673342,
+        "published": "November 23, 2021 8:15 AM"
+    },
+    {
+        "title": "J.K. Rowling slams transgender activists for posting her home address on Twitter",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/jk-rowling-slams-transgender-activists-posting-home-address-twitter-rcna6375",
+        "sentiment": 0,
+        "timestamp": 1637673523,
+        "published": "November 23, 2021 8:18 AM"
+    },
+    {
+        "title": "'What Hypocrisy': Right-Wing Dems Quiet as Military Budget Far Exceeds Cost of Biden's Agenda | Sen. Bernie Sanders criticized his colleagues who complain about social spending but \"all of a sudden forget about the deficit when we're talking about an annual defense budget of $778 billion.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/23/what-hypocrisy-right-wing-dems-quiet-military-budget-far-exceeds-cost-bidens-agenda",
+        "sentiment": -7,
+        "timestamp": 1637673596,
+        "published": "November 23, 2021 8:19 AM"
+    },
+    {
+        "title": "Turkish lira plummets to 'insane' historic low after President Erdogan sparks sell-off",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2021/11/23/turkish-lira-plummets-to-historic-low-after-erdogan-sparks-selloff-.html",
+        "sentiment": 0,
+        "timestamp": 1637674594,
+        "published": "November 23, 2021 8:36 AM"
+    },
+    {
+        "title": "Lee Pace Is Down for a ‘Halt and Catch Fire’ Reunion, Despite One Significant Absence",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/halt-and-catch-fire-reunion-season-5-lee-pace-comments/",
+        "sentiment": 1,
+        "timestamp": 1637674753,
+        "published": "November 23, 2021 8:39 AM"
+    },
+    {
+        "title": "Michigan GOP Chair Pleads Guilty to Harassing Dem Official, Threatening to Poison Her Dogs",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/michigan-gop-chair-pleads-guilty-harassing-dem-official-threatening-poison-her-dogs-1652211",
+        "sentiment": -10,
+        "timestamp": 1637675582,
+        "published": "November 23, 2021 8:53 AM"
+    },
+    {
+        "title": "Star Wars: Dave Filoni Talks The ‘Thrilling’ Ahsoka Writing Process",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/tv/news/star-wars-dave-filoni-thrilling-ahsoka-writing-process-exclusive/",
+        "sentiment": 0,
+        "timestamp": 1637676159,
+        "published": "November 23, 2021 9:02 AM"
+    },
+    {
+        "title": "Lush Cosmetics to deactivate Instagram, Facebook, TikTok and Snapchat accounts",
+        "domain": "cp24.com",
+        "category": "worldnews",
+        "link": "https://www.cp24.com/lifestyle/technology/lush-cosmetics-to-deactivate-instagram-facebook-tiktok-and-snapchat-accounts-1.5677221",
+        "sentiment": 0,
+        "timestamp": 1637676342,
+        "published": "November 23, 2021 9:05 AM"
+    },
+    {
         "title": "Israel Says It Won’t Be Bound by Any Iran Nuclear Deal",
         "domain": "bloomberg.com",
         "category": "worldnews",
