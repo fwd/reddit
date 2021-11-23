@@ -1,5 +1,140 @@
 [
     {
+        "title": "Israel Says It Won’t Be Bound by Any Iran Nuclear Deal",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-11-23/israel-says-won-t-be-bound-by-any-iran-nuclear-deal?srnd=premium-asia",
+        "sentiment": 0,
+        "timestamp": 1637661123,
+        "published": "November 23, 2021 4:52 AM"
+    },
+    {
+        "title": "Statue of US President Thomas Jefferson removed from New York City Hall over slavery links",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/statue-of-us-president-thomas-jefferson-removed-from-new-york-city-hall-over-slavery-links-12476201",
+        "sentiment": -3,
+        "timestamp": 1637665547,
+        "published": "November 23, 2021 6:05 AM"
+    },
+    {
+        "title": "In First, US Labeled 'Backsliding' Democracy as Global Authoritarianism Grows | A new report calls the rejection of the 2020 election results by many in the Republican Party as an \"historic turning point\" for the United States.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/22/first-us-labeled-backsliding-democracy-global-authoritarianism-grows",
+        "sentiment": -1,
+        "timestamp": 1637665845,
+        "published": "November 23, 2021 6:10 AM"
+    },
+    {
+        "title": "Beijing’s campaign to ‘discipline’ celebrities expands to what they can do on social media",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/tech/policy/article/3157070/beijings-campaign-discipline-celebrities-expands-what-they-can-do?module=lead_hero_story&pgtype=homepage",
+        "sentiment": 1,
+        "timestamp": 1637666050,
+        "published": "November 23, 2021 6:14 AM"
+    },
+    {
+        "title": "QAnon supporters gather at JFK assassination site in Dallas in belief JFK Jr will return from the dead",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/qanon-supporters-jfk-jr-dallas-b1962575.html",
+        "sentiment": -5,
+        "timestamp": 1637666681,
+        "published": "November 23, 2021 6:24 AM"
+    },
+    {
+        "title": "CPAC bans Sesame Street characters from its upcoming Orlando conference, citing Big Bird's endorsement of vaccines",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/cpac-bans-sesame-street-muppets-from-attending-conference-2021-11",
+        "sentiment": 3,
+        "timestamp": 1637667479,
+        "published": "November 23, 2021 6:37 AM"
+    },
+    {
+        "title": "Lone suspect in Waukesha parade crash to appear in court today, as Wisconsin reels from tragedy that left 5 dead and dozens more injured",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/23/us/waukesha-car-parade-crowd-tuesday/index.html",
+        "sentiment": -10,
+        "timestamp": 1637668902,
+        "published": "November 23, 2021 7:01 AM"
+    },
+    {
+        "title": "The RNC paid more than $121,000 towards former President Donald Trump's personal legal bills as he faces a criminal investigation in New York",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/rnc-paid-trumps-legal-bills-amid-new-york-criminal-investigation-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637669415,
+        "published": "November 23, 2021 7:10 AM"
+    },
+    {
+        "title": "Why internet blackouts, social media bans, digital surveillance continue to rise across Africa",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/the-battle-for-internet-freedom-in-africa/",
+        "sentiment": 1,
+        "timestamp": 1637669506,
+        "published": "November 23, 2021 7:11 AM"
+    },
+    {
+        "title": "US to release 50 million barrels of oil to ease energy costs",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-china-a7e0802b299cd627c7ffdeeb0e50bd2c",
+        "sentiment": 2,
+        "timestamp": 1637670491,
+        "published": "November 23, 2021 7:28 AM"
+    },
+    {
+        "title": "Europe will have seen 2 million Covid deaths by end of winter says WHO",
+        "domain": "walesonline.co.uk",
+        "category": "worldnews",
+        "link": "https://www.walesonline.co.uk/news/uk-news/europe-seen-2million-covid-deaths-22247711",
+        "sentiment": -2,
+        "timestamp": 1637670949,
+        "published": "November 23, 2021 7:35 AM"
+    },
+    {
+        "title": "U.S., other nations will tap Strategic Petroleum Reserves as gas prices hover around 7-year high",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/23/biden-says-us-will-tap-strategic-petroleum-reserve-as-gas-prices-hover-around-7-hear-high.html",
+        "sentiment": 0,
+        "timestamp": 1637671335,
+        "published": "November 23, 2021 7:42 AM"
+    },
+    {
+        "title": "Roberto Patino to Develop 'Nocterra' Series in Netflix Overall Deal",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/roberto-patino-nocterra-netflix-overall-deal-1235117438/",
+        "sentiment": 0,
+        "timestamp": 1637672866,
+        "published": "November 23, 2021 8:07 AM"
+    },
+    {
+        "title": "Hogan knocks Trump: 'I'd prefer endorsements from people who didn't lose Maryland by 33 points'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/582761-hogan-knocks-trump-after-former-president-endorses-gop-challenger",
+        "sentiment": 0,
+        "timestamp": 1637673232,
+        "published": "November 23, 2021 8:13 AM"
+    },
+    {
+        "title": "UN crowns nuclear as lowest carbon electricity source",
+        "domain": "cityam.com",
+        "category": "worldnews",
+        "link": "https://www.cityam.com/un-crowns-nuclear-as-lowest-carbon-electricity-source/",
+        "sentiment": -1,
+        "timestamp": 1637673247,
+        "published": "November 23, 2021 8:14 AM"
+    },
+    {
         "title": "El Salvador Bitcoin city planned at base of Conchagua volcano",
         "domain": "bbc.com",
         "category": "technology",
