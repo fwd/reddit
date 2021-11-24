@@ -1,5 +1,104 @@
 [
     {
+        "title": "Britain has ‘significant concerns’ over Russian troops at Ukraine border",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "worldnews",
+        "link": "https://ukdefencejournal.org.uk/britain-has-significant-concerns-over-russian-troops-at-ukraine-border/",
+        "sentiment": 0,
+        "timestamp": 1637746133,
+        "published": "November 24, 2021 4:28 AM"
+    },
+    {
+        "title": "Man-made horrors lurking at the bottom of the ocean",
+        "domain": "news.com.au",
+        "category": "worldnews",
+        "link": "https://www.news.com.au/technology/environment/sustainability/manmade-horrors-lurk-at-the-bottom-of-the-mariana-trench-the-deepest-part-of-the-ocean/news-story/750c3cfafe1cf383278da9777f8e256a",
+        "sentiment": -1,
+        "timestamp": 1637754210,
+        "published": "November 24, 2021 6:43 AM"
+    },
+    {
+        "title": "Australia’s Barrier Reef erupts in color as corals spawn",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/science/environment/australias-barrier-reef-erupts-color-corals-spawn-rcna6593",
+        "sentiment": -2,
+        "timestamp": 1637760061,
+        "published": "November 24, 2021 8:21 AM"
+    },
+    {
+        "title": "Mike Lindell blames the RNC for not being able to file a Supreme Court complaint that he baselessly claims would overturn the election results",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mike-lindell-blamed-rnc-for-failure-signatures-supreme-court-complaint-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637763540,
+        "published": "November 24, 2021 9:19 AM"
+    },
+    {
+        "title": "Norwegian journalists reporting on World Cup workers arrested in Qatar - Pair investigating conditions for labourers detained as they tried to fly home",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/24/norwegian-journalists-reporting-labourers-qatar-world-cup-arrested",
+        "sentiment": -5,
+        "timestamp": 1637764062,
+        "published": "November 24, 2021 9:27 AM"
+    },
+    {
+        "title": "Data Breach Spreads To Six Web Hosts",
+        "domain": "searchenginejournal.com",
+        "category": "technology",
+        "link": "https://www.searchenginejournal.com/web-hosting-data-breach/428219/#close",
+        "sentiment": -2,
+        "timestamp": 1637764913,
+        "published": "November 24, 2021 9:41 AM"
+    },
+    {
+        "title": "Jobless claims plunge to 199K, lowest level since 1969",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/finance/582950-jobless-claims-plunge-to-199k-lowest-level-since-1969",
+        "sentiment": -1,
+        "timestamp": 1637765510,
+        "published": "November 24, 2021 9:51 AM"
+    },
+    {
+        "title": "Can You Bankrupt White Supremacy? Jury Holds Charlottesville Organizers Liable for $26M in Damages",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2021/11/24/charlottesville_rally_organizers_liable_damages",
+        "sentiment": -6,
+        "timestamp": 1637767380,
+        "published": "November 24, 2021 10:23 AM"
+    },
+    {
+        "title": "Chip Flaws Left ‘A Third Of World Smartphones And IOT Devices Vulnerable To Eavesdropping’",
+        "domain": "forbes.com",
+        "category": "technology",
+        "link": "https://www.forbes.com/sites/thomasbrewster/2021/11/24/mediatek-chip-flaws-left-android-and-iot-devices-vulnerable-to-spying/",
+        "sentiment": -4,
+        "timestamp": 1637768006,
+        "published": "November 24, 2021 10:33 AM"
+    },
+    {
+        "title": "India seeks to block most cryptocurrencies in new bill, government says",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/",
+        "sentiment": -1,
+        "timestamp": 1637768091,
+        "published": "November 24, 2021 10:34 AM"
+    },
+    {
+        "title": "Germany Will Legalize Marijuana And Promote Drug Harm Reduction, Governing Party Coalition Officially Announces",
+        "domain": "marijuanamoment.net",
+        "category": "worldnews",
+        "link": "https://www.marijuanamoment.net/germany-will-legalize-marijuana-and-promote-drug-harm-reduction-governing-party-coalition-officially-announces/",
+        "sentiment": -1,
+        "timestamp": 1637770091,
+        "published": "November 24, 2021 11:08 AM"
+    },
+    {
         "title": "The McDonald’s ice cream machine hacking saga has a new twist — WIRED",
         "domain": "wired.com",
         "category": "news",
