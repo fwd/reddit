@@ -1,5 +1,23 @@
 [
     {
+        "title": "Apple files lawsuit against NSO Group, saying U.S. citizens were targets",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/apple-files-lawsuit-against-nso-group-2021-11-23/",
+        "sentiment": -2,
+        "timestamp": 1637741073,
+        "published": "November 24, 2021 3:04 AM"
+    },
+    {
+        "title": "Sweden just elected it´s first female prime minister",
+        "domain": "aftonbladet.se",
+        "category": "worldnews",
+        "link": "https://www.aftonbladet.se/nyheter/a/G350J9/klart-magdalena-andersson-blir-ny-statsminister",
+        "sentiment": 0,
+        "timestamp": 1637744905,
+        "published": "November 24, 2021 4:08 AM"
+    },
+    {
         "title": "Biden administration invites Taiwan to its 'Summit for Democracy'",
         "domain": "cnn.com",
         "category": "worldnews",
