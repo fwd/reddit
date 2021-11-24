@@ -1,5 +1,41 @@
 [
     {
+        "title": "Biden administration invites Taiwan to its 'Summit for Democracy'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/23/asia/biden-taiwan-summit-for-democracy-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1637736126,
+        "published": "November 24, 2021 1:42 AM"
+    },
+    {
+        "title": "Norwegian TV journalists covering the 2022 World Cup arrested in Qatar",
+        "domain": "aftenposten.no",
+        "category": "worldnews",
+        "link": "https://www.aftenposten.no/sport/i/k6BMr6/norwegian-tv-journalists-arrested-in-qatar",
+        "sentiment": -3,
+        "timestamp": 1637737166,
+        "published": "November 24, 2021 1:59 AM"
+    },
+    {
+        "title": "Australia lists neo-Nazi group The Base and Hezbollah as terrorist organisations",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/australia-news/2021/nov/24/australia-lists-neo-nazi-group-the-base-and-hezbollah-as-terrorist-organisations",
+        "sentiment": -2,
+        "timestamp": 1637738243,
+        "published": "November 24, 2021 2:17 AM"
+    },
+    {
+        "title": "YouTube dislikes count gets resurrected through a browser extension",
+        "domain": "gizmochina.com",
+        "category": "technology",
+        "link": "https://www.gizmochina.com/2021/11/19/youtube-dislikes-count-gets-resurrected-through-a-browser-extension/",
+        "sentiment": -2,
+        "timestamp": 1637741935,
+        "published": "November 24, 2021 3:18 AM"
+    },
+    {
         "title": "New Zealand to stay closed to visitors until April 2022",
         "domain": "aljazeera.com",
         "category": "worldnews",
