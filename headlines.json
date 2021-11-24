@@ -1,5 +1,59 @@
 [
     {
+        "title": "Waukesha parade crash: Darrell Brooks in court charged with five counts of intentional homicide",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/waukesha-parade-crash-darrell-brooks-in-court-charged-with-five-counts-of-intentional-homicide-12476884",
+        "sentiment": -7,
+        "timestamp": 1637705897,
+        "published": "November 23, 2021 5:18 PM"
+    },
+    {
+        "title": "'This was an intentional act': $5 million bail set for suspect in Waukesha Holiday Parade tragedy",
+        "domain": "cbs58.com",
+        "category": "news",
+        "link": "https://cbs58.com/news/waukesha-parade-suspect-darrell-brooks-due-in-court",
+        "sentiment": -3,
+        "timestamp": 1637712901,
+        "published": "November 23, 2021 7:15 PM"
+    },
+    {
+        "title": "Donald Trump’s Favorite Neo-Nazis Found Liable for Deadly Charlottesville Rally | A jury has awarded the plaintiffs more than $25 million.",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/charlottesville-verdict-donald-trump-very-fine-people",
+        "sentiment": 2,
+        "timestamp": 1637713124,
+        "published": "November 23, 2021 7:18 PM"
+    },
+    {
+        "title": "Belarus’ oldest newspaper was banned on the 115th anniversary of its founding Tuesday, the latest move in the government’s relentless crackdown on independent media in the ex-Soviet nation. The Nasha Niva newspaper was outlawed as extremist by the Central District court in Minsk",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-europe-media-newspapers-belarus-54abc6d624d3dc53fac3f0a2dbc4fd8d",
+        "sentiment": -5,
+        "timestamp": 1637713534,
+        "published": "November 23, 2021 7:25 PM"
+    },
+    {
+        "title": "Steve Burton Fired From 'General Hospital' Over COVID Vaccine Mandate",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/steve-burton-fired-general-hospital-vaccine-mandate-1235118393/",
+        "sentiment": -2,
+        "timestamp": 1637714979,
+        "published": "November 23, 2021 7:49 PM"
+    },
+    {
+        "title": "Apple sues 'amoral 21st century mercenaries' NSO for infecting iPhones with Pegasus spyware",
+        "domain": "theregister.com",
+        "category": "technology",
+        "link": "https://www.theregister.com/2021/11/23/apple_nso_group/",
+        "sentiment": -4,
+        "timestamp": 1637715887,
+        "published": "November 23, 2021 8:04 PM"
+    },
+    {
         "title": "House Committee Subpoenas Proud Boys, Oath Keepers for Capitol Riot",
         "domain": "businessinsider.com",
         "category": "politics",
