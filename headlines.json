@@ -1,5 +1,86 @@
 [
     {
+        "title": "House Committee Subpoenas Proud Boys, Oath Keepers for Capitol Riot",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/house-committee-subpoenas-proud-boys-oath-keepers-january-capitol-riot-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637703140,
+        "published": "November 23, 2021 4:32 PM"
+    },
+    {
+        "title": "Greenland ice sheet loses more than it gained for 25th straight year",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/energy-environment/582874-greenland-ice-sheet-loses-more-than-it-gained-for-25th-straight",
+        "sentiment": 3,
+        "timestamp": 1637705017,
+        "published": "November 23, 2021 5:03 PM"
+    },
+    {
+        "title": "Joe Biden to release millions of barrels of oil along with UK to drive down fuel prices",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2021/11/23/joe-biden-set-release-oil-reserves/",
+        "sentiment": 0,
+        "timestamp": 1637709112,
+        "published": "November 23, 2021 6:11 PM"
+    },
+    {
+        "title": "Japan allocates $5.2bn to fund chip plants by TSMC and others",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-allocates-5.2bn-to-fund-chip-plants-by-TSMC-and-others",
+        "sentiment": 0,
+        "timestamp": 1637711137,
+        "published": "November 23, 2021 6:45 PM"
+    },
+    {
+        "title": "\"Monarch\": Jon Feldman named showrunner, replacing Michael Rauch on FOX family drama series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/monarch-jon-feldman-replaces-michael-rauch-showrunner-fox-1234879691/",
+        "sentiment": 0,
+        "timestamp": 1637711302,
+        "published": "November 23, 2021 6:48 PM"
+    },
+    {
+        "title": "Twitter suspension warnings could reduce hate speech, study says",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/twitter-could-see-hate-speech-decline-with-suspension-warnings-nyu-study/",
+        "sentiment": -6,
+        "timestamp": 1637711382,
+        "published": "November 23, 2021 6:49 PM"
+    },
+    {
+        "title": "A 20-minute video featuring more than a dozen detention facilities in China's Xinjiang Uyghur Autonomous Region has offered fresh evidence and renewed the discussion around China's large-scale crackdown on ethnic minorities in the region",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/xinjiang-footage-sheds-new-light-on-uyghur-detention-camps/a-59880898",
+        "sentiment": -1,
+        "timestamp": 1637711966,
+        "published": "November 23, 2021 6:59 PM"
+    },
+    {
+        "title": "NSO Made Millions Selling Phone Hacking Tools To The Princes And Kings Of The United Arab Emirates",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211120/15480847977/nso-made-millions-selling-phone-hacking-tools-to-princes-kings-united-arab-emirates.shtml",
+        "sentiment": 1,
+        "timestamp": 1637711994,
+        "published": "November 23, 2021 6:59 PM"
+    },
+    {
+        "title": "Elizabeth Holmes admits doctoring lab reports with pharma company logos",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/business/business-news/elizabeth-holmes-admits-doctoring-lab-reports-pharma-company-logos-rcna6526",
+        "sentiment": -1,
+        "timestamp": 1637713078,
+        "published": "November 23, 2021 7:17 PM"
+    },
+    {
         "title": "Biden administration asks federal appeals court to immediately lift pause on business vaccine mandate",
         "domain": "cnbc.com",
         "category": "news",
