@@ -1,5 +1,77 @@
 [
     {
+        "title": "New Zealand to stay closed to visitors until April 2022",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/economy/2021/11/24/new-zealand-to-reopen-to-foreign-travelers-from-april-30",
+        "sentiment": 0,
+        "timestamp": 1637732800,
+        "published": "November 24, 2021 12:46 AM"
+    },
+    {
+        "title": "Fearing new Russian threat, Ukraine races to upgrade its navy",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/23/europe/ukraine-naval-base-russian-tensions-intl-cmd/index.html?utm_content=2021-11-24T05%3A36%3A13&utm_term=link&utm_medium=social&utm_source=twCNNi",
+        "sentiment": -4,
+        "timestamp": 1637732880,
+        "published": "November 24, 2021 12:48 AM"
+    },
+    {
+        "title": "Jeffrey Epstein denied having any suicidal thoughts and prison staffers made litany of errors prior to his death, prison documents reveal",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/24/us/jeffrey-epstein-suicidal-thoughts-bureau-of-prisons-report/index.html",
+        "sentiment": -12,
+        "timestamp": 1637733759,
+        "published": "November 24, 2021 1:02 AM"
+    },
+    {
+        "title": "Apple sues NSO Group for attacking iPhones with Pegasus spyware",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research",
+        "sentiment": -3,
+        "timestamp": 1637734851,
+        "published": "November 24, 2021 1:20 AM"
+    },
+    {
+        "title": "‘Hawkeye’ Review: Jeremy Renner, Hailee Steinfeld-Led Show Is a Charming Holiday Tale Worth the Wait",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/hawkeye-review-jeremy-renner-hailee-steinfeld-disney-plus/",
+        "sentiment": 5,
+        "timestamp": 1637734935,
+        "published": "November 24, 2021 1:22 AM"
+    },
+    {
+        "title": "China accuses US of ‘mistake’ after Biden invites Taiwan to democracy summit",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/24/china-accuses-us-of-mistake-after-biden-invites-taiwan-to-democracy-summit",
+        "sentiment": -2,
+        "timestamp": 1637736083,
+        "published": "November 24, 2021 1:41 AM"
+    },
+    {
+        "title": "Apple Sues NSO Group Pegasus For Targeting Apple Users",
+        "domain": "fossbytes.com",
+        "category": "technology",
+        "link": "https://fossbytes.com/apple-sues-nso-group-pegasus/",
+        "sentiment": -2,
+        "timestamp": 1637737965,
+        "published": "November 24, 2021 2:12 AM"
+    },
+    {
+        "title": "NASA launches first ever asteroid deflection mission",
+        "domain": "news.sky.com",
+        "category": "technology",
+        "link": "https://news.sky.com/story/nasa-launches-first-ever-asteroid-deflection-mission-12476454",
+        "sentiment": 0,
+        "timestamp": 1637738778,
+        "published": "November 24, 2021 2:26 AM"
+    },
+    {
         "title": "Apple sues Israeli spyware firm NSO Group",
         "domain": "bbc.com",
         "category": "technology",
