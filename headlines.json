@@ -1,5 +1,131 @@
 [
     {
+        "title": "The McDonald’s ice cream machine hacking saga has a new twist — WIRED",
+        "domain": "wired.com",
+        "category": "news",
+        "link": "https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/",
+        "sentiment": 0,
+        "timestamp": 1637741891,
+        "published": "November 24, 2021 3:18 AM"
+    },
+    {
+        "title": "Mike Lindell Finally Reveals His Supreme Court Complaint, And Critics Have Notes",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mike-lindell-supreme-court-complaint_n_619d93b9e4b0451e5500c684",
+        "sentiment": 0,
+        "timestamp": 1637754383,
+        "published": "November 24, 2021 6:46 AM"
+    },
+    {
+        "title": "Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html",
+        "sentiment": 3,
+        "timestamp": 1637759269,
+        "published": "November 24, 2021 8:07 AM"
+    },
+    {
+        "title": "Opinion | Why Gerrymandering Needs to Land in State Courts: The latest redistricting cycle is set up to be a disaster for democratic fairness. Unlikely as it sounds, there’s a path to fix it.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2021/11/24/gerrymandering-state-courts-523270",
+        "sentiment": -1,
+        "timestamp": 1637760338,
+        "published": "November 24, 2021 8:25 AM"
+    },
+    {
+        "title": "North Korean sentenced to death after students caught watching Squid Game",
+        "domain": "rfa.org",
+        "category": "worldnews",
+        "link": "https://www.rfa.org/english/news/korea/squidgame-11232021180155.html",
+        "sentiment": -4,
+        "timestamp": 1637761642,
+        "published": "November 24, 2021 8:47 AM"
+    },
+    {
+        "title": "Olaf Scholz replaces outgoing German chancellor Angela Merkel as a new center-left coalition is announced",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/24/olaf-scholz-replaces-angela-merkel-as-german-chancellor.html",
+        "sentiment": 0,
+        "timestamp": 1637762042,
+        "published": "November 24, 2021 8:54 AM"
+    },
+    {
+        "title": "NVIDIA GauGAN2 AI makes realistic photos from drawings or text input",
+        "domain": "blogs.nvidia.com",
+        "category": "technology",
+        "link": "https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/",
+        "sentiment": 0,
+        "timestamp": 1637763265,
+        "published": "November 24, 2021 9:14 AM"
+    },
+    {
+        "title": "Weekly jobless claims post stunning decline to 199,000, the lowest level since 1969",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/24/us-jobless-claims-fall-to-just-199000-the-lowest-level-since-1969.html",
+        "sentiment": 3,
+        "timestamp": 1637764084,
+        "published": "November 24, 2021 9:28 AM"
+    },
+    {
+        "title": "Jobless claims plunge to their lowest level in 52 years",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/uneployment-jobless-claims-plunge-2021-11-24/?ftag=CNM-00-10aab7e&linkId=141487043",
+        "sentiment": -1,
+        "timestamp": 1637764260,
+        "published": "November 24, 2021 9:31 AM"
+    },
+    {
+        "title": "Florida man playing Judas in 'Jesus Christ Superstar' accused in Jan. 6 Capitol riot",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/florida-man-playing-judas-jesus-christ-superstar-accused-jan-6-capitol-rcna6591",
+        "sentiment": -4,
+        "timestamp": 1637764369,
+        "published": "November 24, 2021 9:32 AM"
+    },
+    {
+        "title": "Get me that golden joystick! The miraculous return of GamesMaster",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/24/get-me-that-golden-joystick-the-miraculous-return-of-gamesmaster",
+        "sentiment": 0,
+        "timestamp": 1637764490,
+        "published": "November 24, 2021 9:34 AM"
+    },
+    {
+        "title": "Wisconsin GOP wants to seize control of elections — and even send commissioners to jail",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/24/wisconsin-wants-to-seize-control-of--and-even-send-commissioners-to-jail/",
+        "sentiment": 0,
+        "timestamp": 1637764741,
+        "published": "November 24, 2021 9:39 AM"
+    },
+    {
+        "title": "Broadway Performer Who Plays ‘Judas’ in ‘Jesus Christ Superstar’ Tour Charged with Breaching U.S. Capitol",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/james-beeks-broadway-performer-and-michael-jackson-impersonator-charged-over-jan-6-capitol-riot?via=desktop&source=Reddit",
+        "sentiment": -5,
+        "timestamp": 1637765646,
+        "published": "November 24, 2021 9:54 AM"
+    },
+    {
+        "title": "Bertie Carvel on joining The Crown: 'I can’t tell the whole truth of Tony Blair'",
+        "domain": "inews.co.uk",
+        "category": "television",
+        "link": "https://inews.co.uk/culture/television/bertie-carvel-interview-the-crown-season-5-tony-blair-netflix-tragedy-macbeth-1315842",
+        "sentiment": 0,
+        "timestamp": 1637766524,
+        "published": "November 24, 2021 10:08 AM"
+    },
+    {
         "title": "Berkeley High knew for 15 years of sexual misconduct allegations against teacher",
         "domain": "berkeleyside.org",
         "category": "news",
