@@ -1,5 +1,59 @@
 [
     {
+        "title": "India's fertility rate has dipped below replacement level for the first time",
+        "domain": "timesofindia.indiatimes.com",
+        "category": "worldnews",
+        "link": "https://timesofindia.indiatimes.com/india/indias-fertility-rate-has-dipped-below-replacement-level/articleshow/87897051.cms",
+        "sentiment": 0,
+        "timestamp": 1637779106,
+        "published": "November 24, 2021 1:38 PM"
+    },
+    {
+        "title": "Malawi asks Mike Tyson, former boxer, to be cannabis ambassador",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-africa-59406196",
+        "sentiment": 0,
+        "timestamp": 1637779626,
+        "published": "November 24, 2021 1:47 PM"
+    },
+    {
+        "title": "New Poll: More Than 2/3 of Texans Support Legalizing Recreational Marijuana",
+        "domain": "sacurrent.com",
+        "category": "politics",
+        "link": "https://www.sacurrent.com/sanantonio/new-poll-more-than-2-3-of-texans-support-legalizing-recreational-marijuana/Content?oid=27630809",
+        "sentiment": 2,
+        "timestamp": 1637780363,
+        "published": "November 24, 2021 1:59 PM"
+    },
+    {
+        "title": "California Progressives to Feinstein: Support Nixing Filibuster for Voting Rights—or Resign",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/23/california-progressives-feinstein-support-nixing-filibuster-voting-rights-or-resign",
+        "sentiment": 1,
+        "timestamp": 1637785274,
+        "published": "November 24, 2021 3:21 PM"
+    },
+    {
+        "title": "Gray wolf who broke records on a historic journey found dead in California",
+        "domain": "sfgate.com",
+        "category": "news",
+        "link": "https://www.sfgate.com/california-parks/article/Gray-wolf-who-broke-records-historic-journey-dead-16649518.php",
+        "sentiment": -5,
+        "timestamp": 1637787932,
+        "published": "November 24, 2021 4:05 PM"
+    },
+    {
+        "title": "Google’s Generic Kernel Image is the next step towards solving Android’s fragmentation problem",
+        "domain": "xda-developers.com",
+        "category": "technology",
+        "link": "https://www.xda-developers.com/google-generic-kernel-image/",
+        "sentiment": -1,
+        "timestamp": 1637791952,
+        "published": "November 24, 2021 5:12 PM"
+    },
+    {
         "title": "Prime Minister Fumio Kishida declared on Nov. 24 that Japan will release its state oil reserves for the first time ever in a bid to ease the soaring price of crude. It follows the Biden administration’s announcement that the United States is tapping into its own emergency oil reserves",
         "domain": "asahi.com",
         "category": "worldnews",
