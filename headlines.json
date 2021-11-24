@@ -1,5 +1,32 @@
 [
     {
+        "title": "The McDonald’s Ice Cream Machine Hacking Saga Has a New Twist",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/",
+        "sentiment": 0,
+        "timestamp": 1637741986,
+        "published": "November 24, 2021 3:19 AM"
+    },
+    {
+        "title": "Magdalena Andersson becomes Sweden’s first female prime minister",
+        "domain": "thelocal.se",
+        "category": "worldnews",
+        "link": "https://www.thelocal.se/20211124/magdalena-andersson-prime-minister/",
+        "sentiment": 0,
+        "timestamp": 1637745011,
+        "published": "November 24, 2021 4:10 AM"
+    },
+    {
+        "title": "Notorious 'Joker malware' is back!",
+        "domain": "todaystechworld.com",
+        "category": "technology",
+        "link": "https://todaystechworld.com/what-is-joker-malware-and-impacted-apps-list/",
+        "sentiment": -2,
+        "timestamp": 1637749198,
+        "published": "November 24, 2021 5:19 AM"
+    },
+    {
         "title": "Apple files lawsuit against NSO Group, saying U.S. citizens were targets",
         "domain": "reuters.com",
         "category": "technology",
