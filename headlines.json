@@ -1,5 +1,158 @@
 [
     {
+        "title": "Ukraine Confirms Firing US-Made 'Javelin' Missiles At Russia-Backed Troops",
+        "domain": "ibtimes.com.au",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.com.au/ukraine-confirms-firing-us-made-javelin-missiles-russia-backed-troops-1770698",
+        "sentiment": -2,
+        "timestamp": 1637764637,
+        "published": "November 24, 2021 9:37 AM"
+    },
+    {
+        "title": "To Stabilize Yemen, the United States Must Stop Selling Arms to Saudi Arabia",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/11/yemen-civil-war-houthis-biden-omar-bernie-iran-weapons",
+        "sentiment": 0,
+        "timestamp": 1637766468,
+        "published": "November 24, 2021 10:07 AM"
+    },
+    {
+        "title": "The Best Way to Fight Inflation: Ditch Fossil Fuels | The oil and gas industry and its Republican allies claim that climate policies are driving prices higher. That’s not the case.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164528/deal-inflation-get-off-fossil-fuels",
+        "sentiment": 2,
+        "timestamp": 1637767384,
+        "published": "November 24, 2021 10:23 AM"
+    },
+    {
+        "title": "Matthew McConaughey says Texas governor announcement 'coming shortly'",
+        "domain": "chron.com",
+        "category": "politics",
+        "link": "https://www.chron.com/politics/article/Matthew-McConaughey-Texas-governor-running-16646038.php",
+        "sentiment": 0,
+        "timestamp": 1637768355,
+        "published": "November 24, 2021 10:39 AM"
+    },
+    {
+        "title": "Oath Keepers, Proud Boys Subpoenaed By Jan. 6 House Panel",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bc-us-capitol-breach-subpoenas_n_619e16e4e4b044a1cc0f408b",
+        "sentiment": 2,
+        "timestamp": 1637769894,
+        "published": "November 24, 2021 11:04 AM"
+    },
+    {
+        "title": "15-year-old arrested in Colorado shooting that injured 6 high school students",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/15-year-old-arrested-colorado-shooting-injured-6-high-school-students-rcna6579",
+        "sentiment": -5,
+        "timestamp": 1637770398,
+        "published": "November 24, 2021 11:13 AM"
+    },
+    {
+        "title": "'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html",
+        "sentiment": 0,
+        "timestamp": 1637770472,
+        "published": "November 24, 2021 11:14 AM"
+    },
+    {
+        "title": "Huge fines and a ban on default passwords in new UK law",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59400762",
+        "sentiment": -3,
+        "timestamp": 1637770536,
+        "published": "November 24, 2021 11:15 AM"
+    },
+    {
+        "title": "Jury Returns $31.8M Civil Verdict Against Alt-Right Defendants in Charlottesville ‘Unite the Right’ Lawsuit",
+        "domain": "lawandcrime.com",
+        "category": "politics",
+        "link": "https://lawandcrime.com/federal-court/jury-returns-31-8m-civil-verdict-against-alt-right-defendants-in-charlottesville-unite-the-right-lawsuit/",
+        "sentiment": -3,
+        "timestamp": 1637770770,
+        "published": "November 24, 2021 11:19 AM"
+    },
+    {
+        "title": "Russian satirist faces up to 8 years jail for sketch that mocks officials",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russian-satirist-faces-up-8-years-jail-sketch-that-mocks-officials-2021-11-24/",
+        "sentiment": -2,
+        "timestamp": 1637771061,
+        "published": "November 24, 2021 11:24 AM"
+    },
+    {
+        "title": "Anthony Fauci Nails Utter Absurdity Of Tucker Carlson’s ‘Ridiculous’ Attacks",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/anthony-fauci-tucker-carlson-attacks-covid-19_n_619df1bce4b044a1cc0ed064",
+        "sentiment": -1,
+        "timestamp": 1637771186,
+        "published": "November 24, 2021 11:26 AM"
+    },
+    {
+        "title": "Fauci Accuses Tucker Carlson of Killing People by 'Weaponizing Lies'",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/fauci-accuses-tucker-carlson-killing-people-weaponizing-lies-1652973",
+        "sentiment": -5,
+        "timestamp": 1637771335,
+        "published": "November 24, 2021 11:28 AM"
+    },
+    {
+        "title": "Pregnant librarian killed in alleged road rage shooting was aggressor",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/police-pregnant-librarian-killed-in-alleged-road-rage-shooting-was-aggressor",
+        "sentiment": -5,
+        "timestamp": 1637771469,
+        "published": "November 24, 2021 11:31 AM"
+    },
+    {
+        "title": "FBI agent reports migraines, dizziness since posting near Russia",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/health/health-news/fbi-acknowledges-agents-may-havana-syndrome-symptoms-rcna6504",
+        "sentiment": 0,
+        "timestamp": 1637771839,
+        "published": "November 24, 2021 11:37 AM"
+    },
+    {
+        "title": "South Dakota Supreme Court rules against pot legalization",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/health-business-marijuana-legalization-recreational-marijuana-marijuana-987c36ced5a5dc2188a0667e9a8879cb",
+        "sentiment": 4,
+        "timestamp": 1637772282,
+        "published": "November 24, 2021 11:44 AM"
+    },
+    {
+        "title": "Sweden's first female prime minister resigns, mere hours after being elected",
+        "domain": "thelocal.se",
+        "category": "worldnews",
+        "link": "https://www.thelocal.se/20211124/breaking-green-party-quits-government-after-right-wing-budget-passes/",
+        "sentiment": -1,
+        "timestamp": 1637772397,
+        "published": "November 24, 2021 11:46 AM"
+    },
+    {
+        "title": "Sweden's first female prime minister resigns after seven hours in office",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/swedish-parliament-confirms-social-democrat-leader-andersson-new-pm-2021-11-24/",
+        "sentiment": -1,
+        "timestamp": 1637772660,
+        "published": "November 24, 2021 11:51 AM"
+    },
+    {
         "title": "Britain has ‘significant concerns’ over Russian troops at Ukraine border",
         "domain": "ukdefencejournal.org.uk",
         "category": "worldnews",
