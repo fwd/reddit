@@ -1,5 +1,50 @@
 [
     {
+        "title": "Australia labels all of Hezbollah a terrorist organization",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/australia-labels-all-of-hezbollah-a-terrorist-organization/",
+        "sentiment": -2,
+        "timestamp": 1637733853,
+        "published": "November 24, 2021 1:04 AM"
+    },
+    {
+        "title": "Walmart, CVS, Walgreens helped fuel US opioid crisis, jury finds",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/economy/2021/11/23/walmart-cvs-walgreens-helped-fuel-us-opioid-crisis-jury-finds",
+        "sentiment": -3,
+        "timestamp": 1637734483,
+        "published": "November 24, 2021 1:14 AM"
+    },
+    {
+        "title": "A Woman Pleads Guilty to Using RentAHitman.Com to Try to Kill Her Ex-Husband for $5,000 | The joke website turned accidental honeypot asks visitors a simple question: \"Got a problem that needs resolving?\"",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/a-woman-pleads-guilty-to-using-rentahitman-com-to-try-t-1848115123",
+        "sentiment": -6,
+        "timestamp": 1637751783,
+        "published": "November 24, 2021 6:03 AM"
+    },
+    {
+        "title": "Facebook made niche exceptions to its Taliban ban, internal documents show | Facebook has made occasional exceptions to its ban on Taliban content since the group seized power in Afghanistan in August, internal documents reviewed by The Intercept reveal.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-exceptions-to-its-taliban-ban-report-the-intercept-2021-11",
+        "sentiment": -4,
+        "timestamp": 1637752668,
+        "published": "November 24, 2021 6:17 AM"
+    },
+    {
+        "title": "Samsung says it will build $17B chip factory in Texas",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/technology-business-austin-texas-taiwan-35d38afb0b45569f9e5fba540453ce29",
+        "sentiment": 0,
+        "timestamp": 1637753419,
+        "published": "November 24, 2021 6:30 AM"
+    },
+    {
         "title": "The McDonald’s Ice Cream Machine Hacking Saga Has a New Twist",
         "domain": "wired.com",
         "category": "technology",
