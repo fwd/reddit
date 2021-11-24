@@ -1,5 +1,50 @@
 [
     {
+        "title": "British Army to leave Canada after 50 years for new base in Middle East",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/news/2021/11/23/british-army-leave-canada-50-years-new-base-middle-east/",
+        "sentiment": -1,
+        "timestamp": 1637709412,
+        "published": "November 23, 2021 6:16 PM"
+    },
+    {
+        "title": "Bernie Sanders Is Facing Down Corporate Democrats on Taxes. The Democrats are poised to pass a giant, regressive tax giveaway to the wealthy by raising the SALT cap deduction. Bernie Sanders is trying to stop them.",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/11/salt-cap-repeal-build-back-better-bernie-sanders",
+        "sentiment": -1,
+        "timestamp": 1637714851,
+        "published": "November 23, 2021 7:47 PM"
+    },
+    {
+        "title": "JPMorgan CEO Dimon says his bank will outlast China's Communist Party",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/jpmorgan-ceo-dimon-jokes-his-bank-will-outlast-chinas-communist-party-2021-11-23/",
+        "sentiment": 0,
+        "timestamp": 1637717781,
+        "published": "November 23, 2021 8:36 PM"
+    },
+    {
+        "title": "Hulu Brings Back Black Friday Deal: 99 Cents per Month for One Year",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/digital/news/hulu-black-friday-99-cents-per-month-1235118149/",
+        "sentiment": 0,
+        "timestamp": 1637721582,
+        "published": "November 23, 2021 9:39 PM"
+    },
+    {
+        "title": "Italy fines Apple and Amazon over Beats headphones",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59392829",
+        "sentiment": -2,
+        "timestamp": 1637722732,
+        "published": "November 23, 2021 9:58 PM"
+    },
+    {
         "title": "Proof of COVID-19 vaccine will be required for all US land border crossers",
         "domain": "fox13news.com",
         "category": "news",
