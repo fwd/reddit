@@ -1,5 +1,140 @@
 [
     {
+        "title": "Berkeley High knew for 15 years of sexual misconduct allegations against teacher",
+        "domain": "berkeleyside.org",
+        "category": "news",
+        "link": "https://www.berkeleyside.org/2021/11/23/berkeley-high-knew-about-matthew-bissell-sexual-misconduct-allegations",
+        "sentiment": -4,
+        "timestamp": 1637732316,
+        "published": "November 24, 2021 12:38 AM"
+    },
+    {
+        "title": "White supremacist prison guards work with impunity in Florida",
+        "domain": "pbs.org",
+        "category": "politics",
+        "link": "https://www.pbs.org/newshour/nation/white-supremacist-prison-guards-work-with-impunity-in-florida",
+        "sentiment": -2,
+        "timestamp": 1637756591,
+        "published": "November 24, 2021 7:23 AM"
+    },
+    {
+        "title": "Escape from TrumpWorld: \"Anonymous\" White House aide Miles Taylor on post-Trump trauma | Former Trump aide who was \"Anonymous\": Why he stayed, why he left and how the GOP became more dangerous than ISIS",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/24/escape-from-trumpworld-anonymous-aide-miles-taylor-on-post-trauma/",
+        "sentiment": -6,
+        "timestamp": 1637757602,
+        "published": "November 24, 2021 7:40 AM"
+    },
+    {
+        "title": "Jury awards $26 million in Charlottesville \"Unite the Right\" rally civil case",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/charlottesville-unite-the-right-rally-trial-verdict-26-million/",
+        "sentiment": 3,
+        "timestamp": 1637758657,
+        "published": "November 24, 2021 7:57 AM"
+    },
+    {
+        "title": "Seven doctors contract Covid after attending Florida anti-vaccine summit",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/23/florida-doctors-covid-coronavirus-bruce-boros",
+        "sentiment": 0,
+        "timestamp": 1637758937,
+        "published": "November 24, 2021 8:02 AM"
+    },
+    {
+        "title": "HBO Oral History ‘Tinderbox’ Author On Corporate ‘Game Of Thrones’, “Silent Killer” Jeff Bewkes, David Zaslav & Network’s Future",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/hbo-book-tinderbox-game-of-thrones-lovecraft-country-att-james-miller-interview-1234879610/",
+        "sentiment": 0,
+        "timestamp": 1637758972,
+        "published": "November 24, 2021 8:02 AM"
+    },
+    {
+        "title": "He Wants to Win Missouri as a Populist. Just Don’t Compare Him to Josh Hawley. - Millennial Marine veteran Lucas Kunce hopes his campaign against corporations and corruption can launch him into the Senate — and help Democrats win back the working class.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2021/11/24/lucas-kunce-missouri-populist-democrat-521862",
+        "sentiment": 9,
+        "timestamp": 1637759094,
+        "published": "November 24, 2021 8:04 AM"
+    },
+    {
+        "title": "Fighting the Inflation Profiteers - Companies are raising prices well above increases in their costs. The only antidote is to finally take action against corporate power.",
+        "domain": "prospect.org",
+        "category": "politics",
+        "link": "https://prospect.org/economy/fighting-the-inflation-profiteers-biden-kennedy/",
+        "sentiment": -2,
+        "timestamp": 1637760475,
+        "published": "November 24, 2021 8:27 AM"
+    },
+    {
+        "title": "Proud Boys leader denied early release from Washington DC jail",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/23/proud-boys-leader-henry-enrique-tarrio-denied-early-release",
+        "sentiment": 0,
+        "timestamp": 1637760918,
+        "published": "November 24, 2021 8:35 AM"
+    },
+    {
+        "title": "U.S. jobless claims fall to just 199,000, the lowest level since 1969",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/24/us-jobless-claims-fall-to-just-199000-the-lowest-level-since-1969.html",
+        "sentiment": -1,
+        "timestamp": 1637761043,
+        "published": "November 24, 2021 8:37 AM"
+    },
+    {
+        "title": "Dollar Tree CEO—Who Made Over $10 Million Last Year—Blames Inflation for Price Hike to $1.25 \"Dollar Tree made $1,230,000,000 in profits this year, gave its CEO $10,767,883, and pays workers as little as $8.32 an hour.\"",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2021/11/24/dollar-tree-ceo-who-made-over-10-million-last-year-blames-inflation-price-hike-125",
+        "sentiment": 2,
+        "timestamp": 1637762240,
+        "published": "November 24, 2021 8:57 AM"
+    },
+    {
+        "title": "Jan. 6 planners spoke directly to Eric Trump using cash-bought burner phones, says report",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/jan-6-planners-spoke-directly-to-eric-trump-using-cash-bought-burner-phones-says-report",
+        "sentiment": 0,
+        "timestamp": 1637762590,
+        "published": "November 24, 2021 9:03 AM"
+    },
+    {
+        "title": "In 2019 Google said it achieved quantum supremacy, that it'll take a traditional computer 10,000 years to do. 2021 China supercomputer sunway did it in 300 seconds and with higher accuracy. As a result , they got the Gordon bell prize for it.",
+        "domain": "hpcwire.com",
+        "category": "technology",
+        "link": "https://www.hpcwire.com/2021/11/18/2021-gordon-bell-prize-goes-to-exascale-powered-quantum-supremacy-challenge/",
+        "sentiment": 0,
+        "timestamp": 1637762599,
+        "published": "November 24, 2021 9:03 AM"
+    },
+    {
+        "title": "FCC Claims Broadband Subsidy Eligibility Abuses by Providers",
+        "domain": "nexttv.com",
+        "category": "technology",
+        "link": "https://www.nexttv.com/news/fcc-claims-broadband-subsidy-eligibility-abuses-by-providers",
+        "sentiment": -3,
+        "timestamp": 1637763622,
+        "published": "November 24, 2021 9:20 AM"
+    },
+    {
+        "title": "Apple reportedly switching to its own iPhone modem design in 2023",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/24/22800144/apple-own-iphone-modem-2023-tsmc-4nm",
+        "sentiment": 0,
+        "timestamp": 1637764515,
+        "published": "November 24, 2021 9:35 AM"
+    },
+    {
         "title": "Man convicted of raping author Alice Sebold cleared after film producer began questioning memoir script",
         "domain": "news.sky.com",
         "category": "news",
