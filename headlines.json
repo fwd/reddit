@@ -1,5 +1,104 @@
 [
     {
+        "title": "Belgium to label settler products, Israeli diplomat cancels events",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/breaking-news/belgium-to-label-west-bank-products-warn-of-human-rights-abuses-686851",
+        "sentiment": -1,
+        "timestamp": 1637764296,
+        "published": "November 24, 2021 9:31 AM"
+    },
+    {
+        "title": "The Taliban destroyed Afghanistan's ancient Buddha statues. Now they're welcoming tourists.",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/amp/rcna6307",
+        "sentiment": -3,
+        "timestamp": 1637772571,
+        "published": "November 24, 2021 11:49 AM"
+    },
+    {
+        "title": "Taliban sign $450m deal with Australian group for cannabis center: Taliban spokesman",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2021/11/24/Taliban-sign-450m-deal-with-Australian-group-for-cannabis-center-Taliban-spokesman",
+        "sentiment": 0,
+        "timestamp": 1637775883,
+        "published": "November 24, 2021 12:44 PM"
+    },
+    {
+        "title": "Judge dismisses Steam antitrust case for lack of factual support",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gaming/2021/11/judge-dismisses-steam-antitrust-case-for-lack-of-factual-support/",
+        "sentiment": 0,
+        "timestamp": 1637778420,
+        "published": "November 24, 2021 1:27 PM"
+    },
+    {
+        "title": "Indian government set to ban cryptocurrencies",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/technology-59402310",
+        "sentiment": -2,
+        "timestamp": 1637779364,
+        "published": "November 24, 2021 1:42 PM"
+    },
+    {
+        "title": "Jan 6 organisers talked to Eric Trump on burner phones before riot, report says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/eric-trump-capitol-burner-phones-b1963754.html",
+        "sentiment": -2,
+        "timestamp": 1637780742,
+        "published": "November 24, 2021 2:05 PM"
+    },
+    {
+        "title": "J.J. Watt will cover the funeral expenses of those killed during Waukesha Christmas parade",
+        "domain": "profootballtalk.nbcsports.com",
+        "category": "news",
+        "link": "https://profootballtalk.nbcsports.com/2021/11/24/j-j-watt-will-cover-the-funeral-expenses-of-those-killed-during-waukesha-christmas-parade/",
+        "sentiment": -4,
+        "timestamp": 1637781940,
+        "published": "November 24, 2021 2:25 PM"
+    },
+    {
+        "title": "Security forces in Qatar detained two journalists from Norwegian state television for over 30 hours and deleted footage they gathered at a migrant labor camp as they tried to report on worker issues ahead of the FIFA 2022 World Cup",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/soccer-sports-television-arrests-media-d020566c99074e8c2e56efff751f4a0f",
+        "sentiment": -2,
+        "timestamp": 1637783518,
+        "published": "November 24, 2021 2:51 PM"
+    },
+    {
+        "title": "Hanna review: Season 3 can't break free of action-thriller tropes",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/in-its-final-season-hanna-fails-to-smash-through-tired-1848080605",
+        "sentiment": 1,
+        "timestamp": 1637783556,
+        "published": "November 24, 2021 2:52 PM"
+    },
+    {
+        "title": "Instagram chief agrees to testify before Senate",
+        "domain": "thehill.com",
+        "category": "technology",
+        "link": "https://thehill.com/policy/technology/583034-instagram-chief-agrees-to-testify-before-senate",
+        "sentiment": 1,
+        "timestamp": 1637784036,
+        "published": "November 24, 2021 3:00 PM"
+    },
+    {
+        "title": "Dick Vitale's emotional return to courtside",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/9eijnj6_3B0",
+        "sentiment": -4,
+        "timestamp": 1637784504,
+        "published": "November 24, 2021 3:08 PM"
+    },
+    {
         "title": "It’s not just tennis star Peng Shuai. China is cracking down on #MeToo movement",
         "domain": "theglobeandmail.com",
         "category": "worldnews",
