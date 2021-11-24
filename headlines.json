@@ -1,5 +1,68 @@
 [
     {
+        "title": "Prime Minister Fumio Kishida declared on Nov. 24 that Japan will release its state oil reserves for the first time ever in a bid to ease the soaring price of crude. It follows the Biden administration’s announcement that the United States is tapping into its own emergency oil reserves",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14487914",
+        "sentiment": 0,
+        "timestamp": 1637778041,
+        "published": "November 24, 2021 1:20 PM"
+    },
+    {
+        "title": "Somehow the Guy Who Tried to Steal Arizona for Trump Is Now Broke",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/y3vdjk/cyber-ninja-ceo-doug-logan-in-debt",
+        "sentiment": -3,
+        "timestamp": 1637779258,
+        "published": "November 24, 2021 1:40 PM"
+    },
+    {
+        "title": "FBI Probes Another Election Data Breach Linked to MyPillow CEO Mike Lindell",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/24/fbi-probes-another-data-breach-linked-to-mypillow-ceo-mike-lindell/",
+        "sentiment": -2,
+        "timestamp": 1637784048,
+        "published": "November 24, 2021 3:00 PM"
+    },
+    {
+        "title": "Scientists warn of new Covid variant with high number of mutations",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/24/scientists-warn-of-new-covid-variant-with-high-number-of-mutations",
+        "sentiment": -2,
+        "timestamp": 1637784516,
+        "published": "November 24, 2021 3:08 PM"
+    },
+    {
+        "title": "2 Chinese activists who supported #MeToo movement, also disappeared like Peng Shuai",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/2-chinese-activists-who-supported-metoo-movement-also-disappeared-like-peng-shuai-1652991",
+        "sentiment": 3,
+        "timestamp": 1637785592,
+        "published": "November 24, 2021 3:26 PM"
+    },
+    {
+        "title": "Warnock: 'True justice' is a Black man not having to worry about being killed while jogging",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/583045-warnock-true-justice-is-a-black-man-not-having-to-worry-about-being-killed",
+        "sentiment": -6,
+        "timestamp": 1637785868,
+        "published": "November 24, 2021 3:31 PM"
+    },
+    {
+        "title": "Microsoft Failed to Fix a Zero-Day and Now Every Version of Windows Is at Risk",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/microsoft-failed-to-fix-a-zero-day-and-now-every-versio-1848117626",
+        "sentiment": -4,
+        "timestamp": 1637788682,
+        "published": "November 24, 2021 4:18 PM"
+    },
+    {
         "title": "Belgium to label settler products, Israeli diplomat cancels events",
         "domain": "jpost.com",
         "category": "worldnews",
