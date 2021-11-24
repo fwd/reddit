@@ -1,5 +1,68 @@
 [
     {
+        "title": "35 million families will lose Biden's monthly child tax credit payments in 3 weeks if Congress doesn't step in",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/biden-monthly-child-tax-credit-expiration-congress-democrats-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637782647,
+        "published": "November 24, 2021 2:37 PM"
+    },
+    {
+        "title": "Thirty-one migrants die trying to cross Channel to UK",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/five-migrants-drown-crossing-channel-france-britain-bfm-tv-2021-11-24/",
+        "sentiment": -3,
+        "timestamp": 1637783318,
+        "published": "November 24, 2021 2:48 PM"
+    },
+    {
+        "title": "Canada considers boosting military aid to Ukraine as Russia amasses troops at the border",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-canada-considers-boosting-military-aid-to-ukraine-as-russia-amasses/",
+        "sentiment": 1,
+        "timestamp": 1637789673,
+        "published": "November 24, 2021 4:34 PM"
+    },
+    {
+        "title": "Jan. 6 organizers used burner phones to communicate with Trump family, White House: report",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/583065-jan-6-organizers-used-burner-phones-to-communicate-with-trump-family",
+        "sentiment": 0,
+        "timestamp": 1637790713,
+        "published": "November 24, 2021 4:51 PM"
+    },
+    {
+        "title": "Congress decimates 911's digital upgrade",
+        "domain": "axios.com",
+        "category": "technology",
+        "link": "https://www.axios.com/congress-decimates-911s-digital-upgrade-845c5730-d1b2-4478-b32d-9d980793570d.html",
+        "sentiment": 0,
+        "timestamp": 1637793577,
+        "published": "November 24, 2021 5:39 PM"
+    },
+    {
+        "title": "Hong Kong libraries remove books for \"violating\" national security law",
+        "domain": "rfa.org",
+        "category": "worldnews",
+        "link": "https://www.rfa.org/english/news/china/books-11242021093901.html#.YZ6_0_U1mTU.mailto",
+        "sentiment": -2,
+        "timestamp": 1637793853,
+        "published": "November 24, 2021 5:44 PM"
+    },
+    {
+        "title": "Germany to force ISPs to give discounts for slow Internet speeds",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/legal/germany-to-force-isps-to-give-discounts-for-slow-internet-speeds/",
+        "sentiment": 0,
+        "timestamp": 1637793955,
+        "published": "November 24, 2021 5:45 PM"
+    },
+    {
         "title": "India's fertility rate has dipped below replacement level for the first time",
         "domain": "timesofindia.indiatimes.com",
         "category": "worldnews",
