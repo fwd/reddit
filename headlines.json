@@ -1,5 +1,41 @@
 [
     {
+        "title": "Experts caution use of 'looting' in describing rash of Bay Area smash and grabs",
+        "domain": "abc7news.com",
+        "category": "news",
+        "link": "https://abc7news.com/retail-theft-smash-and-grab-looting-meaning-bay-area/11263189/",
+        "sentiment": -2,
+        "timestamp": 1637714660,
+        "published": "November 23, 2021 7:44 PM"
+    },
+    {
+        "title": "Biden administration invites Taiwan to its Summit for Democracy",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/biden-administration-invites-taiwan-its-summit-democracy-2021-11-24/",
+        "sentiment": 0,
+        "timestamp": 1637723328,
+        "published": "November 23, 2021 10:08 PM"
+    },
+    {
+        "title": "Sikh men created a lifeline using turbans and jackets to rescue hikers at a park",
+        "domain": "posinewz.com",
+        "category": "worldnews",
+        "link": "http://posinewz.com/stories/Sikh-men-created-a-lifeline-using-turbans-and-jackets-to-rescue-hikers-at-a-park/452/",
+        "sentiment": 2,
+        "timestamp": 1637724706,
+        "published": "November 23, 2021 10:31 PM"
+    },
+    {
+        "title": "World’s largest democracy caught using fake social media profiles to spread misinformation targeting minorities.",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-india-59338245",
+        "sentiment": -5,
+        "timestamp": 1637724961,
+        "published": "November 23, 2021 10:36 PM"
+    },
+    {
         "title": "British Army to leave Canada after 50 years for new base in Middle East",
         "domain": "telegraph.co.uk",
         "category": "worldnews",
