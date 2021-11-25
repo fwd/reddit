@@ -1,5 +1,86 @@
 [
     {
+        "title": "US lawmakers defy China by meeting with officials in Taiwan",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/politics/politics-news/u-s-lawmakers-defy-china-meeting-officials-taiwan-n1284606",
+        "sentiment": 0,
+        "timestamp": 1637870328,
+        "published": "November 25, 2021 2:58 PM"
+    },
+    {
+        "title": "Lawmakers Approve Bill To Mandate Education On Genocide",
+        "domain": "boston.cbslocal.com",
+        "category": "politics",
+        "link": "https://boston.cbslocal.com/2021/11/24/lawmakers-approve-bill-to-mandate-education-on-genocides/",
+        "sentiment": 0,
+        "timestamp": 1637873291,
+        "published": "November 25, 2021 3:48 PM"
+    },
+    {
+        "title": "'Terrified' victim of Hull grooming gang beaten and burned during violent rape",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/terrified-victim-of-hull-grooming-gang-beaten-and-burned-during-violent-rape-12470144",
+        "sentiment": -12,
+        "timestamp": 1637877133,
+        "published": "November 25, 2021 4:52 PM"
+    },
+    {
+        "title": "Ethiopian Olympic heroes Haile Gebrselassie and Feyisa Lilesa say they are ready to go to the front line in the war against rebel forces.",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-africa-59393463",
+        "sentiment": -2,
+        "timestamp": 1637877486,
+        "published": "November 25, 2021 4:58 PM"
+    },
+    {
+        "title": "Jim Jordan hid COVID-19 diagnosis, saying \"I don't talk about my health status with reporters\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/24/jim-jordan-hid-19-diagnosis-saying-i-dont-talk-about-my-health-status-with-reporters/",
+        "sentiment": -1,
+        "timestamp": 1637878616,
+        "published": "November 25, 2021 5:16 PM"
+    },
+    {
+        "title": "New UK law will hit smart home device makers with big fines for using default passwords",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/uk-law-imposes-stiff-fines-on-insecure-smart-home-devices-200031873.html",
+        "sentiment": 0,
+        "timestamp": 1637880115,
+        "published": "November 25, 2021 5:41 PM"
+    },
+    {
+        "title": "WHO calls special meeting to discuss new Covid variant found in South Africa with ‘a large number of mutations’",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/25/who-calls-special-meeting-to-discuss-new-covid-variant-from-south-africa-with-large-number-of-mutations.html",
+        "sentiment": 0,
+        "timestamp": 1637881276,
+        "published": "November 25, 2021 6:01 PM"
+    },
+    {
+        "title": "Turkish police fire rubber bullets as thousands march to demand end to violence against women",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2021-11-26/turkish-police-fire-on-people-protesting-violence-against-women/100652332",
+        "sentiment": -6,
+        "timestamp": 1637881465,
+        "published": "November 25, 2021 6:04 PM"
+    },
+    {
+        "title": "A North Korean man who smuggled 'Squid Game' into the country is to be executed by firing squad and a high-school student who bought a USB drive with the show will be jailed for life, report says",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/north-korea-execution-life-sentence-hard-labor-squid-game-2021-11",
+        "sentiment": -6,
+        "timestamp": 1637881795,
+        "published": "November 25, 2021 6:09 PM"
+    },
+    {
         "title": "Siberia: Dozens missing after deadly Russian mine accident",
         "domain": "bbc.co.uk",
         "category": "news",
