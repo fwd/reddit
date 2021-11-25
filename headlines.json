@@ -1,5 +1,140 @@
 [
     {
+        "title": "CIA Chief Warns Russians of Consequences If They Caused ‘Havana Syndrome'",
+        "domain": "nbcbayarea.com",
+        "category": "politics",
+        "link": "https://www.nbcbayarea.com/news/national-international/cia-chief-warns-russians-of-consequences-if-they-caused-havana-syndrome/2740906/",
+        "sentiment": -2,
+        "timestamp": 1637834594,
+        "published": "November 25, 2021 5:03 AM"
+    },
+    {
+        "title": "FBI calls dealing with 'Havana Syndrome' a top priority",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/us-fbi-calls-anomalous-health-incidents-top-priority-2021-11-24/",
+        "sentiment": 2,
+        "timestamp": 1637842791,
+        "published": "November 25, 2021 7:19 AM"
+    },
+    {
+        "title": "Bernie Sanders Is Right: Biden’s Big Build Back Better Bill Is a Huge Gift to the Rich",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/bernie-sanders-is-right-bidens-big-build-back-better-bill-is-a-huge-gift-to-the-rich",
+        "sentiment": 8,
+        "timestamp": 1637844487,
+        "published": "November 25, 2021 7:48 AM"
+    },
+    {
+        "title": "In A First, More Women Than Men In India, Shows Government Survey",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/india-news/in-a-first-more-women-than-men-in-india-shows-government-survey-2624664",
+        "sentiment": 0,
+        "timestamp": 1637848510,
+        "published": "November 25, 2021 8:55 AM"
+    },
+    {
+        "title": "S.Africa detects new COVID-19 variant, implications not yet clear",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/south-africa-detects-new-covid-19-variant-small-numbers-2021-11-25/",
+        "sentiment": 1,
+        "timestamp": 1637849903,
+        "published": "November 25, 2021 9:18 AM"
+    },
+    {
+        "title": "UAE general accused of torture elected Interpol president",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-middle-east-59417409",
+        "sentiment": -6,
+        "timestamp": 1637850108,
+        "published": "November 25, 2021 9:21 AM"
+    },
+    {
+        "title": "Trump Could Pay $156,000 For Every Jan. 6 Rioter’s Defense, But So Far Has Spent Zero",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-legal-funds_n_619eb5cde4b0451e5503421f",
+        "sentiment": -1,
+        "timestamp": 1637850148,
+        "published": "November 25, 2021 9:22 AM"
+    },
+    {
+        "title": "$400K worth of Jack Daniel’s flooded a Tennessee highway",
+        "domain": "thetakeout.com",
+        "category": "news",
+        "link": "https://thetakeout.com/jack-daniels-spilled-on-highway-tennessee-1848117543",
+        "sentiment": 2,
+        "timestamp": 1637850489,
+        "published": "November 25, 2021 9:28 AM"
+    },
+    {
+        "title": "Hackney man first to receive 3D-printed prosthetic eye",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-england-london-59410743",
+        "sentiment": 0,
+        "timestamp": 1637851956,
+        "published": "November 25, 2021 9:52 AM"
+    },
+    {
+        "title": "Unruly passengers on flights to be prosecuted swiftly, says US attorney general",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/25/unruly-passengers-on-flights-to-be-prosecuted-swiftly-says-us-attorney-general",
+        "sentiment": 0,
+        "timestamp": 1637853140,
+        "published": "November 25, 2021 10:12 AM"
+    },
+    {
+        "title": "Channel deaths: People smugglers advertising openly on Facebook",
+        "domain": "news.sky.com",
+        "category": "technology",
+        "link": "https://news.sky.com/story/channel-deaths-people-smugglers-advertising-openly-on-facebook-12478290",
+        "sentiment": -2,
+        "timestamp": 1637853403,
+        "published": "November 25, 2021 10:16 AM"
+    },
+    {
+        "title": "President Bartlet calls the Butterball Hotline. A classic Thanksgiving episode from \"The West Wing\".",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/Q0UVPHbYodA?t=3",
+        "sentiment": 0,
+        "timestamp": 1637853524,
+        "published": "November 25, 2021 10:18 AM"
+    },
+    {
+        "title": "Interior Department Approves Second Major Offshore Wind Project in U.S. Federal Waters",
+        "domain": "doi.gov",
+        "category": "technology",
+        "link": "https://www.doi.gov/pressreleases/interior-department-approves-second-major-offshore-wind-project-us-federal-waters",
+        "sentiment": 2,
+        "timestamp": 1637854017,
+        "published": "November 25, 2021 10:26 AM"
+    },
+    {
+        "title": "US blacklists Chinese quantum computing firms over security fears",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/us-blacklists-chinese-quantum-computing-firms-over-security-fears",
+        "sentiment": 0,
+        "timestamp": 1637854349,
+        "published": "November 25, 2021 10:32 AM"
+    },
+    {
+        "title": "NBC’s This Is Us | Season 6: The Final Chapter | Official Trailer | January 4",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=9DXxRULFrDk",
+        "sentiment": 0,
+        "timestamp": 1637854868,
+        "published": "November 25, 2021 10:41 AM"
+    },
+    {
         "title": "Trump argues Jan. 6 panel could permanently damage the presidency with its pursuit of White House records - An appeals court is scheduled to hear oral arguments in the case next week",
         "domain": "nbcnews.com",
         "category": "politics",
