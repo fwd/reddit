@@ -1,5 +1,86 @@
 [
     {
+        "title": "Siberia: Dozens missing after deadly Russian mine accident",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-europe-59421319",
+        "sentiment": -7,
+        "timestamp": 1637856487,
+        "published": "November 25, 2021 11:08 AM"
+    },
+    {
+        "title": "Trump argues January 6 committee could damage the presidency in quest for his records.",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html",
+        "sentiment": -3,
+        "timestamp": 1637867985,
+        "published": "November 25, 2021 2:19 PM"
+    },
+    {
+        "title": "Mom fatally shot at memorial for son killed days earlier",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/mom-fatally-shot-memorial-son-killed-days-earlier/story?id=81393543",
+        "sentiment": -3,
+        "timestamp": 1637875013,
+        "published": "November 25, 2021 4:16 PM"
+    },
+    {
+        "title": "Thousands of people have raised more than $900K for a man who served 43 years in prison for a crime he didn't commit",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/25/us/kevin-strickland-funds-raised-wrongful-imprisonment-trnd/index.html",
+        "sentiment": -4,
+        "timestamp": 1637875020,
+        "published": "November 25, 2021 4:17 PM"
+    },
+    {
+        "title": "Kremlin critic found with dead elk in car is stripped of immunity",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/25/kremlin-critic-found-with-dead-elk-in-car-is-stripped-of-immunity?CMP=twt_a-world_b-gdnworld",
+        "sentiment": -5,
+        "timestamp": 1637875911,
+        "published": "November 25, 2021 4:31 PM"
+    },
+    {
+        "title": "QAnon's 'Queen of Canada' Calls for Followers to 'Kill' People Vaccinating Children",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/v7ddgm/qanons-queen-of-canada-calls-for-followers-to-kill-people-vaccinating-children",
+        "sentiment": 0,
+        "timestamp": 1637877221,
+        "published": "November 25, 2021 4:53 PM"
+    },
+    {
+        "title": "Roblox sues YouTuber for temporarily shutting down conference with fake terrorist threat",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/24/22800526/roblox-lawsuit-benjamin-robert-simon-ruben-sim-harassment-rdc-shutdown-terrorism",
+        "sentiment": -9,
+        "timestamp": 1637877323,
+        "published": "November 25, 2021 4:55 PM"
+    },
+    {
+        "title": "Adam Driver says in a new interview, \"I'd love to do SNL again, if the stars align!\"",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/adam-driver-house-of-gucci-interview-ridley-scott-snl/",
+        "sentiment": 3,
+        "timestamp": 1637878788,
+        "published": "November 25, 2021 5:19 PM"
+    },
+    {
+        "title": "China’s space programme will go nuclear to power future missions to the moon and Mars",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/news/china/science/article/3157213/chinas-space-programme-will-go-nuclear-power-future-missions",
+        "sentiment": 0,
+        "timestamp": 1637879538,
+        "published": "November 25, 2021 5:32 PM"
+    },
+    {
         "title": "Uber takes its first step into the cannabis market",
         "domain": "bbc.com",
         "category": "technology",
