@@ -1,5 +1,77 @@
 [
     {
+        "title": "‘Cancun is much nicer than Cabo’: Ted Cruz mocks Gavin Newsom’s vacation with reference to his own scandal",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/ted-cruz-cabo-cancun-newsom-b1964435.html",
+        "sentiment": -5,
+        "timestamp": 1637867602,
+        "published": "November 25, 2021 2:13 PM"
+    },
+    {
+        "title": "52 people dead in Siberian mining disaster",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/russia/541355-mine-explosion-confirmed-dead/",
+        "sentiment": -5,
+        "timestamp": 1637868191,
+        "published": "November 25, 2021 2:23 PM"
+    },
+    {
+        "title": "Chile's lower House approves same-sex marriage, Bill sent to Senate",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/chiles-lower-house-approves-same-sex-marriage-bill-sent-back-senate-2021-11-23/",
+        "sentiment": 2,
+        "timestamp": 1637868833,
+        "published": "November 25, 2021 2:33 PM"
+    },
+    {
+        "title": "Massive Hack Gave Police a Window on Cocaine, Cash and Killers | Criminals thought encrypted Sky ECC cellphones were impregnable, but cops tapped a billion messages, yielding arrests and drug seizures",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356",
+        "sentiment": -5,
+        "timestamp": 1637870061,
+        "published": "November 25, 2021 2:54 PM"
+    },
+    {
+        "title": "Man detained more than 2 years because of mistaken identity sues Hawaii",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/man-detained-2-years-mistaken-identity-sues-hawaii-rcna6444",
+        "sentiment": -6,
+        "timestamp": 1637870340,
+        "published": "November 25, 2021 2:59 PM"
+    },
+    {
+        "title": "Mike Lindell misses self-imposed deadline to file lawsuit proving Trump won in 2020",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/mike-lindell-misses-self-imposed-deadline-file-lawsuit-proving-trump-won-2020-1653424",
+        "sentiment": 1,
+        "timestamp": 1637870634,
+        "published": "November 25, 2021 3:03 PM"
+    },
+    {
+        "title": "Florida state senator files bill to allow employers to offer sub-minimum ‘training wage’: The proposal would allow employers to offer training wage to workers for first six months of employment",
+        "domain": "clickorlando.com",
+        "category": "politics",
+        "link": "https://www.clickorlando.com/news/local/2021/11/25/florida-state-senator-files-bill-to-allow-employers-to-offer-sub-minimum-training-wage/#//",
+        "sentiment": 2,
+        "timestamp": 1637871003,
+        "published": "November 25, 2021 3:10 PM"
+    },
+    {
+        "title": "Peter Jackson on The Beatles: Get Back & Technology Invented for the Docuseries",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=Y_TDyPlLbbM",
+        "sentiment": 0,
+        "timestamp": 1637871620,
+        "published": "November 25, 2021 3:20 PM"
+    },
+    {
         "title": "NASA confirms existence of hundreds of new worlds outside our solar system",
         "domain": "newsweek.com",
         "category": "worldnews",
