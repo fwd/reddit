@@ -1,5 +1,59 @@
 [
     {
+        "title": "Bodies pile up as Romania struggles with fourth wave of COVID-19",
+        "domain": "9news.com.au",
+        "category": "worldnews",
+        "link": "https://www.9news.com.au/world/bodies-pile-up-outside-hospital-morgue-as-romania-struggles-with-fourth-wave-of-covid19/ae269ea3-5984-4be3-ba9c-e3751e28a002?ocid=Social-9News",
+        "sentiment": -2,
+        "timestamp": 1637793856,
+        "published": "November 24, 2021 5:44 PM"
+    },
+    {
+        "title": "Southern California could face most dangerous fire weather yet over holiday",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/24/southern-california-could-face-most-dangerous-fire-weather-yet-over-holiday",
+        "sentiment": -4,
+        "timestamp": 1637798271,
+        "published": "November 24, 2021 6:57 PM"
+    },
+    {
+        "title": "Apple stops all sales in Turkey after the collapse of the Turkish Lira",
+        "domain": "notebookcheck.net",
+        "category": "worldnews",
+        "link": "https://www.notebookcheck.net/Apple-stops-all-sales-in-Turkey-after-the-collapse-of-the-Turkish-Lira.581233.0.html",
+        "sentiment": -3,
+        "timestamp": 1637805953,
+        "published": "November 24, 2021 9:05 PM"
+    },
+    {
+        "title": "Original Jubilee Will Not Reprise Role In X-Men Revival, Says She Should Be Played By An Asian Voice Actor",
+        "domain": "thegamer.com",
+        "category": "television",
+        "link": "https://www.thegamer.com/original-jubilee-will-not-reprise-role-in-x-men-revival-says-she-should-be-played-by-an-asian-voice-actor/",
+        "sentiment": 0,
+        "timestamp": 1637810361,
+        "published": "November 24, 2021 10:19 PM"
+    },
+    {
+        "title": "Elizabeth Holmes says she forged pharma reports—for all the right reasons",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/11/elizabeth-holmes-says-she-forged-pharma-reports-for-all-the-right-reasons/",
+        "sentiment": 0,
+        "timestamp": 1637810808,
+        "published": "November 24, 2021 10:26 PM"
+    },
+    {
+        "title": "Company Promises 'Seamless Parking Experience' In Exchange For The Permission To Track App Users All Over The Internet",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211121/17105247985/company-promises-seamless-parking-experience-exchange-permission-to-track-app-users-all-over-internet.shtml",
+        "sentiment": 1,
+        "timestamp": 1637811314,
+        "published": "November 24, 2021 10:35 PM"
+    },
+    {
         "title": "South Dakota Supreme Court Squashes Recreational Marijuana Law Approved by Voters",
         "domain": "commondreams.org",
         "category": "politics",
