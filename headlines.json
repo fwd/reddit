@@ -1,5 +1,95 @@
 [
     {
+        "title": "Virginia lieutenant governor-elect praises jury's verdict in Arbery case",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/583037-virginia-lieutenant-governor-elect-praises-verdict-in-arbery-killing-trial",
+        "sentiment": 2,
+        "timestamp": 1637838252,
+        "published": "November 25, 2021 6:04 AM"
+    },
+    {
+        "title": "Vladimir Putin takes experimental nasal vaccine against Covid-19",
+        "domain": "breakingnews.ie",
+        "category": "news",
+        "link": "https://www.breakingnews.ie/world/vladimir-putin-takes-experimental-nasal-vaccine-against-covid-19-1218486.html",
+        "sentiment": 0,
+        "timestamp": 1637847931,
+        "published": "November 25, 2021 8:45 AM"
+    },
+    {
+        "title": "Interpol has a new President, United Arab Emirates' General Ahmed Naser al-Raisi. He has a doctorate from London Metropolitan University, and accusations of torture and illegal arrests of dissidents.",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-11-25/interpol-elects-united-arab-emirates-official-as-president?utm_source=google&utm_medium=bd&cmpId=google",
+        "sentiment": -10,
+        "timestamp": 1637851366,
+        "published": "November 25, 2021 9:42 AM"
+    },
+    {
+        "title": "Germany is giving nearly two million workers a 25% pay rise",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/25/economy/germany-minimum-wage/index.html",
+        "sentiment": 0,
+        "timestamp": 1637853652,
+        "published": "November 25, 2021 10:20 AM"
+    },
+    {
+        "title": "South Korea considers ban on eating dog meat as it launches taskforce",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10242919/South-Korea-considers-ban-eating-dog-meat-launches-taskforce.html",
+        "sentiment": -2,
+        "timestamp": 1637853973,
+        "published": "November 25, 2021 10:26 AM"
+    },
+    {
+        "title": "A Gov.uk site dedicated to porn? Absolutely. Best of British Porn? Not Quite.",
+        "domain": "thecrow.uk",
+        "category": "technology",
+        "link": "https://thecrow.uk/A-Gov.uk-site-dedicated-to-porn-Absolutely/",
+        "sentiment": 5,
+        "timestamp": 1637855347,
+        "published": "November 25, 2021 10:49 AM"
+    },
+    {
+        "title": "Hundreds of FedEx packages were found tossed into an Alabama ravine, sheriff says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/25/us/alabama-fedex-packages/index.html",
+        "sentiment": 0,
+        "timestamp": 1637856133,
+        "published": "November 25, 2021 11:02 AM"
+    },
+    {
+        "title": "Instagram CEO Adam Mosseri to testify before Congress amid damning allegations",
+        "domain": "nypost.com",
+        "category": "technology",
+        "link": "https://nypost.com/2021/11/25/instagram-ceo-adam-mosseri-to-testify-before-congress/",
+        "sentiment": -2,
+        "timestamp": 1637857516,
+        "published": "November 25, 2021 11:25 AM"
+    },
+    {
+        "title": "‘New era’ as German coalition prioritises rail spending over road",
+        "domain": "railwaygazette.com",
+        "category": "technology",
+        "link": "https://www.railwaygazette.com/policy/new-era-as-german-coalition-prioritises-rail-spending-over-road/60398.article",
+        "sentiment": 0,
+        "timestamp": 1637858015,
+        "published": "November 25, 2021 11:33 AM"
+    },
+    {
+        "title": "Israel restricts cyberweapons export list by two-thirds, from 102 to 37 countries",
+        "domain": "therecord.media",
+        "category": "technology",
+        "link": "https://therecord.media/israel-restricts-cyberweapons-export-list-by-two-thirds-from-102-to-37-countries/",
+        "sentiment": -2,
+        "timestamp": 1637858040,
+        "published": "November 25, 2021 11:34 AM"
+    },
+    {
         "title": "CIA Chief Warns Russians of Consequences If They Caused ‘Havana Syndrome'",
         "domain": "nbcbayarea.com",
         "category": "politics",
