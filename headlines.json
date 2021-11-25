@@ -1,5 +1,50 @@
 [
     {
+        "title": "‘He is responsible for torture’: nominee for Interpol chief accused by detained Britons | Interpol",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/20/uae-nominee-interpol-ahmed-naser-al-raisi-torture-claims",
+        "sentiment": -2,
+        "timestamp": 1637827949,
+        "published": "November 25, 2021 3:12 AM"
+    },
+    {
+        "title": "North Korean man reportedly sentenced to death for bootlegging Squid Game",
+        "domain": "avclub.com",
+        "category": "news",
+        "link": "https://www.avclub.com/north-korean-man-sentenced-to-death-for-bootlegging-squ-1848120565",
+        "sentiment": -4,
+        "timestamp": 1637833500,
+        "published": "November 25, 2021 4:45 AM"
+    },
+    {
+        "title": "Romanian thieves ‘stole 2 million dollars worth of diesel’ from U.S. Army at Black Sea air base",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/commodities/romanian-prosecutors-investigate-diesel-theft-us-military-base-2021-11-24/",
+        "sentiment": 2,
+        "timestamp": 1637834242,
+        "published": "November 25, 2021 4:57 AM"
+    },
+    {
+        "title": "BBC Three, the Digital Platform That’s Home to ‘Fleabag’ and ‘Normal People,’ Will Return as a Broadcast Channel in February",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/bbc-three-channel-ofcom-1235119769/",
+        "sentiment": 0,
+        "timestamp": 1637839720,
+        "published": "November 25, 2021 6:28 AM"
+    },
+    {
+        "title": "Happy Thanksgiving Reddit! - from Vincent Price (SNL)!",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/5vjMnm_JIOs",
+        "sentiment": 3,
+        "timestamp": 1637840959,
+        "published": "November 25, 2021 6:49 AM"
+    },
+    {
         "title": "The Grand Tour Presents: Carnage A Trois | Official Trailer",
         "domain": "youtube.com",
         "category": "television",
