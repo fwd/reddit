@@ -1,5 +1,68 @@
 [
     {
+        "title": "Group of doctors contract COVID-19 following Florida anti-vaccine summit",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/changing-america/well-being/582992-group-of-doctors-contract-covid-19-following-florida-anti-vaccine",
+        "sentiment": 0,
+        "timestamp": 1637833111,
+        "published": "November 25, 2021 4:38 AM"
+    },
+    {
+        "title": "South Korea to launch task force on banning dog meat. South Korea says it will launch a task force to consider outlawing dog meat consumption after the country’s president offered to look into ending the centuries-old practice",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/south-korea-launch-task-force-banning-dog-meat-81390234",
+        "sentiment": 0,
+        "timestamp": 1637834362,
+        "published": "November 25, 2021 4:59 AM"
+    },
+    {
+        "title": "U.S. Justice Department to step up prosecution of unruly air passengers",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/us-justice-department-step-up-prosecution-unruly-air-passengers-2021-11-24/",
+        "sentiment": 1,
+        "timestamp": 1637836168,
+        "published": "November 25, 2021 5:29 AM"
+    },
+    {
+        "title": "Iran tampered with victims’ phones, tablets after flight PS752 crash",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8399211/iran-tampered-victims-devices-ps752-crash/",
+        "sentiment": -2,
+        "timestamp": 1637838147,
+        "published": "November 25, 2021 6:02 AM"
+    },
+    {
+        "title": "Canadian school pulls event with former Islamic State sex slave over fears it would 'foster Islamophobia'",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2021/11/24/school-pulls-event-former-islamic-state-sex-slave-fears-would/",
+        "sentiment": -3,
+        "timestamp": 1637839331,
+        "published": "November 25, 2021 6:22 AM"
+    },
+    {
+        "title": "US libraries report spike in organised attempts to ban books in schools",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/books/2021/nov/25/us-libraries-report-spike-in-organised-attempts-to-ban-books-in-schools",
+        "sentiment": -2,
+        "timestamp": 1637840358,
+        "published": "November 25, 2021 6:39 AM"
+    },
+    {
+        "title": "Off-duty N.J. officer fatally struck pedestrian, put body in car, prosecutor says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/-duty-nj-officer-fatally-struck-pedestrian-put-body-car-prosecutor-say-rcna6713",
+        "sentiment": -1,
+        "timestamp": 1637841166,
+        "published": "November 25, 2021 6:52 AM"
+    },
+    {
         "title": "‘He is responsible for torture’: nominee for Interpol chief accused by detained Britons | Interpol",
         "domain": "theguardian.com",
         "category": "worldnews",
