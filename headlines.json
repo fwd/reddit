@@ -1,5 +1,68 @@
 [
     {
+        "title": "NASA confirms existence of hundreds of new worlds outside our solar system",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/nasa-confirms-existence-hundreds-new-worlds-exoplanets-exominer-1652390",
+        "sentiment": 0,
+        "timestamp": 1637848502,
+        "published": "November 25, 2021 8:55 AM"
+    },
+    {
+        "title": "US to require vaccines for all border crossers in January",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/coronavirus-pandemic-joe-biden-business-health-07c377d92f85bc061bf7e2c690f4bbca",
+        "sentiment": 0,
+        "timestamp": 1637862845,
+        "published": "November 25, 2021 12:54 PM"
+    },
+    {
+        "title": "Burial Ground Under the Alamo Stirs a Texas Feud - Native Americans built the Alamo and hundreds of converts were buried there. Descendants are now fuming because Texas has rejected efforts to protect the site.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/25/us/alamo-burial-native-americans.html",
+        "sentiment": -2,
+        "timestamp": 1637865507,
+        "published": "November 25, 2021 1:38 PM"
+    },
+    {
+        "title": "Biden’s $1.75trn social spending plan passes House, putting his agenda in Senate’s hands",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/biden-build-back-better-house-vote-b1960552.html",
+        "sentiment": 0,
+        "timestamp": 1637867065,
+        "published": "November 25, 2021 2:04 PM"
+    },
+    {
+        "title": "WHO urges fully vaccinated people to continue to wear masks as delta Covid variant spreads",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/06/25/delta-who-urges-fully-vaccinated-people-to-continue-to-wear-masks-as-variant-spreads.html",
+        "sentiment": 0,
+        "timestamp": 1637868146,
+        "published": "November 25, 2021 2:22 PM"
+    },
+    {
+        "title": "Former Apple worker inspires Washington state measure seeking to curb NDAs",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/world/us/former-apple-worker-inspires-washington-state-measure-seeking-curb-ndas-2021-11-24/",
+        "sentiment": 2,
+        "timestamp": 1637868863,
+        "published": "November 25, 2021 2:34 PM"
+    },
+    {
+        "title": "Ignoring decades of disaster films, NASA wants to put a nuclear plant on the Moon",
+        "domain": "avclub.com",
+        "category": "technology",
+        "link": "https://www.avclub.com/ignoring-decades-of-disaster-films-nasa-wants-to-put-a-1848109394",
+        "sentiment": -2,
+        "timestamp": 1637869675,
+        "published": "November 25, 2021 2:47 PM"
+    },
+    {
         "title": "JPMorgan CEO Jamie Dimon apologizes for saying JPMorgan will outlast China's Communist Party",
         "domain": "news.yahoo.com",
         "category": "worldnews",
