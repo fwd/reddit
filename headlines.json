@@ -1,5 +1,23 @@
 [
     {
+        "title": "Dollar Tree raising prices to $1.25",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Business/wireStory/dollar-tree-makes-official-items-now-cost-125-81361316",
+        "sentiment": 0,
+        "timestamp": 1637818484,
+        "published": "November 25, 2021 12:34 AM"
+    },
+    {
+        "title": "Gray wolf whose 'epic' travels captured headlines is killed in Southern California. Wildlife officials believe the wolf, known as OR93, was hit by a vehicle.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/gray-wolf-whose-epic-travels-captured-headlines-killed-california-rcna6697",
+        "sentiment": -4,
+        "timestamp": 1637821837,
+        "published": "November 25, 2021 1:30 AM"
+    },
+    {
         "title": "Russian doctors invite prominent anti-vaccine voices to visit COVID-19 hospitals",
         "domain": "euronews.com",
         "category": "worldnews",
