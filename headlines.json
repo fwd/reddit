@@ -1,5 +1,131 @@
 [
     {
+        "title": "Uber takes its first step into the cannabis market",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/business-59342016",
+        "sentiment": 0,
+        "timestamp": 1637866043,
+        "published": "November 25, 2021 1:47 PM"
+    },
+    {
+        "title": "Young activists sue Boris Johnson for failure to tackle climate crisis",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/25/young-activists-sue-boris-johnson-over-failure-to-tackle-climate-crisis",
+        "sentiment": -7,
+        "timestamp": 1637866275,
+        "published": "November 25, 2021 1:51 PM"
+    },
+    {
+        "title": "Bart the Bear dies",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/25/us/bart-the-bear-dies/index.html",
+        "sentiment": 0,
+        "timestamp": 1637869361,
+        "published": "November 25, 2021 2:42 PM"
+    },
+    {
+        "title": "Scientists call for travel ‘code red’ over Covid variant found in southern Africa",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/25/scientists-call-for-travel-code-red-over-covid-variant-found-in-southern-africa",
+        "sentiment": 0,
+        "timestamp": 1637871557,
+        "published": "November 25, 2021 3:19 PM"
+    },
+    {
+        "title": "Danish Navy kills four pirates in firefight in Gulf of Guinea",
+        "domain": "cphpost.dk",
+        "category": "news",
+        "link": "https://cphpost.dk/?p=129704",
+        "sentiment": -3,
+        "timestamp": 1637871890,
+        "published": "November 25, 2021 3:24 PM"
+    },
+    {
+        "title": "US libraries report spike in organised attempts to ban books in schools | The American Library Association, which monitors ‘challenges’ to books, says social media have amplified protests to the highest number for decades",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/books/2021/nov/25/us-libraries-report-spike-in-organised-attempts-to-ban-books-in-schools",
+        "sentiment": -4,
+        "timestamp": 1637871921,
+        "published": "November 25, 2021 3:25 PM"
+    },
+    {
+        "title": "Covid: New heavily mutated variant B.1.1.529 in South Africa raises concern",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/health-59418127",
+        "sentiment": 0,
+        "timestamp": 1637872401,
+        "published": "November 25, 2021 3:33 PM"
+    },
+    {
+        "title": "Pro-Trump conspiracist says ‘millions’ are watching his Thanksgiving TV special – but only a few dozen seem to be",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mike-lindell-thanksgiving-tv-special-b1964443.html",
+        "sentiment": 0,
+        "timestamp": 1637872851,
+        "published": "November 25, 2021 3:40 PM"
+    },
+    {
+        "title": "Webb Telescope Not Damaged Following Recent Incident, NASA Says",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/webb-telescope-not-damaged-following-mounting-incident-1848122047",
+        "sentiment": 3,
+        "timestamp": 1637873264,
+        "published": "November 25, 2021 3:47 PM"
+    },
+    {
+        "title": "British scientists warn of 'horrific' new COVID-19 variant; only 10 cases so far",
+        "domain": "montrealgazette.com",
+        "category": "worldnews",
+        "link": "https://montrealgazette.com/news/world/british-scientists-warn-of-new-covid-19-variant-only-10-cases-so-far/wcm/20ad33da-fa26-4e40-bdb9-e214c9b968d4",
+        "sentiment": -2,
+        "timestamp": 1637874472,
+        "published": "November 25, 2021 4:07 PM"
+    },
+    {
+        "title": "American Auto promo - New NBC comedy from the creator of Superstore",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=lj3v1auJ0co",
+        "sentiment": 1,
+        "timestamp": 1637874639,
+        "published": "November 25, 2021 4:10 PM"
+    },
+    {
+        "title": "French app fighting violence against women brings ‘revolution’ to Morocco",
+        "domain": "france24.com",
+        "category": "technology",
+        "link": "https://www.france24.com/en/africa/20211125-french-app-fighting-violence-against-women-brings-a-revolution-to-morocco",
+        "sentiment": -5,
+        "timestamp": 1637875469,
+        "published": "November 25, 2021 4:24 PM"
+    },
+    {
+        "title": "Cinder Calhoun on Thanksgiving",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/dFid15XOwPo",
+        "sentiment": 0,
+        "timestamp": 1637876375,
+        "published": "November 25, 2021 4:39 PM"
+    },
+    {
+        "title": "U.K. Film, TV Executives Welcome Return of Transatlantic Travel But Warn of Environmental Implications",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/biz/news/uk-us-travel-ban-lifts-november-2021-1235119155/",
+        "sentiment": 0,
+        "timestamp": 1637876909,
+        "published": "November 25, 2021 4:48 PM"
+    },
+    {
         "title": "‘Cancun is much nicer than Cabo’: Ted Cruz mocks Gavin Newsom’s vacation with reference to his own scandal",
         "domain": "independent.co.uk",
         "category": "politics",
