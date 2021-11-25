@@ -1,5 +1,104 @@
 [
     {
+        "title": "Alberta meatpackers at Cargill set to strike after 98 per cent reject contract offer",
+        "domain": "calgarysun.com",
+        "category": "worldnews",
+        "link": "https://calgarysun.com/news/local-news/cargill-union-members-set-to-strike-after-98-per-cent-reject-contract-offer",
+        "sentiment": -2,
+        "timestamp": 1637856122,
+        "published": "November 25, 2021 11:02 AM"
+    },
+    {
+        "title": "He spent years in prison for the rape of author Alice Sebold, the subject of her memoir, 'Lucky.' A judge just exonerated him",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/24/us/anthony-broadwater-alice-sebold-rape-exoneration/index.html",
+        "sentiment": -4,
+        "timestamp": 1637856969,
+        "published": "November 25, 2021 11:16 AM"
+    },
+    {
+        "title": "It Wasn’t a Hoax - People with scant illusions about Trump are volunteering to help him execute one of his Big Lies.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/ideas/archive/2021/11/trump-russia-senate-intelligence-report/620815/",
+        "sentiment": 1,
+        "timestamp": 1637857441,
+        "published": "November 25, 2021 11:24 AM"
+    },
+    {
+        "title": "Army officer who wrote to McCain about detainee torture in Iraq, Afghanistan, dies at 42",
+        "domain": "stripes.com",
+        "category": "news",
+        "link": "https://www.stripes.com/veterans/obituaries/2021-11-24/army-maj-ian-fishback-mccain-torture-iraq-afghanistan-dies-3744312.html",
+        "sentiment": -4,
+        "timestamp": 1637857490,
+        "published": "November 25, 2021 11:24 AM"
+    },
+    {
+        "title": "Scientists use seismic noise to image first hundred meters of Mars",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/11/scientists-use-seismic-noise-to-image-first-hundred-meters-of-mars/",
+        "sentiment": 0,
+        "timestamp": 1637857723,
+        "published": "November 25, 2021 11:28 AM"
+    },
+    {
+        "title": "America's democracy is failing — and the world knows it",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/america-s-democracy-failing-world-knows-it-n1284597",
+        "sentiment": -2,
+        "timestamp": 1637859699,
+        "published": "November 25, 2021 12:01 PM"
+    },
+    {
+        "title": "Roger Stone Claims Ex-Trump Aide Katrina Pierson 'Deeply Involved' With Jan. 6 Violence",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/roger-stone-claims-ex-trump-aide-katrina-pierson-deeply-involved-jan-6-violence-1653368",
+        "sentiment": -3,
+        "timestamp": 1637860127,
+        "published": "November 25, 2021 12:08 PM"
+    },
+    {
+        "title": "We Baby Bears Official Trailer | Cartoon Network",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/j3qoY533JrU",
+        "sentiment": 0,
+        "timestamp": 1637860313,
+        "published": "November 25, 2021 12:11 PM"
+    },
+    {
+        "title": "Hillary Clinton Said Crypto Should Be Strongly Regulated To Avoid Technological Manipulation From Russia, China, And Others",
+        "domain": "thecryptobasic.com",
+        "category": "technology",
+        "link": "https://thecryptobasic.com/2021/11/25/hillary-clinton-said-crypto-should-be-strongly-regulated-to-avoid-technological-manipulation-from-russia-china-and-others/",
+        "sentiment": -2,
+        "timestamp": 1637860715,
+        "published": "November 25, 2021 12:18 PM"
+    },
+    {
+        "title": "'Super Crooks' Is a Superhero Anime on Netflix That's All About the Supervillains",
+        "domain": "distractify.com",
+        "category": "television",
+        "link": "https://www.distractify.com/p/what-is-super-crooks-about",
+        "sentiment": 0,
+        "timestamp": 1637860813,
+        "published": "November 25, 2021 12:20 PM"
+    },
+    {
+        "title": "Russia cracks down on anti-vaxxer disinformation as inoculation push lags behind",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/world/russia-cracks-down-anti-vaxxer-disinformation-inoculation-push-lags-behind-2021-11-24/?rpc=401&",
+        "sentiment": -2,
+        "timestamp": 1637861693,
+        "published": "November 25, 2021 12:34 PM"
+    },
+    {
         "title": "Virginia lieutenant governor-elect praises jury's verdict in Arbery case",
         "domain": "thehill.com",
         "category": "politics",
