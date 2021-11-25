@@ -1,5 +1,122 @@
 [
     {
+        "title": "JPMorgan CEO Jamie Dimon apologizes for saying JPMorgan will outlast China's Communist Party",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/jamie-dimon-apologizes-saying-jpmorgan-155442899.html",
+        "sentiment": -1,
+        "timestamp": 1637847579,
+        "published": "November 25, 2021 8:39 AM"
+    },
+    {
+        "title": "WHO says fully vaccinated should wear masks and physically distance as Covid infections surge",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/24/who-tells-fully-vaccinated-to-wear-masks-physically-distance-as-infections-surge.html",
+        "sentiment": -2,
+        "timestamp": 1637848976,
+        "published": "November 25, 2021 9:02 AM"
+    },
+    {
+        "title": "German government will push for a European federation: The Social Democrats, Greens and the liberal FDP announced that a ‘traffic light’ coalition between the three parties would push for the development of a fully-fledged European federation.",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/politics/short_news/german-government-will-push-for-a-european-federation/",
+        "sentiment": 0,
+        "timestamp": 1637850666,
+        "published": "November 25, 2021 9:31 AM"
+    },
+    {
+        "title": "Spanish police recover rare 2,000-year-old Iberian sword. More than 2,000 years after it was last wielded by a warrior somewhere on the Iberian peninsula, a rare, magnificent – and plundered – sword has been recovered by Spanish police, who tracked it down before it was sold online.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/25/spanish-police-recover-rare-2000-year-old-iberian-sword",
+        "sentiment": 3,
+        "timestamp": 1637850684,
+        "published": "November 25, 2021 9:31 AM"
+    },
+    {
+        "title": "New maps spark debate over majority-minority districts",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/race-and-ethnicity-michigan-detroit-legislature-voting-rights-17e13485181cead5b1c1da5759fcd35b",
+        "sentiment": 1,
+        "timestamp": 1637855850,
+        "published": "November 25, 2021 10:57 AM"
+    },
+    {
+        "title": "Philippine government lawyers have opposed Nobel Peace Prize winner Maria Ressa going to Oslo next month to collect her award in person, describing the journalist in court documents as \"a flight risk\"",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211125-philippines-opposes-nobel-prize-winner-ressa-going-to-oslo",
+        "sentiment": 7,
+        "timestamp": 1637857495,
+        "published": "November 25, 2021 11:24 AM"
+    },
+    {
+        "title": "Weed lounges are coming to a city near you",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343",
+        "sentiment": 0,
+        "timestamp": 1637859706,
+        "published": "November 25, 2021 12:01 PM"
+    },
+    {
+        "title": "Biden admin. approves construction of major wind farm for Rhode Island",
+        "domain": "upi.com",
+        "category": "politics",
+        "link": "https://www.upi.com/Top_News/US/2021/11/24/Rhode-Island-wind-farm-approved/5741637813839/",
+        "sentiment": 2,
+        "timestamp": 1637861927,
+        "published": "November 25, 2021 12:38 PM"
+    },
+    {
+        "title": "Italy takes in National Geographic's green-eyed 'Afghan Girl'",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/asia-pacific/italy-takes-national-geographics-green-eyed-afghan-girl-2021-11-25/?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3RVYjJikARigQ7OGYRGfwjhLMsxw0j0_zpM54LMpSeUNbgyTT-DgQoWSE",
+        "sentiment": 0,
+        "timestamp": 1637862601,
+        "published": "November 25, 2021 12:50 PM"
+    },
+    {
+        "title": "Female Doctor Who robs boys of role models, claims Tory MP",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/uk-politics-59421259",
+        "sentiment": -2,
+        "timestamp": 1637862883,
+        "published": "November 25, 2021 12:54 PM"
+    },
+    {
+        "title": "Japan to launch bank-deposit-backed digital currency in 2022",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022",
+        "sentiment": 0,
+        "timestamp": 1637864406,
+        "published": "November 25, 2021 1:20 PM"
+    },
+    {
+        "title": "Disney to Spend $33 Billion on Content in 2022",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/disney-streaming-33-billion-spending-plan-2022-1235119451/",
+        "sentiment": 0,
+        "timestamp": 1637865715,
+        "published": "November 25, 2021 1:41 PM"
+    },
+    {
+        "title": "These nuns could force Microsoft to put its money where its mouth is - A shareholder proposal filed by the Sisters of St. Joseph of Peace would require Microsoft to report whether its private lobbying aligns with its public statements.",
+        "domain": "protocol.com",
+        "category": "technology",
+        "link": "https://www.protocol.com/policy/microsoft-lobbying-shareholder-proposal",
+        "sentiment": 0,
+        "timestamp": 1637866124,
+        "published": "November 25, 2021 1:48 PM"
+    },
+    {
         "title": "Alberta meatpackers at Cargill set to strike after 98 per cent reject contract offer",
         "domain": "calgarysun.com",
         "category": "worldnews",
