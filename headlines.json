@@ -1,5 +1,77 @@
 [
     {
+        "title": "Trump argues Jan. 6 panel could permanently damage the presidency with its pursuit of White House records - An appeals court is scheduled to hear oral arguments in the case next week",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/donald-trump/trump-argues-jan-6-panel-s-pursuit-his-records-could-n1284604",
+        "sentiment": -3,
+        "timestamp": 1637836444,
+        "published": "November 25, 2021 5:34 AM"
+    },
+    {
+        "title": "Dutch hospitals postpone chemotherapy, organ transplants due to COVID-19 surge",
+        "domain": "channelnewsasia.com",
+        "category": "worldnews",
+        "link": "https://www.channelnewsasia.com/world/netherlands-dutch-hospitals-icu-covid-19-cases-2338221",
+        "sentiment": -1,
+        "timestamp": 1637837844,
+        "published": "November 25, 2021 5:57 AM"
+    },
+    {
+        "title": "Guy Turns Old Tires Into Beautiful Cozy Beds For 6,000 Stray Dogs And Cats in Brazil",
+        "domain": "goodnewsnetwork.org",
+        "category": "worldnews",
+        "link": "https://www.goodnewsnetwork.org/amarildo-silva-filho-caminhas-pets-brazil-tires-repurposed/",
+        "sentiment": 3,
+        "timestamp": 1637839821,
+        "published": "November 25, 2021 6:30 AM"
+    },
+    {
+        "title": "Polyp removed during Biden's colonoscopy is 'benign' -White House physician",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/polyp-removed-during-bidens-colonoscopy-is-benign-white-house-physician-2021-11-25/",
+        "sentiment": 0,
+        "timestamp": 1637841431,
+        "published": "November 25, 2021 6:57 AM"
+    },
+    {
+        "title": "Eric Trump threatened to sue a website after it suggested he spoke to Jan. 6 organizers on burner phones",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/eric-trump-threatens-sue-the-palmer-report-burner-phone-report-2021-11",
+        "sentiment": -4,
+        "timestamp": 1637846840,
+        "published": "November 25, 2021 8:27 AM"
+    },
+    {
+        "title": "African company works to replicate Moderna's COVID vaccine, without permission, to address unequal access",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/covid-vaccine-africa-inequality-afrigen-replicating-moderna-formula/",
+        "sentiment": -1,
+        "timestamp": 1637848447,
+        "published": "November 25, 2021 8:54 AM"
+    },
+    {
+        "title": "UK company introduces four-day work week without cutting pay",
+        "domain": "heart.co.uk",
+        "category": "news",
+        "link": "https://www.heart.co.uk/lifestyle/uk-company-four-day-work-week/",
+        "sentiment": -2,
+        "timestamp": 1637850111,
+        "published": "November 25, 2021 9:21 AM"
+    },
+    {
+        "title": "Deep-learning algorithms can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists",
+        "domain": "nature.com",
+        "category": "technology",
+        "link": "https://www.nature.com/articles/d41586-021-03499-y?utm_source=twt_nat&utm_medium=social&utm_campaign=nature",
+        "sentiment": 1,
+        "timestamp": 1637851729,
+        "published": "November 25, 2021 9:48 AM"
+    },
+    {
         "title": "AG Garland directs federal prosecutors to prioritize cases involving violence on flights",
         "domain": "edition.cnn.com",
         "category": "politics",
