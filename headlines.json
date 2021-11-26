@@ -1,5 +1,50 @@
 [
     {
+        "title": "China Asks Didi to Delist From U.S. On Security Fears",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2021-11-26/china-is-said-to-ask-didi-to-delist-from-u-s-on-security-fears?sref=BXV5fZtz&fbclid=IwAR3EmRnOyT7nGdbXV4GXS5jDLl9_r_35eH9KOp39vNyXTE0jkfKCaJmKdl8",
+        "sentiment": 0,
+        "timestamp": 1637906274,
+        "published": "November 26, 2021 12:57 AM"
+    },
+    {
+        "title": "HIV drug resistance is on the rise, according to a new report. Nearly half of newly diagnosed infants in 10 countries have drug-resistant HIV, study finds, underlining need for new alternatives.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/global-development/2021/nov/25/warning-hiv-who-finds-rise-resistance-antiretroviral-drugs",
+        "sentiment": 1,
+        "timestamp": 1637909705,
+        "published": "November 26, 2021 1:55 AM"
+    },
+    {
+        "title": "Afghan Girls Being Exchanged For Food As Famine Nears",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/ewelinaochab/2021/11/25/afghan-girls-being-exchanged-for-food-as-famine-nears/amp/",
+        "sentiment": -2,
+        "timestamp": 1637911915,
+        "published": "November 26, 2021 2:31 AM"
+    },
+    {
+        "title": "Kuo: Apple plans to replace the iPhone with AR in 10 years",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2021/11/25/kuo-apple-plans-to-replace-the-iphone-with-ar-in-10-years/",
+        "sentiment": 0,
+        "timestamp": 1637912644,
+        "published": "November 26, 2021 2:44 AM"
+    },
+    {
+        "title": "Stargate Creator’s New Series Would Reveal The Gate To the World",
+        "domain": "gateworld.net",
+        "category": "television",
+        "link": "https://www.gateworld.net/news/2021/11/stargate-creators-new-series-would-reveal-gate-world/",
+        "sentiment": 0,
+        "timestamp": 1637916170,
+        "published": "November 26, 2021 3:42 AM"
+    },
+    {
         "title": "The World Health Organization will meet on Friday to assess a new variant detected in South Africa that is feared to be the worst Covid-19 variant yet identified. The variant, which was identified on Tuesday, initially attracted attention because it carries an “extremely high number” of mutations.",
         "domain": "theguardian.com",
         "category": "worldnews",
