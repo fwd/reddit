@@ -1,5 +1,95 @@
 [
     {
+        "title": "Canada enacts travel restrictions for southern Africa in light of new COVID-19 variant",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8404373/canada-travel-restrictions-south-africa-covid-19-variant/?utm_medium=Twitter&utm_source=%40globalnews",
+        "sentiment": 0,
+        "timestamp": 1637953855,
+        "published": "November 26, 2021 2:10 PM"
+    },
+    {
+        "title": "US says \"all options on the table\" over Russia's troop build-up in Ukraine",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/europe/us-state-dept-says-all-options-table-over-russian-troop-build-up-near-ukraine-2021-11-26/",
+        "sentiment": 0,
+        "timestamp": 1637956836,
+        "published": "November 26, 2021 3:00 PM"
+    },
+    {
+        "title": "Oil and gas companies should pay more to drill on public lands and waters, Interior Department says",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/climate-environment/2021/11/26/biden-oil-gas-drill-public-lands/",
+        "sentiment": -1,
+        "timestamp": 1637958480,
+        "published": "November 26, 2021 3:28 PM"
+    },
+    {
+        "title": "New Paris mask mandate as variant found in Belgium",
+        "domain": "rte.ie",
+        "category": "worldnews",
+        "link": "https://www.rte.ie/news/coronavirus/2021/1126/1263265-coronavirus-global/",
+        "sentiment": 0,
+        "timestamp": 1637958822,
+        "published": "November 26, 2021 3:33 PM"
+    },
+    {
+        "title": "Survivor found in coal mine accident in Russia's Siberia",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-europe-explosions-russia-fires-3bbb8ef83242935c57c0a561f0ea32be",
+        "sentiment": 0,
+        "timestamp": 1637959141,
+        "published": "November 26, 2021 3:39 PM"
+    },
+    {
+        "title": "New omicron variant stokes world fears, triggers travel bans",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-new-variant-southern-africa-33fa0983af6c9f961a186f4f4bb1147d",
+        "sentiment": 0,
+        "timestamp": 1637960341,
+        "published": "November 26, 2021 3:59 PM"
+    },
+    {
+        "title": "Facebook and Google are paying millions in the form of ad dollars to bankroll clickbait actors around the world.",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/?utm_source=Twitter&utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement",
+        "sentiment": 0,
+        "timestamp": 1637961380,
+        "published": "November 26, 2021 4:16 PM"
+    },
+    {
+        "title": "U.S. President Biden calls for intellectual property protection waivers on COVID-19 vaccines",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-president-biden-calls-intellectual-property-protection-waivers-covid-19-2021-11-26/",
+        "sentiment": 0,
+        "timestamp": 1637962315,
+        "published": "November 26, 2021 4:31 PM"
+    },
+    {
+        "title": "Australian council to ban cats outside unless they are on a lead",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/australian-council-in-freemantle-to-ban-cats-outside-unless-they-are-on-a-lead-12479278?dcmp=snt-sf-twitter",
+        "sentiment": -2,
+        "timestamp": 1637962903,
+        "published": "November 26, 2021 4:41 PM"
+    },
+    {
+        "title": "Dow tumbles 900 points for worst day of year on fears of new Covid variant, S&P 500 drops 2%",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/26/stock-futures-open-to-close-market-news.html",
+        "sentiment": -3,
+        "timestamp": 1637963166,
+        "published": "November 26, 2021 4:46 PM"
+    },
+    {
         "title": "Merrick Garland Gets Political, Whether He Likes It or Not - He’s in a perilous position of his own making.",
         "domain": "nymag.com",
         "category": "politics",
