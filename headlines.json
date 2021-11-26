@@ -1,5 +1,32 @@
 [
     {
+        "title": "France scraps UK talks over Johnson migrants letter",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59428311",
+        "sentiment": 0,
+        "timestamp": 1637912331,
+        "published": "November 26, 2021 2:38 AM"
+    },
+    {
+        "title": "Life without reliable internet remains a daily struggle for millions of Americans",
+        "domain": "npr.org",
+        "category": "technology",
+        "link": "https://www.npr.org/2021/11/22/1037941547/life-without-reliable-broadband-internet-remains-a-daily-struggle-in-nevada",
+        "sentiment": 0,
+        "timestamp": 1637920360,
+        "published": "November 26, 2021 4:52 AM"
+    },
+    {
+        "title": "'Afghan Girl' from National Geographic magazine cover granted refugee status in Italy",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/style/article/afghan-girl-national-geographic-italy-scli-intl/index.html",
+        "sentiment": 1,
+        "timestamp": 1637920747,
+        "published": "November 26, 2021 4:59 AM"
+    },
+    {
         "title": "Five US lawmakers defy China by meeting with officials in Taiwan",
         "domain": "edition.cnn.com",
         "category": "politics",
