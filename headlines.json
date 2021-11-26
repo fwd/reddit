@@ -1,5 +1,86 @@
 [
     {
+        "title": "U.S. hikes duty on Canadian softwood lumber to 17.9% — twice the old rate",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/business/softwood-lumber-1.6262036",
+        "sentiment": 0,
+        "timestamp": 1637868397,
+        "published": "November 25, 2021 2:26 PM"
+    },
+    {
+        "title": "Who’s Afraid of Saule Omarova? How a Joe Biden nominee became the target of a ludicrous red-baiting campaign",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2021/11/whos-afraid-of-saule-omarova.html",
+        "sentiment": -5,
+        "timestamp": 1637881404,
+        "published": "November 25, 2021 6:03 PM"
+    },
+    {
+        "title": "Man who fired shots near Royal Canadian Mounted Police in British Columbia is in custody",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/25/americas/british-columbia-vanderhoof-shots-fired/index.html",
+        "sentiment": -2,
+        "timestamp": 1637881846,
+        "published": "November 25, 2021 6:10 PM"
+    },
+    {
+        "title": "Brexit: French fishermen plan to block Channel Tunnel over fishing licence row",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/brexit-french-fishermen-plan-to-block-channel-tunnel-over-fishing-licence-row-12478472",
+        "sentiment": -1,
+        "timestamp": 1637883043,
+        "published": "November 25, 2021 6:30 PM"
+    },
+    {
+        "title": "Woman arrested in Vancouver after posing as a hospital nurse: police",
+        "domain": "vancouversun.com",
+        "category": "news",
+        "link": "https://vancouversun.com/news/woman-arrested-in-vancouver-after-posing-as-a-hospital-nurse-police",
+        "sentiment": -3,
+        "timestamp": 1637888434,
+        "published": "November 25, 2021 8:00 PM"
+    },
+    {
+        "title": "Boy shoots down French military drone over Burkina Faso with slingshot: reports",
+        "domain": "yenisafak.com",
+        "category": "worldnews",
+        "link": "https://www.yenisafak.com/en/news/boy-shoots-down-french-military-drone-over-burkina-faso-with-slingshot-reports-3584823",
+        "sentiment": 0,
+        "timestamp": 1637890437,
+        "published": "November 25, 2021 8:33 PM"
+    },
+    {
+        "title": "Boy shoots down French military drone over Burkina Faso with slingshot: reports - Footage of the boy and the defunct drone went viral on social media as users hailed the teenager as a 'hero'",
+        "domain": "yenisafak.com",
+        "category": "worldnews",
+        "link": "https://www.yenisafak.com/en/news/boy-shoots-down-french-military-drone-over-burkina-faso-with-slingshot-reports-3584823",
+        "sentiment": 0,
+        "timestamp": 1637892609,
+        "published": "November 25, 2021 9:10 PM"
+    },
+    {
+        "title": "Math may have caught up with Google’s quantum-supremacy claims",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/11/math-may-have-caught-up-with-googles-quantum-supremacy-claims/",
+        "sentiment": 0,
+        "timestamp": 1637894024,
+        "published": "November 25, 2021 9:33 PM"
+    },
+    {
+        "title": "The Beatles: Get Back review – eight hours of TV so aimless it threatens your sanity",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://theguardian.com/tv-and-radio/2021/nov/25/the-beatles-get-back-review-peter-jackson-eight-hours-of-tv-so-aimless-it-threatens-your-sanity",
+        "sentiment": -2,
+        "timestamp": 1637894487,
+        "published": "November 25, 2021 9:41 PM"
+    },
+    {
         "title": "UK government transport website caught showing porn",
         "domain": "bleepingcomputer.com",
         "category": "technology",
