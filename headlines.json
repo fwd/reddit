@@ -1,5 +1,59 @@
 [
     {
+        "title": "California law allows transgender inmates in women's prisons. Now, female inmates are suing",
+        "domain": "bakersfield.com",
+        "category": "news",
+        "link": "https://www.bakersfield.com/ap/national/california-law-allows-transgender-inmates-in-womens-prisons-now-female-inmates-are-suing/article_5380a9d5-fd54-5fc4-abeb-daed3e5e1eef.html",
+        "sentiment": -2,
+        "timestamp": 1637903301,
+        "published": "November 26, 2021 12:08 AM"
+    },
+    {
+        "title": "Apple Inc. issued on Wednesday alert messages to at least six Thai activists and researchers who have been critical of the government, warning it believed their iPhones had been targeted by “state-sponsored attackers”, according to activists and the alerts",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14488549",
+        "sentiment": -4,
+        "timestamp": 1637903810,
+        "published": "November 26, 2021 12:16 AM"
+    },
+    {
+        "title": "HK detects new mutant variant, adds six imported cases",
+        "domain": "thestandard.com.hk",
+        "category": "news",
+        "link": "https://www.thestandard.com.hk/breaking-news/section/4/183512/HK-detects-new-mutant-variant,-adds-six-imported-cases",
+        "sentiment": 0,
+        "timestamp": 1637904829,
+        "published": "November 26, 2021 12:33 AM"
+    },
+    {
+        "title": "Apple warns Thai activists ‘state-sponsored attackers’ may have targeted iPhones",
+        "domain": "asahi.com",
+        "category": "technology",
+        "link": "https://www.asahi.com/ajw/articles/14488549",
+        "sentiment": -2,
+        "timestamp": 1637904904,
+        "published": "November 26, 2021 12:35 AM"
+    },
+    {
+        "title": "Amazon workers plan Black Friday strikes",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59419572",
+        "sentiment": -1,
+        "timestamp": 1637905458,
+        "published": "November 26, 2021 12:44 AM"
+    },
+    {
+        "title": "Ilhan Omar Rips Lauren Boebert For Telling 'Made Up' Anti-Muslim Story For Clout",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/lauren-boebert-ilhan-omar-story_n_61a03e1ce4b044a1cc130bfd",
+        "sentiment": 0,
+        "timestamp": 1637906953,
+        "published": "November 26, 2021 1:09 AM"
+    },
+    {
         "title": "Climate change causing albatross divorce, says study. Just 1% of albatrosses separate after choosing their life partner - much lower than the human divorce rate in the UK. But in the years covered by the study with warmer water temperatures, up to 8% of albatross couples split up.",
         "domain": "bbc.com",
         "category": "worldnews",
