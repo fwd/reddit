@@ -1,5 +1,59 @@
 [
     {
+        "title": "Merrick Garland Gets Political, Whether He Likes It or Not - He’s in a perilous position of his own making.",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2021/11/merrick-garland-gets-political-whether-he-likes-it-or-not.html",
+        "sentiment": 2,
+        "timestamp": 1637944503,
+        "published": "November 26, 2021 11:35 AM"
+    },
+    {
+        "title": "Unjabbed Britons could be banned from travelling to the EU next summer: Bloc's new proposals rule out entry unless vaccinated within last nine months",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10242197/Unjabbed-Brits-BANNED-travelling-EU-summer.html",
+        "sentiment": -2,
+        "timestamp": 1637953407,
+        "published": "November 26, 2021 2:03 PM"
+    },
+    {
+        "title": "South Africa confirms 77 cases of new Covid 'super variant' bringing global total to 83",
+        "domain": "inews.co.uk",
+        "category": "worldnews",
+        "link": "https://inews.co.uk/news/politics/south-africa-new-covid-super-variant-cases-global-total-1319011",
+        "sentiment": 0,
+        "timestamp": 1637955029,
+        "published": "November 26, 2021 2:30 PM"
+    },
+    {
+        "title": "‘Our land, our life’: Okinawans hold out against new U.S. base in coastal zone",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/11/our-land-our-life-okinawans-hold-out-against-new-u-s-base-in-coastal-zone/",
+        "sentiment": 0,
+        "timestamp": 1637957101,
+        "published": "November 26, 2021 3:05 PM"
+    },
+    {
+        "title": "Merck's COVID-19 pill significantly less effective in new analysis",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/merck-says-covid-19-pill-cuts-hospitalization-death-risk-by-30-2021-11-26/",
+        "sentiment": 2,
+        "timestamp": 1637957741,
+        "published": "November 26, 2021 3:15 PM"
+    },
+    {
+        "title": "Philadelphia hits grim record of 500 homicides as leaders stress the victims are more than numbers",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/25/us/philadelphia-500-homicides-record/index.html",
+        "sentiment": -8,
+        "timestamp": 1637958510,
+        "published": "November 26, 2021 3:28 PM"
+    },
+    {
         "title": "EU calls for sanctions on Russia's mercenary firm Wagner Group",
         "domain": "dailysabah.com",
         "category": "worldnews",
