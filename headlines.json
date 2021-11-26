@@ -1,5 +1,68 @@
 [
     {
+        "title": "Mother left waiting in ambulance for an hour with her dead baby",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-59433593",
+        "sentiment": -3,
+        "timestamp": 1637964120,
+        "published": "November 26, 2021 5:02 PM"
+    },
+    {
+        "title": "Mike Lindell’s Promised Election-Reversing Lawsuit Turns Into 96-Hour Pillow Sale",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/lindell-lawsuit-pillow-sale_n_61a13625e4b044a1cc14e0cf",
+        "sentiment": -1,
+        "timestamp": 1637964341,
+        "published": "November 26, 2021 5:05 PM"
+    },
+    {
+        "title": "Stephen Sondheim, Musical Theater Giant, Dies at 91",
+        "domain": "vanityfair.com",
+        "category": "worldnews",
+        "link": "https://www.vanityfair.com/hollywood/2021/11/stephen-sondheim-dies",
+        "sentiment": 0,
+        "timestamp": 1637965017,
+        "published": "November 26, 2021 5:16 PM"
+    },
+    {
+        "title": "Stephen Sondheim, Titan of the American Musical, Is Dead at 91",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2021/11/26/theater/stephen-sondheim-dead.html",
+        "sentiment": -3,
+        "timestamp": 1637965531,
+        "published": "November 26, 2021 5:25 PM"
+    },
+    {
+        "title": "New Covid-19 variant is 'red flag' but US needs to learn more, Fauci says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/26/health/covid-variant-b11529-us-fauci-wellness/index.html",
+        "sentiment": 0,
+        "timestamp": 1637966001,
+        "published": "November 26, 2021 5:33 PM"
+    },
+    {
+        "title": "Stephen Sondheim: master craftsman who reinvented the musical dies aged 91",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/stage/2021/nov/26/stephen-sondheim-composer-lyricist-musical-west-side-story-follies-company",
+        "sentiment": 0,
+        "timestamp": 1637966522,
+        "published": "November 26, 2021 5:42 PM"
+    },
+    {
+        "title": "Who remembers \"Happy Town\" which ran on ABC during 2010?",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=hSnwFayEUVc",
+        "sentiment": 3,
+        "timestamp": 1637966636,
+        "published": "November 26, 2021 5:43 PM"
+    },
+    {
         "title": "Canada enacts travel restrictions for southern Africa in light of new COVID-19 variant",
         "domain": "globalnews.ca",
         "category": "worldnews",
