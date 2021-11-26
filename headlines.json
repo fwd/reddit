@@ -1,5 +1,95 @@
 [
     {
+        "title": "Protesters, police clash in central Iran after rally over water shortages",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/markets/commodities/protesters-police-clash-central-iran-after-rally-over-water-shortages-2021-11-26/",
+        "sentiment": -6,
+        "timestamp": 1637936372,
+        "published": "November 26, 2021 9:19 AM"
+    },
+    {
+        "title": "Biden says won't 'stand by idly' waiting for gas prices to fall",
+        "domain": "theglobeandmail.com",
+        "category": "politics",
+        "link": "https://www.theglobeandmail.com/world/us-politics/video-biden-says-wont-stand-by-idly-waiting-for-gas-prices-to-fall/",
+        "sentiment": 0,
+        "timestamp": 1637937699,
+        "published": "November 26, 2021 9:41 AM"
+    },
+    {
+        "title": "Ancient Chinese society that collapsed more than 4,000 years ago was wiped out by flooding: study",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/sci-tech/ancient-chinese-society-that-collapsed-more-than-4-000-years-ago-was-wiped-out-by-flooding-study-1.5682248",
+        "sentiment": -2,
+        "timestamp": 1637940613,
+        "published": "November 26, 2021 10:30 AM"
+    },
+    {
+        "title": "Rich countries could have prevented new Covid variant, say experts | Coronavirus",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/26/rich-countries-could-have-prevented-new-covid-variant-say-experts",
+        "sentiment": 1,
+        "timestamp": 1637940976,
+        "published": "November 26, 2021 10:36 AM"
+    },
+    {
+        "title": "Zelenskiy says Ukraine thwarts coup plot involving Russians; Kremlin denies role",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/ukraine-has-information-about-december-coup-attempt-with-russian-involvement-2021-11-26/?utm_source=reddit.com",
+        "sentiment": -4,
+        "timestamp": 1637941659,
+        "published": "November 26, 2021 10:47 AM"
+    },
+    {
+        "title": "Omar slams Boebert’s ‘made up’ anti-Muslim story: ‘This buffoon looks down when she sees me at the Capitol’ - Ilhan Omar says Lauren Boebert’s story was ‘made up’ and anti-Muslim bigotry is ‘not funny’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/omar-slams-boebert-s-made-up-antimuslim-story-b1964617.html",
+        "sentiment": 0,
+        "timestamp": 1637941922,
+        "published": "November 26, 2021 10:52 AM"
+    },
+    {
+        "title": "New poll shows majority of residents in Massachusetts believe legalization of cannabis is overall positive for state",
+        "domain": "masslive.com",
+        "category": "politics",
+        "link": "https://www.masslive.com/cannabis/2021/11/new-poll-shows-majority-of-residents-in-massachusetts-believe-legalization-of-cannabis-is-overall-positive-for-state.html",
+        "sentiment": 2,
+        "timestamp": 1637942265,
+        "published": "November 26, 2021 10:57 AM"
+    },
+    {
+        "title": "AI Researchers Estimate 97% Of EU Websites Fail GDPR Privacy Requirements- Especially User Profiling",
+        "domain": "unite.ai",
+        "category": "technology",
+        "link": "https://www.unite.ai/ai-researchers-estimate-97-of-eu-websites-fail-gdpr-privacy-requirements-especially-user-profiling/",
+        "sentiment": -2,
+        "timestamp": 1637943714,
+        "published": "November 26, 2021 11:21 AM"
+    },
+    {
+        "title": "\"Real Sikh\" influence network pushing Indian nationalism - A coordinated influence operation on Twitter, Facebook and Instagram is using fake personas acting as influencers within the Sikh community to discredit the push for Sikh independence, label Sikh political interests as extremist",
+        "domain": "info-res.org",
+        "category": "technology",
+        "link": "https://www.info-res.org/post/revealed-real-sikh-influence-network-pushing-indian-nationalism",
+        "sentiment": -4,
+        "timestamp": 1637944179,
+        "published": "November 26, 2021 11:29 AM"
+    },
+    {
+        "title": "Ghislaine Maxwell's trial starts Monday. Epstein victims say she was central to his scheme.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/amp/rcna6018",
+        "sentiment": -3,
+        "timestamp": 1637945147,
+        "published": "November 26, 2021 11:45 AM"
+    },
+    {
         "title": "Countries in Europe and Asia, alarmed by new COVID variant, tighten borders",
         "domain": "reuters.com",
         "category": "news",
