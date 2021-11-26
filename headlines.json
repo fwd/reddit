@@ -1,5 +1,158 @@
 [
     {
+        "title": "Ukraine’s Zelensky alleges Russia plotting coup against him for next week",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/europe/ukraine-zelensky-russia-coup/2021/11/26/16e51c80-4e0d-11ec-a7b8-9ed28bf23929_story.html",
+        "sentiment": 0,
+        "timestamp": 1637927938,
+        "published": "November 26, 2021 6:58 AM"
+    },
+    {
+        "title": "Ukrainian intelligence warning of Russia-backed December coup, president says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/26/ukrainian-intelligence-warns-russia-backed-december-coup",
+        "sentiment": -3,
+        "timestamp": 1637929683,
+        "published": "November 26, 2021 7:28 AM"
+    },
+    {
+        "title": "Ilhan Omar Rips Lauren Boebert’s Anti-Muslim ‘Made Up’ Tale",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/rep-ilhan-omar-rips-rep-lauren-boeberts-anti-muslim-made-up-tale",
+        "sentiment": 0,
+        "timestamp": 1637931295,
+        "published": "November 26, 2021 7:54 AM"
+    },
+    {
+        "title": "Two cases of 'nu' Covid variant found in Belgium",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/covid-new-south-african-variant-strain-lockdown-restrictions/",
+        "sentiment": 0,
+        "timestamp": 1637931391,
+        "published": "November 26, 2021 7:56 AM"
+    },
+    {
+        "title": "Two suspected cases of 'nu' Covid variant found in Belgium",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/covid-new-south-african-variant-strain-lockdown-restrictions/",
+        "sentiment": -1,
+        "timestamp": 1637932175,
+        "published": "November 26, 2021 8:09 AM"
+    },
+    {
+        "title": "Ukraine’s President Claims He’s Uncovered Russian Plot to Overthrow Him Next Week",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/volodymyr-zelensky-warns-of-likely-coup-attempt-next-week?via=desktop&source=Reddit",
+        "sentiment": 0,
+        "timestamp": 1637932448,
+        "published": "November 26, 2021 8:14 AM"
+    },
+    {
+        "title": "Local Democratic Party staffer fired for calling Waukesha incident 'self-defense', 'karma'",
+        "domain": "katv.com",
+        "category": "news",
+        "link": "https://katv.com/news/nation-world/local-democratic-party-staffer-fired-for-calling-waukesha-incident-self-defense-karma",
+        "sentiment": -2,
+        "timestamp": 1637932528,
+        "published": "November 26, 2021 8:15 AM"
+    },
+    {
+        "title": "Oldest Woman In The World Born In 1800s Dies Aged 124",
+        "domain": "unilad.co.uk",
+        "category": "worldnews",
+        "link": "https://www.unilad.co.uk/news/oldest-woman-in-the-world-born-in-1800s-dies-aged-124/?source=facebook&fbclid=IwAR34Naeq5p6RWGjnXLE-WKJkbD3DYDOTJGCc5qEzkMSUlep8OSsquonpe0w",
+        "sentiment": 0,
+        "timestamp": 1637932735,
+        "published": "November 26, 2021 8:18 AM"
+    },
+    {
+        "title": "Biden signs 'once-in-a-generation' $1tn infrastructure bill into law",
+        "domain": "bbc.com",
+        "category": "politics",
+        "link": "https://www.bbc.com/news/world-us-canada-59298981.amp",
+        "sentiment": 0,
+        "timestamp": 1637933466,
+        "published": "November 26, 2021 8:31 AM"
+    },
+    {
+        "title": "’Tis the Season for DeJoy’s Removal",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/politics/louis-dejoy-usps/",
+        "sentiment": 0,
+        "timestamp": 1637933516,
+        "published": "November 26, 2021 8:31 AM"
+    },
+    {
+        "title": "Netflix’s ‘Lead Me Home’ shows unhoused people as real, struggling humans",
+        "domain": "datebook.sfchronicle.com",
+        "category": "politics",
+        "link": "https://datebook.sfchronicle.com/movies-tv/netflixs-lead-me-home-shows-unhoused-people-as-real-struggling-humans",
+        "sentiment": -2,
+        "timestamp": 1637933668,
+        "published": "November 26, 2021 8:34 AM"
+    },
+    {
+        "title": "Texas Gas Companies Hit Texas Consumers With 'Whoops You Froze To Death' Surcharge",
+        "domain": "techdirt.com",
+        "category": "politics",
+        "link": "https://www.techdirt.com/articles/20211115/09274947947/texas-gas-companies-hit-texas-consumers-with-whoops-you-froze-to-death-surcharge.shtml",
+        "sentiment": 0,
+        "timestamp": 1637933853,
+        "published": "November 26, 2021 8:37 AM"
+    },
+    {
+        "title": "Pundits Want You To Think Biden's Low Approval Rating Means Democrats Should Move Center | There are many possible explanations for Biden's low approval ratings. Pushing for his Build Back Better legislation is not one of them.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2021/11/25/pundits-want-you-think-bidens-low-approval-rating-means-democrats-should-move",
+        "sentiment": 7,
+        "timestamp": 1637934429,
+        "published": "November 26, 2021 8:47 AM"
+    },
+    {
+        "title": "Significantly Improve Declining Eyesight in Just 3 Minutes a Week",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/significantly-improve-declining-eyesight-in-just-3-minutes-a-week/",
+        "sentiment": 2,
+        "timestamp": 1637934555,
+        "published": "November 26, 2021 8:49 AM"
+    },
+    {
+        "title": "Yeon Sang-ho Reveals Plans for 'Hellbound' Season 2",
+        "domain": "hypebeast.com",
+        "category": "television",
+        "link": "https://hypebeast.com/2021/11/hellbound-director-yeon-sang-hao-season-2-plans-news",
+        "sentiment": 0,
+        "timestamp": 1637935927,
+        "published": "November 26, 2021 9:12 AM"
+    },
+    {
+        "title": "Penn & Teller: Fool Us // Hayden Childress // Amazing Trick with Tape!",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/Osypa3e7K7k",
+        "sentiment": 2,
+        "timestamp": 1637935943,
+        "published": "November 26, 2021 9:12 AM"
+    },
+    {
+        "title": "As Black Mirror turns 10, just how well did it predict the future?",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/26/as-black-mirror-turns-10-just-how-well-did-it-predict-the-future",
+        "sentiment": 0,
+        "timestamp": 1637936251,
+        "published": "November 26, 2021 9:17 AM"
+    },
+    {
         "title": "Pilot accused of murdering Australian campers - BBC News",
         "domain": "bbc.co.uk",
         "category": "news",
