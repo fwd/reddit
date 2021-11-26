@@ -1,5 +1,68 @@
 [
     {
+        "title": "Will any Republicans challenge Trump in 2024? DeSantis, Pence and the other top contenders to know",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2021/11/26/2024-presidential-election-republicans-who-could-challenge-trump/8723353002/",
+        "sentiment": 1,
+        "timestamp": 1637928404,
+        "published": "November 26, 2021 7:06 AM"
+    },
+    {
+        "title": "Rio Olympics chief sentenced to 30 years in prison for buying 2016 votes",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/nov/26/rio-olympics-chief-sentenced-to-30-years-in-prison-for-buying-2016-votes",
+        "sentiment": -4,
+        "timestamp": 1637932517,
+        "published": "November 26, 2021 8:15 AM"
+    },
+    {
+        "title": "Belgium confirms case of new, heavily mutated Covid variant",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/26/belgium-confirms-case-of-new-heavily-mutated-covid-variant.html",
+        "sentiment": 0,
+        "timestamp": 1637936009,
+        "published": "November 26, 2021 9:13 AM"
+    },
+    {
+        "title": "Apple alerted Polish prosecutor that her iPhone has likely been compromised by NSO",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2021/11/26/apple-alerted-polish-prosecutor-nso/",
+        "sentiment": 0,
+        "timestamp": 1637936304,
+        "published": "November 26, 2021 9:18 AM"
+    },
+    {
+        "title": "Surveys suggest over 80% of Japanese people likely to continue with masks after COVID-19 subsides",
+        "domain": "soranews24.com",
+        "category": "worldnews",
+        "link": "https://soranews24.com/2021/11/25/surveys-suggest-over-80-of-japanese-people-likely-to-continue-with-masks-after-covid-19-subsides/",
+        "sentiment": 0,
+        "timestamp": 1637936388,
+        "published": "November 26, 2021 9:19 AM"
+    },
+    {
+        "title": "COVID Misinformation Is Running Rampant Online, and It’s Worse in Spanish",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/jgm8z8/covid-misinformation-is-running-rampant-online-and-its-worse-in-spanish",
+        "sentiment": -5,
+        "timestamp": 1637936795,
+        "published": "November 26, 2021 9:26 AM"
+    },
+    {
+        "title": "Stocks tumble as fears over new Covid-19 variant grip global markets",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/26/investing/dow-stock-market-today-covid-variant/index.html",
+        "sentiment": 0,
+        "timestamp": 1637937597,
+        "published": "November 26, 2021 9:39 AM"
+    },
+    {
         "title": "Ukraine’s Zelensky alleges Russia plotting coup against him for next week",
         "domain": "washingtonpost.com",
         "category": "worldnews",
