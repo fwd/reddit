@@ -1,5 +1,113 @@
 [
     {
+        "title": "Countries in Europe and Asia, alarmed by new COVID variant, tighten borders",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/japan-tighten-border-controls-s-africa-others-new-virus-variant-jiji-2021-11-26/",
+        "sentiment": -2,
+        "timestamp": 1637919806,
+        "published": "November 26, 2021 4:43 AM"
+    },
+    {
+        "title": "A new Covid-19 variant could show immune evasion and enhanced transmissibility, South African scientists warn",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/25/world/covid-variant-south-africa-immune-evasion-transmissibility/index.html",
+        "sentiment": -1,
+        "timestamp": 1637929371,
+        "published": "November 26, 2021 7:22 AM"
+    },
+    {
+        "title": "Belgium records Europe's first case of the new coronavirus variant spreading in southern Africa",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/belgium-records-new-coronavirus-variant-europe-first-case-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637933527,
+        "published": "November 26, 2021 8:32 AM"
+    },
+    {
+        "title": "Biden to release 50 million barrels of oil in effort to ease gas prices",
+        "domain": "globalnews.ca",
+        "category": "politics",
+        "link": "https://globalnews.ca/news/8395246/biden-oil-release-energy-prices/",
+        "sentiment": 2,
+        "timestamp": 1637935274,
+        "published": "November 26, 2021 9:01 AM"
+    },
+    {
+        "title": "Security Alert: U.S. Embassy Kyiv, Ukraine",
+        "domain": "ua.usembassy.gov",
+        "category": "politics",
+        "link": "https://ua.usembassy.gov/security-alert-u-s-embassy-kyiv-ukraine-4/",
+        "sentiment": -1,
+        "timestamp": 1637937457,
+        "published": "November 26, 2021 9:37 AM"
+    },
+    {
+        "title": "Renters strike back as cities cap price hikes by landlords",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/26/renters-rent-control-523351",
+        "sentiment": -1,
+        "timestamp": 1637939078,
+        "published": "November 26, 2021 10:04 AM"
+    },
+    {
+        "title": "EU recommends member states suspend all flights from countries where new variant detected",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/eu-recommends-member-states-suspend-all-flights-from-countries-where-new-variant-detected-12479435",
+        "sentiment": 1,
+        "timestamp": 1637939474,
+        "published": "November 26, 2021 10:11 AM"
+    },
+    {
+        "title": "Fauci: U.S. \"rushing\" to get scientific data about new COVID variant",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/fauci-scientific-data-covid-variant-travel-restrictions-964a904f-ff59-4282-839e-35e5efba787b.html?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=health-fauci",
+        "sentiment": 0,
+        "timestamp": 1637940546,
+        "published": "November 26, 2021 10:29 AM"
+    },
+    {
+        "title": "Mississippi banned most abortions to be the 'safest state' for the unborn. Meanwhile, one in three Mississippi kids live in poverty",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mississippi-defends-abortion-ban-one-in-three-kids-in-poverty-2021-11",
+        "sentiment": -3,
+        "timestamp": 1637941121,
+        "published": "November 26, 2021 10:38 AM"
+    },
+    {
+        "title": "Facebook to Delete the Faceprints of Over 1 billion People",
+        "domain": "pandasecurity.com",
+        "category": "technology",
+        "link": "https://www.pandasecurity.com/en/mediacenter/privacy/facebook-delete-faceprints/",
+        "sentiment": 0,
+        "timestamp": 1637942625,
+        "published": "November 26, 2021 11:03 AM"
+    },
+    {
+        "title": "LeVar Burton on the Upside of Losing the ‘Jeopardy!’ Gig and What ‘Star Trek’ Gave Him: \"I would imagine that if I [had the same controversies as Mike Richards and Mayim Bialik], they would have come out at this point. One of my goals throughout this 45-year career has been to make my family proud.\"",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv/tv-features/levar-burton-last-word-interview-jeopardy-star-trek-1245262/",
+        "sentiment": -3,
+        "timestamp": 1637942757,
+        "published": "November 26, 2021 11:05 AM"
+    },
+    {
+        "title": "Motogp Announces New Amazon Exclusive Docuseries",
+        "domain": "motogp.com",
+        "category": "television",
+        "link": "https://www.motogp.com/en/news/2021/11/25/motogp-announces-new-amazon-exclusive-docuseries/403192",
+        "sentiment": 2,
+        "timestamp": 1637942960,
+        "published": "November 26, 2021 11:09 AM"
+    },
+    {
         "title": "Will any Republicans challenge Trump in 2024? DeSantis, Pence and the other top contenders to know",
         "domain": "usatoday.com",
         "category": "politics",
