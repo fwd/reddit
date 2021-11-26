@@ -1,5 +1,77 @@
 [
     {
+        "title": "Pilot accused of murdering Australian campers - BBC News",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-australia-59426057.amp",
+        "sentiment": -5,
+        "timestamp": 1637920551,
+        "published": "November 26, 2021 4:55 AM"
+    },
+    {
+        "title": "Zelensky stated that a coup d'etat was being prepared in Ukraine",
+        "domain": "unian.ua",
+        "category": "worldnews",
+        "link": "https://www.unian.ua/politics/zelenskiy-zayaviv-shcho-v-ukrajini-gotuvali-derzhavniy-perevorot-novini-ukrajina-11622538.html",
+        "sentiment": 1,
+        "timestamp": 1637924006,
+        "published": "November 26, 2021 5:53 AM"
+    },
+    {
+        "title": "Apple's mixed reality headset may be a standalone device",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/apples-mixed-reality-headset-standalone-ming-chi-kuo-082117045.html",
+        "sentiment": 0,
+        "timestamp": 1637925142,
+        "published": "November 26, 2021 6:12 AM"
+    },
+    {
+        "title": "Ukraine president says coup plot uncovered | Reuters",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-has-information-about-december-coup-attempt-with-russian-involvement-2021-11-26/",
+        "sentiment": 0,
+        "timestamp": 1637926882,
+        "published": "November 26, 2021 6:41 AM"
+    },
+    {
+        "title": "Britain says new COVID-19 variant is the most significant yet found",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/uk/britain-says-new-covid-19-variant-is-most-significant-yet-found-2021-11-26/",
+        "sentiment": 1,
+        "timestamp": 1637928298,
+        "published": "November 26, 2021 7:04 AM"
+    },
+    {
+        "title": "Kimberly Guilfoyle’s January 6 Role Comes Under the Microscope",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/kimberly-guilfoyle-january-6",
+        "sentiment": 0,
+        "timestamp": 1637928649,
+        "published": "November 26, 2021 7:10 AM"
+    },
+    {
+        "title": "Peter Navarro said he wanted Trump to fire Fauci saying ‘strangle that baby in its crib’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/peter-navarro-anthony-fauci-trump-b1964594.html",
+        "sentiment": -2,
+        "timestamp": 1637930683,
+        "published": "November 26, 2021 7:44 AM"
+    },
+    {
+        "title": "Kevin Hart says DAMN to Don Cheadle",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=vaPWbsrcBE8",
+        "sentiment": -2,
+        "timestamp": 1637931933,
+        "published": "November 26, 2021 8:05 AM"
+    },
+    {
         "title": "Oral sex with a child a ‘lesser’ offence: Allahabad High Court, India",
         "domain": "thehindu.com",
         "category": "worldnews",
