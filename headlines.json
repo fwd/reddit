@@ -1,5 +1,113 @@
 [
     {
+        "title": "UK suspending flights from 6 African countries over new coronavirus variant fears: 'Our scientists are deeply concerned'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/uk-travel-ban-variant-in-african-countries-b11529-11",
+        "sentiment": 0,
+        "timestamp": 1637924589,
+        "published": "November 26, 2021 6:03 AM"
+    },
+    {
+        "title": "USS Arleigh Burke Enters Black Sea to Russian Consternation",
+        "domain": "military.com",
+        "category": "politics",
+        "link": "https://www.military.com/daily-news/2021/11/26/uss-arleigh-burke-enters-black-sea-russian-consternation.html",
+        "sentiment": 0,
+        "timestamp": 1637935732,
+        "published": "November 26, 2021 9:08 AM"
+    },
+    {
+        "title": "Survivor found after Siberian coal mine explosion left dozens presumed dead",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/russia-siberia-coal-mine-survivor-1.6263516",
+        "sentiment": -1,
+        "timestamp": 1637936056,
+        "published": "November 26, 2021 9:14 AM"
+    },
+    {
+        "title": "Elderly man accused of 'unnatural sex with goat' faces whipping and prison",
+        "domain": "dailystar.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailystar.co.uk/news/weird-news/elderly-man-accused-unnatural-sex-25550394",
+        "sentiment": -4,
+        "timestamp": 1637936868,
+        "published": "November 26, 2021 9:27 AM"
+    },
+    {
+        "title": "Solomon Islands tells public workers to stay home as violent protests continue for third day",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/11/26/asia/solomon-islands-protests-third-day-intl-hnk/index.html",
+        "sentiment": -5,
+        "timestamp": 1637942189,
+        "published": "November 26, 2021 10:56 AM"
+    },
+    {
+        "title": "Renault's cult '4' reimagined as a real flying car",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/renault-repurposes-one-if-its-iconic-models-as-the-air-4-flying-car-115051586.html",
+        "sentiment": 0,
+        "timestamp": 1637942867,
+        "published": "November 26, 2021 11:07 AM"
+    },
+    {
+        "title": "Kyle Rittenhouse, Who Doesn’t “Want to Get Involved in Politics,” Turns to Tucker Carlson and Donald Trump | The 18-year-old met with the former president—who calls Rittenhouse a “fan” of his—after sitting down with the right-wing cable host and letting a film crew in for a Fox Nation documentary.",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/kyle-rittenhouse-donald-trump-tucker-carlson",
+        "sentiment": 0,
+        "timestamp": 1637944664,
+        "published": "November 26, 2021 11:37 AM"
+    },
+    {
+        "title": "Google blinks first in 11-month privacy showdown with UK regulator",
+        "domain": "news.sky.com",
+        "category": "technology",
+        "link": "https://news.sky.com/story/google-blinks-first-in-11-month-privacy-showdown-with-uk-regulator-12479198",
+        "sentiment": 0,
+        "timestamp": 1637945980,
+        "published": "November 26, 2021 11:59 AM"
+    },
+    {
+        "title": "Rep. Adam Kinzinger retweets Lauren Boebert's primary challenger after calling the Colorado lawmaker 'TRASH' for her anti-Muslim story about Ilhan Omar",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kinzinger-boebert-trash-primary-challenger-anti-muslim-tale-ilhan-omar-2021-11",
+        "sentiment": 0,
+        "timestamp": 1637947237,
+        "published": "November 26, 2021 12:20 PM"
+    },
+    {
+        "title": "VR treatment for lazy eye in children gets FDA approval",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/10/20/22736894/fda-vr-tv-movies-treatment-lazy-eye-amblyopia",
+        "sentiment": 1,
+        "timestamp": 1637947647,
+        "published": "November 26, 2021 12:27 PM"
+    },
+    {
+        "title": "‘Sopranos’ Star Lorraine Bracco Was “Upset” Over Dr. Melfi’s Uncharacteristic Show Exit",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/sopranos-lorraine-bracco-disliked-melfis-exit-1235053255/",
+        "sentiment": 0,
+        "timestamp": 1637949999,
+        "published": "November 26, 2021 1:06 PM"
+    },
+    {
+        "title": "Billy Porter last year speaking about Black Trans Lives on The Kelly Clarkson Show",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/OukAjh2Lk7o",
+        "sentiment": 0,
+        "timestamp": 1637950503,
+        "published": "November 26, 2021 1:15 PM"
+    },
+    {
         "title": "Protesters, police clash in central Iran after rally over water shortages",
         "domain": "reuters.com",
         "category": "news",
