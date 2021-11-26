@@ -1,5 +1,149 @@
 [
     {
+        "title": "EU calls for sanctions on Russia's mercenary firm Wagner Group",
+        "domain": "dailysabah.com",
+        "category": "worldnews",
+        "link": "https://www.dailysabah.com/world/europe/eu-calls-for-sanctions-on-russias-mercenary-firm-wagner-group",
+        "sentiment": 0,
+        "timestamp": 1637950065,
+        "published": "November 26, 2021 1:07 PM"
+    },
+    {
+        "title": "EU companies issues formal complaint against Microsoft OneDrive Windows integration",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/eu-companies-sue-microsoft-onedrive-windows-integration/",
+        "sentiment": -2,
+        "timestamp": 1637950326,
+        "published": "November 26, 2021 1:12 PM"
+    },
+    {
+        "title": "Lauren Boebert makes rare apology after anti-Muslim remarks about Ilhan Omar",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-apology-ilhan-omar-b1965044.html",
+        "sentiment": -1,
+        "timestamp": 1637951078,
+        "published": "November 26, 2021 1:24 PM"
+    },
+    {
+        "title": "Trump and his allies have embraced, promoted and counseled Kyle Rittenhouse since his acquittal",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/26/kyle-rittenhouse-becomes-key-figure-in-trump-world.html?dc_data=3278543_samsung-carnival-us&utm_source=taboola&utm_medium=referral&ui=ca1bdd5e-3918-438e-bb9d-4d39fbd0ee64-tuct897f18e",
+        "sentiment": 1,
+        "timestamp": 1637951886,
+        "published": "November 26, 2021 1:38 PM"
+    },
+    {
+        "title": "U.S. to restrict travel from South Africa, 7 other countries as new Covid variant emerges",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/26/omicron-covid-variant-us-to-restrict-travel-from-south-africa-7-other-nations.html",
+        "sentiment": -2,
+        "timestamp": 1637953481,
+        "published": "November 26, 2021 2:04 PM"
+    },
+    {
+        "title": "The New Covid 'Omicron' Variant Has the Globe Freaking Out: The “omicron variant” discovered in South Africa may be a super-spreadable mutant. Here’s what you need to know",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/covid-omicron-variant-south-africa-fauci-1263440/",
+        "sentiment": 0,
+        "timestamp": 1637953793,
+        "published": "November 26, 2021 2:09 PM"
+    },
+    {
+        "title": "'It was pretty overdue': Boise library book returned 110 years after being checked out",
+        "domain": "kivitv.com",
+        "category": "news",
+        "link": "https://www.kivitv.com/news/it-was-pretty-overdue-boise-library-book-returned-110-years-after-being-checked-out",
+        "sentiment": 1,
+        "timestamp": 1637953886,
+        "published": "November 26, 2021 2:11 PM"
+    },
+    {
+        "title": "Canada releases 50 million pounds from maple syrup reserve amid global shortage",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2021/11/26/canada-releases-50-million-pounds-from-maple-syrup-stockpile/",
+        "sentiment": -2,
+        "timestamp": 1637954063,
+        "published": "November 26, 2021 2:14 PM"
+    },
+    {
+        "title": "Black Friday lines almost nonexistent at Bay Area stores",
+        "domain": "ktvu.com",
+        "category": "news",
+        "link": "https://www.ktvu.com/news/black-friday-lines-almost-nonexistent-at-bay-area-stores",
+        "sentiment": 0,
+        "timestamp": 1637954106,
+        "published": "November 26, 2021 2:15 PM"
+    },
+    {
+        "title": "Blown away: Glassblowing’s blazing hot moment on Netflix",
+        "domain": "macleans.ca",
+        "category": "television",
+        "link": "https://www.macleans.ca/culture/arts/blown-away-glassblowings-blazing-hot-moment-on-netflix/",
+        "sentiment": 0,
+        "timestamp": 1637954528,
+        "published": "November 26, 2021 2:22 PM"
+    },
+    {
+        "title": "Statement by President Joe Biden on the Omicron COVID-⁠19 Variant",
+        "domain": "whitehouse.gov",
+        "category": "politics",
+        "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/26/statement-by-president-joe-biden-on-the-omicron-covid-19-variant/",
+        "sentiment": 0,
+        "timestamp": 1637954551,
+        "published": "November 26, 2021 2:22 PM"
+    },
+    {
+        "title": "Disney+ puts \"Star Wars: Rangers of the New Republic\" on hold; concepts may be absorbed into \"The Mandalorian\"",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/star-wars-rangers-of-the-new-republic-on-hold-mandalorian",
+        "sentiment": 1,
+        "timestamp": 1637955071,
+        "published": "November 26, 2021 2:31 PM"
+    },
+    {
+        "title": "President Biden introduces new travel ban in response to Omicron Covid variant New ban will affect 8 African countries",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/biden-covid-omicron-variant-ban-b1965068.html",
+        "sentiment": -4,
+        "timestamp": 1637955618,
+        "published": "November 26, 2021 2:40 PM"
+    },
+    {
+        "title": "New COVID variant possibly 500 percent more infectious than Delta",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/new-covid-variant-possibly-500-percent-more-infectious-delta-1653596",
+        "sentiment": -2,
+        "timestamp": 1637956275,
+        "published": "November 26, 2021 2:51 PM"
+    },
+    {
+        "title": "Microsoft Edge's latest feature called a 'shameless cash grab' by critics",
+        "domain": "windowscentral.com",
+        "category": "technology",
+        "link": "https://www.windowscentral.com/microsoft-edges-latest-feature-called-shameless-cash-grab-critics",
+        "sentiment": -2,
+        "timestamp": 1637956946,
+        "published": "November 26, 2021 3:02 PM"
+    },
+    {
+        "title": "Lovecraft Country Was Canceled Due To Toxic Work Environment ; Alleges New Book",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/tinderbox-hbo-book-james-miller-interview-1235048630/",
+        "sentiment": -3,
+        "timestamp": 1637957700,
+        "published": "November 26, 2021 3:15 PM"
+    },
+    {
         "title": "Canada taps into strategic reserves to deal with massive shortage ... of maple syrup",
         "domain": "npr.org",
         "category": "news",
