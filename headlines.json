@@ -1,5 +1,131 @@
 [
     {
+        "title": "Canada taps into strategic reserves to deal with massive shortage ... of maple syrup",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2021/11/25/1059236116/canada-taps-into-strategic-reserves-to-deal-with-massive-shortage-of-maple-syrup",
+        "sentiment": -2,
+        "timestamp": 1637938483,
+        "published": "November 26, 2021 9:54 AM"
+    },
+    {
+        "title": "Mr Goxx, the cryptocurrency-trading hamster, dies",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/technology-59432659",
+        "sentiment": 0,
+        "timestamp": 1637938802,
+        "published": "November 26, 2021 10:00 AM"
+    },
+    {
+        "title": "Annual migration of monarch butterflies in California shows sign of resurgence : NPR",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2021/11/26/1059263867/the-butterflies-are-back-annual-migration-of-monarchs-shows-highest-numbers-in-y",
+        "sentiment": 0,
+        "timestamp": 1637941357,
+        "published": "November 26, 2021 10:42 AM"
+    },
+    {
+        "title": "Fauci says US 'rushing' to get data on new COVID-19 variant",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/healthcare/583191-fauci-says-us-rushing-to-get-data-on-new-covid-19-variant",
+        "sentiment": 0,
+        "timestamp": 1637944042,
+        "published": "November 26, 2021 11:27 AM"
+    },
+    {
+        "title": "Scammers are destroying lives, one gift card fraud at a time. Here's who's fighting back",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/scammers-are-destroying-lives-one-gift-card-fraud-at-a-time-heres-whos-fighting-back/",
+        "sentiment": -7,
+        "timestamp": 1637947049,
+        "published": "November 26, 2021 12:17 PM"
+    },
+    {
+        "title": "Israeli drug for severe COVID reduces death by 70% - phase 2 trial",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/health-and-wellness/coronavirus/israeli-drug-for-severe-covid-reduces-death-by-70-percent-phase-2-trial-686879",
+        "sentiment": -4,
+        "timestamp": 1637949440,
+        "published": "November 26, 2021 12:57 PM"
+    },
+    {
+        "title": "WHO labels newly identified Covid strain as Omicron, says it's a variant of concern",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/26/who-labels-newly-identified-covid-strain-as-omicron-says-its-a-variant-of-concern.html",
+        "sentiment": 0,
+        "timestamp": 1637949555,
+        "published": "November 26, 2021 12:59 PM"
+    },
+    {
+        "title": "WHO labels newly identified Covid strain as Omicron, says it’s a variant of concern",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/26/who-labels-newly-identified-covid-strain-as-omicron-says-its-a-variant-of-concern.html",
+        "sentiment": 0,
+        "timestamp": 1637949588,
+        "published": "November 26, 2021 12:59 PM"
+    },
+    {
+        "title": "WHO classifies B.1.1.529 as a variant of concern named Omicron",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/news/541468-covid-variant-concern-omnicron-who/",
+        "sentiment": 0,
+        "timestamp": 1637950302,
+        "published": "November 26, 2021 1:11 PM"
+    },
+    {
+        "title": "Researchers suggest battery-powered trains could very soon be economically viable",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-battery-powered-economically-viable.html",
+        "sentiment": 0,
+        "timestamp": 1637950413,
+        "published": "November 26, 2021 1:13 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell’s trial starts Monday. Epstein victims say she was central to his scheme",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/us-news/ghislane-maxwells-trial-starts-monday-epstein-victims-say-was-central-rcna6018",
+        "sentiment": -3,
+        "timestamp": 1637950842,
+        "published": "November 26, 2021 1:20 PM"
+    },
+    {
+        "title": "LA firefighter who dropped his pants and wiped bottom with vaccine mandate letter being investigated",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/la-fire-fighter-vaccine-mandate-letter-b1964009.html",
+        "sentiment": -1,
+        "timestamp": 1637950999,
+        "published": "November 26, 2021 1:23 PM"
+    },
+    {
+        "title": "NBC’s Macy’s Thanksgiving Day Parade Telecast Tops 25 Million Viewers",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/macys-thanksgiving-day-parade-dog-show-nbc-down-1235120266/",
+        "sentiment": 2,
+        "timestamp": 1637951370,
+        "published": "November 26, 2021 1:29 PM"
+    },
+    {
+        "title": "Tesla forced to turn down €1.1 billion in EU support for German battery plant",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/cars/2021/11/tesla-forced-to-turn-down-e1-1-billion-in-eu-support-for-german-battery-plant/",
+        "sentiment": 1,
+        "timestamp": 1637952128,
+        "published": "November 26, 2021 1:42 PM"
+    },
+    {
         "title": "UK suspending flights from 6 African countries over new coronavirus variant fears: 'Our scientists are deeply concerned'",
         "domain": "businessinsider.com",
         "category": "worldnews",
