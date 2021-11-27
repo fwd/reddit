@@ -1,5 +1,59 @@
 [
     {
+        "title": "GOP Rep. Adam Kinzinger Slams Lauren Boebert As 'Trash' For Her Anti-Muslim Tale",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/lauren-boebert-adam-kinzinger-ilhan-omar-trash-muslim_n_61a1615de4b044a1cc14fcbc",
+        "sentiment": 0,
+        "timestamp": 1637973141,
+        "published": "November 26, 2021 7:32 PM"
+    },
+    {
+        "title": "Ilhan Omar calls Lauren Boebert a “bigoted” “buffoon” for calling her a Muslim terrorist",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/ilhan-omar-calls-lauren-boebert-bigoted-buffoon-calling-muslim-terrorist/",
+        "sentiment": -2,
+        "timestamp": 1637973177,
+        "published": "November 26, 2021 7:32 PM"
+    },
+    {
+        "title": "Covid: Swiss vote on ending restrictions while cases surge",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59380745",
+        "sentiment": 0,
+        "timestamp": 1637974465,
+        "published": "November 26, 2021 7:54 PM"
+    },
+    {
+        "title": "Ethiopia’s Nobel Peace Prize-Winning Prime Minister on The Battlefront of Civil War",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/state-affiliated-tv-ethiopias-pm-battlefront-81406181",
+        "sentiment": 0,
+        "timestamp": 1637975139,
+        "published": "November 26, 2021 8:05 PM"
+    },
+    {
+        "title": "Pfizer testing its vaccine against new COVID-19 strain",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/pfizer-south-africa-covid-vaccine-variant-omicron/",
+        "sentiment": 0,
+        "timestamp": 1637975338,
+        "published": "November 26, 2021 8:08 PM"
+    },
+    {
+        "title": "Tolkien estate blocks JRR Token crypto-currency",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59373968",
+        "sentiment": -1,
+        "timestamp": 1637978715,
+        "published": "November 26, 2021 9:05 PM"
+    },
+    {
         "title": "Covid-19: Cape Town mayor lashes out at government over handling of new variant announcement",
         "domain": "news24.com",
         "category": "worldnews",
