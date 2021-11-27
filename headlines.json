@@ -1,5 +1,86 @@
 [
     {
+        "title": "Pfizer-BioNTech, Moderna, J&J, AstraZeneca investigating omicron",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/11/26/pfizer-biontech-investigating-new-covid-variant-jj-testing-vaccine-against-it.html",
+        "sentiment": 0,
+        "timestamp": 1638024568,
+        "published": "November 27, 2021 9:49 AM"
+    },
+    {
+        "title": "BioNtech says it needs 2 weeks to determine vaccine's effectiveness against Omicron",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/biontech-says-it-needs-2-weeks-to-determine-vaccines-effectiveness-against-omicron/",
+        "sentiment": 2,
+        "timestamp": 1638034898,
+        "published": "November 27, 2021 12:41 PM"
+    },
+    {
+        "title": "Undefeated: Deaf football team brings triumph and pride to California",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/undefeated-deaf-football-team-brings-triumph-pride-california/story?id=81278053",
+        "sentiment": 4,
+        "timestamp": 1638036194,
+        "published": "November 27, 2021 1:03 PM"
+    },
+    {
+        "title": "Rep. Boebert Suggested Rep. Omar Was a Terrorist. Democrats Want the GOP to Take Action",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/lauren-boebert-ilhan-omar-1263633/",
+        "sentiment": -1,
+        "timestamp": 1638036386,
+        "published": "November 27, 2021 1:06 PM"
+    },
+    {
+        "title": "The Disconnect Between Biden’s Popular Policies and His Unpopularity - Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html",
+        "sentiment": 3,
+        "timestamp": 1638036732,
+        "published": "November 27, 2021 1:12 PM"
+    },
+    {
+        "title": "At least 30 people loot a Best Buy in Minnesota on Black Friday",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "http://www.cnn.com/2021/11/27/us/best-buy-looting-minnesota/index.html",
+        "sentiment": 3,
+        "timestamp": 1638037002,
+        "published": "November 27, 2021 1:16 PM"
+    },
+    {
+        "title": "Social services 'didn't want to see' photos of bruises: Recordings of a six-year-old boy crying \"no-one loves me\" and \"no-one's gonna feed me\" before his death were released as the murder trial nears its end.",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/uk-news/arthur-labinjo-hughes-trial-social-25538657",
+        "sentiment": -2,
+        "timestamp": 1638037708,
+        "published": "November 27, 2021 1:28 PM"
+    },
+    {
+        "title": "UK, Germany, Italy confirm cases of Omicron coronavirus variant",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/amp/news/2021/11/27/omicron-variant-covid-southern-africa-travel-restrictions",
+        "sentiment": 0,
+        "timestamp": 1638037967,
+        "published": "November 27, 2021 1:32 PM"
+    },
+    {
+        "title": "Tesla demands access to interior car cameras in exchange for 'Full Self-Driving' beta",
+        "domain": "mashable.com",
+        "category": "technology",
+        "link": "https://mashable.com/article/tesla-full-self-driving-beta-camera-access",
+        "sentiment": -1,
+        "timestamp": 1638040479,
+        "published": "November 27, 2021 2:14 PM"
+    },
+    {
         "title": "Covid: Dozens test positive on SA-Netherlands flights",
         "domain": "bbc.com",
         "category": "worldnews",
