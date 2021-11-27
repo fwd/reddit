@@ -1,5 +1,77 @@
 [
     {
+        "title": "Danish Navy Frigate Kills 4 Pirates in Gulf of Guinea Anti-Piracy Mission",
+        "domain": "news.usni.org",
+        "category": "worldnews",
+        "link": "https://news.usni.org/2021/11/25/danish-navy-frigate-kills-4-pirates-in-gulf-of-guinea-anti-piracy-mission",
+        "sentiment": -3,
+        "timestamp": 1637952893,
+        "published": "November 26, 2021 1:54 PM"
+    },
+    {
+        "title": "19 dead, 20 injured in Mexico pilgrimage bus crash",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/19-dead-20-injured-mexico-pilgrimage-bus-crash-81409409",
+        "sentiment": -7,
+        "timestamp": 1637956903,
+        "published": "November 26, 2021 3:01 PM"
+    },
+    {
+        "title": "France has postponed implementing a COVID-19 vaccination mandate for health workers in Martinique and Guadeloupe after the measure spurred widespread protests on the French territories in which police officers were injured and journalists attacked",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20211126-france-postpones-vaccine-mandate-after-violent-unrest-in-martinique-and-guadeloupe",
+        "sentiment": -6,
+        "timestamp": 1637958165,
+        "published": "November 26, 2021 3:22 PM"
+    },
+    {
+        "title": "Nobel Peace Laureate Joins Battle As Rebels Approach Ethiopian Capital",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/abiy-ahmed-ex-soldier-nobel-laureate-ethiopia-pm-on-frontline-rebels-near-capital-2623714",
+        "sentiment": -1,
+        "timestamp": 1637960973,
+        "published": "November 26, 2021 4:09 PM"
+    },
+    {
+        "title": "UNESCO Members Adopt First Global AI Ethics Agreement 'To Benefit Humanity' \"We're at a critical juncture in history,\" said Ethics in Tech founder Vahid Razavi. \"",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2021/11/26/unesco-members-adopt-first-global-ai-ethics-agreement-benefit-humanity",
+        "sentiment": 4,
+        "timestamp": 1637962509,
+        "published": "November 26, 2021 4:35 PM"
+    },
+    {
+        "title": "With extreme gerrymanders locking in, Biden needs to make democracy preservation job one",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/campaign/583211-with-extreme-gerrymanders-locking-in-biden-needs-to-make-democracy",
+        "sentiment": 0,
+        "timestamp": 1637965273,
+        "published": "November 26, 2021 5:21 PM"
+    },
+    {
+        "title": "At least one person shot at Durham, North Carolina, shopping mall, city council member says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/26/us/durham-nc-southpoint-mall-shooting/index.html",
+        "sentiment": 0,
+        "timestamp": 1637965622,
+        "published": "November 26, 2021 5:27 PM"
+    },
+    {
+        "title": "The CEO of cosmetics retailer Lush says he's 'happy to lose' $13 million by deleting Facebook, TikTok, Snapchat accounts over teen mental-health harms",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/lush-ceo-happy-to-lose-13m-deleting-social-media-accounts-2021-11",
+        "sentiment": -2,
+        "timestamp": 1637968945,
+        "published": "November 26, 2021 6:22 PM"
+    },
+    {
         "title": "Mother left waiting in ambulance for an hour with her dead baby",
         "domain": "bbc.co.uk",
         "category": "worldnews",
