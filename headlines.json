@@ -1,5 +1,77 @@
 [
     {
+        "title": "Tourists Rush To South Africa Airport After Travel Bans Over New Covid Strain",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/tourists-rush-to-south-africa-airport-after-travel-bans-over-new-covid-strain-2626602",
+        "sentiment": 0,
+        "timestamp": 1638025929,
+        "published": "November 27, 2021 10:12 AM"
+    },
+    {
+        "title": "Taiwan invited to Biden administration's Summit for Democracy in December",
+        "domain": "montrealgazette.com",
+        "category": "politics",
+        "link": "https://montrealgazette.com/news/world/biden-administration-invites-taiwan-to-its-summit-for-democracy/wcm/bc6d039e-cf54-4a63-8055-baec2b34bfe0/amp/",
+        "sentiment": 0,
+        "timestamp": 1638025979,
+        "published": "November 27, 2021 10:12 AM"
+    },
+    {
+        "title": "Not a single scientist has applied to a UK government visa scheme for Nobel prize laureates and other award winners since its launch six months ago",
+        "domain": "newscientist.com",
+        "category": "worldnews",
+        "link": "https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications/",
+        "sentiment": 3,
+        "timestamp": 1638029165,
+        "published": "November 27, 2021 11:06 AM"
+    },
+    {
+        "title": "UK lists Israel among countries with human rights concerns",
+        "domain": "middleeastmonitor.com",
+        "category": "worldnews",
+        "link": "https://www.middleeastmonitor.com/20211126-uk-lists-israel-among-countries-with-human-rights-concerns/",
+        "sentiment": 0,
+        "timestamp": 1638030007,
+        "published": "November 27, 2021 11:20 AM"
+    },
+    {
+        "title": "Xiaomi's upcoming EV factory will make up to 300,000 cars per year",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/xiaomi-ev-factory-beijing-150108230.html",
+        "sentiment": 0,
+        "timestamp": 1638031556,
+        "published": "November 27, 2021 11:45 AM"
+    },
+    {
+        "title": "Only two out of 11 herbicide studies given to EU regulators deemed ‘reliable’: Review of safety studies shows vast majority do not meet international standards for scientific validity",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2021/nov/26/glyphosate-eu-regulators-studies-roundup-weedkiller",
+        "sentiment": 1,
+        "timestamp": 1638031589,
+        "published": "November 27, 2021 11:46 AM"
+    },
+    {
+        "title": "AWS embraces Fedora Linux for its cloud-based Amazon Linux",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/aws-embraces-fedora-linux-for-its-cloud-based-amazon-linux/",
+        "sentiment": 0,
+        "timestamp": 1638032806,
+        "published": "November 27, 2021 12:06 PM"
+    },
+    {
+        "title": "Reign | The Book Of Boba Fett | Disney+",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/crABxPcIzCU",
+        "sentiment": 0,
+        "timestamp": 1638033353,
+        "published": "November 27, 2021 12:15 PM"
+    },
+    {
         "title": "‘We will start again’: Afghan female MPs, now refugees, are still fighting for rights",
         "domain": "theguardian.com",
         "category": "worldnews",
