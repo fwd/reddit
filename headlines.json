@@ -1,5 +1,122 @@
 [
     {
+        "title": "Progressive US Lawmakers Mark Black Friday With Calls to Pass the PRO Act | \"The right to organize, fight for better working conditions, and fair pay must always be protected.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/26/progressive-us-lawmakers-mark-black-friday-calls-pass-pro-act",
+        "sentiment": 3,
+        "timestamp": 1638013078,
+        "published": "November 27, 2021 6:37 AM"
+    },
+    {
+        "title": "Court blocks Covid-19 vaccine mandate for California prisons",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/court-blocks-covid-19-vaccine-mandate-california-prisons-n1284800",
+        "sentiment": -1,
+        "timestamp": 1638015345,
+        "published": "November 27, 2021 7:15 AM"
+    },
+    {
+        "title": "Charlottesville verdict another missed opportunity for Republicans to disavow hate",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/charlottesville-verdict-another-missed-opportunity-republicans-disavow-hate-n1284587",
+        "sentiment": -4,
+        "timestamp": 1638017597,
+        "published": "November 27, 2021 7:53 AM"
+    },
+    {
+        "title": "South Africa 'punished' for detecting new Omicron variant",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-59442129",
+        "sentiment": 0,
+        "timestamp": 1638019615,
+        "published": "November 27, 2021 8:26 AM"
+    },
+    {
+        "title": "‘A core threat to our democracy’: threat of political violence growing across US",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/27/political-violence-threats-multiplying-us",
+        "sentiment": -6,
+        "timestamp": 1638020553,
+        "published": "November 27, 2021 8:42 AM"
+    },
+    {
+        "title": "COVID-19: Two cases of Omicron variant detected in UK - with targeted testing to be rolled out in affected areas",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/covid-19-two-cases-of-omicron-variant-detected-in-uk-with-targeted-testing-to-be-rolled-out-in-affected-areas-12480213",
+        "sentiment": -1,
+        "timestamp": 1638021782,
+        "published": "November 27, 2021 9:03 AM"
+    },
+    {
+        "title": "Two cases of new variant of Covid detected in UK",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/uk-59445388",
+        "sentiment": 0,
+        "timestamp": 1638022544,
+        "published": "November 27, 2021 9:15 AM"
+    },
+    {
+        "title": "Two cases of Omicron Covid variant identified in UK",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/27/two-cases-of-omicron-covid-variant-identified-in-uk?CMP=Share_AndroidApp_Other",
+        "sentiment": 0,
+        "timestamp": 1638022861,
+        "published": "November 27, 2021 9:21 AM"
+    },
+    {
+        "title": "We’re Spending Money on War When We Could Be Building Roads - Our problem in this country isn’t lack of funds, no matter what the Republicans, Manchin, and Sinema may claim.",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/world/spending-infrastructure-military/",
+        "sentiment": -6,
+        "timestamp": 1638023741,
+        "published": "November 27, 2021 9:35 AM"
+    },
+    {
+        "title": "The stars with Down’s syndrome lighting up our screens: ‘People are talking about us instead of hiding us away’",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/society/2021/nov/27/the-stars-with-downs-syndrome-lighting-up-our-screens-people-are-talking-about-us-instead-of-hiding-us-away",
+        "sentiment": -1,
+        "timestamp": 1638023848,
+        "published": "November 27, 2021 9:37 AM"
+    },
+    {
+        "title": "Move over, The Crown! Why The Great is the racy royal drama you need to watch",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/26/elle-fanning-nicholas-hoult-why-the-great-is-the-racy-royal-drama-you-need-to-watch",
+        "sentiment": 3,
+        "timestamp": 1638023976,
+        "published": "November 27, 2021 9:39 AM"
+    },
+    {
+        "title": "Google warns crypto miners are hacking cloud accounts",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/26/google-warns-crypto-miners-are-hacking-cloud-accounts-.html",
+        "sentiment": -2,
+        "timestamp": 1638024128,
+        "published": "November 27, 2021 9:42 AM"
+    },
+    {
+        "title": "Biometrics, Smartphones, Surveillance Cameras Pose New Obstacles for U.S. Spies",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/biometrics-smartphones-surveillance-cameras-pose-new-obstacles-for-u-s-spies-11638009002",
+        "sentiment": -2,
+        "timestamp": 1638026045,
+        "published": "November 27, 2021 10:14 AM"
+    },
+    {
         "title": "3 burned bodies found in Solomon Islands' Chinatown following days of violent protests",
         "domain": "edition.cnn.com",
         "category": "worldnews",
