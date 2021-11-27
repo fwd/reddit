@@ -1,5 +1,86 @@
 [
     {
+        "title": "‘We will start again’: Afghan female MPs, now refugees, are still fighting for rights",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/global-development/2021/nov/27/we-will-start-again-afghan-female-mps-now-refugees-are-still-fighting-for-rights",
+        "sentiment": -2,
+        "timestamp": 1638016760,
+        "published": "November 27, 2021 7:39 AM"
+    },
+    {
+        "title": "Will California Get Its Shot at Single-Payer Health Care?",
+        "domain": "capitalandmain.com",
+        "category": "politics",
+        "link": "https://capitalandmain.com/will-california-get-its-shot-at-single-payer-health-care",
+        "sentiment": 2,
+        "timestamp": 1638019877,
+        "published": "November 27, 2021 8:31 AM"
+    },
+    {
+        "title": "EU rejects fruits from Turkey due to harmful pesticide residues",
+        "domain": "duvarenglish.com",
+        "category": "worldnews",
+        "link": "https://www.duvarenglish.com/eu-rejects-fruits-from-turkey-due-to-chlorpyrifos-residues-news-59670",
+        "sentiment": -3,
+        "timestamp": 1638023177,
+        "published": "November 27, 2021 9:26 AM"
+    },
+    {
+        "title": "Suspected Omicron coronavirus case found in Germany",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/suspected-omicron-case-found-germany-regional-minister-2021-11-27/",
+        "sentiment": -1,
+        "timestamp": 1638024569,
+        "published": "November 27, 2021 9:49 AM"
+    },
+    {
+        "title": "These days, Capitol Hill townhomes aren't for living in. They're for lobbying.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246",
+        "sentiment": -2,
+        "timestamp": 1638024656,
+        "published": "November 27, 2021 9:50 AM"
+    },
+    {
+        "title": "Thieves target Home Depot in California, making off with hammers, crowbars and other tools",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/27/us/home-depot-california-robbery/index.html",
+        "sentiment": 0,
+        "timestamp": 1638025171,
+        "published": "November 27, 2021 9:59 AM"
+    },
+    {
+        "title": "Pay attention to redistricting in Florida. Gerrymandering leaves voters powerless | Opinion",
+        "domain": "miamiherald.com",
+        "category": "politics",
+        "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article256089527.html#storylink=mainstage_lead",
+        "sentiment": -3,
+        "timestamp": 1638027029,
+        "published": "November 27, 2021 10:30 AM"
+    },
+    {
+        "title": "A quadriplegic who’s gaining movement through robotics",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/photography/2021/11/23/my-day-with-henry/",
+        "sentiment": 2,
+        "timestamp": 1638027694,
+        "published": "November 27, 2021 10:41 AM"
+    },
+    {
+        "title": "Freddie Highmore (The Good Doctor) is the Performer of the Week. Honorable mentions: Matthew Macfadyen (Succession), Elle Fanning & Nicholas Hoult (The Great) and Paul Rudd (The Shrink Next Door).",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/27/freddie-highmore-performance-the-good-doctor-season-5-episode-7-shaun/",
+        "sentiment": 6,
+        "timestamp": 1638030077,
+        "published": "November 27, 2021 11:21 AM"
+    },
+    {
         "title": "Progressive US Lawmakers Mark Black Friday With Calls to Pass the PRO Act | \"The right to organize, fight for better working conditions, and fair pay must always be protected.\"",
         "domain": "commondreams.org",
         "category": "politics",
