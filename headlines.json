@@ -1,5 +1,149 @@
 [
     {
+        "title": "3 burned bodies found in Solomon Islands' Chinatown following days of violent protests",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/26/asia/solomon-islands-protest-fourth-day-intl-hnk/index.html",
+        "sentiment": -5,
+        "timestamp": 1637995709,
+        "published": "November 27, 2021 1:48 AM"
+    },
+    {
+        "title": "New Zealand bans travel from 9 southern African countries",
+        "domain": "rnz.co.nz",
+        "category": "worldnews",
+        "link": "https://www.rnz.co.nz/news/national/456719/new-zealand-bans-travel-from-9-southern-african-countries",
+        "sentiment": 0,
+        "timestamp": 1638008448,
+        "published": "November 27, 2021 5:20 AM"
+    },
+    {
+        "title": "Russian nuclear-powered submarines leave Pacific port one by one",
+        "domain": "english.pravda.ru",
+        "category": "worldnews",
+        "link": "https://english.pravda.ru/news/russia/149739-russian_submarine/",
+        "sentiment": -1,
+        "timestamp": 1638008668,
+        "published": "November 27, 2021 5:24 AM"
+    },
+    {
+        "title": "First fatalities of Solomon Islands unrest discovered in burnt-out Chinatown store",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-11-27/three-killed-solomon-islands-unrest/100655960",
+        "sentiment": -3,
+        "timestamp": 1638009258,
+        "published": "November 27, 2021 5:34 AM"
+    },
+    {
+        "title": "EU urged not label intensive farming as a sustainable as they decide what activities are climate friendly. \"Intensively reared livestock had negative impacts on biodiversity, water use, antimicrobial resistance and soil health\" say investors.",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2021/11/25/investors-argue-the-eu-s-agricultural-subsidies-are-not-green-they-are-harmful",
+        "sentiment": 2,
+        "timestamp": 1638011408,
+        "published": "November 27, 2021 6:10 AM"
+    },
+    {
+        "title": "ABC’s Jonathan Karl Issues Stark Warning About Covering Trump 2024 | The \"Betrayal\" author broke down why reporting on a third Trump run for president would be “tremendously challenging.\"",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/jonathan-karl-donald-trump-2024-campaign-dangers_n_61a20d7de4b044a1cc155d0a",
+        "sentiment": -7,
+        "timestamp": 1638014219,
+        "published": "November 27, 2021 6:56 AM"
+    },
+    {
+        "title": "Alabama city told to keep Confederate street name or face $25,000 fine",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/25/alabama-city-confederate-street-name-fine",
+        "sentiment": 2,
+        "timestamp": 1638014456,
+        "published": "November 27, 2021 7:00 AM"
+    },
+    {
+        "title": "CDC says no cases of Omicron identified in U.S. so far",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-no-cases-omicron-identified-us-so-far-2021-11-27/",
+        "sentiment": -1,
+        "timestamp": 1638016812,
+        "published": "November 27, 2021 7:40 AM"
+    },
+    {
+        "title": "The Democrats need to stop acting scared, stop scaling back the Build Back Better, and pass the bill right now",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/democrats-pass-bbb-paring-back-republicans-congress-infrastructure-2021-11",
+        "sentiment": -2,
+        "timestamp": 1638018666,
+        "published": "November 27, 2021 8:11 AM"
+    },
+    {
+        "title": "Ilhan Omar: Lauren Boebert’s ‘Jihad Squad’ bigotry is ‘no laughing matter’",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/27/ilhan-omar-lauren-boebert-bigotry-republicans-trump-pelosi-mccarthy",
+        "sentiment": 1,
+        "timestamp": 1638018816,
+        "published": "November 27, 2021 8:13 AM"
+    },
+    {
+        "title": "Suspected Omicron case found in Germany, regional minister says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/suspected-omicron-case-found-germany-regional-minister-2021-11-27/",
+        "sentiment": -1,
+        "timestamp": 1638019100,
+        "published": "November 27, 2021 8:18 AM"
+    },
+    {
+        "title": "'Mystery Science Theater 3000' Unveils All 13 Movies for New Season",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/mystery-science-theater-3000-season-13-movies/",
+        "sentiment": 0,
+        "timestamp": 1638020012,
+        "published": "November 27, 2021 8:33 AM"
+    },
+    {
+        "title": "Democrats need to stop playing by Mitch McConnell's rules. Fight back.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/democrats-play-by-mcconnells-rules-trump-gop-jan-6-2021-11",
+        "sentiment": -2,
+        "timestamp": 1638020090,
+        "published": "November 27, 2021 8:34 AM"
+    },
+    {
+        "title": "NASA hopes to hit an asteroid now in case we really need to knock one away later",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/science/interactive/2021/nasa-rams-an-asteroid-planetary-defense/",
+        "sentiment": 2,
+        "timestamp": 1638021958,
+        "published": "November 27, 2021 9:05 AM"
+    },
+    {
+        "title": "'Saved by the Bell' star Elizabeth Berkley Lauren unpacks that 'Showgirls' homage",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/saved-by-the-bell-elizabeth-berkley-lauren-unpacks-showgirls/?",
+        "sentiment": 0,
+        "timestamp": 1638022657,
+        "published": "November 27, 2021 9:17 AM"
+    },
+    {
+        "title": "Nuclear fusion: why the race to harness the power of the sun just sped up",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/33942ae7-75ff-4911-ab99-adc32545fe5c",
+        "sentiment": 0,
+        "timestamp": 1638022830,
+        "published": "November 27, 2021 9:20 AM"
+    },
+    {
         "title": "Some Old Spice and Secret deodorants recalled after cancer-causing chemical is detected",
         "domain": "cnn.com",
         "category": "news",
