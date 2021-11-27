@@ -1,5 +1,41 @@
 [
     {
+        "title": "Merck's COVID-19 pill significantly less effective in new analysis - Merck & Co (MRK.N) said on Friday updated data from its study of its experimental COVID-19 pill showed the drug was significantly less effective in cutting hospitalizations and deaths than previously reported.",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/merck-says-covid-19-pill-cuts-hospitalization-death-risk-by-30-2021-11-26/",
+        "sentiment": 1,
+        "timestamp": 1638004944,
+        "published": "November 27, 2021 4:22 AM"
+    },
+    {
+        "title": "61 people on flight from South Africa to the Netherlands test positive for COVID-19.",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/passengers-south-africa-face-wait-covid-19-testing-amsterdam-2021-11-26/",
+        "sentiment": 2,
+        "timestamp": 1638006431,
+        "published": "November 27, 2021 4:47 AM"
+    },
+    {
+        "title": "Xiaomi to open car plant in Beijing with an annual output of 300,000 vehicles",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/xiaomi-open-car-plant-beijing-with-annual-output-300000-vehicles-beijing-govt-2021-11-27/",
+        "sentiment": 0,
+        "timestamp": 1638006462,
+        "published": "November 27, 2021 4:47 AM"
+    },
+    {
+        "title": "61 arrivals from South Africa test positive for COVID-19",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-netherlands-south-africa-amsterdam-1b344a86ff359a552aa5a64899a57ff7?",
+        "sentiment": 2,
+        "timestamp": 1638007831,
+        "published": "November 27, 2021 5:10 AM"
+    },
+    {
         "title": "Egypt reopens 3,000-year-old Avenue of Sphinxes",
         "domain": "nbcnews.com",
         "category": "worldnews",
