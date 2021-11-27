@@ -1,5 +1,41 @@
 [
     {
+        "title": "‘A core threat to our democracy’: threat of political violence growing across US | Alexandria Ocasio-Cortez",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/27/political-violence-threats-multiplying-us",
+        "sentiment": -6,
+        "timestamp": 1638007804,
+        "published": "November 27, 2021 5:10 AM"
+    },
+    {
+        "title": "Dutch say 61 Covid positive on flights from S.Africa",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211127-dutch-say-61-covid-positive-on-flights-from-s-africa",
+        "sentiment": 2,
+        "timestamp": 1638011747,
+        "published": "November 27, 2021 6:15 AM"
+    },
+    {
+        "title": "Every county in the US ranked by internet pricing, competition and coverage",
+        "domain": "broadbandnow.com",
+        "category": "technology",
+        "link": "https://broadbandnow.com/research/county-broadband-statistics",
+        "sentiment": 0,
+        "timestamp": 1638012805,
+        "published": "November 27, 2021 6:33 AM"
+    },
+    {
+        "title": "CBS says Raiders-Cowboys Thanksgiving game averaged 38.5 million viewers, highest NFL regular-season audience since 1990",
+        "domain": "awfulannouncing.com",
+        "category": "television",
+        "link": "https://awfulannouncing.com/nfl/raiders-cowboys-cbs-thanksgiving-game-record.html",
+        "sentiment": 0,
+        "timestamp": 1638014917,
+        "published": "November 27, 2021 7:08 AM"
+    },
+    {
         "title": "Merck's COVID-19 pill significantly less effective in new analysis - Merck & Co (MRK.N) said on Friday updated data from its study of its experimental COVID-19 pill showed the drug was significantly less effective in cutting hospitalizations and deaths than previously reported.",
         "domain": "reuters.com",
         "category": "worldnews",
