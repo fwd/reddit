@@ -1,5 +1,41 @@
 [
     {
+        "title": "Egypt reopens 3,000-year-old Avenue of Sphinxes",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/egypt-reopen-ancient-avenue-sphinxes-luxor-karnak-parade-rcna6723",
+        "sentiment": 0,
+        "timestamp": 1637995235,
+        "published": "November 27, 2021 1:40 AM"
+    },
+    {
+        "title": "Hong Kong confirms two cases of virulent new COVID-19 variant, one of which travelled from Canada",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/world/hong-kong-confirms-two-cases-of-new-covid-19-variant-one-travelled-from-canada",
+        "sentiment": -2,
+        "timestamp": 1638003419,
+        "published": "November 27, 2021 3:56 AM"
+    },
+    {
+        "title": "Britain's Got the Pop Factor (Channel 4, 2008) - A satire of a TV talent show finale, featuring the original Pop Idol judges (minus Simon Cowell) and hosted by Cat Deeley.",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=fp06Wbj6-Wc",
+        "sentiment": 2,
+        "timestamp": 1638005832,
+        "published": "November 27, 2021 4:37 AM"
+    },
+    {
+        "title": "Rob Lowe Was Summoned by the National Security Advisor Over ‘West Wing’ Question",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/rob-lowe-national-security-advisor-west-wing-1235053290/",
+        "sentiment": -2,
+        "timestamp": 1638007842,
+        "published": "November 27, 2021 5:10 AM"
+    },
+    {
         "title": "More than 1,000 arrests and USD 27 million intercepted in massive financial crime crackdown in 22 jurisdictions around the world that cooperated to swiftly intercept the illicit proceeds of online fraud",
         "domain": "interpol.int",
         "category": "worldnews",
