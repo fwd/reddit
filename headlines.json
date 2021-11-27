@@ -1,5 +1,50 @@
 [
     {
+        "title": "Fake nurse with long history of impersonation worked at Vancouver hospital for a year, police say | CBC News",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/fake-nurse-worked-at-vancouver-hospital-for-a-year-1.6262965",
+        "sentiment": -3,
+        "timestamp": 1637990437,
+        "published": "November 27, 2021 12:20 AM"
+    },
+    {
+        "title": "Female passenger reportedly breastfeeds cat on Delta flight.",
+        "domain": "nzherald.co.nz",
+        "category": "news",
+        "link": "https://www.nzherald.co.nz/travel/female-passenger-reportedly-breastfeeds-cat-on-delta-flight/5FCBRPUNQUMNIJD35RZDFW77ME/",
+        "sentiment": 0,
+        "timestamp": 1637990674,
+        "published": "November 27, 2021 12:24 AM"
+    },
+    {
+        "title": "Despite vaccines, the U.S. has lost more lives to Covid this year than last.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html",
+        "sentiment": -3,
+        "timestamp": 1637990980,
+        "published": "November 27, 2021 12:29 AM"
+    },
+    {
+        "title": "World races to contain new COVID threat, the omicron variant",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-new-variant-southern-africa-omicron-33fa0983af6c9f961a186f4f4bb1147d",
+        "sentiment": -2,
+        "timestamp": 1637995377,
+        "published": "November 27, 2021 1:42 AM"
+    },
+    {
+        "title": "Canada clamps down on Omicron COVID-19 variant. Experts say it’s likely ‘already here’",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8404811/omicron-variant-covid-canada-here/",
+        "sentiment": 0,
+        "timestamp": 1637995541,
+        "published": "November 27, 2021 1:45 AM"
+    },
+    {
         "title": "Putin is 'deadly serious' about neutralizing Ukraine, and has the upper hand over the West, former US diplomats and officials warn",
         "domain": "businessinsider.com",
         "category": "worldnews",
