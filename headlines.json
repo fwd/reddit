@@ -1,5 +1,86 @@
 [
     {
+        "title": "Boebert apologizes to Muslims as Dems call on GOP to 'take real action to confront racism'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/gop-lawmakers/583219-boebert-apologizes-to-muslim-community-after-omar-called-her-out-for-bigotry",
+        "sentiment": -1,
+        "timestamp": 1637970333,
+        "published": "November 26, 2021 6:45 PM"
+    },
+    {
+        "title": "Nano-spotlight used to capture first color photos of carbon nanotubes",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/science/nano-spotlight-carbon-nanotubes/",
+        "sentiment": 0,
+        "timestamp": 1637976597,
+        "published": "November 26, 2021 8:29 PM"
+    },
+    {
+        "title": "Iranian regime kills protestors in central city of Isfahan",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/middle-east/iranian-regime-kills-protestors-in-central-city-of-isfahan-687098",
+        "sentiment": -3,
+        "timestamp": 1637976670,
+        "published": "November 26, 2021 8:31 PM"
+    },
+    {
+        "title": "Albatross divorce rates going up due to climate change",
+        "domain": "original.newsbreak.com",
+        "category": "worldnews",
+        "link": "https://original.newsbreak.com/@polarbear-1588488/2445789666718-albatross-divorce-rates-going-up-due-to-climate-change?s=influencer",
+        "sentiment": 0,
+        "timestamp": 1637977262,
+        "published": "November 26, 2021 8:41 PM"
+    },
+    {
+        "title": "Brazil to shut its borders to six African countries",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/brazil-health-regulator-calls-africa-travel-restrictions-bolsonaro-dismissive-2021-11-26/",
+        "sentiment": 0,
+        "timestamp": 1637977442,
+        "published": "November 26, 2021 8:44 PM"
+    },
+    {
+        "title": "Video shows Republican congresswoman making racist remarks about colleague",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2021/11/26/boebert-comments-ilhan-omar-ldn-vpx.cnn",
+        "sentiment": -3,
+        "timestamp": 1637978758,
+        "published": "November 26, 2021 9:05 PM"
+    },
+    {
+        "title": "Omicron, a new Covid-19 variant with high number of mutations, sparks travel bans and worries scientists",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/26/africa/new-covid-variant-discovered-south-africa-b11529-intl/index.html",
+        "sentiment": -3,
+        "timestamp": 1637979245,
+        "published": "November 26, 2021 9:14 PM"
+    },
+    {
+        "title": "Female passenger reportedly breastfeeds cat on Delta flight",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/travel/female-passenger-reportedly-breastfeeds-cat-on-delta-flight/5FCBRPUNQUMNIJD35RZDFW77ME/",
+        "sentiment": 0,
+        "timestamp": 1637979667,
+        "published": "November 26, 2021 9:21 PM"
+    },
+    {
+        "title": "‘It's Coming': NY Declares State of Emergency Ahead of Potential Omicron Spike",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/local/omicron-variant-ny-declares-state-of-emergency-ahead-of-potential-spike/3421297/",
+        "sentiment": -2,
+        "timestamp": 1637980969,
+        "published": "November 26, 2021 9:42 PM"
+    },
+    {
         "title": "GOP Rep. Adam Kinzinger Slams Lauren Boebert As 'Trash' For Her Anti-Muslim Tale",
         "domain": "huffpost.com",
         "category": "politics",
