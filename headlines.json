@@ -1,5 +1,77 @@
 [
     {
+        "title": "Democratic Leadership Statement on Recent Islamophobic Comments by Congresswoman Lauren Boebert",
+        "domain": "speaker.gov",
+        "category": "politics",
+        "link": "https://www.speaker.gov/newsroom/112621",
+        "sentiment": 1,
+        "timestamp": 1638044243,
+        "published": "November 27, 2021 3:17 PM"
+    },
+    {
+        "title": "'This land belongs to the Mi’kmaq people': 200 acres of historic land transferred in Nova Scotia, Canada",
+        "domain": "atlantic.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://atlantic.ctvnews.ca/this-land-belongs-to-the-mi-kmaq-people-historic-land-transfer-on-nova-scotia-s-south-shore-1.5683773",
+        "sentiment": 0,
+        "timestamp": 1638044934,
+        "published": "November 27, 2021 3:28 PM"
+    },
+    {
+        "title": "Moderate House Republican warns McCarthy over embracing far-right members",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/27/politics/kevin-mccarthy-speaker-race-moderates/index.html",
+        "sentiment": -2,
+        "timestamp": 1638045009,
+        "published": "November 27, 2021 3:30 PM"
+    },
+    {
+        "title": "Thailand’s nightlife venues and bars told to keep closed until January 16",
+        "domain": "thethaiger.com",
+        "category": "worldnews",
+        "link": "https://thethaiger.com/coronavirus/thailands-nightlife-venues-and-bars-told-to-keep-closed-until-january-16",
+        "sentiment": 0,
+        "timestamp": 1638046209,
+        "published": "November 27, 2021 3:50 PM"
+    },
+    {
+        "title": "China risks ‘colossal Covid-19 outbreak’ by opening up, study finds",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3157613/china-risks-colossal-covid-19-outbreak-opening-study",
+        "sentiment": -2,
+        "timestamp": 1638046742,
+        "published": "November 27, 2021 3:59 PM"
+    },
+    {
+        "title": "Hospital confirms first Czech case of new COVID strain",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/liveblog_entry/hospital-confirms-first-czech-case-of-new-covid-strain/",
+        "sentiment": 0,
+        "timestamp": 1638046779,
+        "published": "November 27, 2021 3:59 PM"
+    },
+    {
+        "title": "Reevaluating the DMCA 22 Years Later: Let’s Think of the Users",
+        "domain": "eff.org",
+        "category": "technology",
+        "link": "https://www.eff.org/deeplinks/2020/02/reevaluating-dmca-22-years-later-lets-think-users",
+        "sentiment": 0,
+        "timestamp": 1638048484,
+        "published": "November 27, 2021 4:28 PM"
+    },
+    {
+        "title": "How To’s John Wilson Reveals Why He Almost Didn’t Tell His Story About the NXIVM Cult",
+        "domain": "slate.com",
+        "category": "television",
+        "link": "https://slate.com/culture/2021/11/how-to-with-john-wilson-interview-season-two-hbo.html",
+        "sentiment": 0,
+        "timestamp": 1638050201,
+        "published": "November 27, 2021 4:56 PM"
+    },
+    {
         "title": "EU to open up 'black box' of political ads",
         "domain": "euobserver.com",
         "category": "worldnews",
