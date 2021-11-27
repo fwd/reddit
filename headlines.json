@@ -1,5 +1,122 @@
 [
     {
+        "title": "'Nobody' in Biden's West Wing is shutting down chatter of Buttigieg as a potential presidential successor: report",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/buttigieg-presidential-chatter-biden-white-house-staffers-kamala-harris-democrats-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638042981,
+        "published": "November 27, 2021 2:56 PM"
+    },
+    {
+        "title": "500 vigilantes gather in Mexico town, pledge to aid police",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/500-vigilantes-gather-mexico-town-pledge-aid-police-81423527",
+        "sentiment": 0,
+        "timestamp": 1638048018,
+        "published": "November 27, 2021 4:20 PM"
+    },
+    {
+        "title": "US Customs officials seize nearly 4,000 bongs at DC airport",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/27/us/dulles-cbp-seize-bongs-trnd/index.html",
+        "sentiment": 0,
+        "timestamp": 1638048398,
+        "published": "November 27, 2021 4:26 PM"
+    },
+    {
+        "title": "Hundreds of environmental protesters blocked roads in Belgrade and other Serbian towns , angered at mining giant Rio Tinto's plans to extract lithium in the Balkan nation. Substantial deposits of lithium, a key component for electric car batteries, are found around the western town of Loznica",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211127-protesters-block-roads-in-serbia-over-lithium-mining-project",
+        "sentiment": -5,
+        "timestamp": 1638048789,
+        "published": "November 27, 2021 4:33 PM"
+    },
+    {
+        "title": "Evangelical Christian groups flout the law – again| Christian Right groups promoting anti-LGBT practices in the US and abroad, despite bans, is nothing new: they’ve been doing it for decades",
+        "domain": "losangelesblade.com",
+        "category": "politics",
+        "link": "https://www.losangelesblade.com/2021/11/27/evangelical-christian-groups-flout-the-law-again/",
+        "sentiment": 1,
+        "timestamp": 1638048864,
+        "published": "November 27, 2021 4:34 PM"
+    },
+    {
+        "title": "New Zealand Permanently Legalizes Drug Checking, a Global First",
+        "domain": "filtermag.org",
+        "category": "worldnews",
+        "link": "https://filtermag.org/new-zealand-legalize-drug-checking/",
+        "sentiment": 0,
+        "timestamp": 1638050331,
+        "published": "November 27, 2021 4:58 PM"
+    },
+    {
+        "title": "California high-speed rail project receives more grant money",
+        "domain": "rtands.com",
+        "category": "technology",
+        "link": "https://www.rtands.com/passenger/california-high-speed-rail-project-receives-more-grant-money/",
+        "sentiment": 1,
+        "timestamp": 1638050472,
+        "published": "November 27, 2021 5:01 PM"
+    },
+    {
+        "title": "Chinese tech giant Tencent told to suspend new app roll outs",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/business-59426908",
+        "sentiment": -1,
+        "timestamp": 1638051645,
+        "published": "November 27, 2021 5:20 PM"
+    },
+    {
+        "title": "Israel bans foreigners from entering country to stop Omicron variant",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/breaking-news/south-african-variant-of-concern-discovered-in-israel-687074",
+        "sentiment": -1,
+        "timestamp": 1638051765,
+        "published": "November 27, 2021 5:22 PM"
+    },
+    {
+        "title": "Unruly passenger allegedly sexually assaulted flight attendant before smoking joint in bathroom.",
+        "domain": "thegrowthop.com",
+        "category": "news",
+        "link": "https://www.thegrowthop.com/cannabis-news/not-so-friendly-skies-unruly-passenger-allegedly-assaulted-flight-attendant-before-smoking-joint-in-bathroom",
+        "sentiment": 0,
+        "timestamp": 1638053970,
+        "published": "November 27, 2021 5:59 PM"
+    },
+    {
+        "title": "Germany plans to phase out the sale of combustion-engine vehicles to help meet its ambitious goal of getting 15 million electric vehicles on the road by 2030",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/germany-to-phase-out-the-sale-of-combustion-engine-cars-in-the-next-decade-2021-11",
+        "sentiment": 4,
+        "timestamp": 1638054343,
+        "published": "November 27, 2021 6:05 PM"
+    },
+    {
+        "title": "Israel banning entry of all foreigners in effort to contain omicron variant | CBC News",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-nov27-2021-1.6265192?__vfz=medium%3Dsharebar",
+        "sentiment": 0,
+        "timestamp": 1638054377,
+        "published": "November 27, 2021 6:06 PM"
+    },
+    {
+        "title": "The small nuclear power plants billed as an energy fix",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/business-59245973",
+        "sentiment": 0,
+        "timestamp": 1638055028,
+        "published": "November 27, 2021 6:17 PM"
+    },
+    {
         "title": "Democratic Leadership Statement on Recent Islamophobic Comments by Congresswoman Lauren Boebert",
         "domain": "speaker.gov",
         "category": "politics",
