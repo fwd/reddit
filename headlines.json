@@ -1,5 +1,59 @@
 [
     {
+        "title": "Covid: Dozens test positive on SA-Netherlands flights",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59442149",
+        "sentiment": 2,
+        "timestamp": 1638018478,
+        "published": "November 27, 2021 8:07 AM"
+    },
+    {
+        "title": "Nvidia’s DLSS has come to Linux gaming (but not the Steam Deck obviously)",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/22803980/nvidia-dlss-linux-arrived-proton-game-deathloop-support",
+        "sentiment": 0,
+        "timestamp": 1638031007,
+        "published": "November 27, 2021 11:36 AM"
+    },
+    {
+        "title": "Biden nominates Ghislaine Maxwell's judge, Memphis litigator to appeals courts",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17/",
+        "sentiment": 0,
+        "timestamp": 1638031036,
+        "published": "November 27, 2021 11:37 AM"
+    },
+    {
+        "title": "Covid vaccine effective against new Omicron variant: South Africa's health minister",
+        "domain": "deccanherald.com",
+        "category": "worldnews",
+        "link": "https://www.deccanherald.com/international/world-news-politics/covid-vaccine-effective-against-new-omicron-variant-south-africas-health-minister-1055120.html",
+        "sentiment": 2,
+        "timestamp": 1638031721,
+        "published": "November 27, 2021 11:48 AM"
+    },
+    {
+        "title": "AOC vs. Boebert: Addressing the Hollow at the Heart of Trumpism",
+        "domain": "msmagazine.com",
+        "category": "politics",
+        "link": "https://msmagazine.com/2021/11/27/aoc-tax-the-rich-dress-boebert-lets-go-brandon-trumpism/",
+        "sentiment": -1,
+        "timestamp": 1638032154,
+        "published": "November 27, 2021 11:55 AM"
+    },
+    {
+        "title": "Peng Shuai: World Tennis Association Concerned Over ‘Censorship or Coercion’",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-china-59443519",
+        "sentiment": -2,
+        "timestamp": 1638032833,
+        "published": "November 27, 2021 12:07 PM"
+    },
+    {
         "title": "Tourists Rush To South Africa Airport After Travel Bans Over New Covid Strain",
         "domain": "ndtv.com",
         "category": "worldnews",
