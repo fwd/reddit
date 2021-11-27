@@ -1,5 +1,95 @@
 [
     {
+        "title": "EU to open up 'black box' of political ads",
+        "domain": "euobserver.com",
+        "category": "worldnews",
+        "link": "https://euobserver.com/democracy/153638",
+        "sentiment": 0,
+        "timestamp": 1638038197,
+        "published": "November 27, 2021 1:36 PM"
+    },
+    {
+        "title": "Advocates welcome halt to shortfin mako shark fishing, call for longer ban",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/11/advocates-welcome-halt-to-shortfin-mako-shark-fishing-call-for-longer-ban/",
+        "sentiment": 0,
+        "timestamp": 1638042283,
+        "published": "November 27, 2021 2:44 PM"
+    },
+    {
+        "title": "Lin Wood Goes Off the Deep State Deep End, Accuses Trump Lawyer Sidney Powell and Stop the Steal of Grifting",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/lin-wood-sidney-powell-stop-steal-scam-1263665/",
+        "sentiment": -5,
+        "timestamp": 1638042451,
+        "published": "November 27, 2021 2:47 PM"
+    },
+    {
+        "title": "Mike Lindell’s Election Lawsuit Is Neither Real Nor Spectacular | Not a single state attorney general would sign it. Conspiracy!",
+        "domain": "abovethelaw.com",
+        "category": "politics",
+        "link": "https://abovethelaw.com/2021/11/mike-lindells-election-lawsuit-is-neither-real-nor-spectacular/",
+        "sentiment": -5,
+        "timestamp": 1638044191,
+        "published": "November 27, 2021 3:16 PM"
+    },
+    {
+        "title": "Analysis | When you ‘Ask app not to track,’ some iPhone apps keep snooping anyway",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2021/09/23/iphone-tracking/?utm_source=reddit.com",
+        "sentiment": 0,
+        "timestamp": 1638044509,
+        "published": "November 27, 2021 3:21 PM"
+    },
+    {
+        "title": "Jeremy Clarkson find a strange tradition | The Grand Tour",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=EtVnMU31nfU",
+        "sentiment": 2,
+        "timestamp": 1638045013,
+        "published": "November 27, 2021 3:30 PM"
+    },
+    {
+        "title": "A 5-year-old child was fatally shot by teenager making a video for social media, Minnesota police say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/27/us/minnesota-child-shot/index.html",
+        "sentiment": 0,
+        "timestamp": 1638045614,
+        "published": "November 27, 2021 3:40 PM"
+    },
+    {
+        "title": "An exonerated Missouri man who was released from prison after 43 years isn't eligible for compensation from the state. Donors have now raised over $1.4 million on GoFundMe.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kevin-strickland-wrongfully-convicted-missouri-law-gofundme-donations-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638046201,
+        "published": "November 27, 2021 3:50 PM"
+    },
+    {
+        "title": "Disney has allegedly removed one episode of The Simpsons from the Hong Kong edition of Disney+, which described the family’s visit to Beijing and carried this famous scene about tiananmen square",
+        "domain": "thestandnews.com",
+        "category": "television",
+        "link": "https://www.thestandnews.com/culture/%E9%98%BF%E6%A3%AE%E4%B8%80%E6%97%8F%E9%9B%86%E6%95%B8%E9%87%8D%E7%8F%BE%E5%A4%A9%E5%AE%89%E9%96%80%E5%9D%A6%E5%85%8B%E4%BA%BA%E4%B8%80%E5%B9%95-disney-%E9%A6%99%E6%B8%AF%E7%84%A1%E4%B8%8A%E6%9E%B6",
+        "sentiment": 2,
+        "timestamp": 1638047311,
+        "published": "November 27, 2021 4:08 PM"
+    },
+    {
+        "title": "AMC Plus Boards Dominic Cooper, Douglas Booth Spaghetti Western Series ‘That Dirty Black Bag’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/streaming/global/dominic-cooper-douglas-booth-spaghetti-western-series-amc-plus-1235115038/",
+        "sentiment": -2,
+        "timestamp": 1638047479,
+        "published": "November 27, 2021 4:11 PM"
+    },
+    {
         "title": "Travel doors slam shut as new Covid variant triggers alarm, stranding hundreds of passengers",
         "domain": "edition.cnn.com",
         "category": "worldnews",
