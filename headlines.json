@@ -1,5 +1,41 @@
 [
     {
+        "title": "Hear former GOP lawmaker's plan to get Greene and Boebert out of Congress",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2021/11/27/barbara-comstock-boebert-comments-marjorie-taylor-greene-sot-vpx.cnn",
+        "sentiment": 0,
+        "timestamp": 1638054979,
+        "published": "November 27, 2021 6:16 PM"
+    },
+    {
+        "title": "'Afghan Girl' from National Geographic cover evacuated to Rome, Italian government says",
+        "domain": "boston.com",
+        "category": "worldnews",
+        "link": "https://www.boston.com/news/world-news/2021/11/27/afghan-girl-from-national-geographic-cover-evacuated-to-rome-italian-government-says/?p1=hp_secondary",
+        "sentiment": -1,
+        "timestamp": 1638061276,
+        "published": "November 27, 2021 8:01 PM"
+    },
+    {
+        "title": "South African scientists brace for wave propelled by omicron, 20-30yo getting moderate to severe symptoms",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/Health/wireStory/covid-variant-threat-worldwide-scramble-81417682",
+        "sentiment": -2,
+        "timestamp": 1638062681,
+        "published": "November 27, 2021 8:24 PM"
+    },
+    {
+        "title": "Ericsson to buy cloud firm Vonage for $6.2 billion",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/11/22/tech/ericsson-vonage-cloud/index.html",
+        "sentiment": 0,
+        "timestamp": 1638063814,
+        "published": "November 27, 2021 8:43 PM"
+    },
+    {
         "title": "Anti-government protesters block bridges, roads in Serbia",
         "domain": "apnews.com",
         "category": "news",
