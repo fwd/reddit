@@ -1,5 +1,23 @@
 [
     {
+        "title": "World is put on high alert over the Omicron coronavirus variant",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "http://www.cnn.com/2021/11/27/world/omicron-coronavirus-variant-intl/index.html",
+        "sentiment": -1,
+        "timestamp": 1638077148,
+        "published": "November 28, 2021 12:25 AM"
+    },
+    {
+        "title": "Travellers test positive to Omicron COVID-19 strain after arriving in Sydney from southern Africa, NSW Health says",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-11-28/tavellers-test-positive-omicron-covid-sydney/100657076",
+        "sentiment": 2,
+        "timestamp": 1638080470,
+        "published": "November 28, 2021 1:21 AM"
+    },
+    {
         "title": "Wisconsin senators warn in rare joint statement outsiders may try to exploit Waukesha tragedy for 'political purposes'",
         "domain": "cnn.com",
         "category": "news",
