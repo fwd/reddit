@@ -1,5 +1,41 @@
 [
     {
+        "title": "Inflation isn’t just a US thing",
+        "domain": "vox.com",
+        "category": "politics",
+        "link": "https://www.vox.com/2021/11/24/22799217/global-inflation-us-eu-germany-uk",
+        "sentiment": 0,
+        "timestamp": 1638063789,
+        "published": "November 27, 2021 8:43 PM"
+    },
+    {
+        "title": "Taliban leader calls for help in first Afghan address",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/taliban-leader-calls-for-help-in-first-afghan-address/a-59958609",
+        "sentiment": 2,
+        "timestamp": 1638065382,
+        "published": "November 27, 2021 9:09 PM"
+    },
+    {
+        "title": "More than seven billion doses of coronavirus vaccines have been administered, in at least 197 countries worldwide",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-56237778",
+        "sentiment": 0,
+        "timestamp": 1638066381,
+        "published": "November 27, 2021 9:26 PM"
+    },
+    {
+        "title": "Locust burgers, desserts, and other products could be coming to European supermarkets after the EU’s food safety agency approved human consumption of insects for the second time",
+        "domain": "original.newsbreak.com",
+        "category": "worldnews",
+        "link": "https://original.newsbreak.com/@polarbear-1588488/2446275681939-european-commission-approves-locusts-for-human-consumption-the-second-insect-to-be-authorized-as-a-novel-food?s=influencer",
+        "sentiment": 3,
+        "timestamp": 1638067465,
+        "published": "November 27, 2021 9:44 PM"
+    },
+    {
         "title": "Unjabbed mothers are pushing maternity wards to 'crisis', doctors warn",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
