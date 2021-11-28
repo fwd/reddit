@@ -1,5 +1,50 @@
 [
     {
+        "title": "India plans to send humans to space by 2023",
+        "domain": "m.timesofindia.com",
+        "category": "worldnews",
+        "link": "https://m.timesofindia.com/india/covid-stalled-gaganyaan-project-manned-mission-will-finally-be-launched-in-2023-isro-chief/amp_articleshow/87650517.cms",
+        "sentiment": 0,
+        "timestamp": 1638117198,
+        "published": "November 28, 2021 11:33 AM"
+    },
+    {
+        "title": "Meet a single mom who transformed her life through a guaranteed income program that gives her $1,800 every 3 months. It helped her get a car, a new job, and move into a better neighborhood for her daughter.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/how-ubi-helps-woman-went-from-homeless-guaranteed-income-funding-2021-11",
+        "sentiment": 2,
+        "timestamp": 1638133358,
+        "published": "November 28, 2021 4:02 PM"
+    },
+    {
+        "title": "It's long past time for the Senate ethics panel to address Hawley's Jan. 6 actions",
+        "domain": "stltoday.com",
+        "category": "politics",
+        "link": "https://www.stltoday.com/opinion/editorial/editorial-its-long-past-time-for-the-senate-ethics-panel-to-address-hawleys-jan-6/article_3ca27f48-21fa-5eca-ab0f-3856bb9b5c79.html",
+        "sentiment": 0,
+        "timestamp": 1638135518,
+        "published": "November 28, 2021 4:38 PM"
+    },
+    {
+        "title": "'He walked on the bus and began shooting,' 3 shot, 1 dead after gunman opens fire",
+        "domain": "wwmt.com",
+        "category": "news",
+        "link": "https://wwmt.com/news/local/he-walked-on-the-bus-and-began-shooting-3-shot-1-dead-after-gunman-opens-fire",
+        "sentiment": -5,
+        "timestamp": 1638137714,
+        "published": "November 28, 2021 5:15 PM"
+    },
+    {
+        "title": "Friends: The Holiday Armadillo",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/l1qbRncpGcI",
+        "sentiment": 0,
+        "timestamp": 1638137903,
+        "published": "November 28, 2021 5:18 PM"
+    },
+    {
         "title": "World Health Organization reaches draft consensus on future pandemic treaty",
         "domain": "reuters.com",
         "category": "news",
