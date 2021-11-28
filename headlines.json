@@ -1,5 +1,41 @@
 [
     {
+        "title": "Uber Eats to allow orders for cannabis in Ontario",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/11/22/business/uber-eats-cannabis-ontario/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2021-11-28T08%3A01%3A01",
+        "sentiment": 1,
+        "timestamp": 1638089246,
+        "published": "November 28, 2021 3:47 AM"
+    },
+    {
+        "title": "Australia confirms 2 omicron cases as travel curbs tighten",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/australia-confirms-omicron-cases-travel-curbs-tighten-81429601",
+        "sentiment": 0,
+        "timestamp": 1638095357,
+        "published": "November 28, 2021 5:29 AM"
+    },
+    {
+        "title": "GOP 'Silence Speaks Volumes,' Says Ilhan Omar as Boebert's Bigotry Goes Unpunished | \"Normalizing this bigotry not only endangers my life but the lives of all Muslims. Anti-Muslim bigotry has no place in Congress.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/11/27/gop-silence-speaks-volumes-says-ilhan-omar-boeberts-bigotry-goes-unpunished",
+        "sentiment": -1,
+        "timestamp": 1638095880,
+        "published": "November 28, 2021 5:38 AM"
+    },
+    {
+        "title": "If Merrick Garland Doesn’t Charge Trump and His Coup Plotters, Our Democracy Is Toast",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/if-merrick-garland-doesnt-charge-trump-and-his-coup-plotters-our-democracy-is-toast",
+        "sentiment": 0,
+        "timestamp": 1638096125,
+        "published": "November 28, 2021 5:42 AM"
+    },
+    {
         "title": "More Trouble With QAnon: Now Lin Wood Says 'Stop The Steal' Is A 'Deep State' Plot",
         "domain": "huffpost.com",
         "category": "politics",
