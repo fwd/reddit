@@ -1,5 +1,41 @@
 [
     {
+        "title": "Stowaway found in plane's landing gear compartment at Miami airport",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "http://www.nbcnews.com/news/amp/rcna6852",
+        "sentiment": 0,
+        "timestamp": 1638077436,
+        "published": "November 28, 2021 12:30 AM"
+    },
+    {
+        "title": "UAE says it will enact largest legal reform in its history, with 40 new laws to streamline trade, better protect women and ease restrictions on extramarital relationships",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/uae-says-it-will-enact-largest-legal-reform-in-its-history/",
+        "sentiment": 6,
+        "timestamp": 1638097628,
+        "published": "November 28, 2021 6:07 AM"
+    },
+    {
+        "title": "Russia starts full-scale production of its 'unstoppable' 6,670mph Zircon hypersonic missile as Moscow boasts it has capability to evade all Western defenses",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10248833/Russia-starts-scale-production-unstoppable-6-670mph-Zircon-hypersonic-missile.html",
+        "sentiment": 1,
+        "timestamp": 1638098858,
+        "published": "November 28, 2021 6:27 AM"
+    },
+    {
+        "title": "Pro-Russian Disinformation Outlet Evades Facebook Ban",
+        "domain": "isdglobal.org",
+        "category": "technology",
+        "link": "https://www.isdglobal.org/digital_dispatches/pro-russian-disinformation-outlet-evades-facebook-ban/",
+        "sentiment": -2,
+        "timestamp": 1638104039,
+        "published": "November 28, 2021 7:53 AM"
+    },
+    {
         "title": "Face coverings mandatory again in England",
         "domain": "bbc.co.uk",
         "category": "worldnews",
