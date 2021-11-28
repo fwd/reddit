@@ -1,5 +1,113 @@
 [
     {
+        "title": "New Zealand politician Julie Anne Genter cycles to hospital to give birth",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-asia-59450168?at_medium=RSS&at_campaign=KARANGA",
+        "sentiment": 0,
+        "timestamp": 1638091962,
+        "published": "November 28, 2021 4:32 AM"
+    },
+    {
+        "title": "Powerful 7.3-Magnitude Earthquake Hits Peru",
+        "domain": "sputniknews.com",
+        "category": "worldnews",
+        "link": "https://sputniknews.com/20211128/powerful-73-magnitude-earthquake-hits-peru-1091085009.html?utm_source=dlvr.it&utm_medium=twitter",
+        "sentiment": 2,
+        "timestamp": 1638098076,
+        "published": "November 28, 2021 6:14 AM"
+    },
+    {
+        "title": "RIVM: 13 Covid infections linked to Omicron variant, so far",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2021/11/28/rivm-13-covid-infections-linked-omicron-variant-far",
+        "sentiment": -2,
+        "timestamp": 1638103097,
+        "published": "November 28, 2021 7:38 AM"
+    },
+    {
+        "title": "Supreme Court set to take up all-or-nothing abortion fight",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/donald-trump-us-supreme-court-voting-rights-samuel-alito-07ecdb3661032c4c6ececd4d07c70655",
+        "sentiment": 3,
+        "timestamp": 1638103708,
+        "published": "November 28, 2021 7:48 AM"
+    },
+    {
+        "title": "‘Closely monitored’: Chinese spy ship spotted off Australia’s coast",
+        "domain": "7news.com.au",
+        "category": "worldnews",
+        "link": "https://7news.com.au/sunrise/on-the-show/chinese-spy-ship-spotted-off-australias-coast-c-4707189?fbclid=IwAR0hZPFt3UwvvC6xiRT-yejRfi309oFWgYRtZE4OGVV-bC3SoRzkPG16FLI",
+        "sentiment": 0,
+        "timestamp": 1638105563,
+        "published": "November 28, 2021 8:19 AM"
+    },
+    {
+        "title": "Democratic frustration growing over stagnating voting rights bills",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/583077-democratic-frustration-growing-over-stagnating-voting-rights-bills",
+        "sentiment": -1,
+        "timestamp": 1638106057,
+        "published": "November 28, 2021 8:27 AM"
+    },
+    {
+        "title": "Republicans are quietly rigging election maps to ensure permanent rule",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2021/nov/28/republicans-are-quietly-rigging-election-maps-to-ensure-permanent-rule",
+        "sentiment": 1,
+        "timestamp": 1638106982,
+        "published": "November 28, 2021 8:43 AM"
+    },
+    {
+        "title": "Robots outnumber human workers in this autonomous truck yard north of Denver",
+        "domain": "cpr.org",
+        "category": "technology",
+        "link": "https://www.cpr.org/2021/11/26/robots-outnumber-human-workers-in-this-autonomous-truck-yard-north-of-denver/",
+        "sentiment": 0,
+        "timestamp": 1638107161,
+        "published": "November 28, 2021 8:46 AM"
+    },
+    {
+        "title": "Woman 'raped and sold' in Hull fears being 'palmed off as a liar' by police",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/woman-raped-and-sold-in-hull-fears-being-palmed-off-as-a-liar-by-police-12470665",
+        "sentiment": 0,
+        "timestamp": 1638107593,
+        "published": "November 28, 2021 8:53 AM"
+    },
+    {
+        "title": "Rather than just retire sane GOP members should run 3rd party to ensure MAGA losses in 2022, it is the true patriotic thing to do if you care about preserving the US democracy.",
+        "domain": "ballotpedia.org",
+        "category": "politics",
+        "link": "https://ballotpedia.org/List_of_U.S._Congress_incumbents_who_are_not_running_for_re-election_in_2022",
+        "sentiment": 2,
+        "timestamp": 1638108889,
+        "published": "November 28, 2021 9:14 AM"
+    },
+    {
+        "title": "US Christian right group wages culture war with books, cartoon and nature doc",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/28/christ-church-us-christian-right-group-books-cartoon-nature-doc?CMP=Share_iOSApp_Other",
+        "sentiment": -2,
+        "timestamp": 1638109146,
+        "published": "November 28, 2021 9:19 AM"
+    },
+    {
+        "title": "\"The Beatles: Get Back\" serves a feast for superfans",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/reviews/22803457/the-beatles-get-back-review-documentary",
+        "sentiment": 0,
+        "timestamp": 1638109285,
+        "published": "November 28, 2021 9:21 AM"
+    },
+    {
         "title": "Stowaway found in plane's landing gear compartment at Miami airport",
         "domain": "nbcnews.com",
         "category": "news",
