@@ -1,5 +1,50 @@
 [
     {
+        "title": "Anti-government protesters block bridges, roads in Serbia",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-environment-europe-serbia-traffic-eb362fa2c86c050a3d3bcb615c93b727",
+        "sentiment": -3,
+        "timestamp": 1638037957,
+        "published": "November 27, 2021 1:32 PM"
+    },
+    {
+        "title": "GOP eyes booting Democrats from seats if House flips",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/583013-gop-eyes-booting-democrats-from-seats-if-house-flips",
+        "sentiment": 0,
+        "timestamp": 1638055940,
+        "published": "November 27, 2021 6:32 PM"
+    },
+    {
+        "title": "Joe Biden’s tech policy is becoming clearer | The administration is pushing back harder against big tech than anyone expected",
+        "domain": "economist.com",
+        "category": "politics",
+        "link": "https://www.economist.com/united-states/2021/11/27/joe-bidens-tech-policy-is-becoming-clearer",
+        "sentiment": 1,
+        "timestamp": 1638058110,
+        "published": "November 27, 2021 7:08 PM"
+    },
+    {
+        "title": "Over 30 Countries Have Imposed Restrictions on Travel from Southern Africa",
+        "domain": "travelinglifestyle.net",
+        "category": "news",
+        "link": "https://www.travelinglifestyle.net/countries-have-imposed-restrictions-on-travel-from-southern-africa/",
+        "sentiment": -1,
+        "timestamp": 1638059794,
+        "published": "November 27, 2021 7:36 PM"
+    },
+    {
+        "title": "Australia to introduce new laws to force media platforms to unmask online trolls",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/",
+        "sentiment": 0,
+        "timestamp": 1638061280,
+        "published": "November 27, 2021 8:01 PM"
+    },
+    {
         "title": "A Trump associate said the former president is 'pulling strings behind the scenes' in 2022 GOP primaries, likened him to 'The Godfather's' Vito Corelone report",
         "domain": "businessinsider.com.au",
         "category": "politics",
