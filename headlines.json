@@ -1,5 +1,77 @@
 [
     {
+        "title": "Biden's test drive of electric Hummer helped increase reservations, GM says",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/amp/2021/11/23/gm-bidens-test-drive-of-electric-hummer-helped-increase-reservations.html",
+        "sentiment": 1,
+        "timestamp": 1638107592,
+        "published": "November 28, 2021 8:53 AM"
+    },
+    {
+        "title": "Extremely strong magnitude-7.5 earthquake hits northern Peru",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/latin-america/extremely-strong-magnitude-75-earthquake-hits-northern-peru-rcna6865",
+        "sentiment": 2,
+        "timestamp": 1638108932,
+        "published": "November 28, 2021 9:15 AM"
+    },
+    {
+        "title": "Human trafficking lawsuit alleges Pa. Mennonite Church subjected boys, young men to forced labor",
+        "domain": "lehighvalleylive.com",
+        "category": "news",
+        "link": "https://www.lehighvalleylive.com/news/2021/11/human-trafficking-lawsuit-alleges-pa-mennonite-church-subjected-boys-young-men-to-forced-labor.html",
+        "sentiment": -3,
+        "timestamp": 1638109999,
+        "published": "November 28, 2021 9:33 AM"
+    },
+    {
+        "title": "Pakistan will ban conventional syringes and switch to single-use versions to stop blood infections, like an HIV outbreak that infected hundreds of children.",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/pakistan-ban-conventional-syringes-wake-hiv-scandal/",
+        "sentiment": -7,
+        "timestamp": 1638110126,
+        "published": "November 28, 2021 9:35 AM"
+    },
+    {
+        "title": "Fox hosts suggest COVID variants are being made up by Democrats",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/fox-hosts-suggest-covid-variants-being-made-democrats-1653745",
+        "sentiment": 0,
+        "timestamp": 1638110216,
+        "published": "November 28, 2021 9:36 AM"
+    },
+    {
+        "title": "Recent Jeopardy superchamp says \"biggest regret\" is losing before Ken Jennings could host",
+        "domain": "newsweek.com",
+        "category": "television",
+        "link": "https://www.newsweek.com/jeopardy-matt-amodio-tournament-champions-1653555",
+        "sentiment": -7,
+        "timestamp": 1638111471,
+        "published": "November 28, 2021 9:57 AM"
+    },
+    {
+        "title": "Betrayal: The Final Act of the Trump Show by Jonathan Karl review – a tyrant’s last stand. The ABC News correspondent offers a sobering glimpse of a man unfit to govern and the chaos wreaked by an ego unable to grasp its own ineptitude",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/books/2021/nov/28/betrayal-the-final-act-of-the-trump-show-by-jonathan-karl-review-a-tyrants-last-stand",
+        "sentiment": -10,
+        "timestamp": 1638111692,
+        "published": "November 28, 2021 10:01 AM"
+    },
+    {
+        "title": "CBS Sunday Morning - How to with John Wilson Interview",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/7zwY0dXUKEc",
+        "sentiment": 0,
+        "timestamp": 1638113127,
+        "published": "November 28, 2021 10:25 AM"
+    },
+    {
         "title": "New Zealand politician Julie Anne Genter cycles to hospital to give birth",
         "domain": "bbc.co.uk",
         "category": "worldnews",
