@@ -1,5 +1,59 @@
 [
     {
+        "title": "World Health Organization reaches draft consensus on future pandemic treaty",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-reaches-draft-consensus-future-pandemic-treaty-2021-11-28/",
+        "sentiment": 1,
+        "timestamp": 1638126880,
+        "published": "November 28, 2021 2:14 PM"
+    },
+    {
+        "title": "The organizer of the 'Stop the Steal' rally that led up to the Capitol riot said he will comply with a congressional subpoena because he doesn't have 'money to spend on legal bills'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/stop-the-steal-organizer-will-comply-with-congressional-subpoena-2021-11",
+        "sentiment": -3,
+        "timestamp": 1638127646,
+        "published": "November 28, 2021 2:27 PM"
+    },
+    {
+        "title": "University in Afghanistan's Kandahar holds graduation ceremony (Men and Women) - in Pictures",
+        "domain": "thenationalnews.com",
+        "category": "news",
+        "link": "https://www.thenationalnews.com/mena/2021/11/28/university-in-afghanistans-kandahar-holds-graduation-ceremony-in-pictures/",
+        "sentiment": 0,
+        "timestamp": 1638127874,
+        "published": "November 28, 2021 2:31 PM"
+    },
+    {
+        "title": "The dangerous extremism that’s killing the Democrats is extreme centrism",
+        "domain": "inquirer.com",
+        "category": "politics",
+        "link": "https://www.inquirer.com/opinion/commentary/moderate-centrist-democrats-block-biden-agenda-20211128.html",
+        "sentiment": -5,
+        "timestamp": 1638129662,
+        "published": "November 28, 2021 3:01 PM"
+    },
+    {
+        "title": "5 people wounded in Aurora shooting",
+        "domain": "thedenverchannel.com",
+        "category": "news",
+        "link": "https://www.thedenverchannel.com/news/crime/5-people-wounded-in-aurora-shooting",
+        "sentiment": 0,
+        "timestamp": 1638130053,
+        "published": "November 28, 2021 3:07 PM"
+    },
+    {
+        "title": "Spotify Pulls Plug on Car View Feature, Offers Users No Alternative",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/spotify-pulls-plug-on-car-view-feature-offers-users-no-1848127952",
+        "sentiment": -1,
+        "timestamp": 1638135655,
+        "published": "November 28, 2021 4:40 PM"
+    },
+    {
         "title": "Michael Cohen says Trump won't pursue a 2024 White House bid, calls his 'Big Lie' fundraising appeals 'the greatest grift in US history'",
         "domain": "businessinsider.com.au",
         "category": "politics",
