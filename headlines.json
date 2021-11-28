@@ -1,5 +1,140 @@
 [
     {
+        "title": "Rishmeet Singh: Southall murder victim named as Metropolitan Police appeal for information about fatal stabbing",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/rishmeet-singh-southall-murder-victim-named-as-metropolitan-police-appeal-for-information-about-fatal-stabbing-12481120",
+        "sentiment": -8,
+        "timestamp": 1638107639,
+        "published": "November 28, 2021 8:53 AM"
+    },
+    {
+        "title": "Afghan official says women can continue playing cricket",
+        "domain": "tolonews.com",
+        "category": "worldnews",
+        "link": "https://tolonews.com/sport-175603",
+        "sentiment": 0,
+        "timestamp": 1638108843,
+        "published": "November 28, 2021 9:14 AM"
+    },
+    {
+        "title": "Why Are Blue-Collar Americans Dying of Despair?",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/opinion/articles/2021-11-28/why-are-blue-collar-americans-dying-of-despair?srnd=premium",
+        "sentiment": -6,
+        "timestamp": 1638109010,
+        "published": "November 28, 2021 9:16 AM"
+    },
+    {
+        "title": "Argentine court to hear Myanmar Rohingya genocide case",
+        "domain": "ft.com",
+        "category": "worldnews",
+        "link": "https://www.ft.com/content/0a2c1a4c-269a-4121-b37f-0da41e53a618?fbclid=IwAR0ghtFm1Fo74wV17GJtz7zUwMLrzNwpyS3UcNBxMgYKiRG5W81RbqHfGb8",
+        "sentiment": 0,
+        "timestamp": 1638109059,
+        "published": "November 28, 2021 9:17 AM"
+    },
+    {
+        "title": "Germany: Dozens take illegal mystery COVID vaccine before police shut it down",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-dozens-take-illegal-mystery-covid-vaccine-before-police-shut-it-down/a-59961203",
+        "sentiment": -3,
+        "timestamp": 1638110295,
+        "published": "November 28, 2021 9:38 AM"
+    },
+    {
+        "title": "Intelligence Analysts 'Didn't Understand Donald Trump, How Far He Would Go'",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/intelligence-analysts-didnt-understand-donald-trump-how-far-he-would-go-1652441",
+        "sentiment": 0,
+        "timestamp": 1638111016,
+        "published": "November 28, 2021 9:50 AM"
+    },
+    {
+        "title": "The Netherlands confirmed 13 cases of the new omicron variant of the coronavirus on Sunday and Australia found two as the countries half a world apart became the latest to detect it in travelers arriving from southern Africa.",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread",
+        "sentiment": 0,
+        "timestamp": 1638113045,
+        "published": "November 28, 2021 10:24 AM"
+    },
+    {
+        "title": "‘Is that it?’ Democrats warn Biden spending bill isn’t enough to satisfy party base",
+        "domain": "seattletimes.com",
+        "category": "politics",
+        "link": "https://www.seattletimes.com/nation-world/nation-politics/is-that-it-democrats-warn-biden-spending-bill-isnt-enough-to-satisfy-party-base/",
+        "sentiment": -2,
+        "timestamp": 1638113436,
+        "published": "November 28, 2021 10:30 AM"
+    },
+    {
+        "title": "U.S. should be prepared to do \"anything,\" including lockdowns, to fight Omicron - Fauci",
+        "domain": "news.trust.org",
+        "category": "news",
+        "link": "https://news.trust.org/item/20211128141821-cjvtt",
+        "sentiment": 0,
+        "timestamp": 1638114046,
+        "published": "November 28, 2021 10:40 AM"
+    },
+    {
+        "title": "Researchers try producing potato resistant to climate change",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/climate-science-business-university-of-maine-environment-and-nature-002430d7c76076523d6191c13abe7b35",
+        "sentiment": 0,
+        "timestamp": 1638114818,
+        "published": "November 28, 2021 10:53 AM"
+    },
+    {
+        "title": "Moderna says an omicron variant vaccine could be ready in early 2022",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/28/moderna-says-an-omicron-variant-vaccine-could-be-ready-in-early-2022.html",
+        "sentiment": 0,
+        "timestamp": 1638115444,
+        "published": "November 28, 2021 11:04 AM"
+    },
+    {
+        "title": "Wikipedia may delete entry on ‘mass killings’ under Communism due to claims of bias",
+        "domain": "telegraph.co.uk",
+        "category": "technology",
+        "link": "https://www.telegraph.co.uk/news/2021/11/27/wikipedia-may-delete-entry-mass-killings-communism-due-claims/",
+        "sentiment": -1,
+        "timestamp": 1638116132,
+        "published": "November 28, 2021 11:15 AM"
+    },
+    {
+        "title": "Magnitude 7.5 earthquake shakes Peru",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/28/americas/peru-earthquake-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638116249,
+        "published": "November 28, 2021 11:17 AM"
+    },
+    {
+        "title": "The search for extraterrestrial life is going to look at our nearest galactic neighbor",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/science/science-news/search-extraterrestrial-life-going-look-nearest-galactic-neighbor-rcna6313",
+        "sentiment": 0,
+        "timestamp": 1638116308,
+        "published": "November 28, 2021 11:18 AM"
+    },
+    {
+        "title": "Slaves! - Wonder Showzen",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/Lhu4T_vwxIU",
+        "sentiment": -3,
+        "timestamp": 1638117000,
+        "published": "November 28, 2021 11:30 AM"
+    },
+    {
         "title": "Biden's test drive of electric Hummer helped increase reservations, GM says",
         "domain": "cnbc.com",
         "category": "politics",
