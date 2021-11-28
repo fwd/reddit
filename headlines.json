@@ -1,5 +1,122 @@
 [
     {
+        "title": "U.S. Navy Says It Rescued Two Iranians Adrift In Gulf Of Oman",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/iranian-sailors-rescued-us-navy/31583613.html",
+        "sentiment": 2,
+        "timestamp": 1638101266,
+        "published": "November 28, 2021 7:07 AM"
+    },
+    {
+        "title": "Marjorie Taylor Greene hits out at Kevin McCarthy, says he ‘doesn’t have full support’ to be speaker",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-kevin-mccarthy-b1964811.html",
+        "sentiment": 0,
+        "timestamp": 1638109753,
+        "published": "November 28, 2021 9:29 AM"
+    },
+    {
+        "title": "Swiss reject plan to abolish COVID health pass: projection",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/swiss-reject-plan-to-abolish-covid-health-pass-projection/a-59960103",
+        "sentiment": -1,
+        "timestamp": 1638110481,
+        "published": "November 28, 2021 9:41 AM"
+    },
+    {
+        "title": "Covid-positive Czech president appointed new PM from plexiglass box",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59452646",
+        "sentiment": 0,
+        "timestamp": 1638114221,
+        "published": "November 28, 2021 10:43 AM"
+    },
+    {
+        "title": "Iranian arrested in Kenya for planning terror attacks against Israeli targets - report",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/breaking-news/iranian-arrested-in-kenya-for-planning-attacks-against-israeli-targets-687206",
+        "sentiment": -7,
+        "timestamp": 1638114362,
+        "published": "November 28, 2021 10:46 AM"
+    },
+    {
+        "title": "UAE decriminalises premarital sexual relations among 40 legal changes in reform push",
+        "domain": "dawn.com",
+        "category": "worldnews",
+        "link": "https://www.dawn.com/news/1660757/uae-decriminalises-premarital-sexual-relations-among-40-legal-changes-in-reform-push",
+        "sentiment": 1,
+        "timestamp": 1638116231,
+        "published": "November 28, 2021 11:17 AM"
+    },
+    {
+        "title": "Capitol attack: Schiff says Mark Meadows contempt decision imminent",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/28/capitol-attack-mark-meadows-trump-contempt-of-congress-schiff",
+        "sentiment": -3,
+        "timestamp": 1638120019,
+        "published": "November 28, 2021 12:20 PM"
+    },
+    {
+        "title": "Covid: Australia woman charged after setting fire in quarantine hotel",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-australia-59450174",
+        "sentiment": -5,
+        "timestamp": 1638120166,
+        "published": "November 28, 2021 12:22 PM"
+    },
+    {
+        "title": "Anthony Fauci Slams Ted Cruz Over Capitol Riot | \"What happened on Jan. 6, senator?” Fauci said, responding to Republican lawmakers' latest attack against him.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/anthony-fauci-ted-cruz-jan-6_n_61a3abf4e4b025be1aeacf06",
+        "sentiment": -3,
+        "timestamp": 1638121186,
+        "published": "November 28, 2021 12:39 PM"
+    },
+    {
+        "title": "\"JoJo's Bizarre Adventure: Stone Ocean\" OP",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=mgxDyrEnnoE",
+        "sentiment": 0,
+        "timestamp": 1638122431,
+        "published": "November 28, 2021 1:00 PM"
+    },
+    {
+        "title": "Researchers Defeat Randomness to Create Ideal Code",
+        "domain": "quantamagazine.org",
+        "category": "technology",
+        "link": "https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/",
+        "sentiment": -2,
+        "timestamp": 1638122549,
+        "published": "November 28, 2021 1:02 PM"
+    },
+    {
+        "title": "‘Buy now, pay later’ is booming. But companies are facing pressure to change.",
+        "domain": "protocol.com",
+        "category": "technology",
+        "link": "https://www.protocol.com/fintech/buy-now-pay-later-holidays",
+        "sentiment": -2,
+        "timestamp": 1638123196,
+        "published": "November 28, 2021 1:13 PM"
+    },
+    {
+        "title": "The world is watching: TV critics from around the globe on on the biggest and best shows in their countries",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/nov/28/the-world-is-watching-tv-hits-around-the-globe",
+        "sentiment": 1,
+        "timestamp": 1638124182,
+        "published": "November 28, 2021 1:29 PM"
+    },
+    {
         "title": "U.S. readies fight against Omicron but too soon for lockdowns -Fauci",
         "domain": "reuters.com",
         "category": "politics",
