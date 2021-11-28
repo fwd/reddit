@@ -1,5 +1,113 @@
 [
     {
+        "title": "U.S. readies fight against Omicron but too soon for lockdowns -Fauci",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/us-should-be-prepared-do-anything-including-lockdowns-fight-omicron-fauci-2021-11-28/",
+        "sentiment": -1,
+        "timestamp": 1638113966,
+        "published": "November 28, 2021 10:39 AM"
+    },
+    {
+        "title": "Taiwan sends jets after 27 Chinese planes enter buffer zone",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/china-beijing-xi-jinping-taiwan-338602c1b51956a8901f722eab544b78",
+        "sentiment": 0,
+        "timestamp": 1638114432,
+        "published": "November 28, 2021 10:47 AM"
+    },
+    {
+        "title": "Frank Williams, Williams F1 team founder, dies at 79",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/28/motorsport/frank-williams-death-williams-f1-spt-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638114692,
+        "published": "November 28, 2021 10:51 AM"
+    },
+    {
+        "title": "Honduras votes, leading leftist bids to end conservatives 12-year rule",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/honduras-votes-leading-leftist-bids-end-conservatives-12-year-rule-2021-11-28/",
+        "sentiment": 2,
+        "timestamp": 1638115840,
+        "published": "November 28, 2021 11:10 AM"
+    },
+    {
+        "title": "Rep. Lauren Boebert silent on criticism after she said Pete Buttigieg was trying to 'chest feed' at same event she implied Rep. Ilhan Omar was a terrorist",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/boebert-buttigieg-tried-to-chest-feed-his-twins-2021-11",
+        "sentiment": -4,
+        "timestamp": 1638117129,
+        "published": "November 28, 2021 11:32 AM"
+    },
+    {
+        "title": "Fauci: ’I’m going to be saving lives and they're going to be lying’",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412",
+        "sentiment": 0,
+        "timestamp": 1638117148,
+        "published": "November 28, 2021 11:32 AM"
+    },
+    {
+        "title": "Schiff says decision likely this week on whether to refer criminal contempt charges against Meadows",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/schiff-says-decision-likely-this-week-whether-refer-criminal-contempt-charges-2021-11-28/",
+        "sentiment": -7,
+        "timestamp": 1638118001,
+        "published": "November 28, 2021 11:46 AM"
+    },
+    {
+        "title": "Oh my, omicron: New Kansas bill protects ‘right to die.’ Why is GOP on COVID’s side?",
+        "domain": "kansascity.com",
+        "category": "politics",
+        "link": "https://www.kansascity.com/opinion/editorials/article256137937.html",
+        "sentiment": -2,
+        "timestamp": 1638118040,
+        "published": "November 28, 2021 11:47 AM"
+    },
+    {
+        "title": "‘I have an outsider’s perspective’: why Will Sharpe is the A-List’s new favourite director",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/film/2021/nov/27/will-sharpe-interview-landscapers-electrical-louis-wain-flowers-giri-haji",
+        "sentiment": 2,
+        "timestamp": 1638118384,
+        "published": "November 28, 2021 11:53 AM"
+    },
+    {
+        "title": "GOP Gov. Hutchinson Says Kevin McCarthy Should Be 'Publicly Condemning' Gosar, Boebert",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/gop-gov-hutchinson-says-kevin-mccarthy-should-publicly-condemning-gosar-boebert-1653766",
+        "sentiment": 0,
+        "timestamp": 1638118633,
+        "published": "November 28, 2021 11:57 AM"
+    },
+    {
+        "title": "A Conservation group aims to to stop trophy hunting by buying up all commercial hunting licenses in an area larger than the US State of Connecticut in the Great Bear Rainforest in British Columbia. The foundation currently holds the hunting rights to more than 14,000-square-miles of the B.C. coast",
+        "domain": "original.newsbreak.com",
+        "category": "worldnews",
+        "link": "https://original.newsbreak.com/@polarbear-1588488/2446773999813-conservation-group-aims-to-end-trophy-hunts-by-buying-up-all-hunting-rights",
+        "sentiment": 2,
+        "timestamp": 1638119267,
+        "published": "November 28, 2021 12:07 PM"
+    },
+    {
+        "title": "GOP becoming a cult of know-nothings",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/campaign/583256-gop-becoming-a-cult-of-know-nothings",
+        "sentiment": 0,
+        "timestamp": 1638119747,
+        "published": "November 28, 2021 12:15 PM"
+    },
+    {
         "title": "Rishmeet Singh: Southall murder victim named as Metropolitan Police appeal for information about fatal stabbing",
         "domain": "news.sky.com",
         "category": "news",
