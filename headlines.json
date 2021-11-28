@@ -1,5 +1,59 @@
 [
     {
+        "title": "‘Absolute chaos’ in South Africa as flights grounded over Omicron",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2021/11/28/chaos-among-south-africans-as-flights-halted-amid-covid-surge",
+        "sentiment": 0,
+        "timestamp": 1638123379,
+        "published": "November 28, 2021 1:16 PM"
+    },
+    {
+        "title": "Israeli government approves immigration of thousands of Ethiopian Jews",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/government-approves-immigration-of-thousands-of-ethiopian-jews/",
+        "sentiment": 2,
+        "timestamp": 1638132220,
+        "published": "November 28, 2021 3:43 PM"
+    },
+    {
+        "title": "2 cases of omicron variant confirmed in Ottawa, Ontario government says | CBC News",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927",
+        "sentiment": 0,
+        "timestamp": 1638136804,
+        "published": "November 28, 2021 5:00 PM"
+    },
+    {
+        "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces? | Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
+        "sentiment": 1,
+        "timestamp": 1638138916,
+        "published": "November 28, 2021 5:35 PM"
+    },
+    {
+        "title": "Trump Was ‘Fact Free’ During Briefings, Says Former National Intelligence Director",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-fact-free-cia-report-1263777/",
+        "sentiment": 0,
+        "timestamp": 1638139311,
+        "published": "November 28, 2021 5:41 PM"
+    },
+    {
+        "title": "Cacciatore (The Hunter) Season 1 Trailer | This show is phenomenal, it’s like the Italian Narcos with a third season on the way but no one is talking about it.",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/a7l7XHlBGqk",
+        "sentiment": 1,
+        "timestamp": 1638142843,
+        "published": "November 28, 2021 6:40 PM"
+    },
+    {
         "title": "India plans to send humans to space by 2023",
         "domain": "m.timesofindia.com",
         "category": "worldnews",
