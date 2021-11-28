@@ -1,5 +1,77 @@
 [
     {
+        "title": "Face coverings mandatory again in England",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-59449480",
+        "sentiment": -1,
+        "timestamp": 1638094029,
+        "published": "November 28, 2021 5:07 AM"
+    },
+    {
+        "title": "New global study finds increases in red and processed meat trade contributed to the abrupt increase of diet-related diseases such as colon cancer, diabetes and heart disease.",
+        "domain": "medicalnewstoday.com",
+        "category": "worldnews",
+        "link": "https://www.medicalnewstoday.com/articles/the-health-impact-of-the-global-meat-trade",
+        "sentiment": -2,
+        "timestamp": 1638097279,
+        "published": "November 28, 2021 6:01 AM"
+    },
+    {
+        "title": "Omicron symptoms mild so far, says South African doctor who spotted it",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/av/uk-59450988",
+        "sentiment": 0,
+        "timestamp": 1638099023,
+        "published": "November 28, 2021 6:30 AM"
+    },
+    {
+        "title": "Canadian school cancels ISIS survivor talk because it would be offensive to Muslims and “foster Islamophobia”",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2021/11/27/toronto-school-cancels-isis-survivor-event-with-nadia-murad/",
+        "sentiment": -1,
+        "timestamp": 1638099372,
+        "published": "November 28, 2021 6:36 AM"
+    },
+    {
+        "title": "Republicans are quietly rigging election maps to ensure permanent rule | The past decade in Ohio shows how bad it can get – and how quickly.",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2021/nov/28/republicans-are-quietly-rigging-election-maps-to-ensure-permanent-rule",
+        "sentiment": -2,
+        "timestamp": 1638100349,
+        "published": "November 28, 2021 6:52 AM"
+    },
+    {
+        "title": "Bitcoin Miners Resurrect Fossil Fuel Power Plant, Drawing Backlash From Environmentalists",
+        "domain": "e360.yale.edu",
+        "category": "technology",
+        "link": "https://e360.yale.edu/digest/bitcoin-miners-resurrect-fossil-fuel-power-plant-drawing-backlash-from-environmentalists",
+        "sentiment": 0,
+        "timestamp": 1638101162,
+        "published": "November 28, 2021 7:06 AM"
+    },
+    {
+        "title": "Clinical Trial of Nasal Vaccine for Alzheimer's Disease",
+        "domain": "brighamandwomens.org",
+        "category": "technology",
+        "link": "https://www.brighamandwomens.org/about-bwh/newsroom/press-releases-detail?id=4029",
+        "sentiment": -1,
+        "timestamp": 1638101218,
+        "published": "November 28, 2021 7:06 AM"
+    },
+    {
+        "title": "\"The Pirate Bay Can't Be Stopped ,\" Co-Founder Says • TorrentFreak",
+        "domain": "torrentfreak.com",
+        "category": "technology",
+        "link": "https://torrentfreak.com/the-pirate-bay-cant-be-stopped-co-founder-says-211128/",
+        "sentiment": -1,
+        "timestamp": 1638103353,
+        "published": "November 28, 2021 7:42 AM"
+    },
+    {
         "title": "Uber Eats to allow orders for cannabis in Ontario",
         "domain": "edition.cnn.com",
         "category": "worldnews",
