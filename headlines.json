@@ -1,5 +1,104 @@
 [
     {
+        "title": "How far-right extremist groups face exposure from army of hacktivists",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/world/2021/nov/29/far-right-extremist-groups-data-breach-hackers",
+        "sentiment": -2,
+        "timestamp": 1638193393,
+        "published": "November 29, 2021 8:43 AM"
+    },
+    {
+        "title": "China's Xi pledges $10 bln credit line for African financial institutions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/africa/chinas-xi-pledges-10-bln-credit-line-african-financial-institutions-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638193454,
+        "published": "November 29, 2021 8:44 AM"
+    },
+    {
+        "title": "Canada calls for international pandemic treaty and emergency summit, second of its kind in history",
+        "domain": "techbomb.ca",
+        "category": "worldnews",
+        "link": "https://techbomb.ca/covid-19/canada-calls-for-international-pandemic-treaty-and-emergency-summit-second-of-its-kind-in-history/",
+        "sentiment": 0,
+        "timestamp": 1638195035,
+        "published": "November 29, 2021 9:10 AM"
+    },
+    {
+        "title": "Botswana appeals court upholds ruling that decriminalized gay sex",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/botswana-appeals-court-upholds-ruling-decriminalized-gay-sex-n1284907",
+        "sentiment": 0,
+        "timestamp": 1638195945,
+        "published": "November 29, 2021 9:25 AM"
+    },
+    {
+        "title": "Leading breeder of beagles for research slammed by animal welfare inspectors",
+        "domain": "science.org",
+        "category": "news",
+        "link": "https://www.science.org/content/article/leading-breeder-beagles-research-slammed-animal-welfare-inspectors",
+        "sentiment": 2,
+        "timestamp": 1638196317,
+        "published": "November 29, 2021 9:31 AM"
+    },
+    {
+        "title": "“People should probably be worried”: Texas hasn’t done enough to prevent another winter blackout, experts say",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/11/29/texas-power-grid-winter-storm/",
+        "sentiment": -1,
+        "timestamp": 1638196355,
+        "published": "November 29, 2021 9:32 AM"
+    },
+    {
+        "title": "GOP Congresswoman busted telling FOX vaccines aren’t necessary & CNN the opposite hours later",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/gop-congresswoman-busted-telling-fox-vaccines-arent-necessary-cnn-opposite-hours-later/",
+        "sentiment": 0,
+        "timestamp": 1638197710,
+        "published": "November 29, 2021 9:55 AM"
+    },
+    {
+        "title": "California town declares itself a ‘constitutional republic’ to buck Covid rules",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/05/california-constitutional-republic-covid-restrictions",
+        "sentiment": 0,
+        "timestamp": 1638197845,
+        "published": "November 29, 2021 9:57 AM"
+    },
+    {
+        "title": "Message | The Book of Boba Fett | Disney+",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/XCAlNWNbN5c",
+        "sentiment": 0,
+        "timestamp": 1638198364,
+        "published": "November 29, 2021 10:06 AM"
+    },
+    {
+        "title": "People are talking about Web3. Is it the Internet of the future or just a buzzword?",
+        "domain": "npr.org",
+        "category": "technology",
+        "link": "https://www.npr.org/2021/11/21/1056988346/web3-internet-jargon-or-future-vision",
+        "sentiment": 0,
+        "timestamp": 1638198951,
+        "published": "November 29, 2021 10:15 AM"
+    },
+    {
+        "title": "Jack Dorsey Expected To Step Down As Twitter CEO: Reports",
+        "domain": "huffpost.com",
+        "category": "technology",
+        "link": "https://www.huffpost.com/entry/jack-dorsey-stepping-down-twitter-ceo_n_61a4e36fe4b025be1aec6591",
+        "sentiment": 0,
+        "timestamp": 1638199853,
+        "published": "November 29, 2021 10:30 AM"
+    },
+    {
         "title": "Trouble in the QAnon universe is brewing as Trump ally Lin Wood accuses 'Stop the Steal' of being a deep-state campaign",
         "domain": "businessinsider.com",
         "category": "politics",
