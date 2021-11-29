@@ -1,5 +1,86 @@
 [
     {
+        "title": "Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push - Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms.",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html",
+        "sentiment": -8,
+        "timestamp": 1638201941,
+        "published": "November 29, 2021 11:05 AM"
+    },
+    {
+        "title": "Jury selected in Ghislaine Maxwell sex-abuse trial",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/opening-statements-ghislaine-maxwell-sex-abuse-case-set-begin-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638202699,
+        "published": "November 29, 2021 11:18 AM"
+    },
+    {
+        "title": "DOJ Accuses Bannon Of Trying To Whip Up Media Circus Over Criminal Case",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/doj-accuse-bannon-media-circus-criminal-case",
+        "sentiment": -5,
+        "timestamp": 1638204921,
+        "published": "November 29, 2021 11:55 AM"
+    },
+    {
+        "title": "Jussie Smollett: Jury selection begins in actor’s trial",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-59439796",
+        "sentiment": 0,
+        "timestamp": 1638205093,
+        "published": "November 29, 2021 11:58 AM"
+    },
+    {
+        "title": "China’s Xi promises 1bn COVID-19 vaccine doses to Africa",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/29/chinas-xi-promises-1-billion-covid-19-vaccine-doses-to-africa",
+        "sentiment": 1,
+        "timestamp": 1638207522,
+        "published": "November 29, 2021 12:38 PM"
+    },
+    {
+        "title": "Barbados to declare itself a republic tomorrow, cutting ties with Queen as head of state",
+        "domain": "inews.co.uk",
+        "category": "worldnews",
+        "link": "https://inews.co.uk/news/world/barbados-republic-date-queen-independence-caribbean-monarchy-commonwealth-1321734",
+        "sentiment": -1,
+        "timestamp": 1638207948,
+        "published": "November 29, 2021 12:45 PM"
+    },
+    {
+        "title": "The world must study the wreckage of Covid-19 and say \"never again\" by striking a pandemic preparedness treaty, the WHO said Monday as countries gathered to build a new accord",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211129-who-says-never-again-as-nations-weigh-pandemic-treaty",
+        "sentiment": 0,
+        "timestamp": 1638208168,
+        "published": "November 29, 2021 12:49 PM"
+    },
+    {
+        "title": "GOP congresswoman praises ‘natural immunity’ on Fox News then backs vaccines on CNN - Nancy Mace echoed Republican talking points on right-wing network while joining scientific consensus in a subsequent interview",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/nancy-mace-vaccines-cnn-fox-b1966209.html",
+        "sentiment": 4,
+        "timestamp": 1638208488,
+        "published": "November 29, 2021 12:54 PM"
+    },
+    {
+        "title": "UN shipping body agrees voluntary measures to cut black carbon in the Arctic",
+        "domain": "climatechangenews.com",
+        "category": "technology",
+        "link": "https://www.climatechangenews.com/2021/11/29/un-shipping-body-agrees-voluntary-measures-cut-black-carbon-arctic/",
+        "sentiment": 0,
+        "timestamp": 1638209677,
+        "published": "November 29, 2021 1:14 PM"
+    },
+    {
         "title": "Tennessee Education Dept. bans 14 race and history concepts from classrooms",
         "domain": "wkrn.com",
         "category": "politics",
