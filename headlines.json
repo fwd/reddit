@@ -1,5 +1,68 @@
 [
     {
+        "title": "The Rittenhouse Verdict Will Backfire on Republicans",
+        "domain": "prospect.org",
+        "category": "politics",
+        "link": "https://prospect.org/the-rittenhouse-verdict-will-backfire-on-republicans/",
+        "sentiment": -1,
+        "timestamp": 1638134601,
+        "published": "November 28, 2021 4:23 PM"
+    },
+    {
+        "title": "Fauci said GOP attacks against him are 'nonsense' and he had to 'laugh' when Sen. Ted Cruz said he should be prosecuted",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fauci-laugh-when-cruz-said-he-should-be-prosecuted-2021-11",
+        "sentiment": -3,
+        "timestamp": 1638135131,
+        "published": "November 28, 2021 4:32 PM"
+    },
+    {
+        "title": "Brazilian authorities burned more than 60 river-dredging boats in a crackdown on wildcat miners drawn to a major Amazon tributary by rumors of a gold find",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211128-brazil-burns-boats-in-crackdown-on-wildcat-amazon-gold-miners",
+        "sentiment": 2,
+        "timestamp": 1638139556,
+        "published": "November 28, 2021 5:45 PM"
+    },
+    {
+        "title": "Botswana says four foreign diplomats who tested positive for COVID-19 on Nov 11th upon leaving the country are confirmed to have been infected with the Omicron variant",
+        "domain": "myjoyonline.com",
+        "category": "worldnews",
+        "link": "https://www.myjoyonline.com/botswana-records-new-covid-19-variant-urges-calm-as-investigations-continue/",
+        "sentiment": 0,
+        "timestamp": 1638142486,
+        "published": "November 28, 2021 6:34 PM"
+    },
+    {
+        "title": "Iran: Protests on water shortages turn violent as police arrest 67",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/iran-protests-on-water-shortages-turn-violent-as-police-arrest-67/a-59959075",
+        "sentiment": -9,
+        "timestamp": 1638143437,
+        "published": "November 28, 2021 6:50 PM"
+    },
+    {
+        "title": "Tor Eckhoff (57) have been confirmed dead after falling through the ice during filming a new video for his YouTube channel (apetor) 1,2m. Norway",
+        "domain": "tv2.no",
+        "category": "news",
+        "link": "https://www.tv2.no/a/14390503/",
+        "sentiment": -4,
+        "timestamp": 1638144499,
+        "published": "November 28, 2021 7:08 PM"
+    },
+    {
+        "title": "The Telegraph: \"Nvidia at risk of $1.25bn loss if Arm takeover falls through\"",
+        "domain": "telegraph.co.uk",
+        "category": "technology",
+        "link": "https://www.telegraph.co.uk/business/2021/11/28/nvidia-risk-125bn-loss-arm-takeover-falls/",
+        "sentiment": -5,
+        "timestamp": 1638146400,
+        "published": "November 28, 2021 7:40 PM"
+    },
+    {
         "title": "‘Absolute chaos’ in South Africa as flights grounded over Omicron",
         "domain": "aljazeera.com",
         "category": "news",
