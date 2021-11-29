@@ -1,5 +1,131 @@
 [
     {
+        "title": "Toronto, With Police Support, Moves Closer to Decriminalizing Drug Possession",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/bvnnv3/toronto-police-drugs-decriminalization",
+        "sentiment": 2,
+        "timestamp": 1638209795,
+        "published": "November 29, 2021 1:16 PM"
+    },
+    {
+        "title": "Las Vegas college student dies days after participating in fraternity charity boxing match",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/fraternity-charity-boxing-match-university-of-nevada-las-vegas-nathan-tyler-valencia-kappa-sigma/11280146/",
+        "sentiment": 0,
+        "timestamp": 1638210518,
+        "published": "November 29, 2021 1:28 PM"
+    },
+    {
+        "title": "Driver with multiple prior DUI's charged with aggravated DUI in death of woman, infant killed in crash | Mississippi News Group",
+        "domain": "msnewsgroup.com",
+        "category": "news",
+        "link": "https://msnewsgroup.com/breakingmississippinews/driver-with-multiple-prior-duis-charged-with-aggravated-dui-in-death-of-woman-infant-killed-in-crash/",
+        "sentiment": -12,
+        "timestamp": 1638210866,
+        "published": "November 29, 2021 1:34 PM"
+    },
+    {
+        "title": "Lauren Boebert trolled with photos of Epstein and Trump after dismissing Ghislaine Maxwell case as ‘leftist panic’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/crime/lauren-boebert-maxwell-epstein-trump-b1966068.html",
+        "sentiment": 0,
+        "timestamp": 1638213431,
+        "published": "November 29, 2021 2:17 PM"
+    },
+    {
+        "title": "Undercover: Police, brothel owners make millions as child prostitution, sex trafficking reign in Osun",
+        "domain": "dailypost.ng",
+        "category": "worldnews",
+        "link": "https://dailypost.ng/2021/11/29/undercover-police-brothel-owners-make-millions-as-child-prostitution-sex-trafficking-reign-in-osun/",
+        "sentiment": 0,
+        "timestamp": 1638213612,
+        "published": "November 29, 2021 2:20 PM"
+    },
+    {
+        "title": "CNN host Chris Cuomo used his media sources to find out info on brother Andrew’s accusers, records show",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/29/cnn-host-chris-cuomo-used-sources-to-find-info-on-andrew-cuomo-accusers-records.html",
+        "sentiment": 0,
+        "timestamp": 1638214466,
+        "published": "November 29, 2021 2:34 PM"
+    },
+    {
+        "title": "Socialist Candidate Takes Commanding Lead in Honduran Election | Xiomara Castro, wife of Manuel Zelaya, a leftist former president ousted in a U.S.-backed coup in 2009, is on track to defeat the candidate of the right-wing incumbent party.",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2021/11/29/triumph-democracy-socialist-candidate-takes-commanding-lead-honduran-election",
+        "sentiment": -2,
+        "timestamp": 1638215055,
+        "published": "November 29, 2021 2:44 PM"
+    },
+    {
+        "title": "Trump stopped receiving presidential intelligence briefings after the Capitol riot, new book says",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/trump-intel-briefings-capitol-riot-book-2021-11",
+        "sentiment": -3,
+        "timestamp": 1638215834,
+        "published": "November 29, 2021 2:57 PM"
+    },
+    {
+        "title": "Meta's acquisition of Giphy is set to be blocked by an antitrust regulator, report says",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/meta-facebook-giphy-acquisition-set-to-get-blocked-cma-2021-11",
+        "sentiment": -1,
+        "timestamp": 1638215944,
+        "published": "November 29, 2021 2:59 PM"
+    },
+    {
+        "title": "COVID shots more protective than past infection, study shows",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-science-health-infectious-diseases-92c435268078edced2a22068feb4fb3c",
+        "sentiment": -2,
+        "timestamp": 1638216456,
+        "published": "November 29, 2021 3:07 PM"
+    },
+    {
+        "title": "‘Sons Of Anarchy’s Kurt Sutter Sets Western ‘The Abandons’ At Netflix; Shoot-Em-Up Vet On ‘Rust’ Tragedy & Reforms: ‘I Can’t Wrap My Brain Around The Fact Live Ammo Was Anywhere Near The Set’",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/sons-of-anarchy-kurt-sutter-western-series-the-abandons-netflix-rust-tragedy-evaluation-protocols-1234881494/",
+        "sentiment": -2,
+        "timestamp": 1638216913,
+        "published": "November 29, 2021 3:15 PM"
+    },
+    {
+        "title": "Fired Employees Sue Google for Breaching 'Don't Be Evil' Part of Contract",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/epxxb4/fired-employees-sue-google-for-breaching-dont-be-evil-part-of-contract",
+        "sentiment": -6,
+        "timestamp": 1638217045,
+        "published": "November 29, 2021 3:17 PM"
+    },
+    {
+        "title": "‘Black Market With Michael K. Williams’ Season 2 Trailer: First Look At Five-Time Emmy Nominee’s Final Documentary Project",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/video/black-market-with-michael-k-williams-season-2-trailer/",
+        "sentiment": 0,
+        "timestamp": 1638217432,
+        "published": "November 29, 2021 3:23 PM"
+    },
+    {
+        "title": "‘Hawkeye’ Viewership 40% Behind ‘Loki’ Premiere In Samba-Measured Disney+ Homes",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/hawkeye-viewership-weekend-loki-disney-1234881576/",
+        "sentiment": 0,
+        "timestamp": 1638218850,
+        "published": "November 29, 2021 3:47 PM"
+    },
+    {
         "title": "Syria Kurds protest recruitment of teenage girls for combat",
         "domain": "france24.com",
         "category": "worldnews",
