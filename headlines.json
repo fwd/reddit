@@ -1,5 +1,50 @@
 [
     {
+        "title": "Inside the C.D.C.’s Pandemic ‘Weather Service’",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/11/22/magazine/cdc-pandemic-prediction.html",
+        "sentiment": 0,
+        "timestamp": 1638125385,
+        "published": "November 28, 2021 1:49 PM"
+    },
+    {
+        "title": "Iranian Brig.-Gen. urges destruction of Israel prior to nuke talks",
+        "domain": "m.jpost.com",
+        "category": "worldnews",
+        "link": "https://m.jpost.com/middle-east/iran-news/iranian-brig-gen-urges-destruction-of-israel-prior-to-nuke-talks-687248/amp",
+        "sentiment": -3,
+        "timestamp": 1638131904,
+        "published": "November 28, 2021 3:38 PM"
+    },
+    {
+        "title": "Hong Kong Firms Scoop Up Properties From Chinese Developers In Distress",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/deals/hong-kong-firms-scoop-up-properties-chinese-developers-distress-2021-11-26/",
+        "sentiment": 1,
+        "timestamp": 1638141084,
+        "published": "November 28, 2021 6:11 PM"
+    },
+    {
+        "title": "Fauci fires back at Cruz over COVID claims: ‘I should be prosecuted? What happened on Jan. 6, senator?’",
+        "domain": "pennlive.com",
+        "category": "politics",
+        "link": "https://www.pennlive.com/coronavirus/2021/11/fauci-fires-back-at-cruz-over-covid-claims-i-should-be-prosecuted-what-happened-on-jan-6-senator.html",
+        "sentiment": -2,
+        "timestamp": 1638148771,
+        "published": "November 28, 2021 8:19 PM"
+    },
+    {
+        "title": "Dutch police arrest couple that fled COVID quarantine",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/dutch-police-arrest-couple-that-fled-covid-quarantine-2021-11-28/",
+        "sentiment": -2,
+        "timestamp": 1638151913,
+        "published": "November 28, 2021 9:11 PM"
+    },
+    {
         "title": "Arctic Ocean started getting warmer decades earlier than expected, finds study",
         "domain": "aninews.in",
         "category": "worldnews",
