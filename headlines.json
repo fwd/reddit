@@ -1,5 +1,50 @@
 [
     {
+        "title": "14-year-old boy charged with the murder of 12-year-old Ava White.",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/ava-white-boy-14-charged-with-murder-of-12-year-old-in-liverpool-city-centre-12481943",
+        "sentiment": -5,
+        "timestamp": 1638170254,
+        "published": "November 29, 2021 2:17 AM"
+    },
+    {
+        "title": "COVID-19: Six Omicron variant cases detected in Scotland, authorities say",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/covid-19-six-omicron-variant-cases-detected-in-scotland-authorities-say-12482070",
+        "sentiment": 0,
+        "timestamp": 1638173415,
+        "published": "November 29, 2021 3:10 AM"
+    },
+    {
+        "title": "Green-eyed Afghan girl from iconic 1985 National Geographic cover was given a home in Italy after fleeing the Taliban - SLVIKI",
+        "domain": "slviki.org",
+        "category": "news",
+        "link": "https://slviki.org/green-eyed-afghan-girl-from-iconic-1985-national-geographic-cover-was-given-a-home-in-italy-after-fleeing-the-taliban/",
+        "sentiment": 0,
+        "timestamp": 1638176624,
+        "published": "November 29, 2021 4:03 AM"
+    },
+    {
+        "title": "Japan closes border to all foreigners due to new coronavirus variant",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/japan-bans-entry-foreign-visitors-omicron-spreads-81439889",
+        "sentiment": 0,
+        "timestamp": 1638176714,
+        "published": "November 29, 2021 4:05 AM"
+    },
+    {
+        "title": "Artificial intelligence and genome sequencing beat humans at outbreak detection",
+        "domain": "upmc.com",
+        "category": "technology",
+        "link": "https://www.upmc.com/media/news/111721-harrison-eds-hat",
+        "sentiment": -2,
+        "timestamp": 1638182511,
+        "published": "November 29, 2021 5:41 AM"
+    },
+    {
         "title": "Disney+ appears to censor episode of The Simpsons in Hong Kong referencing Tiananmen Massacre",
         "domain": "hongkongfp.com",
         "category": "worldnews",
