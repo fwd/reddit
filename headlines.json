@@ -1,5 +1,86 @@
 [
     {
+        "title": "With new Omicron variant looming, Republicans are now bribing people to avoid vaccination",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/29/with-new-omicron-variant-looming-are-now-bribing-people-to-avoid-vaccination/",
+        "sentiment": -5,
+        "timestamp": 1638211215,
+        "published": "November 29, 2021 1:40 PM"
+    },
+    {
+        "title": "Canada's Quebec province discovers first case of new COVID-19 variant",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/canadas-quebec-said-province-discovers-first-case-new-covid-19-variant-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638214459,
+        "published": "November 29, 2021 2:34 PM"
+    },
+    {
+        "title": "Majority of Likely Voters Support Higher Taxes for Billionaires, Poll Finds",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/majority-of-likely-voters-support-higher-taxes-for-billionaires-poll-finds/",
+        "sentiment": 2,
+        "timestamp": 1638220138,
+        "published": "November 29, 2021 4:08 PM"
+    },
+    {
+        "title": "US, allies 'biggest beneficiaries' of Australia's $17b China trade row, report finds",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/rural/2021-11-30/us-allies-benefit-from-china-trade-row-with-australia/100659480",
+        "sentiment": 0,
+        "timestamp": 1638220814,
+        "published": "November 29, 2021 4:20 PM"
+    },
+    {
+        "title": "Red America has seen the highest rates of cases and deaths and the lowest rate of vaccinations",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/11/29/red-america-has-seen-highest-rates-cases-deaths-lowest-rate-vaccinations/",
+        "sentiment": -3,
+        "timestamp": 1638220831,
+        "published": "November 29, 2021 4:20 PM"
+    },
+    {
+        "title": "All vaccinated adults should get a Covid-19 booster shot because of the Omicron variant, CDC says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/29/health/cdc-booster-guidance-omicron/index.html",
+        "sentiment": 0,
+        "timestamp": 1638221561,
+        "published": "November 29, 2021 4:32 PM"
+    },
+    {
+        "title": "Amazon workers in Alabama get a do-over in union election",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-business-elections-2b440e3ac83137b3dadd742434fccc4a",
+        "sentiment": 0,
+        "timestamp": 1638223927,
+        "published": "November 29, 2021 5:12 PM"
+    },
+    {
+        "title": "Amazon threatens Visa and Mastercard’s credit card domination",
+        "domain": "telegraph.co.uk",
+        "category": "technology",
+        "link": "https://www.telegraph.co.uk/business/2021/11/27/amazon-threatens-visa-mastercards-credit-card-domination/",
+        "sentiment": -2,
+        "timestamp": 1638224277,
+        "published": "November 29, 2021 5:17 PM"
+    },
+    {
+        "title": "Supreme Court asked to review overturned Bill Cosby sex crime conviction",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2021/11/29/supreme-court-asked-to-review-overturned-bill-cosby-sex-crime-conviction.html",
+        "sentiment": 1,
+        "timestamp": 1638225985,
+        "published": "November 29, 2021 5:46 PM"
+    },
+    {
         "title": "U.S. sues to halt sugar merger, says it would harm competition",
         "domain": "pbs.org",
         "category": "news",
