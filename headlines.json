@@ -1,5 +1,50 @@
 [
     {
+        "title": "Covid-struck Czech President appoints new Prime Minister from inside a glass box",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/28/europe/czech-republic-president-government-covid-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638137046,
+        "published": "November 28, 2021 5:04 PM"
+    },
+    {
+        "title": "Australia's reopening plans in doubt after Omicron cases",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/asia-pacific/australias-reopening-plans-doubt-after-omicron-cases-2021-11-28/",
+        "sentiment": -1,
+        "timestamp": 1638151313,
+        "published": "November 28, 2021 9:01 PM"
+    },
+    {
+        "title": "Australia’s spy agency predicted the climate crisis 40 years ago – and fretted about coal exports.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/28/australias-spy-agency-predicted-the-climate-crisis-40-years-ago-and-fretted-about-coal-exports",
+        "sentiment": -3,
+        "timestamp": 1638153434,
+        "published": "November 28, 2021 9:37 PM"
+    },
+    {
+        "title": "Military service members face deadline to get COVID-19 vaccine or face disciplinary action",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/military-deadline-covid-19-vaccine/?dc_data=1131694_samsung-carnival-us&utm_source=taboola&utm_medium=samsung-carnival-us&utm_campaign=ECCBSiCBSNews&ui=ca1bdd5e-3918-438e-bb9d-4d39fbd0ee64-tuct897f18e#app",
+        "sentiment": 0,
+        "timestamp": 1638155092,
+        "published": "November 28, 2021 10:04 PM"
+    },
+    {
+        "title": "Chinese vlogger films Uyghur concentration camps in Xinjiang",
+        "domain": "asianews.it",
+        "category": "worldnews",
+        "link": "https://www.asianews.it/news-en/Chinese-vlogger-films-Uyghur-concentration-camps-in-Xinjiang-54594.html",
+        "sentiment": 0,
+        "timestamp": 1638156327,
+        "published": "November 28, 2021 10:25 PM"
+    },
+    {
         "title": "Inside the C.D.C.’s Pandemic ‘Weather Service’",
         "domain": "nytimes.com",
         "category": "technology",
