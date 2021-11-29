@@ -1,5 +1,122 @@
 [
     {
+        "title": "Tennessee Education Dept. bans 14 race and history concepts from classrooms",
+        "domain": "wkrn.com",
+        "category": "politics",
+        "link": "https://www.wkrn.com/news/tennessee-news/tn-education-dept-lists-14-race-history-concepts-that-cannot-be-taught-in-classrooms/",
+        "sentiment": 0,
+        "timestamp": 1638192245,
+        "published": "November 29, 2021 8:24 AM"
+    },
+    {
+        "title": "KPRC 2 Investigates: Car dealer selling cars customers can’t drive",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/investigates/2021/11/29/kprc-2-investigates-car-dealer-selling-cars-customers-cant-drive/",
+        "sentiment": 0,
+        "timestamp": 1638195430,
+        "published": "November 29, 2021 9:17 AM"
+    },
+    {
+        "title": "4 children, woman found shot to death in California home",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/children-woman-found-shot-death-california-home-81446277",
+        "sentiment": -2,
+        "timestamp": 1638200048,
+        "published": "November 29, 2021 10:34 AM"
+    },
+    {
+        "title": "These So-Called \"Moderate Centrists\" Are Nothing But Corporate Extremists | And their brand of politics is killing the Democratic Party's midterm prospects.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2021/11/29/these-so-called-moderate-centrists-are-nothing-corporate-extremists",
+        "sentiment": -4,
+        "timestamp": 1638201642,
+        "published": "November 29, 2021 11:00 AM"
+    },
+    {
+        "title": "Saturday Morning All Star Hits! Season 1 | Official Trailer | Netflix",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=hPAr3-4egRU&ab_channel=Netflix",
+        "sentiment": 0,
+        "timestamp": 1638201862,
+        "published": "November 29, 2021 11:04 AM"
+    },
+    {
+        "title": "Latvia calls for permanent U.S. troops to guard against Russia threat",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/latvia-calls-permanent-us-troops-guard-against-russia-threat-2021-11-29/",
+        "sentiment": -2,
+        "timestamp": 1638203252,
+        "published": "November 29, 2021 11:27 AM"
+    },
+    {
+        "title": "James Webb Space Telescope cleared for late December launch",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/11/james-webb-space-telescope-cleared-for-late-december-launch/",
+        "sentiment": 1,
+        "timestamp": 1638203321,
+        "published": "November 29, 2021 11:28 AM"
+    },
+    {
+        "title": "Twitter co-founder Jack Dorsey steps down as CEO",
+        "domain": "dw.com",
+        "category": "technology",
+        "link": "https://www.dw.com/en/twitter-co-founder-jack-dorsey-steps-down-as-ceo/a-59970974",
+        "sentiment": 0,
+        "timestamp": 1638203655,
+        "published": "November 29, 2021 11:34 AM"
+    },
+    {
+        "title": "2.5 Million Nurses Demand UN Probe Into 'Covid-19 Criminals' Blocking Patent Waiver | The European Union, the United Kingdom, Switzerland, Norway, and Singapore \"must be investigated for blocking a faster global vaccine rollout leading to the loss of countless lives.\"",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2021/11/29/25-million-nurses-demand-un-probe-covid-19-criminals-blocking-patent-waiver",
+        "sentiment": -3,
+        "timestamp": 1638204111,
+        "published": "November 29, 2021 11:41 AM"
+    },
+    {
+        "title": "COVID-positive couple arrested after leaving hotel quarantine in the Netherlands",
+        "domain": "cp24.com",
+        "category": "worldnews",
+        "link": "https://www.cp24.com/world/covid-positive-couple-arrested-after-leaving-hotel-quarantine-in-the-netherlands-1.5685214",
+        "sentiment": -3,
+        "timestamp": 1638204557,
+        "published": "November 29, 2021 11:49 AM"
+    },
+    {
+        "title": "Study: Police Solve More Violent Crimes After Cannabis Legalization",
+        "domain": "ganjapreneur.com",
+        "category": "worldnews",
+        "link": "https://www.ganjapreneur.com/adult-use-cannabis-legalization-associated-with-increased-clearance-rates-for-violent-crimes/",
+        "sentiment": -5,
+        "timestamp": 1638204723,
+        "published": "November 29, 2021 11:52 AM"
+    },
+    {
+        "title": "Hulu doc \"The Curse of Von Dutch\" explains the brand's dramatic downfall",
+        "domain": "sfgate.com",
+        "category": "television",
+        "link": "https://www.sfgate.com/streaming/article/hulu-documentary-von-dutch-fashion-16649436.php",
+        "sentiment": -1,
+        "timestamp": 1638205264,
+        "published": "November 29, 2021 12:01 PM"
+    },
+    {
+        "title": "David Gulpilil, Pioneering Indigenous Australian Actor, Dies at 68",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/david-gulpilil-dead-crocodile-dundee-pioneering-indigenous-australian-actor-1235053787/",
+        "sentiment": 0,
+        "timestamp": 1638207832,
+        "published": "November 29, 2021 12:43 PM"
+    },
+    {
         "title": "Former FBI Director James Comey’s daughter is a lead prosecutor in Ghislaine Maxwell’s child sex trafficking case",
         "domain": "vnexplorer.net",
         "category": "news",
