@@ -1,5 +1,95 @@
 [
     {
+        "title": "Syria Kurds protest recruitment of teenage girls for combat",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211128-syria-kurds-protest-recruitment-of-teenage-girls-for-combat",
+        "sentiment": -3,
+        "timestamp": 1638187593,
+        "published": "November 29, 2021 7:06 AM"
+    },
+    {
+        "title": "The Women Behind the Thirteen-Year-Olds of “PEN15”",
+        "domain": "newyorker.com",
+        "category": "television",
+        "link": "https://www.newyorker.com/magazine/2021/12/06/the-women-behind-the-thirteen-year-olds-of-pen15",
+        "sentiment": 0,
+        "timestamp": 1638201866,
+        "published": "November 29, 2021 11:04 AM"
+    },
+    {
+        "title": "Joe Biden offers words of encouragement to young girl with stutter",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/",
+        "sentiment": 2,
+        "timestamp": 1638204774,
+        "published": "November 29, 2021 11:52 AM"
+    },
+    {
+        "title": "Latvia calls for permanent US troops to guard against Russian threat",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/latvia-calls-permanent-us-troops-guard-against-russia-threat-2021-11-29/?utm_source=reddit.com",
+        "sentiment": -2,
+        "timestamp": 1638204982,
+        "published": "November 29, 2021 11:56 AM"
+    },
+    {
+        "title": "Europe’s first fully autonomous vehicle to carry people in Toulouse",
+        "domain": "globalconstructionreview.com",
+        "category": "technology",
+        "link": "https://www.globalconstructionreview.com/europes-first-fully-autonomous-vehicle-to-carry-people-in-toulouse/",
+        "sentiment": 0,
+        "timestamp": 1638210588,
+        "published": "November 29, 2021 1:29 PM"
+    },
+    {
+        "title": "Capitol riot committee to vote on contempt charges for Jeffrey Clark",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/apitol-riot-contempt-jeffrey-clark-b1966360.html",
+        "sentiment": -6,
+        "timestamp": 1638212544,
+        "published": "November 29, 2021 2:02 PM"
+    },
+    {
+        "title": "\"The Walton’s Homecoming\" scores 2021-2022 season high in viewership for the CW",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/the-waltons-homecoming-season-high-viewership-cw-snf-top-sunday-1234881400/",
+        "sentiment": 0,
+        "timestamp": 1638212656,
+        "published": "November 29, 2021 2:04 PM"
+    },
+    {
+        "title": "Republican Dismisses Vaccine on Fox News, Praises It on CNN in Breathtaking Flip Flop",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/nancy-mace-covid-vaccine-flip-flop-1263967/",
+        "sentiment": 6,
+        "timestamp": 1638213196,
+        "published": "November 29, 2021 2:13 PM"
+    },
+    {
+        "title": "Arizona students seek Kyle Rittenhouse removal from online nursing classes",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/nov/29/kyle-rittenhouse-arizona-statue-university-classes",
+        "sentiment": 0,
+        "timestamp": 1638213649,
+        "published": "November 29, 2021 2:20 PM"
+    },
+    {
+        "title": "Facebook (Again) Tells Law Enforcement That Setting Up Fake Accounts Violates Its Terms Of Use",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211121/08201347979/facebook-again-tells-law-enforcement-that-setting-up-fake-accounts-violates-terms-use.shtml",
+        "sentiment": -5,
+        "timestamp": 1638214129,
+        "published": "November 29, 2021 2:28 PM"
+    },
+    {
         "title": "Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push - Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms.",
         "domain": "nytimes.com",
         "category": "technology",
