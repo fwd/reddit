@@ -1,5 +1,95 @@
 [
     {
+        "title": "Fauci: US could face ‘fifth wave’ of Covid as Omicron variant nears",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/28/us-covid-omicron-variant-fifth-wave-fauci",
+        "sentiment": 0,
+        "timestamp": 1638174800,
+        "published": "November 29, 2021 3:33 AM"
+    },
+    {
+        "title": "13 omicron cases in Portuguese soccer team",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/Health/wireStory/japan-bans-entry-foreign-visitors-omicron-spreads-81439889",
+        "sentiment": 0,
+        "timestamp": 1638181842,
+        "published": "November 29, 2021 5:30 AM"
+    },
+    {
+        "title": "Covid: Dutch police arrest quarantine hotel escapees",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-europe-59456332",
+        "sentiment": -2,
+        "timestamp": 1638182223,
+        "published": "November 29, 2021 5:37 AM"
+    },
+    {
+        "title": "Australia Challenges Facebook to Back Anti-Troll Defamation Law",
+        "domain": "usnews.com",
+        "category": "technology",
+        "link": "https://www.usnews.com/news/technology/articles/2021-11-29/australia-challenges-facebook-to-back-anti-troll-defamation-law?context=",
+        "sentiment": 0,
+        "timestamp": 1638183722,
+        "published": "November 29, 2021 6:02 AM"
+    },
+    {
+        "title": "Honduras gets its first female President as leftist Castro storms towards victory",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/honduras-set-woman-president-leftist-castro-declares-victory-2021-11-29/",
+        "sentiment": 3,
+        "timestamp": 1638183743,
+        "published": "November 29, 2021 6:02 AM"
+    },
+    {
+        "title": "David Tenant’s ‘Around the World in 80 Days’ Set for Second Season; Jules Verne Adaptations Continue With ‘Journey to the Centre of the Earth’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/david-tenant-around-the-world-in-80-days-season-2-1235121011/",
+        "sentiment": 0,
+        "timestamp": 1638183785,
+        "published": "November 29, 2021 6:03 AM"
+    },
+    {
+        "title": "NASA’s Curiosity rover sends ‘picture postcard’ from Mars",
+        "domain": "indianexpress.com",
+        "category": "technology",
+        "link": "https://indianexpress.com/article/technology/science/nasas-curiosity-rover-postcard-mars-7646917/lite/",
+        "sentiment": 0,
+        "timestamp": 1638184148,
+        "published": "November 29, 2021 6:09 AM"
+    },
+    {
+        "title": "Fact check: Is nuclear energy good for the climate?",
+        "domain": "dw.com",
+        "category": "technology",
+        "link": "https://www.dw.com/en/fact-check-is-nuclear-energy-good-for-the-climate/a-59853315",
+        "sentiment": 3,
+        "timestamp": 1638184475,
+        "published": "November 29, 2021 6:14 AM"
+    },
+    {
+        "title": "Barely anyone has upgraded to Windows 11, survey claims",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/barely-anyone-has-upgraded-to-windows-11-survey-claims",
+        "sentiment": 0,
+        "timestamp": 1638185604,
+        "published": "November 29, 2021 6:33 AM"
+    },
+    {
+        "title": "George R. R. Martin started to \"worry\" about Game of Thrones after season 5, new book reveals",
+        "domain": "winteriscoming.net",
+        "category": "television",
+        "link": "https://winteriscoming.net/2021/11/27/george-rr-martin-worried-game-of-thrones-not-following-template-daenerys-transformation/",
+        "sentiment": -3,
+        "timestamp": 1638186077,
+        "published": "November 29, 2021 6:41 AM"
+    },
+    {
         "title": "14-year-old boy charged with the murder of 12-year-old Ava White.",
         "domain": "news.sky.com",
         "category": "news",
