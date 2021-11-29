@@ -1,5 +1,140 @@
 [
     {
+        "title": "The Monster America Made Kyle Rittenhouse thought he was living the story of a good guy with a gun because everything in our society told him as much.",
+        "domain": "thecut.com",
+        "category": "politics",
+        "link": "https://www.thecut.com/2021/11/kyle-rittenhouse-monster-america-made.html",
+        "sentiment": 2,
+        "timestamp": 1638162383,
+        "published": "November 29, 2021 12:06 AM"
+    },
+    {
+        "title": "Fauci says Ted Cruz should be prosecuted for Capitol riot",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/fauci-ted-cruz-capitol-riot-b1965808.html",
+        "sentiment": -4,
+        "timestamp": 1638185691,
+        "published": "November 29, 2021 6:34 AM"
+    },
+    {
+        "title": "What do EVs mean for the future of the gas station? Playgrounds and better food",
+        "domain": "theglobeandmail.com",
+        "category": "technology",
+        "link": "https://www.theglobeandmail.com/canada/article-what-do-evs-mean-for-the-future-of-the-gas-station-playgrounds-and/",
+        "sentiment": 2,
+        "timestamp": 1638185932,
+        "published": "November 29, 2021 6:38 AM"
+    },
+    {
+        "title": "Omicron: Nursing unions call for WTO to open COVID vaccine patents as variant spreads",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/next/2021/11/29/omicron-nursing-unions-call-for-wto-to-open-covid-vaccine-patents-as-variant-spreads",
+        "sentiment": 0,
+        "timestamp": 1638186080,
+        "published": "November 29, 2021 6:41 AM"
+    },
+    {
+        "title": "Japan, Israel bar foreigners as WHO flags global risk from Omicron",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/spread-omicron-variant-forces-nations-rethink-plans-global-travel-2021-11-29/",
+        "sentiment": -2,
+        "timestamp": 1638186481,
+        "published": "November 29, 2021 6:48 AM"
+    },
+    {
+        "title": "MAGA Congressman Falsely Claims Omicron Variant Is Part of Plot to Rig 2022 Election",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/mojo-wire/2021/11/ronny-jackson-covid-omicron-election-mail/",
+        "sentiment": -3,
+        "timestamp": 1638186683,
+        "published": "November 29, 2021 6:51 AM"
+    },
+    {
+        "title": "NSW police officer allegedly lied to court to support then-girlfriend's false rape claim",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2021-11-29/nsw-police-officer-perjury-act-supreme-court-rape-false-claim/100659270",
+        "sentiment": -5,
+        "timestamp": 1638187388,
+        "published": "November 29, 2021 7:03 AM"
+    },
+    {
+        "title": "The CIA said briefing Trump was 'far and away the most difficult' than with any other president",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/cia-said-briefing-trump-most-difficult-experience-compared-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638188628,
+        "published": "November 29, 2021 7:23 AM"
+    },
+    {
+        "title": "After passing Trump tax cuts, Republicans accuse Democrats of slashing taxes for the rich | New Republican ads attack Democrats on Build Back Better — which will actually raise taxes on wealthiest Americans",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/29/voted-for-cuts-now-accuse-democrats-of-slashing-for-the-rich/",
+        "sentiment": -2,
+        "timestamp": 1638188958,
+        "published": "November 29, 2021 7:29 AM"
+    },
+    {
+        "title": "Dutch police arrest couple trying to flee quarantine for Spain",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/nov/29/dutch-police-arrest-couple-trying-to-flee-covid-quarantine-for-spain",
+        "sentiment": -2,
+        "timestamp": 1638189146,
+        "published": "November 29, 2021 7:32 AM"
+    },
+    {
+        "title": "Australian PM proposes defamation laws forcing social platforms to unmask trolls",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/28/22806369/australia-proposes-defamation-laws-unmask-trolls",
+        "sentiment": 0,
+        "timestamp": 1638190115,
+        "published": "November 29, 2021 7:48 AM"
+    },
+    {
+        "title": "Magdalena Andersson elected as Swedish Prime Minister for the 2nd time in a week.",
+        "domain": "svt.se",
+        "category": "worldnews",
+        "link": "https://www.svt.se/nyheter/inrikes/talmansrundor",
+        "sentiment": 0,
+        "timestamp": 1638190345,
+        "published": "November 29, 2021 7:52 AM"
+    },
+    {
+        "title": "BMW drivers are more likely to be psychopaths, study shows",
+        "domain": "drivetribe.com",
+        "category": "worldnews",
+        "link": "https://drivetribe.com/p/bmw-drivers-are-more-likely-to-QjYetA_1TKilhkW9SJQF6A?iid=QPJBQrKRQAac6LZyoGHx_g",
+        "sentiment": 0,
+        "timestamp": 1638190800,
+        "published": "November 29, 2021 8:00 AM"
+    },
+    {
+        "title": "BMW removing touchscreen from a bunch of models due to chip shortage",
+        "domain": "autoblog.com",
+        "category": "technology",
+        "link": "https://www.autoblog.com/2021/11/05/bmws-losing-touchscreen-functionality/",
+        "sentiment": -2,
+        "timestamp": 1638191200,
+        "published": "November 29, 2021 8:06 AM"
+    },
+    {
+        "title": "Josephine BAKER, American artist involved in the French resistance during the second world war will enter the Pantheon, monument honoring the great characters of France alongside Voltaire, Victor Hugo, Simone Veil, Pierre and Marie Curie on 11/30/2021, 84y after her French naturalization",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/entertainment-france-paris-race-and-ethnicity-europe-b1933ec947e872553166ce9ef418bad6",
+        "sentiment": 6,
+        "timestamp": 1638192309,
+        "published": "November 29, 2021 8:25 AM"
+    },
+    {
         "title": "Omicron poses \"very high\" global risk, world must prepare -WHO",
         "domain": "reuters.com",
         "category": "worldnews",
