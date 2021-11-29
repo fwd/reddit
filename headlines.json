@@ -1,5 +1,86 @@
 [
     {
+        "title": "U.S. sues to halt sugar merger, says it would harm competition",
+        "domain": "pbs.org",
+        "category": "news",
+        "link": "https://www.pbs.org/newshour/economy/u-s-sues-to-halt-sugar-merger-says-it-would-harm-competition",
+        "sentiment": -4,
+        "timestamp": 1638211626,
+        "published": "November 29, 2021 1:47 PM"
+    },
+    {
+        "title": "Adam Schiff says he is concerned at apparent lack of investigation into Trump pressuring Georgia to 'find' extra votes - Trump effort to convince Georgia’s top elections official was blatant attempt to game the results",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/schiff-trump-georgia-raffensperger-doj-b1966254.html",
+        "sentiment": -1,
+        "timestamp": 1638216877,
+        "published": "November 29, 2021 3:14 PM"
+    },
+    {
+        "title": "21-year-old Kansas state lawmaker suspected of DUI weeks after domestic violence arrest",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/kansas-rep-aaron-coleman-21-arrested-dui-weeks-domestic-violence-arres-rcna6939?cid=sm_npd_nn_tw_ma",
+        "sentiment": -6,
+        "timestamp": 1638217245,
+        "published": "November 29, 2021 3:20 PM"
+    },
+    {
+        "title": "'Ghost Particles' Detected at Large Hadron Collider In Breakthrough",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjbbj7/ghost-particles-detected-at-large-hadron-collider-in-breakthrough",
+        "sentiment": 3,
+        "timestamp": 1638217580,
+        "published": "November 29, 2021 3:26 PM"
+    },
+    {
+        "title": "South Korea will use VR to determine if the elderly can keep driving",
+        "domain": "thenextweb.com",
+        "category": "technology",
+        "link": "https://thenextweb.com/news/south-korea-will-use-vr-determine-if-elderly-can-keep-driving",
+        "sentiment": 0,
+        "timestamp": 1638219121,
+        "published": "November 29, 2021 3:52 PM"
+    },
+    {
+        "title": "‘Law and Order: SVU’ Season 23: Donal Logue to Return as Declan Murphy",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/29/law-and-order-svu-donal-logue-returning-season-23-declan-murphy/",
+        "sentiment": 0,
+        "timestamp": 1638219616,
+        "published": "November 29, 2021 4:00 PM"
+    },
+    {
+        "title": "Toddlers Make Up 10% of Hospital Cases in Omicron Epicenter",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-11-29/young-kids-make-up-10-of-hospital-cases-in-omicron-epicenter",
+        "sentiment": 0,
+        "timestamp": 1638220047,
+        "published": "November 29, 2021 4:07 PM"
+    },
+    {
+        "title": "'Chucky' Renewed for Season 2 by USA Network and Syfy",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/chucky-season-2-renewed-usa-network-syfy/",
+        "sentiment": 0,
+        "timestamp": 1638221441,
+        "published": "November 29, 2021 4:30 PM"
+    },
+    {
+        "title": "‘Star Wars: Ahsoka’: Ivanna Sakhno Joins Disney+ Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/star-wars-ahsoka-ivanna-sakhno-cast-disney-plus-series-rosario-dawson-1234881590/",
+        "sentiment": 0,
+        "timestamp": 1638222131,
+        "published": "November 29, 2021 4:42 PM"
+    },
+    {
         "title": "Toronto, With Police Support, Moves Closer to Decriminalizing Drug Possession",
         "domain": "vice.com",
         "category": "worldnews",
