@@ -1,5 +1,113 @@
 [
     {
+        "title": "Omicron poses \"very high\" global risk, world must prepare -WHO",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/omicron-poses-very-high-global-risk-countries-must-prepare-who-2021-11-29/",
+        "sentiment": -2,
+        "timestamp": 1638176662,
+        "published": "November 29, 2021 4:04 AM"
+    },
+    {
+        "title": "U.S. to Expel More Russian Diplomats, Moscow Says - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "news",
+        "link": "https://www.themoscowtimes.com/2021/11/29/us-to-expel-more-russian-diplomats-moscow-says-a75690",
+        "sentiment": -2,
+        "timestamp": 1638183719,
+        "published": "November 29, 2021 6:01 AM"
+    },
+    {
+        "title": "Ontario Providing Access to Innovative Technology for Diabetes Care – Women's Health",
+        "domain": "allwiches.com",
+        "category": "technology",
+        "link": "https://allwiches.com/2021/11/29/ontario-providing-access-to-innovative-technology-for-diabetes-care/",
+        "sentiment": 4,
+        "timestamp": 1638183925,
+        "published": "November 29, 2021 6:05 AM"
+    },
+    {
+        "title": "Taiwanese man stabs convenience store clerk to death over reminder to wear face mask",
+        "domain": "asiaone.com",
+        "category": "worldnews",
+        "link": "https://www.asiaone.com/asia/man-stabs-taiwan-convenience-store-clerk-death-over-reminder-wear-face-mask",
+        "sentiment": -4,
+        "timestamp": 1638185165,
+        "published": "November 29, 2021 6:26 AM"
+    },
+    {
+        "title": "Trust in scientists soared in Australia and New Zealand during Covid pandemic, poll finds",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/29/trust-in-scientists-soared-in-australia-and-new-zealand-during-covid-pandemic-poll-finds",
+        "sentiment": 1,
+        "timestamp": 1638185504,
+        "published": "November 29, 2021 6:31 AM"
+    },
+    {
+        "title": "The Republicans Have Become the Party of Organized Violence",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/politics/gop-violence-trump/",
+        "sentiment": -3,
+        "timestamp": 1638185820,
+        "published": "November 29, 2021 6:37 AM"
+    },
+    {
+        "title": "Steve Bannon Faces Over 1,000 Pages of Evidence and Materials From Prosecution in Contempt Case",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/steve-bannon-contempt-evidence-trial-1000-pages-jan-6-1653863",
+        "sentiment": -3,
+        "timestamp": 1638185924,
+        "published": "November 29, 2021 6:38 AM"
+    },
+    {
+        "title": "Queensland woman who ran down and killed cyclist in ‘sheer rage’ jailed for 10 years | Queensland",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/australia-news/2021/nov/29/queensland-woman-who-ran-down-and-killed-cyclist-in-sheer-rage-jailed-for-10-years",
+        "sentiment": -5,
+        "timestamp": 1638186295,
+        "published": "November 29, 2021 6:44 AM"
+    },
+    {
+        "title": "\"What happened on Jan. 6, Senator?\" Dr. Fauci blasts Ted Cruz for threatening to put him in jail | \"I'm just going to do my job,\" Fauci said. \"And I'm going to be saving lives and they're going to be lying\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/28/what-happened-on-jan-6-senator-dr-fauci-blasts-ted-cruz-for-threatening-to-put-him-in-jail/",
+        "sentiment": -2,
+        "timestamp": 1638187123,
+        "published": "November 29, 2021 6:58 AM"
+    },
+    {
+        "title": "Nissan unveils $18 bln electrification push in bid to draw level with rivals",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/autos-transportation/nissan-motor-say-spend-176-bln-accelerate-electrification-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638187714,
+        "published": "November 29, 2021 7:08 AM"
+    },
+    {
+        "title": "Australian Government Vows to Unmask Online Trolls",
+        "domain": "voanews.com",
+        "category": "technology",
+        "link": "https://www.voanews.com/a/australian-government-vows-to-unmask-online-trolls/6330778.html",
+        "sentiment": 0,
+        "timestamp": 1638189020,
+        "published": "November 29, 2021 7:30 AM"
+    },
+    {
+        "title": "Facebook’s lame attempts to grab my attention make it clear: it’s time to leave",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2021/nov/29/facebook-attention-profile-leave",
+        "sentiment": -2,
+        "timestamp": 1638189336,
+        "published": "November 29, 2021 7:35 AM"
+    },
+    {
         "title": "Fauci: US could face ‘fifth wave’ of Covid as Omicron variant nears",
         "domain": "theguardian.com",
         "category": "news",
