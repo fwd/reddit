@@ -1,5 +1,140 @@
 [
     {
+        "title": "Lauren Boebert Confirms Her Apology to Ilhan Omar Was Bullsh*t",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/lauren-boebert-ilhan-omar-phone-call-1264199/",
+        "sentiment": -1,
+        "timestamp": 1638248699,
+        "published": "November 30, 2021 12:04 AM"
+    },
+    {
+        "title": "Maine lawmaker who fought pandemic restrictions and lost his wife to COVID-19 resigns",
+        "domain": "mainepublic.org",
+        "category": "politics",
+        "link": "https://www.mainepublic.org/politics/2021-11-29/maine-lawmaker-who-fought-pandemic-restrictions-and-lost-his-wife-to-covid-19-resigns",
+        "sentiment": -4,
+        "timestamp": 1638258362,
+        "published": "November 30, 2021 2:46 AM"
+    },
+    {
+        "title": "Esper says Americans deserve 'unvarnished' look at 'tumultuous' Trump administration as he sues Pentagon over book redactions",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/29/politics/esper-book-defense-department-trump-cnntv/index.html",
+        "sentiment": -2,
+        "timestamp": 1638260868,
+        "published": "November 30, 2021 3:27 AM"
+    },
+    {
+        "title": "Ilhan Omar hangs up on Lauren Boebert after anti-Muslim attack | Democrats are now pushing to strip Rep. Lauren Boebert of House committee seats after her anti-Muslim comments",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/11/29/ilhan-omar-hangs-up-on-lauren-boebert-after-anti-muslim/",
+        "sentiment": -1,
+        "timestamp": 1638270589,
+        "published": "November 30, 2021 6:09 AM"
+    },
+    {
+        "title": "There's a GOP push in Wisconsin to take over the state's election system",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson",
+        "sentiment": 0,
+        "timestamp": 1638270909,
+        "published": "November 30, 2021 6:15 AM"
+    },
+    {
+        "title": "U.S. CDC says all adults should get COVID-19 booster shots",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-cdc-says-all-adults-18-over-should-get-covid-19-booster-shots-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638271195,
+        "published": "November 30, 2021 6:19 AM"
+    },
+    {
+        "title": "CNN to conduct 'thorough review' of documents showing Chris Cuomo's intimate role advising brother Andrew Cuomo",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/29/media/chris-cuomo-documents-under-review/index.html",
+        "sentiment": 0,
+        "timestamp": 1638271574,
+        "published": "November 30, 2021 6:26 AM"
+    },
+    {
+        "title": "Trump Never Got Another Classified Intelligence Briefing After Jan. 6",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/donald-trump-never-got-another-cia-classified-intelligence-briefing-after-jan-6?ref=wrap",
+        "sentiment": 0,
+        "timestamp": 1638272177,
+        "published": "November 30, 2021 6:36 AM"
+    },
+    {
+        "title": "Omicron variant was detected in the Netherlands before S. Africa flights",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/omicron-variant-was-detected-netherlands-before-s-africa-flights-2021-11-30/",
+        "sentiment": 0,
+        "timestamp": 1638273304,
+        "published": "November 30, 2021 6:55 AM"
+    },
+    {
+        "title": "Win for Alabama Workers as NLRB Orders New Union Vote After Amazon's Alleged Misconduct | A union leader said the decision confirmed that \"Amazon's intimidation and interference prevented workers from having a fair say in whether they wanted a union in their workplace.\"",
+        "domain": "commondreams.org",
+        "category": "technology",
+        "link": "https://www.commondreams.org/news/2021/11/29/win-alabama-workers-nlrb-orders-new-union-vote-after-amazons-alleged-misconduct",
+        "sentiment": 1,
+        "timestamp": 1638274998,
+        "published": "November 30, 2021 7:23 AM"
+    },
+    {
+        "title": "Airbus and Rolls Royce involved in sustainable air fuel trial",
+        "domain": "bbc.co.uk",
+        "category": "technology",
+        "link": "https://www.bbc.co.uk/news/uk-england-bristol-59457143",
+        "sentiment": 2,
+        "timestamp": 1638275389,
+        "published": "November 30, 2021 7:29 AM"
+    },
+    {
+        "title": "US authorities order new vote in Amazon union bid",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-11-authorities-vote-amazon-union.html",
+        "sentiment": 0,
+        "timestamp": 1638276162,
+        "published": "November 30, 2021 7:42 AM"
+    },
+    {
+        "title": "Democrats Push Bill to Outlaw Bots From Snatching Up Online Goods",
+        "domain": "pcmag.com",
+        "category": "technology",
+        "link": "https://www.pcmag.com/news/democrats-push-bill-to-outlaw-bots-from-snatching-up-online-goods",
+        "sentiment": 0,
+        "timestamp": 1638276546,
+        "published": "November 30, 2021 7:49 AM"
+    },
+    {
+        "title": "Omicron COVID variant was in Europe before South African scientists detected and flagged it to the world",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/omicron-variant-covid-in-europe-netherlands-before-alert-raised/",
+        "sentiment": 0,
+        "timestamp": 1638277441,
+        "published": "November 30, 2021 8:04 AM"
+    },
+    {
+        "title": "FBI Document Says the Feds Can Get Your WhatsApp Data -- in Real Time. A previously unreported FBI document obtained by Rolling Stone reveals that “private” messaging apps WhatsApp and iMessage are deeply vulnerable to law-enforcement searches",
+        "domain": "rollingstone.com",
+        "category": "technology",
+        "link": "https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/",
+        "sentiment": -2,
+        "timestamp": 1638278227,
+        "published": "November 30, 2021 8:17 AM"
+    },
+    {
         "title": "New virus Omicron is now confirmed in 18 countries",
         "domain": "slviki.org",
         "category": "news",
