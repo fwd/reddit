@@ -1,5 +1,77 @@
 [
     {
+        "title": "China makes billion-dose pledge to Africa to help overcome the coronavirus pandemic",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3157808/china-makes-billion-dose-pledge-africa-help-overcome",
+        "sentiment": 2,
+        "timestamp": 1638237987,
+        "published": "November 29, 2021 9:06 PM"
+    },
+    {
+        "title": "One-third of staff in (Australian) parliament report some kind of sexual harassment",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-11-30/sexual-haassment-report-parliament-brittany-higgins/100660894",
+        "sentiment": -1,
+        "timestamp": 1638238408,
+        "published": "November 29, 2021 9:13 PM"
+    },
+    {
+        "title": "6th homicide charge filed against Waukesha parade suspect Darrell Brooks",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/6th-homicide-charge-filed-waukesha-parade-suspect-darrell-brooks-rcna7002",
+        "sentiment": -3,
+        "timestamp": 1638240523,
+        "published": "November 29, 2021 9:48 PM"
+    },
+    {
+        "title": "Ricky tries to get arrested but fails repeatedly-Trailer Park Boys",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/uk5HT7loZyI",
+        "sentiment": -5,
+        "timestamp": 1638240738,
+        "published": "November 29, 2021 9:52 PM"
+    },
+    {
+        "title": "Opinion | Lauren Boebert is what George W. Bush called the ‘worst of humankind’",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/29/lauren-boebert-ilhan-omar-worst-humankind/",
+        "sentiment": 0,
+        "timestamp": 1638240966,
+        "published": "November 29, 2021 9:56 PM"
+    },
+    {
+        "title": "Sheriff Detectives Raid Marilyn Manson’s Hollywood Home In Investigation Over Assault Allegations",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2021/11/sheriff-detectives-search-marilyn-mansons-hollywood-home-investigating-assault-allegations-1234881853/",
+        "sentiment": -4,
+        "timestamp": 1638241570,
+        "published": "November 29, 2021 10:06 PM"
+    },
+    {
+        "title": "Prosecution links Ghislaine Maxwell to Jeffrey Epstein, while defense says she is being blamed for his actions",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/11/29/us/ghislaine-maxwell-trial-starts/index.html",
+        "sentiment": -3,
+        "timestamp": 1638242150,
+        "published": "November 29, 2021 10:15 PM"
+    },
+    {
+        "title": "A new republic is born: Barbados ditches Britain's Queen Elizabeth; Sandra Mason is sworn-in as nation's first President",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/prince-charles-travels-barbados-celebrate-creation-republic-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638245540,
+        "published": "November 29, 2021 11:12 PM"
+    },
+    {
         "title": "Containers going thru U.S. ports up 26%, Walmart CEO McMillon says",
         "domain": "reuters.com",
         "category": "news",
