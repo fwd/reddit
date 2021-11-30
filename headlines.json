@@ -1,5 +1,59 @@
 [
     {
+        "title": "Containers going thru U.S. ports up 26%, Walmart CEO McMillon says",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/article/usa-supplychain-walmart-idUSW1N2RL007",
+        "sentiment": 0,
+        "timestamp": 1638224690,
+        "published": "November 29, 2021 5:24 PM"
+    },
+    {
+        "title": "Australia tries to pause Unesco process that can force climate action to protect Great Barrier Reef",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/nov/30/australia-tries-to-pause-unesco-process-that-can-force-climate-action-to-protect-great-barrier-reef",
+        "sentiment": 2,
+        "timestamp": 1638234794,
+        "published": "November 29, 2021 8:13 PM"
+    },
+    {
+        "title": "James Webb Space Telescope cleared for launch on December 22",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/space/james-webb-space-telescope-launch-december-22/",
+        "sentiment": 1,
+        "timestamp": 1638238937,
+        "published": "November 29, 2021 9:22 PM"
+    },
+    {
+        "title": "‘Pen15’ Ending With Season 2 on Hulu",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/pen15-ending-season-2-hulu-1235054435/",
+        "sentiment": 0,
+        "timestamp": 1638239300,
+        "published": "November 29, 2021 9:28 PM"
+    },
+    {
+        "title": "Texas father fatally shoots 11-year-old daughter while hunting",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/texas-man-fatally-shoots-11-year-old-daughter-hunting-authorities-say-rcna6952",
+        "sentiment": 0,
+        "timestamp": 1638239303,
+        "published": "November 29, 2021 9:28 PM"
+    },
+    {
+        "title": "Japan adds $6.75 billion to military budget in rush to bolster air and sea defenses",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/28/asia/japan-defense-budget-intl-hnk/index.html",
+        "sentiment": 0,
+        "timestamp": 1638239714,
+        "published": "November 29, 2021 9:35 PM"
+    },
+    {
         "title": "Armed Forces helicopter crew met with grilled cheese and kindness after being grounded along Fraser River",
         "domain": "cbc.ca",
         "category": "news",
