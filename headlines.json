@@ -1,5 +1,86 @@
 [
     {
+        "title": "Tens of thousands of people protest against military dictatorship in Sudan",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/middle-east-africa-sudan-khartoum-3a38a39a072aecef3f82c062de5abf23",
+        "sentiment": -2,
+        "timestamp": 1638295746,
+        "published": "November 30, 2021 1:09 PM"
+    },
+    {
+        "title": "Louisville postal worker tracks down suspected porch pirate and returns package",
+        "domain": "whas11.com",
+        "category": "news",
+        "link": "https://www.whas11.com/article/news/local/louisville-postal-worker-tracks-down-stolen-package/417-20ff7600-fbfb-4df7-8a50-368b777f67d8",
+        "sentiment": -1,
+        "timestamp": 1638295845,
+        "published": "November 30, 2021 1:10 PM"
+    },
+    {
+        "title": "COVID: First signs that vaccine protect against Omicron – health minister",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/health-and-wellness/coronavirus/covid-1st-data-about-vaccine-efficacy-against-omicron-expected-tuesday-687392",
+        "sentiment": 1,
+        "timestamp": 1638296904,
+        "published": "November 30, 2021 1:28 PM"
+    },
+    {
+        "title": "Democrats fume that McConnell wants to block Biden's agenda so badly he's even holding up new defense spending: 'You can never say there's a bottom and they won't go lower'",
+        "domain": "markets.businessinsider.com",
+        "category": "politics",
+        "link": "https://markets.businessinsider.com/news/stocks/mitch-mcconnell-holding-up-ndaa-defense-spending-block-biden-agenda-2021-11",
+        "sentiment": -4,
+        "timestamp": 1638297935,
+        "published": "November 30, 2021 1:45 PM"
+    },
+    {
+        "title": "Comcast’s Broadcast TV & Regional Sports Fees to Increase 20% in 2022, Surpass $37 a Month",
+        "domain": "thestreamable.com",
+        "category": "technology",
+        "link": "https://thestreamable.com/news/comcasts-broadcast-tv-regional-sports-fees-to-increase-20-percent-in-2022-surpass-37-a-month",
+        "sentiment": 1,
+        "timestamp": 1638301279,
+        "published": "November 30, 2021 2:41 PM"
+    },
+    {
+        "title": "In reversal, former Trump Chief of Staff Mark Meadows to cooperate with Jan. 6 select committee.",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/trump-chief-staff-mark-meadows-cooperate-jan-select/story?id=81467794",
+        "sentiment": 0,
+        "timestamp": 1638301643,
+        "published": "November 30, 2021 2:47 PM"
+    },
+    {
+        "title": "Court upholds California ban on high-capacity magazines | AP News",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/us-supreme-court-california-gun-politics-san-francisco-constitutions-4fbd54a8bf0e007a41f7d9793a92d776",
+        "sentiment": -2,
+        "timestamp": 1638302244,
+        "published": "November 30, 2021 2:57 PM"
+    },
+    {
+        "title": "OSU research pushes auto industry closer to clean cars powered by direct ethanol fuel cells",
+        "domain": "today.oregonstate.edu",
+        "category": "technology",
+        "link": "https://today.oregonstate.edu/news/osu-research-pushes-auto-industry-closer-clean-cars-powered-direct-ethanol-fuel-cells",
+        "sentiment": 2,
+        "timestamp": 1638302511,
+        "published": "November 30, 2021 3:01 PM"
+    },
+    {
+        "title": "Judge Orders Google to Disclose Secret Anti-Union Documents: The National Labor Relations Board ruled that Google must “immediately” produce more than 70 subpoenaed documents related to its anti-union campaign.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/v7ddyd/judge-orders-google-to-disclose-secret-anti-union-documents",
+        "sentiment": 0,
+        "timestamp": 1638305316,
+        "published": "November 30, 2021 3:48 PM"
+    },
+    {
         "title": "Mark Meadows has produced records for Jan. 6 committee, will appear for initial deposition",
         "domain": "msnbc.com",
         "category": "politics",
