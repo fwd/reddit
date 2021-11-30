@@ -1,5 +1,50 @@
 [
     {
+        "title": "Bill Cosby prosecutors take case to the United States Supreme Court",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/bill-cosby-prosecutors-take-case-to-us-supreme-court/11281500/",
+        "sentiment": 5,
+        "timestamp": 1638221131,
+        "published": "November 29, 2021 4:25 PM"
+    },
+    {
+        "title": "Judge Rejects “Divine” Authority Claim Of Ex-‘Jesus Christ Superstar’ Actor & Accused Rioter As “Gobbledygook”",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2021/11/james-beeks-jesus-christ-superstar-capitol-siege-pretrial-hearing-1234881575/",
+        "sentiment": -2,
+        "timestamp": 1638226026,
+        "published": "November 29, 2021 5:47 PM"
+    },
+    {
+        "title": "Barbados to cut ties with Queen Elizabeth II, become a republic in a grand ceremony",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/rcna6901",
+        "sentiment": 2,
+        "timestamp": 1638228746,
+        "published": "November 29, 2021 6:32 PM"
+    },
+    {
+        "title": "Why the Beatles’ ‘Get Back’ May Stand as the Best Rock Doc Ever",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/music/opinion/get-back-beatles-essential-rock-documentary-peter-jackson-1235120784/",
+        "sentiment": 3,
+        "timestamp": 1638230143,
+        "published": "November 29, 2021 6:55 PM"
+    },
+    {
+        "title": "Belgian Researchers Develop a Solar Panel that Produces Hydrogen",
+        "domain": "hydrogen-central.com",
+        "category": "technology",
+        "link": "https://hydrogen-central.com/belgian-researchers-solar-panel-produces-hydrogen/",
+        "sentiment": 0,
+        "timestamp": 1638230162,
+        "published": "November 29, 2021 6:56 PM"
+    },
+    {
         "title": "Jan. 6 Organizer Ali Alexander Will Comply With Subpoena Because He’s Broke",
         "domain": "thedailybeast.com",
         "category": "politics",
