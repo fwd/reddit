@@ -1,5 +1,131 @@
 [
     {
+        "title": "Mark Meadows has produced records for Jan. 6 committee, will appear for initial deposition",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/andrea-mitchell-reports/watch/mark-meadows-has-produced-records-for-jan-6-committee-will-appear-for-initial-deposition-127530565864",
+        "sentiment": 0,
+        "timestamp": 1638294500,
+        "published": "November 30, 2021 12:48 PM"
+    },
+    {
+        "title": "After lifting all COVID restrictions on the 25th of September, Norway imposes new restrictions after infections reach all time high",
+        "domain": "thelocal.no",
+        "category": "worldnews",
+        "link": "https://www.thelocal.no/20211130/in-brief-norways-new-national-covid-19-measures/",
+        "sentiment": -2,
+        "timestamp": 1638294617,
+        "published": "November 30, 2021 12:50 PM"
+    },
+    {
+        "title": "Boebert calls Omar 'black-hearted' and 'evil' in new video",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2021/11/30/kfile-boebert-calls-omar-and-talib-black-hearted-evil-women-elevator-story-kaczynski-ip-vpx.cnn",
+        "sentiment": 0,
+        "timestamp": 1638296748,
+        "published": "November 30, 2021 1:25 PM"
+    },
+    {
+        "title": "Ex-Trump aide Meadows cooperating with House Jan. 6 panel",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/20b5d2e35e0e773eaa84d17197bf6b62",
+        "sentiment": 0,
+        "timestamp": 1638298351,
+        "published": "November 30, 2021 1:52 PM"
+    },
+    {
+        "title": "Yahya Abdul-Mateen II Launches Production Banner With Netflix",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/yahya-abdul-mateen-ii-production-banner-netflix-1235054403/",
+        "sentiment": 0,
+        "timestamp": 1638299053,
+        "published": "November 30, 2021 2:04 PM"
+    },
+    {
+        "title": "How Steve Bannon Has Exploited Google Ads to Monetize Extremism",
+        "domain": "propublica.org",
+        "category": "technology",
+        "link": "https://www.propublica.org/article/how-steve-bannon-has-exploited-google-ads-to-monetize-extremism?utm_medium=social&utm_source=twitter",
+        "sentiment": -2,
+        "timestamp": 1638299808,
+        "published": "November 30, 2021 2:16 PM"
+    },
+    {
+        "title": "Trump's lawyers fumble as judges grill them about whether Trump has the right to dictate which Jan. 6 documents Congress gets",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-congress-lawyers-spar-appeals-court-hearing-jan-6-docs-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638299812,
+        "published": "November 30, 2021 2:16 PM"
+    },
+    {
+        "title": "Multiple people injured in shooting at Oxford High School in Michigan, officials say",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/multiple-people-injured-shooting-oxford-high-school-michigan-officials-rcna7128",
+        "sentiment": -2,
+        "timestamp": 1638300253,
+        "published": "November 30, 2021 2:24 PM"
+    },
+    {
+        "title": "Irish households donate more to charities than corporations",
+        "domain": "irishtimes.com",
+        "category": "worldnews",
+        "link": "https://www.irishtimes.com/news/ireland/irish-news/irish-households-donate-more-to-charities-than-corporations-report-1.4743210",
+        "sentiment": 2,
+        "timestamp": 1638300464,
+        "published": "November 30, 2021 2:27 PM"
+    },
+    {
+        "title": "Kevin Can F**k Himself to End With Season 2 at AMC",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/11/30/kevin-can-f-himself-ending-no-season-3-amc/",
+        "sentiment": 0,
+        "timestamp": 1638300753,
+        "published": "November 30, 2021 2:32 PM"
+    },
+    {
+        "title": "This browser extension shows how many brands on Amazon are actually just Amazon",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/30/22808835/amazon-brand-detector-browser-extension-markup-basics-essentials-private-labels",
+        "sentiment": 0,
+        "timestamp": 1638301068,
+        "published": "November 30, 2021 2:37 PM"
+    },
+    {
+        "title": "Ukraine PM says Russia 'absolutely' behind suspected coup attempt",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/exclusive-ukraine-pm-says-russia-absolutely-behind-coup-attempt-2021-11-30/",
+        "sentiment": -1,
+        "timestamp": 1638301687,
+        "published": "November 30, 2021 2:48 PM"
+    },
+    {
+        "title": "China’s queer internet is being erased | LGBTQI groups found rare freedoms online, but this year, many were shut by censors. It feels like slowly being sanded down, said one member.",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/chinas-queer-internet-is-being-erased/",
+        "sentiment": 2,
+        "timestamp": 1638301894,
+        "published": "November 30, 2021 2:51 PM"
+    },
+    {
+        "title": "FBI document shows what data can be obtained from encrypted messaging apps",
+        "domain": "therecord.media",
+        "category": "technology",
+        "link": "https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/",
+        "sentiment": 0,
+        "timestamp": 1638302660,
+        "published": "November 30, 2021 3:04 PM"
+    },
+    {
         "title": "Another video shows Lauren Boebert suggesting Ilhan Omar was terrorist",
         "domain": "cnn.com",
         "category": "politics",
