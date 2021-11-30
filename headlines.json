@@ -1,5 +1,59 @@
 [
     {
+        "title": "Omicron is a variant that needs to be taken \"very seriously,\" Moderna’s chief medical officer says",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/world/live-news/covid-variant-omicron-11-29-21/h_80dffae0493ffddbf0b593af2b8dace3",
+        "sentiment": 0,
+        "timestamp": 1638252840,
+        "published": "November 30, 2021 1:14 AM"
+    },
+    {
+        "title": "The Simpsons: Tiananmen episode not found in Hong Kong",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-asia-china-59468148",
+        "sentiment": 0,
+        "timestamp": 1638255359,
+        "published": "November 30, 2021 1:55 AM"
+    },
+    {
+        "title": "UK privacy watchdog may fine selfie-hoarding Clearview AI £17m... eventually, perhaps",
+        "domain": "theregister.com",
+        "category": "technology",
+        "link": "https://www.theregister.com/2021/11/30/uk_clearview_fine/",
+        "sentiment": 2,
+        "timestamp": 1638267338,
+        "published": "November 30, 2021 5:15 AM"
+    },
+    {
+        "title": "Indians Bring Caste Discrimination into ‘Every U.S. Company’",
+        "domain": "educationviews.org",
+        "category": "news",
+        "link": "https://www.educationviews.org/indians-bring-caste-discrimination-into-every-u-s-company/",
+        "sentiment": 0,
+        "timestamp": 1638268040,
+        "published": "November 30, 2021 5:27 AM"
+    },
+    {
+        "title": "German court finds former 'IS' member guilty of genocide in case of Yazidi girl's death",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/german-court-finds-former-is-member-guilty-of-genocide-in-case-of-yazidi-girls-death/a-59976226",
+        "sentiment": -5,
+        "timestamp": 1638268798,
+        "published": "November 30, 2021 5:39 AM"
+    },
+    {
+        "title": "Meta ordered to sell Giphy by UK regulator",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/30/22740272/facebook-giphy-acquisition-competition-and-markets-authority-uk-regulator",
+        "sentiment": 0,
+        "timestamp": 1638268820,
+        "published": "November 30, 2021 5:40 AM"
+    },
+    {
         "title": "Moderna CEO warns COVID-19 shots less effective against Omicron , markets tumble",
         "domain": "reuters.com",
         "category": "news",
