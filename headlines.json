@@ -1,5 +1,131 @@
 [
     {
+        "title": "MI6 boss warns of China 'debt traps and data traps'",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-59474365",
+        "sentiment": -3,
+        "timestamp": 1638266205,
+        "published": "November 30, 2021 4:56 AM"
+    },
+    {
+        "title": "Editorial: Since Boebert seems incapable, we’ll apologize to Omar for her",
+        "domain": "denverpost.com",
+        "category": "politics",
+        "link": "https://www.denverpost.com/2021/11/29/lauren-boebert-apology-ilhan-omar-muslim-americans/",
+        "sentiment": -3,
+        "timestamp": 1638273075,
+        "published": "November 30, 2021 6:51 AM"
+    },
+    {
+        "title": "Poland PM urges \"wake up\" to destabilisation by Russia and allies",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59470839",
+        "sentiment": 0,
+        "timestamp": 1638274397,
+        "published": "November 30, 2021 7:13 AM"
+    },
+    {
+        "title": "COVID-19: Omicron variant 'highly infectious' and booster jabs may need 'double' dose, says Moderna CEO",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/covid-19-omicron-variant-highly-infectious-and-booster-jabs-may-need-double-dose-says-moderna-ceo-12482978",
+        "sentiment": 0,
+        "timestamp": 1638277880,
+        "published": "November 30, 2021 8:11 AM"
+    },
+    {
+        "title": "Barbados bids farewell to British monarchy, becomes republic",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/queen-elizabeth-ii-barbados-rihanna-b1633f7f26427c0cb62ebe8f32b77fa1",
+        "sentiment": 0,
+        "timestamp": 1638279359,
+        "published": "November 30, 2021 8:35 AM"
+    },
+    {
+        "title": "Face masks again mandatory in England amid variant spread",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-england-boris-johnson-scotland-8886fa8e4414d5993ddc618781e0456f",
+        "sentiment": -1,
+        "timestamp": 1638279575,
+        "published": "November 30, 2021 8:39 AM"
+    },
+    {
+        "title": "Inside the ‘big wave’ of misinformation targeted at Latinos in Florida, elsewhere",
+        "domain": "orlandosentinel.com",
+        "category": "politics",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-inside-the-big-wave-of-misinformation-targeted-at-latinos-20211129-arlx66zghbavtg2my4hutqj44u-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-4~ARLX66ZGHBAVTG2MY4HUTQJ44U~1~1~4~8~art%20yes",
+        "sentiment": -2,
+        "timestamp": 1638280065,
+        "published": "November 30, 2021 8:47 AM"
+    },
+    {
+        "title": "Elizabeth Holmes testifies she was abused by former Theranos COO",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/11/29/tech/elizabeth-holmes-testimony/index.html",
+        "sentiment": -3,
+        "timestamp": 1638280838,
+        "published": "November 30, 2021 9:00 AM"
+    },
+    {
+        "title": "UK competition watchdog orders Meta to sell Giphy",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/technology-59460644?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_custom3=%40BBCWorld&at_medium=custom7&at_custom4=E506EEC2-51D7-11EC-BF97-DA904744363C&at_campaign=64&at_custom2=twitter",
+        "sentiment": 0,
+        "timestamp": 1638282161,
+        "published": "November 30, 2021 9:22 AM"
+    },
+    {
+        "title": "Buttigieg: Families who buy electric vehicles 'never have to worry about gas prices again'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/dem-lawmakers/583325-buttigieg-electric-vehicle-owners-never-have-to-worry-about-gas-prices-again?amp",
+        "sentiment": -3,
+        "timestamp": 1638282580,
+        "published": "November 30, 2021 9:29 AM"
+    },
+    {
+        "title": "Male survivors unite to expose sexual abuse at college football’s biggest rivals",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/sport/2021/nov/30/ohio-state-michigan-doctors-sexual-abuse-college-football",
+        "sentiment": -4,
+        "timestamp": 1638282921,
+        "published": "November 30, 2021 9:35 AM"
+    },
+    {
+        "title": "Romanian Parliament Passes Bill Mandating Holocaust and Jewish History Education in All High Schools",
+        "domain": "algemeiner.com",
+        "category": "worldnews",
+        "link": "https://www.algemeiner.com/2021/11/19/romania-passes-bill-mandating-holocaust-and-jewish-history-education-in-all-high-schools/",
+        "sentiment": 0,
+        "timestamp": 1638283362,
+        "published": "November 30, 2021 9:42 AM"
+    },
+    {
+        "title": "Twitter bans sharing images or videos of private individuals without their consent, just one day after former CTO Parag Agrawal was named CEO.",
+        "domain": "streetinsider.com",
+        "category": "technology",
+        "link": "https://www.streetinsider.com/Corporate+News/Twitter+%28TWTR%29+expands+private+information+policy+to+include+media/19287845.html",
+        "sentiment": 2,
+        "timestamp": 1638283669,
+        "published": "November 30, 2021 9:47 AM"
+    },
+    {
+        "title": "Google breached its own ‘don’t be evil’ motto, ex-employees’ lawsuit claims",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2021/nov/30/google-dont-be-evil-ex-employees-lawsuit",
+        "sentiment": -4,
+        "timestamp": 1638285991,
+        "published": "November 30, 2021 10:26 AM"
+    },
+    {
         "title": "'This is profound': Scientists create self-replicating robots from frog cells",
         "domain": "ctvnews.ca",
         "category": "news",
