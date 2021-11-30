@@ -1,5 +1,122 @@
 [
     {
+        "title": "Brazilian rejection on covid vaccine is the lowest in Latin America: only 3% of the country's population.",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/portuguese/brasil-59468300",
+        "sentiment": -3,
+        "timestamp": 1638269754,
+        "published": "November 30, 2021 5:55 AM"
+    },
+    {
+        "title": "It's no secret: CIA book looks at fraught relations with Trump",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/11/30/1059921139/its-no-secret-cia-book-looks-at-fraught-relations-with-trump",
+        "sentiment": -1,
+        "timestamp": 1638275148,
+        "published": "November 30, 2021 7:25 AM"
+    },
+    {
+        "title": "Tens of thousands march against military rule in Sudan, met with tear gas",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/africa/anti-military-protesters-march-sudans-presidential-palace-2021-11-30/",
+        "sentiment": 0,
+        "timestamp": 1638279074,
+        "published": "November 30, 2021 8:31 AM"
+    },
+    {
+        "title": "Multi-platform spyware tracks users across Windows and Android",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/multi-platform-spyware-tracks-users-across-windows-and-android",
+        "sentiment": 0,
+        "timestamp": 1638281197,
+        "published": "November 30, 2021 9:06 AM"
+    },
+    {
+        "title": "An Iraqi member of the Islamic State (IS) group has been found guilty of genocide against the Yazidi religious minority in a landmark German trial",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59474616",
+        "sentiment": -1,
+        "timestamp": 1638281846,
+        "published": "November 30, 2021 9:17 AM"
+    },
+    {
+        "title": "Trump worked the phones with top allies in the early hours of January 6 to try to stop Biden from taking office, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-tried-to-stop-congress-affirming-biden-victory-jan-6-2021-11",
+        "sentiment": 1,
+        "timestamp": 1638284123,
+        "published": "November 30, 2021 9:55 AM"
+    },
+    {
+        "title": "Opinion | If Democrats don’t fight for voting rights, not much else matters",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-democrats-dont-fight-for-voting-rights-not-much-else-matters/2021/11/29/f17bfb60-4ed6-11ec-a7b8-9ed28bf23929_story.html",
+        "sentiment": 0,
+        "timestamp": 1638284504,
+        "published": "November 30, 2021 10:01 AM"
+    },
+    {
+        "title": "Foster's Home for Imaginary Friends - It's Hot in Topeka",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=L_IlsPypwZs",
+        "sentiment": 0,
+        "timestamp": 1638284735,
+        "published": "November 30, 2021 10:05 AM"
+    },
+    {
+        "title": "Princeton team disables long-targeted gene behind spread of major cancers",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/medical/princeton-team-long-targeted-gene-metastasis-major-cancers/",
+        "sentiment": 0,
+        "timestamp": 1638285567,
+        "published": "November 30, 2021 10:19 AM"
+    },
+    {
+        "title": "Germany's soon-to-be new chancellor Olaf Scholz reported to introduce a national vaccination mandate",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-scholz-supports-mandatory-vaccines-by-end-feb-sources-2021-11-30/",
+        "sentiment": 0,
+        "timestamp": 1638286839,
+        "published": "November 30, 2021 10:40 AM"
+    },
+    {
+        "title": "Nine Democrats call for release of jailed lawyer who took on Chevron",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/business/energy/nine-democrats-call-release-jailed-lawyer-who-took-chevron-2021-11-30/",
+        "sentiment": -2,
+        "timestamp": 1638287027,
+        "published": "November 30, 2021 10:43 AM"
+    },
+    {
+        "title": "Maxwell was 'number two' in Epstein's hierarchy, pilot says at sex-abuse trial",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/maxwell-sex-abuse-trial-resume-with-epstein-pilots-testimony-2021-11-30/",
+        "sentiment": 0,
+        "timestamp": 1638287773,
+        "published": "November 30, 2021 10:56 AM"
+    },
+    {
+        "title": "NASA delays spacewalk due to threat of space debris",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/30/22809544/nasa-spacewalk-delay-debris-space-station",
+        "sentiment": -2,
+        "timestamp": 1638288634,
+        "published": "November 30, 2021 11:10 AM"
+    },
+    {
         "title": "MI6 boss warns of China 'debt traps and data traps'",
         "domain": "bbc.com",
         "category": "news",
