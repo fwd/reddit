@@ -1,5 +1,68 @@
 [
     {
+        "title": "New virus Omicron is now confirmed in 18 countries",
+        "domain": "slviki.org",
+        "category": "news",
+        "link": "https://slviki.org/new-virus-omicron-is-now-confirmed-in-18-countries/",
+        "sentiment": 0,
+        "timestamp": 1638262223,
+        "published": "November 30, 2021 3:50 AM"
+    },
+    {
+        "title": "The FAA accidentally disclosed more than 2,000 flight records associated with Jeffrey Epstein's private jets",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/faa-accidentally-released-jeffrey-epsteins-flight-records-2021-10",
+        "sentiment": -2,
+        "timestamp": 1638263611,
+        "published": "November 30, 2021 4:13 AM"
+    },
+    {
+        "title": "Trump called aides hours before Capitol riot to discuss how to stop Biden victory",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/30/donald-trump-called-top-aides-capitol-riot-biden",
+        "sentiment": 0,
+        "timestamp": 1638267332,
+        "published": "November 30, 2021 5:15 AM"
+    },
+    {
+        "title": "World’s vast networks of underground fungi to be mapped for first time",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/science/2021/nov/30/worlds-vast-networks-of-underground-fungi-to-be-mapped-for-first-time",
+        "sentiment": 0,
+        "timestamp": 1638271574,
+        "published": "November 30, 2021 6:26 AM"
+    },
+    {
+        "title": "Apple says it will notify users whose iPhones were hacked by spyware",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/news/us-news/apple-says-will-notify-users-whose-iphones-hacked-spyware-rcna7006",
+        "sentiment": -1,
+        "timestamp": 1638271846,
+        "published": "November 30, 2021 6:30 AM"
+    },
+    {
+        "title": "UK antitrust watchdog orders Facebook to sell off Giphy",
+        "domain": "techbomb.ca",
+        "category": "news",
+        "link": "https://techbomb.ca/general/uk-antitrust-watchdog-orders-facebook-to-sell-off-giphy/",
+        "sentiment": 0,
+        "timestamp": 1638272706,
+        "published": "November 30, 2021 6:45 AM"
+    },
+    {
+        "title": "A new republic is born: Barbados celebrates ditching Britain's queen",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/new-republic-is-born-barbados-celebrates-ditching-britains-queen-2021-11-24/",
+        "sentiment": 3,
+        "timestamp": 1638273643,
+        "published": "November 30, 2021 7:00 AM"
+    },
+    {
         "title": "Omicron is a variant that needs to be taken \"very seriously,\" Moderna’s chief medical officer says",
         "domain": "edition.cnn.com",
         "category": "news",
