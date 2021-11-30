@@ -1,5 +1,167 @@
 [
     {
+        "title": "Guess What Everybody, It’s Debt Ceiling Drama Time Again",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164553/schumer-mcconnell-debt-ceiling-default",
+        "sentiment": -2,
+        "timestamp": 1638279871,
+        "published": "November 30, 2021 8:44 AM"
+    },
+    {
+        "title": "Quantum Computing Shows US Fears It Can’t Outcompete China",
+        "domain": "asiafinancial.com",
+        "category": "technology",
+        "link": "https://www.asiafinancial.com/quantum-computing-shows-us-fears-it-cant-outcompete-china",
+        "sentiment": 0,
+        "timestamp": 1638282499,
+        "published": "November 30, 2021 9:28 AM"
+    },
+    {
+        "title": "Colorado's secretary of state said that Trump supporters are 'chipping away' at secure elections as they are placed in election roles across the country",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-loyalists-chipping-away-secure-elections-jena-griswold-2021-11",
+        "sentiment": 3,
+        "timestamp": 1638285064,
+        "published": "November 30, 2021 10:11 AM"
+    },
+    {
+        "title": "Poland PM urges 'wake up' to destabilisation by Russia and allies",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59470839",
+        "sentiment": 0,
+        "timestamp": 1638285671,
+        "published": "November 30, 2021 10:21 AM"
+    },
+    {
+        "title": "Greece will fine over-60s €100 a month for refusing COVID-19 vaccine",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2021/11/30/greece-will-fine-over-60s-100-a-month-for-refusing-covid-19-vaccine",
+        "sentiment": 0,
+        "timestamp": 1638286944,
+        "published": "November 30, 2021 10:42 AM"
+    },
+    {
+        "title": "NATO warns Russia any move on Ukraine would be costly mistake",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/583557-nato-warns-russia-any-move-on-ukraine-would-be-costly-mistake",
+        "sentiment": -6,
+        "timestamp": 1638287517,
+        "published": "November 30, 2021 10:51 AM"
+    },
+    {
+        "title": "Vigilantes Are Hunting Crypto Scams in $100 Billion Market",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/features/avoid-cryptocurrency-scams-2021/",
+        "sentiment": -2,
+        "timestamp": 1638288090,
+        "published": "November 30, 2021 11:01 AM"
+    },
+    {
+        "title": "Republicans Are Undermining the Vaccine and Blaming Biden for It",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2021/11/republicans-are-undermining-vaccine-and-blaming-biden-for-it.html",
+        "sentiment": -4,
+        "timestamp": 1638288103,
+        "published": "November 30, 2021 11:01 AM"
+    },
+    {
+        "title": "Woman Sues Police Union for Using Her Son for Photo-Op—After Beating Her Up",
+        "domain": "fee.org",
+        "category": "news",
+        "link": "https://fee.org/articles/woman-sues-police-union-for-using-her-son-for-photo-op-after-beating-her-up/",
+        "sentiment": -3,
+        "timestamp": 1638289146,
+        "published": "November 30, 2021 11:19 AM"
+    },
+    {
+        "title": "U.S. FTC orders Walmart, Amazon to provide information in supply chain probe",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/us-ftc-orders-nine-companies-provide-information-supply-chain-probe-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638289246,
+        "published": "November 30, 2021 11:20 AM"
+    },
+    {
+        "title": "Anxious People | Official Teaser | Netflix",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/4HIEt4nf3Jk",
+        "sentiment": -2,
+        "timestamp": 1638289433,
+        "published": "November 30, 2021 11:23 AM"
+    },
+    {
+        "title": "Judges grill Trump lawyers trying to block Jan. 6 probe from getting White House records",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/11/30/jan-6-riot-probe-lawsuit-judges-grill-trump-lawyers-over-privilege-claims.html",
+        "sentiment": -1,
+        "timestamp": 1638289475,
+        "published": "November 30, 2021 11:24 AM"
+    },
+    {
+        "title": "Trump Org fleeced Americans for $1.7 billion while in office: David Cay Johnston",
+        "domain": "rawstory.com",
+        "category": "politics",
+        "link": "https://www.rawstory.com/trump-org-fleeced-america-for-1-7-billion-while-in-office-david-cay-johnston/",
+        "sentiment": 0,
+        "timestamp": 1638289781,
+        "published": "November 30, 2021 11:29 AM"
+    },
+    {
+        "title": "The Taliban executed scores of Afghan security forces members after surrender, HRW report alleges",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/11/30/asia/afghanistan-hrw-report-taliban-killings-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638290075,
+        "published": "November 30, 2021 11:34 AM"
+    },
+    {
+        "title": "‘Dunk & Egg’: Steve Conrad To Write ‘Game Of Thrones’ Prequel Series In Works At HBO",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/11/dunk-egg-steve-conrad-writer-game-of-thrones-prequel-series-hbo-1234881825/",
+        "sentiment": 0,
+        "timestamp": 1638290143,
+        "published": "November 30, 2021 11:35 AM"
+    },
+    {
+        "title": "Man accused of using relief funds on Lamborghini gets prison",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-texas-small-business-8a6485625cfc323e9af1e1c3dae2be08",
+        "sentiment": -4,
+        "timestamp": 1638290315,
+        "published": "November 30, 2021 11:38 AM"
+    },
+    {
+        "title": "Poland PM urges ‘wake up’ to destabilisation by Russia and allies",
+        "domain": "iynk.in",
+        "category": "worldnews",
+        "link": "https://www.iynk.in/poland-pm-urges-wake-up-to-destabilisation-by-russia-and-allies/",
+        "sentiment": 0,
+        "timestamp": 1638291467,
+        "published": "November 30, 2021 11:57 AM"
+    },
+    {
+        "title": "Twitter bans sharing photos, video of people without their consent",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/tech/services-and-software/twitter-bans-sharing-photos-video-of-people-without-their-consent/",
+        "sentiment": 2,
+        "timestamp": 1638292649,
+        "published": "November 30, 2021 12:17 PM"
+    },
+    {
         "title": "Brazilian rejection on covid vaccine is the lowest in Latin America: only 3% of the country's population.",
         "domain": "bbc.com",
         "category": "worldnews",
