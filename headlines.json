@@ -1,5 +1,104 @@
 [
     {
+        "title": "'This is profound': Scientists create self-replicating robots from frog cells",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/mobile/sci-tech/this-is-profound-scientists-create-self-replicating-robots-from-frog-cells-1.5686653",
+        "sentiment": 0,
+        "timestamp": 1638275979,
+        "published": "November 30, 2021 7:39 AM"
+    },
+    {
+        "title": "First Thing: Trump called aides at command center hours before Capitol riot | US news",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/nov/30/donald-trump-called-capitol-riot-aides-first-thing",
+        "sentiment": -2,
+        "timestamp": 1638276342,
+        "published": "November 30, 2021 7:45 AM"
+    },
+    {
+        "title": "Walmart said she shoplifted; jury awards her $2.1 million",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/walmart-shoplifted-jury-awards-21-million-81463335",
+        "sentiment": 3,
+        "timestamp": 1638277546,
+        "published": "November 30, 2021 8:05 AM"
+    },
+    {
+        "title": "Omicron was in the Netherlands before S Africa alert",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/30/hong-kong-bans-non-resident-arrivals-over-new-covid-strain-fears",
+        "sentiment": -1,
+        "timestamp": 1638279073,
+        "published": "November 30, 2021 8:31 AM"
+    },
+    {
+        "title": "George R.R. Martin Begged HBO to Make 'Game of Thrones' 10 Seasons",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/george-rr-martin-begged-hbo-game-of-thrones-10-seasons-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638280117,
+        "published": "November 30, 2021 8:48 AM"
+    },
+    {
+        "title": "Don't use migrants as pawns in political strategies, Pope tells governments",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/dont-use-migrants-pawns-political-strategies-pope-tells-governments-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638280129,
+        "published": "November 30, 2021 8:48 AM"
+    },
+    {
+        "title": "U.S. labor board official orders Amazon to redo union vote at Alabama warehouse",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/amazon-alabama-facility-ordered-re-run-union-election-us-labor-board-2021-11-29/",
+        "sentiment": 0,
+        "timestamp": 1638280161,
+        "published": "November 30, 2021 8:49 AM"
+    },
+    {
+        "title": "Cyber Monday online sales drop 1.4% from last year to $10.7 billion, falling for the first time ever",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/30/cyber-monday-online-sales-drop-1point4percent-from-last-year-to-10point7-billion-falling-for-the-first-time-ever.html",
+        "sentiment": -2,
+        "timestamp": 1638280516,
+        "published": "November 30, 2021 8:55 AM"
+    },
+    {
+        "title": "Elon Musk tells SpaceX employees that Starship engine crisis is creating a ‘risk of bankruptcy’",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/30/elon-musk-to-spacex-starships-raptor-engine-crisis-risks-bankruptcy.html",
+        "sentiment": -3,
+        "timestamp": 1638280679,
+        "published": "November 30, 2021 8:57 AM"
+    },
+    {
+        "title": "The Marvelous Mrs. Maisel Season 4 - Official Teaser | Prime Video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=tLhLRwvDA2c",
+        "sentiment": 3,
+        "timestamp": 1638280818,
+        "published": "November 30, 2021 9:00 AM"
+    },
+    {
+        "title": "Surgeons at Duke University First to Implant New Total Artificial Heart Into Patient",
+        "domain": "oneresearch.org",
+        "category": "technology",
+        "link": "https://oneresearch.org/2021/11/11/surgeons-at-duke-university-first-to-implant-new-total-artificial-heart-into-patient/",
+        "sentiment": 0,
+        "timestamp": 1638280824,
+        "published": "November 30, 2021 9:00 AM"
+    },
+    {
         "title": "Lauren Boebert Confirms Her Apology to Ilhan Omar Was Bullsh*t",
         "domain": "rollingstone.com",
         "category": "politics",
