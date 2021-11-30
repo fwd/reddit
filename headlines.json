@@ -1,5 +1,95 @@
 [
     {
+        "title": "Another video shows Lauren Boebert suggesting Ilhan Omar was terrorist",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html",
+        "sentiment": -2,
+        "timestamp": 1638293072,
+        "published": "November 30, 2021 12:24 PM"
+    },
+    {
+        "title": "Former White House chief of staff Mark Meadows cooperating with Jan. 6 committee",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/11/30/former-white-house-chief-staff-mark-meadows-cooperating-with-jan-6-committee/",
+        "sentiment": 0,
+        "timestamp": 1638293491,
+        "published": "November 30, 2021 12:31 PM"
+    },
+    {
+        "title": "Anti-Defamation League and Auschwitz Museum condemn Fox host for comparing Fauci to Nazi doctor who performed medical experiments at death camp",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/11/30/media/lara-logan-fauci-auschwitz-museum-anti-defamation-league/index.html",
+        "sentiment": -4,
+        "timestamp": 1638293575,
+        "published": "November 30, 2021 12:32 PM"
+    },
+    {
+        "title": "Prosecutors demanded records of Sidney Powell’s fundraising groups as part of criminal probe",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/11/30/sidney-powell-defend-the-republic-criminal-probe/",
+        "sentiment": -4,
+        "timestamp": 1638294983,
+        "published": "November 30, 2021 12:56 PM"
+    },
+    {
+        "title": "Josh Duggar trial to begin over child pornography charges",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Entertainment/wireStory/josh-duggar-trial-begin-child-pornography-charges-81464069",
+        "sentiment": -2,
+        "timestamp": 1638295702,
+        "published": "November 30, 2021 1:08 PM"
+    },
+    {
+        "title": "Ultrathin solar cells get a boost",
+        "domain": "news.rice.edu",
+        "category": "technology",
+        "link": "https://news.rice.edu/news/2021/ultrathin-solar-cells-get-boost",
+        "sentiment": 1,
+        "timestamp": 1638296365,
+        "published": "November 30, 2021 1:19 PM"
+    },
+    {
+        "title": "Oxford High School on lockdown due to active shooting situation, reports of multiple victims",
+        "domain": "wxyz.com",
+        "category": "news",
+        "link": "https://www.wxyz.com/news/oxford-high-school-on-lockdown-due-to-active-shooting-situation-reports-of-multiple-victims",
+        "sentiment": -2,
+        "timestamp": 1638297931,
+        "published": "November 30, 2021 1:45 PM"
+    },
+    {
+        "title": "A Frankfurt court has handed a life sentence to an Iraqi man who joined the Islamic State group for genocide against the Yazidi minority, in the first verdict worldwide to use the label. Taha Al-Jumailly, 29, was found guilty of genocide and other crimes against humanity resulting in death",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20211130-in-world-first-germany-sentences-iraqi-jihadist-to-life-in-prison-for-yazidi-genocide",
+        "sentiment": -11,
+        "timestamp": 1638298405,
+        "published": "November 30, 2021 1:53 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell trial: Prince Andrew named among high-profile men who used Jeffrey Epstein's private jet",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/ghislaine-maxwell-trial-prince-andrew-named-among-high-profile-men-who-used-jeffrey-epsteins-private-jet-12483173",
+        "sentiment": 0,
+        "timestamp": 1638298594,
+        "published": "November 30, 2021 1:56 PM"
+    },
+    {
+        "title": "COVID has devastated cancer treatment in Europe, new data reveals",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/next/2021/11/30/cancer-in-europe-the-devastating-impact-of-covid-on-diagnosis-and-treatment-country-by-cou",
+        "sentiment": -3,
+        "timestamp": 1638298784,
+        "published": "November 30, 2021 1:59 PM"
+    },
+    {
         "title": "Dr. Fauci responds to GOP Rep. Ronny Jackson calling Omicron the ‘Midterm Election Variant’",
         "domain": "msnbc.com",
         "category": "politics",
