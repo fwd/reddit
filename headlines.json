@@ -1,5 +1,131 @@
 [
     {
+        "title": "Dr. Fauci responds to GOP Rep. Ronny Jackson calling Omicron the ‘Midterm Election Variant’",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/watch/omicron-variant-protection-through-boosters-masks-and-more-discussed-by-dr-anthony-fauci-127477829908",
+        "sentiment": 0,
+        "timestamp": 1638288325,
+        "published": "November 30, 2021 11:05 AM"
+    },
+    {
+        "title": "Capitol rioter from Texas charged with assaulting cops is running for House seat",
+        "domain": "lmtonline.com",
+        "category": "politics",
+        "link": "https://www.lmtonline.com/news/local/article/mark-middleton-january-6-capitol-riot-16662522.php",
+        "sentiment": -3,
+        "timestamp": 1638289035,
+        "published": "November 30, 2021 11:17 AM"
+    },
+    {
+        "title": "Disney, Comcast Renew Carriage Deal for ESPN, Disney Channel, ABC Stations",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/disney-comcast-renew-carriage-deal-espn-1235122053/",
+        "sentiment": 0,
+        "timestamp": 1638289436,
+        "published": "November 30, 2021 11:23 AM"
+    },
+    {
+        "title": "Judges question Trump bid to keep U.S. Capitol riot records secret",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/litigation/trump-ask-court-keep-records-away-us-capitol-riot-panel-2021-11-30/",
+        "sentiment": -2,
+        "timestamp": 1638290416,
+        "published": "November 30, 2021 11:40 AM"
+    },
+    {
+        "title": "S.C. woman gets $10 million in Walmart lawsuit after stepping on rusty nail, losing most of leg",
+        "domain": "knoe.com",
+        "category": "news",
+        "link": "https://www.knoe.com/2021/11/30/south-carolina-woman-gets-10-million-walmart-lawsuit-after-stepping-rusty-nail-losing-most-leg/",
+        "sentiment": -5,
+        "timestamp": 1638290526,
+        "published": "November 30, 2021 11:42 AM"
+    },
+    {
+        "title": "Chris Christie says Trump broke his policy promises: 'The wall isn't built. Obamacare is still there. We didn't get an infrastructure package.'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/chris-christie-says-trump-didnt-deliver-on-border-wall-obamacare-infrastructure-2021-11",
+        "sentiment": 0,
+        "timestamp": 1638290776,
+        "published": "November 30, 2021 11:46 AM"
+    },
+    {
+        "title": "GOP congresswoman calls Marjorie Taylor Greene “batsh*t crazy” & a religious bigot",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/11/gop-congresswoman-calls-marjorie-taylor-greene-batsht-crazy-religious-bigot/",
+        "sentiment": 0,
+        "timestamp": 1638292361,
+        "published": "November 30, 2021 12:12 PM"
+    },
+    {
+        "title": "Printed Circuit Board Industry on the Rise in Taiwan",
+        "domain": "opengovasia.com",
+        "category": "technology",
+        "link": "https://opengovasia.com/printed-circuit-board-industry-on-the-rise-in-taiwan/",
+        "sentiment": 1,
+        "timestamp": 1638292900,
+        "published": "November 30, 2021 12:21 PM"
+    },
+    {
+        "title": "Elon Musk tells SpaceX employees that Starship engine crisis is creating a 'risk of bankruptcy'",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/30/elon-musk-to-spacex-starships-raptor-engine-crisis-risks-bankruptcy.html",
+        "sentiment": -3,
+        "timestamp": 1638293059,
+        "published": "November 30, 2021 12:24 PM"
+    },
+    {
+        "title": "US warns Russia of 'serious consequences' in response to troop movements",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/us-warns-russia-serious-consequences-150138872.html",
+        "sentiment": -2,
+        "timestamp": 1638293187,
+        "published": "November 30, 2021 12:26 PM"
+    },
+    {
+        "title": "Report: Taliban executed more than 100 police, military officers after takeover",
+        "domain": "upi.com",
+        "category": "worldnews",
+        "link": "https://www.upi.com/Top_News/World-News/2021/11/30/afghanistan-Taliban-executions-Afghanistan-military-police-Human-Rights-Watch/3441638289827/",
+        "sentiment": 0,
+        "timestamp": 1638294755,
+        "published": "November 30, 2021 12:52 PM"
+    },
+    {
+        "title": "Microsoft adds Buy Now, Pay Later financing option to Edge – and everyone hates it",
+        "domain": "theregister.com",
+        "category": "technology",
+        "link": "https://www.theregister.com/2021/11/30/edge_bnpl/",
+        "sentiment": -4,
+        "timestamp": 1638295160,
+        "published": "November 30, 2021 12:59 PM"
+    },
+    {
+        "title": "UK watchdog’s action against Facebook over Giphy prove it has teeth | Larry Elliott",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/business/2021/nov/30/uk-watchdogs-action-against-facebook-over-giphy-prove-it-has-teeth",
+        "sentiment": 0,
+        "timestamp": 1638295621,
+        "published": "November 30, 2021 1:07 PM"
+    },
+    {
+        "title": "Tom Hardy officially returns as Alfie Solomons in new teaser for ‘Peaky Blinders’ season 6",
+        "domain": "digitalspy.com",
+        "category": "television",
+        "link": "https://www.digitalspy.com/tv/a38374795/peaky-blinders-season-6-alfie-solomon-clip/",
+        "sentiment": 2,
+        "timestamp": 1638296056,
+        "published": "November 30, 2021 1:14 PM"
+    },
+    {
         "title": "Guess What Everybody, It’s Debt Ceiling Drama Time Again",
         "domain": "newrepublic.com",
         "category": "politics",
