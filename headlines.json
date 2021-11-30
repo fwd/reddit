@@ -1,5 +1,77 @@
 [
     {
+        "title": "Armed Forces helicopter crew met with grilled cheese and kindness after being grounded along Fraser River",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/yale-bc-canadian-armed-forces-helicopter-1.6266092",
+        "sentiment": 2,
+        "timestamp": 1638223933,
+        "published": "November 29, 2021 5:12 PM"
+    },
+    {
+        "title": "New World Record: Almost 30% Efficiency for Next-Generation Tandem Solar Cells",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/new-world-record-almost-30-efficiency-for-next-generation-tandem-solar-cells/",
+        "sentiment": 0,
+        "timestamp": 1638227797,
+        "published": "November 29, 2021 6:16 PM"
+    },
+    {
+        "title": "New study links major fashion brands to Amazon deforestation | Brazil",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2021/nov/29/fashion-industry-amazon-rainforest-deforestation",
+        "sentiment": 0,
+        "timestamp": 1638227930,
+        "published": "November 29, 2021 6:18 PM"
+    },
+    {
+        "title": "Christopher Walken, Stephen Merchant Return For 'The Outlaws' Season 2",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/the-outlaws-season-2-1235121157/",
+        "sentiment": 0,
+        "timestamp": 1638229838,
+        "published": "November 29, 2021 6:50 PM"
+    },
+    {
+        "title": "“Moms for Liberty” seeks to ban MLK Jr. book- Tennessee Ed. Dept refuses. The group appears to suggest slavery and Jim Crow were “positive achievements, like unity and the overall improvement of our country”",
+        "domain": "losangelesblade.com",
+        "category": "politics",
+        "link": "https://www.losangelesblade.com/2021/11/29/moms-for-liberty-seeks-to-ban-mlk-jr-book-tennessee-ed-dept-refuses/",
+        "sentiment": -3,
+        "timestamp": 1638233826,
+        "published": "November 29, 2021 7:57 PM"
+    },
+    {
+        "title": "Tiger Woods says his days of being a full-time golfer are over: 'Never full time, ever again'",
+        "domain": "amp.cnn.com",
+        "category": "news",
+        "link": "https://amp.cnn.com/cnn/2021/11/29/golf/tiger-woods-full-time-golf-over-spt/index.html",
+        "sentiment": 0,
+        "timestamp": 1638235844,
+        "published": "November 29, 2021 8:30 PM"
+    },
+    {
+        "title": "Donald Trump Jr., World-Renowned Moron, Urges Vaccine Protests as Omicron Poses “Very High Risk”",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/donald-trump-jr-vaccine-mandates",
+        "sentiment": -5,
+        "timestamp": 1638236446,
+        "published": "November 29, 2021 8:40 PM"
+    },
+    {
+        "title": "New Zealand Government to push for international ban of autonomous weapons, or killer robots",
+        "domain": "stuff.co.nz",
+        "category": "worldnews",
+        "link": "https://www.stuff.co.nz/national/politics/127135214/government-to-push-for-international-ban-of-autonomous-weapons-or-killer-robots",
+        "sentiment": -2,
+        "timestamp": 1638238722,
+        "published": "November 29, 2021 9:18 PM"
+    },
+    {
         "title": "Supporters gear up to collect signatures on petition to decide presidency by popular vote",
         "domain": "freep.com",
         "category": "politics",
