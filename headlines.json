@@ -1,5 +1,41 @@
 [
     {
+        "title": "Shanghai halts 500 flights, issues closure order after 3 three local Covid cases",
+        "domain": "thethaiger.com",
+        "category": "worldnews",
+        "link": "https://thethaiger.com/china/shanghai-halts-500-flights-issues-closure-order-after-3-three-local-covid-cases",
+        "sentiment": 0,
+        "timestamp": 1638319724,
+        "published": "November 30, 2021 7:48 PM"
+    },
+    {
+        "title": "Kinematic self-replication in reconfigurable organisms",
+        "domain": "pnas.org",
+        "category": "technology",
+        "link": "https://www.pnas.org/content/118/49/e2112672118",
+        "sentiment": 0,
+        "timestamp": 1638321469,
+        "published": "November 30, 2021 8:17 PM"
+    },
+    {
+        "title": "Tucson Police officer in process of being fired after shooting, killing suspect in wheelchair",
+        "domain": "kgun9.com",
+        "category": "news",
+        "link": "https://www.kgun9.com/news/local-news/tucson-police-investigate-officer-involved-shooting-on-valencia-road",
+        "sentiment": -6,
+        "timestamp": 1638323732,
+        "published": "November 30, 2021 8:55 PM"
+    },
+    {
+        "title": "Former PM Abe says Japan, U.S. could not stand by if China attacked Taiwan",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/former-pm-abe-says-japan-us-could-not-stand-by-if-china-attacked-taiwan-2021-12-01/",
+        "sentiment": -1,
+        "timestamp": 1638326214,
+        "published": "November 30, 2021 9:36 PM"
+    },
+    {
         "title": "Netflix Announces 'Berlin' 'Money Heist' Spinoff From Madrid Fan Event",
         "domain": "variety.com",
         "category": "television",
