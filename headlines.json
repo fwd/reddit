@@ -1,5 +1,41 @@
 [
     {
+        "title": "Sheriff: Oxford High School shooting suspect used gun dad bought on Black Friday",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/oakland/2021/11/30/oxford-high-school-shooting-suspect-used-gun-dad-bought/8817406002/?utm_campaign=snd-autopilot",
+        "sentiment": -2,
+        "timestamp": 1638335349,
+        "published": "December 1, 2021 12:09 AM"
+    },
+    {
+        "title": "Microsoft faces antitrust complaint in EU led by Nextcloud",
+        "domain": "siliconrepublic.com",
+        "category": "technology",
+        "link": "https://www.siliconrepublic.com/business/microsoft-nextcloud-antitrust-competition-complaint-eu",
+        "sentiment": -2,
+        "timestamp": 1638335713,
+        "published": "December 1, 2021 12:15 AM"
+    },
+    {
+        "title": "Court Throws Out Messages Obtained by FBI Honeypot Phone Company Anom",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/pkppqk/court-throws-out-messages-from-anom-finland-spain",
+        "sentiment": 0,
+        "timestamp": 1638340283,
+        "published": "December 1, 2021 1:31 AM"
+    },
+    {
+        "title": "Google to ban political advertising ahead of Philippine election",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/google-ban-political-advertising-ahead-philippine-election-2021-12-01/",
+        "sentiment": -2,
+        "timestamp": 1638341646,
+        "published": "December 1, 2021 1:54 AM"
+    },
+    {
         "title": "Thousands of bees make it out alive after being buried by La Palma volcano ash for 50 days",
         "domain": "calgaryherald.com",
         "category": "news",
