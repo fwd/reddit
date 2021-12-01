@@ -1,5 +1,86 @@
 [
     {
+        "title": "Republicans Will Be Sorry if the Supreme Court Overturns Roe",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/11/republicans-will-be-sorry-if-the-supreme-court-overturns-roe-v-wade.html",
+        "sentiment": 3,
+        "timestamp": 1638378464,
+        "published": "December 1, 2021 12:07 PM"
+    },
+    {
+        "title": "Google will stop carrying election ads in the Philippines ahead of the May 2022 presidential vote similar to action it has taken in the United States. Alarm has been raised in recent years by governments and election watchdogs about disinformation campaigns to sway voters",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211201-google-to-halt-election-ads-ahead-of-2022-philippines-vote",
+        "sentiment": -2,
+        "timestamp": 1638379773,
+        "published": "December 1, 2021 12:29 PM"
+    },
+    {
+        "title": "Twitter to remove images of people posted without consent",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/01/tech/twitter-remove-private-images-intl-scli/index.html?utm_medium=social&utm_source=twCNN&utm_term=link&utm_content=2021-12-01T19%3A30%3A14",
+        "sentiment": 2,
+        "timestamp": 1638387364,
+        "published": "December 1, 2021 2:36 PM"
+    },
+    {
+        "title": "Germany’s next chancellor backs mandatory vaccination for all from February or March",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/politics/short_news/germanys-next-chancellor-backs-mandatory-vaccination-for-all-from-february-or-march/",
+        "sentiment": 0,
+        "timestamp": 1638388139,
+        "published": "December 1, 2021 2:48 PM"
+    },
+    {
+        "title": "Google Temp, Fired for Being ‘Ungoogley,’ Files Complaint",
+        "domain": "msn.com",
+        "category": "technology",
+        "link": "https://www.msn.com/en-us/money/companies/google-temp-fired-for-being-ungoogley-files-complaint/ar-AARlEgB",
+        "sentiment": -4,
+        "timestamp": 1638389837,
+        "published": "December 1, 2021 3:17 PM"
+    },
+    {
+        "title": "Stacey Abrams is running for Georgia governor in 2022",
+        "domain": "ajc.com",
+        "category": "politics",
+        "link": "https://www.ajc.com/politics/politics-blog/breaking-stacey-abrams-is-running-for-georgia-governor-in-2022/VRUXXJSQWBBAXAZQZV72FLP4LM/",
+        "sentiment": 0,
+        "timestamp": 1638390046,
+        "published": "December 1, 2021 3:20 PM"
+    },
+    {
+        "title": "The metaverse is bullshit",
+        "domain": "pcgamer.com",
+        "category": "technology",
+        "link": "https://www.pcgamer.com/the-metaverse-is-bullshit/",
+        "sentiment": -4,
+        "timestamp": 1638390224,
+        "published": "December 1, 2021 3:23 PM"
+    },
+    {
+        "title": "Prosecution gets Elizabeth Holmes to admit she was in control of Theranos",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/12/holmes-made-outlandish-claims-to-investors-after-lawyers-told-her-to-tone-them-down/",
+        "sentiment": -2,
+        "timestamp": 1638390668,
+        "published": "December 1, 2021 3:31 PM"
+    },
+    {
+        "title": "‘Hawkeye’ Sets Up Return of Fan-Favorite Netflix Villain",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/hawkeye-episode-3-kingpin-1235055630/",
+        "sentiment": 0,
+        "timestamp": 1638391321,
+        "published": "December 1, 2021 3:42 PM"
+    },
+    {
         "title": "Russia orders some U.S. diplomatic staff to leave as embassy spat expands",
         "domain": "reuters.com",
         "category": "worldnews",
