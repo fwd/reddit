@@ -1,5 +1,131 @@
 [
     {
+        "title": "Amazon deforestation is rising. Guyana offers a rare bright spot.",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/29/amazon-deforestation-is-rising-guyana-offers-a-rare-bright-spot?fbclid=IwAR0d2zB4SDG4A5Ydqx_Z2x1QD6juh7oN5wn9sHA9DjJ116LXRopA3ClcHPA",
+        "sentiment": 1,
+        "timestamp": 1638386681,
+        "published": "December 1, 2021 2:24 PM"
+    },
+    {
+        "title": "During Arguments Over the Fate of Roe, Kavanaugh and Barrett Finally Showed Their Cards A majority of justices appears eager to overturn the constitutional right to abortion.",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/12/dobbs-supreme-court-abortion-kavanaugh-barrett.html",
+        "sentiment": 2,
+        "timestamp": 1638389727,
+        "published": "December 1, 2021 3:15 PM"
+    },
+    {
+        "title": "Sotomayor suggests Supreme Court won't 'survive the stench' of overturning Roe v. Wade",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/supreme-court/sotomayor-suggests-supreme-court-won-t-survive-stench-overturning-roe-n1285166?cid=sm_npd_nn_fb_ma&fbclid=IwAR35DOU7_mO5te1LyXURPYbQjw4SV28FZbV2mSP_N1QRaYIVrY3Prnt6uco",
+        "sentiment": 4,
+        "timestamp": 1638390528,
+        "published": "December 1, 2021 3:28 PM"
+    },
+    {
+        "title": "Facebook, Instagram remove accounts linked to Chinese COVID-19 disinformation efforts",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/cybersecurity/583861-facebook-instagram-remove-accounts-linked-to-chinese-covid-19",
+        "sentiment": 0,
+        "timestamp": 1638391829,
+        "published": "December 1, 2021 3:50 PM"
+    },
+    {
+        "title": "Stacey Abrams announces run for governor of state of Georgia again",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/stacey-abrams-announces-run-governor-state-georgia-again-2021-12-01",
+        "sentiment": 0,
+        "timestamp": 1638392127,
+        "published": "December 1, 2021 3:55 PM"
+    },
+    {
+        "title": "House of Commons passes bill to ban conversion therapy",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8417651/conversion-therapy-ban-bill-house-of-commons/",
+        "sentiment": -2,
+        "timestamp": 1638392941,
+        "published": "December 1, 2021 4:09 PM"
+    },
+    {
+        "title": "Argentina's ex-president Mauricio Macri was charged Wednesday with ordering the illegal surveillance, as head of state, of relatives of 44 sailors who died when a navy submarine sank in 2017",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211201-argentine-ex-president-macri-charged-in-spying-case-court",
+        "sentiment": -9,
+        "timestamp": 1638393439,
+        "published": "December 1, 2021 4:17 PM"
+    },
+    {
+        "title": "Facebook removes block on searches for Kyle Rittenhouse",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/1/22782911/rittenhouse-verdict-policy-facebook-praise-block-page",
+        "sentiment": -1,
+        "timestamp": 1638394121,
+        "published": "December 1, 2021 4:28 PM"
+    },
+    {
+        "title": "CIA Files Say Staff Committed Sex Crimes Involving Children. They Weren’t Prosecuted.",
+        "domain": "buzzfeednews.com",
+        "category": "news",
+        "link": "https://www.buzzfeednews.com/article/jasonleopold/cia-files-say-staff-committed-sex-crimes-involving-children?bftwnews&utm_term=4ldqpgc#4ldqpgc",
+        "sentiment": -4,
+        "timestamp": 1638394231,
+        "published": "December 1, 2021 4:30 PM"
+    },
+    {
+        "title": "Canadian MPs unanimously approve updated legislation to ban conversion therapy",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/conversion-therapy-conservatives-1.6269147",
+        "sentiment": -2,
+        "timestamp": 1638395310,
+        "published": "December 1, 2021 4:48 PM"
+    },
+    {
+        "title": "Canadian House of Commons bans conversion therapy with unanimous vote",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/politics/house-of-commons-unanimously-agrees-to-pass-conversion-therapy-bill-1.5688481?taid=61a7dbecbf48f800013f040f&cid=sm%3Atrueanthem%3Actvnews%3Atwittermanualpost",
+        "sentiment": 0,
+        "timestamp": 1638396060,
+        "published": "December 1, 2021 5:01 PM"
+    },
+    {
+        "title": "Cobie Smulders To Reprise Maria Hill Role in Marvel Series ‘Secret Invasion’",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/cobie-smulders-maria-hill-marvel-series-secret-invasion-1234883068/",
+        "sentiment": 3,
+        "timestamp": 1638396103,
+        "published": "December 1, 2021 5:01 PM"
+    },
+    {
+        "title": "Locked Out of ‘God Mode,’ Runners Are Hacking Their Treadmills -- NordicTrack customers were watching Netflix using a simple trick—until the company blocked their access.",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/",
+        "sentiment": -1,
+        "timestamp": 1638396166,
+        "published": "December 1, 2021 5:02 PM"
+    },
+    {
+        "title": "'It’s Always Sunny in Philadelphia' Season 15 Review: The Gang Is as Brilliant as Ever",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/its-always-sunny-season-15-review-fxx/",
+        "sentiment": 4,
+        "timestamp": 1638396571,
+        "published": "December 1, 2021 5:09 PM"
+    },
+    {
         "title": "Republicans Will Be Sorry if the Supreme Court Overturns Roe",
         "domain": "slate.com",
         "category": "politics",
