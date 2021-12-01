@@ -1,5 +1,113 @@
 [
     {
+        "title": "Russia says Ukraine has deployed half its army of 125,000 troops to Donbass conflict zone",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-says-ukraine-has-deployed-half-its-army-donbass-conflict-zone-2021-12-01/",
+        "sentiment": -2,
+        "timestamp": 1638352020,
+        "published": "December 1, 2021 4:47 AM"
+    },
+    {
+        "title": "Colorado Newspaper Apologizes For The Embarrassment That Is Boebert With Stinging Op-Ed",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/denver-post-lauren-boebert-editorial_n_61a72746e4b0451e550e7c03",
+        "sentiment": -3,
+        "timestamp": 1638354384,
+        "published": "December 1, 2021 5:26 AM"
+    },
+    {
+        "title": "Kyrsten Sinema takes a victory lap on infrastructure — but Arizonans say not so fast | Our senator celebrates a \"bipartisan\" victory. But what she gave up to get that done definitely wasn't worth it",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/01/kyrsten-sinema-takes-a-victory-lap-on-infrastructure--but-arizonans-say-not-so-fast/",
+        "sentiment": 11,
+        "timestamp": 1638357444,
+        "published": "December 1, 2021 6:17 AM"
+    },
+    {
+        "title": "Supreme Court to hear arguments in major abortion case challenging Roe v. Wade",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/01/supreme-court-arguments-in-abortion-case-roe-v-wade.html",
+        "sentiment": 4,
+        "timestamp": 1638361343,
+        "published": "December 1, 2021 7:22 AM"
+    },
+    {
+        "title": "PayPal CEO says spending via its buy-now-pay-later service soared 400% on Black Friday, as inflation bites and shoppers feel the pinch",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/paypal-buy-now-pay-later-spending-soars-black-friday-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638361912,
+        "published": "December 1, 2021 7:31 AM"
+    },
+    {
+        "title": "New rules allow debt collectors to contact you on Facebook, Instagram and Twitter",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/business/2021/11/30/cfpb-debt-collector-rules-facebook-instagram/",
+        "sentiment": -1,
+        "timestamp": 1638362400,
+        "published": "December 1, 2021 7:40 AM"
+    },
+    {
+        "title": "Trump tested positive for COVID-19 days before debate with Biden: Meadows book",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/583732-trump-tested-positive-for-covid-19-days-before-debate-with-biden",
+        "sentiment": 2,
+        "timestamp": 1638362599,
+        "published": "December 1, 2021 7:43 AM"
+    },
+    {
+        "title": "Green transition will be less painful if we avoid repeating 1970s western policy errors in the oil market",
+        "domain": "theconversation.com",
+        "category": "technology",
+        "link": "https://theconversation.com/green-transition-will-be-less-painful-if-we-avoid-repeating-1970s-western-policy-errors-in-the-oil-market-172193",
+        "sentiment": -5,
+        "timestamp": 1638362717,
+        "published": "December 1, 2021 7:45 AM"
+    },
+    {
+        "title": "Sigh of relief in South Africa as Omicron variant appears to be ‘super mild‘ mutation with Covid death rate not jumping",
+        "domain": "ground.news",
+        "category": "worldnews",
+        "link": "https://ground.news/article/sigh-of-relief-in-south-africa-as-omicron-variant-appears-to-be-super-mild-mutation-with-covid-death-rate-not-jumping?utm_source=pfa&utm_medium=partner",
+        "sentiment": -4,
+        "timestamp": 1638363461,
+        "published": "December 1, 2021 7:57 AM"
+    },
+    {
+        "title": "Edge users aren’t happy about Microsoft’s built-in ‘buy now, pay later’ tool",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/30/22810595/microsoft-edge-zip-buy-now-pay-later",
+        "sentiment": 2,
+        "timestamp": 1638364166,
+        "published": "December 1, 2021 8:09 AM"
+    },
+    {
+        "title": "Man who had open-heart surgery wins a $1 million lottery prize after the ticket came in a get-well card",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/11/30/us/massachusetts-lottery-winner-heart-surgery-trnd/index.html",
+        "sentiment": 4,
+        "timestamp": 1638364383,
+        "published": "December 1, 2021 8:13 AM"
+    },
+    {
+        "title": "New Netflix movies and shows (December 2021)",
+        "domain": "netflixlife.com",
+        "category": "television",
+        "link": "https://netflixlife.com/2021/11/23/new-netflix-movies-shows-december-2021/",
+        "sentiment": 0,
+        "timestamp": 1638364383,
+        "published": "December 1, 2021 8:13 AM"
+    },
+    {
         "title": "Were Trump-picked Justices lying under oath? This monumental case will reveal that",
         "domain": "msnbc.com",
         "category": "politics",
