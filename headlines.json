@@ -1,5 +1,77 @@
 [
     {
+        "title": "Group of mothers in Tennessee want ban on schools teaching any aspect of civil rights history - The group previously offered a bounty for members who reported teachers in New Hampshire that discussed race in their classrooms",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/tennesee-mothers-ban-civil-rights-history-b1967166.html",
+        "sentiment": -1,
+        "timestamp": 1638300895,
+        "published": "November 30, 2021 2:34 PM"
+    },
+    {
+        "title": "For no reason whatsoever, here's John Oliver's segment on Dr Oz",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=WA0wKeokWUU",
+        "sentiment": -1,
+        "timestamp": 1638313140,
+        "published": "November 30, 2021 5:59 PM"
+    },
+    {
+        "title": "Ex-IS member guilty of genocide for chaining up Yazidi girl to die in the sun",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/30/ex-is-member-guilty-of-genocide-for-leaving-yazidi-girl-to-die-in-the-sun",
+        "sentiment": -6,
+        "timestamp": 1638313983,
+        "published": "November 30, 2021 6:13 PM"
+    },
+    {
+        "title": "Inquiry finds widespread sexism in Australian parliament",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/30/inquiry-finds-widespread-sexism-in-australian-parliament",
+        "sentiment": 0,
+        "timestamp": 1638314752,
+        "published": "November 30, 2021 6:25 PM"
+    },
+    {
+        "title": "Greece to fine people over 60 who have not been vaccinated",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-12-01/greece-to-make-vaccinations-for-people-over-60-mandatory/100663966",
+        "sentiment": 2,
+        "timestamp": 1638317536,
+        "published": "November 30, 2021 7:12 PM"
+    },
+    {
+        "title": "Users revolt as Microsoft bolts a short-term financing app onto Edge",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/11/microsoft-plans-to-integrate-a-buy-now-pay-later-app-into-edge/",
+        "sentiment": 0,
+        "timestamp": 1638317836,
+        "published": "November 30, 2021 7:17 PM"
+    },
+    {
+        "title": "FBI Document Shows How Popular Secure Messaging Apps Stack Up",
+        "domain": "pcmag.com",
+        "category": "technology",
+        "link": "https://www.pcmag.com/news/fbi-document-shows-how-popular-secure-messaging-apps-stack-up",
+        "sentiment": 5,
+        "timestamp": 1638319074,
+        "published": "November 30, 2021 7:37 PM"
+    },
+    {
+        "title": "Anti-vaccine Christian broadcaster Marcus Lamb dies at 64 after contracting Covid",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/marcus-lamb-anti-vaccine-christian-broadcaster-dies-covid-battle-rcna7139?cid=sm_npd_nn_tw_ma&s=09",
+        "sentiment": 0,
+        "timestamp": 1638320555,
+        "published": "November 30, 2021 8:02 PM"
+    },
+    {
         "title": "New Climate Study Predicting More Rain Than Snow in the Arctic 'Rings Alarm Bells' | Research published Tuesday in the journal Nature Communications suggests rainfall will become more common in the Arctic than snowfall, and decades sooner than previously thought",
         "domain": "commondreams.org",
         "category": "worldnews",
