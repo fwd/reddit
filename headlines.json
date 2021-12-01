@@ -1,5 +1,50 @@
 [
     {
+        "title": "Lara Logan: Fox News host condemned over Fauci Nazi doctor comments",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-59485508",
+        "sentiment": -2,
+        "timestamp": 1638318859,
+        "published": "November 30, 2021 7:34 PM"
+    },
+    {
+        "title": "An AI Finds Superbug-Killing Potential in Human Proteins",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
+        "sentiment": 0,
+        "timestamp": 1638323090,
+        "published": "November 30, 2021 8:44 PM"
+    },
+    {
+        "title": "Elon Musk says Starlink satellites have to dodge debris from Russia's anti-satellite missile test",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/elon-musk-says-starlink-satellites-195708886.html",
+        "sentiment": 0,
+        "timestamp": 1638323148,
+        "published": "November 30, 2021 8:45 PM"
+    },
+    {
+        "title": "Musk warns employees of potential SpaceX bankruptcy",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/elon-musk-frantically-warns-employees-of-potential-spac-1848139856",
+        "sentiment": -5,
+        "timestamp": 1638328230,
+        "published": "November 30, 2021 10:10 PM"
+    },
+    {
+        "title": "Jessica Watkins to be first Black woman on International Space Station crew",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/nbcblk/jessica-watkins-first-black-woman-international-space-station-crew-rcna5861",
+        "sentiment": 0,
+        "timestamp": 1638329280,
+        "published": "November 30, 2021 10:28 PM"
+    },
+    {
         "title": "Shanghai halts 500 flights, issues closure order after 3 three local Covid cases",
         "domain": "thethaiger.com",
         "category": "worldnews",
