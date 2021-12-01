@@ -1,5 +1,113 @@
 [
     {
+        "title": "Scientists Create Camera so Small It Could Take Photos of Your Brain",
+        "domain": "newsweek.com",
+        "category": "technology",
+        "link": "https://www.newsweek.com/scientists-create-camera-small-size-salt-grain-brain-1654443",
+        "sentiment": 0,
+        "timestamp": 1638375383,
+        "published": "December 1, 2021 11:16 AM"
+    },
+    {
+        "title": "Lauren Boebert Faces Ethics Complaint From Muslim, Jewish Groups Over Ilhan Omar Comments",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/lauren-boebert-faces-ethics-complaint-muslim-jewish-groups-over-ilhan-omar-comments-1654903",
+        "sentiment": -2,
+        "timestamp": 1638377941,
+        "published": "December 1, 2021 11:59 AM"
+    },
+    {
+        "title": "New Poll: Overwhelming Majority of Americans Support Bipartisan Infrastructure Law",
+        "domain": "speaker.gov",
+        "category": "politics",
+        "link": "https://www.speaker.gov/newsroom/113021-0",
+        "sentiment": 2,
+        "timestamp": 1638378519,
+        "published": "December 1, 2021 12:08 PM"
+    },
+    {
+        "title": "Finland adopts nationwide remote work recommendation",
+        "domain": "helsinkitimes.fi",
+        "category": "worldnews",
+        "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/20495-finland-adopts-nationwide-remote-work-recommendation.html",
+        "sentiment": 1,
+        "timestamp": 1638378914,
+        "published": "December 1, 2021 12:15 PM"
+    },
+    {
+        "title": "Somebody Somewhere | Official Teaser | HBO",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=Mo6D_y48WBk",
+        "sentiment": 0,
+        "timestamp": 1638379118,
+        "published": "December 1, 2021 12:18 PM"
+    },
+    {
+        "title": "Half of Astroworld victims' families reject Travis Scott's offer to pay funeral costs",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/entertainment-arts-59488632",
+        "sentiment": -3,
+        "timestamp": 1638379123,
+        "published": "December 1, 2021 12:18 PM"
+    },
+    {
+        "title": "Up to 740,000 urgent referrals for suspected cancer have been ‘missed’ by GPs in England during the course of the pandemic, according to new analysis.",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2021/12/01/up-to-740000-potential-cancer-cases-missed-by-gps-during-pandemic-15693690/",
+        "sentiment": -3,
+        "timestamp": 1638379413,
+        "published": "December 1, 2021 12:23 PM"
+    },
+    {
+        "title": "Authorities say fourth person, a 15-year-old boy, has died from Michigan school shooting",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/authorities-fourth-person-15-year-boy-died-michigan-81493833",
+        "sentiment": -3,
+        "timestamp": 1638379996,
+        "published": "December 1, 2021 12:33 PM"
+    },
+    {
+        "title": "Porsche Whistleblower: “60% of all delivered Taycan have battery issues that caused replacements, damages and fires”",
+        "domain": "teslarati.com",
+        "category": "technology",
+        "link": "https://www.teslarati.com/porsche-whistleblower-taycan-battery-charger-fires-coverup/",
+        "sentiment": -3,
+        "timestamp": 1638381039,
+        "published": "December 1, 2021 12:50 PM"
+    },
+    {
+        "title": "Prince Andrew is ‘avoiding confronting his own misconduct’ by blaming his victim, lawyers claim",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/duke-york-avoiding-confronting-own-132842513.html",
+        "sentiment": -5,
+        "timestamp": 1638381345,
+        "published": "December 1, 2021 12:55 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell trial: Jeffrey Epstein took sex crime accuser to meet Trump when she was 14, she testifies",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/12/01/ghislaine-maxwell-trial-jeffrey-epstein-took-teen-girl-to-meet-trump-accuser-says.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1638381550",
+        "sentiment": -3,
+        "timestamp": 1638381812,
+        "published": "December 1, 2021 1:03 PM"
+    },
+    {
+        "title": "‘Cuomo Prime Time’ Had Its Lowest Total-Viewer Ratings Ever in November",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/cuomo-prime-time-had-its-lowest-total-viewer-ratings-ever-in-november/",
+        "sentiment": -1,
+        "timestamp": 1638383698,
+        "published": "December 1, 2021 1:34 PM"
+    },
+    {
         "title": "White House says DOJ will defend government's authority to promote vaccine requirement",
         "domain": "reuters.com",
         "category": "news",
