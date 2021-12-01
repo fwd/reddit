@@ -1,5 +1,212 @@
 [
     {
+        "title": "Ukraine calls on NATO to ready sanctions to deter Russian attack",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/prepare-sanctions-russia-ramp-up-military-cooperation-ukraine-tells-nato-2021-12-01/",
+        "sentiment": -1,
+        "timestamp": 1638343286,
+        "published": "December 1, 2021 2:21 AM"
+    },
+    {
+        "title": "The South African scientists tracking the new coronavirus variant believe it probably evolved in a patient with HIV/Aids with a chronic Covid-19 infection.",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/scientists-think-new-variant-may-have-emerged-hiv-patient/",
+        "sentiment": -2,
+        "timestamp": 1638359113,
+        "published": "December 1, 2021 6:45 AM"
+    },
+    {
+        "title": "Yazidi genocide: IS member found guilty in German landmark trial",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59474616",
+        "sentiment": -1,
+        "timestamp": 1638360834,
+        "published": "December 1, 2021 7:13 AM"
+    },
+    {
+        "title": "Hundreds of Taiwanese extradited to China (from Spain, Cambodia, Kanya, and more)",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "http://www.bbc.com/news/world-asia-59486286",
+        "sentiment": 0,
+        "timestamp": 1638362591,
+        "published": "December 1, 2021 7:43 AM"
+    },
+    {
+        "title": "Gritty tribal woman in India fights off leopard, snatches her son from its claws",
+        "domain": "moratmarit.com",
+        "category": "worldnews",
+        "link": "https://moratmarit.com/2021/12/gritty-tribal-woman-in-india-fights-off-leopard-snatches-her-son-from-its-claws.html",
+        "sentiment": 0,
+        "timestamp": 1638363339,
+        "published": "December 1, 2021 7:55 AM"
+    },
+    {
+        "title": "Three injured as old bomb explodes near train station in Germany's Munich",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/01/europe/germany-munich-explosion-ger-intl/index.html",
+        "sentiment": -3,
+        "timestamp": 1638365219,
+        "published": "December 1, 2021 8:26 AM"
+    },
+    {
+        "title": "COVID-19: Most Omicron cases are 'mild' and there's no evidence to suggest vaccines may be less effective against the variant, says WHO official",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/covid-19-most-omicron-cases-are-mild-and-theres-no-evidence-to-suggest-vaccines-may-be-less-effective-against-the-variant-says-who-12483729",
+        "sentiment": 1,
+        "timestamp": 1638367156,
+        "published": "December 1, 2021 8:59 AM"
+    },
+    {
+        "title": "Macron sensationally calls Boris Johnson \"a clown\" as Britain described as \"CIRCUS\"",
+        "domain": "express.co.uk",
+        "category": "worldnews",
+        "link": "https://www.express.co.uk/news/politics/1529787/emmanuel-macron-boris-johnson-clown-eu-latest-news",
+        "sentiment": 0,
+        "timestamp": 1638368632,
+        "published": "December 1, 2021 9:23 AM"
+    },
+    {
+        "title": "National Guard troops refusing vaccine will lose pay, Pentagon says, in warning shot to GOP-led states",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/national-security/2021/11/30/oklahoma-national-guard-vaccine-mandate/?utm_campaign=wp_todays_headlines&utm_medium=email&utm_source=newsletter&wpisrc=nl_headlines&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F356957f%2F61a755b79d2fdab56bac5046%2F5975eaa8ae7e8a1cf4c8457b%2F50%2F71%2F61a755b79d2fdab56bac5046",
+        "sentiment": -6,
+        "timestamp": 1638369151,
+        "published": "December 1, 2021 9:32 AM"
+    },
+    {
+        "title": "The GOP doesn’t care about the suffering it causes — even among its own base",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/11/30/gop-doesnt-care-about-suffering-it-causes-even-among-its-own-base/",
+        "sentiment": 0,
+        "timestamp": 1638369837,
+        "published": "December 1, 2021 9:43 AM"
+    },
+    {
+        "title": "Students grabbed scissors for self-defense and escaped out a window during Michigan school shooting that killed 3 and injured 8",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/01/us/michigan-oxford-high-school-shooting-wednesday/index.html",
+        "sentiment": -5,
+        "timestamp": 1638370416,
+        "published": "December 1, 2021 9:53 AM"
+    },
+    {
+        "title": "U.S. Congress will pass voting rights bills, Stacey Abrams says",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/us-congress-will-pass-voting-rights-bills-stacey-abrams-says-2021-12-01/",
+        "sentiment": 0,
+        "timestamp": 1638370576,
+        "published": "December 1, 2021 9:56 AM"
+    },
+    {
+        "title": "South Carolina gun shop owner fatally shot worker in prank gone wrong",
+        "domain": "wsoctv.com",
+        "category": "news",
+        "link": "https://www.wsoctv.com/news/local/south-carolina-gun-shop-owner-fatally-shot-worker-prank-gone-wrong/DOOM6YMC55FMVC3HRJU7OB77JI/",
+        "sentiment": -3,
+        "timestamp": 1638371246,
+        "published": "December 1, 2021 10:07 AM"
+    },
+    {
+        "title": "Co-Founder of British neo-Nazi group convicted of terror offences",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/5dggw5/ben-raymond-co-founder-of-banned-neo-nazi-group-convicted-of-terror-offences",
+        "sentiment": -7,
+        "timestamp": 1638371361,
+        "published": "December 1, 2021 10:09 AM"
+    },
+    {
+        "title": "Remote Work Should Be (Mostly) Asynchronous",
+        "domain": "hbr.org",
+        "category": "technology",
+        "link": "https://hbr.org/2021/12/remote-work-should-be-mostly-asynchronous",
+        "sentiment": 0,
+        "timestamp": 1638372407,
+        "published": "December 1, 2021 10:26 AM"
+    },
+    {
+        "title": "Forget the Steele dossier: Mueller report release shows why Trump-Russia inquiry was required",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/01/forget-the-steele-dossier-mueller-report-release-shows-why-inquiry-was-required/",
+        "sentiment": -1,
+        "timestamp": 1638372793,
+        "published": "December 1, 2021 10:33 AM"
+    },
+    {
+        "title": "Trump Slams Meadows for Revealing He Tested Positive for COVID-19 Before Debate",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-slams-meadows-for-revealing-he-tested-positive-for-covid-19-before-debate-2021-12",
+        "sentiment": 2,
+        "timestamp": 1638373216,
+        "published": "December 1, 2021 10:40 AM"
+    },
+    {
+        "title": "One man’s quest to put Mexico City’s iconic street food vendors onto Google Maps",
+        "domain": "restofworld.org",
+        "category": "technology",
+        "link": "https://restofworld.org/2021/google-is-crowdsourcing-a-map-of-mexicos-street-foods/",
+        "sentiment": 0,
+        "timestamp": 1638373259,
+        "published": "December 1, 2021 10:40 AM"
+    },
+    {
+        "title": "NordicTrack Patches Out 'God Mode' In Treadmills That Allowed Users To Watch Anything On Its Display",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211124/09423747997/nordictrack-patches-out-god-mode-treadmills-that-allowed-users-to-watch-anything-display.shtml",
+        "sentiment": 0,
+        "timestamp": 1638373457,
+        "published": "December 1, 2021 10:44 AM"
+    },
+    {
+        "title": "The Marvelous Mrs. Maisel Season 4 - Official Teaser #2 | Prime Video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=_Db_f3tTlFM",
+        "sentiment": 3,
+        "timestamp": 1638374499,
+        "published": "December 1, 2021 11:01 AM"
+    },
+    {
+        "title": "Capital One says it is ditching all consumer overdraft fees, giving up $150 million in annual revenue",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/01/capital-one-says-its-ditching-all-consumer-overdraft-fees.html",
+        "sentiment": 0,
+        "timestamp": 1638374500,
+        "published": "December 1, 2021 11:01 AM"
+    },
+    {
+        "title": "HBO Axed First ‘Game of Thrones’ Spinoff After Spending ‘Over $30 Million’ on the Pilot",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2021/12/game-of-thrones-canceled-spinoff-cost-hbo-30-million-1234682681/",
+        "sentiment": -1,
+        "timestamp": 1638374598,
+        "published": "December 1, 2021 11:03 AM"
+    },
+    {
+        "title": "Qualcomm’s new always-on smartphone camera is a privacy nightmare",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns",
+        "sentiment": 0,
+        "timestamp": 1638374755,
+        "published": "December 1, 2021 11:05 AM"
+    },
+    {
         "title": "Dark-Money Group Paid Former Trump AG to Ask for Pardons—and He Never Registered as a Lobbyist",
         "domain": "thedailybeast.com",
         "category": "politics",
