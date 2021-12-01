@@ -1,5 +1,140 @@
 [
     {
+        "title": "Explosion of WWII bomb in Munich injures 4, disrupts trains",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-europe-explosions-germany-munich-3b9b8d79df2e2a2cefed95b0230955a4",
+        "sentiment": -3,
+        "timestamp": 1638372941,
+        "published": "December 1, 2021 10:35 AM"
+    },
+    {
+        "title": "Defying WHO recommendations, Japan escalates Omicron emergency, requests all airlines refrain from booking new reservations into Japan for December",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/japan-expand-travel-ban-some-foreigners-with-resident-status-2021-12-01/",
+        "sentiment": -2,
+        "timestamp": 1638375931,
+        "published": "December 1, 2021 11:25 AM"
+    },
+    {
+        "title": "The reckless timeline of Trump’s positive coronavirus test",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/12/01/trump-covid-test-reckless-timeline/?utm_campaign=wp_main&utm_medium=social&utm_source=twitter",
+        "sentiment": 0,
+        "timestamp": 1638376136,
+        "published": "December 1, 2021 11:28 AM"
+    },
+    {
+        "title": "More than a third of world’s population have never used internet, says UN",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2021/nov/30/more-than-a-third-of-worlds-population-has-never-used-the-internet-says-un",
+        "sentiment": 0,
+        "timestamp": 1638377639,
+        "published": "December 1, 2021 11:53 AM"
+    },
+    {
+        "title": "Qualcomm has a solution for 'stingray' devices hijacking your cell connection, and apps will be able to use it too",
+        "domain": "androidpolice.com",
+        "category": "technology",
+        "link": "https://www.androidpolice.com/qualcomm-has-a-solution-for-stingray-devices-hijacking-your-cell-connection-and-apps-will-be-able-to-use-it-too/",
+        "sentiment": 1,
+        "timestamp": 1638377675,
+        "published": "December 1, 2021 11:54 AM"
+    },
+    {
+        "title": "WHO says omicron has been found in 23 countries across the world",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/01/who-says-omicron-has-been-found-in-23-countries-across-the-world.html",
+        "sentiment": 0,
+        "timestamp": 1638378598,
+        "published": "December 1, 2021 12:09 PM"
+    },
+    {
+        "title": "Blinken warns Russia of 'severe consequences' if it invades Ukraine ahead of Lavrov meeting",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html",
+        "sentiment": -2,
+        "timestamp": 1638379008,
+        "published": "December 1, 2021 12:16 PM"
+    },
+    {
+        "title": "Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600",
+        "sentiment": -3,
+        "timestamp": 1638380565,
+        "published": "December 1, 2021 12:42 PM"
+    },
+    {
+        "title": "Co-founder of Christian TV network that railed against vaccines dies of Covid-19 | Coronavirus",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/dec/01/marcus-lamb-covid-19-daystar-christian-tv-network-dies",
+        "sentiment": 0,
+        "timestamp": 1638383065,
+        "published": "December 1, 2021 1:24 PM"
+    },
+    {
+        "title": "Boebert’s home paper apologises for her and calls her an embarrassment",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-newspaper-apologises-colorado-b1967849.html",
+        "sentiment": -3,
+        "timestamp": 1638383364,
+        "published": "December 1, 2021 1:29 PM"
+    },
+    {
+        "title": "Justice Amy Coney Barrett's own words require her to recuse herself in abortion cases",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/judiciary/583742-justice-amy-coney-barretts-own-words-require-her-to-recuse-herself-in",
+        "sentiment": 2,
+        "timestamp": 1638383427,
+        "published": "December 1, 2021 1:30 PM"
+    },
+    {
+        "title": "Justices signal they’ll OK new abortion limits, may toss Roe",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/a3b5cf9621315e6c623dc80a790842d8",
+        "sentiment": -1,
+        "timestamp": 1638384241,
+        "published": "December 1, 2021 1:44 PM"
+    },
+    {
+        "title": "“Anne Rice’s Mayfair Witches” Gets a Series Order from AMC; “Interview With the Vampire” Also Coming Soon",
+        "domain": "bloody-disgusting.com",
+        "category": "television",
+        "link": "https://bloody-disgusting.com/tv/3694153/anne-rices-mayfair-witches-gets-series-order-amc-interview-vampire-also-coming-soon/",
+        "sentiment": 0,
+        "timestamp": 1638384282,
+        "published": "December 1, 2021 1:44 PM"
+    },
+    {
+        "title": "First confirmed US case of Omicron coronavirus variant detected in California",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/01/health/us-omicron-variant-confirmed-case/",
+        "sentiment": 0,
+        "timestamp": 1638384567,
+        "published": "December 1, 2021 1:49 PM"
+    },
+    {
+        "title": "Tucson police officer fired after fatally shooting a 61-year-old in a mobility scooter nine times",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/tucson-police-officer-shooting-mobility-scooter/?ftag=CNM-00-10aab7e&linkId=142539192&s=09",
+        "sentiment": -2,
+        "timestamp": 1638384984,
+        "published": "December 1, 2021 1:56 PM"
+    },
+    {
         "title": "Scientists Create Camera so Small It Could Take Photos of Your Brain",
         "domain": "newsweek.com",
         "category": "technology",
