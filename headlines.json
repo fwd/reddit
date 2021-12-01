@@ -1,5 +1,68 @@
 [
     {
+        "title": "Netflix Announces 'Berlin' 'Money Heist' Spinoff From Madrid Fan Event",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/streaming/global/money-heist-berlin-netflix-spinoff-1235122318/",
+        "sentiment": 3,
+        "timestamp": 1638309950,
+        "published": "November 30, 2021 5:05 PM"
+    },
+    {
+        "title": "Japan to bar all foreign visitors Over Omicron variant",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/11/29/japan-to-bar-all-foreign-visitors-over-omicron-variant",
+        "sentiment": 0,
+        "timestamp": 1638314834,
+        "published": "November 30, 2021 6:27 PM"
+    },
+    {
+        "title": "The Guy Who Knows Where All of Trump’s Bodies Are Buried Is Cooperating With the January 6 Committee",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/11/mark-meadows-donald-trump-january-6-committee",
+        "sentiment": 0,
+        "timestamp": 1638318076,
+        "published": "November 30, 2021 7:21 PM"
+    },
+    {
+        "title": "CNN suspends Chris Cuomo indefinitely over role in advising governor brother Andrew during harassment scandal",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/11/30/cnn-suspends-chris-cuomo-over-role-in-advising-governor-brother-andrew-during-crisis.html?&qsearchterm=cuomo",
+        "sentiment": -6,
+        "timestamp": 1638318546,
+        "published": "November 30, 2021 7:29 PM"
+    },
+    {
+        "title": "The Head of Facebook's Failed Cryptocurrency Is Leaving the Company | Facebook has spent the past few years trying and failing to convince regulators it should be allowed to make a digital currency.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/g5qqw4/the-head-of-facebooks-failed-cryptocurrency-is-leaving-the-company",
+        "sentiment": -3,
+        "timestamp": 1638319233,
+        "published": "November 30, 2021 7:40 PM"
+    },
+    {
+        "title": "Huge Roman Mosaic Depicting Scenes From the ‘Iliad’ Found Beneath U.K. Field | Teams from Historic England and the University of Leicester Archaeological Services (ULAS) excavated the site and discovered the first Roman mosaic depicting scenes from the Iliad ever found in the United Kingdom.",
+        "domain": "smithsonianmag.com",
+        "category": "worldnews",
+        "link": "https://www.smithsonianmag.com/smart-news/huge-roman-mosaic-found-under-uk-farmers-field-180979127/",
+        "sentiment": 2,
+        "timestamp": 1638320622,
+        "published": "November 30, 2021 8:03 PM"
+    },
+    {
+        "title": "A man in Argentina kills almost 300 penguin chicks and destroys more than 140 penguin nests with a bulldozer",
+        "domain": "marketresearchtelecast.com",
+        "category": "worldnews",
+        "link": "https://marketresearchtelecast.com/a-man-in-argentina-kills-almost-300-penguin-chicks-and-destroys-more-than-140-penguin-nests-with-a-bulldozer/215425/",
+        "sentiment": -6,
+        "timestamp": 1638324099,
+        "published": "November 30, 2021 9:01 PM"
+    },
+    {
         "title": "Group of mothers in Tennessee want ban on schools teaching any aspect of civil rights history - The group previously offered a bounty for members who reported teachers in New Hampshire that discussed race in their classrooms",
         "domain": "independent.co.uk",
         "category": "politics",
