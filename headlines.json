@@ -1,5 +1,140 @@
 [
     {
+        "title": "Former Japan PM tells China, 'a Taiwan emergency is a Japanese emergency'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/01/asia/abe-japan-china-taiwan-intl-hnk/index.html",
+        "sentiment": -2,
+        "timestamp": 1638361789,
+        "published": "December 1, 2021 7:29 AM"
+    },
+    {
+        "title": "Australia police arrest quarantine escapees",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-australia-59486285",
+        "sentiment": -2,
+        "timestamp": 1638363151,
+        "published": "December 1, 2021 7:52 AM"
+    },
+    {
+        "title": "Rep. Ilhan Omar Reveals Death Threat Voicemail, Urges House GOP To Address 'Anti-Muslim Hatred'",
+        "domain": "minnesota.cbslocal.com",
+        "category": "politics",
+        "link": "https://minnesota.cbslocal.com/2021/11/30/ilhan-omar-lauren-boebert-death-threat/",
+        "sentiment": -4,
+        "timestamp": 1638363202,
+        "published": "December 1, 2021 7:53 AM"
+    },
+    {
+        "title": "Body spray recall: What the finding of a cancer-causing chemical means for you",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/01/health/deodorants-antiperspirants-recall-benzene-explainer-wellness/index.html",
+        "sentiment": 0,
+        "timestamp": 1638363489,
+        "published": "December 1, 2021 7:58 AM"
+    },
+    {
+        "title": "No obligation to defend Ukraine from Russia, Nato chief says",
+        "domain": "euobserver.com",
+        "category": "worldnews",
+        "link": "https://euobserver.com/world/153689",
+        "sentiment": -1,
+        "timestamp": 1638363499,
+        "published": "December 1, 2021 7:58 AM"
+    },
+    {
+        "title": "Trump tested positive for Covid days before Biden debate, says ex-chief of staff Mark Meadows",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-covid-test-debate-biden-b1967606.html",
+        "sentiment": 2,
+        "timestamp": 1638363533,
+        "published": "December 1, 2021 7:58 AM"
+    },
+    {
+        "title": "Bowman Urges Democratic Leaders to Remove Boebert From Committees Over 'Vile' Attacks on Omar | \"I, for one, will work to root out Islamophobia and discrimination of any kind, and implore my colleagues to join me in saying enough is enough.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/01/bowman-urges-democratic-leaders-remove-boebert-committees-over-vile-attacks-omar",
+        "sentiment": 2,
+        "timestamp": 1638363572,
+        "published": "December 1, 2021 7:59 AM"
+    },
+    {
+        "title": "COVID: First signs that vaccine protects against Omicron – from Israel Pfizer is just slightly less effective in preventing infection with Omicron (90%) than Delta (95%) Those not Vaccinated have a 2.4 x greater chance of developing serious symptoms",
+        "domain": "m.jpost.com",
+        "category": "worldnews",
+        "link": "https://m.jpost.com/health-and-wellness/coronavirus/covid-1st-data-about-vaccine-efficacy-against-omicron-expected-tuesday-687392",
+        "sentiment": 5,
+        "timestamp": 1638363896,
+        "published": "December 1, 2021 8:04 AM"
+    },
+    {
+        "title": "Michael Flynn heard admitting QAnon is ‘nonsense’ in Lin Wood audio",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/michael-flynn-qanon-nonsense-lin-wood-b1965724.html?utm_source=reddit.com",
+        "sentiment": 0,
+        "timestamp": 1638364345,
+        "published": "December 1, 2021 8:12 AM"
+    },
+    {
+        "title": "Conservatives downplay claim from Epstein pilot that Trump flew on Lolita Express",
+        "domain": "dailydot.com",
+        "category": "politics",
+        "link": "https://www.dailydot.com/debug/conservatives-downplay-trump-epstein-lolita-express/",
+        "sentiment": 0,
+        "timestamp": 1638364962,
+        "published": "December 1, 2021 8:22 AM"
+    },
+    {
+        "title": "One half of young Americans in new poll say democracy in US is 'in trouble' or has 'failed'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/583736-one-half-of-young-americans-in-new-poll-say-democracy-in-us-is-either",
+        "sentiment": 0,
+        "timestamp": 1638364969,
+        "published": "December 1, 2021 8:22 AM"
+    },
+    {
+        "title": "Sony Confirms Acquisition of ‘His Dark Materials’ Producer Bad Wolf, Buys Out Sky/HBO Minority Stake",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/sony-bad-wolf-acquisition-his-dark-materials-1235122744/",
+        "sentiment": -3,
+        "timestamp": 1638367321,
+        "published": "December 1, 2021 9:02 AM"
+    },
+    {
+        "title": "Thousands of AT&T customers in the US infected by new data-stealing malware",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/12/thousands-of-att-customers-in-the-us-infected-by-new-data-stealing-malware/",
+        "sentiment": -2,
+        "timestamp": 1638367749,
+        "published": "December 1, 2021 9:09 AM"
+    },
+    {
+        "title": "Intimacy coordinators debunk 4 myths about their job working on sex scenes on TV and in movies",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/truth-about-about-filming-sex-scenes-intimacy-coordinator-myths-2021",
+        "sentiment": 2,
+        "timestamp": 1638368405,
+        "published": "December 1, 2021 9:20 AM"
+    },
+    {
+        "title": "Bad Wolf announced new partnerships with Sony Pictures Television",
+        "domain": "bad-wolf.com",
+        "category": "television",
+        "link": "https://bad-wolf.com/bad-wolf-announces-new-partnership-with-sony-pictures-television/",
+        "sentiment": -3,
+        "timestamp": 1638369266,
+        "published": "December 1, 2021 9:34 AM"
+    },
+    {
         "title": "Russia says Ukraine has deployed half its army of 125,000 troops to Donbass conflict zone",
         "domain": "reuters.com",
         "category": "worldnews",
