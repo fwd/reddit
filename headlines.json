@@ -1,5 +1,86 @@
 [
     {
+        "title": "Planetary scientists are starting to get stirred up by Starship’s potential",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/",
+        "sentiment": 0,
+        "timestamp": 1638391460,
+        "published": "December 1, 2021 3:44 PM"
+    },
+    {
+        "title": "Amy Coney Barrett Suggests Forced Pregnancy Is Fine Because of Adoption",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/supreme-court-justice-amy-coney-barrett-questions-abortion-adoption-in-roe-v-wade-hearing",
+        "sentiment": 1,
+        "timestamp": 1638396299,
+        "published": "December 1, 2021 5:04 PM"
+    },
+    {
+        "title": "Michigan school shooting suspect faces murder and terrorism charges",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/live-updates/school-shooting-oxford-high-school-michigan-fourth-victim-dies/",
+        "sentiment": -5,
+        "timestamp": 1638396498,
+        "published": "December 1, 2021 5:08 PM"
+    },
+    {
+        "title": "Boat carrying Nigerian students capsizes, killing at least 29",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/12/01/africa/nigeria-students-boat-capsize-intl/index.html",
+        "sentiment": -3,
+        "timestamp": 1638396622,
+        "published": "December 1, 2021 5:10 PM"
+    },
+    {
+        "title": "‘Deluge of plastic waste’: US is world’s biggest plastic polluter",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2021/dec/01/deluge-of-plastic-waste-us-is-worlds-biggest-plastic-polluter",
+        "sentiment": -2,
+        "timestamp": 1638397783,
+        "published": "December 1, 2021 5:29 PM"
+    },
+    {
+        "title": "Canada's House Of Commons Approves Bill To Ban LGBT Conversion Therapy",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/canadas-house-commons-approves-bill-ban-lgbt-conversion-therapy-2021-12-01/",
+        "sentiment": 0,
+        "timestamp": 1638398632,
+        "published": "December 1, 2021 5:43 PM"
+    },
+    {
+        "title": "WTA announces immediate suspension of tournaments in China amid concern for Peng Shuai",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/01/tennis/wta-suspend-tournaments-china-peng-shuai-spt-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638399031,
+        "published": "December 1, 2021 5:50 PM"
+    },
+    {
+        "title": "‘The Dr. Oz Show’ Pulled In New York & Pennsylvania In Light Of Mehmet Oz’s Senate Run",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/the-dr-oz-show-pulled-new-york-pennsylvania-mehmet-oz-senate-run-1234883237/",
+        "sentiment": 0,
+        "timestamp": 1638399701,
+        "published": "December 1, 2021 6:01 PM"
+    },
+    {
+        "title": "Facebook lifts Kyle Rittenhouse restrictions, including searches and praise",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/12/01/tech/kyle-rittenhouse-facebook-restrictions/index.html",
+        "sentiment": 3,
+        "timestamp": 1638399730,
+        "published": "December 1, 2021 6:02 PM"
+    },
+    {
         "title": "Amazon deforestation is rising. Guyana offers a rare bright spot.",
         "domain": "aljazeera.com",
         "category": "worldnews",
