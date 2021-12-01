@@ -1,5 +1,122 @@
 [
     {
+        "title": "Russia orders some U.S. diplomatic staff to leave as embassy spat expands",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russia-says-some-us-embassy-staff-must-leave-january-2021-12-01/",
+        "sentiment": 0,
+        "timestamp": 1638380951,
+        "published": "December 1, 2021 12:49 PM"
+    },
+    {
+        "title": "Jack Dorsey’s decision to quit Twitter is not a vote of confidence in future of social media",
+        "domain": "theconversation.com",
+        "category": "technology",
+        "link": "https://theconversation.com/jack-dorseys-decision-to-quit-twitter-is-not-a-vote-of-confidence-in-future-of-social-media-172993",
+        "sentiment": 2,
+        "timestamp": 1638381809,
+        "published": "December 1, 2021 1:03 PM"
+    },
+    {
+        "title": "Battery Pack Prices Fall to an Average of $132/kWh, But Rising Commodity Prices Start to Bite",
+        "domain": "about.bnef.com",
+        "category": "technology",
+        "link": "https://about.bnef.com/blog/battery-pack-prices-fall-to-an-average-of-132-kwh-but-rising-commodity-prices-start-to-bite/",
+        "sentiment": 0,
+        "timestamp": 1638383871,
+        "published": "December 1, 2021 1:37 PM"
+    },
+    {
+        "title": "AOC accuses McCarthy of tolerating 'his Ku Klux Klan caucus' because he's desperate to be House Speaker",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-mccarthy-tolerates-ku-klux-klan-caucus-because-he-wants-to-be-speaker-2021-12",
+        "sentiment": -5,
+        "timestamp": 1638384604,
+        "published": "December 1, 2021 1:50 PM"
+    },
+    {
+        "title": "Biden responds to report that Trump tested positive for COVID before their debate: 'I don't think about the former president'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/biden-on-trump-covid-report-i-dont-think-about-the-former-president-2021-12",
+        "sentiment": 2,
+        "timestamp": 1638386130,
+        "published": "December 1, 2021 2:15 PM"
+    },
+    {
+        "title": "US warns Russia has plans for ‘large scale’ attack on Ukraine",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/01/us-warns-russia-plans-large-scale-attack-on-ukraine",
+        "sentiment": -3,
+        "timestamp": 1638386789,
+        "published": "December 1, 2021 2:26 PM"
+    },
+    {
+        "title": "News Tennis: Peng Shuai case prompts WTA ban on events in China",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/tennis-peng-shuai-case-prompts-wta-ban-on-events-in-china/a-59990942",
+        "sentiment": -2,
+        "timestamp": 1638387238,
+        "published": "December 1, 2021 2:33 PM"
+    },
+    {
+        "title": "WTA announces immediate suspension of tournaments in China",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/sport/tennis/59498779",
+        "sentiment": 0,
+        "timestamp": 1638387303,
+        "published": "December 1, 2021 2:35 PM"
+    },
+    {
+        "title": "Suspect in deadly Michigan high school shooting charged as an adult with murder and terrorism",
+        "domain": "cbs58.com",
+        "category": "news",
+        "link": "https://www.cbs58.com/news/students-grabbed-scissors-for-self-defense-and-escaped-out-a-window-during-michigan-high-school-shooting-that-killed-3-and-injured-8",
+        "sentiment": -9,
+        "timestamp": 1638387493,
+        "published": "December 1, 2021 2:38 PM"
+    },
+    {
+        "title": "Women’s Tennis Association suspends tournaments in China amid concern for Peng Shuai",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/dec/01/wta-suspends-tournaments-china-peng-shuai-tennis",
+        "sentiment": 0,
+        "timestamp": 1638388559,
+        "published": "December 1, 2021 2:55 PM"
+    },
+    {
+        "title": "WTA Immediately Suspends Tournaments in China",
+        "domain": "lastwordonsports.com",
+        "category": "worldnews",
+        "link": "https://lastwordonsports.com/tennis/2021/12/01/wta-suspends-tournaments-china/",
+        "sentiment": 0,
+        "timestamp": 1638388564,
+        "published": "December 1, 2021 2:56 PM"
+    },
+    {
+        "title": "Arizona officer fired after fatally shooting man in wheelchair",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-59439798",
+        "sentiment": -2,
+        "timestamp": 1638388742,
+        "published": "December 1, 2021 2:59 PM"
+    },
+    {
+        "title": "‘Only Murders In The Building’: Cara Delevingne Boards Hulu Comedy Series For Season 2",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/only-murders-in-the-building-cara-delevingne-cast-hulu-season-2-1234882987/",
+        "sentiment": -1,
+        "timestamp": 1638388889,
+        "published": "December 1, 2021 3:01 PM"
+    },
+    {
         "title": "Explosion of WWII bomb in Munich injures 4, disrupts trains",
         "domain": "apnews.com",
         "category": "worldnews",
