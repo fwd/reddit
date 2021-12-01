@@ -1,5 +1,158 @@
 [
     {
+        "title": "White House says DOJ will defend government's authority to promote vaccine requirement",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/white-house-says-doj-will-defend-governments-authority-promote-vaccine-2021-12-01/",
+        "sentiment": 2,
+        "timestamp": 1638368562,
+        "published": "December 1, 2021 9:22 AM"
+    },
+    {
+        "title": "Chinese families 'have lost everything' says Solomons group",
+        "domain": "rnz.co.nz",
+        "category": "worldnews",
+        "link": "https://www.rnz.co.nz/international/pacific-news/456805/chinese-families-have-lost-everything-says-solomons-group",
+        "sentiment": -3,
+        "timestamp": 1638368982,
+        "published": "December 1, 2021 9:29 AM"
+    },
+    {
+        "title": "DeSantis has spent $1.6 million in tax dollars so far to send cops to patrol Texas border",
+        "domain": "orlandosentinel.com",
+        "category": "politics",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-desantis-texas-border-costs-20211201-ellkmehvxnhgxiubmzosqvhhje-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-1~ELLKMEHVXNHGXIUBMZOSQVHHJE~1~1~1~8~art%20yes",
+        "sentiment": 0,
+        "timestamp": 1638369051,
+        "published": "December 1, 2021 9:30 AM"
+    },
+    {
+        "title": "GOP Congresswomen escalate vicious feud & reject desperate plea for peace | Nancy Mace threw some Southern shade: \"All I can say about Marjorie Taylor Greene is bless her fucking heart.”",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/12/gop-congresswomen-escalate-vicious-feud-reject-desperate-plea-peace/",
+        "sentiment": -6,
+        "timestamp": 1638369775,
+        "published": "December 1, 2021 9:42 AM"
+    },
+    {
+        "title": "Canadian province passes new laws that limits when your boss can bother you after work",
+        "domain": "toronto.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://toronto.ctvnews.ca/ontario-passes-new-rules-that-will-change-work-life-balance-for-employees-1.5687603",
+        "sentiment": -3,
+        "timestamp": 1638370075,
+        "published": "December 1, 2021 9:47 AM"
+    },
+    {
+        "title": "WW2 bomb blows up during construction work in Munich, injures 4, disrupts rail traffic",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59487910",
+        "sentiment": -3,
+        "timestamp": 1638370214,
+        "published": "December 1, 2021 9:50 AM"
+    },
+    {
+        "title": "Catalytic converters stolen off 43 Riverside Unified buses",
+        "domain": "pe.com",
+        "category": "news",
+        "link": "https://www.pe.com/2021/11/30/catalytic-converters-stolen-off-43-riverside-unified-buses/",
+        "sentiment": -1,
+        "timestamp": 1638371774,
+        "published": "December 1, 2021 10:16 AM"
+    },
+    {
+        "title": "Court orders DOJ to release four unredacted pages of Mueller report",
+        "domain": "washingtontimes.com",
+        "category": "politics",
+        "link": "https://www.washingtontimes.com/news/2021/nov/30/court-orders-doj-release-four-unredacted-pages-mue/",
+        "sentiment": 0,
+        "timestamp": 1638371994,
+        "published": "December 1, 2021 10:19 AM"
+    },
+    {
+        "title": "Saudis used ‘incentives and threats’ to shut down UN investigation in Yemen",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/01/saudi-arabia-yemen-un-human-rights-investigation-incentives-and-therats",
+        "sentiment": 0,
+        "timestamp": 1638373184,
+        "published": "December 1, 2021 10:39 AM"
+    },
+    {
+        "title": "‘How will we survive?’ Supreme Court Justice Sotomayor sounds alarm in fight to overturn Roe v. Wade",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/12/01/sotomayor-supreme-court-liberals-sound-alarm-in-fight-to-overturn-roe-v-wade.html",
+        "sentiment": 3,
+        "timestamp": 1638374944,
+        "published": "December 1, 2021 11:09 AM"
+    },
+    {
+        "title": "Elizabeth Holmes admits that she was CEO of Theranos, the company she founded",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/11/30/22811246/elizabeth-holmes-texts-control-theranos-money",
+        "sentiment": -1,
+        "timestamp": 1638375190,
+        "published": "December 1, 2021 11:13 AM"
+    },
+    {
+        "title": "Still paying for antivirus software? Experts say you probably don't need it | Viruses are no longer the biggest threats for most users, particularly now that software updates itself automatically and so much personal computing happens over the internet.",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/tech/security/still-paying-antivirus-software-experts-say-probably-dont-need-rcna6335",
+        "sentiment": -3,
+        "timestamp": 1638376177,
+        "published": "December 1, 2021 11:29 AM"
+    },
+    {
+        "title": "U.S. tells Russia to pull back from Ukraine or face painful sanctions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/prepare-sanctions-russia-ramp-up-military-cooperation-ukraine-tells-nato-2021-12-01/?utm_source=reddit.com",
+        "sentiment": -2,
+        "timestamp": 1638376771,
+        "published": "December 1, 2021 11:39 AM"
+    },
+    {
+        "title": "'Chucky’ Creator on the Explosive Season Finale Events and Where Season 2 Goes",
+        "domain": "fandom.com",
+        "category": "television",
+        "link": "https://www.fandom.com/articles/chucky-season-1-finale-spoilers-2",
+        "sentiment": 0,
+        "timestamp": 1638377875,
+        "published": "December 1, 2021 11:57 AM"
+    },
+    {
+        "title": "Cate Blanchett, Kevin Kline to Star in Apple Thriller Series ‘Disclaimer’ From Alfonso Cuarón",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/cate-blanchett-kevin-kline-to-star-in-apple-thriller-series-disclaimer-from-alfonso-cuaron-1235122881/",
+        "sentiment": 0,
+        "timestamp": 1638378121,
+        "published": "December 1, 2021 12:02 PM"
+    },
+    {
+        "title": "Reddit introduces new real-time features including typing and comment indicators",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2021/12/01/reddit-introduces-new-real-time-features-including-typing-and-comment-indicators/",
+        "sentiment": 0,
+        "timestamp": 1638379334,
+        "published": "December 1, 2021 12:22 PM"
+    },
+    {
+        "title": "Anne Rice’s ‘Lives of the Mayfair Witches’ Series Gets Greenlight at AMC",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/anne-rice-lives-of-the-mayfair-witches-series-amc-1235122962/",
+        "sentiment": 0,
+        "timestamp": 1638379838,
+        "published": "December 1, 2021 12:30 PM"
+    },
+    {
         "title": "Ukraine calls on NATO to ready sanctions to deter Russian attack",
         "domain": "reuters.com",
         "category": "worldnews",
