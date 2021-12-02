@@ -1,5 +1,104 @@
 [
     {
+        "title": "Hawaii: Petroleum detected in tap water near Pearl Harbor",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/amp/US/wireStory/hawaii-petroleum-detected-tap-water-pearl-harbor-81504974",
+        "sentiment": 0,
+        "timestamp": 1638429182,
+        "published": "December 2, 2021 2:13 AM"
+    },
+    {
+        "title": "Germany’s RWE on Wednesday won a tender to build what will be Denmark’s largest wind farm, The Danish Energy Agency said, adding that this will be the world’s first offshore wind farm constructed with actual payments to the state.",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/article/denmark-wind-power-auction/update-1-rwe-wins-tender-to-build-denmarks-largest-ever-offshore-wind-farm-idUKL1N2SM0UO",
+        "sentiment": 5,
+        "timestamp": 1638443336,
+        "published": "December 2, 2021 6:08 AM"
+    },
+    {
+        "title": "Saving the dinosaurs: Startups drive to electrify fossil-fuel cars",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/commodities/saving-dinosaurs-startups-drive-electrify-fossil-fuel-cars-2021-12-02/",
+        "sentiment": 0,
+        "timestamp": 1638444594,
+        "published": "December 2, 2021 6:29 AM"
+    },
+    {
+        "title": "Trump won’t run in 2024 because he cannot face being seen as a loser, says his former chief of staff",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-2024-presidential-run-john-kelly-b1968241.html",
+        "sentiment": -3,
+        "timestamp": 1638445428,
+        "published": "December 2, 2021 6:43 AM"
+    },
+    {
+        "title": "We Always Knew Conservative Justices Would Tear Roe Down. Today Proved It.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/12/supreme-court-abortion-dobbs-conservative-justices-doom/",
+        "sentiment": 0,
+        "timestamp": 1638445654,
+        "published": "December 2, 2021 6:47 AM"
+    },
+    {
+        "title": "Microsoft’s new Windows prompts try to stop people downloading Chrome",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts",
+        "sentiment": -1,
+        "timestamp": 1638446331,
+        "published": "December 2, 2021 6:58 AM"
+    },
+    {
+        "title": "Young Americans are raising alarms about the state of U.S. democracy in a new poll",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol",
+        "sentiment": 0,
+        "timestamp": 1638446983,
+        "published": "December 2, 2021 7:09 AM"
+    },
+    {
+        "title": "Bank of Ireland fined 24.5 mln euros over IT failures",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/bank-ireland-fined-245-mln-euros-over-it-failures-2021-12-02/",
+        "sentiment": -2,
+        "timestamp": 1638447322,
+        "published": "December 2, 2021 7:15 AM"
+    },
+    {
+        "title": "Meta links fake accounts with Belarus KGB",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/europe/meta-belarus-kgb-poland-facebook/2021/12/02/ffaa73f8-534d-11ec-83d2-d9dab0e23b7e_story.html",
+        "sentiment": -3,
+        "timestamp": 1638447813,
+        "published": "December 2, 2021 7:23 AM"
+    },
+    {
+        "title": "Judge blocks Texas bill aimed at preventing social media companies from deplatforming people based on their 'viewpoint'",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/judge-blocks-texas-bill-designed-stop-deplatforming-by-social-media-firms-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638448319,
+        "published": "December 2, 2021 7:31 AM"
+    },
+    {
+        "title": "Proposed legislation could allow people with disabilities earn minimum wage",
+        "domain": "erienewsnow.com",
+        "category": "news",
+        "link": "https://www.erienewsnow.com/story/45340607/proposed-legislation-could-allow-people-with-disabilities-earn-minimum-wage",
+        "sentiment": -1,
+        "timestamp": 1638448352,
+        "published": "December 2, 2021 7:32 AM"
+    },
+    {
         "title": "AP: US military explosives vanish, emerge in civilian world | AP News",
         "domain": "apnews.com",
         "category": "news",
