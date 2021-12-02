@@ -1,5 +1,140 @@
 [
     {
+        "title": "Debt collectors can now text, email and DM you on social media",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2021/12/02/1060597759/debt-collectors-can-now-text-email-and-dm-you-on-social-media",
+        "sentiment": -2,
+        "timestamp": 1638455778,
+        "published": "December 2, 2021 9:36 AM"
+    },
+    {
+        "title": "School bullies to face jail under law approved by French MPs",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/school-bullies-face-up-to-10-years-jail-under-law-approved-by-french-mps",
+        "sentiment": 2,
+        "timestamp": 1638455781,
+        "published": "December 2, 2021 9:36 AM"
+    },
+    {
+        "title": "Former federal prosecutor: We'll see \"a tidal wave of criminal charges against Donald Trump\" | Former D.C. homicide prosecutor Glenn Kirschner says Trump should face manslaughter charges for COVID lies",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/02/former-prosecutor-well-see-a-tidal-wave-of-criminal-charges-against-donald-trump/",
+        "sentiment": -12,
+        "timestamp": 1638455828,
+        "published": "December 2, 2021 9:37 AM"
+    },
+    {
+        "title": "Southfield Michigan student arrested after pistol found in his coat pocket",
+        "domain": "wxyz.com",
+        "category": "news",
+        "link": "https://www.wxyz.com/news/southfield-student-arrested-after-pistol-found-in-his-coat-pocket-police-say",
+        "sentiment": -3,
+        "timestamp": 1638456501,
+        "published": "December 2, 2021 9:48 AM"
+    },
+    {
+        "title": "Murder charge for Ohio deputy in Casey Goodson Jr. shooting",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/murder-charge-ohio-deputy-casey-goodson-jr-shooting-81515758",
+        "sentiment": -2,
+        "timestamp": 1638456547,
+        "published": "December 2, 2021 9:49 AM"
+    },
+    {
+        "title": "Accuser testifies Jeffrey Epstein brought her to meet Donald Trump when she was 14; no wrongdoing alleged",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2021/12/01/us/ghislaine-maxwell-trial/index.html",
+        "sentiment": -3,
+        "timestamp": 1638456828,
+        "published": "December 2, 2021 9:53 AM"
+    },
+    {
+        "title": "Germany could make Covid vaccination mandatory, says Merkel",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/germany-could-make-covid-vaccination-mandatory-says-merkel",
+        "sentiment": -1,
+        "timestamp": 1638456979,
+        "published": "December 2, 2021 9:56 AM"
+    },
+    {
+        "title": "Trump held multiple events after testing positive for Covid",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/morning-joe/watch/trump-held-multiple-events-after-testing-positive-for-covid-127703621711",
+        "sentiment": 2,
+        "timestamp": 1638458097,
+        "published": "December 2, 2021 10:14 AM"
+    },
+    {
+        "title": "Living robots made in a lab have found a new way to self-replicate, researchers say",
+        "domain": "npr.org",
+        "category": "technology",
+        "link": "https://www.npr.org/2021/12/01/1060027395/robots-xenobots-living-self-replicating-copy",
+        "sentiment": 0,
+        "timestamp": 1638459526,
+        "published": "December 2, 2021 10:38 AM"
+    },
+    {
+        "title": "Netflix Returns To ‘Death To 2021’; Adds Lucy Liu, Stockard Channing",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/netflix-returns-death-2021-1234883477/",
+        "sentiment": 0,
+        "timestamp": 1638459709,
+        "published": "December 2, 2021 10:41 AM"
+    },
+    {
+        "title": "HBO execs were concerned about 'Sopranos' star James Gandolfini 'staying alive,' according to a new book",
+        "domain": "ca.news.yahoo.com",
+        "category": "television",
+        "link": "https://ca.news.yahoo.com/hbo-execs-were-concerned-sopranos-154152064.html",
+        "sentiment": -1,
+        "timestamp": 1638459744,
+        "published": "December 2, 2021 10:42 AM"
+    },
+    {
+        "title": "Colorado Secretary of State warns of 'slow motion' Jan. 6 happening now",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/colorado-secretary-state-warns-slow-motion-jan-6-happening-now-2021-12-01/",
+        "sentiment": -2,
+        "timestamp": 1638460150,
+        "published": "December 2, 2021 10:49 AM"
+    },
+    {
+        "title": "Shopify has a ‘textbook pirate’ problem, publishers allege - Textbook pirates are selling stolen learning materials on the platform, according to a lawsuit",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/1/22812956/shopify-textbook-publishers-lawsuit-piracy-copyright",
+        "sentiment": -6,
+        "timestamp": 1638460343,
+        "published": "December 2, 2021 10:52 AM"
+    },
+    {
+        "title": "US lawmakers announce bill to prohibit bot scalping of high demand goods - Eurogamer",
+        "domain": "eurogamer.net",
+        "category": "news",
+        "link": "https://www.eurogamer.net/articles/2021-12-01-us-lawmakers-announce-bill-to-prohibit-bot-scalping-of-high-demand-goods",
+        "sentiment": -2,
+        "timestamp": 1638460396,
+        "published": "December 2, 2021 10:53 AM"
+    },
+    {
+        "title": "Thousands of AT&T Subscribers Infected With Data-Pilfering Malware, Researchers Say | Investigators have uncovered a massive infection affecting many AT&T users.",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/thousands-of-at-t-subscribers-infected-with-data-pilfer-1848142629",
+        "sentiment": -4,
+        "timestamp": 1638462675,
+        "published": "December 2, 2021 11:31 AM"
+    },
+    {
         "title": "Republicans threaten government shutdown to undermine vaccine mandates",
         "domain": "theguardian.com",
         "category": "politics",
