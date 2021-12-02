@@ -1,5 +1,104 @@
 [
     {
+        "title": "Opinion | ‘Roe’ is dead. The Roberts Court’s ‘stench’ will live forever.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/01/supreme-court-abortion-argument-roe-dead/",
+        "sentiment": -3,
+        "timestamp": 1638462813,
+        "published": "December 2, 2021 11:33 AM"
+    },
+    {
+        "title": "Teen injured in Waukesha holiday parade incident comes home from hospital: 'He's strong'",
+        "domain": "abc7chicago.com",
+        "category": "news",
+        "link": "https://abc7chicago.com/waukesha-holiday-parade-tragedy-erick-tiegs-attack/11293103/",
+        "sentiment": -2,
+        "timestamp": 1638463829,
+        "published": "December 2, 2021 11:50 AM"
+    },
+    {
+        "title": "House probe will hold public hearings in 2022 detailing Jan. 6 Capitol riot and Trump White House response ‘in vivid color,’ Liz Cheney says",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/12/02/jan-6-probe-will-detail-capitol-riot-and-trump-white-house-response-in-public-hearings.html",
+        "sentiment": -2,
+        "timestamp": 1638464273,
+        "published": "December 2, 2021 11:57 AM"
+    },
+    {
+        "title": "'There Must Be Consequences': Democratic Leaders Demand Boebert's Removal From Committees",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/02/there-must-be-consequences-democratic-leaders-demand-boeberts-removal-committees",
+        "sentiment": -1,
+        "timestamp": 1638466136,
+        "published": "December 2, 2021 12:28 PM"
+    },
+    {
+        "title": "Trapped in Ikea: snowstorm in Denmark forces dozens to bed down in store",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/ikea-snowstorm-trapped-customers-denmark",
+        "sentiment": -2,
+        "timestamp": 1638466382,
+        "published": "December 2, 2021 12:33 PM"
+    },
+    {
+        "title": "Michigan school slaughter exposes 2nd Amendment as poison pill of the American Experiment",
+        "domain": "inquirer.com",
+        "category": "politics",
+        "link": "https://www.inquirer.com/opinion/oxford-high-school-michigan-shooting-gun-control-20211202.html",
+        "sentiment": -3,
+        "timestamp": 1638468191,
+        "published": "December 2, 2021 1:03 PM"
+    },
+    {
+        "title": "\"Show Me State\" governor hid data showing that masks work",
+        "domain": "arstechnica.com",
+        "category": "politics",
+        "link": "https://arstechnica.com/tech-policy/2021/12/show-me-state-governor-hid-data-showing-that-masks-work/",
+        "sentiment": -1,
+        "timestamp": 1638469182,
+        "published": "December 2, 2021 1:19 PM"
+    },
+    {
+        "title": "Second US case of Omicron linked to New York anime convention",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/dec/02/omicron-first-case-new-york-anime-convention",
+        "sentiment": 0,
+        "timestamp": 1638469606,
+        "published": "December 2, 2021 1:26 PM"
+    },
+    {
+        "title": "Hack exposes personal information of 400,000 Planned Parenthood Los Angeles patients",
+        "domain": "latimes.com",
+        "category": "technology",
+        "link": "https://www.latimes.com/california/story/2021-12-01/data-breach-planned-parenthood-los-angeles-patients",
+        "sentiment": -1,
+        "timestamp": 1638469810,
+        "published": "December 2, 2021 1:30 PM"
+    },
+    {
+        "title": "Station Eleven | Official Trailer | HBO Max",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/RaAG-SwEa7k",
+        "sentiment": 0,
+        "timestamp": 1638470133,
+        "published": "December 2, 2021 1:35 PM"
+    },
+    {
+        "title": "Bill Lawrence, Vince Vaughn Apple Series ‘Bad Monkey’ Casts Michelle Monaghan, Jodie Turner-Smith, Meredith Hagner",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/bill-lawrence-vince-vaughn-apple-series-bad-monkey-cast-michelle-monaghan-jodie-turner-smith-meredith-hagner-1235124429/",
+        "sentiment": 0,
+        "timestamp": 1638471726,
+        "published": "December 2, 2021 2:02 PM"
+    },
+    {
         "title": "Kremlin says Ukraine may use force to reclaim rebel regions",
         "domain": "abcnews.go.com",
         "category": "worldnews",
