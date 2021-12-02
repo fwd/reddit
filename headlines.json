@@ -1,5 +1,68 @@
 [
     {
+        "title": "Authorities: Oxford school shooting suspect talked in video about killing students before rampage",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/oakland/2021/12/01/oxford-high-school-shooting-suspect-charges/8824130002/",
+        "sentiment": -4,
+        "timestamp": 1638405663,
+        "published": "December 1, 2021 7:41 PM"
+    },
+    {
+        "title": "Debt collectors can use social media to reach borrowers",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/debt-collectors-can-use-social-media-reach-borrowers-rcna7322",
+        "sentiment": -1,
+        "timestamp": 1638407839,
+        "published": "December 1, 2021 8:17 PM"
+    },
+    {
+        "title": "Trump Knowingly Had Covid in Presidential Debate",
+        "domain": "thebulwark.com",
+        "category": "politics",
+        "link": "https://www.thebulwark.com/trump-tried-to-kill-biden-with-covid-19/",
+        "sentiment": 0,
+        "timestamp": 1638410173,
+        "published": "December 1, 2021 8:56 PM"
+    },
+    {
+        "title": "Dear CEO’s, you’re getting ripped off by legal AI scams",
+        "domain": "thenextweb.com",
+        "category": "technology",
+        "link": "https://thenextweb.com/news/dear-ceos-youre-getting-ripped-off-by-legal-ai-scams",
+        "sentiment": 1,
+        "timestamp": 1638412202,
+        "published": "December 1, 2021 9:30 PM"
+    },
+    {
+        "title": "Facebook, now Meta, says users in China created a fake Swiss scientist to spread conspiracies that the US was falsely blaming it for COVID-19",
+        "domain": "us.yahoo.com",
+        "category": "worldnews",
+        "link": "https://us.yahoo.com/news/facebook-now-meta-says-china-222956211.html",
+        "sentiment": -7,
+        "timestamp": 1638414017,
+        "published": "December 1, 2021 10:00 PM"
+    },
+    {
+        "title": "‘Anna’ Review: Niccolò Ammaniti's six-episode limited series is a Sicilian pandemic fairy tale for grown-ups",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/anna-review-1235049237/",
+        "sentiment": -1,
+        "timestamp": 1638414081,
+        "published": "December 1, 2021 10:01 PM"
+    },
+    {
+        "title": "It's Always Sunny in Philadelphia season 15 starts tonight on FXX! And it will be on Hulu tomorrow",
+        "domain": "metacritic.com",
+        "category": "television",
+        "link": "https://www.metacritic.com/tv/its-always-sunny-in-philadelphia/season-15",
+        "sentiment": 0,
+        "timestamp": 1638414573,
+        "published": "December 1, 2021 10:09 PM"
+    },
+    {
         "title": "The Witcher Season 2 Will Feature Less Of Geralt Grunting And Dropping F-Bombs, Sorry",
         "domain": "slashfilm.com",
         "category": "television",
