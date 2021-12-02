@@ -1,5 +1,59 @@
 [
     {
+        "title": "Colorado Democrats plan bill to enshrine abortion rights in state law even if Roe v. Wade overturned",
+        "domain": "denverpost.com",
+        "category": "politics",
+        "link": "https://www.denverpost.com/2021/12/01/colorado-abortion-rights-bill-2022/",
+        "sentiment": 0,
+        "timestamp": 1638398474,
+        "published": "December 1, 2021 5:41 PM"
+    },
+    {
+        "title": "Marjorie Taylor Greene says Capitol rioters were ‘innocent people’ set up by FBI and Democrats to make Trump fans look bad | Latest attempt to whitewash 6 January comes as House investigators consider more contempt charges",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-capitol-rioters-b1968118.html",
+        "sentiment": -10,
+        "timestamp": 1638401427,
+        "published": "December 1, 2021 6:30 PM"
+    },
+    {
+        "title": "Trump 'stoked' crowd on January 6 and should be held accountable, federal judge says",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/01/politics/donald-trump-january-6-amy-berman-jackson/index.html",
+        "sentiment": 0,
+        "timestamp": 1638402854,
+        "published": "December 1, 2021 6:54 PM"
+    },
+    {
+        "title": "Texas’ ban on mask mandates in public schools back in place after federal appeals court ruling",
+        "domain": "kwtx.com",
+        "category": "news",
+        "link": "https://www.kwtx.com/2021/12/01/texas-ban-mask-mandates-public-schools-back-place-after-federal-appeals-court-ruling/",
+        "sentiment": -2,
+        "timestamp": 1638403212,
+        "published": "December 1, 2021 7:00 PM"
+    },
+    {
+        "title": "Scottish Independence Support Rises to 55% After Boris Johnson Stumbles",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-01/boris-johnson-s-stumbles-boost-support-for-scottish-independence",
+        "sentiment": 3,
+        "timestamp": 1638405963,
+        "published": "December 1, 2021 7:46 PM"
+    },
+    {
+        "title": "Planned Parenthood Los Angeles says hack breached about 400,000 patients' information",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/nation/2021/12/01/los-angeles-planned-parenthood-hack/",
+        "sentiment": -2,
+        "timestamp": 1638406489,
+        "published": "December 1, 2021 7:54 PM"
+    },
+    {
         "title": "Stacey Abrams announces she's running for governor in Georgia",
         "domain": "cnn.com",
         "category": "politics",
