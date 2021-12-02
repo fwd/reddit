@@ -1,5 +1,95 @@
 [
     {
+        "title": "EU demands China 'provide verifiable proof' tennis star Peng Shuai is safe",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2021-12-01/eu-wants-proof-of-tennis-star-peng-shuai-safety-in-china/100663846",
+        "sentiment": 0,
+        "timestamp": 1638438104,
+        "published": "December 2, 2021 4:41 AM"
+    },
+    {
+        "title": "Former Ubiquiti employee charged with hacking and extorting company",
+        "domain": "therecord.media",
+        "category": "technology",
+        "link": "https://therecord.media/former-ubiquiti-employee-charged-with-hacking-and-extorting-company/",
+        "sentiment": -3,
+        "timestamp": 1638441010,
+        "published": "December 2, 2021 5:30 AM"
+    },
+    {
+        "title": "Suspect in deadly Waukesha holiday parade crash says he feels ‘demonized’",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/suspect-deadly-waukesha-holiday-parade-crash-says-feels-demonized-rcna7346",
+        "sentiment": -6,
+        "timestamp": 1638446573,
+        "published": "December 2, 2021 7:02 AM"
+    },
+    {
+        "title": "As Omicron Emerges in US, GOP Accused of Trying to 'Sabotage Our Pandemic Response'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/02/omicron-emerges-us-gop-accused-trying-sabotage-our-pandemic-response",
+        "sentiment": -2,
+        "timestamp": 1638447696,
+        "published": "December 2, 2021 7:21 AM"
+    },
+    {
+        "title": "Supreme Court faces credibility crisis as anti-abortion justices set to fulfill purpose",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/supreme-court-faces-credibility-crisis-as-anti-abortion-justices-set-to-fulfill-purpose-127689285841",
+        "sentiment": 3,
+        "timestamp": 1638449227,
+        "published": "December 2, 2021 7:47 AM"
+    },
+    {
+        "title": "Texas now bans medical abortions after seven weeks of pregnancy",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/12/02/texas-ban-medical-abortion/",
+        "sentiment": 0,
+        "timestamp": 1638450544,
+        "published": "December 2, 2021 8:09 AM"
+    },
+    {
+        "title": "Revealed: how Sidney Powell could be disbarred for lying in court for Trump",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/02/revealed-sidney-powell-trump-us-election",
+        "sentiment": 0,
+        "timestamp": 1638450962,
+        "published": "December 2, 2021 8:16 AM"
+    },
+    {
+        "title": "Germany to announce nationwide Covid lockdown for the unvaccinated",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2021/12/02/germany-announce-nationwide-covid-lockdown-unvaccinated/",
+        "sentiment": 0,
+        "timestamp": 1638451385,
+        "published": "December 2, 2021 8:23 AM"
+    },
+    {
+        "title": "Why James Bond Producers Keep Saying Never Again to a TV Spinoff - Barbara Broccoli and Michael G. Wilson tell TheWrap all the reasons they’re not interested in small-screen series based on the hit franchise",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/james-bond-tv-show-never-happen-producer-broccoli/",
+        "sentiment": -2,
+        "timestamp": 1638453973,
+        "published": "December 2, 2021 9:06 AM"
+    },
+    {
+        "title": "‘Pen15’: Maya Erskine and Anna Konkle Explain Their Decision to End the Series at Emotional FYC Event",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2021/12/pen15-maya-erskine-anna-konkle-end-series-fyc-1234682826/",
+        "sentiment": 0,
+        "timestamp": 1638455240,
+        "published": "December 2, 2021 9:27 AM"
+    },
+    {
         "title": "Hawaii: Petroleum detected in tap water near Pearl Harbor",
         "domain": "abcnews.go.com",
         "category": "news",
