@@ -1,5 +1,113 @@
 [
     {
+        "title": "Ethiopian government says it has recaptured Lalibela, UN World Heritage site",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/01/africa/ethiopia-conflict-lalibela-recaptured-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638476739,
+        "published": "December 2, 2021 3:25 PM"
+    },
+    {
+        "title": "Republicans' war on education is the most crucial part of their push for fascism",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/02/republicans-on-education-is-the-most-crucial-part-of-their-push-for-fascism/",
+        "sentiment": -2,
+        "timestamp": 1638476780,
+        "published": "December 2, 2021 3:26 PM"
+    },
+    {
+        "title": "District Attorney Chisholm, Chief Judge Triggiano discuss unusually low bail given to the man charged in Waukesha Christmas Parade attack",
+        "domain": "jsonline.com",
+        "category": "news",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2021/12/02/john-chisholm-discuss-low-bail-given-man-charged-waukesha-christmas-parade-attack-darrell-brooks/8814614002/",
+        "sentiment": -4,
+        "timestamp": 1638476872,
+        "published": "December 2, 2021 3:27 PM"
+    },
+    {
+        "title": "AOC Laments How Accused Predator Kavanaugh Ready to Rule on 'Whether to Legalize Forced Birth in the US'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/02/aoc-laments-how-accused-predator-kavanaugh-ready-rule-whether-legalize-forced-birth",
+        "sentiment": -3,
+        "timestamp": 1638477527,
+        "published": "December 2, 2021 3:38 PM"
+    },
+    {
+        "title": "Jussie Smollett 'wanted me to fake beat him up,' Abimbola Osundairo testifies",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/12/01/us/jussie-smollett-trial-abimbola-osundairo-testimony/index.html",
+        "sentiment": -3,
+        "timestamp": 1638478366,
+        "published": "December 2, 2021 3:52 PM"
+    },
+    {
+        "title": "Federal judge blocks Texas social media 'censorship' law",
+        "domain": "cnet.com",
+        "category": "news",
+        "link": "https://www.cnet.com/tech/services-and-software/federal-judge-blocks-texas-social-media-censorship-law/",
+        "sentiment": -1,
+        "timestamp": 1638479786,
+        "published": "December 2, 2021 4:16 PM"
+    },
+    {
+        "title": "US rejects calls for regulating or banning ‘killer robots’",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+        "sentiment": -1,
+        "timestamp": 1638481542,
+        "published": "December 2, 2021 4:45 PM"
+    },
+    {
+        "title": "Nathan Lane Teases Possible Return To ‘Only Murders In The Building’",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/nathan-lane-teases-return-only-murders-in-the-building-season-two-1234883820/",
+        "sentiment": -2,
+        "timestamp": 1638481709,
+        "published": "December 2, 2021 4:48 PM"
+    },
+    {
+        "title": "Mayim Bialik set to host Jeopardy specials for ABC starting February 8",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/12/02/american-idol-jeopardy-college-championship-premiere-date-abc/",
+        "sentiment": -2,
+        "timestamp": 1638482224,
+        "published": "December 2, 2021 4:57 PM"
+    },
+    {
+        "title": "Canada votes to ban LGBTQ ‘conversion therapy’. Conservatives joined Liberals in unanimous vote, prompting applause in House of Commons. A recent UN report found that conversion practices are performed in at least 68 countries.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/canada-votes-ban-lgbtq-conversion-therapy",
+        "sentiment": 0,
+        "timestamp": 1638482258,
+        "published": "December 2, 2021 4:57 PM"
+    },
+    {
+        "title": "China-based Covid disinformation operation pushed fake Swiss scientist, Facebook says | Facebook researchers said they found evidence that the person was the creation of a Chinese cybersecurity company.",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/tech/tech-news/china-based-disinformation-operation-pushed-fake-swiss-scientist-faceb-rcna7255",
+        "sentiment": -3,
+        "timestamp": 1638482334,
+        "published": "December 2, 2021 4:58 PM"
+    },
+    {
+        "title": "FDA approves Penn’s ‘glowing tumor’ imaging drug to identify ovarian cancer cells",
+        "domain": "penntoday.upenn.edu",
+        "category": "technology",
+        "link": "https://penntoday.upenn.edu/news/fda-approves-penns-glowing-tumor-imaging-drug-identify-ovarian-cancer-cells",
+        "sentiment": 1,
+        "timestamp": 1638483813,
+        "published": "December 2, 2021 5:23 PM"
+    },
+    {
         "title": "WHO warns world creating 'toxic' recipe for new COVID variants",
         "domain": "france24.com",
         "category": "worldnews",
