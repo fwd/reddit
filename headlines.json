@@ -1,5 +1,104 @@
 [
     {
+        "title": "EU demands Italy enforce penalties for diesel emissions cheating devices",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/commodities/eu-demands-italy-enforce-penalties-diesel-emissions-cheating-devices-2021-12-02/",
+        "sentiment": -4,
+        "timestamp": 1638477286,
+        "published": "December 2, 2021 3:34 PM"
+    },
+    {
+        "title": "Barclays, RBS, HSBC, Credit Suisse and UBS fined for taking part in forex trading cartel",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/12/02/barclays-rbs-hsbc-credit-suisse-ubs-fined-for-forex-trading-cartel.html",
+        "sentiment": 0,
+        "timestamp": 1638481788,
+        "published": "December 2, 2021 4:49 PM"
+    },
+    {
+        "title": "Rand Paul says Fauci should be jailed for five years for lying to Congress – something fact checkers insist he did not do",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/rand-paul-dr-fauci-lies-congress-b1968856.html",
+        "sentiment": -2,
+        "timestamp": 1638482209,
+        "published": "December 2, 2021 4:56 PM"
+    },
+    {
+        "title": "Report: Antonio Brown, Mike Edwards Suspended for 'Misrepresenting Vaccine Status'",
+        "domain": "si.com",
+        "category": "news",
+        "link": "https://www.si.com/nfl/2021/12/02/antonio-brown-suspended-misrepresenting-vaccine-status-fake-card-mike-edwards-john-franklin",
+        "sentiment": -1,
+        "timestamp": 1638482422,
+        "published": "December 2, 2021 5:00 PM"
+    },
+    {
+        "title": "Missouri health department found mask mandates work, but didn’t make findings public • Missouri Independent",
+        "domain": "missouriindependent.com",
+        "category": "news",
+        "link": "https://missouriindependent.com/2021/12/01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public/",
+        "sentiment": 0,
+        "timestamp": 1638483311,
+        "published": "December 2, 2021 5:15 PM"
+    },
+    {
+        "title": "BattleBots is Back! | Season 6 Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=RKEFwLJOGOI",
+        "sentiment": 0,
+        "timestamp": 1638483704,
+        "published": "December 2, 2021 5:21 PM"
+    },
+    {
+        "title": "Student arrested after threat made against Marjory Stoneman Douglas High School",
+        "domain": "local10.com",
+        "category": "news",
+        "link": "https://www.local10.com/news/local/2021/12/02/juvenile-arrested-after-threat-made-against-marjory-stoneman-douglas-high-school/",
+        "sentiment": -5,
+        "timestamp": 1638483780,
+        "published": "December 2, 2021 5:23 PM"
+    },
+    {
+        "title": "South Carolina woman indicted for producing fake COVID-19 vaccination cards, officials say",
+        "domain": "wistv.com",
+        "category": "news",
+        "link": "https://www.wistv.com/app/2021/12/02/columbia-woman-indicted-producing-fake-covid-19-vaccination-cards-officials-say/",
+        "sentiment": -5,
+        "timestamp": 1638484075,
+        "published": "December 2, 2021 5:27 PM"
+    },
+    {
+        "title": "Man dressed as ninja attacks, injures French police officers with sword",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/changing-america/enrichment/arts-culture/584116-man-dressed-as-ninja-attacks-injures-french-police",
+        "sentiment": -1,
+        "timestamp": 1638485028,
+        "published": "December 2, 2021 5:43 PM"
+    },
+    {
+        "title": "Far right using Twitter’s new rule against anti-extremism researchers",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2021/12/02/twitter-media-rule-used-by-extremists/",
+        "sentiment": 0,
+        "timestamp": 1638485139,
+        "published": "December 2, 2021 5:45 PM"
+    },
+    {
+        "title": "FTC sues to block Nvidia’s $40 billion acquisition of Arm",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/12/02/ftc-sues-to-block-nvidias-40-billion-acquisition-of-arm.html",
+        "sentiment": -3,
+        "timestamp": 1638486636,
+        "published": "December 2, 2021 6:10 PM"
+    },
+    {
         "title": "Ethiopian government says it has recaptured Lalibela, UN World Heritage site",
         "domain": "cnn.com",
         "category": "worldnews",
