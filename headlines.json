@@ -1,5 +1,113 @@
 [
     {
+        "title": "Republicans threaten government shutdown to undermine vaccine mandates",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/01/republicans-government-shutdown-vaccine-mandates",
+        "sentiment": -4,
+        "timestamp": 1638440624,
+        "published": "December 2, 2021 5:23 AM"
+    },
+    {
+        "title": "Several school districts closed Thursday out of precaution due to online threats in wake of Oxford attack",
+        "domain": "fox2detroit.com",
+        "category": "news",
+        "link": "https://www.fox2detroit.com/news/some-school-districts-to-close-thursday-as-a-precaution-from-online-threats-in-wake-of-oxford-attack",
+        "sentiment": -3,
+        "timestamp": 1638447333,
+        "published": "December 2, 2021 7:15 AM"
+    },
+    {
+        "title": "U.S. tightens travel testing requirements, mask mandates as part of broader plan to fight Covid",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/02/omicron-covid-variant-us-tightens-travel-testing-requirements-mask-mandates.html",
+        "sentiment": -1,
+        "timestamp": 1638450959,
+        "published": "December 2, 2021 8:15 AM"
+    },
+    {
+        "title": "Meadows Calls His Own Book ‘Fake News’ After Trump Attack",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/morning-memo/meadows-calls-his-own-book-fake-news-after-trump-attack",
+        "sentiment": -1,
+        "timestamp": 1638451508,
+        "published": "December 2, 2021 8:25 AM"
+    },
+    {
+        "title": "7-Eleven to make deliveries with self-driving cars in Google's hometown",
+        "domain": "mashable.com",
+        "category": "technology",
+        "link": "https://mashable.com/article/7-eleven-nuro-autonomous-delivery",
+        "sentiment": 0,
+        "timestamp": 1638454117,
+        "published": "December 2, 2021 9:08 AM"
+    },
+    {
+        "title": "Peng Shuai China rift deepens as WTA says boycott is about 'right and wrong'",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/peng-shuai-china-tennis-wta-boycott-ioc-rcna7361",
+        "sentiment": -2,
+        "timestamp": 1638454335,
+        "published": "December 2, 2021 9:12 AM"
+    },
+    {
+        "title": "Germany announces nationwide lockdown for the unvaccinated",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/02/europe/germany-lockdown-covid-restrictions-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638454442,
+        "published": "December 2, 2021 9:14 AM"
+    },
+    {
+        "title": "Germany excludes unvaccinated from parts of public life",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-olaf-scholz-pandemics-9cacf1bb85822e55fd3ff92d1f0aa536",
+        "sentiment": 0,
+        "timestamp": 1638454825,
+        "published": "December 2, 2021 9:20 AM"
+    },
+    {
+        "title": "CIA Report Shows Trump Abandoned His Duty as Commander in Chief",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/12/cia-report-shows-trump-abandoned-his-duty-as-commander-in-chief/",
+        "sentiment": -2,
+        "timestamp": 1638455451,
+        "published": "December 2, 2021 9:30 AM"
+    },
+    {
+        "title": "Crime Prediction Software Promised to Be Free of Biases. New Data Shows It Perpetuates Them: Millions of crime predictions left on an unsecured server show PredPol mostly avoided Whiter neighborhoods, targeted Blacks and Latino neighborhoods.",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/crime-prediction-software-promised-to-be-free-of-biases-1848138977",
+        "sentiment": -7,
+        "timestamp": 1638456026,
+        "published": "December 2, 2021 9:40 AM"
+    },
+    {
+        "title": "Eddie Mekka, ‘Laverne & Shirley’ star, dies at 69",
+        "domain": "myfox8.com",
+        "category": "television",
+        "link": "https://myfox8.com/news/entertainment/eddie-mekka-laverne-shirley-star-dies-at-69/",
+        "sentiment": 0,
+        "timestamp": 1638458740,
+        "published": "December 2, 2021 10:25 AM"
+    },
+    {
+        "title": "Historic 'Jeopardy!' champion Amy Schneider supports Ken Jennings as show continues search for Alex Trebek's permanent replacement: “He’s very relaxed and sets contestants at ease. He knows what we’re going through.”",
+        "domain": "washingtonpost.com",
+        "category": "television",
+        "link": "https://www.washingtonpost.com/arts-entertainment/2021/12/02/jeopardy-amy-schneider-winning-streak/",
+        "sentiment": 8,
+        "timestamp": 1638458983,
+        "published": "December 2, 2021 10:29 AM"
+    },
+    {
         "title": "EU demands China 'provide verifiable proof' tennis star Peng Shuai is safe",
         "domain": "abc.net.au",
         "category": "news",
