@@ -1,5 +1,140 @@
 [
     {
+        "title": "WHO warns world creating 'toxic' recipe for new COVID variants",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211201-who-warns-world-creating-toxic-recipe-for-new-variants",
+        "sentiment": -2,
+        "timestamp": 1638456735,
+        "published": "December 2, 2021 9:52 AM"
+    },
+    {
+        "title": "China removes Lithuania from it custom systems",
+        "domain": "baltictimes.com",
+        "category": "worldnews",
+        "link": "https://www.baltictimes.com/china_removes_lithuania_from_it_custom_systems/",
+        "sentiment": 0,
+        "timestamp": 1638461956,
+        "published": "December 2, 2021 11:19 AM"
+    },
+    {
+        "title": "Austrian chancellor resigns after Sebastian Kurz withdraws from politics",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/austrian-chancellor-resigns-after-sebastian-kurz-withdraws-from-politics/a-59993547",
+        "sentiment": -1,
+        "timestamp": 1638465052,
+        "published": "December 2, 2021 12:10 PM"
+    },
+    {
+        "title": "Pelosi hammers 'anti-science, anti-vaccination' Republicans for threatening shutdown",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/584035-pelosi-hammers-anti-vax-republicans-for-threatening-shutdown",
+        "sentiment": -2,
+        "timestamp": 1638469327,
+        "published": "December 2, 2021 1:22 PM"
+    },
+    {
+        "title": "Liberty University professor charged in alleged abduction, sexual battery of student",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/liberty-university-professor-charged-alleged-abduction-sexual-battery-rcna7390",
+        "sentiment": -5,
+        "timestamp": 1638473501,
+        "published": "December 2, 2021 2:31 PM"
+    },
+    {
+        "title": "GOP blocks bill to expand gun background checks after Michigan school shooting",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/584065-gop-blocks-bill-to-expand-gun-background-checks-after-michigan-school",
+        "sentiment": -1,
+        "timestamp": 1638473590,
+        "published": "December 2, 2021 2:33 PM"
+    },
+    {
+        "title": "200+ Groups to Democrats in Congress: No Holiday Recess Until You Pass Voting Rights",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/02/200-groups-democrats-congress-no-holiday-recess-until-you-pass-voting-rights",
+        "sentiment": -1,
+        "timestamp": 1638475450,
+        "published": "December 2, 2021 3:04 PM"
+    },
+    {
+        "title": "‘Turner & Hooch’ Series Cancelled At Disney+ After One Season",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/turner-and-hooch-series-cancelled-disney-plus/",
+        "sentiment": -1,
+        "timestamp": 1638476591,
+        "published": "December 2, 2021 3:23 PM"
+    },
+    {
+        "title": "After 16 years of rule, Angela Merkel says goodbye with Nina Hagen song as German military honors her with its highest ceremony for a civilian",
+        "domain": "uk.news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.news.yahoo.com/16-years-rule-angela-merkel-194233646.html",
+        "sentiment": 0,
+        "timestamp": 1638477235,
+        "published": "December 2, 2021 3:33 PM"
+    },
+    {
+        "title": "‘Reservation Dogs’ Co-Creator Sterlin Harjo Developing Heist Miniseries at FX",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/sterlin-harjo-miniseries-fx-reservation-dogs-1235124495/",
+        "sentiment": 0,
+        "timestamp": 1638477698,
+        "published": "December 2, 2021 3:41 PM"
+    },
+    {
+        "title": "EA Plans Battlefield ‘Universe’ Following Awful Battlefield 2042 Launch",
+        "domain": "gamespot.com",
+        "category": "technology",
+        "link": "https://www.gamespot.com/articles/battlefield-franchise-undergoes-major-shake-up/1100-6498521/",
+        "sentiment": -3,
+        "timestamp": 1638478454,
+        "published": "December 2, 2021 3:54 PM"
+    },
+    {
+        "title": "The FTC is suing to block Nvidia’s $40 billion purchase of Arm",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/2/22814633/nvidia-arm-purchase-semiconductor-ftc-40-billion-lawsuit-block-deal",
+        "sentiment": -3,
+        "timestamp": 1638478894,
+        "published": "December 2, 2021 4:01 PM"
+    },
+    {
+        "title": "Satellites have discovered huge cloud of undisclosed methane emissions over Australia, experts say",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-12-03/satellites-are-challenging-australias-coal-mining-industry/100663676",
+        "sentiment": 1,
+        "timestamp": 1638479008,
+        "published": "December 2, 2021 4:03 PM"
+    },
+    {
+        "title": "Yellen says mind not made up on U.S. central bank digital currency",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/us/yellen-says-mind-not-made-up-us-central-bank-digital-currency-2021-12-02/",
+        "sentiment": 0,
+        "timestamp": 1638479510,
+        "published": "December 2, 2021 4:11 PM"
+    },
+    {
+        "title": "The Murders at Starved Rock HBO documentary trailer",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/UVZL2pAnaZU",
+        "sentiment": -4,
+        "timestamp": 1638480613,
+        "published": "December 2, 2021 4:30 PM"
+    },
+    {
         "title": "Yemen war: Saudi Arabia lobbying campaign 'shut down' UN investigation",
         "domain": "middleeasteye.net",
         "category": "worldnews",
