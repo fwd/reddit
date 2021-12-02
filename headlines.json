@@ -1,5 +1,149 @@
 [
     {
+        "title": "Kremlin says Ukraine may use force to reclaim rebel regions",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/kremlin-ukraine-force-reclaim-rebel-regions-81513165",
+        "sentiment": -2,
+        "timestamp": 1638445144,
+        "published": "December 2, 2021 6:39 AM"
+    },
+    {
+        "title": "Austria's Kurz quits politics, leaving ruling conservatives in disarray",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/austrian-ex-chancellor-kurz-speak-after-reports-he-is-leaving-politics-2021-12-02/",
+        "sentiment": 0,
+        "timestamp": 1638450147,
+        "published": "December 2, 2021 8:02 AM"
+    },
+    {
+        "title": "Polish women protest attempts to further restrict abortion",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2021/11/30/polish-women-protest-attempts-to-further-restrict-abortion",
+        "sentiment": -4,
+        "timestamp": 1638454749,
+        "published": "December 2, 2021 9:19 AM"
+    },
+    {
+        "title": "Minnesota reports second U.S. omicron Covid case in resident who traveled to NYC",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/02/minnesota-reports-second-us-omicron-covid-case-in-resident-who-traveled-to-nyc.html",
+        "sentiment": 0,
+        "timestamp": 1638460796,
+        "published": "December 2, 2021 10:59 AM"
+    },
+    {
+        "title": "Russia warns 'the nightmare scenario of military confrontation is returning' in Europe",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10266847/Kremlin-says-Ukraines-goal-retake-Crimea-direct-threat-orders-troops-combat-ready.html",
+        "sentiment": -2,
+        "timestamp": 1638462070,
+        "published": "December 2, 2021 11:21 AM"
+    },
+    {
+        "title": "Utah Makes Welfare So Hard to Get, Some Feel They Must Join the LDS Church to Get Aid | Utah’s safety net for the poor is so intertwined with the LDS Church that individual bishops often decide who receives assistance. Some deny help unless a person goes to services or gets baptized.",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/utahs-social-safety-net-is-the-church-of-jesus-christ-of-latter-day-saints-what-does-that-mean-if-youre-not-one",
+        "sentiment": -1,
+        "timestamp": 1638463674,
+        "published": "December 2, 2021 11:47 AM"
+    },
+    {
+        "title": "NYPD responding to reports of man appearing to have a shotgun outside the United Nations",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/united-nations-shotgun-nypd/index.html",
+        "sentiment": 1,
+        "timestamp": 1638464002,
+        "published": "December 2, 2021 11:53 AM"
+    },
+    {
+        "title": "Covid: Trigger of rare blood clots with AstraZeneca jab found by scientists",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/health-59418123",
+        "sentiment": 0,
+        "timestamp": 1638464272,
+        "published": "December 2, 2021 11:57 AM"
+    },
+    {
+        "title": "Really stupid “smart contract” bug let hackers steal $31 million in digital coin",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/",
+        "sentiment": -4,
+        "timestamp": 1638464636,
+        "published": "December 2, 2021 12:03 PM"
+    },
+    {
+        "title": "South Korean security adviser visits China as Seoul pushes for formal end to Korean war",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3158216/south-korean-security-adviser-visits-china-seoul-pushes-end",
+        "sentiment": -2,
+        "timestamp": 1638465681,
+        "published": "December 2, 2021 12:21 PM"
+    },
+    {
+        "title": "Russia's top diplomat accuses the US and NATO of risking a 'nightmare scenario of military confrontation' amid tensions over Ukraine",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russia-accuses-us-nato-of-risking-a-nightmare-scenario-amid-ukraine-tensions-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638465866,
+        "published": "December 2, 2021 12:24 PM"
+    },
+    {
+        "title": "'For-Profit Healthcare Hurts All of Us': Sacramento Approves Single-Payer Resolution | \"We're going to keep passing these resolutions until we end our profit-driven healthcare system.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/02/profit-healthcare-hurts-all-us-sacramento-approves-single-payer-resolution",
+        "sentiment": 2,
+        "timestamp": 1638466053,
+        "published": "December 2, 2021 12:27 PM"
+    },
+    {
+        "title": "Apple’s frontline employees are struggling to survive",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/c/22807871/apple-frontline-employees-retail-customer-service-pandemic",
+        "sentiment": -2,
+        "timestamp": 1638466121,
+        "published": "December 2, 2021 12:28 PM"
+    },
+    {
+        "title": "Three former Google employees sue the company for illegally firing them",
+        "domain": "entrepreneur.com",
+        "category": "technology",
+        "link": "https://www.entrepreneur.com/article/400447",
+        "sentiment": -7,
+        "timestamp": 1638468948,
+        "published": "December 2, 2021 1:15 PM"
+    },
+    {
+        "title": "2020 was the first year in which renewable wind, solar, hydropower, and biomass and waste power provided the entirety of growth in global power generation",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-02/technology-drives-a-power-transition",
+        "sentiment": 1,
+        "timestamp": 1638469131,
+        "published": "December 2, 2021 1:18 PM"
+    },
+    {
+        "title": "Reacher (2021) - Official Trailer - Prime Video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=aDekbN4EtaE",
+        "sentiment": 0,
+        "timestamp": 1638469238,
+        "published": "December 2, 2021 1:20 PM"
+    },
+    {
         "title": "​​Planned Parenthood CEO: If SCOTUS Restricts Abortion Access, Marginalized People Will Be Hurt Most",
         "domain": "democracynow.org",
         "category": "politics",
