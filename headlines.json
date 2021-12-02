@@ -1,5 +1,77 @@
 [
     {
+        "title": "Stacey Abrams announces she's running for governor in Georgia",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html",
+        "sentiment": 0,
+        "timestamp": 1638390880,
+        "published": "December 1, 2021 3:34 PM"
+    },
+    {
+        "title": "TikTok ‘door kick’ challenge has Bay Area police warning teens could be mistaken for home invaders",
+        "domain": "sfchronicle.com",
+        "category": "technology",
+        "link": "https://www.sfchronicle.com/bayarea/article/TikTok-door-kick-challenge-has-Bay-Area-16666317.php",
+        "sentiment": -6,
+        "timestamp": 1638391769,
+        "published": "December 1, 2021 3:49 PM"
+    },
+    {
+        "title": "The US has its first omicron case—and the patient was fully vaccinated",
+        "domain": "qz.com",
+        "category": "worldnews",
+        "link": "https://qz.com/2097080/the-first-us-omicron-variant-case-was-detected-in-california/",
+        "sentiment": 0,
+        "timestamp": 1638399522,
+        "published": "December 1, 2021 5:58 PM"
+    },
+    {
+        "title": "Corpus Christi woman arrested for pulling gun over H-E-B parking spot",
+        "domain": "mysanantonio.com",
+        "category": "news",
+        "link": "https://www.mysanantonio.com/news/local/article/Texas-woman-arrested-pulling-a-gun-HEB-parking-16665853.php",
+        "sentiment": -4,
+        "timestamp": 1638399650,
+        "published": "December 1, 2021 6:00 PM"
+    },
+    {
+        "title": "Honduras elected its first female president, Xiomara Castro | The ruling party conceded defeat Tuesday, giving victory to the leftist opposition candidate. \"People, I am not going to fail you!\" tweeted the former first lady.",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/latino/honduras-elected-first-female-president-xiomara-castro-rcna7218",
+        "sentiment": -1,
+        "timestamp": 1638400897,
+        "published": "December 1, 2021 6:21 PM"
+    },
+    {
+        "title": "Queen replaced by Rihanna as national hero as Prince Charles witnesses Barbados becoming a republic | Rihanna, who grew up in the island nation, witnessed the historic ceremony that broke Barbados’s centuries-old ties with the British monarchy and swore in its first president Dame Sandra Mason.",
+        "domain": "cityam.com",
+        "category": "worldnews",
+        "link": "https://www.cityam.com/queen-replaced-by-rihanna-as-national-hero-as-prince-charles-witnesses-barbados-becoming-a-republic/",
+        "sentiment": 1,
+        "timestamp": 1638401092,
+        "published": "December 1, 2021 6:24 PM"
+    },
+    {
+        "title": "The U.S. has fallen out of love with the hard work of invention",
+        "domain": "theatlantic.com",
+        "category": "technology",
+        "link": "https://www.theatlantic.com/ideas/archive/2021/12/america-innovation-film-science-business/620858/",
+        "sentiment": 0,
+        "timestamp": 1638401254,
+        "published": "December 1, 2021 6:27 PM"
+    },
+    {
+        "title": "Oxford High School shooting suspect called into a meeting prior to the shooting.",
+        "domain": "wxyz.com",
+        "category": "news",
+        "link": "https://www.wxyz.com/news/school-met-with-suspect-parents-over-concerning-behavior-the-morning-of-oxford-shooting-police-say",
+        "sentiment": -1,
+        "timestamp": 1638401774,
+        "published": "December 1, 2021 6:36 PM"
+    },
+    {
         "title": "Planetary scientists are starting to get stirred up by Starship’s potential",
         "domain": "arstechnica.com",
         "category": "technology",
