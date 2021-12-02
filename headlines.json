@@ -1,5 +1,41 @@
 [
     {
+        "title": "A \"Clear Name Internet\" is a dangerous place: Why anonymity matters.",
+        "domain": "tutanota.com",
+        "category": "technology",
+        "link": "https://tutanota.com/blog/posts/why-anonymity-matters",
+        "sentiment": 0,
+        "timestamp": 1638432844,
+        "published": "December 2, 2021 3:14 AM"
+    },
+    {
+        "title": "Russia deploys coastal missile system on island chain near Japan",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/russia-deploys-coastal-missile-system-island-chain-near-japan-2021-12-02/",
+        "sentiment": 0,
+        "timestamp": 1638433403,
+        "published": "December 2, 2021 3:23 AM"
+    },
+    {
+        "title": "Dr. Oz and My ‘Aha Moment’ on Oprah’s Quackery",
+        "domain": "nymag.com",
+        "category": "television",
+        "link": "https://nymag.com/intelligencer/2021/11/dr-oz-senate-run-should-be-aha-moment-on-oprahs-quackery.html",
+        "sentiment": 0,
+        "timestamp": 1638433418,
+        "published": "December 2, 2021 3:23 AM"
+    },
+    {
+        "title": "Scientists Make Huge Breakthrough to Give AI Mathematical Capabilities Never Seen Before",
+        "domain": "independent.co.uk",
+        "category": "technology",
+        "link": "https://www.independent.co.uk/life-style/gadgets-and-tech/ai-artificial-intelligence-maths-deepmind-b1967817.html",
+        "sentiment": 5,
+        "timestamp": 1638436164,
+        "published": "December 2, 2021 4:09 AM"
+    },
+    {
         "title": "Michigan school massacre suspect’s mother wrote open letter to Trump praising his support for gun rights",
         "domain": "independent.co.uk",
         "category": "politics",
