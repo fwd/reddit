@@ -1,5 +1,149 @@
 [
     {
+        "title": "U.S. rebuffed B.C.’s pleas to shore up dike for $29-million. Now, flood damage will hit $1-billion",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-bc-flooding-marks-most-severe-consequence-of-dike-dispute-between/",
+        "sentiment": -3,
+        "timestamp": 1638552587,
+        "published": "December 3, 2021 12:29 PM"
+    },
+    {
+        "title": "Police: Mother kills 6-year-old son with deer rifle",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/police-mother-kills-year-son-deer-rifle-81541327",
+        "sentiment": -3,
+        "timestamp": 1638555554,
+        "published": "December 3, 2021 1:19 PM"
+    },
+    {
+        "title": "The Jan. 6 Committee Is Promising It Has the Goods. We’re About to Find Out",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/liz-cheney-jan-6-committee-public-hearings-1265974/",
+        "sentiment": 0,
+        "timestamp": 1638557055,
+        "published": "December 3, 2021 1:44 PM"
+    },
+    {
+        "title": "Your Rooftop Garden Could Be a Solar-Powered Working Farm",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/your-rooftop-garden-could-be-a-solar-powered-working-farm/",
+        "sentiment": 0,
+        "timestamp": 1638557576,
+        "published": "December 3, 2021 1:52 PM"
+    },
+    {
+        "title": "Indigenous groups unveil plan to protect 80% of the Amazon in Peru and Ecuador",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/12/indigenous-groups-unveil-plan-to-protect-80-of-the-amazon-in-peru-and-ecuador/",
+        "sentiment": 1,
+        "timestamp": 1638557921,
+        "published": "December 3, 2021 1:58 PM"
+    },
+    {
+        "title": "The Norwegian wolf is extinct",
+        "domain": "phys.org",
+        "category": "worldnews",
+        "link": "https://phys.org/news/2021-12-norwegian-wolf-extinct.html",
+        "sentiment": 0,
+        "timestamp": 1638558449,
+        "published": "December 3, 2021 2:07 PM"
+    },
+    {
+        "title": "A blizzard warning is in effect for Hawaii as the lower 48 contends with a snow drought",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/03/weather/weather-hawaii-snow-warm-contiguous-us/index.html",
+        "sentiment": -3,
+        "timestamp": 1638558643,
+        "published": "December 3, 2021 2:10 PM"
+    },
+    {
+        "title": "‘Obscene’ GOP Blockade Stalls Dozens Of Biden Nominees",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/biden-nominees-republicans-blockade_n_61aa58cfe4b0451e551590c1",
+        "sentiment": -2,
+        "timestamp": 1638558770,
+        "published": "December 3, 2021 2:12 PM"
+    },
+    {
+        "title": "Apple AirTags being used by thieves to track high-end cars to steal",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/cars/2021/12/apple-airtags-being-used-by-thieves-to-track-high-end-cars-to-steal/",
+        "sentiment": -2,
+        "timestamp": 1638559755,
+        "published": "December 3, 2021 2:29 PM"
+    },
+    {
+        "title": "US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html",
+        "sentiment": 0,
+        "timestamp": 1638560390,
+        "published": "December 3, 2021 2:39 PM"
+    },
+    {
+        "title": "AT&T failed to fix Ohio man’s broken Internet service for a month - Fixed wireless user just needed a new antenna, but AT&T couldn't figure out the problem.",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/12/att-failed-to-fix-ohio-mans-broken-internet-service-for-a-month/",
+        "sentiment": -5,
+        "timestamp": 1638560621,
+        "published": "December 3, 2021 2:43 PM"
+    },
+    {
+        "title": "Innovative Nanochip Can Reprogram Biological Tissue in Living Body",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/regenerative-nanotransfection-innovative-nanochip-can-reprogram-biological-tissue-in-living-body/",
+        "sentiment": 2,
+        "timestamp": 1638561004,
+        "published": "December 3, 2021 2:50 PM"
+    },
+    {
+        "title": "[New Series] '1883' Official Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=ZkbH1zjsM7g",
+        "sentiment": 0,
+        "timestamp": 1638561047,
+        "published": "December 3, 2021 2:50 PM"
+    },
+    {
+        "title": "Police are searching for Michigan school shooting suspect's parents",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/us/live-news/oxford-school-shooting-michigan-12-03-21/index.html",
+        "sentiment": 0,
+        "timestamp": 1638562123,
+        "published": "December 3, 2021 3:08 PM"
+    },
+    {
+        "title": "Lost is finally on Disney Plus in Australia and NZ",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/whats-coming-to-disney-in-december-2021-australia-new-zealand/",
+        "sentiment": -3,
+        "timestamp": 1638562719,
+        "published": "December 3, 2021 3:18 PM"
+    },
+    {
+        "title": "The Perfect Villain | It’s Always Sunny in Philadelphia - Season 15",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=ssmJnRYz8Pw",
+        "sentiment": 3,
+        "timestamp": 1638563190,
+        "published": "December 3, 2021 3:26 PM"
+    },
+    {
         "title": "Moderate Republicans are quitting as the GOP's big tent narrows",
         "domain": "salon.com",
         "category": "politics",
