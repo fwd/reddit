@@ -1,5 +1,77 @@
 [
     {
+        "title": "Singaporean Amos Yee jailed in the US for grooming 14-year-old girl, possessing child porn",
+        "domain": "channelnewsasia.com",
+        "category": "news",
+        "link": "https://www.channelnewsasia.com/singapore/amos-yee-singapore-jailed-us-grooming-child-porn-2354756",
+        "sentiment": -2,
+        "timestamp": 1638492284,
+        "published": "December 2, 2021 7:44 PM"
+    },
+    {
+        "title": "House Democrats Demand Lauren Boebert Be Stripped Of Committee Assignments",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/lauren-boebert-committee-assignments_n_61a92cc2e4b0f398af1e9239",
+        "sentiment": -1,
+        "timestamp": 1638496936,
+        "published": "December 2, 2021 9:02 PM"
+    },
+    {
+        "title": "F.T.C. Sues to Stop Blockbuster Chip Deal Between Nvidia and Arm",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/12/02/technology/ftc-nvidia-arm-deal.html",
+        "sentiment": 0,
+        "timestamp": 1638502012,
+        "published": "December 2, 2021 10:26 PM"
+    },
+    {
+        "title": "Ransomware attack on Planned Parenthood steals data of 400,000 patients",
+        "domain": "arstechnica.com",
+        "category": "worldnews",
+        "link": "https://arstechnica.com/information-technology/2021/12/ransomware-attack-on-planned-parenthood-steals-data-of-400000-patients/",
+        "sentiment": -3,
+        "timestamp": 1638503050,
+        "published": "December 2, 2021 10:44 PM"
+    },
+    {
+        "title": "Google Removes Pirate Bay Domains from Search Results Citing Dutch Court Order",
+        "domain": "torrentfreak.com",
+        "category": "technology",
+        "link": "https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/",
+        "sentiment": 0,
+        "timestamp": 1638503594,
+        "published": "December 2, 2021 10:53 PM"
+    },
+    {
+        "title": "Zoom's New Attendance Tool Will Snitch on Attendees Who Are Late to a Meeting",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/zooms-new-attendance-tool-will-snitch-on-attendees-who-1848150339",
+        "sentiment": 0,
+        "timestamp": 1638503746,
+        "published": "December 2, 2021 10:55 PM"
+    },
+    {
+        "title": "Strange Things Happening in Earth’s Atmosphere: NASA Launches Rocket To Investigate Mysterious Area Above the North Pole",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/strange-things-happening-in-earths-atmosphere-nasa-launches-rocket-to-investigate-mysterious-area-above-the-north-pole/",
+        "sentiment": -1,
+        "timestamp": 1638504042,
+        "published": "December 2, 2021 11:00 PM"
+    },
+    {
+        "title": "Plumber discovers money, checks in wall of Joel Osteen’s Lakewood Church years after $600K burglary",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2021/12/02/money-checks-found-in-wall-of-joel-osteens-lakewood-church-years-after-600k-burglary/",
+        "sentiment": -2,
+        "timestamp": 1638504496,
+        "published": "December 2, 2021 11:08 PM"
+    },
+    {
         "title": "Judge orders pro-Trump election lawyers to pay $175,000 in sanctions",
         "domain": "thehill.com",
         "category": "politics",
