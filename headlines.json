@@ -1,5 +1,50 @@
 [
     {
+        "title": "Fauci calls out Fox for its silence after host compares him to Nazi doctor",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/02/media/fauci-calls-out-fox/index.html",
+        "sentiment": 0,
+        "timestamp": 1638509158,
+        "published": "December 3, 2021 12:25 AM"
+    },
+    {
+        "title": "'Carbon footprint of a medium-sized European country': What satellites found over one part of Australia",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2021-12-03/satellites-are-challenging-australias-coal-mining-industry/100663676",
+        "sentiment": 0,
+        "timestamp": 1638513113,
+        "published": "December 3, 2021 1:31 AM"
+    },
+    {
+        "title": "Greece to fine non-vaccinated over-60-year-olds €100 per month",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/politics/short_news/greece-to-fine-non-vaccinated-over-60-year-olds-e100-per-month/",
+        "sentiment": 2,
+        "timestamp": 1638514202,
+        "published": "December 3, 2021 1:50 AM"
+    },
+    {
+        "title": "Hackers Steal $119M From ‘Web3’ Crypto Project With Old School Attack",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/pkpp4n/hackers-steal-dollar119m-from-web3-crypto-project-with-old-school-attack",
+        "sentiment": -3,
+        "timestamp": 1638517876,
+        "published": "December 3, 2021 2:51 AM"
+    },
+    {
+        "title": "Croatia’s Largest Supermarket Chain Konzum Now Accepts Crypto",
+        "domain": "encryptobyte.com",
+        "category": "technology",
+        "link": "https://encryptobyte.com/croatias-largest-supermarket-chain-konzum-now-accepts-crypto/",
+        "sentiment": 1,
+        "timestamp": 1638518663,
+        "published": "December 3, 2021 3:04 AM"
+    },
+    {
         "title": "Albanian Government Prohibits Pedophiles and Child Abusers from Becoming Teachers",
         "domain": "exit.al",
         "category": "worldnews",
