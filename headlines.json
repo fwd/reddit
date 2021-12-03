@@ -1,5 +1,131 @@
 [
     {
+        "title": "Gazprom Gains Control of Russia’s Top Social Network",
+        "domain": "themoscowtimes.com",
+        "category": "technology",
+        "link": "https://www.themoscowtimes.com/2021/12/03/gazprom-gains-control-of-russias-top-social-network-a75724",
+        "sentiment": 4,
+        "timestamp": 1638528024,
+        "published": "December 3, 2021 5:40 AM"
+    },
+    {
+        "title": "Sword-wielding man dressed as a ninja shot by French police",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/02/europe/sword-ninja-france-police-shot-intl/index.html",
+        "sentiment": 0,
+        "timestamp": 1638532057,
+        "published": "December 3, 2021 6:47 AM"
+    },
+    {
+        "title": "Germany steps closer to making Covid vaccines mandatory, imposes strict curbs on unvaccinated",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/12/03/germany-could-soon-make-covid-vaccines-mandatory.html",
+        "sentiment": -2,
+        "timestamp": 1638533233,
+        "published": "December 3, 2021 7:07 AM"
+    },
+    {
+        "title": "Voting rights advocates frustrated by ‘same-old, same-old’ meeting with White House",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/03/voting-rights-advocates-frustrated-meeting-white-house",
+        "sentiment": -2,
+        "timestamp": 1638534666,
+        "published": "December 3, 2021 7:31 AM"
+    },
+    {
+        "title": "Federal judge blocks Gov. Greg Abbott's Texas social media censorship law before it takes effect",
+        "domain": "chron.com",
+        "category": "politics",
+        "link": "https://www.chron.com/politics/article/Texas-Greg-Abbott-social-media-censorship-law-16668725.php",
+        "sentiment": -1,
+        "timestamp": 1638535008,
+        "published": "December 3, 2021 7:36 AM"
+    },
+    {
+        "title": "GOP Reject Vaccine Mandates for Men, But Demand Pregnancy Mandates for Women | One way to explain these contradictions in Republican ideology is sexism. Right wing ideology is about male power and men controlling women, including controlling the bodies of women.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2021/12/02/gop-reject-vaccine-mandates-men-demand-pregnancy-mandates-women",
+        "sentiment": -2,
+        "timestamp": 1638536782,
+        "published": "December 3, 2021 8:06 AM"
+    },
+    {
+        "title": "Fauci calls out Fox News for letting host compare him to Nazi doctor: 'Astounded'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/media/584180-fauci-calls-out-fox-news-for-letting-host-compare-him-to-nazi-doctor-astounded",
+        "sentiment": 0,
+        "timestamp": 1638536907,
+        "published": "December 3, 2021 8:08 AM"
+    },
+    {
+        "title": "Microsoft backtracks on Windows 11’s controversial default browser changes | Windows 11 will now make it easier to change default browsers",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/3/22815209/microsoft-windows-11-default-browser-button-changes",
+        "sentiment": -2,
+        "timestamp": 1638537445,
+        "published": "December 3, 2021 8:17 AM"
+    },
+    {
+        "title": "Roe 'settled' law? Justices' earlier assurances now in doubt | AP News",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/us-supreme-court-election-2020-amy-coney-barrett-brett-kavanaugh-confirmation-hearings-084bd8c246cce2418f7cc49a1cd31cd5",
+        "sentiment": -1,
+        "timestamp": 1638538577,
+        "published": "December 3, 2021 8:36 AM"
+    },
+    {
+        "title": "Donald Trump faces flurry of investigations beyond Jan. 6 probe",
+        "domain": "cleveland.com",
+        "category": "politics",
+        "link": "https://www.cleveland.com/news/2021/12/donald-trump-faces-flurry-of-investigations-beyond-jan-6-probe.html",
+        "sentiment": 0,
+        "timestamp": 1638538841,
+        "published": "December 3, 2021 8:40 AM"
+    },
+    {
+        "title": "Bomb squad called to Gloucestershire Royal Hospital after man gets WWII mortar stuck up his bottom",
+        "domain": "gloucestershirelive.co.uk",
+        "category": "news",
+        "link": "https://www.gloucestershirelive.co.uk/news/gloucester-news/bomb-squad-called-gloucestershire-royal-6298076",
+        "sentiment": -3,
+        "timestamp": 1638539916,
+        "published": "December 3, 2021 8:58 AM"
+    },
+    {
+        "title": "Peacemaker | Official Trailer | HBO Max",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=hgR0skiaVSo",
+        "sentiment": 0,
+        "timestamp": 1638540055,
+        "published": "December 3, 2021 9:00 AM"
+    },
+    {
+        "title": "Former Cook County sheriff's officer from Burr Ridge charged with international drug trafficking",
+        "domain": "abc7chicago.com",
+        "category": "news",
+        "link": "https://abc7chicago.com/cook-county-sheriff-officer-drug-trafficking-homeland-security/11294336/",
+        "sentiment": -3,
+        "timestamp": 1638540286,
+        "published": "December 3, 2021 9:04 AM"
+    },
+    {
+        "title": "Jury awards North Carolina man $6M after ruling police fabricated evidence",
+        "domain": "wsoctv.com",
+        "category": "news",
+        "link": "https://www.wsoctv.com/news/trending/jury-awards-north-carolina-man-6m-after-ruling-police-fabricated-evidence/NA2TF4LE7JE4RPCPMUYH25VVT4/",
+        "sentiment": 3,
+        "timestamp": 1638541169,
+        "published": "December 3, 2021 9:19 AM"
+    },
+    {
         "title": "The rescue of Parwana: 9-year-old sold into child marriage in Afghanistan is taken to safety",
         "domain": "cnn.com",
         "category": "worldnews",
