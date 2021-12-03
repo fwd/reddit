@@ -1,5 +1,41 @@
 [
     {
+        "title": "A 14-year-old girl was shot and killed by her brother, who was making and selling guns, Georgia sheriff says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/kyra-scott-14-year-old-killed-brother/index.html",
+        "sentiment": -3,
+        "timestamp": 1638489452,
+        "published": "December 2, 2021 6:57 PM"
+    },
+    {
+        "title": "Google delays mandatory return to office beyond Jan. 10",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/europe/google-delays-return-office-europe-middle-east-africa-business-insider-2021-12-02/",
+        "sentiment": -1,
+        "timestamp": 1638490065,
+        "published": "December 2, 2021 7:07 PM"
+    },
+    {
+        "title": "Covid: Germany puts major restrictions on unvaccinated",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-59502180",
+        "sentiment": 0,
+        "timestamp": 1638491723,
+        "published": "December 2, 2021 7:35 PM"
+    },
+    {
+        "title": "Facebook removes Chinese network over fake ‘Swiss biologist’ coronavirus claims",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3158100/facebook-removes-chinese-network-over-fake-swiss",
+        "sentiment": -3,
+        "timestamp": 1638491732,
+        "published": "December 2, 2021 7:35 PM"
+    },
+    {
         "title": "DOJ probing Andrew Cuomo sex harassment claims, contract reveals",
         "domain": "cnbc.com",
         "category": "news",
