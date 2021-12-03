@@ -1,5 +1,77 @@
 [
     {
+        "title": "Judge orders pro-Trump election lawyers to pay $175,000 in sanctions",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/584124-judge-orders-pro-trump-election-lawyers-to-pay-175000-in-sanctions",
+        "sentiment": -1,
+        "timestamp": 1638485391,
+        "published": "December 2, 2021 5:49 PM"
+    },
+    {
+        "title": "Kayleigh McEnany says she didn't lie in the White House briefing room because she went to Oxford, Harvard, and Georgetown and is a Christian",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kayleigh-mcenany-claims-she-didnt-lie-education-religion-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638486241,
+        "published": "December 2, 2021 6:04 PM"
+    },
+    {
+        "title": "Right wing steers country toward white supremacy and dictatorship",
+        "domain": "peoplesworld.org",
+        "category": "politics",
+        "link": "https://www.peoplesworld.org/article/right-wing-steers-country-toward-white-supremacy-and-dictatorship/",
+        "sentiment": 0,
+        "timestamp": 1638487244,
+        "published": "December 2, 2021 6:20 PM"
+    },
+    {
+        "title": "What's Leaving Netflix in January 2022",
+        "domain": "whats-on-netflix.com",
+        "category": "television",
+        "link": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-january-2022/",
+        "sentiment": 0,
+        "timestamp": 1638488237,
+        "published": "December 2, 2021 6:37 PM"
+    },
+    {
+        "title": "New York officials confirm 5 cases of omicron Covid variant in NYC metro area",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/02/new-york-omicron-covid-variant.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+        "sentiment": 0,
+        "timestamp": 1638493710,
+        "published": "December 2, 2021 8:08 PM"
+    },
+    {
+        "title": "Capitol Rioter Says He Was 'In The Bathroom Pooping' During Violence",
+        "domain": "coralspringstalk.com",
+        "category": "news",
+        "link": "https://coralspringstalk.com/capitol-rioter-36419",
+        "sentiment": -3,
+        "timestamp": 1638497954,
+        "published": "December 2, 2021 9:19 PM"
+    },
+    {
+        "title": "Australian city council to ban pet cats from going outside to protect wildlife",
+        "domain": "original.newsbreak.com",
+        "category": "worldnews",
+        "link": "https://original.newsbreak.com/@polarbear-1588488/2450630307421-australian-city-council-to-ban-pet-cats-from-going-outside-to-protect-wildlife?s=influencer",
+        "sentiment": -1,
+        "timestamp": 1638498774,
+        "published": "December 2, 2021 9:32 PM"
+    },
+    {
+        "title": "New Covid drug that cuts death by 80% approved in UK amid fight against Omicron",
+        "domain": "thesun.co.uk",
+        "category": "worldnews",
+        "link": "https://www.thesun.co.uk/health/16915105/new-covid-drug-sotrovimab-approved/",
+        "sentiment": -2,
+        "timestamp": 1638499279,
+        "published": "December 2, 2021 9:41 PM"
+    },
+    {
         "title": "Sidney Powell, L. Lin Wood, among attorneys ordered to pay $180,000 over Michigan ‘Kraken’ suit",
         "domain": "washingtonpost.com",
         "category": "politics",
