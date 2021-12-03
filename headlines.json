@@ -1,5 +1,86 @@
 [
     {
+        "title": "DeSantis proposes civilian Florida State Guard military force he would control",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/584178-desantis-proposes-civilian-florida-state-guard-military-force-he-would",
+        "sentiment": 0,
+        "timestamp": 1638536238,
+        "published": "December 3, 2021 7:57 AM"
+    },
+    {
+        "title": "Plans to mine Ecuador forest violate rights of nature, court rules",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/dec/02/plan-to-mine-in-ecuador-forest-violate-rights-of-nature-court-rules-aoe",
+        "sentiment": -2,
+        "timestamp": 1638538553,
+        "published": "December 3, 2021 8:35 AM"
+    },
+    {
+        "title": "Stacey Abrams Could Win This Time",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/12/stacey-abrams-georgia-governor-brian-kemp-david-perdue-trump.html",
+        "sentiment": 4,
+        "timestamp": 1638538756,
+        "published": "December 3, 2021 8:39 AM"
+    },
+    {
+        "title": "Shell to go ahead with seismic tests in whale breeding grounds after court win | Royal Dutch Shell",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/business/2021/dec/03/shell-go-ahead-seismic-tests-whale-breeding-grounds-court-oil-south-africa",
+        "sentiment": 4,
+        "timestamp": 1638540281,
+        "published": "December 3, 2021 9:04 AM"
+    },
+    {
+        "title": "“Texas Is Not a Red State. It Is an Underorganized State.”",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/12/greg-casar-democratic-socialist-texas-austin-congress",
+        "sentiment": 0,
+        "timestamp": 1638540537,
+        "published": "December 3, 2021 9:08 AM"
+    },
+    {
+        "title": "14 arrested over L.A. smash-and-grab thefts, but all released as leaders call for end to COVID no-bail policy",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/los-angeles-theft-robberies-smash-and-grab-arrests/",
+        "sentiment": -3,
+        "timestamp": 1638541260,
+        "published": "December 3, 2021 9:21 AM"
+    },
+    {
+        "title": "4 officers denied immunity over 2017 fatal arrest attempt",
+        "domain": "kgun9.com",
+        "category": "news",
+        "link": "https://www.kgun9.com/news/local-news/4-officers-denied-immunity-over-2017-fatal-arrest-attempt",
+        "sentiment": -7,
+        "timestamp": 1638541424,
+        "published": "December 3, 2021 9:23 AM"
+    },
+    {
+        "title": "The Girl Before | Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=-1HyBURU0Lk",
+        "sentiment": 0,
+        "timestamp": 1638544172,
+        "published": "December 3, 2021 10:09 AM"
+    },
+    {
+        "title": "Tiger King: The Doc Antle Story | Official Trailer | December 10",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/ERGr036yF7Y",
+        "sentiment": 0,
+        "timestamp": 1638545677,
+        "published": "December 3, 2021 10:34 AM"
+    },
+    {
         "title": "Gazprom Gains Control of Russia’s Top Social Network",
         "domain": "themoscowtimes.com",
         "category": "technology",
