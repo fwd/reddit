@@ -1,5 +1,86 @@
 [
     {
+        "title": "Sidney Powell filed false incorporation papers for non-profit, grand jury finds",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/03/sidney-powell-filed-false-incorporation-papers-for-non-profit-grand-jury-finds",
+        "sentiment": 2,
+        "timestamp": 1638561643,
+        "published": "December 3, 2021 3:00 PM"
+    },
+    {
+        "title": "Italy No Vax leader changes his mind after covid scare: 'Vaccines save lives'",
+        "domain": "wantedinrome.com",
+        "category": "news",
+        "link": "https://www.wantedinrome.com/news/italy-no-vax-leader-now-says-covid-vaccines-save-lives.html",
+        "sentiment": -1,
+        "timestamp": 1638562182,
+        "published": "December 3, 2021 3:09 PM"
+    },
+    {
+        "title": "Wisconsin's Democratic governor vetoes GOP abortion bills",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/abortion-us-supreme-court-health-wisconsin-legislature-d93a00fc408f40da142a4a7856783da3",
+        "sentiment": 0,
+        "timestamp": 1638562398,
+        "published": "December 3, 2021 3:13 PM"
+    },
+    {
+        "title": "“No, I Have Not Been Fired From The Goldbergs”: Jeff Garlin Responds to Talk of Misbehavior on Set",
+        "domain": "vanityfair.com",
+        "category": "television",
+        "link": "https://www.vanityfair.com/hollywood/2021/12/jeff-garlin-responds-to-talk-of-misbehavior-on-set",
+        "sentiment": -2,
+        "timestamp": 1638564520,
+        "published": "December 3, 2021 3:48 PM"
+    },
+    {
+        "title": "Lewis Hamilton condemns Saudi Arabia's 'terrifying' LGBTQ+ laws ahead of race and says it is 'not my choice to be here'",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/lewis-hamilton-condemns-saudi-arabias-terrifying-lgbtq-laws-ahead-of-race-and-says-it-is-not-my-choice-to-be-here-12484987?dcmp=snt-sf-twitter",
+        "sentiment": -2,
+        "timestamp": 1638564688,
+        "published": "December 3, 2021 3:51 PM"
+    },
+    {
+        "title": "US State Department phones were reportedly hacked by NSO spyware",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/3/22816068/us-state-department-officials-nso-pegasus-uganda-government-spyware",
+        "sentiment": -1,
+        "timestamp": 1638565756,
+        "published": "December 3, 2021 4:09 PM"
+    },
+    {
+        "title": "It’s time to say it: The conservatives on the Supreme Court lied to us all",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/03/supreme-court-conservatives-lied/",
+        "sentiment": 2,
+        "timestamp": 1638565927,
+        "published": "December 3, 2021 4:12 PM"
+    },
+    {
+        "title": "As Jack Dorsey exits Twitter, company’s lobbying on the rise",
+        "domain": "opensecrets.org",
+        "category": "technology",
+        "link": "https://www.opensecrets.org/news/2021/12/jack-dorsey-exits-twitter-companys-lobbying-rise/?utm_source=Reddit&utm_medium=social&utm_campaign=r%2Ftwitter-lobbying%2F12%2F3%2F21",
+        "sentiment": -1,
+        "timestamp": 1638568782,
+        "published": "December 3, 2021 4:59 PM"
+    },
+    {
+        "title": "Fading Ratings: How Far Broadcast TV Has Tumbled Since 2015",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/vip/fading-ratings-how-far-broadcast-tv-has-tumbled-since-2015-1235124641/",
+        "sentiment": 0,
+        "timestamp": 1638570451,
+        "published": "December 3, 2021 5:27 PM"
+    },
+    {
         "title": "U.S. rebuffed B.C.’s pleas to shore up dike for $29-million. Now, flood damage will hit $1-billion",
         "domain": "theglobeandmail.com",
         "category": "worldnews",
