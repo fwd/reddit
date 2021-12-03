@@ -1,5 +1,140 @@
 [
     {
+        "title": "Wikipedia is swimming in money—why is it begging people to donate?",
+        "domain": "dailydot.com",
+        "category": "technology",
+        "link": "https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/",
+        "sentiment": 2,
+        "timestamp": 1638527781,
+        "published": "December 3, 2021 5:36 AM"
+    },
+    {
+        "title": "Georgia becomes ground zero for 2022 elections",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/584111-georgia-becomes-ground-zero-for-2022-elections",
+        "sentiment": 0,
+        "timestamp": 1638531688,
+        "published": "December 3, 2021 6:41 AM"
+    },
+    {
+        "title": "In Pakistan Mob lynches Sri Lankan factory worker to death, burns corpse over blasphemy allegations",
+        "domain": "geo.tv",
+        "category": "worldnews",
+        "link": "https://www.geo.tv/latest/385708-foreign-manager-tortured-to-death-in-sialkot-by-factory-workers",
+        "sentiment": -5,
+        "timestamp": 1638539416,
+        "published": "December 3, 2021 8:50 AM"
+    },
+    {
+        "title": "Investors Snap Up Metaverse Real Estate in a Virtual Land Boom",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2021/11/30/business/metaverse-real-estate.html",
+        "sentiment": 0,
+        "timestamp": 1638541037,
+        "published": "December 3, 2021 9:17 AM"
+    },
+    {
+        "title": "U.S. Covid vaccinations spike as several states confirm omicron cases",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/03/us-covid-vaccinations-spike-as-several-states-confirm-omicron-cases.html",
+        "sentiment": 0,
+        "timestamp": 1638541091,
+        "published": "December 3, 2021 9:18 AM"
+    },
+    {
+        "title": "Xinjiang: Twitter closes thousands of China state-linked accounts spreading propaganda | The Guardian",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/03/xinjiang-twitter-closes-thousands-of-china-state-linked-accounts-spreading-propaganda",
+        "sentiment": -2,
+        "timestamp": 1638541334,
+        "published": "December 3, 2021 9:22 AM"
+    },
+    {
+        "title": "Oklahoma governor, AG sue Defense Department over vaccine requirement",
+        "domain": "navytimes.com",
+        "category": "news",
+        "link": "https://www.navytimes.com/news/pentagon-congress/2021/12/03/oklahoma-governor-ag-sue-defense-department-over-vaccine-requirement/",
+        "sentiment": -2,
+        "timestamp": 1638542509,
+        "published": "December 3, 2021 9:41 AM"
+    },
+    {
+        "title": "Opinion: The bombshell about Trump testing positive also implicates the Trump family",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/02/trump-tested-positive-covid-debate-melania-family/",
+        "sentiment": 2,
+        "timestamp": 1638542826,
+        "published": "December 3, 2021 9:47 AM"
+    },
+    {
+        "title": "Why Can’t Democrats Make GOP Extremism a Campaign Issue?",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164599/democrats-campaign-issue-republican-extremism",
+        "sentiment": 0,
+        "timestamp": 1638544680,
+        "published": "December 3, 2021 10:18 AM"
+    },
+    {
+        "title": "Schools relying on employees to work multiple jobs amid staffing crisis",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/schools-staff-teacher-shortages/",
+        "sentiment": -3,
+        "timestamp": 1638545131,
+        "published": "December 3, 2021 10:25 AM"
+    },
+    {
+        "title": "Ted Cruz Is the Disease",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/politics/cruz-fauci/",
+        "sentiment": -1,
+        "timestamp": 1638545823,
+        "published": "December 3, 2021 10:37 AM"
+    },
+    {
+        "title": "Fauci slams Fox News for not disciplining Lara Logan for comparing him to a Nazi doctor",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fauci-slams-fox-news-over-lara-logan-comparing-him-to-nazi-doctor-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638546554,
+        "published": "December 3, 2021 10:49 AM"
+    },
+    {
+        "title": "Rural North Dakota superintendent sends anti-'woke' tirade to school administrators across the state",
+        "domain": "grandforksherald.com",
+        "category": "news",
+        "link": "https://www.grandforksherald.com/news/education/7306787-Rural-North-Dakota-superintendent-sends-anti-woke-tirade-to-school-administrators-across-the-state",
+        "sentiment": 0,
+        "timestamp": 1638547171,
+        "published": "December 3, 2021 10:59 AM"
+    },
+    {
+        "title": "U.S. Indicts Two Men for Running a $20 Million YouTube Content ID Scam",
+        "domain": "torrentfreak.com",
+        "category": "technology",
+        "link": "https://torrentfreak.com/u-s-indicts-two-men-for-running-a-20-million-youtube-content-id-scam-211203/",
+        "sentiment": -2,
+        "timestamp": 1638547998,
+        "published": "December 3, 2021 11:13 AM"
+    },
+    {
+        "title": "Fake COVID-19 vaccine certificates are being sold on the dark web",
+        "domain": "newscientist.com",
+        "category": "technology",
+        "link": "https://www.newscientist.com/article/2299962-fake-covid-19-vaccine-certificates-are-being-sold-on-the-dark-web/",
+        "sentiment": -3,
+        "timestamp": 1638548649,
+        "published": "December 3, 2021 11:24 AM"
+    },
+    {
         "title": "DeSantis proposes civilian Florida State Guard military force he would control",
         "domain": "thehill.com",
         "category": "politics",
