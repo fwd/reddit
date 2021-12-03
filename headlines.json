@@ -1,5 +1,140 @@
 [
     {
+        "title": "‘We just feel it’: Racism plagues US military academies",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/business-race-and-ethnicity-racial-injustice-army-only-on-ap-2975ab7e8d4fde2f275179e088878fb0",
+        "sentiment": -6,
+        "timestamp": 1638545717,
+        "published": "December 3, 2021 10:35 AM"
+    },
+    {
+        "title": "Opinion: Lauren Boebert and Marjorie Taylor Greene aren’t fringe. They’re leading indicators.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/03/boebert-greene-gop-war-ilhan-omar/",
+        "sentiment": 2,
+        "timestamp": 1638549963,
+        "published": "December 3, 2021 11:46 AM"
+    },
+    {
+        "title": "65M women could lose abortion rights in Supreme Court case",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/584138-65m-women-could-lose-abortion-rights-in-supreme-court-case",
+        "sentiment": 4,
+        "timestamp": 1638550286,
+        "published": "December 3, 2021 11:51 AM"
+    },
+    {
+        "title": "‘Enemy combatant’ held at Guantánamo petitions for release because war is over | Guantánamo Bay",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/03/guantanamo-abu-zubaydah-war-is-over-afghanistan-court-filing",
+        "sentiment": -2,
+        "timestamp": 1638550948,
+        "published": "December 3, 2021 12:02 PM"
+    },
+    {
+        "title": "Facebook's struggle with Gateway Pundit highlights disinformation challenge",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/media-telecom/facebooks-struggle-with-gateway-pundit-highlights-challenge-containing-2021-12-03/",
+        "sentiment": -3,
+        "timestamp": 1638552216,
+        "published": "December 3, 2021 12:23 PM"
+    },
+    {
+        "title": "Sri Lankan manager killed by mob of workers at Pakistan factory",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/sri-lankan-manager-killed-by-mob-workers-pakistan-garment-factory-2021-12-03/",
+        "sentiment": -3,
+        "timestamp": 1638553183,
+        "published": "December 3, 2021 12:39 PM"
+    },
+    {
+        "title": "Amazon, can we have our name back?",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/interactive/2021/people-named-alexa-name-change-amazon/",
+        "sentiment": 0,
+        "timestamp": 1638553452,
+        "published": "December 3, 2021 12:44 PM"
+    },
+    {
+        "title": "Emails show what happened before Missouri gov. falsely called journalist a “hacker”",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/12/missouri-planned-to-thank-security-journalist-before-governor-called-him-a-hacker/",
+        "sentiment": -2,
+        "timestamp": 1638553512,
+        "published": "December 3, 2021 12:45 PM"
+    },
+    {
+        "title": "Parents of 15-year-old Oxford shooter suspect charged after ignoring son's disturbing behavior",
+        "domain": "metrotimes.com",
+        "category": "news",
+        "link": "https://www.metrotimes.com/news-hits/archives/2021/12/03/parents-of-15-year-old-oxford-shooter-suspect-charged-after-ignoring-sons-disturbing-behavior",
+        "sentiment": -6,
+        "timestamp": 1638554009,
+        "published": "December 3, 2021 12:53 PM"
+    },
+    {
+        "title": "Michigan shooter’s parents charged with involuntary manslaughter.",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/amp/michigan-school-shooting-ethan-crumbleys-parents-charged-with-involuntary-manslaughter-12485646",
+        "sentiment": -6,
+        "timestamp": 1638554070,
+        "published": "December 3, 2021 12:54 PM"
+    },
+    {
+        "title": "Biden warns Russia's Vladimir Putin against Ukraine invasion",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/joe-biden-europe-russia-ukraine-vladimir-putin-9ef2a191af25e2920a0a1c75ccbe4c13",
+        "sentiment": -3,
+        "timestamp": 1638554464,
+        "published": "December 3, 2021 1:01 PM"
+    },
+    {
+        "title": "Twitter closes thousands of China state-linked accounts spreading propaganda | Xinjiang",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/03/xinjiang-twitter-closes-thousands-of-china-state-linked-accounts-spreading-propaganda",
+        "sentiment": -2,
+        "timestamp": 1638554650,
+        "published": "December 3, 2021 1:04 PM"
+    },
+    {
+        "title": "Peacock Orders 'Supernatural Academy' Animated Series",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/peacock-supernatural-academy-animated-series-1235125623/",
+        "sentiment": 0,
+        "timestamp": 1638554786,
+        "published": "December 3, 2021 1:06 PM"
+    },
+    {
+        "title": "‘The robbery is like a football match’: blockbuster binge-watch Money Heist bows out",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/world/2021/dec/03/money-heist-bows-out-creator-spanish-series-alex-pina",
+        "sentiment": 5,
+        "timestamp": 1638555534,
+        "published": "December 3, 2021 1:18 PM"
+    },
+    {
+        "title": "Did HBO Max Win the Year?",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2021/12/did-hbo-max-win-the-year.html",
+        "sentiment": 4,
+        "timestamp": 1638556055,
+        "published": "December 3, 2021 1:27 PM"
+    },
+    {
         "title": "Ukraine says Russia amassed over 94,000 troops at border",
         "domain": "apnews.com",
         "category": "worldnews",
