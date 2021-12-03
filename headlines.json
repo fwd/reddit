@@ -1,5 +1,86 @@
 [
     {
+        "title": "Sidney Powell, L. Lin Wood, among attorneys ordered to pay $180,000 over Michigan ‘Kraken’ suit",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/sidney-powell-lin-wood-michigan-legal-fees/2021/12/02/a9e81e96-53bd-11ec-8769-2f4ecdf7a2ad_story.html",
+        "sentiment": -1,
+        "timestamp": 1638489429,
+        "published": "December 2, 2021 6:57 PM"
+    },
+    {
+        "title": "DeSantis proposes a new civilian military force in Florida that he would control",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html",
+        "sentiment": 0,
+        "timestamp": 1638492166,
+        "published": "December 2, 2021 7:42 PM"
+    },
+    {
+        "title": "New cases of omicron variant found in Minnesota, Colorado, New York",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/minnesota-omicron-variant-case-rcna6909",
+        "sentiment": 0,
+        "timestamp": 1638492566,
+        "published": "December 2, 2021 7:49 PM"
+    },
+    {
+        "title": "Hawaii confirms its first case of Omicron variant; patient had no travel history",
+        "domain": "hawaiinewsnow.com",
+        "category": "news",
+        "link": "https://www.hawaiinewsnow.com/2021/12/02/live-state-epidemiologist-holds-news-conference-discuss-covid-hawaii/",
+        "sentiment": -1,
+        "timestamp": 1638493057,
+        "published": "December 2, 2021 7:57 PM"
+    },
+    {
+        "title": "Thousands facing heart problems due to ‘post-pandemic stress disorder’",
+        "domain": "standard.co.uk",
+        "category": "news",
+        "link": "https://www.standard.co.uk/news/health/post-pandemic-stress-disorder-heart-conditions-covid-london-physicians-b969436.html?amp",
+        "sentiment": -3,
+        "timestamp": 1638493597,
+        "published": "December 2, 2021 8:06 PM"
+    },
+    {
+        "title": "This Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control",
+        "domain": "synack.com",
+        "category": "technology",
+        "link": "https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/",
+        "sentiment": -2,
+        "timestamp": 1638494964,
+        "published": "December 2, 2021 8:29 PM"
+    },
+    {
+        "title": "Russia’s activity on the Ukraine border has put the west on edge",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/ukraine-border-russia-west-troop-buildup",
+        "sentiment": 0,
+        "timestamp": 1638495007,
+        "published": "December 2, 2021 8:30 PM"
+    },
+    {
+        "title": "Facebook sold ads comparing vaccine to Holocaust",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/12/02/tech/facebook-vaccine-holocaust-misinformation/index.html",
+        "sentiment": 0,
+        "timestamp": 1638496268,
+        "published": "December 2, 2021 8:51 PM"
+    },
+    {
+        "title": "Another Porn Site Says Banks Forced It to Stop Paying Sex Workers",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/jgmm9g/avn-stars-porn-site-monetized-content-banks",
+        "sentiment": -2,
+        "timestamp": 1638496360,
+        "published": "December 2, 2021 8:52 PM"
+    },
+    {
         "title": "A 14-year-old girl was shot and killed by her brother, who was making and selling guns, Georgia sheriff says",
         "domain": "cnn.com",
         "category": "news",
