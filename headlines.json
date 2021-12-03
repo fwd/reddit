@@ -1,5 +1,86 @@
 [
     {
+        "title": "DOJ probing Andrew Cuomo sex harassment claims, contract reveals",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/02/doj-probing-andrew-cuomo-sex-harassment-claims-contract-reveals.html",
+        "sentiment": -3,
+        "timestamp": 1638477033,
+        "published": "December 2, 2021 3:30 PM"
+    },
+    {
+        "title": "The supply chain crisis is wreaking havoc on the environment as carbon emissions from ships and seaports reach the highest rate since 2008",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/money/markets/the-supply-chain-crisis-is-wreaking-havoc-on-the-environment-as-carbon-emissions-from-ships-and-seaports-reach-the-highest-rate-since-2008/ar-AARoMGh",
+        "sentiment": -4,
+        "timestamp": 1638482777,
+        "published": "December 2, 2021 5:06 PM"
+    },
+    {
+        "title": "NFL suspends three players, including Bucs' Antonio Brown, for violating Covid-19 protocols",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/nfl-suspensions-covid-protocols/index.html",
+        "sentiment": -2,
+        "timestamp": 1638483345,
+        "published": "December 2, 2021 5:15 PM"
+    },
+    {
+        "title": "More than 40 House Democrats call for Boebert to be stripped of committee assignments over anti-Muslim attacks",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/12/02/more-than-40-house-democrats-call-boebert-be-stripped-committee-assignments-over-anti-muslim-attacks/",
+        "sentiment": -1,
+        "timestamp": 1638484067,
+        "published": "December 2, 2021 5:27 PM"
+    },
+    {
+        "title": "How I-45 between Houston and Dallas became nation's premier test track for driverless big rigs",
+        "domain": "houstonchronicle.com",
+        "category": "technology",
+        "link": "https://www.houstonchronicle.com/business/article/How-I-45-between-Houston-and-Dallas-became-16669824.php",
+        "sentiment": 1,
+        "timestamp": 1638484658,
+        "published": "December 2, 2021 5:37 PM"
+    },
+    {
+        "title": "Dragnet - Joe Friday Being a Cop Speech",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/IMc3RS_afSE",
+        "sentiment": 0,
+        "timestamp": 1638486664,
+        "published": "December 2, 2021 6:11 PM"
+    },
+    {
+        "title": "British Columbia releases first animal death toll from its catastrophic floods: 628,000 chickens, 12,000 pigs, 420 cows. Over 800 farms are still under evacuation.",
+        "domain": "bc.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://bc.ctvnews.ca/livestock-death-toll-from-b-c-flooding-628-000-poultry-12-000-hogs-420-cows-1.5691405",
+        "sentiment": -7,
+        "timestamp": 1638488746,
+        "published": "December 2, 2021 6:45 PM"
+    },
+    {
+        "title": "FTC sues to block Nvidia's $40 billion acquisition of Arm",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2021/12/02/ftc-nvidia-arm-chip-company/",
+        "sentiment": -3,
+        "timestamp": 1638489252,
+        "published": "December 2, 2021 6:54 PM"
+    },
+    {
+        "title": "Chilean environmental activist who opposed dam projects found dead | Global development",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/global-development/2021/dec/02/chilean-environmental-activist-opposition-dam-projects-found-dead",
+        "sentiment": -3,
+        "timestamp": 1638489953,
+        "published": "December 2, 2021 7:05 PM"
+    },
+    {
         "title": "EU demands Italy enforce penalties for diesel emissions cheating devices",
         "domain": "reuters.com",
         "category": "worldnews",
