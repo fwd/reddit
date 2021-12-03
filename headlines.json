@@ -1,5 +1,68 @@
 [
     {
+        "title": "India: The granny who learnt to read and write at 104",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/av/world-asia-india-59503872",
+        "sentiment": 0,
+        "timestamp": 1638524901,
+        "published": "December 3, 2021 4:48 AM"
+    },
+    {
+        "title": "Airbnb allegedly hosts Xinjiang rentals on land owned by sanctioned group",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/dec/01/airbnb-allegedly-hosts-xinjiang-rentals-on-land-owned-by-sanctioned-group",
+        "sentiment": 0,
+        "timestamp": 1638525948,
+        "published": "December 3, 2021 5:05 AM"
+    },
+    {
+        "title": "Spotify CEO invests $100M in AI defense tech. Artists say to boycot spotify",
+        "domain": "musictech.com",
+        "category": "worldnews",
+        "link": "https://musictech.com/news/industry/artists-boycott-spotify-as-ceo-invests-e100m-in-ai-defense-tech-its-a-complete-contradiction-of-our-music-philosophy/",
+        "sentiment": 0,
+        "timestamp": 1638527148,
+        "published": "December 3, 2021 5:25 AM"
+    },
+    {
+        "title": "Surgeon fined $3,000 for amputating patient's wrong leg",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/health/austria-surgeon-fine-amputation-scli-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1638529007,
+        "published": "December 3, 2021 5:56 AM"
+    },
+    {
+        "title": "France detects highly pathogenic bird flu on poultry farm in north - farm ministry",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/france-detects-highly-pathogenic-bird-flu-poultry-farm-north-farm-ministry-2021-11-27/",
+        "sentiment": -2,
+        "timestamp": 1638529705,
+        "published": "December 3, 2021 6:08 AM"
+    },
+    {
+        "title": "Anti-vaccine Christian broadcaster Marcus Lamb dies after Covid battle",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/marcus-lamb-anti-vaccine-christian-broadcaster-dies-covid-battle-rcna7139?fbclid=IwAR2a5dtEexmHGKgpvClSgPzoEMyoVJ6Nio8wMt0daUF2o6iKQYpDcpyu8yI",
+        "sentiment": -1,
+        "timestamp": 1638533215,
+        "published": "December 3, 2021 7:06 AM"
+    },
+    {
+        "title": "A major milestone has been breached in the quest for fusion energy. For the first time, a fusion reaction has achieved a record 1.3 megajoule energy output – and for the first time, exceeding energy absorbed by the fuel used to trigger it.",
+        "domain": "sciencealert.com",
+        "category": "technology",
+        "link": "https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel",
+        "sentiment": -1,
+        "timestamp": 1638533352,
+        "published": "December 3, 2021 7:09 AM"
+    },
+    {
         "title": "NATO chief: \"Russia has no right to establish a sphere of influence\"",
         "domain": "axios.com",
         "category": "worldnews",
