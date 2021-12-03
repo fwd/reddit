@@ -1,5 +1,77 @@
 [
     {
+        "title": "Moderate Republicans are quitting as the GOP's big tent narrows",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/03/moderate-are-quitting-as-the-gops-big-tent-narrows/",
+        "sentiment": 1,
+        "timestamp": 1638550718,
+        "published": "December 3, 2021 11:58 AM"
+    },
+    {
+        "title": "Italian man tries to dodge Covid jab using fake arm",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59524527",
+        "sentiment": -3,
+        "timestamp": 1638552677,
+        "published": "December 3, 2021 12:31 PM"
+    },
+    {
+        "title": "The Republican party is abandoning democracy and embracing political violence",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2021/dec/03/republican-party-democracy-political-violence-trumpism",
+        "sentiment": -3,
+        "timestamp": 1638552895,
+        "published": "December 3, 2021 12:34 PM"
+    },
+    {
+        "title": "Federal judge finds Mississippi eviction law unconstitutional after 'Kafkaesque nightmare' removal",
+        "domain": "mississippitoday.org",
+        "category": "news",
+        "link": "https://mississippitoday.org/2021/12/02/mississippi-eviction-law-unconstitutional/",
+        "sentiment": -1,
+        "timestamp": 1638554042,
+        "published": "December 3, 2021 12:54 PM"
+    },
+    {
+        "title": "Progressive Lawmakers to Biden: 'Cancel Student Loan Debt.' All of It. Now.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/03/progressive-lawmakers-biden-cancel-student-loan-debt-all-it-now",
+        "sentiment": -2,
+        "timestamp": 1638554590,
+        "published": "December 3, 2021 1:03 PM"
+    },
+    {
+        "title": "Poland is planning to introduce a centralised register of pregnancies that would oblige doctors to report all pregnancies and miscarriages to the government.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/global-development/2021/dec/03/poland-plans-to-set-up-register-of-pregnancies-to-report-miscarriages",
+        "sentiment": 0,
+        "timestamp": 1638556950,
+        "published": "December 3, 2021 1:42 PM"
+    },
+    {
+        "title": "US State Department phones were hacked with NSO Group spyware",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html",
+        "sentiment": -1,
+        "timestamp": 1638558163,
+        "published": "December 3, 2021 2:02 PM"
+    },
+    {
+        "title": "Someone is hacking receipt printers with 'antiwork' messages",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/someone-is-hacking-receipt-printers-with-pro-worker-messages-115040881.html",
+        "sentiment": 0,
+        "timestamp": 1638558560,
+        "published": "December 3, 2021 2:09 PM"
+    },
+    {
         "title": "‘We just feel it’: Racism plagues US military academies",
         "domain": "apnews.com",
         "category": "politics",
