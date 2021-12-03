@@ -1,5 +1,212 @@
 [
     {
+        "title": "Ukraine says Russia amassed over 94,000 troops at border",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/europe-russia-ukraine-crimea-158c3406821bb207c07a279c5d48fadf",
+        "sentiment": 0,
+        "timestamp": 1638530818,
+        "published": "December 3, 2021 6:26 AM"
+    },
+    {
+        "title": "Large scale Russian offensive possible in January, Ukraine says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/large-scale-russian-offensive-possible-january-ukraine-says-2021-12-03/",
+        "sentiment": -2,
+        "timestamp": 1638531101,
+        "published": "December 3, 2021 6:31 AM"
+    },
+    {
+        "title": "Hundreds of telecoms towers downed in Myanmar coup resistance",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/hundreds-telecoms-towers-downed-myanmar-coup-resistance-2021-12-03/",
+        "sentiment": 0,
+        "timestamp": 1638535482,
+        "published": "December 3, 2021 7:44 AM"
+    },
+    {
+        "title": "Russia positions more forces, supply lines as fears rise of potential Ukraine invasion",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/03/politics/russian-forces-ukraine-border/index.html",
+        "sentiment": 0,
+        "timestamp": 1638542162,
+        "published": "December 3, 2021 9:36 AM"
+    },
+    {
+        "title": "Judge tears apart Texas social media law for violating First Amendment | Ruling blocks law that would force social networks to carry objectionable content.",
+        "domain": "arstechnica.com",
+        "category": "politics",
+        "link": "https://arstechnica.com/tech-policy/2021/12/texas-ban-on-social-media-censorship-violates-first-amendment-judge-rules/",
+        "sentiment": -5,
+        "timestamp": 1638542861,
+        "published": "December 3, 2021 9:47 AM"
+    },
+    {
+        "title": "Maryland homeowner sets house ablaze attempting to smoke out snake infestation",
+        "domain": "foxbaltimore.com",
+        "category": "news",
+        "link": "https://foxbaltimore.com/news/local/montgomery-co-homeowner-sets-house-ablaze-attempting-to-smoke-out-snake-infestation",
+        "sentiment": 0,
+        "timestamp": 1638546128,
+        "published": "December 3, 2021 10:42 AM"
+    },
+    {
+        "title": "Vatican takes in 12 migrants as Pope denounces 'indifference' shown towards refugees",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/pope-francis-europe-middle-east-religion-christianity-960363771a9963bc3300002a7d256501",
+        "sentiment": -2,
+        "timestamp": 1638547455,
+        "published": "December 3, 2021 11:04 AM"
+    },
+    {
+        "title": "From Abortion Bans to Anti-Trans Laws, a Christian Legal Army is Waging War on America",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2021/12/3/thinking_beyond_roe_amy_littlefield_abortion",
+        "sentiment": -1,
+        "timestamp": 1638548354,
+        "published": "December 3, 2021 11:19 AM"
+    },
+    {
+        "title": "‘Risky levels’: Australia is the drunkest country in the world, survey finds",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/australia-news/2021/dec/03/risky-levels-australia-is-the-drunkest-country-in-the-world-new-survey-finds",
+        "sentiment": 0,
+        "timestamp": 1638548803,
+        "published": "December 3, 2021 11:26 AM"
+    },
+    {
+        "title": "There is no doubt any more: the US supreme court is run by partisan hacks",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2021/dec/03/no-doubt-us-supreme-court-partisan-hacks",
+        "sentiment": 2,
+        "timestamp": 1638549235,
+        "published": "December 3, 2021 11:33 AM"
+    },
+    {
+        "title": "DA who released Waukesha suspect ahead of tragedy says it was the result of human error by an overworked staffer",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/waukesha-suspect-da-error/index.html",
+        "sentiment": -5,
+        "timestamp": 1638549481,
+        "published": "December 3, 2021 11:38 AM"
+    },
+    {
+        "title": "Italy fines Amazon, Apple $338 million for anticompetitive sales of Beats headphones",
+        "domain": "emarketer.com",
+        "category": "technology",
+        "link": "https://www.emarketer.com/content/italy-fines-amazon-apple-338-million-anticompetitive-sales-of-beats-headphones",
+        "sentiment": -2,
+        "timestamp": 1638549662,
+        "published": "December 3, 2021 11:41 AM"
+    },
+    {
+        "title": "On student-debt cancellation, AOC slams the 'ridiculous assertion' it would benefit the rich: 'Do we really think that a billionaire's child is taking student loans?'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-student-debt-cancellation-billionaires-child-student-loans-ayanna-pressley-2021-12",
+        "sentiment": 4,
+        "timestamp": 1638549939,
+        "published": "December 3, 2021 11:45 AM"
+    },
+    {
+        "title": "Omicron Triggers ‘Unprecedented’ COVID Surge Hitting Under 5s in South Africa",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/omicron-variant-puttings-huge-numbers-of-kids-under-5-years-old-in-hospital-in-south-africa",
+        "sentiment": 0,
+        "timestamp": 1638550343,
+        "published": "December 3, 2021 11:52 AM"
+    },
+    {
+        "title": "Rose McIver on the Reality of Playing a Power Ranger and the \"Theatrical\" Quality of Filming 'RPM'",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/rose-mciver-power-rangers-rpm-interview",
+        "sentiment": 3,
+        "timestamp": 1638550354,
+        "published": "December 3, 2021 11:52 AM"
+    },
+    {
+        "title": "Michigan prosecutor files involuntary manslaughter charges against suspect's parents in Oxford High School shooting",
+        "domain": "record-eagle.com",
+        "category": "news",
+        "link": "https://www.record-eagle.com/state/michigan-prosecutor-files-involuntary-manslaughter-charges-against-suspects-parents-in-oxford-high-school-shooting/article_3b1393cf-b4df-5cc9-884b-f1e70cf87d7a.html",
+        "sentiment": -5,
+        "timestamp": 1638550697,
+        "published": "December 3, 2021 11:58 AM"
+    },
+    {
+        "title": "Suspects parents charged in Michigan school shooting",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/743d8e262a35d07123732cb870186772",
+        "sentiment": -4,
+        "timestamp": 1638550745,
+        "published": "December 3, 2021 11:59 AM"
+    },
+    {
+        "title": "Dutch police arrested 50 people on Friday after Kurdish demonstrators alleging that Turkey is using chemical weapons in northern Iraq broke into the headquarters of the global toxic arms watchdog",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211203-kurdish-protesters-storm-chemical-weapons-body",
+        "sentiment": -7,
+        "timestamp": 1638550768,
+        "published": "December 3, 2021 11:59 AM"
+    },
+    {
+        "title": "EXCLUSIVE U.S. State Department phones hacked with Israeli company spyware",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/",
+        "sentiment": 1,
+        "timestamp": 1638551433,
+        "published": "December 3, 2021 12:10 PM"
+    },
+    {
+        "title": "Amazon charges sellers fees that are high enough to offset losses from Prime, a new report says",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/3/22813872/amazon-profit-small-business-fees-sellers-prime",
+        "sentiment": -5,
+        "timestamp": 1638551745,
+        "published": "December 3, 2021 12:15 PM"
+    },
+    {
+        "title": "A mysterious threat actor is running hundreds of malicious Tor relays",
+        "domain": "therecord.media",
+        "category": "technology",
+        "link": "https://therecord.media/a-mysterious-threat-actor-is-running-hundreds-of-malicious-tor-relays/",
+        "sentiment": -2,
+        "timestamp": 1638551854,
+        "published": "December 3, 2021 12:17 PM"
+    },
+    {
+        "title": "U.S. State Department phones hacked with Israeli company spyware",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/?rpc=401&",
+        "sentiment": -1,
+        "timestamp": 1638551857,
+        "published": "December 3, 2021 12:17 PM"
+    },
+    {
+        "title": "Hundreds of Solar Farms Built Atop Closed Landfills Are Turning Brownfields into Green Fields",
+        "domain": "goodnewsnetwork.org",
+        "category": "technology",
+        "link": "https://www.goodnewsnetwork.org/solar-energy-farms-built-on-landfills/#.YapT9quJ5Io.reddit",
+        "sentiment": 0,
+        "timestamp": 1638552588,
+        "published": "December 3, 2021 12:29 PM"
+    },
+    {
         "title": "Wikipedia is swimming in money—why is it begging people to donate?",
         "domain": "dailydot.com",
         "category": "technology",
