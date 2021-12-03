@@ -1,5 +1,50 @@
 [
     {
+        "title": "Israel's spy agency tricked Iranian scientists into helping bomb their own nuclear plant",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/world/israels-spy-agency-tricked-iranian-scientists-into-helping-bomb-their-own-nuclear-plant",
+        "sentiment": -1,
+        "timestamp": 1638511432,
+        "published": "December 3, 2021 1:03 AM"
+    },
+    {
+        "title": "Rights groups urge EU to ban NSO over clients’ use of Pegasus spyware",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/law/2021/dec/03/rights-groups-urge-eu-to-ban-nso-over-clients-use-of-pegasus-spyware",
+        "sentiment": -2,
+        "timestamp": 1638518607,
+        "published": "December 3, 2021 3:03 AM"
+    },
+    {
+        "title": "India achieves 40% power generation capacity from non-fossil fuels ahead of schedule",
+        "domain": "timesofindia.indiatimes.com",
+        "category": "worldnews",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/india-achieves-target-of-40-power-generation-capacity-from-non-fossil-fuel-sources/articleshow/88057024.cms",
+        "sentiment": 0,
+        "timestamp": 1638523053,
+        "published": "December 3, 2021 4:17 AM"
+    },
+    {
+        "title": "Jeffrey Epstein's house manager says staff was instructed to 'see nothing, hear nothing, say nothing'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/ghislaine-maxwell-trial-thursday/index.html",
+        "sentiment": 0,
+        "timestamp": 1638523289,
+        "published": "December 3, 2021 4:21 AM"
+    },
+    {
+        "title": "Finally, a Fusion Reaction Has Generated More Energy Than Absorbed by The Fuel",
+        "domain": "sciencealert.com",
+        "category": "technology",
+        "link": "https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel/amp",
+        "sentiment": 1,
+        "timestamp": 1638526206,
+        "published": "December 3, 2021 5:10 AM"
+    },
+    {
         "title": "World's largest shipping company, Maersk says it's giving away $80 million in bonuses to employees as it sets to make record profits this year",
         "domain": "businessinsider.com",
         "category": "worldnews",
