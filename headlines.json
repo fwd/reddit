@@ -1,5 +1,68 @@
 [
     {
+        "title": "Ethiopia closes schools to boost civil war effort",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-africa-59524707",
+        "sentiment": -1,
+        "timestamp": 1638562332,
+        "published": "December 3, 2021 3:12 PM"
+    },
+    {
+        "title": "Mitch McConnell Isn’t Even Trying to Pretend the GOP Has Any New Ideas",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/12/mitch-mcconnell-isnt-even-trying-to-pretend-gop-has-new-ideas",
+        "sentiment": -1,
+        "timestamp": 1638565190,
+        "published": "December 3, 2021 3:59 PM"
+    },
+    {
+        "title": "The last two people of the uncontacted Indigenous Piripkura community are on the brink as satellite images show cattle ranches expanding on their land in the Brazilian Amazon",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/12/they-will-die-fears-for-the-last-piripkura-as-amazon-invasion-ramps-up/",
+        "sentiment": 0,
+        "timestamp": 1638566272,
+        "published": "December 3, 2021 4:17 PM"
+    },
+    {
+        "title": "Fascists Are Already Weaponizing Twitter's New 'Private Media' Rule | A new Twitter rule against sharing \"personal media\" without consent is predictably being gamed by the far right.",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/fascists-are-already-weaponizing-twitters-new-private-m-1848158469",
+        "sentiment": 0,
+        "timestamp": 1638569604,
+        "published": "December 3, 2021 5:13 PM"
+    },
+    {
+        "title": "Majority of Canadians want to ditch the British monarchy",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8418373/can-canada-become-a-republic/",
+        "sentiment": 1,
+        "timestamp": 1638570460,
+        "published": "December 3, 2021 5:27 PM"
+    },
+    {
+        "title": "Prosecution rests after brothers testify Jussie Smollett directed them to carry out a fake racist and anti-gay attack",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/02/us/jussie-smollett-trial/index.html",
+        "sentiment": -8,
+        "timestamp": 1638570997,
+        "published": "December 3, 2021 5:36 PM"
+    },
+    {
+        "title": "‘BattleBots’ Returning at Discovery Channel",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/battlebots-new-season-premiere-date-discovery-channel-1235056208/?fbclid=IwAR2Xh3Jj-CA1GmS1LF6N7hVJfxKMaKQ83YBaVgsEcn32AJWPrlKtqShFVzg",
+        "sentiment": 0,
+        "timestamp": 1638572858,
+        "published": "December 3, 2021 6:07 PM"
+    },
+    {
         "title": "Sidney Powell filed false incorporation papers for non-profit, grand jury finds",
         "domain": "theguardian.com",
         "category": "politics",
