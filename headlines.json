@@ -1,5 +1,95 @@
 [
     {
+        "title": "Sanders Calls on Biden to Slash 'Outrageous' Medicare Premium Hike",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/03/sanders-calls-biden-slash-outrageous-medicare-premium-hike",
+        "sentiment": -2,
+        "timestamp": 1638562987,
+        "published": "December 3, 2021 3:23 PM"
+    },
+    {
+        "title": "Russia's Covid death toll hits 578,000 after deadliest month — is third highest in the world",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russias-covid-toll-hits-578000-after-deadliest-month-2021-12-03/",
+        "sentiment": -2,
+        "timestamp": 1638564408,
+        "published": "December 3, 2021 3:46 PM"
+    },
+    {
+        "title": "Almost 1000 teachers have left Hong Kong in the past year due to China's national security law",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-02/hong-kong-loses-1-000-teachers-in-year-to-crackdown-covid",
+        "sentiment": 0,
+        "timestamp": 1638566289,
+        "published": "December 3, 2021 4:18 PM"
+    },
+    {
+        "title": "Crime Prediction Software Promised to Be Free of Biases. New Data Shows It Perpetuates Them – The Markup",
+        "domain": "themarkup.org",
+        "category": "technology",
+        "link": "https://themarkup.org/prediction-bias/2021/12/02/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them",
+        "sentiment": -1,
+        "timestamp": 1638570417,
+        "published": "December 3, 2021 5:26 PM"
+    },
+    {
+        "title": "Five far-right extremists suspected of planning a terrorist bomb and gun attack have been remanded in custody in Finland. The five men from Kankaanpaa in the southwest were aged \"around 25\" and were arrested on Tuesday morning after being under surveillance for two years",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211203-five-arrested-in-finland-over-far-right-terror-plot",
+        "sentiment": -11,
+        "timestamp": 1638572626,
+        "published": "December 3, 2021 6:03 PM"
+    },
+    {
+        "title": "Hippos with runny noses test positive for COVID-19 at Belgian zoo",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/hippos-with-runny-noses-test-positive-for-covid-19-at-belgian-zoo/a-60015051",
+        "sentiment": 2,
+        "timestamp": 1638572992,
+        "published": "December 3, 2021 6:09 PM"
+    },
+    {
+        "title": "The US crackdown on Chinese economic espionage is a mess. We have the data to show it.",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2021/12/02/1040656/china-initative-us-justice-department/",
+        "sentiment": -2,
+        "timestamp": 1638574351,
+        "published": "December 3, 2021 6:32 PM"
+    },
+    {
+        "title": "Verizon May Have Just Enrolled You in a Data-Collection Scheme–Here's How to Get Out",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/verizon-may-have-just-enrolled-you-in-a-data-collection-1848156157",
+        "sentiment": 0,
+        "timestamp": 1638574575,
+        "published": "December 3, 2021 6:36 PM"
+    },
+    {
+        "title": "Lewis Hamilton condemns ‘terrifying’ LGBTQ+ laws before Saudi Arabian GP",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2021/dec/02/lewis-hamilton-condemns-terrifying-lgbtq-laws-before-saudi-arabian-gp",
+        "sentiment": -2,
+        "timestamp": 1638574692,
+        "published": "December 3, 2021 6:38 PM"
+    },
+    {
+        "title": "Jon Bernthal talks about Punisher potentially moving to the MCU \"it's about whether you can do it right, and I'm only interested in doing it right.\"",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/king-richard-jon-bernthal-rick-macci-1235056854/",
+        "sentiment": 2,
+        "timestamp": 1638578309,
+        "published": "December 3, 2021 7:38 PM"
+    },
+    {
         "title": "Ethiopia closes schools to boost civil war effort",
         "domain": "bbc.co.uk",
         "category": "worldnews",
