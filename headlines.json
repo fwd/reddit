@@ -1,5 +1,95 @@
 [
     {
+        "title": "Trump lawyers argue US government should take his place in a defamation lawsuit filed by rape accuser E Jean Carroll, reports say",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-lawyers-argue-government-defamation-lawsuit-2021-12",
+        "sentiment": -6,
+        "timestamp": 1638628218,
+        "published": "December 4, 2021 9:30 AM"
+    },
+    {
+        "title": "Donald Trump's post-election fury prompted a warning from his general",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trumps-post-election-fury-prompted-warning-his-general-1654241",
+        "sentiment": -3,
+        "timestamp": 1638637799,
+        "published": "December 4, 2021 12:09 PM"
+    },
+    {
+        "title": "India has more women than men for first time, survey finds",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/nov/25/india-has-more-women-than-men-for-first-time-survey-finds",
+        "sentiment": 0,
+        "timestamp": 1638638950,
+        "published": "December 4, 2021 12:29 PM"
+    },
+    {
+        "title": "McCarthy Refuses to Condemn Boebert’s Islamophobic Comments",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/kevin-mccarthy-refuses-to-condemn-lauren-boeberts-islamophobic-comments",
+        "sentiment": -4,
+        "timestamp": 1638639533,
+        "published": "December 4, 2021 12:38 PM"
+    },
+    {
+        "title": "White House: NATO Members Decide Who is a Member of NATO, Not Russia",
+        "domain": "georgianjournal.ge",
+        "category": "worldnews",
+        "link": "https://georgianjournal.ge/politics/37537-white-house-nato-members-decide-who-is-a-member-of-nato-not-russia.html",
+        "sentiment": 0,
+        "timestamp": 1638639560,
+        "published": "December 4, 2021 12:39 PM"
+    },
+    {
+        "title": "The FTC Sues Nvidia to Block Its Historic Deal With Arm",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/ftc-sues-nvidia-arm-deal/",
+        "sentiment": -3,
+        "timestamp": 1638639872,
+        "published": "December 4, 2021 12:44 PM"
+    },
+    {
+        "title": "Bitcoin falls by a fifth, cryptos see $1 billion worth liquidated",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/bitcoin-extends-downtrend-falls-121-47176-2021-12-04/",
+        "sentiment": 2,
+        "timestamp": 1638640872,
+        "published": "December 4, 2021 1:01 PM"
+    },
+    {
+        "title": "A corporate Christmas party in Norway turns into an Omicron 'super spreader event' with up to 60 people infected",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/christmas-party-norway-turned-omicron-super-spreader-event-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638641319,
+        "published": "December 4, 2021 1:08 PM"
+    },
+    {
+        "title": "Missouri Gov. Mike Parson commissioned data on masks but didn't release it after it showed they were effective: report",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/parson-didnt-release-data-analysis-showing-masks-worked-report-2021-12",
+        "sentiment": 2,
+        "timestamp": 1638643366,
+        "published": "December 4, 2021 1:42 PM"
+    },
+    {
+        "title": "In 'Sort Of,' Love Means Not Having All the Answers: TV Review",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/article/sort-of-hbo-max-review.html",
+        "sentiment": 3,
+        "timestamp": 1638645124,
+        "published": "December 4, 2021 2:12 PM"
+    },
+    {
         "title": "New Mexico approves public financing for cannabis businesses",
         "domain": "apnews.com",
         "category": "politics",
