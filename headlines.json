@@ -1,5 +1,77 @@
 [
     {
+        "title": "New Mexico approves public financing for cannabis businesses",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/business-new-mexico-marijuana-recreational-marijuana-michelle-lujan-grisham-63d9ed6b01010879c22b2a6af0937e8d",
+        "sentiment": 2,
+        "timestamp": 1638629990,
+        "published": "December 4, 2021 9:59 AM"
+    },
+    {
+        "title": "'It's Time to Raise Hell': Activists Today Are Shouting About Abortion Pills - Rewire News Group",
+        "domain": "rewirenewsgroup.com",
+        "category": "news",
+        "link": "https://rewirenewsgroup.com/article/2021/12/01/its-time-to-raise-hell-activists-today-are-shouting-about-abortion-pills/?s=09",
+        "sentiment": 0,
+        "timestamp": 1638632083,
+        "published": "December 4, 2021 10:34 AM"
+    },
+    {
+        "title": "Honolulu Shuts Off Major Water Source After Navy Confirms Contamination",
+        "domain": "civilbeat.org",
+        "category": "politics",
+        "link": "https://www.civilbeat.org/2021/12/honolulu-shuts-off-major-water-source-after-navy-confirms-contamination/",
+        "sentiment": -2,
+        "timestamp": 1638636005,
+        "published": "December 4, 2021 11:40 AM"
+    },
+    {
+        "title": "Open-source Vizio lawsuit takes an ugly turn",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/",
+        "sentiment": -5,
+        "timestamp": 1638639285,
+        "published": "December 4, 2021 12:34 PM"
+    },
+    {
+        "title": "Anti-Vaxxer Jailed For Sending Hoax Bomb To COVID Vaccine Plant",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/anti-vaxxer-jailed-sending-hoax-bomb-covid-vaccine-plant-1655852",
+        "sentiment": -5,
+        "timestamp": 1638639438,
+        "published": "December 4, 2021 12:37 PM"
+    },
+    {
+        "title": "Santa Inc. starring Seth Rogen becomes lowest rated TV show ever",
+        "domain": "dailyhive.com",
+        "category": "television",
+        "link": "https://dailyhive.com/vancouver/santa-inc-seth-rogen-lowest-rated-tv-show",
+        "sentiment": -1,
+        "timestamp": 1638639637,
+        "published": "December 4, 2021 12:40 PM"
+    },
+    {
+        "title": "New Evidence: Trump White House May Have Worked With DOJ Official in Scheme to Overturn the Election",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/jeffrey-clark-white-house-overturn-georgia-election-1267012/",
+        "sentiment": 0,
+        "timestamp": 1638639686,
+        "published": "December 4, 2021 12:41 PM"
+    },
+    {
+        "title": "Michigan school shooting suspect’s parents plead not guilty",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/us/live-news/oxford-school-shooting-michigan-12-04-21/index.html",
+        "sentiment": 3,
+        "timestamp": 1638639880,
+        "published": "December 4, 2021 12:44 PM"
+    },
+    {
         "title": "In democracy's birthplace, pope warns of populist threats | In a speech to leaders in Greece the birth place of democracy Pope Francis warned Saturday that the \"easy answers\" of populism and authoritarianism threaten democracy in Europe and called for fresh dedication to promoting the common good.",
         "domain": "apnews.com",
         "category": "worldnews",
