@@ -1,5 +1,95 @@
 [
     {
+        "title": "FDA adds strict safety warnings on arthritis drugs from Pfizer, AbbVie and Lilly",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-warns-increased-heart-related-issues-pfizers-arthritis-drug-xeljanz-2021-12-03/",
+        "sentiment": -2,
+        "timestamp": 1638631510,
+        "published": "December 4, 2021 10:25 AM"
+    },
+    {
+        "title": "More than 40,000 march in Vienna against coronavirus lockdown",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/thousands-march-vienna-against-coronavirus-lockdown-2021-12-04/",
+        "sentiment": 0,
+        "timestamp": 1638635873,
+        "published": "December 4, 2021 11:37 AM"
+    },
+    {
+        "title": "N.J. to get $169M for clean water under Biden’s infrastructure law",
+        "domain": "nj.com",
+        "category": "politics",
+        "link": "https://www.nj.com/politics/2021/12/nj-to-get-169m-for-clean-water-under-bidens-infrastructure-law.html",
+        "sentiment": 2,
+        "timestamp": 1638637238,
+        "published": "December 4, 2021 12:00 PM"
+    },
+    {
+        "title": "U.S. warns of possible Russian invasion of Ukraine with 175,000 troops as soon as January",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/russian-invasion-ukraine-possible-us-warns-175000-troops-as-soon-as-january/",
+        "sentiment": -3,
+        "timestamp": 1638642340,
+        "published": "December 4, 2021 1:25 PM"
+    },
+    {
+        "title": "Norfolk: Police appeal after motorcyclists seen riding over a seal pup in Sea Palling",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/norfolk-police-appeal-after-motorcyclists-seen-riding-over-a-seal-pup-in-sea-palling-12486295",
+        "sentiment": 0,
+        "timestamp": 1638644355,
+        "published": "December 4, 2021 1:59 PM"
+    },
+    {
+        "title": "A hate group wants the Supreme Court to allow them to sue people calling them a hate group",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/12/hate-group-wants-supreme-court-allow-sue-people-calling-hate-group/",
+        "sentiment": -3,
+        "timestamp": 1638645505,
+        "published": "December 4, 2021 2:18 PM"
+    },
+    {
+        "title": "Stacey Abrams blasts Georgia Gov. Brian Kemp: 'I think we have a failed leader who is currently occupying the office'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/stacey-abrams-blasts-brian-kemp-failed-leader-georgia-governor-race-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638645865,
+        "published": "December 4, 2021 2:24 PM"
+    },
+    {
+        "title": "Twitter reportedly suspended accounts by mistake after extremists abused new private media policy",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/4/22817386/twitter-suspended-accounts-extremists",
+        "sentiment": -8,
+        "timestamp": 1638646337,
+        "published": "December 4, 2021 2:32 PM"
+    },
+    {
+        "title": "Animation Guild Contract Talks Delayed Until Next Year",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/animation-guild-contract-talks-on-hold-1234884715/",
+        "sentiment": -1,
+        "timestamp": 1638649064,
+        "published": "December 4, 2021 3:17 PM"
+    },
+    {
+        "title": "The Expanse Season 6 Review: A Strong Send-Off, With Hope For The Future",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/676973/the-expanse-season-6-review-a-strong-send-off-with-hope-for-the-future/",
+        "sentiment": 4,
+        "timestamp": 1638649380,
+        "published": "December 4, 2021 3:23 PM"
+    },
+    {
         "title": "Trump lawyers argue US government should take his place in a defamation lawsuit filed by rape accuser E Jean Carroll, reports say",
         "domain": "businessinsider.com",
         "category": "politics",
