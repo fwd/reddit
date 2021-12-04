@@ -1,5 +1,77 @@
 [
     {
+        "title": "Presidents Joe Biden and Vladimir Putin will speak in a video call Tuesday, the Kremlin said, as tensions between the United States and Russia escalate over a Russian troop buildup on the Ukrainian border that’s seen as a sign of a potential invasion.",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/joe-biden-europe-russia-ukraine-vladimir-putin-83e399de3cd43eee751553aafb543052",
+        "sentiment": 0,
+        "timestamp": 1638646438,
+        "published": "December 4, 2021 2:33 PM"
+    },
+    {
+        "title": "Israeli stabbed in Jerusalem, Palestinian assailant shot dead",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/israeli-stabbed-jerusalem-palestinian-assailant-170214834.html",
+        "sentiment": -5,
+        "timestamp": 1638647344,
+        "published": "December 4, 2021 2:49 PM"
+    },
+    {
+        "title": "Netflix greenlights movie about grandma's accidental Thanksgiving text to stranger",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-greenlights-movie-grandmas-accidental-thanksgiving-text-strang-rcna7526",
+        "sentiment": -2,
+        "timestamp": 1638651816,
+        "published": "December 4, 2021 4:03 PM"
+    },
+    {
+        "title": "Brazil's Rio cancels New Year celebrations as the country accounts to second-highest COVID death toll. \"We respect science\", says Rio mayor",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/brazils-rio-cancels-new-year-celebration-pandemic-continues-2021-12-04/",
+        "sentiment": 2,
+        "timestamp": 1638652670,
+        "published": "December 4, 2021 4:17 PM"
+    },
+    {
+        "title": "Ethan Crumbley's parents' arrest shown in CNN exclusive video",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/videos/us/2021/12/04/james-and-jennifer-crumbley-arrest-michigan-shooting-newday-vpx.cnn",
+        "sentiment": 0,
+        "timestamp": 1638654349,
+        "published": "December 4, 2021 4:45 PM"
+    },
+    {
+        "title": "Chris Cuomo Fired From CNN After Investigation of Involvement in Brother Andrew’s Case",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/chris-cuomo-fired-from-cnn-after-investigation-of-involvement-in-brother-andrews-case/",
+        "sentiment": -2,
+        "timestamp": 1638656320,
+        "published": "December 4, 2021 5:18 PM"
+    },
+    {
+        "title": "CNN fires Chris Cuomo",
+        "domain": "cnn.com",
+        "category": "television",
+        "link": "https://www.cnn.com/2021/12/04/media/cnn-fires-chris-cuomo/index.html",
+        "sentiment": 0,
+        "timestamp": 1638656793,
+        "published": "December 4, 2021 5:26 PM"
+    },
+    {
+        "title": "Chris Cuomo fired by CNN after investigation into aid to brother Andrew Cuomo - The Washington Post",
+        "domain": "washingtonpost.com",
+        "category": "television",
+        "link": "https://www.washingtonpost.com/media/2021/12/04/chris-cuomo-fired-cnn-andrew-cuomo/",
+        "sentiment": -2,
+        "timestamp": 1638656926,
+        "published": "December 4, 2021 5:28 PM"
+    },
+    {
         "title": "Biden to Hold Talks With Putin Over Ukraine Tensions",
         "domain": "time.com",
         "category": "politics",
