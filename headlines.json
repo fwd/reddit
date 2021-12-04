@@ -1,5 +1,77 @@
 [
     {
+        "title": "US intelligence says Kremlin planning a multi-front offensive as soon as early next year with up to 175,000 troops",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10273817/US-intelligence-says-Kremlin-planning-multi-offensive-early-year-175-000-troops.html",
+        "sentiment": -2,
+        "timestamp": 1638604600,
+        "published": "December 4, 2021 2:56 AM"
+    },
+    {
+        "title": "U.S. Chamber Poll of Unemployed Americans Indicates Worker Shortage Crisis Unlikely to Ease",
+        "domain": "uschamber.com",
+        "category": "news",
+        "link": "https://www.uschamber.com/workforce/u-s-chamber-poll-of-unemployed-americans-indicates-worker-shortage-crisis-unlikely-to-ease",
+        "sentiment": -5,
+        "timestamp": 1638606440,
+        "published": "December 4, 2021 3:27 AM"
+    },
+    {
+        "title": "Any move by China to invade Taiwan would have ‘terrible consequences,’ Blinken says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/move-china-invade-taiwan-terrible-consequences-antony-blinken-says-rcna7625",
+        "sentiment": 0,
+        "timestamp": 1638615173,
+        "published": "December 4, 2021 5:52 AM"
+    },
+    {
+        "title": "Manslaughter charges against Michigan shooter's parents break new legal ground",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/manslaughter-charges-against-michigan-shooters-parents-break-new-legal-ground-2021-12-04/",
+        "sentiment": -4,
+        "timestamp": 1638625055,
+        "published": "December 4, 2021 8:37 AM"
+    },
+    {
+        "title": "At Least 40 Democrats Are Now Calling for Boebert to Be Removed From Committees",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/at-least-40-democrats-are-now-calling-for-boebert-to-be-removed-from-committees/",
+        "sentiment": 0,
+        "timestamp": 1638625727,
+        "published": "December 4, 2021 8:48 AM"
+    },
+    {
+        "title": "Man who put superglue on the lock of a Covid-19 vaccination centre in the U.K., preventing 504 people from getting jabs, jailed for 12 weeks",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-england-norfolk-59493747",
+        "sentiment": -3,
+        "timestamp": 1638625753,
+        "published": "December 4, 2021 8:49 AM"
+    },
+    {
+        "title": "The Republicans had a plan for their judges — and it went way beyond Roe v. Wade | Yes, the GOP’s takeover of the judiciary was aimed at ending abortion rights — and keeping themselves out of jail",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/04/the-had-a-plan-for-their--and-it-went-way-beyond-roe-v-wade/",
+        "sentiment": 1,
+        "timestamp": 1638626030,
+        "published": "December 4, 2021 8:53 AM"
+    },
+    {
+        "title": "Jodie Whittaker on saying goodbye to Doctor Who: ‘I thought, what if I’ve ruined this for actresses?’",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/dec/04/jodie-whittaker-on-saying-goodbye-to-doctor-who-i-thought-what-if-ive-ruined-this-for-actresses",
+        "sentiment": -2,
+        "timestamp": 1638626727,
+        "published": "December 4, 2021 9:05 AM"
+    },
+    {
         "title": "Scott Morrison attacked over ‘secrecy’ after documents reveal cyclones and floods set to pummel Australia",
         "domain": "theguardian.com",
         "category": "worldnews",
