@@ -1,5 +1,50 @@
 [
     {
+        "title": "Wisconsin’s Democratic governor vetoes five GOP abortion bills",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/wisconsin-s-democratic-governor-vetoes-five-gop-abortion-bills-n1285350",
+        "sentiment": 0,
+        "timestamp": 1638578660,
+        "published": "December 3, 2021 7:44 PM"
+    },
+    {
+        "title": "Sri Lankan factory manager lynched and set on fire in Pakistan",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/12/3/sri-lankan-factory-manager-lynched-and-set-on-fire-in-pakistan",
+        "sentiment": -2,
+        "timestamp": 1638579872,
+        "published": "December 3, 2021 8:04 PM"
+    },
+    {
+        "title": "Immune system-stimulating nanoparticle could lead to more powerful vaccines",
+        "domain": "news.mit.edu",
+        "category": "technology",
+        "link": "https://news.mit.edu/2021/vaccine-immune-nanoparticle-1203",
+        "sentiment": 3,
+        "timestamp": 1638581055,
+        "published": "December 3, 2021 8:24 PM"
+    },
+    {
+        "title": "The Webb Space Telescope Will Rewrite Cosmic History. If It Works.",
+        "domain": "quantamagazine.org",
+        "category": "news",
+        "link": "https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/",
+        "sentiment": 0,
+        "timestamp": 1638581750,
+        "published": "December 3, 2021 8:35 PM"
+    },
+    {
+        "title": "School bullies in France could face up to three years in jail under law approved by French MPs",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/02/school-bullies-face-up-to-10-years-jail-under-law-approved-by-french-mps",
+        "sentiment": 2,
+        "timestamp": 1638583210,
+        "published": "December 3, 2021 9:00 PM"
+    },
+    {
         "title": "Amy Coney Barrett’s Adoption Myths | “They’re co-opting our lives and our stories.”",
         "domain": "nymag.com",
         "category": "politics",
