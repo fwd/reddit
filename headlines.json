@@ -1,5 +1,113 @@
 [
     {
+        "title": "Why does a longtime white supremacist think he can win an election?",
+        "domain": "ajc.com",
+        "category": "politics",
+        "link": "https://www.ajc.com/news/investigations/why-does-a-longtime-white-supremacist-think-he-can-win-an-election/MGQLKWO2DND7NBAS2P35R5REBM/",
+        "sentiment": 4,
+        "timestamp": 1638612486,
+        "published": "December 4, 2021 5:08 AM"
+    },
+    {
+        "title": "School shooter's parents in custody",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2021/dec/03/michigan-high-school-shooting-parents-manslaughter-charges",
+        "sentiment": 0,
+        "timestamp": 1638622531,
+        "published": "December 4, 2021 7:55 AM"
+    },
+    {
+        "title": "The Michigan School Shooting Shows That COVID-19 Isn't the Only Thing American Kids Need Protection From",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6125256/michigan-school-shooting-covid/",
+        "sentiment": 0,
+        "timestamp": 1638623986,
+        "published": "December 4, 2021 8:19 AM"
+    },
+    {
+        "title": "A white man shot his Black neighbor in Missouri, claiming self-defense. Neighbors tell a different story.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/white-man-shot-black-neighbor-missouri-claiming-self-defense-neighbors-rcna6330",
+        "sentiment": 0,
+        "timestamp": 1638626996,
+        "published": "December 4, 2021 9:09 AM"
+    },
+    {
+        "title": "Up to 300,000 people facing heart-related illnesses due to post-pandemic stress disorder, warn physicians",
+        "domain": "standard.co.uk",
+        "category": "worldnews",
+        "link": "https://www.standard.co.uk/news/health/post-pandemic-stress-disorder-heart-conditions-covid-london-physicians-b969436.html",
+        "sentiment": -7,
+        "timestamp": 1638627220,
+        "published": "December 4, 2021 9:13 AM"
+    },
+    {
+        "title": "Jurors at Maxwell trial shown Epstein's massage table, photo of sex toys",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/ghislaine-maxwells-lawyers-grill-ex-epstein-employee-who-testified-about-2021-12-03/",
+        "sentiment": 0,
+        "timestamp": 1638627598,
+        "published": "December 4, 2021 9:19 AM"
+    },
+    {
+        "title": "NASA to award SpaceX three more commercial crew flights - SpaceNews",
+        "domain": "spacenews.com",
+        "category": "technology",
+        "link": "https://spacenews.com/nasa-to-award-spacex-three-more-commercial-crew-flights/",
+        "sentiment": 3,
+        "timestamp": 1638628198,
+        "published": "December 4, 2021 9:29 AM"
+    },
+    {
+        "title": "Cat-calling women in pubs or on the street could become a crime in the UK in crackdown on violence against women, says British government",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10273873/Government-seeks-outlaw-cat-calling-women-street.html",
+        "sentiment": -6,
+        "timestamp": 1638629739,
+        "published": "December 4, 2021 9:55 AM"
+    },
+    {
+        "title": "Nevada man arrested for allegedly assaulting police at US Capitol attack",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/04/us-capitol-attack-josiah-kenyon-arrested-nevada",
+        "sentiment": -4,
+        "timestamp": 1638630316,
+        "published": "December 4, 2021 10:05 AM"
+    },
+    {
+        "title": "Judge sets bond at $500K apiece for parents of teen suspected of fatally shooting 4 at Michigan school",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/judge-sets-bond-500k-apiece-parents-teen-suspected-81556451",
+        "sentiment": -1,
+        "timestamp": 1638630536,
+        "published": "December 4, 2021 10:08 AM"
+    },
+    {
+        "title": "The Metaverse needs Aggressive Regulation",
+        "domain": "venturebeat.com",
+        "category": "technology",
+        "link": "https://venturebeat.com/2021/12/04/the-metaverse-needs-aggressive-regulation/",
+        "sentiment": -2,
+        "timestamp": 1638630879,
+        "published": "December 4, 2021 10:14 AM"
+    },
+    {
+        "title": "Daniel Henney (The Wheel of Time) is the Performer of the Week. Honorable mentions: Wesley Snipes (True Story), Jennifer Tilly (Chucky) and Cress Williams (The Flash).",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/12/04/daniel-henney-performance-the-wheel-of-time-episode-5-lan/",
+        "sentiment": 2,
+        "timestamp": 1638631377,
+        "published": "December 4, 2021 10:22 AM"
+    },
+    {
         "title": "US intelligence says Kremlin planning a multi-front offensive as soon as early next year with up to 175,000 troops",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
