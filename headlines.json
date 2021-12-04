@@ -1,5 +1,113 @@
 [
     {
+        "title": "Follower of QAnon influencer who claims to be Canada’s Queen arrested over school threats",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/3abbg9/follower-of-qanon-influencer-who-claims-to-be-canadas-queen-arrested-over-school-threats",
+        "sentiment": -5,
+        "timestamp": 1638628230,
+        "published": "December 4, 2021 9:30 AM"
+    },
+    {
+        "title": "Michigan shooting suspect’s parents enter not guilty pleas",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/oxford-high-school-shooting-arrests-michigan-detroit-shootings-812df746393430fc4dd3fe1d9d7f0baf?utm_medium=AP&utm_source=Twitter&utm_campaign=SocialFlow&s=09",
+        "sentiment": 3,
+        "timestamp": 1638630218,
+        "published": "December 4, 2021 10:03 AM"
+    },
+    {
+        "title": "Fearing a Repeat of Jan. 6, Congress Eyes Changes to Electoral Count Law — members of the special House committee investigating the Capitol riot are among those arguing for an overhaul of a more than century-old statute enacted to address disputed elections",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/12/04/us/jan-6-electoral-count-act.html",
+        "sentiment": -6,
+        "timestamp": 1638630531,
+        "published": "December 4, 2021 10:08 AM"
+    },
+    {
+        "title": "‘Beasts of the Southern Wild’ Actress Jonshel Alexander Fatally Shot At Age 22",
+        "domain": "blackamericaweb.com",
+        "category": "news",
+        "link": "https://blackamericaweb.com/2021/12/02/beasts-of-the-southern-wild-actress-jonshel-alexander-fatally-shot-at-age-22/",
+        "sentiment": 0,
+        "timestamp": 1638630938,
+        "published": "December 4, 2021 10:15 AM"
+    },
+    {
+        "title": "Omarosa: Trump Doesn't Care If He Exposed Others to COVID-19",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/omarosa-trump-doesnt-care-if-he-exposed-others-to-covid-19-msnbc-2021-12",
+        "sentiment": -3,
+        "timestamp": 1638631335,
+        "published": "December 4, 2021 10:22 AM"
+    },
+    {
+        "title": "Ontario ends employer non-compete agreements, calls on rest of Canada to follow",
+        "domain": "techbomb.ca",
+        "category": "worldnews",
+        "link": "https://techbomb.ca/politics/ontario-canada-puts-an-end-to-employer-non-compete-agreements/",
+        "sentiment": 0,
+        "timestamp": 1638631367,
+        "published": "December 4, 2021 10:22 AM"
+    },
+    {
+        "title": "Elon Musk says anyone over 70 should be banned from running for office",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-trump-biden-over-70-b1969235.html",
+        "sentiment": -2,
+        "timestamp": 1638631495,
+        "published": "December 4, 2021 10:24 AM"
+    },
+    {
+        "title": "Navy’s MQ-25 Stingray Tanker Drone Goes Aboard A Carrier For The First Time",
+        "domain": "thedrive.com",
+        "category": "technology",
+        "link": "https://www.thedrive.com/the-war-zone/43361/navys-mq-25-stingray-tanker-drone-goes-aboard-a-carrier-for-the-first-time",
+        "sentiment": 1,
+        "timestamp": 1638631981,
+        "published": "December 4, 2021 10:33 AM"
+    },
+    {
+        "title": "Michigan school shooting: suspect’s parents found hiding in warehouse",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/03/michigan-high-school-shooting-parents-manslaughter-charges",
+        "sentiment": -1,
+        "timestamp": 1638632804,
+        "published": "December 4, 2021 10:46 AM"
+    },
+    {
+        "title": "Meta’s failed Giphy deal could end Big Tech’s spending spree",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/12/metas-failed-giphy-deal-could-end-big-techs-spending-spree/",
+        "sentiment": -1,
+        "timestamp": 1638632924,
+        "published": "December 4, 2021 10:48 AM"
+    },
+    {
+        "title": "New Evidence Suggests Trump DOJ Official Conspired With White House to Overturn 2020 Election",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2021/12/new-evidence-suggests-trump-doj-official-conspired-with-white-house-to-overturn-2020-election/",
+        "sentiment": 0,
+        "timestamp": 1638633181,
+        "published": "December 4, 2021 10:53 AM"
+    },
+    {
+        "title": "A man who put superglue on the lock of a Covid-19 vaccination centre, preventing 504 people from getting jabs, has been jailed for 12 weeks.",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-england-norfolk-59493747",
+        "sentiment": -3,
+        "timestamp": 1638634934,
+        "published": "December 4, 2021 11:22 AM"
+    },
+    {
         "title": "Why does a longtime white supremacist think he can win an election?",
         "domain": "ajc.com",
         "category": "politics",
