@@ -1,5 +1,68 @@
 [
     {
+        "title": "Biden to Hold Talks With Putin Over Ukraine Tensions",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6125801/biden-putin-ukraine-border/",
+        "sentiment": 0,
+        "timestamp": 1638639726,
+        "published": "December 4, 2021 12:42 PM"
+    },
+    {
+        "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean Is #1 on Netflix Japan, #6 in U.S.",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/daily-briefs/2021-12-02/jojo-bizarre-adventure-part-6-stone-ocean-is-no.1-on-netflix-japan-no.6-in-u.s/.180234",
+        "sentiment": 0,
+        "timestamp": 1638643900,
+        "published": "December 4, 2021 1:51 PM"
+    },
+    {
+        "title": "'Huge explosion' heard near Iran's Natanz nuclear facility as 'bright light' is seen in the sky and an 'unknown drone is shot down'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10275259/Huge-explosion-heard-near-Irans-Natanz-nuclear-facility-bright-light-seen-sky.html",
+        "sentiment": 0,
+        "timestamp": 1638648030,
+        "published": "December 4, 2021 3:00 PM"
+    },
+    {
+        "title": "The future of work: In a hybrid world, office downsizings are coming",
+        "domain": "computerworld.com",
+        "category": "technology",
+        "link": "https://www.computerworld.com/article/3641909/the-future-of-work-in-a-hybrid-world-office-downsizings-are-coming.html",
+        "sentiment": 0,
+        "timestamp": 1638648181,
+        "published": "December 4, 2021 3:03 PM"
+    },
+    {
+        "title": "Surprise surprise! The supreme court is coming for women’s rights after all | Arwa Mahdawi",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2021/dec/04/supreme-court-abortion-pro-natalism-policies",
+        "sentiment": 4,
+        "timestamp": 1638648576,
+        "published": "December 4, 2021 3:09 PM"
+    },
+    {
+        "title": "Chinese media declaring Evergrande in Default",
+        "domain": "china.org.cn",
+        "category": "worldnews",
+        "link": "http://www.china.org.cn/business/2021-12/04/content_77910172.htm",
+        "sentiment": 0,
+        "timestamp": 1638648714,
+        "published": "December 4, 2021 3:11 PM"
+    },
+    {
+        "title": "Miranda Cosgrove confirms Josh Peck to reprise role in “ICarly” season 2.",
+        "domain": "cheddar.com",
+        "category": "television",
+        "link": "https://cheddar.com/media/icarly-star-miranda-cosgrove-talks-season-2-reboot-tackling-the-climate-crisis",
+        "sentiment": 0,
+        "timestamp": 1638652894,
+        "published": "December 4, 2021 4:21 PM"
+    },
+    {
         "title": "FDA adds strict safety warnings on arthritis drugs from Pfizer, AbbVie and Lilly",
         "domain": "reuters.com",
         "category": "news",
