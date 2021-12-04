@@ -1,5 +1,41 @@
 [
     {
+        "title": "Inside the Experiment to Create Mars on Earth",
+        "domain": "smithsonianmag.com",
+        "category": "technology",
+        "link": "https://www.smithsonianmag.com/science-nature/inside-experiment-mars-earth-180978842/",
+        "sentiment": 0,
+        "timestamp": 1638604698,
+        "published": "December 4, 2021 2:58 AM"
+    },
+    {
+        "title": "Pigs with hernias 'big as footballs' beaten and mutilated in farm supplying UK's biggest supermarkets",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/pigs-hernias-as-big-footballs-25594661",
+        "sentiment": -2,
+        "timestamp": 1638611230,
+        "published": "December 4, 2021 4:47 AM"
+    },
+    {
+        "title": "Sensitive information of 30k Florida healthcare workers exposed in unprotected database",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/sensitive-information-of-30k-florida-healthcare-workers-exposed-in-unprotected-database/",
+        "sentiment": -1,
+        "timestamp": 1638611404,
+        "published": "December 4, 2021 4:50 AM"
+    },
+    {
+        "title": "CEO Feels Terrible About Laying Off 900 Employees Over Video Chat, Does It Anyway",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/88ggy3/ceo-feels-terrible-about-laying-off-900-employees-over-video-chat-does-it-anyway",
+        "sentiment": -3,
+        "timestamp": 1638616821,
+        "published": "December 4, 2021 6:20 AM"
+    },
+    {
         "title": "Homeless man sentenced to 7 weeks in jail for breaching Singapore's stay-at-home order",
         "domain": "vice.com",
         "category": "worldnews",
