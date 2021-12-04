@@ -1,5 +1,113 @@
 [
     {
+        "title": "Scott Morrison attacked over ‘secrecy’ after documents reveal cyclones and floods set to pummel Australia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/australia-news/2021/dec/04/scott-morrison-attacked-over-secrecy-after-documents-reveal-cyclones-and-floods-set-to-pummel-australia",
+        "sentiment": -1,
+        "timestamp": 1638607712,
+        "published": "December 4, 2021 3:48 AM"
+    },
+    {
+        "title": "Ghislaine Maxwell's defense keeps 'spotlight' on Epstein, other powerful men",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/ghislaine-maxwells-defense-keeps-spotlight-epstein-powerful-men-rcna7516",
+        "sentiment": 2,
+        "timestamp": 1638613456,
+        "published": "December 4, 2021 5:24 AM"
+    },
+    {
+        "title": "PepsiCo loses rights to special Lays variety potato in India",
+        "domain": "thehindu.com",
+        "category": "worldnews",
+        "link": "https://www.thehindu.com/news/national/pepsico-loses-rights-to-special-lays-variety-potato-in-india/article37831634.ece?homepage=true&utm_campaign=socialflow&fbclid=IwAR2dVbUHBocY_J2N5-z5_EIuyNXAplreo4Bk2629oQC_G06M65Mb59qDThA",
+        "sentiment": 0,
+        "timestamp": 1638614145,
+        "published": "December 4, 2021 5:35 AM"
+    },
+    {
+        "title": "Joe Manchin signals he may not back Biden's social spending plan until 2022, risking an abrupt cutoff for monthly child tax credit checks",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/manchin-bbb-support-2022-end-biden-child-tax-credit-checks-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638620023,
+        "published": "December 4, 2021 7:13 AM"
+    },
+    {
+        "title": "Nurse charged with making fake Covid-19 vaccine cards",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/03/us/nurse-charged-fake-vaccine-cards/index.html",
+        "sentiment": -6,
+        "timestamp": 1638620285,
+        "published": "December 4, 2021 7:18 AM"
+    },
+    {
+        "title": "Woman falsely arrested for shoplifting at Walmart is awarded $2.1 million in damages",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/walmart-shoplifting-alabama-settlement-2-1-million/",
+        "sentiment": -5,
+        "timestamp": 1638620637,
+        "published": "December 4, 2021 7:23 AM"
+    },
+    {
+        "title": "Metaverse real estate is now being sold for cryptocurrency",
+        "domain": "vox.com",
+        "category": "technology",
+        "link": "https://www.vox.com/recode/2021/12/2/22812608/metaverse-real-estate-meta",
+        "sentiment": 0,
+        "timestamp": 1638621413,
+        "published": "December 4, 2021 7:36 AM"
+    },
+    {
+        "title": "There need to be consequences for Rep. Lauren Boebert’s Islamophobic comments",
+        "domain": "vox.com",
+        "category": "politics",
+        "link": "https://www.vox.com/22814386/lauren-boebert-islamophobic-comments-omar-house-republicans",
+        "sentiment": 0,
+        "timestamp": 1638621575,
+        "published": "December 4, 2021 7:39 AM"
+    },
+    {
+        "title": "U.S. to announce sanctions next week on countries and individuals involved in corruption and serious human rights abuses to 'undermine democracy' around the world",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/us/us-announce-sanctions-next-week-marking-bidens-democracy-summit-2021-12-03/",
+        "sentiment": -6,
+        "timestamp": 1638622017,
+        "published": "December 4, 2021 7:46 AM"
+    },
+    {
+        "title": "Better.com CEO publicly attacks laid off employees, accusing them of 'stealing' by working only two hours daily",
+        "domain": "fortune.com",
+        "category": "technology",
+        "link": "https://fortune.com/2021/12/03/better-com-ceo-attacks-laid-off-employees-blind-message-board/",
+        "sentiment": -1,
+        "timestamp": 1638622664,
+        "published": "December 4, 2021 7:57 AM"
+    },
+    {
+        "title": "Netflix teases its live-action Resident Evil series with its first clip",
+        "domain": "videogameschronicle.com",
+        "category": "television",
+        "link": "https://www.videogameschronicle.com/news/netflix-teases-its-live-action-resident-evil-series-with-its-first-clip/",
+        "sentiment": -3,
+        "timestamp": 1638624458,
+        "published": "December 4, 2021 8:27 AM"
+    },
+    {
+        "title": "How To With John Wilson’s Shocking NXIVM Connection Was Years in the Making",
+        "domain": "vanityfair.com",
+        "category": "television",
+        "link": "https://www.vanityfair.com/hollywood/2021/12/how-to-with-john-wilson-nxivm",
+        "sentiment": -2,
+        "timestamp": 1638624720,
+        "published": "December 4, 2021 8:32 AM"
+    },
+    {
         "title": "Laos opens new high-speed train line to China that cost nearly $6 billion",
         "domain": "upi.com",
         "category": "worldnews",
