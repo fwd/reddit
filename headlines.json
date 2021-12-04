@@ -1,5 +1,86 @@
 [
     {
+        "title": "North Carolina Brewery Launches 'Don't Be Mean to People' Beer in Response to Lt. Gov's Anti-LGBTQ Comments. The brewery is imploring those who drink the beer to \"post a toast to the Lt. Governor\" on social media in response to his remarks",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/north-carolina-brewery-launches-dont-be-mean-to-people-beer-lt-gov/",
+        "sentiment": 0,
+        "timestamp": 1638648601,
+        "published": "December 4, 2021 3:10 PM"
+    },
+    {
+        "title": "Far-right Congressman compares pregnant people to Polaroids capturing “earthen vessels”. The absurd allegory Madison Cawthorn shared on the House floor this week ended with the hope that \"science darkens the soul\" of people who support abortion rights.",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2021/12/far-right-congressman-compares-pregnant-people-polaroids-capturing-earthen-vessels/",
+        "sentiment": 5,
+        "timestamp": 1638654638,
+        "published": "December 4, 2021 4:50 PM"
+    },
+    {
+        "title": "‘Santa, bring ammo’: GOP congressman and family pose with guns for Christmas portrait days after school massacre",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/thomas-massie-guns-christmas-family-photo-b1969962.html",
+        "sentiment": 0,
+        "timestamp": 1638654721,
+        "published": "December 4, 2021 4:52 PM"
+    },
+    {
+        "title": "Idaho Republican official \"disgusted\" by Juneteenth, blasts Hershey's ad with Black family",
+        "domain": "boisestatepublicradio.org",
+        "category": "politics",
+        "link": "https://www.boisestatepublicradio.org/politics-government/2021-11-30/mcgeachin-campaign-official-disgusted-by-juneteenth-blasts-hersheys-ad-with-black-family",
+        "sentiment": -3,
+        "timestamp": 1638654884,
+        "published": "December 4, 2021 4:54 PM"
+    },
+    {
+        "title": "Xiomara Castro, who will make history as Honduras' first female president when she takes office on January 27, plans to ask the UN for help in fighting the corruption plaguing the Central American nation, and will urge Congress to repeal so-called \"impunity\" laws",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211204-incoming-honduran-president-wants-un-help-to-battle-corruption",
+        "sentiment": -6,
+        "timestamp": 1638657680,
+        "published": "December 4, 2021 5:41 PM"
+    },
+    {
+        "title": "Jay Jay Phillips, Two-Time America's Got Talent Contestant, Dies of COVID-19 at Age 30 - the musician was allegedly unvaccinated.",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/jay-jay-phillips-agt-musician-dead-at-30-from-covid/",
+        "sentiment": 2,
+        "timestamp": 1638657683,
+        "published": "December 4, 2021 5:41 PM"
+    },
+    {
+        "title": "Study: Omicron could be more transmissible due to sharing genetic material with common cold",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/coronavirus-report/584363-study-omicron-could-be-more-transmissible-due-to-sharing-genetic",
+        "sentiment": 0,
+        "timestamp": 1638658075,
+        "published": "December 4, 2021 5:47 PM"
+    },
+    {
+        "title": "South Carolina nursing director charged with making fake Covid vaccination cards",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/south-carolina-nursing-director-charged-making-fake-covid-vaccination-rcna7631?cid=sm_npd_ms_tw_ma",
+        "sentiment": -6,
+        "timestamp": 1638658544,
+        "published": "December 4, 2021 5:55 PM"
+    },
+    {
+        "title": "Army Col. Edward Shames, the last remaining member of World War II's 'Easy Company,' dies at 99",
+        "domain": "cnn.com",
+        "category": "television",
+        "link": "https://www.cnn.com/2021/12/04/politics/edward-shames-easy-company-world-war-ii-band-of-brothers/index.html",
+        "sentiment": -2,
+        "timestamp": 1638659909,
+        "published": "December 4, 2021 6:18 PM"
+    },
+    {
         "title": "Presidents Joe Biden and Vladimir Putin will speak in a video call Tuesday, the Kremlin said, as tensions between the United States and Russia escalate over a Russian troop buildup on the Ukrainian border that’s seen as a sign of a potential invasion.",
         "domain": "apnews.com",
         "category": "worldnews",
