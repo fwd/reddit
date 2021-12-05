@@ -1,5 +1,113 @@
 [
     {
+        "title": "Will Arizona's relentless Republican gerrymander decide the 2024 presidential election?",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/04/will-arizonas-relentless-gerrymander-decide-the-2024-presidential-election/",
+        "sentiment": -1,
+        "timestamp": 1638709843,
+        "published": "December 5, 2021 8:10 AM"
+    },
+    {
+        "title": "Covid: Travel changes too late to halt potential new wave - scientist",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-59536795",
+        "sentiment": 0,
+        "timestamp": 1638714000,
+        "published": "December 5, 2021 9:20 AM"
+    },
+    {
+        "title": "Third party to investigate Michigan school’s actions ahead of shooting",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/05/michigan-high-school-shooting-third-party-investigation",
+        "sentiment": 0,
+        "timestamp": 1638715362,
+        "published": "December 5, 2021 9:42 AM"
+    },
+    {
+        "title": "US intelligence estimates Russian troop levels on Ukraine border could reach 175,000",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/04/politics/russia-ukraine-troops-border-us-intelligence-reports/index.html",
+        "sentiment": 1,
+        "timestamp": 1638715893,
+        "published": "December 5, 2021 9:51 AM"
+    },
+    {
+        "title": "Trump Includes Himself Among The 'Very Stupid' In Mangled Vote Fraud Statement",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-double-negative-vote-fraud_n_61ac48dae4b0451e5516b553",
+        "sentiment": -4,
+        "timestamp": 1638717226,
+        "published": "December 5, 2021 10:13 AM"
+    },
+    {
+        "title": "AOC co-sponsors bipartisan bill to help expunge cannabis convictions",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/aoc-cannabis-convictions-bill-b1969393.html",
+        "sentiment": 2,
+        "timestamp": 1638717783,
+        "published": "December 5, 2021 10:23 AM"
+    },
+    {
+        "title": "The Gambia votes for first time since fall of dictator who ruled for 22 years",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/04/the-gambia-to-vote-for-first-time-since-jammeh-forced-into-exile",
+        "sentiment": 0,
+        "timestamp": 1638718668,
+        "published": "December 5, 2021 10:37 AM"
+    },
+    {
+        "title": "Rep. Omar 'very confident' Pelosi will take action on Boebert this week after anti-Muslim remarks",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html",
+        "sentiment": 0,
+        "timestamp": 1638718704,
+        "published": "December 5, 2021 10:38 AM"
+    },
+    {
+        "title": "Hilda and the Mountain King | Official Trailer",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/RSj4rWxPDjM",
+        "sentiment": 0,
+        "timestamp": 1638718946,
+        "published": "December 5, 2021 10:42 AM"
+    },
+    {
+        "title": "Researchers shrink camera to the size of a salt grain",
+        "domain": "princeton.edu",
+        "category": "technology",
+        "link": "https://www.princeton.edu/news/2021/12/02/researchers-shrink-camera-size-salt-grain",
+        "sentiment": 0,
+        "timestamp": 1638719695,
+        "published": "December 5, 2021 10:54 AM"
+    },
+    {
+        "title": "Someone Is Running Hundreds of Malicious Servers on Tor Network",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/someone-is-running-hundreds-of-malicious-servers-on-the-1848156630",
+        "sentiment": 0,
+        "timestamp": 1638720780,
+        "published": "December 5, 2021 11:13 AM"
+    },
+    {
+        "title": "Ford and Honda hit with major recalls over brake and hood issues",
+        "domain": "slashgear.com",
+        "category": "technology",
+        "link": "https://www.slashgear.com/ford-and-honda-hit-with-major-recalls-over-brake-and-hood-issues-05701237/",
+        "sentiment": 0,
+        "timestamp": 1638721801,
+        "published": "December 5, 2021 11:30 AM"
+    },
+    {
         "title": "This New Ultra-Compact Camera Is The Size of a Grain of Salt And Takes Stunning Photos",
         "domain": "sciencealert.com",
         "category": "technology",
