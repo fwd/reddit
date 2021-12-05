@@ -1,5 +1,32 @@
 [
     {
+        "title": "Real-life Moby Dick spotted off the coast of Jamaica",
+        "domain": "livescience.com",
+        "category": "worldnews",
+        "link": "https://www.livescience.com/real-life-moby-dick-spotted",
+        "sentiment": -4,
+        "timestamp": 1638645147,
+        "published": "December 4, 2021 2:12 PM"
+    },
+    {
+        "title": "Her dream to teach English in Japan ended with a lesson for the country",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/12/04/asia/japan-immigration-detention-wishma-death-hnk-intl-dst/index.html",
+        "sentiment": 1,
+        "timestamp": 1638670579,
+        "published": "December 4, 2021 9:16 PM"
+    },
+    {
+        "title": "Special Report: Pro-Trump news site targets election workers, inspiring wave of menace",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/business/media-telecom/pro-trump-news-site-targets-election-workers-inspiring-wave-menace-2021-12-03/",
+        "sentiment": 1,
+        "timestamp": 1638671906,
+        "published": "December 4, 2021 9:38 PM"
+    },
+    {
         "title": "Prisons transcribe private phone calls with inmates using speech-to-text AI",
         "domain": "theregister.com",
         "category": "technology",
