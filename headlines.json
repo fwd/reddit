@@ -1,5 +1,68 @@
 [
     {
+        "title": "Arctic sea ice extent 2021 is among the highest in recent years, thanks to a cool summer and autumn, particularly in the western Arctic Ocean.",
+        "domain": "severe-weather.eu",
+        "category": "worldnews",
+        "link": "https://www.severe-weather.eu/cryosphere/arctic-sea-ice-froze-faster-november-ten-millions-square-kilometers-rrc/",
+        "sentiment": 3,
+        "timestamp": 1638728259,
+        "published": "December 5, 2021 1:17 PM"
+    },
+    {
+        "title": "Ukraine’s defence minister urges military support from Canada, U.S. and Britain - even if it’s outside NATO",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-ukraines-defence-minister-urges-military-support-from-canada-us-and/",
+        "sentiment": 2,
+        "timestamp": 1638732743,
+        "published": "December 5, 2021 2:32 PM"
+    },
+    {
+        "title": "Fauci pushed back on Sen. Ron Johnson's claims that he 'overhyped' the AIDS crisis and COVID-19",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/fauci-johnson-overhyped-the-aids-crisis-and-covid-19-2021-12",
+        "sentiment": -3,
+        "timestamp": 1638734644,
+        "published": "December 5, 2021 3:04 PM"
+    },
+    {
+        "title": "Adam Schiff says Mark Meadows undermined his own argument for withholding info from January 6 investigators because he wrote about it in his book",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mark-meadows-book-undermines-withholding-info-jan-6-investigators-schiff-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638734901,
+        "published": "December 5, 2021 3:08 PM"
+    },
+    {
+        "title": "Yet another FCI Dublin prison guard arrested for allegedly sexually abusing an incarcerated woman",
+        "domain": "eastbaytimes.com",
+        "category": "news",
+        "link": "https://www.eastbaytimes.com/2021/12/03/yet-another-fci-dublin-prison-guard-arrested-for-allegedly-sexually-abusing-an-incarcerated-woman/",
+        "sentiment": -8,
+        "timestamp": 1638734927,
+        "published": "December 5, 2021 3:08 PM"
+    },
+    {
+        "title": "Four hours from Hobart, this 'black box' will chronicle humankind's downfall",
+        "domain": "abc.net.au",
+        "category": "technology",
+        "link": "https://www.abc.net.au/news/science/2021-12-06/climate-change-earth-black-box-recorder/100621778?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web",
+        "sentiment": 0,
+        "timestamp": 1638737316,
+        "published": "December 5, 2021 3:48 PM"
+    },
+    {
+        "title": "Australian politician blames white supremacists for spreading online vaccine misinformation",
+        "domain": "thehill.com",
+        "category": "technology",
+        "link": "https://thehill.com/policy/technology/584272-australian-politician-blames-white-supremacists-for-spreading-online",
+        "sentiment": -4,
+        "timestamp": 1638738959,
+        "published": "December 5, 2021 4:15 PM"
+    },
+    {
         "title": "The January 6 Committee Has a Plan to Prevent Another Attempt to Steal an Election",
         "domain": "motherjones.com",
         "category": "politics",
