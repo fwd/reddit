@@ -1,5 +1,68 @@
 [
     {
+        "title": "Omicron outbreak at Norway Christmas party is biggest outside South Africa, authorities say",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2021/12/03/europe/norway-christmas-party-superspreader-omicron-event-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1638705630,
+        "published": "December 5, 2021 7:00 AM"
+    },
+    {
+        "title": "Brazilian Supreme Court orders probe into Bolsonaro for linking COVID-19 vaccines to AIDS",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/brazilian-supreme-court-orders-probe-into-bolsonaro-linking-covid-19-vaccines-2021-12-03/",
+        "sentiment": 4,
+        "timestamp": 1638706410,
+        "published": "December 5, 2021 7:13 AM"
+    },
+    {
+        "title": "How the UN's open science framework could speed up the pace of discovery",
+        "domain": "eastmojo.com",
+        "category": "technology",
+        "link": "https://www.eastmojo.com/world/2021/12/05/how-the-uns-open-science-framework-could-speed-up-the-pace-of-discovery/",
+        "sentiment": 0,
+        "timestamp": 1638708040,
+        "published": "December 5, 2021 7:40 AM"
+    },
+    {
+        "title": "EU becoming “Fourth Reich under German hegemony”, says Polish deputy minister",
+        "domain": "notesfrompoland.com",
+        "category": "worldnews",
+        "link": "https://notesfrompoland.com/2021/12/05/germany-turning-eu-into-fourth-reich-says-polish-deputy-minister/",
+        "sentiment": 0,
+        "timestamp": 1638708295,
+        "published": "December 5, 2021 7:44 AM"
+    },
+    {
+        "title": "Tennessee court grants new trial for Black man after all-white jury deliberated in room with Confederate symbols",
+        "domain": "tennessean.com",
+        "category": "news",
+        "link": "https://www.tennessean.com/story/news/local/2021/12/03/tennessee-man-gets-new-trial-after-jury-met-room-confederate-symbols/8859025002/",
+        "sentiment": 1,
+        "timestamp": 1638708399,
+        "published": "December 5, 2021 7:46 AM"
+    },
+    {
+        "title": "Bitcoin miners say they’re helping to fix the broken Texas electric grid — and Ted Cruz agrees",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/12/04/bitcoin-miners-say-theyre-fixing-texas-electric-grid-ted-cruz-agrees.html",
+        "sentiment": 2,
+        "timestamp": 1638710001,
+        "published": "December 5, 2021 8:13 AM"
+    },
+    {
+        "title": "Amazon is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html",
+        "sentiment": -2,
+        "timestamp": 1638710716,
+        "published": "December 5, 2021 8:25 AM"
+    },
+    {
         "title": "Omicron: Hospital admissions not increasing at alarming rate, says Ramphosa",
         "domain": "ewn.co.za",
         "category": "worldnews",
