@@ -1,5 +1,77 @@
 [
     {
+        "title": "U.S. white supremacists blamed for targeting Aboriginal Australians with coronavirus vaccine misinformation",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/world/2021/12/03/australia-aboriginal-coronavirus-vaccine-misinformation/",
+        "sentiment": -4,
+        "timestamp": 1638718445,
+        "published": "December 5, 2021 10:34 AM"
+    },
+    {
+        "title": "GOP lawmaker: Marjorie Taylor Greene is a 'tattletale' for running to Trump",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2021/12/05/marjorie-taylor-greene-steve-bannon-gop-infighting-ip-panel-vpx.cnn/video/playlists/this-week-in-politics/",
+        "sentiment": 0,
+        "timestamp": 1638720410,
+        "published": "December 5, 2021 11:06 AM"
+    },
+    {
+        "title": "Initial Hospital Data in Omicron Epicenter Shows Milder Disease",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-05/initial-hospital-data-in-omicron-epicenter-shows-milder-disease?srnd=premium-asia",
+        "sentiment": -1,
+        "timestamp": 1638721654,
+        "published": "December 5, 2021 11:27 AM"
+    },
+    {
+        "title": "Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html",
+        "sentiment": -3,
+        "timestamp": 1638725070,
+        "published": "December 5, 2021 12:24 PM"
+    },
+    {
+        "title": "SF Restaurant Faces Backlash After Refusing Service to 3 Officers That Made Staff ‘Uncomfortable'",
+        "domain": "nbcbayarea.com",
+        "category": "news",
+        "link": "https://www.nbcbayarea.com/news/local/sf-restaurant-faces-backlash-after-refusing-service-to-3-police-officers-that-made-staff-uncomfortable/2748203/",
+        "sentiment": -2,
+        "timestamp": 1638726231,
+        "published": "December 5, 2021 12:43 PM"
+    },
+    {
+        "title": "Congressman Jamie Raskin: ‘I’ll never forget the terrible sound of them trying to barrel into the chamber’",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/05/congressman-jamie-raskin-capitol-riot-son-faces-of-year",
+        "sentiment": -4,
+        "timestamp": 1638727873,
+        "published": "December 5, 2021 1:11 PM"
+    },
+    {
+        "title": "China Developer Sunshine 100 Defaults on $170 Million of Bonds",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-05/china-developer-sunshine-100-defaults-on-170-million-of-bonds",
+        "sentiment": 2,
+        "timestamp": 1638729886,
+        "published": "December 5, 2021 1:44 PM"
+    },
+    {
+        "title": "Students arrested for making threats, bringing loaded guns to Alabama schools",
+        "domain": "wsfa.com",
+        "category": "news",
+        "link": "https://www.wsfa.com/app/2021/12/05/students-arrested-making-threats-bringing-loaded-guns-alabama-schools/",
+        "sentiment": -5,
+        "timestamp": 1638730009,
+        "published": "December 5, 2021 1:46 PM"
+    },
+    {
         "title": "Turkey: Assassination Attempt On Erdogan Foiled",
         "domain": "i24news.tv",
         "category": "worldnews",
