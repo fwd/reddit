@@ -1,5 +1,77 @@
 [
     {
+        "title": "Over 50% of adult population in India now fully vaccinated |",
+        "domain": "timesofindia.indiatimes.com",
+        "category": "worldnews",
+        "link": "https://timesofindia.indiatimes.com/india/over-50-of-adult-population-in-india-now-fully-vaccinated/articleshow/88111521.cms",
+        "sentiment": 0,
+        "timestamp": 1638737004,
+        "published": "December 5, 2021 3:43 PM"
+    },
+    {
+        "title": "Ilhan Omar Calls McCarthy A ‘Coward’ For Defending Bigotry In His Party",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ilhan-omar-kevin-mccarthy-coward-lauren-boebert_n_61aceb99e4b0f398af22696c",
+        "sentiment": 0,
+        "timestamp": 1638739754,
+        "published": "December 5, 2021 4:29 PM"
+    },
+    {
+        "title": "Omicron outbreak at Norway Christmas party is biggest outside S. Africa, authorities say",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/12/04/omicron-outbreak-at-norway-christmas-party-is-biggest-outside-s-africa-authorities-say.html",
+        "sentiment": -2,
+        "timestamp": 1638739829,
+        "published": "December 5, 2021 4:30 PM"
+    },
+    {
+        "title": "Doctor Who: It’s Dalek Déjà Vu in 2022 with New Year Special ‘Eve of the Daleks’",
+        "domain": "denofgeek.com",
+        "category": "television",
+        "link": "https://www.denofgeek.com/tv/doctor-who-its-dalek-deja-vu-in-2022-with-new-year-special-eve-of-the-daleks/",
+        "sentiment": 0,
+        "timestamp": 1638744289,
+        "published": "December 5, 2021 5:44 PM"
+    },
+    {
+        "title": "Netflix Can’t Recruit Disney’s Fox Executives, Appeals Court Rules",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/appeals-court-netflix-poaching-1235056525/",
+        "sentiment": 0,
+        "timestamp": 1638744442,
+        "published": "December 5, 2021 5:47 PM"
+    },
+    {
+        "title": "Chris Cuomo was accused of harassment days before CNN firing",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Entertainment/wireStory/chris-cuomo-accused-harassment-days-cnn-firing-81571931",
+        "sentiment": -7,
+        "timestamp": 1638744595,
+        "published": "December 5, 2021 5:49 PM"
+    },
+    {
+        "title": "Sony VP fired after appearing in pedophile sting video",
+        "domain": "cnet.com",
+        "category": "news",
+        "link": "https://www.cnet.com/tech/gaming/sony-vp-fired-after-appearing-in-pedophile-sting-video/?ftag=COS-05-10aaa1e",
+        "sentiment": -2,
+        "timestamp": 1638745475,
+        "published": "December 5, 2021 6:04 PM"
+    },
+    {
+        "title": "The Beatles' Let It Be sessions: the real story from the people who were there",
+        "domain": "loudersound.com",
+        "category": "television",
+        "link": "https://www.loudersound.com/features/the-real-story-of-the-beatles-let-it-be-sessions-told-by-those-who-were-there",
+        "sentiment": 0,
+        "timestamp": 1638747092,
+        "published": "December 5, 2021 6:31 PM"
+    },
+    {
         "title": "Anti-mask, anti-vaccine conspiracy theorist among 3 arrested during demonstration at West Edmonton Mall",
         "domain": "cbc.ca",
         "category": "news",
