@@ -1,5 +1,77 @@
 [
     {
+        "title": "Omicron Cases From Oslo Christmas Party May Surge to 100",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-04/omicron-cases-from-oslo-christmas-party-may-surge-to-100-nrk",
+        "sentiment": 0,
+        "timestamp": 1638654701,
+        "published": "December 4, 2021 4:51 PM"
+    },
+    {
+        "title": "Michigan Senate approves $3.3B water infrastructure bill",
+        "domain": "wxyz.com",
+        "category": "politics",
+        "link": "https://www.wxyz.com/news/michigan-senate-approves-3-3b-water-infrastructure-bill",
+        "sentiment": 2,
+        "timestamp": 1638665193,
+        "published": "December 4, 2021 7:46 PM"
+    },
+    {
+        "title": "Idaho Republican Melts Down Over Year-Old Hershey’s Ad With Black Family",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/idaho-republican-lisa-leisy-melts-down-over-year-old-hersheys-ad-featuring-black-family",
+        "sentiment": 0,
+        "timestamp": 1638666478,
+        "published": "December 4, 2021 8:07 PM"
+    },
+    {
+        "title": "Saving Democracy Will Require Institutional and Civil Resistance at All Levels | How blue America can save the country from a far-right authoritarian movement taking over the Republican Party.",
+        "domain": "washingtonmonthly.com",
+        "category": "politics",
+        "link": "https://washingtonmonthly.com/2021/12/04/saving-democracy-will-require-institutional-and-civil-resistance-at-all-levels/",
+        "sentiment": 2,
+        "timestamp": 1638667031,
+        "published": "December 4, 2021 8:17 PM"
+    },
+    {
+        "title": "Edward Shames, last 'Band of Brothers' officer, dies at 99",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/edward-shames-band-brothers-officer-dies-99-81560694",
+        "sentiment": 0,
+        "timestamp": 1638668531,
+        "published": "December 4, 2021 8:42 PM"
+    },
+    {
+        "title": "Clearview AI set to get patent for controversial facial recognition tech",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
+        "sentiment": 0,
+        "timestamp": 1638669284,
+        "published": "December 4, 2021 8:54 PM"
+    },
+    {
+        "title": "Man stopped over 500 people getting Covid jab - by supergluing shut vaccination centre",
+        "domain": "thelondoneconomic.com",
+        "category": "worldnews",
+        "link": "https://www.thelondoneconomic.com/news/man-stopped-over-500-people-getting-covid-jab-by-supergluing-shut-vaccination-centre-303587/",
+        "sentiment": -1,
+        "timestamp": 1638669344,
+        "published": "December 4, 2021 8:55 PM"
+    },
+    {
+        "title": "Hitting the Books: How the interplay of science and technology brought about iPhones",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/hitting-the-books-genesis-of-technoscientific-revolutions-narayanmurti-tsao-harvard-press-163025911.html",
+        "sentiment": 0,
+        "timestamp": 1638670928,
+        "published": "December 4, 2021 9:22 PM"
+    },
+    {
         "title": "Ex-Democratic Governor Warns Party's Disconnect With Rural America Spells Midterms \"Doom\"",
         "domain": "newsweek.com",
         "category": "politics",
