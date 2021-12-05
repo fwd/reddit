@@ -1,5 +1,59 @@
 [
     {
+        "title": "Pakistan receives $3 billion from Saudi Arabia as inflation cripples nation",
+        "domain": "asiamarkets.com",
+        "category": "worldnews",
+        "link": "https://www.asiamarkets.com/pakistan-receives-3-billion-from-saudi-arabia-as-inflation-cripples-nation/",
+        "sentiment": 0,
+        "timestamp": 1638684563,
+        "published": "December 5, 2021 1:09 AM"
+    },
+    {
+        "title": "Pro-Trump news site targets election workers, inspiring wave of menace",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/investigates/special-report/usa-election-threats-gatewaypundit/",
+        "sentiment": 1,
+        "timestamp": 1638685329,
+        "published": "December 5, 2021 1:22 AM"
+    },
+    {
+        "title": "Robots in 2022: Six robotics predictions from industry-leading humans",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/2022-robotics-predictions-from-industry-leading-execs/",
+        "sentiment": 0,
+        "timestamp": 1638689743,
+        "published": "December 5, 2021 2:35 AM"
+    },
+    {
+        "title": "Korea reports suspected cases of highly pathogenic bird flu at egg farm",
+        "domain": "m.koreatimes.co.kr",
+        "category": "worldnews",
+        "link": "https://m.koreatimes.co.kr/pages/article.asp?newsIdx=319963",
+        "sentiment": -3,
+        "timestamp": 1638695233,
+        "published": "December 5, 2021 4:07 AM"
+    },
+    {
+        "title": "‘I didn’t think this would air on the BBC’: the stars of shocking legal drama You Don’t Know Me",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2021/dec/03/i-didnt-think-this-would-air-on-the-bbc-the-stars-of-shocking-legal-drama-you-dont-know-me",
+        "sentiment": -1,
+        "timestamp": 1638697489,
+        "published": "December 5, 2021 4:44 AM"
+    },
+    {
+        "title": "NSO Group's Pegasus Malware Hacked US Diplomats in Africa",
+        "domain": "richardsilverstein.com",
+        "category": "technology",
+        "link": "https://www.richardsilverstein.com/2021/12/05/nso-groups-pegasus-malware-hacked-us-diplomats-in-africa/",
+        "sentiment": -1,
+        "timestamp": 1638697776,
+        "published": "December 5, 2021 4:49 AM"
+    },
+    {
         "title": "Tacoma man charged with keeping a woman in his garage for weeks, raping her",
         "domain": "keprtv.com",
         "category": "news",
