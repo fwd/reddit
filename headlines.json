@@ -1,5 +1,140 @@
 [
     {
+        "title": "Epstein’s dark legend wraps Maxwell trial in web of conspiracy theories",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/05/jeffrey-epstein-dark-legend-ghislaine-maxwell?",
+        "sentiment": -3,
+        "timestamp": 1638712361,
+        "published": "December 5, 2021 8:52 AM"
+    },
+    {
+        "title": "Security Forces Gun Down 11 Civilians In Nagaland, India. Army Calls It 'unfortunate'",
+        "domain": "moneycontrol.com",
+        "category": "worldnews",
+        "link": "https://www.moneycontrol.com/news/india/security-forces-gun-down-11-civilians-in-nagaland-army-calls-it-unfortunate-7792931.html",
+        "sentiment": -1,
+        "timestamp": 1638716618,
+        "published": "December 5, 2021 10:03 AM"
+    },
+    {
+        "title": "Ilhan Omar calls Kevin McCarthy a \"coward and a liar\" for failing to condemn Islamophobic attacks on her",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/ilhan-omar-calls-kevin-mccarthy-islamophobia-b1970120.html",
+        "sentiment": -10,
+        "timestamp": 1638719793,
+        "published": "December 5, 2021 10:56 AM"
+    },
+    {
+        "title": "Schiff Says Meadows' Book Undermines Withholding Trump Jan. 6 Info",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mark-meadows-book-undermines-withholding-info-jan-6-investigators-schiff-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638720964,
+        "published": "December 5, 2021 11:16 AM"
+    },
+    {
+        "title": "S.Africans protest against Shell oil exploration in pristine coastal area",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/africa/safricans-protest-against-shell-oil-exploration-pristine-coastal-area-2021-12-05/",
+        "sentiment": -1,
+        "timestamp": 1638721356,
+        "published": "December 5, 2021 11:22 AM"
+    },
+    {
+        "title": "Myanmar: five dead after troops use car to ram anti-coup protest",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/05/myanmar-five-dead-after-troops-use-car-to-ram-anti-coup-protest-report",
+        "sentiment": -5,
+        "timestamp": 1638721805,
+        "published": "December 5, 2021 11:30 AM"
+    },
+    {
+        "title": "Apple strikes back, taking Russia’s market regulator to court",
+        "domain": "rt.com",
+        "category": "technology",
+        "link": "https://www.rt.com/business/542257-apple-takes-russia-court/",
+        "sentiment": -1,
+        "timestamp": 1638721938,
+        "published": "December 5, 2021 11:32 AM"
+    },
+    {
+        "title": "Stanford engineers create perching bird-like robot",
+        "domain": "news.stanford.edu",
+        "category": "technology",
+        "link": "https://news.stanford.edu/press-releases/2021/12/01/bird-like-robot-perches-grasps/",
+        "sentiment": 0,
+        "timestamp": 1638722293,
+        "published": "December 5, 2021 11:38 AM"
+    },
+    {
+        "title": "U.S. Postal Service reports $4.9 billion 2021 net loss meanwhile Louis DeJoy becomes the highest paid Postmaster in the same year",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/us-postal-service-reports-49-billion-2021-net-loss-2021-11-10/",
+        "sentiment": -3,
+        "timestamp": 1638722366,
+        "published": "December 5, 2021 11:39 AM"
+    },
+    {
+        "title": "Stacey Abrams says it’s ‘vital’ Congress passes voting rights laws as she prepares to run for Georgia governor",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/stacey-abrams-georgia-governor-interview-latest-b1968976.html",
+        "sentiment": 0,
+        "timestamp": 1638722463,
+        "published": "December 5, 2021 11:41 AM"
+    },
+    {
+        "title": "Omar calls McCarthy 'a liar and a coward' for reaction to Boebert comments",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/584394-omar-calls-mccarthy-a-liar-and-a-coward-for-reaction-to-boebert",
+        "sentiment": -3,
+        "timestamp": 1638722575,
+        "published": "December 5, 2021 11:42 AM"
+    },
+    {
+        "title": "Bob Dole, WWII hero and former Republican presidential candidate, dies at 98",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/us-news/bob-dole-wwii-hero-former-republican-presidential-candidate-dies-98-n953981",
+        "sentiment": 2,
+        "timestamp": 1638723008,
+        "published": "December 5, 2021 11:50 AM"
+    },
+    {
+        "title": "New To Prime Video December 2021",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/nyJH8csVUcM",
+        "sentiment": 0,
+        "timestamp": 1638723248,
+        "published": "December 5, 2021 11:54 AM"
+    },
+    {
+        "title": "'Hawkeye': Jeremy Renner Learned ASL to Welcome Alaqua Cox to the Cast",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/hawkeye-jeremy-renner-alaqua-cox-learned-asl/",
+        "sentiment": 2,
+        "timestamp": 1638723555,
+        "published": "December 5, 2021 11:59 AM"
+    },
+    {
+        "title": "Former US Senator, Presidential Nominee Bob Dole Dies At 98",
+        "domain": "newson6.com",
+        "category": "news",
+        "link": "https://www.newson6.com/story/61aceed5dac6980c1be7f386/former-us-senator-presidential-nominee-bob-dole-dies-at-98",
+        "sentiment": 0,
+        "timestamp": 1638724217,
+        "published": "December 5, 2021 12:10 PM"
+    },
+    {
         "title": "Will Arizona's relentless Republican gerrymander decide the 2024 presidential election?",
         "domain": "salon.com",
         "category": "politics",
