@@ -1,5 +1,68 @@
 [
     {
+        "title": "China's Guangdong province on Friday summoned the chairman of China Evergrande Group after the real estate developer said there was \"no guarantee\" it would have enough funds to meet debt repayments, while regulators sought to reassure markets",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14495413",
+        "sentiment": -1,
+        "timestamp": 1638681982,
+        "published": "December 5, 2021 12:26 AM"
+    },
+    {
+        "title": "The death toll from a sudden, spectacular eruption of Indonesia's Mount Semeru has risen to 13, disaster officials said Sunday, as rescuers searched villages blanketed in molten ash for survivors",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211205-indonesia-volcano-death-toll-rises-to-13-1",
+        "sentiment": -4,
+        "timestamp": 1638682635,
+        "published": "December 5, 2021 12:37 AM"
+    },
+    {
+        "title": "Murder charges filed against former Ohio deputy in death of Casey Goodson Jr.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/murder-charges-filed-former-ohio-deputy-death-casey-goodson-jr-rcna7424",
+        "sentiment": -6,
+        "timestamp": 1638684055,
+        "published": "December 5, 2021 1:00 AM"
+    },
+    {
+        "title": "Is tech hurting American soft power? – TechCrunch",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2021/12/04/have-american-tech-firms-gone-from-soft-power-gain-to-soft-power-liability/",
+        "sentiment": -2,
+        "timestamp": 1638684860,
+        "published": "December 5, 2021 1:14 AM"
+    },
+    {
+        "title": "Jan. 6th Committee finds Trump White House metadata on letter pressing Georgia on election",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/jan-6th-committee-finds-trump-white-house-metadata-on-letter-pressing-georgia-on-election-127874117652",
+        "sentiment": 0,
+        "timestamp": 1638684865,
+        "published": "December 5, 2021 1:14 AM"
+    },
+    {
+        "title": "U.S. labor movement's next frontier is the tech industry, AFL-CIO's Shuler says",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/us-labor-movements-next-frontier-is-tech-industry-afl-cios-shuler-says-2021-12-04/",
+        "sentiment": 0,
+        "timestamp": 1638687391,
+        "published": "December 5, 2021 1:56 AM"
+    },
+    {
+        "title": "A New 'Sight-Restoring' Bionic Eye Took One Step Closer to Human Trials",
+        "domain": "interestingengineering.com",
+        "category": "technology",
+        "link": "https://interestingengineering.com/sight-restoring-bionic-eye-one-step-closer-to-human-trials",
+        "sentiment": 0,
+        "timestamp": 1638689331,
+        "published": "December 5, 2021 2:28 AM"
+    },
+    {
         "title": "Saudi coalition airstrike in Yemen's Taiz province kills 16, including children",
         "domain": "thecradle.co",
         "category": "worldnews",
