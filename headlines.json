@@ -1,5 +1,59 @@
 [
     {
+        "title": "Omicron: Hospital admissions not increasing at alarming rate, says Ramphosa",
+        "domain": "ewn.co.za",
+        "category": "worldnews",
+        "link": "https://ewn.co.za/2021/12/05/omicron-hospital-admissions-not-increasing-at-alarming-rate-says-ramphosa?_gl=1*nrkowh*_ga*cUotN2lYOXFYWDBFekpNQjBKVXVPRzJ5ZWFpUU1BNXlmWUM1b2trNU9XUV9NX3NtcFBzSWtRdzlNczgwSDNtWA..",
+        "sentiment": 0,
+        "timestamp": 1638690781,
+        "published": "December 5, 2021 2:53 AM"
+    },
+    {
+        "title": "Russia tells U.S. to look in 'mirror\" before accusing Kremlin of aggression to Ukraine",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukraine-russia-vladimir-putin-joe-biden-anthony-blinken-invasion-1656092",
+        "sentiment": -4,
+        "timestamp": 1638698982,
+        "published": "December 5, 2021 5:09 AM"
+    },
+    {
+        "title": "Tucson Police officer who shot man in wheelchair multiple times in back is fired",
+        "domain": "marca.com",
+        "category": "news",
+        "link": "https://www.marca.com/en/lifestyle/us-news/2021/12/04/61ab662746163ffa978b45a1.html",
+        "sentiment": -2,
+        "timestamp": 1638700565,
+        "published": "December 5, 2021 5:36 AM"
+    },
+    {
+        "title": "Bernie Sanders: For America's sake, we can't afford to cut $3.5 trillion spending plan",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/todaysdebate/2021/09/29/bernie-sanders-3-5-trillion-reconciliation-cant-cut/5886374001/?gnt-cfr=1",
+        "sentiment": -1,
+        "timestamp": 1638702602,
+        "published": "December 5, 2021 6:10 AM"
+    },
+    {
+        "title": "'Unconscionable': Missouri Accused of Burying Analysis Showing Mask Mandates Save Lives | The findings were only made available this week due to a public records request by a local independent news outlet and the Documenting Covid-19 Project.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/03/unconscionable-missouri-accused-burying-analysis-showing-mask-mandates-save-lives",
+        "sentiment": 0,
+        "timestamp": 1638702692,
+        "published": "December 5, 2021 6:11 AM"
+    },
+    {
+        "title": "Elon Musk suggests that anyone over the age of 70 should be barred from running for political office",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elon-musk-people-over-70-years-barred-political-office-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638704159,
+        "published": "December 5, 2021 6:35 AM"
+    },
+    {
         "title": "Pacific Ocean garbage patch is an immense plastic habitat for coastal species, living miles from their usual homes",
         "domain": "bbc.co.uk",
         "category": "worldnews",
