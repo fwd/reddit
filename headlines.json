@@ -1,5 +1,131 @@
 [
     {
+        "title": "Turkey: Assassination Attempt On Erdogan Foiled",
+        "domain": "i24news.tv",
+        "category": "worldnews",
+        "link": "https://www.i24news.tv/en/news/middle-east/levant-turkey/1638652823-turkey-assassination-attempt-on-erdogan-foiled",
+        "sentiment": -3,
+        "timestamp": 1638709179,
+        "published": "December 5, 2021 7:59 AM"
+    },
+    {
+        "title": "Several injured after military truck rams into group of Myanmar protesters in Yangon",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-asia-59540695",
+        "sentiment": -4,
+        "timestamp": 1638717869,
+        "published": "December 5, 2021 10:24 AM"
+    },
+    {
+        "title": "11-year-old girl shot multiple times after ‘random bullets’ fly through home, police say",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2021/12/05/1-wounded-after-random-bullets-fly-through-home-in-apparent-drive-by-shooting-police-say/",
+        "sentiment": 0,
+        "timestamp": 1638722496,
+        "published": "December 5, 2021 11:41 AM"
+    },
+    {
+        "title": "Robert Carlyle shares more details about ‘Trainspotting’ spin-off series about Begbie",
+        "domain": "nme.com",
+        "category": "television",
+        "link": "https://www.nme.com/news/tv/robert-carlyle-shares-more-details-about-trainspotting-spin-off-series-about-begbie-3111153",
+        "sentiment": 1,
+        "timestamp": 1638723063,
+        "published": "December 5, 2021 11:51 AM"
+    },
+    {
+        "title": "Bill Nye promotes infrastructure, social spending bills with Biden",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/blogs/in-the-know/in-the-know/583783-bill-nye-promotes-infrastructure-social-spending-bills-with",
+        "sentiment": 1,
+        "timestamp": 1638723077,
+        "published": "December 5, 2021 11:51 AM"
+    },
+    {
+        "title": "Barrett is wrong: Adoption doesn’t ‘take care of’ the burden of motherhood",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/outlook/barrett-is-wrong-adoption-doesnt-take-care-of-the-burden-of-motherhood/2021/12/03/e5bd2f86-53d3-11ec-9267-17ae3bde2f26_story.html",
+        "sentiment": -2,
+        "timestamp": 1638724021,
+        "published": "December 5, 2021 12:07 PM"
+    },
+    {
+        "title": "Trump statement accidentally insults those who believe election fraud claims",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/12/trump-statement-double-negative-election-fraud.html",
+        "sentiment": -8,
+        "timestamp": 1638724377,
+        "published": "December 5, 2021 12:12 PM"
+    },
+    {
+        "title": "Ilhan Omar: Kevin McCarthy Is a 'Coward and a Liar' for Not Condemning Boebert's Islamophobic Comments",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/ilhan-omar-mccarthy-boebert-coward-liar-1267123/",
+        "sentiment": 0,
+        "timestamp": 1638724451,
+        "published": "December 5, 2021 12:14 PM"
+    },
+    {
+        "title": "Here's Norm Macdonald's Legendary Impression Of Bob Dole Appearing On 'The Real World'",
+        "domain": "digg.com",
+        "category": "television",
+        "link": "https://digg.com/video/heres-norm-macdonalds-legendary-impression-of-bob-dole-appearing-on-the-real-world",
+        "sentiment": 0,
+        "timestamp": 1638725938,
+        "published": "December 5, 2021 12:38 PM"
+    },
+    {
+        "title": "10 Covid-19 cases identified on New Orleans-bound cruise ship",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/12/05/us/cruise-ship-norwegian-breakaway-covid-cases/index.html",
+        "sentiment": 0,
+        "timestamp": 1638726045,
+        "published": "December 5, 2021 12:40 PM"
+    },
+    {
+        "title": "Crypto exchange BitMart hacked for $200M in crypto",
+        "domain": "etherscan.io",
+        "category": "technology",
+        "link": "https://etherscan.io/tokentxns?a=0x39fb0dcd13945b835d47410ae0de7181d3edf270",
+        "sentiment": -1,
+        "timestamp": 1638726489,
+        "published": "December 5, 2021 12:48 PM"
+    },
+    {
+        "title": "Why Volkswagen is beating Tesla in Europe",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/11/30/volkswagen-is-selling-more-evs-than-tesla-in-europe.html",
+        "sentiment": -1,
+        "timestamp": 1638727842,
+        "published": "December 5, 2021 1:10 PM"
+    },
+    {
+        "title": "The movement to hold AI accountable gains more steam",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/",
+        "sentiment": 2,
+        "timestamp": 1638727863,
+        "published": "December 5, 2021 1:11 PM"
+    },
+    {
+        "title": "NASA’s Laser Communications Relay Demonstration – Bringing Optical Speeds to the Final Frontier",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/nasas-laser-communications-relay-demonstration-bringing-optical-speeds-to-the-final-frontier/",
+        "sentiment": -1,
+        "timestamp": 1638728078,
+        "published": "December 5, 2021 1:14 PM"
+    },
+    {
         "title": "Epstein’s dark legend wraps Maxwell trial in web of conspiracy theories",
         "domain": "theguardian.com",
         "category": "news",
