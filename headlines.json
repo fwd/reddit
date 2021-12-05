@@ -1,5 +1,122 @@
 [
     {
+        "title": "This New Ultra-Compact Camera Is The Size of a Grain of Salt And Takes Stunning Photos",
+        "domain": "sciencealert.com",
+        "category": "technology",
+        "link": "https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt/amp",
+        "sentiment": 4,
+        "timestamp": 1638704792,
+        "published": "December 5, 2021 6:46 AM"
+    },
+    {
+        "title": "In Khashoggi's shadow, Macron holds Saudi talks with crown prince",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/khashoggis-shadow-macron-set-saudi-talks-with-crown-prince-2021-12-04/",
+        "sentiment": 0,
+        "timestamp": 1638706604,
+        "published": "December 5, 2021 7:16 AM"
+    },
+    {
+        "title": "U.S., Europeans Disappointed By Iran's Stance In Nuclear Talks",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/iran-nuclear-european-diplomats-disappontment/31592720.html",
+        "sentiment": -2,
+        "timestamp": 1638707455,
+        "published": "December 5, 2021 7:30 AM"
+    },
+    {
+        "title": "Republican congressman sparks outrage for family Christmas photo with guns days after school shooting",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2021/12/04/nation/republican-congressman-sparks-outrage-family-christmas-photo-with-guns/",
+        "sentiment": -3,
+        "timestamp": 1638708621,
+        "published": "December 5, 2021 7:50 AM"
+    },
+    {
+        "title": "Thousands of homes still without power 10 days after Storm Arwen",
+        "domain": "standard.co.uk",
+        "category": "worldnews",
+        "link": "https://www.standard.co.uk/news/uk/met-office-kwasi-kwarteng-ofgem-england-boris-johnson-b970098.html",
+        "sentiment": 0,
+        "timestamp": 1638709608,
+        "published": "December 5, 2021 8:06 AM"
+    },
+    {
+        "title": "Dozens of former Afghan forces killed or disappeared by Taliban, rights group says",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-59474965",
+        "sentiment": -4,
+        "timestamp": 1638712033,
+        "published": "December 5, 2021 8:47 AM"
+    },
+    {
+        "title": "Jim Acosta Tells Democrats to Think 'What Would Mitch Do?' Over Filibuster",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/jim-acosta-democrats-mitch-mcconnell-filibuster-1656165",
+        "sentiment": 0,
+        "timestamp": 1638712662,
+        "published": "December 5, 2021 8:57 AM"
+    },
+    {
+        "title": "‘Wall of secrecy’ in Pfizer contracts as company accused of profiteering | UK news",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2021/dec/05/wall-of-secrecy-in-pfizer-contracts-as-company-accused-of-profiteering",
+        "sentiment": -2,
+        "timestamp": 1638714049,
+        "published": "December 5, 2021 9:20 AM"
+    },
+    {
+        "title": "21 Western countries issue joint statement expressing concern over reported killings and disappearances of former members of Afghan security forces since Taliban rose to power in Afghanistan",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/western-countries-express-concern-over-afghan-reprisals-2021-12-05/",
+        "sentiment": 1,
+        "timestamp": 1638714360,
+        "published": "December 5, 2021 9:26 AM"
+    },
+    {
+        "title": "Scottish islanders launch Airbnb rival in fight against second homes crisis",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/uk-news/2021/dec/05/scottish-islanders-launch-airbnb-rival-in-fight-against-second-homes-crisis",
+        "sentiment": -4,
+        "timestamp": 1638715551,
+        "published": "December 5, 2021 9:45 AM"
+    },
+    {
+        "title": "Elon Musk Suggests People Over 70 Shouldn't Run for Political Office",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/elon-musk-people-over-70-years-barred-political-office-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638716282,
+        "published": "December 5, 2021 9:58 AM"
+    },
+    {
+        "title": "Name a track from a series' OST better than \"When You Are Near Me\" from Euphoria!",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/SgIMZR7tjlY",
+        "sentiment": 5,
+        "timestamp": 1638716418,
+        "published": "December 5, 2021 10:00 AM"
+    },
+    {
+        "title": "Chris Cuomo Hit With New Sexual Misconduct Accusation Just Before CNN Firing",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/chris-cuomo-sexual-misconduct-accusation-cnn-firing/",
+        "sentiment": -6,
+        "timestamp": 1638717245,
+        "published": "December 5, 2021 10:14 AM"
+    },
+    {
         "title": "Iran's Massive Sewer Project Hit By Unexpected Hurdle -- Manhole Thieves",
         "domain": "rferl.org",
         "category": "worldnews",
