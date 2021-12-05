@@ -1,5 +1,41 @@
 [
     {
+        "title": "Pacific Ocean garbage patch is an immense plastic habitat for coastal species, living miles from their usual homes",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/science-environment-59521211",
+        "sentiment": -1,
+        "timestamp": 1638693291,
+        "published": "December 5, 2021 3:34 AM"
+    },
+    {
+        "title": "Pro-Trump counties now have far higher COVID death rates. Misinformation is to blame",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate",
+        "sentiment": -6,
+        "timestamp": 1638698656,
+        "published": "December 5, 2021 5:04 AM"
+    },
+    {
+        "title": "DNA storage gathers momentum as US university discloses exciting new proof-of-concept",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/dna-storage-gathers-momentum-as-us-university-discloses-exciting-new-proof-of-concept",
+        "sentiment": 3,
+        "timestamp": 1638700840,
+        "published": "December 5, 2021 5:40 AM"
+    },
+    {
+        "title": "Maryland man faces federal charges for selling fraudulent COVID-19 cards through the mail",
+        "domain": "wtop.com",
+        "category": "news",
+        "link": "https://wtop.com/baltimore/2021/12/maryland-man-faces-federal-charges-for-selling-fraudulent-covid-19-cards-through-the-mail/",
+        "sentiment": -6,
+        "timestamp": 1638701284,
+        "published": "December 5, 2021 5:48 AM"
+    },
+    {
         "title": "Pakistan receives $3 billion from Saudi Arabia as inflation cripples nation",
         "domain": "asiamarkets.com",
         "category": "worldnews",
