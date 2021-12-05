@@ -1,5 +1,95 @@
 [
     {
+        "title": "Prisons transcribe private phone calls with inmates using speech-to-text AI",
+        "domain": "theregister.com",
+        "category": "technology",
+        "link": "https://www.theregister.com/2021/12/04/in_brief_ai/",
+        "sentiment": 0,
+        "timestamp": 1638648884,
+        "published": "December 4, 2021 3:14 PM"
+    },
+    {
+        "title": "Dallas Mavericks owner Mark Cuban buys an entire — virtually empty — Texas town",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/mavericks-owner-mark-cuban-buys-entire-empty-town-mustang-texas-rcna7518",
+        "sentiment": -1,
+        "timestamp": 1638656473,
+        "published": "December 4, 2021 5:21 PM"
+    },
+    {
+        "title": "Texas asst. coach sued over alleged monkey bite",
+        "domain": "espn.com",
+        "category": "news",
+        "link": "https://www.espn.com/college-football/story/_/id/32788408/texas-assistant-football-coach-jeff-banks-girlfriend-sued-monkey-allegedly-bites-child",
+        "sentiment": -2,
+        "timestamp": 1638660162,
+        "published": "December 4, 2021 6:22 PM"
+    },
+    {
+        "title": "Attempted assassination of Turkey's Erdogan foiled",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/breaking-news/attempted-assassination-of-turkeys-erdogan-foiled-687844",
+        "sentiment": -3,
+        "timestamp": 1638661489,
+        "published": "December 4, 2021 6:44 PM"
+    },
+    {
+        "title": "Passenger jumps out of plane taxiing at Phoenix airport",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-colorado-phoenix-colorado-springs-183215cdba0a3524c5827ff6bbd2a237",
+        "sentiment": 0,
+        "timestamp": 1638668570,
+        "published": "December 4, 2021 8:42 PM"
+    },
+    {
+        "title": "Looted and left in an English garden, the goat goddess can return to India",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/artanddesign/2021/dec/04/looted-and-left-in-an-english-garden-the-goat-goddess-can-return-to-india",
+        "sentiment": 0,
+        "timestamp": 1638669221,
+        "published": "December 4, 2021 8:53 PM"
+    },
+    {
+        "title": "Belarus says Ukrainian military helicopter violated its border",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/belarus-accuses-ukrainian-military-helicopter-violating-its-border-ria-2021-12-04/",
+        "sentiment": -2,
+        "timestamp": 1638670201,
+        "published": "December 4, 2021 9:10 PM"
+    },
+    {
+        "title": "'Congress Must Act': Bernie Sanders Demands End of Filibuster to Codify Abortion Rights",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/04/congress-must-act-bernie-sanders-demands-end-filibuster-codify-abortion-rights",
+        "sentiment": -1,
+        "timestamp": 1638671978,
+        "published": "December 4, 2021 9:39 PM"
+    },
+    {
+        "title": "Stolen Nepali statue returns to its temple after decades in US",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/12/4/stolen-nepali-statue-returns-to-its-temple-after-decades-in-us",
+        "sentiment": -2,
+        "timestamp": 1638672329,
+        "published": "December 4, 2021 9:45 PM"
+    },
+    {
+        "title": "More states consider laws to punish parents if children fire unsecured guns",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/safe-storage-gun-laws-ethan-crumbley-parents/2021/12/03/3f938ea0-5394-11ec-8927-c396fa861a71_story.html",
+        "sentiment": -6,
+        "timestamp": 1638672554,
+        "published": "December 4, 2021 9:49 PM"
+    },
+    {
         "title": "Omicron Cases From Oslo Christmas Party May Surge to 100",
         "domain": "bloomberg.com",
         "category": "worldnews",
