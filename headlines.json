@@ -1,5 +1,194 @@
 [
     {
+        "title": "Ukraine marks army day with US hardware and vow to fight off Russia",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-marks-army-day-with-us-hardware-vow-fight-off-russia-2021-12-06/",
+        "sentiment": -1,
+        "timestamp": 1638790639,
+        "published": "December 6, 2021 6:37 AM"
+    },
+    {
+        "title": "Hispanic voters: Latinx term isn’t helping",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776",
+        "sentiment": 2,
+        "timestamp": 1638792941,
+        "published": "December 6, 2021 7:15 AM"
+    },
+    {
+        "title": "The Supreme Court may elevate the Second Amendment above the First Amendment.",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2021/12/supreme-court-new-york-rifle-doctrine.html",
+        "sentiment": 4,
+        "timestamp": 1638793087,
+        "published": "December 6, 2021 7:18 AM"
+    },
+    {
+        "title": "Dismay as Biden and Democrats fail to pass voting rights legislation | US voting rights",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/06/voting-rights-biden-democrats-voting-rights-legislation",
+        "sentiment": -2,
+        "timestamp": 1638796125,
+        "published": "December 6, 2021 8:08 AM"
+    },
+    {
+        "title": "David Letterman Immediately Shreds Donald Trump At Kennedy Center Honors | President Joe Biden presided over the annual gala that was repeatedly snubbed by the former president",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/david-letterman-joe-biden_n_61ade1fbe4b07fe20129b5cf",
+        "sentiment": -2,
+        "timestamp": 1638796893,
+        "published": "December 6, 2021 8:21 AM"
+    },
+    {
+        "title": "PlayStation Executive Fired After Pedophile Allegation Video Posted Online | A senior vice president at Sony Interactive Entertainment \"has been terminated from employment\"",
+        "domain": "kotaku.com",
+        "category": "technology",
+        "link": "https://kotaku.com/playstation-executive-fired-after-pedophile-allegation-1848163907",
+        "sentiment": -4,
+        "timestamp": 1638796937,
+        "published": "December 6, 2021 8:22 AM"
+    },
+    {
+        "title": "Canon breaks through with image sensor that can see in the dark",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Technology/Canon-breaks-through-with-image-sensor-that-can-see-in-the-dark",
+        "sentiment": 0,
+        "timestamp": 1638797103,
+        "published": "December 6, 2021 8:25 AM"
+    },
+    {
+        "title": "January 6 Was Practice",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/magazine/archive/2022/01/january-6-insurrection-trump-coup-2024-election/620843/",
+        "sentiment": 0,
+        "timestamp": 1638797357,
+        "published": "December 6, 2021 8:29 AM"
+    },
+    {
+        "title": "WLIIA Greatest Hits: \"I'll be the prop for all these men!\"",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=zML2J7lx76c",
+        "sentiment": 3,
+        "timestamp": 1638797923,
+        "published": "December 6, 2021 8:38 AM"
+    },
+    {
+        "title": "Opinion: Republicans don’t disguise their indifference to human life",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/06/republicans-do-not-disguise-their-indifference-to-human-life/",
+        "sentiment": -3,
+        "timestamp": 1638798054,
+        "published": "December 6, 2021 8:40 AM"
+    },
+    {
+        "title": "Private space stations are coming. Will they be better than their predecessors?",
+        "domain": "theconversation.com",
+        "category": "technology",
+        "link": "https://theconversation.com/private-space-stations-are-coming-will-they-be-better-than-their-predecessors-170871",
+        "sentiment": 2,
+        "timestamp": 1638798249,
+        "published": "December 6, 2021 8:44 AM"
+    },
+    {
+        "title": "PlayStation exec fired after paedophile sting claim",
+        "domain": "eurogamer.net",
+        "category": "news",
+        "link": "https://www.eurogamer.net/articles/2021-12-06-playstation-exec-fired-after-pedophile-sting-claim",
+        "sentiment": -2,
+        "timestamp": 1638798339,
+        "published": "December 6, 2021 8:45 AM"
+    },
+    {
+        "title": "Germany’s Greens approve three-party coalition deal: The approval of Green Party members was the last hurdle for a new three-way coalition government in Germany.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germanys-greens-approve-three-party-coalition-deal/a-60030550",
+        "sentiment": 2,
+        "timestamp": 1638798423,
+        "published": "December 6, 2021 8:47 AM"
+    },
+    {
+        "title": "Volcano rescue workers dig through thick layers of hot ash in Indonesia after Mount Semeru erupts",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/12/06/asia/indonesia-volcano-rescue-intl-hnk/index.html",
+        "sentiment": 2,
+        "timestamp": 1638798771,
+        "published": "December 6, 2021 8:52 AM"
+    },
+    {
+        "title": "Rohingya Refugees Sue Facebook for $150B in First-of-its-Kind Lawsuits",
+        "domain": "edelson.com",
+        "category": "news",
+        "link": "https://edelson.com/wp-content/uploads/doevmetacomplaint.pdf",
+        "sentiment": -4,
+        "timestamp": 1638798931,
+        "published": "December 6, 2021 8:55 AM"
+    },
+    {
+        "title": "There's $2B for Broadband on Reservations. It Won't Be Enough",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/2b-broadband-reservations-not-enough/",
+        "sentiment": 0,
+        "timestamp": 1638799140,
+        "published": "December 6, 2021 8:59 AM"
+    },
+    {
+        "title": "Seaborg's molten salt invention may be the new lithium-ion battery",
+        "domain": "sifted.eu",
+        "category": "technology",
+        "link": "https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/",
+        "sentiment": 0,
+        "timestamp": 1638799164,
+        "published": "December 6, 2021 8:59 AM"
+    },
+    {
+        "title": "ECCC ’21: Jim Lee talks SESAME STREET, his COVID scare, and much more",
+        "domain": "comicsbeat.com",
+        "category": "television",
+        "link": "https://www.comicsbeat.com/eccc-21-jim-lee-spotlight-panel-sesame-street-covid/",
+        "sentiment": -2,
+        "timestamp": 1638799368,
+        "published": "December 6, 2021 9:02 AM"
+    },
+    {
+        "title": "NYC Expands Vaccine Mandate to Whole Private Sector, Ups Dose Proof to 2 and Adds Kids 5-11",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/coronavirus/nyc-mulls-tougher-vaccine-mandate-amid-covid-19-surge/3434858/",
+        "sentiment": 1,
+        "timestamp": 1638799715,
+        "published": "December 6, 2021 9:08 AM"
+    },
+    {
+        "title": "'Station Eleven' Review: An Uplifting Show Set Amid a Pandemic",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv/tv-reviews/station-eleven-review-1265799/",
+        "sentiment": 2,
+        "timestamp": 1638800312,
+        "published": "December 6, 2021 9:18 AM"
+    },
+    {
+        "title": "‘Oussekine’: Disney+ (Star) Unveils Trailer For French Mini-Series Featuring ‘Succession’ Star Hiam Abbass",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/video/oussekine-disney-unveils-trailer-for-french-mini-series-featuring-succession-star-hiam-abbass/",
+        "sentiment": 0,
+        "timestamp": 1638801177,
+        "published": "December 6, 2021 9:32 AM"
+    },
+    {
         "title": "GOP congressman’s gun-toting family Christmas photo sparks outrage days after school shooting",
         "domain": "washingtonpost.com",
         "category": "politics",
