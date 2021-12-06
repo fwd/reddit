@@ -1,5 +1,149 @@
 [
     {
+        "title": "Poll finds 89% in Japan back Kishida’s ban on new foreign arrivals",
+        "domain": "japantimes.co.jp",
+        "category": "worldnews",
+        "link": "https://www.japantimes.co.jp/news/2021/12/06/national/kishida-arrivals-ban-support/",
+        "sentiment": -2,
+        "timestamp": 1638786183,
+        "published": "December 6, 2021 5:23 AM"
+    },
+    {
+        "title": "Pro-Beijing Solomon Islands PM survives confidence vote, blames crisis on ‘Taiwan agents’",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/asia-pacific/20211206-pro-beijing-solomon-islands-pm-survives-confidence-vote-blames-crisis-on-taiwan-agents",
+        "sentiment": -3,
+        "timestamp": 1638787965,
+        "published": "December 6, 2021 5:52 AM"
+    },
+    {
+        "title": "Private jet sales and flights soar during pandemic travel confusion",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/private-jet-sales-hire-and-use-soar-during-pandemic-it-is-the-price-to-avoid-people-and-covid-19/a-59992697",
+        "sentiment": 0,
+        "timestamp": 1638789193,
+        "published": "December 6, 2021 6:13 AM"
+    },
+    {
+        "title": "U.S. expected to announce diplomatic boycott of the Winter Olympics in Beijing",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/rcna7691",
+        "sentiment": -2,
+        "timestamp": 1638794619,
+        "published": "December 6, 2021 7:43 AM"
+    },
+    {
+        "title": "New York City sets sweeping vaccine mandate for all private employers.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html?smtyp=cur&smid=fb-nytimes&fbclid=IwAR2LZPTCkNB3akPvodW5MD9Kmae4wX5NM7UdkXSdsjsect9KzD0802G4J28",
+        "sentiment": 0,
+        "timestamp": 1638800638,
+        "published": "December 6, 2021 9:23 AM"
+    },
+    {
+        "title": "104 year-old woman learns to read and write",
+        "domain": "thegoodnewshub.com",
+        "category": "worldnews",
+        "link": "https://thegoodnewshub.com/news/society/2021/12/05/104-year-old-woman-learns-to-read-and-write/",
+        "sentiment": 0,
+        "timestamp": 1638800802,
+        "published": "December 6, 2021 9:26 AM"
+    },
+    {
+        "title": "SEC probes Tesla over whistleblower claims on solar panel defects",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/markets/commodities/exclusive-sec-probes-tesla-over-whistleblower-claims-solar-panel-defects-2021-12-06/",
+        "sentiment": -3,
+        "timestamp": 1638801602,
+        "published": "December 6, 2021 9:40 AM"
+    },
+    {
+        "title": "Warning signs present in 1 in 3 homicides of intimate partners, CBC investigation finds | CBC News",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/warning-signs-intimate-partner-homicide-1.6269761",
+        "sentiment": -5,
+        "timestamp": 1638801714,
+        "published": "December 6, 2021 9:41 AM"
+    },
+    {
+        "title": "Researcher questions China's population data, says it may be lower",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/china/researcher-questions-chinas-population-data-says-it-may-be-lower-2021-12-03/",
+        "sentiment": 0,
+        "timestamp": 1638802166,
+        "published": "December 6, 2021 9:49 AM"
+    },
+    {
+        "title": "Sidney Powell group raised more than $14 million spreading election falsehoods",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/investigations/sidney-powell-defending-republic-donations/2021/12/06/61bdb004-53ef-11ec-8769-2f4ecdf7a2ad_story.html",
+        "sentiment": 0,
+        "timestamp": 1638802214,
+        "published": "December 6, 2021 9:50 AM"
+    },
+    {
+        "title": "A Christmas Joke! - \"Peep Show\"",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/KJ38jTQcO1k",
+        "sentiment": 2,
+        "timestamp": 1638802746,
+        "published": "December 6, 2021 9:59 AM"
+    },
+    {
+        "title": "Executive at Swiss Tech Company Said to Operate Secret Surveillance Operation",
+        "domain": "bnnbloomberg.ca",
+        "category": "technology",
+        "link": "https://www.bnnbloomberg.ca/executive-at-swiss-tech-company-said-to-operate-secret-surveillance-operation-1.1691627",
+        "sentiment": 0,
+        "timestamp": 1638803123,
+        "published": "December 6, 2021 10:05 AM"
+    },
+    {
+        "title": "New York City to mandate Covid vaccinations for all private workers, de Blasio says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/nyc-vaccine-mandate-covid-shots-required-private-workers-de-blasio-say-rcna7728",
+        "sentiment": 0,
+        "timestamp": 1638803128,
+        "published": "December 6, 2021 10:05 AM"
+    },
+    {
+        "title": "Trump SPAC investigated by federal regulators including SEC",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/12/06/trump-spac-investigated-by-federal-regulators-including-sec.html?__source=androidappshare",
+        "sentiment": 0,
+        "timestamp": 1638803301,
+        "published": "December 6, 2021 10:08 AM"
+    },
+    {
+        "title": "Jussie Smollett Trial: State Rests Case after Brothers Testify 'Empire' Star Planned Fake Attack",
+        "domain": "streamingrant.com",
+        "category": "television",
+        "link": "https://www.streamingrant.com/news/jussie-smollett-trial-empire-star-planned-fake-attack/",
+        "sentiment": -4,
+        "timestamp": 1638803362,
+        "published": "December 6, 2021 10:09 AM"
+    },
+    {
+        "title": "Nokia Origin Story Chronicled in Series ‘Mobile 101’: Inside the Making of a Finnish Tech Thriller",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/nokia-tv-series-mobile-101-1235121189/",
+        "sentiment": 0,
+        "timestamp": 1638803506,
+        "published": "December 6, 2021 10:11 AM"
+    },
+    {
         "title": "Ukraine marks army day with US hardware and vow to fight off Russia",
         "domain": "reuters.com",
         "category": "worldnews",
