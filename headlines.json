@@ -1,5 +1,68 @@
 [
     {
+        "title": "Biden and businesses agree on one thing: U.S. needs immigrant workers",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744",
+        "sentiment": 1,
+        "timestamp": 1638751862,
+        "published": "December 5, 2021 7:51 PM"
+    },
+    {
+        "title": "Better.com CEO fires 900 employees over Zoom",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/05/business/better-ceo-fires-employees/index.html",
+        "sentiment": 2,
+        "timestamp": 1638761532,
+        "published": "December 5, 2021 10:32 PM"
+    },
+    {
+        "title": "Germany to make vaccination compulsory for people working in hospitals, nursing homes and other medical practices, says incoming SPD government",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/germany-plans-make-vaccination-compulsory-some-jobs-draft-2021-12-05/",
+        "sentiment": 0,
+        "timestamp": 1638762238,
+        "published": "December 5, 2021 10:43 PM"
+    },
+    {
+        "title": "Kevin Feige Confirms Charlie Cox Daredevil Casting In The MCU",
+        "domain": "cinemablend.com",
+        "category": "television",
+        "link": "https://www.cinemablend.com/interviews/kevin-feige-confirms-daredevil-casting-in-the-mcu-and-fans-will-be-pumped",
+        "sentiment": 2,
+        "timestamp": 1638762338,
+        "published": "December 5, 2021 10:45 PM"
+    },
+    {
+        "title": "On “Succession,” Jeremy Strong Doesn’t Get the Joke",
+        "domain": "newyorker.com",
+        "category": "television",
+        "link": "https://www.newyorker.com/magazine/2021/12/13/on-succession-jeremy-strong-doesnt-get-the-joke",
+        "sentiment": 4,
+        "timestamp": 1638764126,
+        "published": "December 5, 2021 11:15 PM"
+    },
+    {
+        "title": "“Camp Steve-O (2002)” failed spin off of Jackass for kids",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=GoQjK61VhY4",
+        "sentiment": -6,
+        "timestamp": 1638764196,
+        "published": "December 5, 2021 11:16 PM"
+    },
+    {
+        "title": "‘The Boys’ Animated anthology Series Announced by Amazon",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/the-boys-animated-series-diabolical-amazon-prime-video-1235126663/",
+        "sentiment": 0,
+        "timestamp": 1638764830,
+        "published": "December 5, 2021 11:27 PM"
+    },
+    {
         "title": "Days after school shooting, Rep. Thomas Massie posts family photo with guns, asks Santa for ammo for Christmas",
         "domain": "cnn.com",
         "category": "politics",
