@@ -1,5 +1,59 @@
 [
     {
+        "title": "Sri Lankan man lynched and set on fire in Pakistan on alleged accusation of committing blasphemy",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/59501368",
+        "sentiment": -3,
+        "timestamp": 1638781967,
+        "published": "December 6, 2021 4:12 AM"
+    },
+    {
+        "title": "15 year old student buried alive while mining sand",
+        "domain": "nation.africa",
+        "category": "worldnews",
+        "link": "https://nation.africa/kenya/counties/homa-bay/-form-one-student-buried-alive-while-mining-sand-3642578",
+        "sentiment": 1,
+        "timestamp": 1638784676,
+        "published": "December 6, 2021 4:57 AM"
+    },
+    {
+        "title": "Slovakia wants to be \"an equal partner\" to Taiwan, the leader of an official trade delegation to the island said Monday, a sign of growing international support for Taipei having a place on the world stage despite Beijing's protests.",
+        "domain": "ibtimes.com",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.com/slovakia-wants-be-equal-partner-trade-taiwan-official-3352044",
+        "sentiment": 1,
+        "timestamp": 1638785182,
+        "published": "December 6, 2021 5:06 AM"
+    },
+    {
+        "title": "EU plans 'digital product passport' to boost circular economy",
+        "domain": "euractiv.com",
+        "category": "technology",
+        "link": "https://www.euractiv.com/section/circular-economy/news/eu-plans-digital-product-passport-to-boost-circular-economy/",
+        "sentiment": 1,
+        "timestamp": 1638787183,
+        "published": "December 6, 2021 5:39 AM"
+    },
+    {
+        "title": "China ‘modified’ the weather to create clear skies for political celebration – study",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/world/2021/dec/06/china-modified-the-weather-to-create-clear-skies-for-political-celebration-study",
+        "sentiment": 4,
+        "timestamp": 1638788486,
+        "published": "December 6, 2021 6:01 AM"
+    },
+    {
+        "title": "The Verizon app might be collecting your browsing history and more | Verizon says it’s to better “understand your interests”",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/5/22818783/verizon-app-data-collection-browsing-history#comments",
+        "sentiment": 2,
+        "timestamp": 1638788966,
+        "published": "December 6, 2021 6:09 AM"
+    },
+    {
         "title": "Paris ranked as one of worst cities for foreign residents - again",
         "domain": "thelocal.fr",
         "category": "worldnews",
