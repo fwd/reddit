@@ -1,5 +1,68 @@
 [
     {
+        "title": "'Potentially hazardous' asteroid worth nearly $5 billion will enter Earth’s orbit next week, NASA says",
+        "domain": "livescience.com",
+        "category": "worldnews",
+        "link": "https://www.livescience.com/nereus-asteroid-to-pass-by-earth",
+        "sentiment": 2,
+        "timestamp": 1638734067,
+        "published": "December 5, 2021 2:54 PM"
+    },
+    {
+        "title": "Violence escalates in India's northeast after forces mistakenly fire on civilians, killing 14",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/india-nagaland-state-army-ambush-leaves-civilians-dead-1.6274302",
+        "sentiment": -8,
+        "timestamp": 1638743012,
+        "published": "December 5, 2021 5:23 PM"
+    },
+    {
+        "title": "Trump official Jeffrey Clark postpones deposition with Capitol riot committee due to ‘medical issue’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/jeffrey-clark-capitol-riot-deposition-b1970266.html",
+        "sentiment": -3,
+        "timestamp": 1638743245,
+        "published": "December 5, 2021 5:27 PM"
+    },
+    {
+        "title": "US military has reportedly acted against ransomware groups",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/tech/services-and-software/us-military-has-reportedly-acted-against-ransomware-groups/",
+        "sentiment": 0,
+        "timestamp": 1638751934,
+        "published": "December 5, 2021 7:52 PM"
+    },
+    {
+        "title": "Far-right French presidential candidate put in headlock by protester at rally | France",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/05/far-right-french-presidential-candidate-put-in-headlock-by-protester-at-rally",
+        "sentiment": 0,
+        "timestamp": 1638752066,
+        "published": "December 5, 2021 7:54 PM"
+    },
+    {
+        "title": "Better research into Instagram, WhatsApp effects on young users needed, academics say",
+        "domain": "usatoday.com",
+        "category": "technology",
+        "link": "https://www.usatoday.com/story/tech/2021/12/06/instagram-effects-kids-better-research-needed-experts/8870847002/",
+        "sentiment": 2,
+        "timestamp": 1638752381,
+        "published": "December 5, 2021 7:59 PM"
+    },
+    {
+        "title": "The US is averaging more than 100,000 new Covid-19 cases a day, the highest level in two months",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/05/health/us-coronavirus-sunday/index.html",
+        "sentiment": 0,
+        "timestamp": 1638753465,
+        "published": "December 5, 2021 8:17 PM"
+    },
+    {
         "title": "Protest against coronavirus restrictions turns violent in Brussels",
         "domain": "reuters.com",
         "category": "news",
