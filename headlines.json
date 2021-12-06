@@ -1,5 +1,149 @@
 [
     {
+        "title": "Stern rips anti-vaxxers: 'I might have to run' just to clean up their mess",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/blogs/in-the-know/in-the-know/582871-stern-rips-anti-vaxxers-i-might-have-to-run-just-to-clean-up",
+        "sentiment": 0,
+        "timestamp": 1638803494,
+        "published": "December 6, 2021 10:11 AM"
+    },
+    {
+        "title": "Texas cities weren’t ready for a massive winter storm in February. Has that changed?",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/12/06/texas-cities-winter-storm/",
+        "sentiment": 0,
+        "timestamp": 1638805525,
+        "published": "December 6, 2021 10:45 AM"
+    },
+    {
+        "title": "Putin calls India ‘great power’, Modi says friendship with Russia is a ‘constant’ despite challenges",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/india-news/putin-calls-india-great-power-modi-says-friendship-with-russia-is-a-constant-despite-challenges-101638804228207.html",
+        "sentiment": 2,
+        "timestamp": 1638805882,
+        "published": "December 6, 2021 10:51 AM"
+    },
+    {
+        "title": "Republicans Blame Biden's Modest Climate Agenda for Gas Prices. They're Wrong.",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/republicans-blame-bidens-modest-climate-agenda-for-gas-prices-theyre-wrong/",
+        "sentiment": -4,
+        "timestamp": 1638809818,
+        "published": "December 6, 2021 11:56 AM"
+    },
+    {
+        "title": "Firefox 95 will include RLBox sandboxing for added security",
+        "domain": "neowin.net",
+        "category": "technology",
+        "link": "https://www.neowin.net/news/firefox-95-will-include-rlbox-sandboxing-for-added-security/",
+        "sentiment": 0,
+        "timestamp": 1638809868,
+        "published": "December 6, 2021 11:57 AM"
+    },
+    {
+        "title": "Designers hope hydrogen-powered plane will fly halfway around the world without refueling",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/hydrogen-plane-concept-flyzero-uk-aerospace-technology-institute-163107894.html",
+        "sentiment": 2,
+        "timestamp": 1638810108,
+        "published": "December 6, 2021 12:01 PM"
+    },
+    {
+        "title": "First data on Covid omicron variant’s severity is ‘encouraging,’ Fauci says",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2021/12/06/omicron-covid-variants-risk-profile-starts-to-emerge-with-early-data-.html",
+        "sentiment": 0,
+        "timestamp": 1638811431,
+        "published": "December 6, 2021 12:23 PM"
+    },
+    {
+        "title": "Ford Developing All-New EV On All-New Full-Size Pickup Platform - It will sell in \"incredibly high volume.\"",
+        "domain": "insideevs.com",
+        "category": "technology",
+        "link": "https://insideevs.com/news/552740/ford-new-fullsize-pickup-platform/",
+        "sentiment": 0,
+        "timestamp": 1638811652,
+        "published": "December 6, 2021 12:27 PM"
+    },
+    {
+        "title": "Rohingya sue Facebook for £150bn over Myanmar genocide",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2021/dec/06/rohingya-sue-facebook-myanmar-genocide-us-uk-legal-action-social-media-violence",
+        "sentiment": -2,
+        "timestamp": 1638811828,
+        "published": "December 6, 2021 12:30 PM"
+    },
+    {
+        "title": "Stem cell-based treatment produces insulin in patients with Type 1 diabetes",
+        "domain": "news.ubc.ca",
+        "category": "technology",
+        "link": "https://news.ubc.ca/2021/12/02/stem-cell-based-treatment-produces-insulin-in-patients-with-type-1-diabetes/",
+        "sentiment": 0,
+        "timestamp": 1638812066,
+        "published": "December 6, 2021 12:34 PM"
+    },
+    {
+        "title": "Ex-National Guard official says Army generals lied to Congress, alleging cover-up of decision to withhold troops from the Capitol on January 6",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/former-dc-guard-official-accuse-generals-lying-congress-january-6-2021-12?utm_source=reddit.com",
+        "sentiment": -5,
+        "timestamp": 1638812249,
+        "published": "December 6, 2021 12:37 PM"
+    },
+    {
+        "title": "Dave Chappelle Back In Biz With Netflix For Giant 2022 Comedy Festival; Amy Schumer, Seinfeld, Ali Wong & Many More Performing At LA Event Too",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/dave-chappelle-netflix-comedy-festival-2022-special-hannah-gadsby-closer-contraversy-1234885211/",
+        "sentiment": 1,
+        "timestamp": 1638812776,
+        "published": "December 6, 2021 12:46 PM"
+    },
+    {
+        "title": "Rohingya refugees sue Facebook for $150B",
+        "domain": "thehill.com",
+        "category": "technology",
+        "link": "https://thehill.com/policy/technology/584472-rohingya-refugees-sue-facebook-for-150b",
+        "sentiment": -2,
+        "timestamp": 1638812989,
+        "published": "December 6, 2021 12:49 PM"
+    },
+    {
+        "title": "Trump draws attention with admission he 'fired Comey'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/584470-trump-draws-attention-with-admission-he-fired-comey",
+        "sentiment": 0,
+        "timestamp": 1638813460,
+        "published": "December 6, 2021 12:57 PM"
+    },
+    {
+        "title": "Wheel of Time - Episode 6 Teaser",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/NZqBZ3TWCgQ",
+        "sentiment": 0,
+        "timestamp": 1638814277,
+        "published": "December 6, 2021 1:11 PM"
+    },
+    {
+        "title": "‘F—k you, dude’: Startup valued at $7B gets flak as CEO lays off hundreds over Zoom",
+        "domain": "sfgate.com",
+        "category": "news",
+        "link": "https://www.sfgate.com/tech/article/Better-mortgage-firm-has-mass-layoff-Zoom-16673576.php",
+        "sentiment": 0,
+        "timestamp": 1638814524,
+        "published": "December 6, 2021 1:15 PM"
+    },
+    {
         "title": "Consumer prices jump 7.7% in Poland, faster than expected",
         "domain": "abcnews.go.com",
         "category": "worldnews",
