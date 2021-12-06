@@ -1,5 +1,122 @@
 [
     {
+        "title": "Myanmar's Suu Kyi convicted in further blow to democracy",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-elections-voting-myanmar-986be24c558b54c6ebdb20aa272657ca",
+        "sentiment": -2,
+        "timestamp": 1638801890,
+        "published": "December 6, 2021 9:44 AM"
+    },
+    {
+        "title": "Outcry after Colorado sheriff’s office tweets photo of Santa getting handgun permit",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/06/el-paso-county-sheriffs-office-santa-handgun-permit",
+        "sentiment": -2,
+        "timestamp": 1638809812,
+        "published": "December 6, 2021 11:56 AM"
+    },
+    {
+        "title": "Rohingya sue Facebook for £150bn over Myanmar genocide | Facebook",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/technology/2021/dec/06/rohingya-sue-facebook-myanmar-genocide-us-uk-legal-action-social-media-violence",
+        "sentiment": -2,
+        "timestamp": 1638811944,
+        "published": "December 6, 2021 12:32 PM"
+    },
+    {
+        "title": "Sham GOP Election 'Auditors' Want to See Your Ballot -- But Hide Their Own Work",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/election-audits-secrecy-voter-suppression-fraudits-1266435/",
+        "sentiment": 0,
+        "timestamp": 1638814312,
+        "published": "December 6, 2021 1:11 PM"
+    },
+    {
+        "title": "Kentucky Derby winner Medina Spirit dies after suffering heart attack following a workout",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/medina-spirit-dies-kentucky-derby-winner/",
+        "sentiment": 2,
+        "timestamp": 1638814315,
+        "published": "December 6, 2021 1:11 PM"
+    },
+    {
+        "title": "Video shows masked White nationalist group marching at Lincoln Memorial",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/videos/us/2021/12/06/white-nationalists-march-lincoln-memorial-newday-jarrett-avlon-vpx.cnn",
+        "sentiment": 0,
+        "timestamp": 1638814375,
+        "published": "December 6, 2021 1:12 PM"
+    },
+    {
+        "title": "Pregnant woman in India beheaded by her mother and brother for getting married to a man without the consent of her family. After the killing they displayed the head to the woman’s neighbors and took selfies.",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/india-news/boy-beheads-pregnant-sister-takes-selfies-with-severed-head-101638779378563.html",
+        "sentiment": -1,
+        "timestamp": 1638814903,
+        "published": "December 6, 2021 1:21 PM"
+    },
+    {
+        "title": "‘Battle Chasers’ TV Series From ‘John Wick’ Creator Derek Kolstad Based On Comics In Works At Alcon Entertainment",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/battle-chasers-tv-series-john-wick-creator-derek-kolstad-comics-alcon-entertainment-1234880481/",
+        "sentiment": 0,
+        "timestamp": 1638815205,
+        "published": "December 6, 2021 1:26 PM"
+    },
+    {
+        "title": "Chinese Government Is Building A Surveillance System That Will Target, Track Foreign Journalists, Students",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/articles/20211129/18150148026/chinese-government-is-building-surveillance-system-that-will-target-track-foreign-journalists-students.shtml",
+        "sentiment": 0,
+        "timestamp": 1638815663,
+        "published": "December 6, 2021 1:34 PM"
+    },
+    {
+        "title": "Justice Dept. sues Texas over state redistricting maps, citing discrimination against Latinos",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/national-security/texas-maps-garland-latinos-justice/2021/12/06/4011ce78-56aa-11ec-9a18-a506cf3aa31d_story.html",
+        "sentiment": 0,
+        "timestamp": 1638816232,
+        "published": "December 6, 2021 1:43 PM"
+    },
+    {
+        "title": "US officially announces that diplomats to boycott Beijing Olympics",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-59556613",
+        "sentiment": -2,
+        "timestamp": 1638816302,
+        "published": "December 6, 2021 1:45 PM"
+    },
+    {
+        "title": "Destin Daniel Cretton Inks Overall Deal With Marvel Studios & Hulu’s Onyx Collective; Set For Disney+ MCU Series & ‘Shang-Chi’ Sequel",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/destin-daniel-cretton-marvel-hulu-onyx-collective-deal-shang-chi-sequel-1234885502/",
+        "sentiment": 3,
+        "timestamp": 1638816437,
+        "published": "December 6, 2021 1:47 PM"
+    },
+    {
+        "title": "Trump Just Wanted to Remind America That He Committed Obstruction of Justice: “If I Didn’t Fire Comey, They Were Looking to Take Down the President of the United States,” the Former President Said Sunday as He Admitted to a Crime",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-obstruction-of-justice-comey-1267267/",
+        "sentiment": -4,
+        "timestamp": 1638817102,
+        "published": "December 6, 2021 1:58 PM"
+    },
+    {
         "title": "Stern rips anti-vaxxers: 'I might have to run' just to clean up their mess",
         "domain": "thehill.com",
         "category": "politics",
