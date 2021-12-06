@@ -1,5 +1,122 @@
 [
     {
+        "title": "GOP congressman’s gun-toting family Christmas photo sparks outrage days after school shooting",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2021/12/05/christmas-photo-guns/",
+        "sentiment": -3,
+        "timestamp": 1638787173,
+        "published": "December 6, 2021 5:39 AM"
+    },
+    {
+        "title": "David Perdue and Brian Kemp's Brutal GOP Brawl Is Good News for Stacey Abrams in Georgia",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/david-perdue-brian-kemps-brutal-brawl-good-news-stacey-abrams-1656234",
+        "sentiment": 0,
+        "timestamp": 1638790501,
+        "published": "December 6, 2021 6:35 AM"
+    },
+    {
+        "title": "UK: Europe's top court rules UK mass surveillance regime violated human rights",
+        "domain": "amnesty.org",
+        "category": "worldnews",
+        "link": "https://www.amnesty.org/en/latest/news/2021/05/uk-surveillance-gchq-ecthr-ruling-2/",
+        "sentiment": 0,
+        "timestamp": 1638792340,
+        "published": "December 6, 2021 7:05 AM"
+    },
+    {
+        "title": "Trump inadvertently said people who believe his election-fraud theories are stupid",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-statement-inadvertently-calls-election-fraud-theory-believers-stupid-corrupt-2021-12",
+        "sentiment": -4,
+        "timestamp": 1638792357,
+        "published": "December 6, 2021 7:05 AM"
+    },
+    {
+        "title": "Technology is to blame for the ‘Great Resignation’",
+        "domain": "computerworld.com",
+        "category": "technology",
+        "link": "https://www.computerworld.com/article/3643335/technology-is-to-blame-for-the-great-resignation.html",
+        "sentiment": -2,
+        "timestamp": 1638792376,
+        "published": "December 6, 2021 7:06 AM"
+    },
+    {
+        "title": "Apple M1 Max chips could be stacked together to create monster 40-core processor",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/apple-m1-max-chips-could-be-stacked-together-to-create-monster-40-core-processor",
+        "sentiment": 0,
+        "timestamp": 1638792970,
+        "published": "December 6, 2021 7:16 AM"
+    },
+    {
+        "title": "Cherry Network raises $2.9M to launch its media-optimized blockchain",
+        "domain": "einpresswire.com",
+        "category": "technology",
+        "link": "https://www.einpresswire.com/article/557612305/cherry-network-raises-2-9m-to-launch-its-media-optimized-blockchain",
+        "sentiment": 0,
+        "timestamp": 1638793133,
+        "published": "December 6, 2021 7:18 AM"
+    },
+    {
+        "title": "Mary Trump called Biden's attorney general an 'idiot' for not prosecuting Donald Trump over the Capitol riot",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mary-trump-blasts-merrick-garland-not-prosecuted-trump-capitol-riot-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638793432,
+        "published": "December 6, 2021 7:23 AM"
+    },
+    {
+        "title": "Next pandemic could be more lethal than COVID, vaccine creator says",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/next-pandemic-could-be-more-lethal-than-covid-oxford-vaccine-creator-says-2021-12-06/",
+        "sentiment": -2,
+        "timestamp": 1638793871,
+        "published": "December 6, 2021 7:31 AM"
+    },
+    {
+        "title": "The World's Population Is Set To Decline For The First Time In Centuries",
+        "domain": "ladbible.com",
+        "category": "worldnews",
+        "link": "https://www.ladbible.com/news/the-worlds-population-is-set-to-decline-for-first-time-in-centuries-20211206",
+        "sentiment": 0,
+        "timestamp": 1638794701,
+        "published": "December 6, 2021 7:45 AM"
+    },
+    {
+        "title": "Ukraine-Russia border: Satellite images reveal Putin's troop build-up continues",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10279477/Ukraine-Russia-border-Satellite-images-reveal-Putins-troop-build-continues.html",
+        "sentiment": 0,
+        "timestamp": 1638794876,
+        "published": "December 6, 2021 7:47 AM"
+    },
+    {
+        "title": "Groundbreaking chewing gum potentially mitigates Covid transmission",
+        "domain": "healtheuropa.eu",
+        "category": "news",
+        "link": "https://www.healtheuropa.eu/groundbreaking-chewing-gum-potentially-mitigates-covid-transmission/112073/",
+        "sentiment": 0,
+        "timestamp": 1638795457,
+        "published": "December 6, 2021 7:57 AM"
+    },
+    {
+        "title": "Congressional Democrats Sound Antitrust Alarm With Justice Department Over Discovery-WarnerMedia Merger",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/democrats-justice-department-warnermedia-discovery-antitrust-1235126826/",
+        "sentiment": 0,
+        "timestamp": 1638797601,
+        "published": "December 6, 2021 8:33 AM"
+    },
+    {
         "title": "Armed members of Mexico's National Guard comb Cancun beaches to keep tourists safe from cartel violence",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
