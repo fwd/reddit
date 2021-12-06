@@ -1,5 +1,95 @@
 [
     {
+        "title": "Citing 'ongoing genocide,' Biden announces diplomatic boycott of 2022 Beijing Olympics",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2021/12/06/2022-winter-olympics-biden-announces-diplomatic-boycott-beijing/8837884002/",
+        "sentiment": -2,
+        "timestamp": 1638815826,
+        "published": "December 6, 2021 1:37 PM"
+    },
+    {
+        "title": "Taking Viagra could cut your risk of developing Alzheimer's by up to 69%, study claims",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/health/article-10280193/Taking-Viagra-cut-risk-developing-Alzheimers-69-study-claims.html",
+        "sentiment": -3,
+        "timestamp": 1638816086,
+        "published": "December 6, 2021 1:41 PM"
+    },
+    {
+        "title": "Justice Department sues Texas over Republican-approved redistricting maps",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/06/politics/texas-doj-redistricting-lawsuit-latino-minority/index.html",
+        "sentiment": 0,
+        "timestamp": 1638816352,
+        "published": "December 6, 2021 1:45 PM"
+    },
+    {
+        "title": "Justice Department sues Texas over new redistricting maps",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/9e120f7578628a5fb0ed6a65bc2b2872",
+        "sentiment": 0,
+        "timestamp": 1638817371,
+        "published": "December 6, 2021 2:02 PM"
+    },
+    {
+        "title": "Biden to warn Putin U.S. will add troops in Eastern Europe if Russia invades Ukraine",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/biden-putin-call-troops-ukraine-nato-e1bce81c-c208-443c-8ef1-99b5dfe16e9e.html",
+        "sentiment": -2,
+        "timestamp": 1638817960,
+        "published": "December 6, 2021 2:12 PM"
+    },
+    {
+        "title": "Critics Choice TV Nominations 2021: ‘Succession’ Leads Field; HBO Edges Netflix",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/critics-choice-awards-tv-nominations-2021-succession-hbo-netflix-1234885460/",
+        "sentiment": -2,
+        "timestamp": 1638818609,
+        "published": "December 6, 2021 2:23 PM"
+    },
+    {
+        "title": "'AP Bio' Canceled After 4 Seasons by Peacock",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/ap-bio-canceled-after-4-seasons-by-peacock/",
+        "sentiment": 0,
+        "timestamp": 1638819717,
+        "published": "December 6, 2021 2:41 PM"
+    },
+    {
+        "title": "Jack in the Box buys Del Taco in $575 million deal",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/amp/2021/12/06/jack-in-the-box-buys-del-taco-in-575-million-deal.html",
+        "sentiment": 0,
+        "timestamp": 1638819884,
+        "published": "December 6, 2021 2:44 PM"
+    },
+    {
+        "title": "Indian researchers developed a nanorobot that is programmed to capture and isolate circulating tumor cells. The reported nanorobot tested on blood containing a low number of cancer cells exhibited ~100% capture efficiency in less than 5 minutes",
+        "domain": "indianexpress.com",
+        "category": "worldnews",
+        "link": "https://indianexpress.com/article/cities/pune/maharashtra-mimer-develops-nanorobot-for-rapid-cancer-diagnosis-7655710/",
+        "sentiment": -3,
+        "timestamp": 1638820287,
+        "published": "December 6, 2021 2:51 PM"
+    },
+    {
+        "title": "Viagra Prescription Associated With a 69% Reduction in Alzheimer’s Risk",
+        "domain": "technologynetworks.com",
+        "category": "news",
+        "link": "https://www.technologynetworks.com/neuroscience/news/viagra-prescription-associated-with-a-69-reduction-in-alzheimers-risk-356547",
+        "sentiment": -2,
+        "timestamp": 1638820715,
+        "published": "December 6, 2021 2:58 PM"
+    },
+    {
         "title": "Myanmar's Suu Kyi convicted in further blow to democracy",
         "domain": "apnews.com",
         "category": "worldnews",
