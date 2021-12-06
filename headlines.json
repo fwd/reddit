@@ -1,5 +1,86 @@
 [
     {
+        "title": "Reality Winner's \"60 Minutes\" interview sparks calls for Joe Biden pardon",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/reality-winner-60-minutes-russia-espionage-joe-biden-pardon-nsa-1656216",
+        "sentiment": 2,
+        "timestamp": 1638812944,
+        "published": "December 6, 2021 12:49 PM"
+    },
+    {
+        "title": "China ‘modified’ the weather to create clear skies for political celebration – study - Researchers say Beijing used cloud-seeding to create artificial rain and lower pollution in July, in latest example of ‘blueskying’ efforts",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2021/dec/06/china-modified-the-weather-to-create-clear-skies-for-political-celebration-study",
+        "sentiment": 2,
+        "timestamp": 1638817810,
+        "published": "December 6, 2021 2:10 PM"
+    },
+    {
+        "title": "'Jack Reacher' Returns to Television. This Time, He's Full Size",
+        "domain": "military.com",
+        "category": "television",
+        "link": "https://www.military.com/off-duty/television/2021/12/06/jack-reacher-returns-television-time-hes-full-size.html",
+        "sentiment": 0,
+        "timestamp": 1638820939,
+        "published": "December 6, 2021 3:02 PM"
+    },
+    {
+        "title": "Chris Cuomo, fired from CNN, is leaving his SiriusXM radio show",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chris-cuomo-fired-cnn-siriusxm-radio-show-rcna7768",
+        "sentiment": -2,
+        "timestamp": 1638824145,
+        "published": "December 6, 2021 3:55 PM"
+    },
+    {
+        "title": "Houston police officers hit, kill pedestrian during vehicle pursuit",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/houston-police-officers-hit-kill-pedestrian-sidewalk-vehicle-pursuit-rcna7740",
+        "sentiment": -3,
+        "timestamp": 1638824316,
+        "published": "December 6, 2021 3:58 PM"
+    },
+    {
+        "title": "Prosecutor criticizes school over run-up to mass shooting",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/oxford-high-school-shooting-shootings-education-crime-michigan-a4a5b4df3a8942b2a304a6ccc0bbe108",
+        "sentiment": -2,
+        "timestamp": 1638824453,
+        "published": "December 6, 2021 4:00 PM"
+    },
+    {
+        "title": "Rohingya Refugees Sue Facebook for $150 Billion Over Myanmar Genocide",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/rohingya-refugees-sue-facebook-150-billion-myanmar-genocide-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638824923,
+        "published": "December 6, 2021 4:08 PM"
+    },
+    {
+        "title": "Rohingya refugees sue Facebook for over $150 billion, alleging the social network helped foster Myanmar's 10-year genocide",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/rohingya-refugees-sue-facebook-150-billion-myanmar-genocide-2021-12",
+        "sentiment": -2,
+        "timestamp": 1638826563,
+        "published": "December 6, 2021 4:36 PM"
+    },
+    {
+        "title": "Colin Farrell to Reprise Penguin Role in ‘The Batman’ Spinoff Series for HBO Max",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/colin-farrell-pengui-the-batman-spinoff-series-hbo-max-1235127412/",
+        "sentiment": 0,
+        "timestamp": 1638827360,
+        "published": "December 6, 2021 4:49 PM"
+    },
+    {
         "title": "Justice Department sues to block gerrymandered Texas congressional map",
         "domain": "dallasnews.com",
         "category": "politics",
