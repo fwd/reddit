@@ -1,5 +1,86 @@
 [
     {
+        "title": "Protest against coronavirus restrictions turns violent in Brussels",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/protest-against-coronavirus-restrictions-turns-violent-brussels-2021-12-05/",
+        "sentiment": -5,
+        "timestamp": 1638741837,
+        "published": "December 5, 2021 5:03 PM"
+    },
+    {
+        "title": "Vandals defaced tunnels near Idaho's Anne Frank memorial with anti-Semitic graffiti, including swastikas, police say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/05/us/idaho-anne-frank-memorial-antisemitic-graffiti/index.html",
+        "sentiment": 0,
+        "timestamp": 1638746402,
+        "published": "December 5, 2021 6:20 PM"
+    },
+    {
+        "title": "Pressure grows to remove Boebert from committees",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/584307-pressure-grows-on-democratic-house-leaders-to-remove-boebert-from-committees",
+        "sentiment": -1,
+        "timestamp": 1638746713,
+        "published": "December 5, 2021 6:25 PM"
+    },
+    {
+        "title": "Samsung to make 2-nanometer GAA chips by 2025 to overtake TSMC",
+        "domain": "kedglobal.com",
+        "category": "technology",
+        "link": "https://www.kedglobal.com/newsView/ked202110060019",
+        "sentiment": 0,
+        "timestamp": 1638747508,
+        "published": "December 5, 2021 6:38 PM"
+    },
+    {
+        "title": "Gang members are circumventing New Zealand’s strict gun laws by 3D printing weapons.",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/nz/king-cobras-gang-member-accused-of-possessing-3d-printed-semi-automatic-weapon/N3FVUYYIHSWD5SRLXKHMO6SIOI/",
+        "sentiment": -1,
+        "timestamp": 1638747662,
+        "published": "December 5, 2021 6:41 PM"
+    },
+    {
+        "title": "Return Of The Drive-In: EV Charging With Food Delivered To Car",
+        "domain": "insideevs.com",
+        "category": "technology",
+        "link": "https://insideevs.com/news/552447/ev-charging-station-drive-in/",
+        "sentiment": 0,
+        "timestamp": 1638748443,
+        "published": "December 5, 2021 6:54 PM"
+    },
+    {
+        "title": "Judge tears apart Texas social media law for violating First Amendment",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2021/12/texas-ban-on-social-media-censorship-violates-first-amendment-judge-rules/",
+        "sentiment": -4,
+        "timestamp": 1638748511,
+        "published": "December 5, 2021 6:55 PM"
+    },
+    {
+        "title": "Doctor Who: Flux – Chapter Six: The Vanquishers (Review) | by Darren Mooney",
+        "domain": "them0vieblog.com",
+        "category": "television",
+        "link": "https://them0vieblog.com/2021/12/05/doctor-who-flux-chapter-six-the-vanquishers-review/",
+        "sentiment": 0,
+        "timestamp": 1638750011,
+        "published": "December 5, 2021 7:20 PM"
+    },
+    {
+        "title": "'The Boys: Diabolical' Animated Anthology Series Announced",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-boys-diabolical-animated-anthology-series-andy-samberg-seth-rogen/",
+        "sentiment": 0,
+        "timestamp": 1638750557,
+        "published": "December 5, 2021 7:29 PM"
+    },
+    {
         "title": "Over 50% of adult population in India now fully vaccinated |",
         "domain": "timesofindia.indiatimes.com",
         "category": "worldnews",
