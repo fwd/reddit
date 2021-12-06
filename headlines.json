@@ -1,5 +1,50 @@
 [
     {
+        "title": "Armed members of Mexico's National Guard comb Cancun beaches to keep tourists safe from cartel violence",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10279103/Sun-sea-soldiers-Armed-members-Mexicos-National-Guard-comb-Cancun-beaches.html",
+        "sentiment": -2,
+        "timestamp": 1638775285,
+        "published": "December 6, 2021 2:21 AM"
+    },
+    {
+        "title": "Earth is getting a black box to record our climate change actions, and it's already started listening",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/science/2021-12-06/climate-change-earth-black-box-recorder/100621778",
+        "sentiment": 0,
+        "timestamp": 1638781900,
+        "published": "December 6, 2021 4:11 AM"
+    },
+    {
+        "title": "Ilhan Omar Calls Kevin McCarthy 'A Liar and a Coward' for Refusing to Condemn Boebert's Islamophobia",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/05/ilhan-omar-calls-kevin-mccarthy-liar-and-coward-refusing-condemn-boeberts",
+        "sentiment": -7,
+        "timestamp": 1638787713,
+        "published": "December 6, 2021 5:48 AM"
+    },
+    {
+        "title": "Apple challenging Russian requirement to let developers inform customers about payment options outside App Store",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2021/12/05/apple-russia-app-store/",
+        "sentiment": 0,
+        "timestamp": 1638790192,
+        "published": "December 6, 2021 6:29 AM"
+    },
+    {
+        "title": "'Absolute liars': Ex-D.C. Guard official says generals lied to Congress about Jan. 6",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2021/12/06/jan-6-generals-lied-ex-dc-guard-official-523777",
+        "sentiment": -2,
+        "timestamp": 1638791066,
+        "published": "December 6, 2021 6:44 AM"
+    },
+    {
         "title": "Sri Lankan man lynched and set on fire in Pakistan on alleged accusation of committing blasphemy",
         "domain": "bbc.co.uk",
         "category": "worldnews",
