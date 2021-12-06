@@ -1,5 +1,86 @@
 [
     {
+        "title": "Man allegedly stole Corvette before high-speed chase that ended in crash near Shelby Farms",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/local/man-allegedly-stole-corvette-before-high-speed-chase-that-ended-crash-near-shelby-farms/ZJEXPYD2SJA75CTETID5FRGDG4/",
+        "sentiment": -4,
+        "timestamp": 1638797377,
+        "published": "December 6, 2021 8:29 AM"
+    },
+    {
+        "title": "A Utah group is going door to door looking for election fraud. But they don’t want you to know about it. Who is behind the Utah Voter Verification Project? A Tribune investigation uncovers some troubling tactics and connections.",
+        "domain": "sltrib.com",
+        "category": "politics",
+        "link": "https://www.sltrib.com/news/politics/2021/12/06/utah-group-is-going-door/",
+        "sentiment": -5,
+        "timestamp": 1638800070,
+        "published": "December 6, 2021 9:14 AM"
+    },
+    {
+        "title": "Brexit: Ireland to receive €920m for Brexit impact",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59547054",
+        "sentiment": 0,
+        "timestamp": 1638801954,
+        "published": "December 6, 2021 9:45 AM"
+    },
+    {
+        "title": "Middle-class drug users could lose UK passports under Boris Johnson’s plans",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/society/2021/dec/06/middle-class-drug-users-could-lose-uk-passports-under-boris-johnsons-plans",
+        "sentiment": 0,
+        "timestamp": 1638802222,
+        "published": "December 6, 2021 9:50 AM"
+    },
+    {
+        "title": "Child Protect continues seeing surge in area child abuse cases",
+        "domain": "wsfa.com",
+        "category": "news",
+        "link": "https://www.wsfa.com/app/2021/12/05/child-protect-continues-seeing-surge-area-child-abuse-cases/",
+        "sentiment": -2,
+        "timestamp": 1638804162,
+        "published": "December 6, 2021 10:22 AM"
+    },
+    {
+        "title": "UK asks Germany to extradite suspected Russian spy — A British citizen working at the UK Embassy in Berlin has been arrested for passing official documents to Moscow agents",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/uk-asks-germany-to-extradite-suspected-russian-spy/a-60011868",
+        "sentiment": -4,
+        "timestamp": 1638804396,
+        "published": "December 6, 2021 10:26 AM"
+    },
+    {
+        "title": "'The Beatles: Get Back' shows that deepfake tech isn't always evil",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/the-beatles-get-back-shows-that-deepfake-tech-isnt-always-evil/",
+        "sentiment": -3,
+        "timestamp": 1638804426,
+        "published": "December 6, 2021 10:27 AM"
+    },
+    {
+        "title": "Top D.C. Guardsman Says Army Generals Are ‘Absolute Liars’ About Their Role in Jan. 6 Response",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/guardsman-says-army-generals-including-michael-flynn-brother-are-absolute-liars-about-jan-6-riot-response?via=desktop&source=Reddit",
+        "sentiment": 2,
+        "timestamp": 1638805152,
+        "published": "December 6, 2021 10:39 AM"
+    },
+    {
+        "title": "Grenfell Tower: Governments hid fire safety risks, inquiry hears",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-politics-59550680",
+        "sentiment": -4,
+        "timestamp": 1638805345,
+        "published": "December 6, 2021 10:42 AM"
+    },
+    {
         "title": "Poll finds 89% in Japan back Kishida’s ban on new foreign arrivals",
         "domain": "japantimes.co.jp",
         "category": "worldnews",
