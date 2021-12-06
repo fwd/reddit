@@ -1,5 +1,185 @@
 [
     {
+        "title": "Consumer prices jump 7.7% in Poland, faster than expected",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/consumer-prices-jump-77-poland-faster-expected-81464438",
+        "sentiment": 0,
+        "timestamp": 1638797608,
+        "published": "December 6, 2021 8:33 AM"
+    },
+    {
+        "title": "Oussekine | French Mini-Series | Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=vCb8iDXdbNM",
+        "sentiment": 0,
+        "timestamp": 1638803019,
+        "published": "December 6, 2021 10:03 AM"
+    },
+    {
+        "title": "‘Women pilots in India 10% higher than world average’: Ministry of Civil Aviation tells Parliament",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/india-news/women-pilots-in-india-10-higher-than-world-average-centre-tells-parliament-101638793788235.html",
+        "sentiment": 0,
+        "timestamp": 1638804150,
+        "published": "December 6, 2021 10:22 AM"
+    },
+    {
+        "title": "Universal Benefits Make Sense. Means-Testing Doesn’t.",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/12/universal-benefits-means-testing-build-back-better-childcare",
+        "sentiment": 2,
+        "timestamp": 1638804754,
+        "published": "December 6, 2021 10:32 AM"
+    },
+    {
+        "title": "India signs military deals with Russia, raises 'unprovoked aggression' from China",
+        "domain": "thehindu.com",
+        "category": "worldnews",
+        "link": "https://www.thehindu.com/news/national/india-signs-military-deals-with-russia-raises-unprovoked-aggression-from-china/article37862963.ece",
+        "sentiment": 0,
+        "timestamp": 1638804771,
+        "published": "December 6, 2021 10:32 AM"
+    },
+    {
+        "title": "Colton Haynes: Losing My Teenage Dream",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2021/12/colton-haynes-losing-my-teenage-dream.html",
+        "sentiment": -2,
+        "timestamp": 1638805121,
+        "published": "December 6, 2021 10:38 AM"
+    },
+    {
+        "title": "January 6 Shows Why Corporate Political Spending Is Bad for Democracy",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/january-6-shows-why-corporate-political-spending-is-bad-for-democracy/?eType=EmailBlastContent&eId=48435250-9389-46c5-a5d5-e8929985bbdc",
+        "sentiment": -3,
+        "timestamp": 1638805589,
+        "published": "December 6, 2021 10:46 AM"
+    },
+    {
+        "title": "The SPAC backing Trump's new media venture is under investigation by federal regulators",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trumps-new-media-company-federal-regulators-investigating-2021-12",
+        "sentiment": 2,
+        "timestamp": 1638805718,
+        "published": "December 6, 2021 10:48 AM"
+    },
+    {
+        "title": "Nessel interview: GOP is in the ‘extreme minority’ on gun laws, abortion bans",
+        "domain": "metrotimes.com",
+        "category": "politics",
+        "link": "https://www.metrotimes.com/news-hits/archives/2021/12/06/nessel-interview-gop-is-in-the-extreme-minority-on-gun-laws-abortion-bans",
+        "sentiment": -1,
+        "timestamp": 1638806493,
+        "published": "December 6, 2021 11:01 AM"
+    },
+    {
+        "title": "New York CEO fires 900 employees on Zoom call (Video) - Mag Grand",
+        "domain": "maggrand.com",
+        "category": "worldnews",
+        "link": "https://maggrand.com/new-york-ceo-fires-900-employees-on-zoom-call-video/",
+        "sentiment": 3,
+        "timestamp": 1638807831,
+        "published": "December 6, 2021 11:23 AM"
+    },
+    {
+        "title": "The Popular Family Safety App Life360 Is Selling Precise Location Data on Its Tens of Millions of Users",
+        "domain": "themarkup.org",
+        "category": "technology",
+        "link": "https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user",
+        "sentiment": 4,
+        "timestamp": 1638807897,
+        "published": "December 6, 2021 11:24 AM"
+    },
+    {
+        "title": "UK police contacted over report of cocaine use in Parliament",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/uk-police-contacted-report-cocaine-parliament-81584567",
+        "sentiment": 0,
+        "timestamp": 1638807984,
+        "published": "December 6, 2021 11:26 AM"
+    },
+    {
+        "title": "Alec Baldwin Deletes His Twitter Account Days After ABC Interview",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2021/12/alec-baldwin-deletes-his-twitter-account-days-after-shock-abc-interview-1234885348/",
+        "sentiment": 0,
+        "timestamp": 1638808269,
+        "published": "December 6, 2021 11:31 AM"
+    },
+    {
+        "title": "Five people treated at Greeley Walmart after alleged shoplifter deployed bear spray to get away",
+        "domain": "thedenverchannel.com",
+        "category": "news",
+        "link": "https://www.thedenverchannel.com/news/local-news/five-people-treated-at-greeley-walmart-after-alleged-shoplifter-deployed-bear-spray-to-get-away",
+        "sentiment": 0,
+        "timestamp": 1638808390,
+        "published": "December 6, 2021 11:33 AM"
+    },
+    {
+        "title": "Mayim Bialik resumes hosting Jeopardy with a tournament celebrating academia and college professors starting today. However, it bears mentioning that she has repeatedly used her Ph.D. to advertise products that are neither supported by clinical research nor academic literature. (Article)",
+        "domain": "whyevolutionistrue.com",
+        "category": "television",
+        "link": "https://whyevolutionistrue.com/2021/11/28/harriet-hall-debunks-mayim-bialiks-claims-for-neuriva-brain-supplement-and-her-status-as-an-actual-neuroscientist/",
+        "sentiment": 3,
+        "timestamp": 1638808972,
+        "published": "December 6, 2021 11:42 AM"
+    },
+    {
+        "title": "Blood pressure climbed during coronavirus pandemic, especially among women, study suggests",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/06/health/blood-pressure-increase-pandemic-wellness/index.html",
+        "sentiment": -1,
+        "timestamp": 1638809735,
+        "published": "December 6, 2021 11:55 AM"
+    },
+    {
+        "title": "France to mimic Musk with own SpaceX-style launcher, minister says",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/aerospace-defense/france-mimic-musk-with-own-spacex-style-launcher-minister-says-2021-12-06/",
+        "sentiment": 0,
+        "timestamp": 1638809800,
+        "published": "December 6, 2021 11:56 AM"
+    },
+    {
+        "title": "FX Unifies Branding Across All Platforms, Drops ‘FX On Hulu’ Moniker As It Ramps Up Output & Goes Global",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/fx-unifies-branding-fx-on-hulu-dropped-1234884658/",
+        "sentiment": 0,
+        "timestamp": 1638810030,
+        "published": "December 6, 2021 12:00 PM"
+    },
+    {
+        "title": "YouTube reveals millions of videos get hit with incorrect copyright claims | Creators have complained about the claims and appeal process",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/6/22820318/youtube-copyright-claims-transparency-report",
+        "sentiment": -2,
+        "timestamp": 1638811160,
+        "published": "December 6, 2021 12:19 PM"
+    },
+    {
+        "title": "MacGruber | Official Trailer | Peacock Original",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=MQprq0-55SA",
+        "sentiment": 0,
+        "timestamp": 1638811883,
+        "published": "December 6, 2021 12:31 PM"
+    },
+    {
         "title": "Man allegedly stole Corvette before high-speed chase that ended in crash near Shelby Farms",
         "domain": "fox13memphis.com",
         "category": "news",
