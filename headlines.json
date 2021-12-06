@@ -1,5 +1,86 @@
 [
     {
+        "title": "Student-loan payments resume in 2 months, and Biden's only canceled debt for just over 1% of federal borrowers despite his campaign promise",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/student-loan-payments-restart-february-2-months-paying-debt-biden-2021-11",
+        "sentiment": -1,
+        "timestamp": 1638746099,
+        "published": "December 5, 2021 6:14 PM"
+    },
+    {
+        "title": "At least 13 civilians shot dead by army in India’s Nagaland state | News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/12/5/indian-villagers-protest-after-army-mistakenly-opens-fire?sf156256387=1",
+        "sentiment": -3,
+        "timestamp": 1638747696,
+        "published": "December 5, 2021 6:41 PM"
+    },
+    {
+        "title": "Google Pixel mail-in repairs have allegedly twice resulted in leaked pics and a privacy nightmare",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/4/22817758/broken-google-pixel-phone-privacy-leak",
+        "sentiment": -1,
+        "timestamp": 1638752579,
+        "published": "December 5, 2021 8:02 PM"
+    },
+    {
+        "title": "Uganda has launched a road-building project in neighbouring Democratic Republic of Congo aimed at boosting trade between the two countries. The government stated sites for the roads\"will open the Eastern part of the country (DRC) to cross border trade with Uganda\".",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/africa/uganda-launches-road-building-congo-boost-trade-2021-12-05/",
+        "sentiment": 2,
+        "timestamp": 1638752946,
+        "published": "December 5, 2021 8:09 PM"
+    },
+    {
+        "title": "Jamaican Government Launches Campaign About How Great Weed Is",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/epxxqk/jamaican-government-launches-campaign-about-how-great-weed-is",
+        "sentiment": 3,
+        "timestamp": 1638752983,
+        "published": "December 5, 2021 8:09 PM"
+    },
+    {
+        "title": "Live in a pro-Trump county? You're nearly three times more likely to die of COVID-19",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/05/live-in-a-pro-county-youre-nearly-three-times-more-likely-to-of-19/",
+        "sentiment": -3,
+        "timestamp": 1638753838,
+        "published": "December 5, 2021 8:23 PM"
+    },
+    {
+        "title": "San Francisco suspends cannabis tax to help dispensaries compete with drug dealers",
+        "domain": "fox28media.com",
+        "category": "news",
+        "link": "https://fox28media.com/news/nation-world/san-francisco-suspends-cannabis-tax-to-help-dispensaries-compete-with-drug-dealers",
+        "sentiment": 2,
+        "timestamp": 1638754291,
+        "published": "December 5, 2021 8:31 PM"
+    },
+    {
+        "title": "Spotify Pulls Content of Comedians Fighting to Get Royalties for Their Written Work",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/spotify-pulls-content-of-hundreds-of-comedians-fighting-1848163916",
+        "sentiment": -2,
+        "timestamp": 1638754621,
+        "published": "December 5, 2021 8:37 PM"
+    },
+    {
+        "title": "Hackers take $196 million from crypto exchange Bitmart, security firm says",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/12/05/hackers-take-196-million-from-crypto-exchange-bitmart-in-large-breach.html",
+        "sentiment": 0,
+        "timestamp": 1638756024,
+        "published": "December 5, 2021 9:00 PM"
+    },
+    {
         "title": "'Potentially hazardous' asteroid worth nearly $5 billion will enter Earth’s orbit next week, NASA says",
         "domain": "livescience.com",
         "category": "worldnews",
