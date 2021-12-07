@@ -1,5 +1,41 @@
 [
     {
+        "title": "Germany taps epidemiologist as new health minister",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-taps-epidemiologist-as-new-health-minister/a-60037004",
+        "sentiment": 0,
+        "timestamp": 1638822717,
+        "published": "December 6, 2021 3:31 PM"
+    },
+    {
+        "title": "All coral reefs in western Indian Ocean ‘at high risk of collapse in next 50 years’ | From Seychelles to the Delagoa region off the coast of Mozambique and South Africa, the reef systems are at risk of becoming functionally extinct by the 2070s according to a new assessment.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2021/dec/06/all-coral-reefs-in-western-indian-ocean-at-high-risk-of-collapse-next-50-years-global-heating-aoe",
+        "sentiment": -6,
+        "timestamp": 1638831251,
+        "published": "December 6, 2021 5:54 PM"
+    },
+    {
+        "title": "People in pro-Trump areas nearly three times more likely to die from COVID-19: NPR analysis",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/healthcare/584468-people-in-pro-trump-areas-have-ben-nearly-three-times-more-likely-to-die",
+        "sentiment": -3,
+        "timestamp": 1638832651,
+        "published": "December 6, 2021 6:17 PM"
+    },
+    {
+        "title": "Meta has a \"moral obligation\" to make its mental health research transparent, scientists say",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/6/22820675/open-letter-meta-mental-health-research",
+        "sentiment": 0,
+        "timestamp": 1638833057,
+        "published": "December 6, 2021 6:24 PM"
+    },
+    {
         "title": "Russia and India Sign Military Agreement Despite U.S. Threat of Sanctions",
         "domain": "msn.com",
         "category": "worldnews",
