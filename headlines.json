@@ -1,5 +1,77 @@
 [
     {
+        "title": "Supporters of French far-right presidential candidate Eric Zemmour threw punches and chairs at several protesters wearing anti-racism T-shirts during his first political rally",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/far-right-french-presidential-hopeful-promises-reconquest-rally-2021-12-05/",
+        "sentiment": -1,
+        "timestamp": 1638830134,
+        "published": "December 6, 2021 5:35 PM"
+    },
+    {
+        "title": "Justice Department closes investigation into Emmett Till killing",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/06/politics/emmett-till-case-closed/index.html",
+        "sentiment": -1,
+        "timestamp": 1638830398,
+        "published": "December 6, 2021 5:39 PM"
+    },
+    {
+        "title": "A California court just returned real estate it took from a Black family in 1924. It could be the beginning of a wave of redistribution.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/california-gives-land-back-to-black-family-raising-hopes-others-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638833157,
+        "published": "December 6, 2021 6:25 PM"
+    },
+    {
+        "title": "Thailand reports its first case of the Omicron variant, in a U.S. citizen visiting from Spain.",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html",
+        "sentiment": 0,
+        "timestamp": 1638835330,
+        "published": "December 6, 2021 7:02 PM"
+    },
+    {
+        "title": "Federal lawsuit says Ohio’s new state legislative, congressional maps discriminate against Black voters",
+        "domain": "cleveland.com",
+        "category": "politics",
+        "link": "https://www.cleveland.com/news/2021/12/federal-lawsuit-says-ohios-new-state-legislative-congressional-maps-discriminate-against-black-voters.html",
+        "sentiment": -4,
+        "timestamp": 1638839453,
+        "published": "December 6, 2021 8:10 PM"
+    },
+    {
+        "title": "Harvard scientists observe new state of matter, a quantum spin liquid An exotic state of matter originally hypothesized almost 50 years ago has been observed for the first time. Created by Harvard researchers, this material called quantum spin liquid could eventually help improve quantum computers.",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/physics/quantum-spin-liquid-harvard/",
+        "sentiment": 6,
+        "timestamp": 1638846983,
+        "published": "December 6, 2021 10:16 PM"
+    },
+    {
+        "title": "Rohingya sue Facebook for £150bn over Myanmar hate speech",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/world-asia-59558090",
+        "sentiment": -5,
+        "timestamp": 1638847094,
+        "published": "December 6, 2021 10:18 PM"
+    },
+    {
+        "title": "Tesla Faked Original Full Self-Driving Video, Former Employees Allege",
+        "domain": "motortrend.com",
+        "category": "technology",
+        "link": "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/",
+        "sentiment": 0,
+        "timestamp": 1638848325,
+        "published": "December 6, 2021 10:38 PM"
+    },
+    {
         "title": "Trump inadvertently calls himself ‘corrupt and stupid’ and concedes election",
         "domain": "independent.co.uk",
         "category": "politics",
