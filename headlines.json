@@ -1,5 +1,176 @@
 [
     {
+        "title": "An angry rift between Trump and Steve Bannon signals the far right’s future",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/07/bannon-attacks-trump-candidate-david-perdue/",
+        "sentiment": -3,
+        "timestamp": 1638893420,
+        "published": "December 7, 2021 11:10 AM"
+    },
+    {
+        "title": "Mark Meadows No Longer Cooperating With Jan. 6 Committee: Attorney",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bc-us-capitol-breach-meadows_n_61af8406e4b02df7c6ad3110",
+        "sentiment": -1,
+        "timestamp": 1638894941,
+        "published": "December 7, 2021 11:35 AM"
+    },
+    {
+        "title": "End of an era: Angela Merkel's last full day as Germany's leader after 16 years",
+        "domain": "latimes.com",
+        "category": "worldnews",
+        "link": "https://www.latimes.com/world-nation/story/2021-12-07/germany-angela-merkel-last-day-chancellor",
+        "sentiment": 0,
+        "timestamp": 1638895255,
+        "published": "December 7, 2021 11:40 AM"
+    },
+    {
+        "title": "Chile becomes 31st nation to legalise same-sex marriage",
+        "domain": "biobiochile.cl",
+        "category": "worldnews",
+        "link": "https://www.biobiochile.cl/noticias/biobiochile-english/english-chile/2021/12/07/chile-legalises-same-sex-marriage.shtml",
+        "sentiment": 0,
+        "timestamp": 1638895978,
+        "published": "December 7, 2021 11:52 AM"
+    },
+    {
+        "title": "Michael Flynn’s brother lied to Congress in Capitol riot testimony, ex-aide to top DC national guard general says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/michael-flynn-brother-capitol-riot-b1970877.html",
+        "sentiment": -2,
+        "timestamp": 1638896771,
+        "published": "December 7, 2021 12:06 PM"
+    },
+    {
+        "title": "Amazon AWS outage takes down Disney+, Alexa, and more",
+        "domain": "9to5mac.com",
+        "category": "news",
+        "link": "https://9to5mac.com/2021/12/07/disney-plus-alexa-amazon-outage/",
+        "sentiment": -2,
+        "timestamp": 1638897517,
+        "published": "December 7, 2021 12:18 PM"
+    },
+    {
+        "title": "New York billionaire Michael Steinhardt surrenders $70 million of stolen ancient art",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/style/article/michael-steinhardt-ancient-art-surrender-scli-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1638897528,
+        "published": "December 7, 2021 12:18 PM"
+    },
+    {
+        "title": "Chile Congress passes same-sex marriage bill in historic vote",
+        "domain": "nasdaq.com",
+        "category": "news",
+        "link": "https://www.nasdaq.com/articles/chile-congress-passes-same-sex-marriage-bill-in-historic-vote",
+        "sentiment": 0,
+        "timestamp": 1638897881,
+        "published": "December 7, 2021 12:24 PM"
+    },
+    {
+        "title": "Oxford school shooting: Ethan Crumbley appointed lawyer by court after his parents only hired their own",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/crime/ethan-crumbley-oxford-school-shooting-b1971470.html",
+        "sentiment": 0,
+        "timestamp": 1638898047,
+        "published": "December 7, 2021 12:27 PM"
+    },
+    {
+        "title": "An Amazon server outage is causing problems for Alexa, Ring, Disney Plus, and others",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage",
+        "sentiment": -4,
+        "timestamp": 1638898488,
+        "published": "December 7, 2021 12:34 PM"
+    },
+    {
+        "title": "Over 200 papers quietly sue Big Tech",
+        "domain": "axios.com",
+        "category": "technology",
+        "link": "https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html",
+        "sentiment": -1,
+        "timestamp": 1638898605,
+        "published": "December 7, 2021 12:36 PM"
+    },
+    {
+        "title": "Kellogg to permanently replace striking workers as union rejects new contract",
+        "domain": "financialpost.com",
+        "category": "news",
+        "link": "https://financialpost.com/pmn/business-pmn/kellogg-to-permanently-replace-striking-workers-as-union-rejects-new-contract",
+        "sentiment": -1,
+        "timestamp": 1638898745,
+        "published": "December 7, 2021 12:39 PM"
+    },
+    {
+        "title": "High demand for four-day work weeks is coming to United States businesses",
+        "domain": "grandforksherald.com",
+        "category": "news",
+        "link": "https://www.grandforksherald.com/business/7306586-They%E2%80%99re-getting-burnt-out-High-demand-for-four-day-work-weeks-is-coming-to-United-States-businesses",
+        "sentiment": 0,
+        "timestamp": 1638898828,
+        "published": "December 7, 2021 12:40 PM"
+    },
+    {
+        "title": "Microgrids and solar reduce risk of power outages",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-12-microgrids-solar-power-outages.html",
+        "sentiment": -4,
+        "timestamp": 1638898976,
+        "published": "December 7, 2021 12:42 PM"
+    },
+    {
+        "title": "Amazon Web Services are down, taking huge parts of internet offline",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/technology/584696-amazon-web-services-are-down-taking-huge-parts-of-internet-offline",
+        "sentiment": 0,
+        "timestamp": 1638899221,
+        "published": "December 7, 2021 12:47 PM"
+    },
+    {
+        "title": "Sodium-based material yields stable alternative to lithium-ion batteries",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2021-12-sodium-based-material-yields-stable-alternative.html",
+        "sentiment": 2,
+        "timestamp": 1638899654,
+        "published": "December 7, 2021 12:54 PM"
+    },
+    {
+        "title": "Amazon Web Services Outage Unplugs Netflix, Disney+ And Many Websites In Parts Of U.S.",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/amazon-web-services-outage-unplugs-netflix-disney-and-many-websites-in-parts-of-u-s-1234886348/",
+        "sentiment": -2,
+        "timestamp": 1638900055,
+        "published": "December 7, 2021 1:00 PM"
+    },
+    {
+        "title": "‘Sex Lives of College Girls’ Renewed for Season 2 at HBO Max",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2021/12/07/the-sex-lives-of-college-girls-renewed-season-2-hbo-max/",
+        "sentiment": 0,
+        "timestamp": 1638900125,
+        "published": "December 7, 2021 1:02 PM"
+    },
+    {
+        "title": "Co-founder of Google’s text message partner allegedly ran a secret surveillance operation",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-06/this-swiss-tech-exec-is-said-to-have-operated-a-secret-surveillance-operation",
+        "sentiment": 0,
+        "timestamp": 1638900139,
+        "published": "December 7, 2021 1:02 PM"
+    },
+    {
         "title": "Biden mulls blacklisting Russian banks if Putin invades Ukraine",
         "domain": "aljazeera.com",
         "category": "politics",
