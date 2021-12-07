@@ -1,5 +1,95 @@
 [
     {
+        "title": "Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html?utm_medium=social&utm_source=twCNNp&utm_term=link&utm_content=2021-12-07T15%3A07%3A06",
+        "sentiment": -1,
+        "timestamp": 1638895327,
+        "published": "December 7, 2021 11:42 AM"
+    },
+    {
+        "title": "Nick Cannon's 5-month-old son Zen dies of brain tumor",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/nick-cannons-5-month-old-son-zen-dies-brain-tumor-rcna7907",
+        "sentiment": -2,
+        "timestamp": 1638900875,
+        "published": "December 7, 2021 1:14 PM"
+    },
+    {
+        "title": "Biden Vaccine Mandate for Federal Contractors Is Blocked Nationwide",
+        "domain": "bloomberg.com",
+        "category": "news",
+        "link": "https://www.bloomberg.com/news/articles/2021-12-07/biden-vaccine-mandate-for-federal-contractors-blocked-nationwide",
+        "sentiment": -1,
+        "timestamp": 1638905722,
+        "published": "December 7, 2021 2:35 PM"
+    },
+    {
+        "title": "Chile same-sex marriage: Law overwhelmingly approved by parliament",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-latin-america-59570576",
+        "sentiment": 2,
+        "timestamp": 1638905888,
+        "published": "December 7, 2021 2:38 PM"
+    },
+    {
+        "title": "Unvaccinated Illinoisans would pay COVID hospital bills under new proposals",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/unvaccinated-illinoisans-pay-covid-hospital-bills-new-proposals-case-spike-jonathan-carroll-1656752",
+        "sentiment": -1,
+        "timestamp": 1638907362,
+        "published": "December 7, 2021 3:02 PM"
+    },
+    {
+        "title": "Walmart Canada Eliminates Single-Use Plastic Bags",
+        "domain": "techbomb.ca",
+        "category": "worldnews",
+        "link": "https://techbomb.ca/sustainability/walmart-canada-eliminates-single-use-plastic-bags/",
+        "sentiment": 0,
+        "timestamp": 1638908402,
+        "published": "December 7, 2021 3:20 PM"
+    },
+    {
+        "title": "Ukraine's defense minister warns there will be a 'bloody massacre' if Russia invades",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2021/12/07/europe/oleksiy-reznikov-ukraine-russia-interview-intl/index.html",
+        "sentiment": -2,
+        "timestamp": 1638909129,
+        "published": "December 7, 2021 3:32 PM"
+    },
+    {
+        "title": "Republican Idiot Brigade Debuts Dumbest COVID Claims Yet | Marjorie Taylor Greene, for one, has suggested cancer is as transmissible as COVID, while Matt Gaetz wants people to actively contract the virus.",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2021/12/republicans-covid-marjorie-taylor-greene-matt-gaetz-ron-johnson",
+        "sentiment": -4,
+        "timestamp": 1638909187,
+        "published": "December 7, 2021 3:33 PM"
+    },
+    {
+        "title": "Volvo wants to turn your entire windshield into a heads-up display",
+        "domain": "popsci.com",
+        "category": "technology",
+        "link": "https://www.popsci.com/technology/volvo-spectralics-windshield-hud-display/",
+        "sentiment": 0,
+        "timestamp": 1638910592,
+        "published": "December 7, 2021 3:56 PM"
+    },
+    {
+        "title": "NASA Returns Hubble to Full Science Operations",
+        "domain": "nasa.gov",
+        "category": "technology",
+        "link": "https://www.nasa.gov/feature/goddard/2021/nasa-returns-hubble-to-full-science-operations",
+        "sentiment": 0,
+        "timestamp": 1638911203,
+        "published": "December 7, 2021 4:06 PM"
+    },
+    {
         "title": "One of suspected killers of Saudi journalist Khashoggi arrested in France",
         "domain": "reuters.com",
         "category": "worldnews",
