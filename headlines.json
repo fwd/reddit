@@ -1,5 +1,86 @@
 [
     {
+        "title": "Nunes to resign from Congress at end of month",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/584575-nunes-to-resign-from-congress-at-end-of-month",
+        "sentiment": -1,
+        "timestamp": 1638829083,
+        "published": "December 6, 2021 5:18 PM"
+    },
+    {
+        "title": "China Evergrande shares plummet 12% as it edges closer to default",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/business/2021/dec/06/evergrande-shares-plummet-12-as-it-edges-closer-to-default",
+        "sentiment": 1,
+        "timestamp": 1638837389,
+        "published": "December 6, 2021 7:36 PM"
+    },
+    {
+        "title": "People in Trump areas three times more likely to die of Covid, says new analysis",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/trump-covid-death-votes-gop-states-b1970946.html",
+        "sentiment": -3,
+        "timestamp": 1638838499,
+        "published": "December 6, 2021 7:54 PM"
+    },
+    {
+        "title": "Trump’s Social Media Company Is Two Months Old and Already Under Federal Investigation",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trumps-new-media-venture-takes-after-its-founder-by-drawing-attention-of-investigators-1267537/",
+        "sentiment": 0,
+        "timestamp": 1638838833,
+        "published": "December 6, 2021 8:00 PM"
+    },
+    {
+        "title": "Niger Delta communities in ‘great danger’ as month-old oil spill continues: Nigerian oil company cannot contain the old blown-out well, locals advised to evacuate",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/12/niger-delta-communities-in-great-danger-as-month-old-oil-spill-continues/",
+        "sentiment": -1,
+        "timestamp": 1638838935,
+        "published": "December 6, 2021 8:02 PM"
+    },
+    {
+        "title": "Devin Nunes is resigning from Congress to be CEO of new media company",
+        "domain": "npr.org",
+        "category": "technology",
+        "link": "https://www.npr.org/2021/12/06/1061945602/devin-nunes-california-trump-media-truth-social",
+        "sentiment": -1,
+        "timestamp": 1638840333,
+        "published": "December 6, 2021 8:25 PM"
+    },
+    {
+        "title": "SolarWinds hackers have a whole bag of new tricks for mass compromise attacks",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/12/solarwinds-hackers-have-a-whole-bag-of-new-tricks-for-mass-compromise-attacks/",
+        "sentiment": -1,
+        "timestamp": 1638840635,
+        "published": "December 6, 2021 8:30 PM"
+    },
+    {
+        "title": "Off West Africa’s coast, a sea of oil spills goes unreported",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2021/12/off-west-africas-coast-a-sea-of-oil-spills-goes-unreported/",
+        "sentiment": 0,
+        "timestamp": 1638840926,
+        "published": "December 6, 2021 8:35 PM"
+    },
+    {
+        "title": "Microsoft seizes domains used to attack 29 governments across Latin America, Caribbean, Europe",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/microsoft-seizes-domains-used-to-attack-29-governments-across-latin-america-caribbean-europe/",
+        "sentiment": -1,
+        "timestamp": 1638841016,
+        "published": "December 6, 2021 8:36 PM"
+    },
+    {
         "title": "Sylvester Stallone Set To Star In Taylor Sheridan & Terence Winter Drama Series ‘Kansas City’ For Paramount+",
         "domain": "deadline.com",
         "category": "television",
