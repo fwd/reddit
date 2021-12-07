@@ -1,5 +1,59 @@
 [
     {
+        "title": "Trump inadvertently calls himself ‘corrupt and stupid’ and concedes election",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-save-america-statement-2020-elections-b1970458.html",
+        "sentiment": -2,
+        "timestamp": 1638827976,
+        "published": "December 6, 2021 4:59 PM"
+    },
+    {
+        "title": "Scientists Say They Caught China Successfully Changing weather| As the South China Morning Post reports, researchers say that during the Chinese Communist Party’s centennial celebration weather authorities successfully modified the weather above Beijing to clear the sky and reduce pollution.",
+        "domain": "futurism.com",
+        "category": "worldnews",
+        "link": "https://futurism.com/scientists-china-changing-weather",
+        "sentiment": 8,
+        "timestamp": 1638830602,
+        "published": "December 6, 2021 5:43 PM"
+    },
+    {
+        "title": "Exclusive: SEC probes Tesla over whistleblower claims on solar panel defects",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/markets/commodities/exclusive-sec-probes-tesla-over-whistleblower-claims-solar-panel-defects-2021-12-06/",
+        "sentiment": -1,
+        "timestamp": 1638838516,
+        "published": "December 6, 2021 7:55 PM"
+    },
+    {
+        "title": "Honolulu shut down its largest water source in Oahu due to reported contamination of Navy well near Pearl Harbor",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/05/us/honolulu-halawa-shaft-water-source-contamination-navy-well-oahu/index.html",
+        "sentiment": -2,
+        "timestamp": 1638841913,
+        "published": "December 6, 2021 8:51 PM"
+    },
+    {
+        "title": "Japan puts new restrictions on stablecoins",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/6/22821188/japan-puts-new-restrictions-on-stablecoins",
+        "sentiment": 0,
+        "timestamp": 1638843761,
+        "published": "December 6, 2021 9:22 PM"
+    },
+    {
+        "title": "House Democrats Take Antitrust Aim at Discovery-WarnerMedia Deal",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/global/democrats-justice-department-warnermedia-discovery-antitrust-1235126826/",
+        "sentiment": 0,
+        "timestamp": 1638845190,
+        "published": "December 6, 2021 9:46 PM"
+    },
+    {
         "title": "Nunes to resign from Congress at end of month",
         "domain": "thehill.com",
         "category": "politics",
