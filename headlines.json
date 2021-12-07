@@ -1,5 +1,86 @@
 [
     {
+        "title": "BBC News: Jamal Khashoggi: Suspect in murder of journalist arrested in Paris",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-europe-59561881",
+        "sentiment": -6,
+        "timestamp": 1638895422,
+        "published": "December 7, 2021 11:43 AM"
+    },
+    {
+        "title": "Biden: 'We have to stand against the resurgence of this tide of antisemitism'",
+        "domain": "m.jpost.com",
+        "category": "politics",
+        "link": "https://m.jpost.com/diaspora/biden-we-have-to-stand-against-the-resurgence-of-this-tide-of-antisemitism-687595",
+        "sentiment": 0,
+        "timestamp": 1638897523,
+        "published": "December 7, 2021 12:18 PM"
+    },
+    {
+        "title": "Nathan Bedford Forrest statue along I-65 removed after more than 2 decades",
+        "domain": "newschannel5.com",
+        "category": "news",
+        "link": "https://www.newschannel5.com/news/nathan-bedford-forrest-statue-along-i-65-being-removed-after-more-than-2-decades",
+        "sentiment": 0,
+        "timestamp": 1638899927,
+        "published": "December 7, 2021 12:58 PM"
+    },
+    {
+        "title": "‘Hipster Death Rattle’ Drama Series From Rafael Agustín, Marvin Lemus, & Wilmer Valderrama In Development At The CW",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/hipster-death-rattle-series-rafael-agustin-marvin-lemus-wilmer-valderrama-development-cw-1234885831/",
+        "sentiment": -2,
+        "timestamp": 1638900522,
+        "published": "December 7, 2021 1:08 PM"
+    },
+    {
+        "title": "AWS outage means major sites are down in some East Coast cities",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/tech/services-and-software/aws-outage-means-major-sites-are-down-in-some-east-coast-cities/",
+        "sentiment": -2,
+        "timestamp": 1638901893,
+        "published": "December 7, 2021 1:31 PM"
+    },
+    {
+        "title": "Elon Musk's Neuralink to begin implanting microchips in human brains in 2022",
+        "domain": "ottawacitizen.com",
+        "category": "technology",
+        "link": "https://ottawacitizen.com/news/elon-musks-neuralink-to-begin-implanting-microchips-in-human-brains-in-2022/wcm/cf7361fd-8c1c-4c94-832d-7da51a8e3b49?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0rcFtpymkqZpO1eIi74l4HBgUBGtzBmMnzxxx06I2cCc_TWtzeSN7PttA#Echobox=1638897388",
+        "sentiment": 0,
+        "timestamp": 1638901905,
+        "published": "December 7, 2021 1:31 PM"
+    },
+    {
+        "title": "US Navy is developing GPS that uses cosmic rays to navigate the Arctic",
+        "domain": "newscientist.com",
+        "category": "technology",
+        "link": "https://www.newscientist.com/article/2300571-us-navy-is-developing-gps-that-uses-cosmic-rays-to-navigate-the-arctic/",
+        "sentiment": 0,
+        "timestamp": 1638902427,
+        "published": "December 7, 2021 1:40 PM"
+    },
+    {
+        "title": "Facebook's head of Messenger leaving company in 2022 as executive exodus continues",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2021/12/07/facebook-head-of-messenger-stan-chudnovsky-leaving-company-in-2022.html",
+        "sentiment": 0,
+        "timestamp": 1638903266,
+        "published": "December 7, 2021 1:54 PM"
+    },
+    {
+        "title": "‘Outer Banks’ Renewed for Season 3 on Netflix",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/outer-banks-netflix-season-3-1235128132/",
+        "sentiment": 0,
+        "timestamp": 1638903745,
+        "published": "December 7, 2021 2:02 PM"
+    },
+    {
         "title": "An angry rift between Trump and Steve Bannon signals the far right’s future",
         "domain": "washingtonpost.com",
         "category": "politics",
