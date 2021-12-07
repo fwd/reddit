@@ -1,5 +1,131 @@
 [
     {
+        "title": "Biden mulls blacklisting Russian banks if Putin invades Ukraine",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/economy/2021/12/7/biden-mulls-blacklisting-russian-banks-if-putin-invades-ukraine",
+        "sentiment": 0,
+        "timestamp": 1638889788,
+        "published": "December 7, 2021 10:09 AM"
+    },
+    {
+        "title": "Super-rich increase their share of world's income",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/business-59565690",
+        "sentiment": 2,
+        "timestamp": 1638891273,
+        "published": "December 7, 2021 10:34 AM"
+    },
+    {
+        "title": "One of suspected killers of Saudi journalist Khashoggi arrested at Paris airport (police sources)",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211207-one-of-suspected-killers-of-saudi-journalist-khashoggi-arrested-at-paris-airport-police-sources",
+        "sentiment": -4,
+        "timestamp": 1638891599,
+        "published": "December 7, 2021 10:39 AM"
+    },
+    {
+        "title": "Ford delays return to office for 30,000 workers because of Covid concerns",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/06/business/ford-return-to-office-delay/index.html",
+        "sentiment": 0,
+        "timestamp": 1638892919,
+        "published": "December 7, 2021 11:01 AM"
+    },
+    {
+        "title": "Musk Warns SpaceX Possibly Facing Bankruptcy",
+        "domain": "extremetech.com",
+        "category": "technology",
+        "link": "https://www.extremetech.com/extreme/329505-musk-warns-spacex-possibly-facing-bankruptcy",
+        "sentiment": -5,
+        "timestamp": 1638893147,
+        "published": "December 7, 2021 11:05 AM"
+    },
+    {
+        "title": "Michigan attorney general swipes at school district that declines shooting investigation offer",
+        "domain": "deadlinedetroit.com",
+        "category": "news",
+        "link": "https://www.deadlinedetroit.com/articles/29414/michigan_ag_nessel_swipes_at_oxford_schools_after_district_declines_shooting_inquiry_offer",
+        "sentiment": 0,
+        "timestamp": 1638893615,
+        "published": "December 7, 2021 11:13 AM"
+    },
+    {
+        "title": "Opinion: The media has given Republicans a free pass on assaulting democracy",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/07/media-has-given-republicans-free-pass-assaulting-democracy",
+        "sentiment": 1,
+        "timestamp": 1638894236,
+        "published": "December 7, 2021 11:23 AM"
+    },
+    {
+        "title": "Report: Apple CEO Tim Cook signed secret $275 billion deal with China",
+        "domain": "imore.com",
+        "category": "news",
+        "link": "https://www.imore.com/report-apple-ceo-tim-cook-signed-secret-275-billion-deal-china",
+        "sentiment": 0,
+        "timestamp": 1638895148,
+        "published": "December 7, 2021 11:39 AM"
+    },
+    {
+        "title": "It Took 74 Days for Ahmaud Arbery's Murderers to Be Arrested. A Top ACLU Lawyer Is Decrying a 'Cover Up' by Local Prosecutors: When district attorneys shield killers from accountability, it “really does call into question the integrity of the system”",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/culture/culture-news/ahmaud-arbery-murder-justice-aclu-1267506/",
+        "sentiment": 1,
+        "timestamp": 1638896215,
+        "published": "December 7, 2021 11:56 AM"
+    },
+    {
+        "title": "Paramount+ Still ‘Couple Years’ Away From Profitability, ViacomCBS President Bob Bakish Says",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/paramount-plus-profitability-bob-bakish-viacomcbs/",
+        "sentiment": 0,
+        "timestamp": 1638896224,
+        "published": "December 7, 2021 11:57 AM"
+    },
+    {
+        "title": "AWS us-east-1 outage brings down services around the world",
+        "domain": "datacenterdynamics.com",
+        "category": "technology",
+        "link": "https://www.datacenterdynamics.com/en/news/aws-us-east-1-outage-brings-down-services-around-the-world/",
+        "sentiment": -2,
+        "timestamp": 1638896819,
+        "published": "December 7, 2021 12:06 PM"
+    },
+    {
+        "title": "'The Boys’ Season 3 Reveals First Image of Nick Wechsler as Blue Hawk",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-boys-season-3-blue-hawk-image-nick-wechsler/",
+        "sentiment": 0,
+        "timestamp": 1638896831,
+        "published": "December 7, 2021 12:07 PM"
+    },
+    {
+        "title": "StrikeX hires new Interim Chief Technical Officer to deliver TradeStrike roadmap",
+        "domain": "ffnews.com",
+        "category": "technology",
+        "link": "https://ffnews.com/newsarticle/strikex-hires-new-interim-chief-technical-officer-to-deliver-tradestrike-roadmap/",
+        "sentiment": 0,
+        "timestamp": 1638897554,
+        "published": "December 7, 2021 12:19 PM"
+    },
+    {
+        "title": "Jessica Rosenworcel confirmed by Senate to lead the FCC",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/7/22820873/jessica-rosenworcel-fcc-chair-confirmed-biden-net-neutrality",
+        "sentiment": 0,
+        "timestamp": 1638897846,
+        "published": "December 7, 2021 12:24 PM"
+    },
+    {
         "title": "A critical time: Small handful of educators losing jobs for lessons linked to race, not CRT",
         "domain": "usatoday.com",
         "category": "politics",
