@@ -1,5 +1,113 @@
 [
     {
+        "title": "The Sydney Opera House in Australia has renewed a contract that will pay AU$376,380 ($265,515 USD) for a team of dogs over the next two years to chase seagulls away from the iconic landmark. The pooches are from a company called Mad Dogs and Englishmen.",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/sydney-opera-house-extends-six-figure-contract-dogs-that-chase-seagulls-1656667",
+        "sentiment": -2,
+        "timestamp": 1638871707,
+        "published": "December 7, 2021 5:08 AM"
+    },
+    {
+        "title": "U.S. Military Installs Long-Range Missile-Defense System In Alaska",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/us-alaska-defense-system/31597244.html",
+        "sentiment": 0,
+        "timestamp": 1638878028,
+        "published": "December 7, 2021 6:53 AM"
+    },
+    {
+        "title": "Biden to tell Putin he'll face toughest sanctions yet if he invades Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/currencies/biden-putin-set-crucial-call-over-ukraine-2021-12-07/",
+        "sentiment": 0,
+        "timestamp": 1638878555,
+        "published": "December 7, 2021 7:02 AM"
+    },
+    {
+        "title": "\"January 6 was Practice\" why are Democrats so under responsive?",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/press-releases/archive/2021/12/atlantic-special-issue-american-democracy-crisis/620913/",
+        "sentiment": 2,
+        "timestamp": 1638882433,
+        "published": "December 7, 2021 8:07 AM"
+    },
+    {
+        "title": "EU paves way for cheaper internet, bicycles, solar panels",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/commodities/eu-paves-way-cheaper-internet-bicycles-solar-panels-2021-12-07/",
+        "sentiment": 0,
+        "timestamp": 1638882541,
+        "published": "December 7, 2021 8:09 AM"
+    },
+    {
+        "title": "These Real Estate and Oil Tycoons Avoided Paying Taxes for Years",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/these-real-estate-and-oil-tycoons-used-paper-losses-to-avoid-paying-taxes-for-years?utm_source=sailthru&utm_medium=email&utm_campaign=majorinvestigations&utm_content=feature",
+        "sentiment": -1,
+        "timestamp": 1638882787,
+        "published": "December 7, 2021 8:13 AM"
+    },
+    {
+        "title": "Take Abortion Out of the Court’s Hands - Abortion rights shouldn’t be at the mercy of the judiciary. We need federal legislation codifying Roe v. Wade — and Democrats need to buck up and eliminate the filibuster to pass it.",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/12/abortion-rights-roe-v-wade-supreme-court-congress-legislation",
+        "sentiment": 2,
+        "timestamp": 1638884330,
+        "published": "December 7, 2021 8:38 AM"
+    },
+    {
+        "title": "Spokane Police: No evidence murder victim sex trafficked suspect's daughter",
+        "domain": "kxly.com",
+        "category": "news",
+        "link": "https://www.kxly.com/spokane-police-no-evidence-murder-victim-sex-trafficked-suspects-daughter/",
+        "sentiment": -6,
+        "timestamp": 1638884768,
+        "published": "December 7, 2021 8:46 AM"
+    },
+    {
+        "title": "Hillary Clinton was right about the \"deplorables\" — and about the end of Roe v. Wade | Still hate Hillary's guts? Fine. But let's admit that she saw all this coming — and way before the rise of Trump",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/07/hillary-clinton-was-right-about-the-deplorables--and-about-reproductive-rights/",
+        "sentiment": -1,
+        "timestamp": 1638884799,
+        "published": "December 7, 2021 8:46 AM"
+    },
+    {
+        "title": "Taliban gunmen steal tonnes of Australian food sent to the poorest Afghanistan families",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10283269/Taliban-gunmen-steal-tonnes-Australian-food-sent-poorest-Afghanistan-families.html",
+        "sentiment": -4,
+        "timestamp": 1638884877,
+        "published": "December 7, 2021 8:47 AM"
+    },
+    {
+        "title": "\"Reading Rainbow\" to return after 15-year hiatus",
+        "domain": "cbsnews.com",
+        "category": "television",
+        "link": "https://www.cbsnews.com/news/reading-rainbow-live-returns/",
+        "sentiment": 0,
+        "timestamp": 1638886186,
+        "published": "December 7, 2021 9:09 AM"
+    },
+    {
+        "title": "Facing Hostile Chinese Authorities, Apple CEO Signed $275 Billion Deal With Them",
+        "domain": "theinformation.com",
+        "category": "technology",
+        "link": "https://www.theinformation.com/articles/facing-hostile-chinese-authorities-apple-ceo-signed-275-billion-deal-with-them",
+        "sentiment": -2,
+        "timestamp": 1638886906,
+        "published": "December 7, 2021 9:21 AM"
+    },
+    {
         "title": "Why Fox News lets Lara Logan call Dr. Fauci a Nazi — and get away with it | Like Reps. Lauren Boebert and Marjorie Taylor Greene, Logan is a rhetorical bomb thrower who holds the GOP together",
         "domain": "salon.com",
         "category": "politics",
