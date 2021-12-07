@@ -1,5 +1,68 @@
 [
     {
+        "title": "‘Alternative Mueller report’ prepared by team investigating Trump could be released by Justice Department",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/alternative-mueller-report-trump-doj-b1970275.html",
+        "sentiment": 3,
+        "timestamp": 1638868024,
+        "published": "December 7, 2021 4:07 AM"
+    },
+    {
+        "title": "Mass starvation looms in Afghanistan as half the country faces hunger under Taliban rule",
+        "domain": "foxnews.com",
+        "category": "worldnews",
+        "link": "https://www.foxnews.com/world/more-than-half-of-afghans-face-extreme-hunger-as-humanitarian-crisis-intensifies-under-taliban-rule",
+        "sentiment": -3,
+        "timestamp": 1638870028,
+        "published": "December 7, 2021 4:40 AM"
+    },
+    {
+        "title": "T.rex gets Christmas jumper at Natural History Museum in London",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-england-leicestershire-59545622",
+        "sentiment": 1,
+        "timestamp": 1638872881,
+        "published": "December 7, 2021 5:28 AM"
+    },
+    {
+        "title": "Switzerland To Use 'suicide Pod' Which Promises Painless Death In 1 Minute",
+        "domain": "moneycontrol.com",
+        "category": "worldnews",
+        "link": "https://www.moneycontrol.com/news/trends/switzerland-to-use-suicide-pod-which-promises-painless-death-in-1-minute-7800091.html",
+        "sentiment": -1,
+        "timestamp": 1638873272,
+        "published": "December 7, 2021 5:34 AM"
+    },
+    {
+        "title": "Hawaii faces life-threatening flooding after some areas of the state see more than a foot of rain in 48 hours",
+        "domain": "amp.cnn.com",
+        "category": "news",
+        "link": "https://amp.cnn.com/cnn/2021/12/07/weather/hawaii-rainfall-flooding-threat/index.html",
+        "sentiment": 0,
+        "timestamp": 1638874011,
+        "published": "December 7, 2021 5:46 AM"
+    },
+    {
+        "title": "Michael Flynn’s brother lied to Congress in Capitol riot testimony, ex-aide says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/michael-flynn-brother-capitol-riot-b1970877.html",
+        "sentiment": -4,
+        "timestamp": 1638874163,
+        "published": "December 7, 2021 5:49 AM"
+    },
+    {
+        "title": "Parents knowingly sent their child to school after they tested positive for Covid-19. 75 classmates were forced to quarantine",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2021/12/06/us/student-quarantine-covid-school-trnd/index.html",
+        "sentiment": 1,
+        "timestamp": 1638877098,
+        "published": "December 7, 2021 6:38 AM"
+    },
+    {
         "title": "China claims to have ‘democracy that works’ ahead of Biden summit",
         "domain": "aljazeera.com",
         "category": "worldnews",
