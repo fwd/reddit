@@ -1,5 +1,95 @@
 [
     {
+        "title": "One of suspected killers of Saudi journalist Khashoggi arrested in France",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/one-suspected-killers-saudi-journalist-khashoggi-arrested-france-rtl-2021-12-07/",
+        "sentiment": -4,
+        "timestamp": 1638893438,
+        "published": "December 7, 2021 11:10 AM"
+    },
+    {
+        "title": "Man killed family, then self, over faked vaccine pass -German prosecutor",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/man-killed-family-then-self-over-faked-vaccine-pass-german-prosecutor-2021-12-07/",
+        "sentiment": -3,
+        "timestamp": 1638899404,
+        "published": "December 7, 2021 12:50 PM"
+    },
+    {
+        "title": "MAGA moms meet Madison Cawthorn's challenge: Why right-wing women raise their sons as \"monsters\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/06/maga-moms-meet-madison-cawthorns-challenge-why-right-wing-women-raise-their-sons-as-monsters/",
+        "sentiment": -1,
+        "timestamp": 1638901528,
+        "published": "December 7, 2021 1:25 PM"
+    },
+    {
+        "title": "Sinema Targeted Over 'Morally Unforgivable' Tax Loophole for the Rich",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/07/sinema-targeted-over-morally-unforgivable-tax-loophole-rich",
+        "sentiment": 2,
+        "timestamp": 1638902054,
+        "published": "December 7, 2021 1:34 PM"
+    },
+    {
+        "title": "Toxic and unethical: One night with Facebook's Oculus Quest 2 was enough",
+        "domain": "zdnet.com",
+        "category": "technology",
+        "link": "https://www.zdnet.com/article/one-night-with-facebooks-oculus-quest-2-was-enough/",
+        "sentiment": -5,
+        "timestamp": 1638904436,
+        "published": "December 7, 2021 2:13 PM"
+    },
+    {
+        "title": "Several Sites Down as Major Outage Hits Amazon Web Services",
+        "domain": "nbcphiladelphia.com",
+        "category": "technology",
+        "link": "https://www.nbcphiladelphia.com/news/national-international/several-sites-down-as-major-outage-hits-amazon-web-services/3070954/",
+        "sentiment": -2,
+        "timestamp": 1638904538,
+        "published": "December 7, 2021 2:15 PM"
+    },
+    {
+        "title": "Study Finds Viagra Usage Could Reduce Alzheimer's Risk by 70 Percent",
+        "domain": "interestingengineering.com",
+        "category": "technology",
+        "link": "https://interestingengineering.com/study-finds-viagra-usage-could-reduce-alzheimers-risk-by-70-percent",
+        "sentiment": -2,
+        "timestamp": 1638904926,
+        "published": "December 7, 2021 2:22 PM"
+    },
+    {
+        "title": "‘Power Book II: Ghost’ Renewed For Season 3 At Starz; Brett Mahoney Takes Over As Showrunner",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/power-book-ii-ghost-renewed-starz-season-3-1234886534/",
+        "sentiment": 0,
+        "timestamp": 1638906048,
+        "published": "December 7, 2021 2:40 PM"
+    },
+    {
+        "title": "Santo & Johnny performing \"Sleep Walk\" on Dick Clark's American Bandstand (1959)",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/LhAX5qUUUlc",
+        "sentiment": -4,
+        "timestamp": 1638907323,
+        "published": "December 7, 2021 3:02 PM"
+    },
+    {
+        "title": "'Snowpiercer' Season 3 Official Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=X927yZ9fLIY",
+        "sentiment": 0,
+        "timestamp": 1638908671,
+        "published": "December 7, 2021 3:24 PM"
+    },
+    {
         "title": "BBC News: Jamal Khashoggi: Suspect in murder of journalist arrested in Paris",
         "domain": "bbc.co.uk",
         "category": "worldnews",
