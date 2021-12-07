@@ -1,5 +1,167 @@
 [
     {
+        "title": "A critical time: Small handful of educators losing jobs for lessons linked to race, not CRT",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/education/2021/12/04/critical-race-theory-removing-teachers/8777032002/?gnt-cfr=1",
+        "sentiment": -3,
+        "timestamp": 1638884293,
+        "published": "December 7, 2021 8:38 AM"
+    },
+    {
+        "title": "Justice Kavanaugh’s Empty Democratic Promise",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/ideas/archive/2021/12/false-democratic-promise-returning-abortion-states/620907/",
+        "sentiment": 2,
+        "timestamp": 1638887366,
+        "published": "December 7, 2021 9:29 AM"
+    },
+    {
+        "title": "Ukraine warns of a 'bloody massacre' and five million refugees fleeing into Europe if Russia invades, as Kremlin says escalating tensions are 'off the scale'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10283695/Escalating-tensions-Europe-scale-Russia-warns-ahead-talks-Biden-Putin.html",
+        "sentiment": -2,
+        "timestamp": 1638887510,
+        "published": "December 7, 2021 9:31 AM"
+    },
+    {
+        "title": "Hedge-fund pioneer Michael Steinhardt surrenders 180 stolen antiquities valued at $70 million, and has been banned for life from acquiring antiquities",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/12/06/hedge-fund-pioneer-michael-steinhardt-surrenders-stolen-antiquities-vance-says-.html",
+        "sentiment": -4,
+        "timestamp": 1638888873,
+        "published": "December 7, 2021 9:54 AM"
+    },
+    {
+        "title": "Former D.C. Guard official accuses Army generals of lying to Congress about Jan. 6 response",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/morning-joe/watch/former-d-c-guard-official-accuses-army-generals-of-lying-to-congress-about-jan-6-response-128089669612",
+        "sentiment": -2,
+        "timestamp": 1638889756,
+        "published": "December 7, 2021 10:09 AM"
+    },
+    {
+        "title": "MIT Geophysicist : CO2 ocean acidification is pushing marine ecology to the brink.",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/headed-for-a-sixth-mass-extinction-mit-geophysicist-warns-oceans-are-on-the-brink/",
+        "sentiment": 0,
+        "timestamp": 1638889757,
+        "published": "December 7, 2021 10:09 AM"
+    },
+    {
+        "title": "Rohingya refugees from Myanmar sue Facebook for $150B for spreading hate speech",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/business/rohingya-refugee-meta-facebook-1.6276183",
+        "sentiment": -5,
+        "timestamp": 1638890535,
+        "published": "December 7, 2021 10:22 AM"
+    },
+    {
+        "title": "GOP blaming Dems for Michigan school shooting fits its midterm election strategy",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/gop-blaming-dems-michigan-school-shooting-fits-its-midterm-election-n1285485",
+        "sentiment": -2,
+        "timestamp": 1638890576,
+        "published": "December 7, 2021 10:22 AM"
+    },
+    {
+        "title": "People in counties that voted Trump more likely to die from Covid – study",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/07/trump-voters-counties-more-likely-die-covid-study",
+        "sentiment": -3,
+        "timestamp": 1638890992,
+        "published": "December 7, 2021 10:29 AM"
+    },
+    {
+        "title": "Apple made secret 5-year $275B deal with Chinese government",
+        "domain": "appleinsider.com",
+        "category": "technology",
+        "link": "https://appleinsider.com/articles/21/12/07/apple-made-secret-5-year-275b-deal-with-chinese-government",
+        "sentiment": 0,
+        "timestamp": 1638891146,
+        "published": "December 7, 2021 10:32 AM"
+    },
+    {
+        "title": "China is increasingly distorting the news and influencing media in Canada, spy agency warns | CBC News",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/csis-trudeau-china-media-1.6270750?__vfz=medium%3Dsharebar",
+        "sentiment": -4,
+        "timestamp": 1638891905,
+        "published": "December 7, 2021 10:45 AM"
+    },
+    {
+        "title": "Jamal Khashoggi: Suspect in murder of journalist arrested",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59561881",
+        "sentiment": -6,
+        "timestamp": 1638892119,
+        "published": "December 7, 2021 10:48 AM"
+    },
+    {
+        "title": "Charlottesville’s Statue of Confederate General Robert E. Lee will be melted down",
+        "domain": "cvilletomorrow.org",
+        "category": "news",
+        "link": "https://www.cvilletomorrow.org/articles/charlottesvilles-statue-of-confederate-general-robert-e-lee-will-be-melted-down/",
+        "sentiment": 0,
+        "timestamp": 1638892289,
+        "published": "December 7, 2021 10:51 AM"
+    },
+    {
+        "title": "Apple CEO Tim Cook 'Secretly' Signed $275 Billion Deal With China in 2016",
+        "domain": "macrumors.com",
+        "category": "technology",
+        "link": "https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/",
+        "sentiment": 0,
+        "timestamp": 1638892515,
+        "published": "December 7, 2021 10:55 AM"
+    },
+    {
+        "title": "Daredevil's Vincent D'Onofrio Reacts To Charlie Cox Staying In The MCU As His Own Rumors Swirl",
+        "domain": "cinemablend.com",
+        "category": "television",
+        "link": "https://www.cinemablend.com/superheroes/marvel-cinematic-universe/daredevils-vincent-donofrio-reacts-to-charlie-cox-staying-in-the-mcu-as-his-own-rumors-swirl",
+        "sentiment": 0,
+        "timestamp": 1638892610,
+        "published": "December 7, 2021 10:56 AM"
+    },
+    {
+        "title": "Tesla Drivers Can Now Play Video Games Even With Car Moving",
+        "domain": "dnyuz.com",
+        "category": "technology",
+        "link": "https://dnyuz.com/2021/12/07/tesla-drivers-can-now-play-video-games-even-with-car-moving/",
+        "sentiment": 0,
+        "timestamp": 1638893487,
+        "published": "December 7, 2021 11:11 AM"
+    },
+    {
+        "title": "'Last of Us' HBO Series Casts Nick Offerman as Bill",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/last-of-us-hbo-series-cast-nick-offerman-bill-1235128002/",
+        "sentiment": 0,
+        "timestamp": 1638893752,
+        "published": "December 7, 2021 11:15 AM"
+    },
+    {
+        "title": "Home Routers are Full of Security Bugs—Patch NOW",
+        "domain": "securityboulevard.com",
+        "category": "technology",
+        "link": "https://securityboulevard.com/2021/12/home-routers-are-full-of-security-bugs-patch-now/",
+        "sentiment": 0,
+        "timestamp": 1638894614,
+        "published": "December 7, 2021 11:30 AM"
+    },
+    {
         "title": "ICIJ releases new Pandora Papers data from two offshore service providers - ICIJ",
         "domain": "icij.org",
         "category": "worldnews",
