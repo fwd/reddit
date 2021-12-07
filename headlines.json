@@ -1,5 +1,140 @@
 [
     {
+        "title": "Why Fox News lets Lara Logan call Dr. Fauci a Nazi — and get away with it | Like Reps. Lauren Boebert and Marjorie Taylor Greene, Logan is a rhetorical bomb thrower who holds the GOP together",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/06/why-fox-news-lets-lara-logan-call-dr-fauci-a-nazi-and-get-away-with-it/",
+        "sentiment": 1,
+        "timestamp": 1638862829,
+        "published": "December 7, 2021 2:40 AM"
+    },
+    {
+        "title": "How can the people who have seen the worst of Trump still think the best of him?",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/06/how-can-people-who-have-seen-worst-trump-still-think-best-him/",
+        "sentiment": 0,
+        "timestamp": 1638869929,
+        "published": "December 7, 2021 4:38 AM"
+    },
+    {
+        "title": "HBO's 'Landscapers' humanizes a loving couple at the center of a grisly crime",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2021/12/05/1061669076/tv-review-hbo-miniseries-landscapers",
+        "sentiment": -3,
+        "timestamp": 1638872670,
+        "published": "December 7, 2021 5:24 AM"
+    },
+    {
+        "title": "Rohingya refugees sue Facebook for $150 billion over Myanmar violence",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/rohingya-refugees-sue-facebook-150-billion-over-myanmar-violence-2021-12-07/",
+        "sentiment": -5,
+        "timestamp": 1638874096,
+        "published": "December 7, 2021 5:48 AM"
+    },
+    {
+        "title": "Do Trumpy Republicans believe their own bulls--t? Or is it all performance? Or can they even tell the difference anymore?",
+        "domain": "theweek.com",
+        "category": "politics",
+        "link": "https://theweek.com/donald-trump/1007666/the-nagging-mystery-of-trumps-bs",
+        "sentiment": 0,
+        "timestamp": 1638875275,
+        "published": "December 7, 2021 6:07 AM"
+    },
+    {
+        "title": "Honeywell-backed company to sell super secure quantum encryption key",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/honeywell-backed-company-sell-super-secure-quantum-encryption-key-2021-12-07/",
+        "sentiment": 5,
+        "timestamp": 1638876677,
+        "published": "December 7, 2021 6:31 AM"
+    },
+    {
+        "title": "Joe Manchin joins GOP, moves to block Biden's vaccine mandate for businesses",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/07/joe-manchin-joins-gop-moves-to-block-bidens-vaccine-mandate-for-businesses/",
+        "sentiment": -1,
+        "timestamp": 1638877513,
+        "published": "December 7, 2021 6:45 AM"
+    },
+    {
+        "title": "Boston-area coronavirus wastewater levels are skyrocketing: ‘This is pretty worrisome’",
+        "domain": "bostonherald.com",
+        "category": "worldnews",
+        "link": "https://www.bostonherald.com/2021/12/05/boston-area-coronavirus-wastewater-levels-are-skyrocketing-this-is-pretty-worrisome/",
+        "sentiment": 1,
+        "timestamp": 1638878136,
+        "published": "December 7, 2021 6:55 AM"
+    },
+    {
+        "title": "How remouldable computer hardware is speeding up science",
+        "domain": "nature.com",
+        "category": "technology",
+        "link": "https://www.nature.com/articles/d41586-021-03627-8",
+        "sentiment": 0,
+        "timestamp": 1638878229,
+        "published": "December 7, 2021 6:57 AM"
+    },
+    {
+        "title": "Aurangabad: Indian teen arrested for beheading pregnant sister",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-asia-india-59559122",
+        "sentiment": -3,
+        "timestamp": 1638879682,
+        "published": "December 7, 2021 7:21 AM"
+    },
+    {
+        "title": "Indonesian court refuses to reinstate permits for palm oil companies to exploit ancestral lands",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/economy/2021/12/7/indonesian-court-delivers-victory-for-indigenous-rights-in-papua",
+        "sentiment": -4,
+        "timestamp": 1638881109,
+        "published": "December 7, 2021 7:45 AM"
+    },
+    {
+        "title": "Trump ally Steve Bannon can be prosecuted in a single day, DOJ says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-steve-bannon-prosecution-doj-justice-department-contempt-january-6-2021-12",
+        "sentiment": 0,
+        "timestamp": 1638881503,
+        "published": "December 7, 2021 7:51 AM"
+    },
+    {
+        "title": "Female Aviation Grad Is First For Standing Rock Lakota Tribe",
+        "domain": "flyingmag.com",
+        "category": "news",
+        "link": "https://www.flyingmag.com/female-aviation-grad-is-first-for-standing-rock-lakota-tribe/",
+        "sentiment": 0,
+        "timestamp": 1638882606,
+        "published": "December 7, 2021 8:10 AM"
+    },
+    {
+        "title": "Microsoft seizes domains used by “highly sophisticated” hackers in China",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2021/12/microsoft-seizes-domains-used-by-highly-sophisticated-hackers-in-china/",
+        "sentiment": 0,
+        "timestamp": 1638883154,
+        "published": "December 7, 2021 8:19 AM"
+    },
+    {
+        "title": "Giada De Laurentiis Renews Food Network Deal, Will Launch ‘Simply Giada’ Series",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2021/tv/news/giada-de-laurentiis-food-network-renewal-1235127813/",
+        "sentiment": 0,
+        "timestamp": 1638884005,
+        "published": "December 7, 2021 8:33 AM"
+    },
+    {
         "title": "‘Alternative Mueller report’ prepared by team investigating Trump could be released by Justice Department",
         "domain": "independent.co.uk",
         "category": "politics",
