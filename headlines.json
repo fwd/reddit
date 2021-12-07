@@ -1,5 +1,113 @@
 [
     {
+        "title": "An extreme lack of sea ice in Canada this winter should serve as a “wake-up call” for the risk climate change poses to polar bears, say conservationists. Ice normally starts forming in Hudson Bay in November, but the area has remained almost entirely ice-free in the face of temps 6°C above average.",
+        "domain": "newscientist.com",
+        "category": "worldnews",
+        "link": "https://www.newscientist.com/article/2300385-extreme-lack-of-sea-ice-in-hudson-bay-puts-polar-bears-under-pressure/",
+        "sentiment": -4,
+        "timestamp": 1638898808,
+        "published": "December 7, 2021 12:40 PM"
+    },
+    {
+        "title": "Sailor arrested after F-35 aircraft carrier crash video leak",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "worldnews",
+        "link": "https://ukdefencejournal.org.uk/sailor-arrested-after-f-35-aircraft-carrier-crash-video-leak/",
+        "sentiment": -6,
+        "timestamp": 1638904553,
+        "published": "December 7, 2021 2:15 PM"
+    },
+    {
+        "title": "Microsoft says it took over servers being used by China-based hacking group Nickel",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2021/12/7/22822255/microsoft-hackers-china-nickel-apt15",
+        "sentiment": 0,
+        "timestamp": 1638905317,
+        "published": "December 7, 2021 2:28 PM"
+    },
+    {
+        "title": "Jan. 6 committee says it will recommend criminal contempt charges against Mark Meadows if he doesn't appear for his scheduled deposition",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/jan-6-committee-prepares-to-recommend-criminal-charges-against-meadows-2021-12",
+        "sentiment": -5,
+        "timestamp": 1638910383,
+        "published": "December 7, 2021 3:53 PM"
+    },
+    {
+        "title": "The Justice Department should unleash its wrath on Mark Meadows — and all other obstructionists",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2021/12/07/justice-department-should-unleash-its-wrath-mark-meadows-all-other-obstructionists/",
+        "sentiment": 2,
+        "timestamp": 1638911184,
+        "published": "December 7, 2021 4:06 PM"
+    },
+    {
+        "title": "Biden told Putin that 'things we did not do in 2014, we are prepared to do now' if Russia invades Ukraine, top adviser says",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2021/12/07/politics/biden-putin-call-ukraine/index.html",
+        "sentiment": 3,
+        "timestamp": 1638912037,
+        "published": "December 7, 2021 4:20 PM"
+    },
+    {
+        "title": "Texas school district pulls 400 books from library shelves for review after lawmaker’s inquiry",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/texas-school-district-pulls-400-books-library-shelves-review-lawmakers-rcna7891",
+        "sentiment": 0,
+        "timestamp": 1638912276,
+        "published": "December 7, 2021 4:24 PM"
+    },
+    {
+        "title": "“Functional cure” for type 1 diabetes passes first human trials. A pair of new studies are reporting results from a landmark type 1 diabetes human clinical trial testing the safety and efficacy of an implantable device containing stem cells designed to mature into insulin-secreting cells.",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/medical/stem-cell-implant-type1-diabetes-passes-first-human-trials/",
+        "sentiment": 5,
+        "timestamp": 1638912932,
+        "published": "December 7, 2021 4:35 PM"
+    },
+    {
+        "title": "The CIA Is Deep Into Cryptocurrency, Director Reveals",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/dyp7vw/the-cia-is-deep-into-cryptocurrency-director-reveals",
+        "sentiment": 0,
+        "timestamp": 1638913360,
+        "published": "December 7, 2021 4:42 PM"
+    },
+    {
+        "title": "More than 300 scientists have told Mark Zuckerberg they want access to Meta's internal research on child and teen mental health because it doesn't meet scientific standards",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/mark-zuckerberg-meta-open-letter-kids-mental-health-300-scientists-2021-12?utm_source=reddit.com",
+        "sentiment": 1,
+        "timestamp": 1638913763,
+        "published": "December 7, 2021 4:49 PM"
+    },
+    {
+        "title": "Google temporarily disrupts a botnet that infected 1 million PCs",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/google-disrupts-glupteba-botnet-202342050.html",
+        "sentiment": -4,
+        "timestamp": 1638913768,
+        "published": "December 7, 2021 4:49 PM"
+    },
+    {
+        "title": "\"Sanditon’\" : Some New Men Arrive For Season 2 Following Theo James’ Exit",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2021/12/sanditon-new-men-season-2-theo-james-exit-photos-1234886335/",
+        "sentiment": 0,
+        "timestamp": 1638914277,
+        "published": "December 7, 2021 4:57 PM"
+    },
+    {
         "title": "Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades",
         "domain": "edition.cnn.com",
         "category": "worldnews",
