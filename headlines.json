@@ -1,5 +1,86 @@
 [
     {
+        "title": "China claims to have ‘democracy that works’ ahead of Biden summit",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/12/7/china-claims-to-have-democracy-that-works-ahead-of-biden-summit",
+        "sentiment": 0,
+        "timestamp": 1638858897,
+        "published": "December 7, 2021 1:34 AM"
+    },
+    {
+        "title": "'Expect Anything': Ukrainian Troops Brace For Possible Russian Attack",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/ukraine-russia-war-donbas/31596286.html",
+        "sentiment": -1,
+        "timestamp": 1638866547,
+        "published": "December 7, 2021 3:42 AM"
+    },
+    {
+        "title": "UK to use 'all economic and diplomatic tools' if Russia invades Ukraine, PM says",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/politics/uk-use-all-economic-diplomatic-25633473",
+        "sentiment": 0,
+        "timestamp": 1638868947,
+        "published": "December 7, 2021 4:22 AM"
+    },
+    {
+        "title": "Florida man stabbed co-worker to death because she refused to date him",
+        "domain": "maggrand.com",
+        "category": "news",
+        "link": "https://maggrand.com/florida-man-stabbed-co-worker-to-death-because-she-refused-to-date-him/",
+        "sentiment": -6,
+        "timestamp": 1638870539,
+        "published": "December 7, 2021 4:48 AM"
+    },
+    {
+        "title": "NASA’s James Webb Space Telescope Fully Fueled for Launch – James Webb Space Telescope",
+        "domain": "blogs.nasa.gov",
+        "category": "technology",
+        "link": "https://blogs.nasa.gov/webb/2021/12/06/nasas-james-webb-space-telescope-fully-fueled-for-launch/",
+        "sentiment": 0,
+        "timestamp": 1638872680,
+        "published": "December 7, 2021 5:24 AM"
+    },
+    {
+        "title": "Switzerland approves euthanasia device for ‘painless death’ | World News",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/switzerland-approves-euthanasia-device-for-painless-death-101638861581650.html",
+        "sentiment": 2,
+        "timestamp": 1638872813,
+        "published": "December 7, 2021 5:26 AM"
+    },
+    {
+        "title": "The UAE is the first nation in the world to introduce a national working week shorter than the global five-day week.",
+        "domain": "wam.ae",
+        "category": "worldnews",
+        "link": "https://www.wam.ae/en/details/1395303000412",
+        "sentiment": 0,
+        "timestamp": 1638873070,
+        "published": "December 7, 2021 5:31 AM"
+    },
+    {
+        "title": "DoJ sues Texas, saying electoral map plans violate Voting Rights Act",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "http://www.theguardian.com/us-news/2021/dec/06/texas-voting-rights-doj-electoral-maps?CMP=oth_b-aplnews_d-1",
+        "sentiment": -4,
+        "timestamp": 1638875139,
+        "published": "December 7, 2021 6:05 AM"
+    },
+    {
+        "title": "The Best Science and Tech Breakthroughs of 2021",
+        "domain": "nerdist.com",
+        "category": "technology",
+        "link": "https://nerdist.com/article/best-science-tech-breakthroughs-2021/",
+        "sentiment": 3,
+        "timestamp": 1638875403,
+        "published": "December 7, 2021 6:10 AM"
+    },
+    {
         "title": "UAE Becomes First Arab Country to Implement a 4.5 Day Workweek",
         "domain": "thenationalnews.com",
         "category": "worldnews",
