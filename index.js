@@ -4,9 +4,12 @@
 * You'll need NodeJS 16+ installed & the following packages. 
 */
 
-// npm i sentiment snoowrap moment lodash fs
+// npm i sentiment snoowrap moment lodash
+
+require('dotenv').config()
 
 const fs = require('fs')
+const server = require('@fwd/server')
 const _ = require('lodash')
 const moment = require('moment')
 const snoowrap = require('snoowrap')
@@ -14,23 +17,30 @@ const Sentiment = require('sentiment')
 
 const reddit = new snoowrap({
     userAgent: 'put your user-agent string here',
-    clientId: 'CLIENT_ID',
-    clientSecret: 'CLIENT_SECRET',
-    username: 'USERNAME',
-    password: 'PASSWORD'
+    clientId: process.env.REDDIT_CLIENT_ID,
+    clientSecret: process.env.REDDIT_CLIENT_SECRET,
+    username: process.env.REDDIT_USERNAME,
+    password: process.env.REDDIT_PASSWORD
 });
 
-async function data(subreddits, limit, type) {
+const subreddits = [
+	'worldnews',
+	'news',
+	'television',
+	'politics',
+	// 'entertainment',
+	// 'gaming',
+]
+
+async function scrape() {
 	
 	var data = []
 	
-	var subreddits = typeof subreddits == "string" ? subreddits.split(',') : subreddits
-
 	for (var sub of subreddits) {
 
-		items = await reddit.getSubreddit(sub.toLowerCase().replace(' ', ''))[type || 'getHot']({ limit })
+		items = await reddit.getSubreddit(sub).getHot({ limit: 10 })
 
-	    for (var item of items) {
+		for (var item of items) {
 	        
 	        var sentiment = new Sentiment();
 	        
@@ -44,8 +54,8 @@ async function data(subreddits, limit, type) {
 	            domain: a.domain,
 	            category: sub,
 	            link: a.url,
-	            sentiment: a.sentiment.score,
 	            timestamp: a.created,
+	            sentiment: item.sentiment.score,
 	            published: moment.unix(a.created).format('LLL'),
 	        }
 	    })   
@@ -56,7 +66,7 @@ async function data(subreddits, limit, type) {
 
 	data = _.flatten(data)
   
-  // avoid reddit internal links
+    // avoid reddit internal links
 	var banned = [
 		'i.imgur.com',
 		'v.redd.it',
@@ -71,8 +81,26 @@ async function data(subreddits, limit, type) {
 
 	data = data.filter(a => moment.unix(a.timestamp).format('LL') == moment().format('LL'))
 
-	return data
+	data = _.uniqBy(data, 'title')
+	
+	var dataset = []
+
+	try {
+		dataset = require('./headlines.json')
+	} catch (e) {}
+
+	data.map(a => dataset.unshift(a))
+
+	fs.writeFileSync('./headlines.json', JSON.stringify(data, null, 4));
 
 }
 
-await data() // magic
+server.cron(async () => {
+
+	await scrape()
+
+	await server.exec(`cd ${__dirname} && rm -f .git/index.lock && git add -A && git commit -m "${server.timestamp('LLL', 'us-east')}" &> /dev/null`)
+	
+	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
+
+}, 'every 1 hour', true) 
