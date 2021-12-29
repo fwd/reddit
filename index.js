@@ -91,7 +91,7 @@ async function scrape() {
 
 	data.map(a => dataset.unshift(a))
 
-	fs.writeFileSync('./headlines.json', JSON.stringify(data, null, 4));
+	fs.writeFileSync('./headlines.json', JSON.stringify(dataset, null, 4));
 
 }
 
