@@ -1,5 +1,221 @@
 [
     {
+        "title": "South Africa court blocks Shell's oil exploration",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-africa-59809821",
+        "timestamp": 1640823427,
+        "sentiment": -3,
+        "published": "December 30, 2021 12:17 AM"
+    },
+    {
+        "title": "Kim Jong Un pictured looking noticeably slimmer, fanning rumours of health issues",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2021/12/29/kim-jong-un-pictured-looking-noticeably-slimmer-fanning-rumours/",
+        "timestamp": 1640823569,
+        "sentiment": -3,
+        "published": "December 30, 2021 12:19 AM"
+    },
+    {
+        "title": "Looming mass extinction could be biggest 'since the dinosaurs,' says WWF: More plants and animals than ever before are on a global list of threatened species, with the World Wildlife Fund Germany warning that more than 1 million species could go extinct within the next 10 years.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/looming-mass-extinction-could-be-biggest-since-the-dinosaurs-says-wwf/a-60289286",
+        "timestamp": 1640824459,
+        "sentiment": -3,
+        "published": "December 30, 2021 12:34 AM"
+    },
+    {
+        "title": "$51 Million Super Yacht Sank Gas Tanker in Bahamas",
+        "domain": "caribbeannationalweekly.com",
+        "category": "worldnews",
+        "link": "https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/51-million-super-yacht-sank-gas-tanker-in-bahamas/",
+        "timestamp": 1640827615,
+        "sentiment": -3,
+        "published": "December 30, 2021 1:26 AM"
+    },
+    {
+        "title": "Trump accuses Jan. 6 panel of \"seeking evidence of criminal activity\"",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/trump-supreme-court-bennie-thompson-interview-ecc4efcc-e8bf-4693-8acb-047d9b7cdb21.html",
+        "timestamp": 1640830058,
+        "sentiment": 6,
+        "published": "December 30, 2021 2:07 AM"
+    },
+    {
+        "title": "North Carolina 3-year-old who accidentally shot herself on Christmas Day has died",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/29/us/north-carolina-christmas-shooting-toddler-dies/index.html",
+        "timestamp": 1640831356,
+        "sentiment": -5,
+        "published": "December 30, 2021 2:29 AM"
+    },
+    {
+        "title": "As Covid Deaths Hit 800K, Sanders Says Medicare for All Needed to End 'Vulgarity' of US Health System",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/29/covid-deaths-hit-800k-sanders-says-medicare-all-needed-end-vulgarity-us-health",
+        "timestamp": 1640836299,
+        "sentiment": 6,
+        "published": "December 30, 2021 3:51 AM"
+    },
+    {
+        "title": "Galavant Is The Best Comedy Musical You Haven't Seen",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/719918/the-daily-stream-galavant-is-the-best-comedy-musical-you-havent-seen/",
+        "timestamp": 1640839018,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:36 AM"
+    },
+    {
+        "title": "China places outright ban on tattoos, issuing fresh calls for footballers to have existing ink removed completely",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/sport/china/article/3161506/china-places-outright-ban-tattoos-issuing-fresh-calls-footballers-have?module=live&pgtype=homepage",
+        "timestamp": 1640846292,
+        "sentiment": -3,
+        "published": "December 30, 2021 6:38 AM"
+    },
+    {
+        "title": "Wearing masks outdoors mandatory in Paris starting Friday",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20211230-paris-mandates-wearing-masks-even-outdoors-starting-friday",
+        "timestamp": 1640862070,
+        "sentiment": -3,
+        "published": "December 30, 2021 11:01 AM"
+    },
+    {
+        "title": "Letters to the Editor: Are we going to punish Trump for trying to overturn an election or what?",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/are-we-going-to-punish-donald-trump",
+        "timestamp": 1640862746,
+        "sentiment": 6,
+        "published": "December 30, 2021 11:12 AM"
+    },
+    {
+        "title": "'Tsunami' of Omicron cases worldwide set to overwhelm healthcare systems: WHO chief",
+        "domain": "connectedtoindia.com",
+        "category": "worldnews",
+        "link": "https://www.connectedtoindia.com/tsunami-of-omicron-cases-worldwide-set-to-overwhelm-healthcare-systems-who-chief-9669.html",
+        "timestamp": 1640863165,
+        "sentiment": -3,
+        "published": "December 30, 2021 11:19 AM"
+    },
+    {
+        "title": "The rich benefit as Democrats retreat from tax on unrealized capital gains",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2021/12/29/the-rich-benefit-as-democrats-forgo-tax-on-unrealized-capital-gains.html",
+        "timestamp": 1640864273,
+        "sentiment": 6,
+        "published": "December 30, 2021 11:37 AM"
+    },
+    {
+        "title": "‘I’m still in pain’: Amazon employees say climate of fear has led to high rates of injuries",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2021/dec/30/amazon-employees-climate-fear-high-rates-injuries",
+        "timestamp": 1640864919,
+        "sentiment": -5,
+        "published": "December 30, 2021 11:48 AM"
+    },
+    {
+        "title": "US Navy seizes $4 million worth of heroin in Arabian Sea",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/us-navy-seizes-million-worth-heroin-arabian-sea-81999980",
+        "timestamp": 1640865481,
+        "sentiment": -5,
+        "published": "December 30, 2021 11:58 AM"
+    },
+    {
+        "title": "‘Patriots’ are undermining American democracy",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2021/dec/30/patriots-are-undermining-american-democracy",
+        "timestamp": 1640866536,
+        "sentiment": 6,
+        "published": "December 30, 2021 12:15 PM"
+    },
+    {
+        "title": "Michigan says it won't follow CDC's more relaxed COVID-19 quarantine recommendations",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/health/2021/12/29/michigan-covid-19-quarantine-isolation-guidelines-dont-follow-cdc-recommendations/9051085002/",
+        "timestamp": 1640867855,
+        "sentiment": -5,
+        "published": "December 30, 2021 12:37 PM"
+    },
+    {
+        "title": "New Documents Prove Tennessee County Disproportionately Jails Black Children, and It’s Getting Worse",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/new-documents-prove-tennessee-county-disproportionately-jails-black-children-and-its-getting-worse#1227110",
+        "timestamp": 1640868307,
+        "sentiment": 6,
+        "published": "December 30, 2021 12:45 PM"
+    },
+    {
+        "title": "Brazil: more than 100 aircraft seized for involvement in environmental crimes",
+        "domain": "aviacionline.com",
+        "category": "worldnews",
+        "link": "https://www.aviacionline.com/2021/12/brazil-more-than-100-aircraft-seized-for-involvement-in-environmental-crimes/",
+        "timestamp": 1640870239,
+        "sentiment": -3,
+        "published": "December 30, 2021 1:17 PM"
+    },
+    {
+        "title": "Pluto should be reclassified as a planet, scientists argue",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/science/space/pluto-planet-debate-rages-rcna8848",
+        "timestamp": 1640871842,
+        "sentiment": -5,
+        "published": "December 30, 2021 1:44 PM"
+    },
+    {
+        "title": "Calling Trump a terror movement leader is 'too kind' says analyst",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/videos/politics/2021/12/30/january-6-donald-trump-terror-movement-kayyem-newday-vpx.cnn/video/playlists/atv-best-of-new-day/",
+        "timestamp": 1640872058,
+        "sentiment": 6,
+        "published": "December 30, 2021 1:47 PM"
+    },
+    {
+        "title": "Donald Trump may finally face prosecution in the New Year: But the trauma won't end there | American greed and ignorance created Donald Trump. Will America finally muster the courage to rid ourselves of him?",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/30/donald-may-finally-face-prosecution-in-the-new-year-but-the-trauma-wont-end-there/",
+        "timestamp": 1640872157,
+        "sentiment": 6,
+        "published": "December 30, 2021 1:49 PM"
+    },
+    {
+        "title": "Biden has nothing to lose if he supports expanding the Supreme Court",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-29/biden-has-nothing-expanding-supreme-court",
+        "timestamp": 1640875501,
+        "sentiment": 6,
+        "published": "December 30, 2021 2:45 PM"
+    },
+    {
+        "title": "Tesla recalls more than 475,000 US cars on technical issues",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/economy/2021/12/30/tesla-recalls-over-475000-us-cars-on-technical-issues",
+        "timestamp": 1640877142,
+        "sentiment": -5,
+        "published": "December 30, 2021 3:12 PM"
+    },
+    {
         "title": "Save the Children confirms staff killed in Myanmar massacre",
         "domain": "aljazeera.com",
         "category": "worldnews",
