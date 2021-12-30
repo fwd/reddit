@@ -5,6 +5,60 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2021/12/28/save-the-children-confirms-staff-killed-in-myanmar-massacre",
         "timestamp": 1640823163,
+        "sentiment": 0,
+        "published": "December 30, 2021 12:12 AM"
+    },
+    {
+        "title": "South Africa court blocks Shell's oil exploration",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-africa-59809821",
+        "timestamp": 1640823427,
+        "sentiment": 0,
+        "published": "December 30, 2021 12:17 AM"
+    },
+    {
+        "title": "Kim Jong Un pictured looking noticeably slimmer, fanning rumours of health issues",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2021/12/29/kim-jong-un-pictured-looking-noticeably-slimmer-fanning-rumours/",
+        "timestamp": 1640823569,
+        "sentiment": 0,
+        "published": "December 30, 2021 12:19 AM"
+    },
+    {
+        "title": "Looming mass extinction could be biggest 'since the dinosaurs,' says WWF: More plants and animals than ever before are on a global list of threatened species, with the World Wildlife Fund Germany warning that more than 1 million species could go extinct within the next 10 years.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/looming-mass-extinction-could-be-biggest-since-the-dinosaurs-says-wwf/a-60289286",
+        "timestamp": 1640824459,
+        "sentiment": 0,
+        "published": "December 30, 2021 12:34 AM"
+    },
+    {
+        "title": "$51 Million Super Yacht Sank Gas Tanker in Bahamas",
+        "domain": "caribbeannationalweekly.com",
+        "category": "worldnews",
+        "link": "https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/51-million-super-yacht-sank-gas-tanker-in-bahamas/",
+        "timestamp": 1640827615,
+        "sentiment": 0,
+        "published": "December 30, 2021 1:26 AM"
+    },
+    {
+        "title": "Trump accuses Jan. 6 panel of \"seeking evidence of criminal activity\"",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/trump-supreme-court-bennie-thompson-interview-ecc4efcc-e8bf-4693-8acb-047d9b7cdb21.html",
+        "timestamp": 1640830058,
+        "sentiment": -5,
+        "published": "December 30, 2021 2:07 AM"
+    },
+    {
+        "title": "Save the Children confirms staff killed in Myanmar massacre",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2021/12/28/save-the-children-confirms-staff-killed-in-myanmar-massacre",
+        "timestamp": 1640823163,
         "sentiment": -1,
         "published": "December 30, 2021 12:12 AM"
     },
