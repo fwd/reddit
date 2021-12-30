@@ -41,6 +41,285 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2021/dec/30/amazon-employees-climate-fear-high-rates-injuries",
         "timestamp": 1640864919,
+        "sentiment": -3,
+        "published": "December 30, 2021 11:48 AM"
+    },
+    {
+        "title": "Michigan says it won't follow CDC's more relaxed COVID-19 quarantine recommendations",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/health/2021/12/29/michigan-covid-19-quarantine-isolation-guidelines-dont-follow-cdc-recommendations/9051085002/",
+        "timestamp": 1640867855,
+        "sentiment": -3,
+        "published": "December 30, 2021 12:37 PM"
+    },
+    {
+        "title": "New Documents Prove Tennessee County Disproportionately Jails Black Children, and It’s Getting Worse",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/new-documents-prove-tennessee-county-disproportionately-jails-black-children-and-its-getting-worse#1227110",
+        "timestamp": 1640868307,
+        "sentiment": 0,
+        "published": "December 30, 2021 12:45 PM"
+    },
+    {
+        "title": "Brazil: more than 100 aircraft seized for involvement in environmental crimes",
+        "domain": "aviacionline.com",
+        "category": "worldnews",
+        "link": "https://www.aviacionline.com/2021/12/brazil-more-than-100-aircraft-seized-for-involvement-in-environmental-crimes/",
+        "timestamp": 1640870239,
+        "sentiment": 0,
+        "published": "December 30, 2021 1:17 PM"
+    },
+    {
+        "title": "Pluto should be reclassified as a planet, scientists argue",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/science/space/pluto-planet-debate-rages-rcna8848",
+        "timestamp": 1640871842,
+        "sentiment": -3,
+        "published": "December 30, 2021 1:44 PM"
+    },
+    {
+        "title": "Donald Trump may finally face prosecution in the New Year: But the trauma won't end there | American greed and ignorance created Donald Trump. Will America finally muster the courage to rid ourselves of him?",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2021/12/30/donald-may-finally-face-prosecution-in-the-new-year-but-the-trauma-wont-end-there/",
+        "timestamp": 1640872157,
+        "sentiment": 0,
+        "published": "December 30, 2021 1:49 PM"
+    },
+    {
+        "title": "Myanmar model-actor Paing Takhon named world's 'Most Handsome Face,' sentenced to jail in same week",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/entertainment/myanmar-model-actor-paing-takhon-041746110.html",
+        "timestamp": 1640873773,
+        "sentiment": 0,
+        "published": "December 30, 2021 2:16 PM"
+    },
+    {
+        "title": "Biden has nothing to lose if he supports expanding the Supreme Court",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-29/biden-has-nothing-expanding-supreme-court",
+        "timestamp": 1640875501,
+        "sentiment": 0,
+        "published": "December 30, 2021 2:45 PM"
+    },
+    {
+        "title": "Hun Sen to propose age limit of 72 for prime minister after retirement",
+        "domain": "m.phnompenhpost.com",
+        "category": "worldnews",
+        "link": "https://m.phnompenhpost.com/national/hun-sen-propose-age-limit-72-prime-minister-after-retirement",
+        "timestamp": 1640875727,
+        "sentiment": 0,
+        "published": "December 30, 2021 2:48 PM"
+    },
+    {
+        "title": "Myanmar military reverts to strategy of massacres, burnings | AP News",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/myanmar-massacre-burnings-military-satellite-images-f85384acc41462314a95551af1797462",
+        "timestamp": 1640876812,
+        "sentiment": 0,
+        "published": "December 30, 2021 3:06 PM"
+    },
+    {
+        "title": "Tesla recalls more than 475,000 US cars on technical issues",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/economy/2021/12/30/tesla-recalls-over-475000-us-cars-on-technical-issues",
+        "timestamp": 1640877142,
+        "sentiment": -3,
+        "published": "December 30, 2021 3:12 PM"
+    },
+    {
+        "title": "$4 million worth of heroin seized by U.S. Navy in Arabian Sea",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/4-million-heroin-seized-us-navy-arabian-sea-rcna10409?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1640878699,
+        "sentiment": 0,
+        "published": "December 30, 2021 3:38 PM"
+    },
+    {
+        "title": "Mom: Daughter mistaken for intruder by father, fatally shot",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/mom-daughter-mistaken-intruder-father-fatally-shot-82002999",
+        "timestamp": 1640879420,
+        "sentiment": -3,
+        "published": "December 30, 2021 3:50 PM"
+    },
+    {
+        "title": "Russia Labels Pussy Riot Activists ‘Foreign Agents’",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2021/12/30/russia-labels-pussy-riot-activists-satirist-foreign-agents-a75962",
+        "timestamp": 1640879472,
+        "sentiment": 0,
+        "published": "December 30, 2021 3:51 PM"
+    },
+    {
+        "title": "New grafting technique could combat the disease threatening Cavendish bananas",
+        "domain": "cam.ac.uk",
+        "category": "worldnews",
+        "link": "https://www.cam.ac.uk/research/news/new-grafting-technique-could-combat-the-disease-threatening-cavendish-bananas?utm_campaign=research&utm_medium=social&utm_source=twitter&fbclid=IwAR1PhKgD-HvViPA5NQqIYOOVhJxuy6bzJ07FZitqObyGdjE4qNlffRi63iE",
+        "timestamp": 1640879632,
+        "sentiment": 0,
+        "published": "December 30, 2021 3:53 PM"
+    },
+    {
+        "title": "Jamal Khashoggi killers living in luxury villas in Riyadh, say witnesses",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2021/dec/30/jamal-khashoggi-killers-living-in-luxury-villas-in-riyadh-say-witnesses",
+        "timestamp": 1640880080,
+        "sentiment": -3,
+        "published": "December 30, 2021 4:01 PM"
+    },
+    {
+        "title": "Marjorie Taylor Greene calls for a national divorce between Republican and Democratic states - Ms Greene hails from Georgia, a state that once tried to implement a ‘national divorce’ so wealthy Georgians could keep owning Black people as slaves",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-national-divorce-states-b1984460.html",
+        "timestamp": 1640880200,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:03 PM"
+    },
+    {
+        "title": "Ted Cruz Confuses Washington With Western Australia, Is Widely Mocked",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/ted-cruz-confuses-washington-western-australia-widely-mocked-covid-19-1664252",
+        "timestamp": 1640880799,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:13 PM"
+    },
+    {
+        "title": "DeSantis is ‘blurring the lines’ using state plane for campaign-style events, watchdog says",
+        "domain": "orlandosentinel.com",
+        "category": "politics",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-desantis-events-travel-20211230-vnkzmutcgfgfvcf7a2n45ee4mq-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-1~VNKZMUTCGFGFVCF7A2N45EE4MQ~1~1~1~8~art%20yes",
+        "timestamp": 1640880973,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:16 PM"
+    },
+    {
+        "title": "Agents of SHIELD star Elizabeth Henstridge directing Superman & Lois season 2 episode",
+        "domain": "digitalspy.com",
+        "category": "television",
+        "link": "https://www.digitalspy.com/tv/ustv/a38638901/superman-and-lois-season-2-agents-of-shield-elizabeth-henstridge/",
+        "timestamp": 1640882082,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:34 PM"
+    },
+    {
+        "title": "Father allegedly fires gun after son says, ‘Why don’t you just shoot me?’",
+        "domain": "mlive.com",
+        "category": "news",
+        "link": "https://www.mlive.com/news/grand-rapids/2021/12/father-allegedly-fires-gun-after-son-says-why-dont-you-just-shoot-me.html",
+        "timestamp": 1640883539,
+        "sentiment": -3,
+        "published": "December 30, 2021 4:58 PM"
+    },
+    {
+        "title": "Capitol cop says rioters' sentences aren't harsh enough: 'Their jail time is less than my recovery time'",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/capitol-police-officer-criticizes-rioters-sentences-2021-12",
+        "timestamp": 1640884296,
+        "sentiment": 0,
+        "published": "December 30, 2021 5:11 PM"
+    },
+    {
+        "title": "Russia on Thursday declared Nadezhda Tolokonnikova, a founding member of the Pussy Riot band, and prominent satirist Viktor Shenderovich \"foreign agents\" as authorities press ahead with a crackdown on dissent",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20211230-russia-labels-pussy-riot-members-satirist-foreign-agents",
+        "timestamp": 1640884841,
+        "sentiment": 0,
+        "published": "December 30, 2021 5:20 PM"
+    },
+    {
+        "title": "Capitol police officer says it's a 'disgrace' that Pence is dismissing January 6: 'We did everything possible to prevent him from being hanged and killed in front of his daughter and his wife'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/capitol-police-officer-aquilino-gonell-hang-mike-pence-jan-6-2021-12",
+        "timestamp": 1640885048,
+        "sentiment": 0,
+        "published": "December 30, 2021 5:24 PM"
+    },
+    {
+        "title": "Alex Jones Threatens to ‘Dish Dirt’ on Trump for Pushing Vax",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/alex-jones-threatens-to-dish-dirt-on-donald-trump-for-pushing-covid-19-vaccine",
+        "timestamp": 1640886175,
+        "sentiment": 0,
+        "published": "December 30, 2021 5:42 PM"
+    },
+    {
+        "title": "Richmond's Robert E. Lee statue will move to the city's Black History Museum",
+        "domain": "news.wfsu.org",
+        "category": "news",
+        "link": "https://news.wfsu.org/all-npr-news/2021-12-30/richmonds-robert-e-lee-statue-will-move-to-the-citys-black-history-museum",
+        "timestamp": 1640886430,
+        "sentiment": -3,
+        "published": "December 30, 2021 5:47 PM"
+    },
+    {
+        "title": "Idaho sheriff, charged with felonies, must surrender guns",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/religion-police-idaho-blackfoot-8e026cfcf68b056c5126c3570eb6bb29",
+        "timestamp": 1640886940,
+        "sentiment": -3,
+        "published": "December 30, 2021 5:55 PM"
+    },
+    {
+        "title": "Galavant Is The Best Comedy Musical You Haven't Seen",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/719918/the-daily-stream-galavant-is-the-best-comedy-musical-you-havent-seen/",
+        "timestamp": 1640839018,
+        "sentiment": 0,
+        "published": "December 30, 2021 4:36 AM"
+    },
+    {
+        "title": "China places outright ban on tattoos, issuing fresh calls for footballers to have existing ink removed completely",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/sport/china/article/3161506/china-places-outright-ban-tattoos-issuing-fresh-calls-footballers-have?module=live&pgtype=homepage",
+        "timestamp": 1640846292,
+        "sentiment": 0,
+        "published": "December 30, 2021 6:38 AM"
+    },
+    {
+        "title": "Wearing masks outdoors mandatory in Paris starting Friday",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20211230-paris-mandates-wearing-masks-even-outdoors-starting-friday",
+        "timestamp": 1640862070,
+        "sentiment": 0,
+        "published": "December 30, 2021 11:01 AM"
+    },
+    {
+        "title": "Letters to the Editor: Are we going to punish Trump for trying to overturn an election or what?",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/are-we-going-to-punish-donald-trump",
+        "timestamp": 1640862746,
+        "sentiment": 0,
+        "published": "December 30, 2021 11:12 AM"
+    },
+    {
+        "title": "‘I’m still in pain’: Amazon employees say climate of fear has led to high rates of injuries",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2021/dec/30/amazon-employees-climate-fear-high-rates-injuries",
+        "timestamp": 1640864919,
         "sentiment": 2,
         "published": "December 30, 2021 11:48 AM"
     },
