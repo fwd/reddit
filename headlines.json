@@ -5,6 +5,168 @@
         "category": "politics",
         "link": "https://www.dallasnews.com/news/2021/12/31/texas-gov-abbott-asks-federal-government-for-more-testing-sites-in-areas-with-covid-spikes/",
         "timestamp": 1640996129,
+        "sentiment": 0,
+        "published": "January 1, 2022 12:15 AM"
+    },
+    {
+        "title": "France to make birth control free for women aged 18-25 | After making birth control free for underage girls, France is now expanding the program to include women aged 18 to 25.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/france-to-make-birth-control-free-for-women-aged-18-25/a-60304913?maca=en-GK_RSS_SmartNews_Volltext_ENG-20051-xml-media",
+        "timestamp": 1640996278,
+        "sentiment": -2,
+        "published": "January 1, 2022 12:17 AM"
+    },
+    {
+        "title": "Tennessee Planned Parenthood destroyed in early morning fire | AP News",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/health-fires-tennessee-knoxville-planned-parenthood-524edc1a8bd12e46774c1fcdf37c6c72",
+        "timestamp": 1640997679,
+        "sentiment": 0,
+        "published": "January 1, 2022 12:41 AM"
+    },
+    {
+        "title": "2 injured in New Year’s Eve shooting at Mall of America",
+        "domain": "wftv.com",
+        "category": "news",
+        "link": "https://www.wftv.com/news/trending/2-injured-new-years-eve-shooting-mall-america/LBQJVU2P5FCF3EVCGCHBL7K4KM/",
+        "timestamp": 1641001714,
+        "sentiment": 0,
+        "published": "January 1, 2022 1:48 AM"
+    },
+    {
+        "title": "Capitol Officer Furious Over Mike Pence's Jan. 6 Comments After Police Saved His Life",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/aquilino-gonell-mike-pence-disgrace-jan-6_n_61cfb64ae4b0bcd21953a917?utm_campaign=share_email&ncid=other_email_o63gt2jcad4",
+        "timestamp": 1641009388,
+        "sentiment": 0,
+        "published": "January 1, 2022 3:56 AM"
+    },
+    {
+        "title": "Unvaccinated workers who lose jobs ineligible for EI (unemployment) benefits, minister says",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/canada/unvaccinated-workers-who-lose-jobs-ineligible-for-ei-benefits-barring-exemption-minister-says",
+        "timestamp": 1641011345,
+        "sentiment": -2,
+        "published": "January 1, 2022 4:29 AM"
+    },
+    {
+        "title": "Peacemaker - Official Exclusive Red Band Trailer (2022) John Cena, Danielle Brooks",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/TxQp10HrdQM",
+        "timestamp": 1641012947,
+        "sentiment": 1,
+        "published": "January 1, 2022 4:55 AM"
+    },
+    {
+        "title": "US children hospitalized with COVID in record numbers",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/us-children-hospitalized-covid-record-numbers-82004052",
+        "timestamp": 1641015288,
+        "sentiment": 0,
+        "published": "January 1, 2022 5:34 AM"
+    },
+    {
+        "title": "Bank accidentally deposits $176 million into people's accounts on Christmas Day",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2021/12/31/santander-accidentally-put-millions-into-random-accounts-on-christmas-day.html",
+        "timestamp": 1641020215,
+        "sentiment": -2,
+        "published": "January 1, 2022 6:56 AM"
+    },
+    {
+        "title": "In 'Victory for Democracy' and 'Blow to Trumpism,' FDIC Chair Resigns",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2021/12/31/victory-democracy-and-blow-trumpism-fdic-chair-resigns",
+        "timestamp": 1641023509,
+        "sentiment": 0,
+        "published": "January 1, 2022 7:51 AM"
+    },
+    {
+        "title": "No documents in Prince Andrew's possession to prove inability to sweat claim",
+        "domain": "nzherald.co.nz",
+        "category": "news",
+        "link": "https://www.nzherald.co.nz/lifestyle/no-documents-in-prince-andrews-possession-to-prove-inability-to-sweat-claim/EPHQPC2XBDGZKQA7TVTRIVFXM4/",
+        "timestamp": 1641025999,
+        "sentiment": 0,
+        "published": "January 1, 2022 8:33 AM"
+    },
+    {
+        "title": "Outrage as Iraq War PM Blair gets knighthood from Queen Elizabeth",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/news/544930-iraq-war-pm-knighted/",
+        "timestamp": 1641026193,
+        "sentiment": -2,
+        "published": "January 1, 2022 8:36 AM"
+    },
+    {
+        "title": "Louisiana Judge Michelle Odinet resigns after making racial slurs on video",
+        "domain": "theadvertiser.com",
+        "category": "politics",
+        "link": "https://www.theadvertiser.com/story/news/2021/12/31/lafayette-judge-michelle-odinet-resigns-after-making-racial-slurs-on-viral-video-louisiana/9062529002/",
+        "timestamp": 1641034174,
+        "sentiment": 0,
+        "published": "January 1, 2022 10:49 AM"
+    },
+    {
+        "title": "\"A race to the bottom\": House GOP slammed for \"really disgraceful\" anti-vaccine tweet | \"Really disgraceful that the GOP House Judiciary Committee is pushing an openly anti-vax message now\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/01/a-race-to-the-bottom-slammed-for-really-disgraceful-anti-vaccine-tweet/",
+        "timestamp": 1641035725,
+        "sentiment": 0,
+        "published": "January 1, 2022 11:15 AM"
+    },
+    {
+        "title": "'Staged' with David Tennant and Michael Sheen might have a 3rd season. Or is it?",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=_keDJGf4u9s",
+        "timestamp": 1641035807,
+        "sentiment": 1,
+        "published": "January 1, 2022 11:16 AM"
+    },
+    {
+        "title": "Community - Anthropology Rap",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=n6W-nE_U_IQ",
+        "timestamp": 1641036631,
+        "sentiment": 1,
+        "published": "January 1, 2022 11:30 AM"
+    },
+    {
+        "title": "Florida breaks single-day COVID case record",
+        "domain": "pbs.org",
+        "category": "news",
+        "link": "https://www.pbs.org/newshour/health/florida-breaks-single-day-covid-case-record",
+        "timestamp": 1641040342,
+        "sentiment": 0,
+        "published": "January 1, 2022 12:32 PM"
+    },
+    {
+        "title": "James Webb Space Telescope unfurls massive sunshield in major deployment milestone",
+        "domain": "space.com",
+        "category": "worldnews",
+        "link": "https://www.space.com/james-webb-space-telescope-sunshield-deployment-success",
+        "timestamp": 1641042238,
+        "sentiment": -2,
+        "published": "January 1, 2022 1:03 PM"
+    },
+    {
+        "title": "Texas Gov. Greg Abbott asks federal government for more COVID testing sites in areas with spikes",
+        "domain": "dallasnews.com",
+        "category": "politics",
+        "link": "https://www.dallasnews.com/news/2021/12/31/texas-gov-abbott-asks-federal-government-for-more-testing-sites-in-areas-with-covid-spikes/",
+        "timestamp": 1640996129,
         "sentiment": -5,
         "published": "January 1, 2022 12:15 AM"
     },
