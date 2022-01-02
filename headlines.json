@@ -5,6 +5,186 @@
         "category": "news",
         "link": "https://us.cnn.com/2022/01/01/us/new-mexico-tramway-passengers-trapped-rescue/index.html",
         "timestamp": 1641085548,
+        "sentiment": -2,
+        "published": "January 2, 2022 1:05 AM"
+    },
+    {
+        "title": "The Rights Blue States May Lose If the GOP Returns to Power",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/article/rights-blue-states-may-lose-gop-returns-power.html",
+        "timestamp": 1641086495,
+        "sentiment": 0,
+        "published": "January 2, 2022 1:21 AM"
+    },
+    {
+        "title": "Seattle Kraken fan called a hero after noticing Canucks staffer's cancerous mole during game",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/seattle-kraken-brian-hamilton-cancer-1.6301987",
+        "timestamp": 1641086941,
+        "sentiment": -2,
+        "published": "January 2, 2022 1:29 AM"
+    },
+    {
+        "title": "874 cars were torched in France on New Year's Eve - fewer than in previous years. Over 1,900 cars were torched in 2019. It has become a so called tradition, occurring in spite of law enforcement efforts to stop it.",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2022/01/01/europe/france-car-burning-nye-2021-intl/index.html",
+        "timestamp": 1641090865,
+        "sentiment": -2,
+        "published": "January 2, 2022 2:34 AM"
+    },
+    {
+        "title": "Republican Party paying Donald Trump's legal bills is more proof he owns the GOP",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/republican-party-paying-donald-trump-s-legal-bills-more-proof-n1286709",
+        "timestamp": 1641097795,
+        "sentiment": 0,
+        "published": "January 2, 2022 4:29 AM"
+    },
+    {
+        "title": "Documents show Chinese government collects droves of data from Western social media: report",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/documents-show-chinese-government-collects-230531643.html",
+        "timestamp": 1641100099,
+        "sentiment": -2,
+        "published": "January 2, 2022 5:08 AM"
+    },
+    {
+        "title": "Texas election audit demanded by Trump fails to find significant voting issues",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-election-audit-demanded-trump-fails-find-significant-voting-issues-1664815?amp=1",
+        "timestamp": 1641100301,
+        "sentiment": 0,
+        "published": "January 2, 2022 5:11 AM"
+    },
+    {
+        "title": "Melbourne man sets himself on fire over jab mandates",
+        "domain": "skynews.com.au",
+        "category": "news",
+        "link": "https://www.skynews.com.au/australia-news/coronavirus/melbourne-man-sets-himself-on-fire-over-jab-mandates/video/eb5e33adbd7e7f673c86f8ba2691a65d",
+        "timestamp": 1641101898,
+        "sentiment": -2,
+        "published": "January 2, 2022 5:38 AM"
+    },
+    {
+        "title": "'Cobra Kai' Season 5: What's Eagle Fang's Future? William Zabka Teases Johnny's Priorities",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/cobra-kai-season-5-william-zabka-interview-eagle-fang/",
+        "timestamp": 1641107383,
+        "sentiment": 0,
+        "published": "January 2, 2022 7:09 AM"
+    },
+    {
+        "title": "British productions enter golden age as digital streaming wars heat up",
+        "domain": "marketplace.org",
+        "category": "television",
+        "link": "https://www.marketplace.org/shows/marketplace-morning-report/british-productions-enter-golden-age-as-digital-streaming-wars-heat-up",
+        "timestamp": 1641114628,
+        "sentiment": 0,
+        "published": "January 2, 2022 9:10 AM"
+    },
+    {
+        "title": "Finland says it could join NATO if it wants to, despite Russia's opposition",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "http://news.yahoo.com/finland-says-could-join-nato-172218004.html/",
+        "timestamp": 1641114817,
+        "sentiment": -2,
+        "published": "January 2, 2022 9:13 AM"
+    },
+    {
+        "title": "Jan. 6 committee prepares to go public as findings mount",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/steve-bannon-elections-donald-trump-election-2020-congress-bab0144274d996171b7160e051b29a75",
+        "timestamp": 1641120503,
+        "sentiment": 0,
+        "published": "January 2, 2022 10:48 AM"
+    },
+    {
+        "title": "Food disruptions feared in UK as new Brexit rules kick in",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-europe-brexit-european-union-4720571b1e58656b1b88252577844fab",
+        "timestamp": 1641123165,
+        "sentiment": -2,
+        "published": "January 2, 2022 11:32 AM"
+    },
+    {
+        "title": "Chilling Trump Letter Calling For 'Seizure' Of Election Material Revealed In Log To Jan. 6 Probers",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bernard-kerik-potus-trump-letter-seize-election-materials_n_61d11c38e4b0c7d8b8a4d1fd",
+        "timestamp": 1641123583,
+        "sentiment": 0,
+        "published": "January 2, 2022 11:39 AM"
+    },
+    {
+        "title": "Canada: whistleblower warns of baffling neurological illness affecting growing number of young adults",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada",
+        "timestamp": 1641124280,
+        "sentiment": -2,
+        "published": "January 2, 2022 11:51 AM"
+    },
+    {
+        "title": "Trump still says his supporters weren't behind the Jan. 6 attack — but I was there",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary",
+        "timestamp": 1641126091,
+        "sentiment": 0,
+        "published": "January 2, 2022 12:21 PM"
+    },
+    {
+        "title": "House committee says Trump privilege claim should be tossed",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-white-house-supreme-court-washington-national-archives-b1984626.html",
+        "timestamp": 1641126641,
+        "sentiment": 0,
+        "published": "January 2, 2022 12:30 PM"
+    },
+    {
+        "title": "Biden tells Putin that the U.S. and allies will respond \"decisively\" if Russia invades Ukraine",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/biden-putin-ukraine-phone-call/",
+        "timestamp": 1641127378,
+        "sentiment": -2,
+        "published": "January 2, 2022 12:42 PM"
+    },
+    {
+        "title": "Whistleblower warns baffling illness affects growing number of young adults in Canadian province | Canada",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada",
+        "timestamp": 1641128550,
+        "sentiment": -2,
+        "published": "January 2, 2022 1:02 PM"
+    },
+    {
+        "title": "Capitol rioters’ tears, remorse don’t spare them from jail",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/capitol-siege-rioters-prison-95bdc863812cab48be3d98ada67bd582?dc_data=1108717_samsung-carnival-us&utm_source=taboola&utm_medium=samsung-carnival-us&utm_campaign=ECAPNews&ui=1eca129e-a352-467d-a7ee-92000cc0fbba-tuct8c89553",
+        "timestamp": 1641129626,
+        "sentiment": -2,
+        "published": "January 2, 2022 1:20 PM"
+    },
+    {
+        "title": "All 21 people who were trapped in New Mexico tramway overnight have been rescued",
+        "domain": "us.cnn.com",
+        "category": "news",
+        "link": "https://us.cnn.com/2022/01/01/us/new-mexico-tramway-passengers-trapped-rescue/index.html",
+        "timestamp": 1641085548,
         "sentiment": 0,
         "published": "January 2, 2022 1:05 AM"
     },
