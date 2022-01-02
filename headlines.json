@@ -5,6 +5,258 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/british-columbia/seattle-kraken-brian-hamilton-cancer-1.6301987",
         "timestamp": 1641086941,
+        "sentiment": -3,
+        "published": "January 2, 2022 1:29 AM"
+    },
+    {
+        "title": "874 cars were torched in France on New Year's Eve - fewer than in previous years. Over 1,900 cars were torched in 2019. It has become a so called tradition, occurring in spite of law enforcement efforts to stop it.",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2022/01/01/europe/france-car-burning-nye-2021-intl/index.html",
+        "timestamp": 1641090865,
+        "sentiment": 0,
+        "published": "January 2, 2022 2:34 AM"
+    },
+    {
+        "title": "Republican Party paying Donald Trump's legal bills is more proof he owns the GOP",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/republican-party-paying-donald-trump-s-legal-bills-more-proof-n1286709",
+        "timestamp": 1641097795,
+        "sentiment": 0,
+        "published": "January 2, 2022 4:29 AM"
+    },
+    {
+        "title": "Documents show Chinese government collects droves of data from Western social media: report",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/documents-show-chinese-government-collects-230531643.html",
+        "timestamp": 1641100099,
+        "sentiment": 0,
+        "published": "January 2, 2022 5:08 AM"
+    },
+    {
+        "title": "Texas election audit demanded by Trump fails to find significant voting issues",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-election-audit-demanded-trump-fails-find-significant-voting-issues-1664815?amp=1",
+        "timestamp": 1641100301,
+        "sentiment": 0,
+        "published": "January 2, 2022 5:11 AM"
+    },
+    {
+        "title": "Melbourne man sets himself on fire over jab mandates",
+        "domain": "skynews.com.au",
+        "category": "news",
+        "link": "https://www.skynews.com.au/australia-news/coronavirus/melbourne-man-sets-himself-on-fire-over-jab-mandates/video/eb5e33adbd7e7f673c86f8ba2691a65d",
+        "timestamp": 1641101898,
+        "sentiment": -3,
+        "published": "January 2, 2022 5:38 AM"
+    },
+    {
+        "title": "'Cobra Kai' Season 5: What's Eagle Fang's Future? William Zabka Teases Johnny's Priorities",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/cobra-kai-season-5-william-zabka-interview-eagle-fang/",
+        "timestamp": 1641107383,
+        "sentiment": 0,
+        "published": "January 2, 2022 7:09 AM"
+    },
+    {
+        "title": "British productions enter golden age as digital streaming wars heat up",
+        "domain": "marketplace.org",
+        "category": "television",
+        "link": "https://www.marketplace.org/shows/marketplace-morning-report/british-productions-enter-golden-age-as-digital-streaming-wars-heat-up",
+        "timestamp": 1641114628,
+        "sentiment": 0,
+        "published": "January 2, 2022 9:10 AM"
+    },
+    {
+        "title": "Jan. 6 committee prepares to go public as findings mount",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/steve-bannon-elections-donald-trump-election-2020-congress-bab0144274d996171b7160e051b29a75",
+        "timestamp": 1641120503,
+        "sentiment": 0,
+        "published": "January 2, 2022 10:48 AM"
+    },
+    {
+        "title": "Food disruptions feared in UK as new Brexit rules kick in",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/business-europe-brexit-european-union-4720571b1e58656b1b88252577844fab",
+        "timestamp": 1641123165,
+        "sentiment": 0,
+        "published": "January 2, 2022 11:32 AM"
+    },
+    {
+        "title": "Chilling Trump Letter Calling For 'Seizure' Of Election Material Revealed In Log To Jan. 6 Probers",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bernard-kerik-potus-trump-letter-seize-election-materials_n_61d11c38e4b0c7d8b8a4d1fd",
+        "timestamp": 1641123583,
+        "sentiment": 0,
+        "published": "January 2, 2022 11:39 AM"
+    },
+    {
+        "title": "Canada: whistleblower warns of baffling neurological illness affecting growing number of young adults",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada",
+        "timestamp": 1641124280,
+        "sentiment": 0,
+        "published": "January 2, 2022 11:51 AM"
+    },
+    {
+        "title": "Trump still says his supporters weren't behind the Jan. 6 attack — but I was there",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/02/1068891351/january-6-insurrection-capitol-attack-trump-anniversary",
+        "timestamp": 1641126091,
+        "sentiment": 0,
+        "published": "January 2, 2022 12:21 PM"
+    },
+    {
+        "title": "House committee says Trump privilege claim should be tossed",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-white-house-supreme-court-washington-national-archives-b1984626.html",
+        "timestamp": 1641126641,
+        "sentiment": 0,
+        "published": "January 2, 2022 12:30 PM"
+    },
+    {
+        "title": "Tornadoes from rare supercell caused damage in Georgia",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/02/weather/weather-rare-georgia-new-years-eve-tornado/index.html",
+        "timestamp": 1641128058,
+        "sentiment": -3,
+        "published": "January 2, 2022 12:54 PM"
+    },
+    {
+        "title": "Whistleblower warns baffling illness affects growing number of young adults in Canadian province | Canada",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada",
+        "timestamp": 1641128550,
+        "sentiment": -3,
+        "published": "January 2, 2022 1:02 PM"
+    },
+    {
+        "title": "World's oldest person celebrates 119th birthday",
+        "domain": "japantimes.co.jp",
+        "category": "news",
+        "link": "https://www.japantimes.co.jp/news/2022/01/02/national/japanese-worlds-oldest-person/",
+        "timestamp": 1641128639,
+        "sentiment": -3,
+        "published": "January 2, 2022 1:03 PM"
+    },
+    {
+        "title": "Capitol rioters’ tears, remorse don’t spare them from jail",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/capitol-siege-rioters-prison-95bdc863812cab48be3d98ada67bd582?dc_data=1108717_samsung-carnival-us&utm_source=taboola&utm_medium=samsung-carnival-us&utm_campaign=ECAPNews&ui=1eca129e-a352-467d-a7ee-92000cc0fbba-tuct8c89553",
+        "timestamp": 1641129626,
+        "sentiment": -3,
+        "published": "January 2, 2022 1:20 PM"
+    },
+    {
+        "title": "Frightening new Covid data shows Boris Johnson’s omicron gamble may be about to implode",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/frightening-new-covid-data-shows-boris-johnsons-omicron-gamble/",
+        "timestamp": 1641129867,
+        "sentiment": 0,
+        "published": "January 2, 2022 1:24 PM"
+    },
+    {
+        "title": "UAE to ban non-vaccinated citizens from traveling abroad from Jan. 10",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/uae-ban-non-vaccinated-citizens-traveling-abroad-jan-10-2022-01-01",
+        "timestamp": 1641131682,
+        "sentiment": 0,
+        "published": "January 2, 2022 1:54 PM"
+    },
+    {
+        "title": "Judge says Prince Andrew cannot block lawsuit from accuser Virginia Giuffre on grounds she no longer lives in US",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/judge-says-prince-andrew-cannot-block-lawsuit-from-accuser-virginia-giuffre-on-grounds-she-no-longer-lives-in-us-12507446",
+        "timestamp": 1641132554,
+        "sentiment": -3,
+        "published": "January 2, 2022 2:09 PM"
+    },
+    {
+        "title": "Omicron Update: NY Reports Record 85,000 New Cases on New Year’s Day",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/coronavirus/ny-trumps-case-record-by-9k-reporting-over-85000-new-positives-on-new-years-day/3475219/",
+        "timestamp": 1641133014,
+        "sentiment": -3,
+        "published": "January 2, 2022 2:16 PM"
+    },
+    {
+        "title": "Michael Cohen celebrates as his lawyers serve Bill Barr with legal papers: 'Happy New Year, asshole!'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/michael-cohens-lawyers-serve-bill-barr-happy-new-year-asshole-2022-1",
+        "timestamp": 1641133564,
+        "sentiment": 0,
+        "published": "January 2, 2022 2:26 PM"
+    },
+    {
+        "title": "Twitter reportedly suspends Marjorie Taylor Greene's account for spreading COVID-19 misinformation",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/twitter-suspends-marjorie-taylor-greenes-account-covid-19-misinformation-2022-1",
+        "timestamp": 1641135160,
+        "sentiment": 0,
+        "published": "January 2, 2022 2:52 PM"
+    },
+    {
+        "title": "Twitter permanently suspends Marjorie Taylor Greene account over COVID-19 misinformation",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/587903-twitter-permanently-suspends-personal-account-of-marjorie-taylor-greene-over",
+        "timestamp": 1641136272,
+        "sentiment": 0,
+        "published": "January 2, 2022 3:11 PM"
+    },
+    {
+        "title": "Twitter permanently suspends Marjorie Taylor Greene's personal account",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/amp/rcna10615",
+        "timestamp": 1641137052,
+        "sentiment": -3,
+        "published": "January 2, 2022 3:24 PM"
+    },
+    {
+        "title": "Twitter Permanently Suspends Marjorie Taylor Greene’s Account",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html?referringSource=articleShare",
+        "timestamp": 1641137544,
+        "sentiment": 0,
+        "published": "January 2, 2022 3:32 PM"
+    },
+    {
+        "title": "Starting Jan 3, South Korea mandates vaccinations to buy daily necessities in market.",
+        "domain": "n.news.naver.com",
+        "category": "worldnews",
+        "link": "https://n.news.naver.com/article/437/0000285366?ntype=RANKING",
+        "timestamp": 1641139811,
+        "sentiment": 0,
+        "published": "January 2, 2022 4:10 PM"
+    },
+    {
+        "title": "Seattle Kraken fan called a hero after noticing Canucks staffer's cancerous mole during game",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/seattle-kraken-brian-hamilton-cancer-1.6301987",
+        "timestamp": 1641086941,
         "sentiment": 0,
         "published": "January 2, 2022 1:29 AM"
     },
