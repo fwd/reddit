@@ -5,6 +5,285 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/02/us/long-beach-sewage-spill-california/index.html",
         "timestamp": 1641168568,
+        "sentiment": -2,
+        "published": "January 3, 2022 12:09 AM"
+    },
+    {
+        "title": "‘Comic Book Men’ Star Robert Bruce Found Dead In NJ Storage Unit",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/comic-book-men-star-robert-bruce-found-dead-nj-storage-unit-1234903630/",
+        "timestamp": 1641186333,
+        "sentiment": 2,
+        "published": "January 3, 2022 5:05 AM"
+    },
+    {
+        "title": "Man Kidnapped as a Child in China Reunited with Family After Drawing a Map of Home Village from Memory",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/man-kidnapped-as-a-child-in-china-reunited-with-family-after-drawing-map-of-home-village-from-memory-12507517",
+        "timestamp": 1641188833,
+        "sentiment": -2,
+        "published": "January 3, 2022 5:47 AM"
+    },
+    {
+        "title": "Taliban Pour 3,000 Litres Of Liquor Into Canal, Say 'Muslims Have To Seriously Abstain From Alcohol'",
+        "domain": "indiatimes.com",
+        "category": "worldnews",
+        "link": "https://www.indiatimes.com/trending/social-relevance/taliban-pour-3000-litres-of-liquor-into-canal-558322.html",
+        "timestamp": 1641201481,
+        "sentiment": 0,
+        "published": "January 3, 2022 9:18 AM"
+    },
+    {
+        "title": "Remembering Betty White’s Legacy as an Animal Advocate, From ‘The Pet Set’ to the L.A. Zoo",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/betty-white-animal-advocate-pet-set-la-zoo-1235145541/",
+        "timestamp": 1641205774,
+        "sentiment": 2,
+        "published": "January 3, 2022 10:29 AM"
+    },
+    {
+        "title": "Japan bans facial recognition tech exports due to China's human rights abuses: Tokyo signals intention to work with US and other allies on future export restrictions.",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4396710",
+        "timestamp": 1641206108,
+        "sentiment": 0,
+        "published": "January 3, 2022 10:35 AM"
+    },
+    {
+        "title": "President Bolsonaro admitted to São Paulo hospital",
+        "domain": "riotimesonline.com",
+        "category": "worldnews",
+        "link": "https://www.riotimesonline.com/brazil-news/rio-politics/president-bolsonaro-admitted-to-sao-paulo-hospital/",
+        "timestamp": 1641206424,
+        "sentiment": 0,
+        "published": "January 3, 2022 10:40 AM"
+    },
+    {
+        "title": "6 in 10 Americans say U.S. democracy is in crisis as the 'big lie' takes root",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6",
+        "timestamp": 1641209648,
+        "sentiment": 0,
+        "published": "January 3, 2022 11:34 AM"
+    },
+    {
+        "title": "Brazil president Jair Bolsonaro admitted to hospital, doctor says | Jair Bolsonaro",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/03/jair-bolsonaro-taken-hospital-brazil-abdominal-pain-doctor-says",
+        "timestamp": 1641210532,
+        "sentiment": -2,
+        "published": "January 3, 2022 11:48 AM"
+    },
+    {
+        "title": "60 groups urge Senate Democrats to reform filibuster for voting rights",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/587961-60-groups-urge-senate-dems-to-reform-filibuster-for-voting-rights",
+        "timestamp": 1641210924,
+        "sentiment": 0,
+        "published": "January 3, 2022 11:55 AM"
+    },
+    {
+        "title": "US catches Kremlin insider who may have secrets of 2016 hack",
+        "domain": "thestar.com.my",
+        "category": "worldnews",
+        "link": "https://www.thestar.com.my/tech/tech-news/2022/01/03/us-catches-kremlin-insider-who-may-have-secrets-of-2016-hack",
+        "timestamp": 1641211238,
+        "sentiment": 0,
+        "published": "January 3, 2022 12:00 PM"
+    },
+    {
+        "title": "Maxine Waters Calls Marjorie Taylor Greene An 'Extremist Radical' Who Should Not Be In Congress",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/maxine-waters-calls-marjorie-taylor-greene-extremist-radical-who-should-not-congress-1664901",
+        "timestamp": 1641211685,
+        "sentiment": 0,
+        "published": "January 3, 2022 12:08 PM"
+    },
+    {
+        "title": "U.S. Catches Kremlin Insider Who May Have Secrets of 2016 Hack",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/news/articles/2022-01-03/kremlin-insider-klyushin-is-said-to-have-2016-hack-details",
+        "timestamp": 1641212614,
+        "sentiment": 0,
+        "published": "January 3, 2022 12:23 PM"
+    },
+    {
+        "title": "Clear backpacks required for some students after deadly Michigan school shooting",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/clear-backpacks-required-students-deadly-michigan-school-shooting-rcna10674",
+        "timestamp": 1641214944,
+        "sentiment": -2,
+        "published": "January 3, 2022 1:02 PM"
+    },
+    {
+        "title": "Puerto Rico’s COVID-19 positive rate jumps from 2% to over 30% in just two weeks",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/puerto-ricos-covid-19-positive-rate-jumps-30/story?id=81986677",
+        "timestamp": 1641215371,
+        "sentiment": -2,
+        "published": "January 3, 2022 1:09 PM"
+    },
+    {
+        "title": "'In 2022, Let's Tax the Rich': 10 Billionaires Added $402 Billion to Their Fortunes in 2021 | \"It's taxes or pitchforks,\" declared one progressive advocacy group.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/03/2022-lets-tax-rich-10-billionaires-added-402-billion-their-fortunes-2021",
+        "timestamp": 1641216446,
+        "sentiment": 0,
+        "published": "January 3, 2022 1:27 PM"
+    },
+    {
+        "title": "5 nuclear-weapon states vow no arms race in joint statement",
+        "domain": "news.cgtn.com",
+        "category": "worldnews",
+        "link": "https://news.cgtn.com/news/2022-01-03/5-nuclear-weapon-states-vow-no-arms-race-in-joint-statement-16wJYnZf104/index.html",
+        "timestamp": 1641217613,
+        "sentiment": 0,
+        "published": "January 3, 2022 1:46 PM"
+    },
+    {
+        "title": "US could be under a right-wing dictatorship by the end of the decade, expert warns",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/us-rightwing-dictatorship-2030-canada-b1985864.html",
+        "timestamp": 1641217651,
+        "sentiment": 0,
+        "published": "January 3, 2022 1:47 PM"
+    },
+    {
+        "title": "Iran vows revenge for Soleimani killing if Trump not put on trial",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/iran-vows-revenge-soleimani-killing-if-trump-not-put-trial-2022-01-03/",
+        "timestamp": 1641217892,
+        "sentiment": 0,
+        "published": "January 3, 2022 1:51 PM"
+    },
+    {
+        "title": "‘No one can win a nuclear war’: Superpowers release rare joint statement",
+        "domain": "smh.com.au",
+        "category": "worldnews",
+        "link": "https://www.smh.com.au/world/europe/no-one-can-win-a-nuclear-war-superpowers-release-rare-joint-statement-20220104-p59lmf.html",
+        "timestamp": 1641219526,
+        "sentiment": 0,
+        "published": "January 3, 2022 2:18 PM"
+    },
+    {
+        "title": "'It's only gotten worse': The long shadow of the night that broke the House - For most Democrats, the biggest affront wasn't even the violence by Donald Trump's supporters. It was the votes more than 140 of their GOP colleagues took afterward.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/03/january-6-capitol-riot-house-democrats-525975",
+        "timestamp": 1641221307,
+        "sentiment": 0,
+        "published": "January 3, 2022 2:48 PM"
+    },
+    {
+        "title": "FDA expands Pfizer booster eligibility to kids ages 12 to 15",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/03/fda-expands-pfizer-booster-eligibility-to-kids-ages-12-to-15.html",
+        "timestamp": 1641221542,
+        "sentiment": -2,
+        "published": "January 3, 2022 2:52 PM"
+    },
+    {
+        "title": "It's time for Democrats to remind Republicans: The GOP is very much in the minority",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/03/its-time-for-democrats-to-remind-republicans-the-is-very-much-in-the-minority/",
+        "timestamp": 1641222119,
+        "sentiment": 0,
+        "published": "January 3, 2022 3:01 PM"
+    },
+    {
+        "title": "Melanie Lynskey Previews a Pivotal ‘Yellowjackets’ Confrontation and Shauna’s Fear of Herself",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/features/melanie-lynskey-yellowjackets-blackmailer-confrontation-1235136886/",
+        "timestamp": 1641222410,
+        "sentiment": 2,
+        "published": "January 3, 2022 3:06 PM"
+    },
+    {
+        "title": "Biden’s Agenda Is Dying Because the Interests of the Rich and Poor Are Irreconcilable",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2021/12/bbb-infrastructure-business-manchin-sinema-democrats",
+        "timestamp": 1641222738,
+        "sentiment": 0,
+        "published": "January 3, 2022 3:12 PM"
+    },
+    {
+        "title": "Russian Jets Knock Out Water Supply In Syria's Idlib: \"Russian warplanes have bombed a pumping station that provides water to rebel-controlled Idlib city in northwestern Syria, potentially depriving hundreds of thousands of people in the overcrowded city of water...\"",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/russia-syria-water-station-bombing/31636562.html",
+        "timestamp": 1641223438,
+        "sentiment": 0,
+        "published": "January 3, 2022 3:23 PM"
+    },
+    {
+        "title": "Five world powers issue pledge to prevent nuclear war | China, France, Russia, the UK and the US have agreed that a nuclear war \"cannot be won and must never be fought.\"",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/five-world-powers-issue-pledge-to-prevent-nuclear-war/a-60317989",
+        "timestamp": 1641227658,
+        "sentiment": 0,
+        "published": "January 3, 2022 4:34 PM"
+    },
+    {
+        "title": "Covid-19: French MPs get death threats over support for vaccine pass that would bar the unvaccinated from much of public life",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59860058",
+        "timestamp": 1641229671,
+        "sentiment": -2,
+        "published": "January 3, 2022 5:07 PM"
+    },
+    {
+        "title": "Eldest Trump children won't comply with subpoenas from New York attorney general",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/US/eldest-trump-children-comply-subpoenas-york-attorney-general/story?id=82052732",
+        "timestamp": 1641230674,
+        "sentiment": 0,
+        "published": "January 3, 2022 5:24 PM"
+    },
+    {
+        "title": "Philadelphia's ban on pre-hire marijuana testing will take effect in the new year",
+        "domain": "phillyvoice.com",
+        "category": "news",
+        "link": "https://www.phillyvoice.com/philly-hire-employer-marijuana-test-ban-new-year-2022/",
+        "timestamp": 1641233196,
+        "sentiment": -2,
+        "published": "January 3, 2022 6:06 PM"
+    },
+    {
+        "title": "‘Space Force’ Season 2 Premieres February 18th on Netflix",
+        "domain": "bleedingcool.com",
+        "category": "television",
+        "link": "https://bleedingcool.com/tv/space-force-season-2-blasts-off-this-february-preview-images-released/",
+        "timestamp": 1641233523,
+        "sentiment": 2,
+        "published": "January 3, 2022 6:12 PM"
+    },
+    {
+        "title": "More than 8 million gallons of sewage shuts beaches in California's Long Beach",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/02/us/long-beach-sewage-spill-california/index.html",
+        "timestamp": 1641168568,
         "sentiment": 2,
         "published": "January 3, 2022 12:09 AM"
     },
