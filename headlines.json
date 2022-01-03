@@ -5,6 +5,150 @@
         "category": "politics",
         "link": "https://slate.com/news-and-politics/2022/01/liz-cheney-ivanka-trump-stop-capitol-riot-violence.html",
         "timestamp": 1641168475,
+        "sentiment": -2,
+        "published": "January 3, 2022 12:07 AM"
+    },
+    {
+        "title": "More than 8 million gallons of sewage shuts beaches in California's Long Beach",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/02/us/long-beach-sewage-spill-california/index.html",
+        "timestamp": 1641168568,
+        "sentiment": -1,
+        "published": "January 3, 2022 12:09 AM"
+    },
+    {
+        "title": "Biden tells Ukrainian president US 'will respond decisively if Russia further invades'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/02/politics/biden-zelensky-call/index.html",
+        "timestamp": 1641174784,
+        "sentiment": -3,
+        "published": "January 3, 2022 1:53 AM"
+    },
+    {
+        "title": "New studies reinforce belief that Omicron is less likely to damage lungs | Omicron variant | The Guardian",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "http://www.theguardian.com/world/2022/jan/02/new-studies-reinforce-belief-that-omicron-is-less-likely-to-damage-lungs",
+        "timestamp": 1641181744,
+        "sentiment": -3,
+        "published": "January 3, 2022 3:49 AM"
+    },
+    {
+        "title": "Rep. Adam Schiff Says It Seems 'Very Likely' Russia Will Invade Ukraine",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/rep-adam-schiff-seems-very-likely-russia-will-invade-ukraine-2022-1",
+        "timestamp": 1641182353,
+        "sentiment": -2,
+        "published": "January 3, 2022 3:59 AM"
+    },
+    {
+        "title": "‘Comic Book Men’ Star Robert Bruce Found Dead In NJ Storage Unit",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/comic-book-men-star-robert-bruce-found-dead-nj-storage-unit-1234903630/",
+        "timestamp": 1641186333,
+        "sentiment": 3,
+        "published": "January 3, 2022 5:05 AM"
+    },
+    {
+        "title": "Milwaukee Public Schools will temporarily transition to virtual learning due to influx of COVID-19 cases among staff members",
+        "domain": "jsonline.com",
+        "category": "news",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2022/01/02/mps-temporarily-transitions-virtual-learning-due-covid-19/9074702002/",
+        "timestamp": 1641186348,
+        "sentiment": -1,
+        "published": "January 3, 2022 5:05 AM"
+    },
+    {
+        "title": "Benny's Breakdown - DS9",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/MwzgtCwAnf8",
+        "timestamp": 1641187401,
+        "sentiment": 3,
+        "published": "January 3, 2022 5:23 AM"
+    },
+    {
+        "title": "Man Kidnapped as a Child in China Reunited with Family After Drawing a Map of Home Village from Memory",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/man-kidnapped-as-a-child-in-china-reunited-with-family-after-drawing-map-of-home-village-from-memory-12507517",
+        "timestamp": 1641188833,
+        "sentiment": -1,
+        "published": "January 3, 2022 5:47 AM"
+    },
+    {
+        "title": "Taliban Pour 3,000 Litres Of Liquor Into Canal, Say 'Muslims Have To Seriously Abstain From Alcohol'",
+        "domain": "indiatimes.com",
+        "category": "worldnews",
+        "link": "https://www.indiatimes.com/trending/social-relevance/taliban-pour-3000-litres-of-liquor-into-canal-558322.html",
+        "timestamp": 1641201481,
+        "sentiment": -3,
+        "published": "January 3, 2022 9:18 AM"
+    },
+    {
+        "title": "Japan bans facial recognition tech exports due to China's human rights abuses: Tokyo signals intention to work with US and other allies on future export restrictions.",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4396710",
+        "timestamp": 1641206108,
+        "sentiment": -3,
+        "published": "January 3, 2022 10:35 AM"
+    },
+    {
+        "title": "President Bolsonaro admitted to São Paulo hospital",
+        "domain": "riotimesonline.com",
+        "category": "worldnews",
+        "link": "https://www.riotimesonline.com/brazil-news/rio-politics/president-bolsonaro-admitted-to-sao-paulo-hospital/",
+        "timestamp": 1641206424,
+        "sentiment": -3,
+        "published": "January 3, 2022 10:40 AM"
+    },
+    {
+        "title": "The Wire - Differences in the newsroom",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=sABraGCccIk",
+        "timestamp": 1641206986,
+        "sentiment": 3,
+        "published": "January 3, 2022 10:49 AM"
+    },
+    {
+        "title": "6 in 10 Americans say U.S. democracy is in crisis as the 'big lie' takes root",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/03/1069764164/american-democracy-poll-jan-6",
+        "timestamp": 1641209648,
+        "sentiment": -2,
+        "published": "January 3, 2022 11:34 AM"
+    },
+    {
+        "title": "Brazil president Jair Bolsonaro admitted to hospital, doctor says | Jair Bolsonaro",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/03/jair-bolsonaro-taken-hospital-brazil-abdominal-pain-doctor-says",
+        "timestamp": 1641210532,
+        "sentiment": -1,
+        "published": "January 3, 2022 11:48 AM"
+    },
+    {
+        "title": "Maxine Waters Calls Marjorie Taylor Greene An 'Extremist Radical' Who Should Not Be In Congress",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/maxine-waters-calls-marjorie-taylor-greene-extremist-radical-who-should-not-congress-1664901",
+        "timestamp": 1641211685,
+        "sentiment": -2,
+        "published": "January 3, 2022 12:08 PM"
+    },
+    {
+        "title": "Liz Cheney: We Have “Firsthand Testimony” Ivanka Asked Trump to Stop Jan. 6 Capitol Riot",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/01/liz-cheney-ivanka-trump-stop-capitol-riot-violence.html",
+        "timestamp": 1641168475,
         "sentiment": 3,
         "published": "January 3, 2022 12:07 AM"
     },
