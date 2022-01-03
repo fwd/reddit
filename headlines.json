@@ -14,6 +14,69 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/02/us/long-beach-sewage-spill-california/index.html",
         "timestamp": 1641168568,
+        "sentiment": -2,
+        "published": "January 3, 2022 12:09 AM"
+    },
+    {
+        "title": "Schiff says Ukraine invasion 'likely' as Biden prepares for Zelensky call",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/01/02/schiff-says-ukraine-invasion-likely-as-biden-prepares-for-zelensky-call/",
+        "timestamp": 1641180954,
+        "sentiment": -1,
+        "published": "January 3, 2022 3:35 AM"
+    },
+    {
+        "title": "Fossil hunter Richard Leakey who showed humans evolved in Africa dies at 77 | Fossils",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/science/2022/jan/02/fossil-hunter-richard-leakey-who-showed-humans-evolved-in-africa-dies-at-77",
+        "timestamp": 1641183525,
+        "sentiment": -1,
+        "published": "January 3, 2022 4:18 AM"
+    },
+    {
+        "title": "‘Comic Book Men’ Star Robert Bruce Found Dead In NJ Storage Unit",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/comic-book-men-star-robert-bruce-found-dead-nj-storage-unit-1234903630/",
+        "timestamp": 1641186333,
+        "sentiment": 1,
+        "published": "January 3, 2022 5:05 AM"
+    },
+    {
+        "title": "Benny's Breakdown - DS9",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/MwzgtCwAnf8",
+        "timestamp": 1641187401,
+        "sentiment": 1,
+        "published": "January 3, 2022 5:23 AM"
+    },
+    {
+        "title": "Man Kidnapped as a Child in China Reunited with Family After Drawing a Map of Home Village from Memory",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/man-kidnapped-as-a-child-in-china-reunited-with-family-after-drawing-map-of-home-village-from-memory-12507517",
+        "timestamp": 1641188833,
+        "sentiment": -2,
+        "published": "January 3, 2022 5:47 AM"
+    },
+    {
+        "title": "Liz Cheney: We Have “Firsthand Testimony” Ivanka Asked Trump to Stop Jan. 6 Capitol Riot",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/01/liz-cheney-ivanka-trump-stop-capitol-riot-violence.html",
+        "timestamp": 1641168475,
+        "sentiment": 0,
+        "published": "January 3, 2022 12:07 AM"
+    },
+    {
+        "title": "More than 8 million gallons of sewage shuts beaches in California's Long Beach",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/02/us/long-beach-sewage-spill-california/index.html",
+        "timestamp": 1641168568,
         "sentiment": 0,
         "published": "January 3, 2022 12:09 AM"
     },
