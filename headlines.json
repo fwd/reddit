@@ -5,6 +5,321 @@
         "category": "television",
         "link": "https://people.com/tv/jimmy-fallon-gets-breakthrough-case-of-covid-before-christmas/",
         "timestamp": 1641262293,
+        "sentiment": 4,
+        "published": "January 4, 2022 2:11 AM"
+    },
+    {
+        "title": "Filipino 'Squid Game' actor reveals he was victim of racial abuse in Korea",
+        "domain": "sea.mashable.com",
+        "category": "television",
+        "link": "https://sea.mashable.com/life/18047/filipino-squid-game-actor-reveals-he-was-victim-of-racial-abuse-in-korea",
+        "timestamp": 1641264928,
+        "sentiment": 4,
+        "published": "January 4, 2022 2:55 AM"
+    },
+    {
+        "title": "Saudi Crown Prince Mohammed bin Salman wants Turkey's President to stop bringing up the brutal killing of journalist Jamal Khashoggi",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/saudi-crown-prince-mohammed-bin-232153662.html",
+        "timestamp": 1641270746,
+        "sentiment": -4,
+        "published": "January 4, 2022 4:32 AM"
+    },
+    {
+        "title": "U.S. reports over 1 million new daily Covid cases as omicron surges",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/04/us-counts-over-1-million-new-daily-covid-cases-in-global-record-.html",
+        "timestamp": 1641292912,
+        "sentiment": -4,
+        "published": "January 4, 2022 10:41 AM"
+    },
+    {
+        "title": "Girls in Seychelles to receive free sanitary products, relieving pressure on families",
+        "domain": "seychellesnewsagency.com",
+        "category": "worldnews",
+        "link": "http://www.seychellesnewsagency.com/articles/15839/Girls+in+Seychelles+to+receive+free+sanitary+products%2C+relieving+pressure+on+families",
+        "timestamp": 1641296003,
+        "sentiment": -4,
+        "published": "January 4, 2022 11:33 AM"
+    },
+    {
+        "title": "Donald Trump's children refuse to testify in fraud inquiry",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-59867530",
+        "timestamp": 1641298205,
+        "sentiment": -4,
+        "published": "January 4, 2022 12:10 PM"
+    },
+    {
+        "title": "Unvaccinated People Ordered to Stay Home or Face Jail in Philippines' Capital Manila",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "http://vice.com/en/article/z3n3xe/philippines-lockdown-manila",
+        "timestamp": 1641298608,
+        "sentiment": -4,
+        "published": "January 4, 2022 12:16 PM"
+    },
+    {
+        "title": "Trump is getting ‘terrible advice’ by planning news conference on anniversary of Capitol riot, ex-aide says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-capitol-riot-anniversary-advice-b1985418.html",
+        "timestamp": 1641300941,
+        "sentiment": -3,
+        "published": "January 4, 2022 12:55 PM"
+    },
+    {
+        "title": "Schumer threatens to change Senate filibuster rules by Jan 17 if Republicans keep blocking voting-rights legislation",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/schumer-senate-change-filibuster-january-17-republicans-voting-rights-2022-1",
+        "timestamp": 1641301413,
+        "sentiment": -3,
+        "published": "January 4, 2022 1:03 PM"
+    },
+    {
+        "title": "Covid Science: Virus leaves antibodies that may attack healthy tissues",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/virus-leaves-antibodies-that-may-attack-healthy-tissues-b-cell-antibodies-2022-01-03/",
+        "timestamp": 1641302082,
+        "sentiment": -4,
+        "published": "January 4, 2022 1:14 PM"
+    },
+    {
+        "title": "France's Bogdanoff TV twins die of Covid six days apart",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59867046",
+        "timestamp": 1641303612,
+        "sentiment": -4,
+        "published": "January 4, 2022 1:40 PM"
+    },
+    {
+        "title": "Ohio Senator Rob Portman tests positive for COVID-19",
+        "domain": "abc6onyourside.com",
+        "category": "news",
+        "link": "https://abc6onyourside.com/news/local/ohio-senator-rob-portman-tests-positive-for-covid19-1-4-2022",
+        "timestamp": 1641304010,
+        "sentiment": -4,
+        "published": "January 4, 2022 1:46 PM"
+    },
+    {
+        "title": "Swedish King and Queen test positive for COVID-19",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/pmn/entertainment-pmn/swedish-king-and-queen-test-positive-for-covid-19",
+        "timestamp": 1641306663,
+        "sentiment": -4,
+        "published": "January 4, 2022 2:31 PM"
+    },
+    {
+        "title": "Nirvana Nevermind baby cover artwork lawsuit dismissed",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/music/2022/jan/04/nirvana-nevermind-baby-cover-artwork-lawsuit-dismissed",
+        "timestamp": 1641309002,
+        "sentiment": -4,
+        "published": "January 4, 2022 3:10 PM"
+    },
+    {
+        "title": "Trump ‘needs to be in prison’ for Jan. 6 riot, says partner of fallen Capitol Police officer Brian Sicknick",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/national-security/2022/01/04/trump-capitol-riot-sicknick-garza-prison/",
+        "timestamp": 1641309463,
+        "sentiment": -3,
+        "published": "January 4, 2022 3:17 PM"
+    },
+    {
+        "title": "A record 4.5 million Americans quit their jobs in November",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/04/economy/us-job-openings-november/index.html",
+        "timestamp": 1641311075,
+        "sentiment": -4,
+        "published": "January 4, 2022 3:44 PM"
+    },
+    {
+        "title": "'This is it': Swalwell warns 2022 could be last election if GOP wins majority",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/msnbc/amp-video/mmvo130056261886",
+        "timestamp": 1641311272,
+        "sentiment": -3,
+        "published": "January 4, 2022 3:47 PM"
+    },
+    {
+        "title": "The Woman in the House Across the Street from the Girl in the Window | Official Trailer | January 28",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/fuUZCoyoHo4",
+        "timestamp": 1641312472,
+        "sentiment": 4,
+        "published": "January 4, 2022 4:07 PM"
+    },
+    {
+        "title": "‘The governor is an enemy of the people,’ well-known activist says as he’s handcuffed ahead of DeSantis news conference",
+        "domain": "local10.com",
+        "category": "news",
+        "link": "https://www.local10.com/news/florida/2022/01/04/gov-ron-desantis-holds-covid-19-news-conference-in-jacksonville/",
+        "timestamp": 1641312712,
+        "sentiment": -4,
+        "published": "January 4, 2022 4:11 PM"
+    },
+    {
+        "title": "January 6th May Have Been Only the First Wave of Christian Nationalist Violence",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6132591/january-6th-christian-nationalism/",
+        "timestamp": 1641312881,
+        "sentiment": -3,
+        "published": "January 4, 2022 4:14 PM"
+    },
+    {
+        "title": "‘Late Night With Seth Meyers’ Canceled For Rest Of Week After Host Tests Positive For Covid",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/seth-meyers-late-night-canceled-covid-1234904176/",
+        "timestamp": 1641316267,
+        "sentiment": 4,
+        "published": "January 4, 2022 5:11 PM"
+    },
+    {
+        "title": "Haiti's PM survives weekend assassination attempt, his office says",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/haitian-prime-minister-survives-weekend-assassination-attempt-office-s-rcna10831",
+        "timestamp": 1641317002,
+        "sentiment": -4,
+        "published": "January 4, 2022 5:23 PM"
+    },
+    {
+        "title": "The Democratic National Committee's staff just chose to unionize. It's the most significant organizing effort yet in politics.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/dnc-staff-unionize-staff-signing-cards-2022-1",
+        "timestamp": 1641318038,
+        "sentiment": -3,
+        "published": "January 4, 2022 5:40 PM"
+    },
+    {
+        "title": "Israel on Tuesday lifted restrictions barring same-sex couples and single men from becoming parents through surrogacy",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-01-04/israel-lifts-restrictions-on-same-sex-surrogacy",
+        "timestamp": 1641318314,
+        "sentiment": -4,
+        "published": "January 4, 2022 5:45 PM"
+    },
+    {
+        "title": "Sweden charges woman for enlisting her son, 12, to fight in Syria as a child soldier",
+        "domain": "smh.com.au",
+        "category": "worldnews",
+        "link": "http://www.smh.com.au/world/europe/swedish-mother-charged-with-enlisting-son-12-to-fight-in-syria-20220105-p59lwh.html",
+        "timestamp": 1641318520,
+        "sentiment": -4,
+        "published": "January 4, 2022 5:48 PM"
+    },
+    {
+        "title": "Republican voters don't actually \"believe\" the Big Lie about January 6 — they're in on the con",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/04/dont-actually-believe-the-big-lie-about-january-6--theyre-in-on-the-con/",
+        "timestamp": 1641319567,
+        "sentiment": -3,
+        "published": "January 4, 2022 6:06 PM"
+    },
+    {
+        "title": "‘Right to disconnect’: boss may no longer call employees after hours",
+        "domain": "brusselstimes.com",
+        "category": "worldnews",
+        "link": "https://www.brusselstimes.com/belgium/200332/right-to-disconnect-boss-may-no-longer-call-employees-after-hours",
+        "timestamp": 1641321568,
+        "sentiment": -4,
+        "published": "January 4, 2022 6:39 PM"
+    },
+    {
+        "title": "Ted Cruz says GOP will impeach Biden if it retakes Congress — whether it’s “justified or not”",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/04/ted-cruz-says-will-impeach-biden-if-it-retakes-congress--whether-its-justified-or-not/",
+        "timestamp": 1641321621,
+        "sentiment": -3,
+        "published": "January 4, 2022 6:40 PM"
+    },
+    {
+        "title": "Trump Tried A Coup In Plain Sight — And Has, So Far, Gotten Away With It",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-coup-attempt_n_61c2733fe4b04b42ab6602a2",
+        "timestamp": 1641323888,
+        "sentiment": -3,
+        "published": "January 4, 2022 7:18 PM"
+    },
+    {
+        "title": "James Webb Space Telescope completes tricky sunshield deployment",
+        "domain": "space.com",
+        "category": "news",
+        "link": "https://www.space.com/james-webb-space-telescope-completes-sunshield-deployment",
+        "timestamp": 1641323930,
+        "sentiment": -4,
+        "published": "January 4, 2022 7:18 PM"
+    },
+    {
+        "title": "The Republican Party Is Now the Party of January 6",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/the-republican-party-is-now-the-party-of-january-6/amp",
+        "timestamp": 1641325227,
+        "sentiment": -3,
+        "published": "January 4, 2022 7:40 PM"
+    },
+    {
+        "title": "Biden doubles U.S. order of Pfizer Covid treatment pills, speeds delivery as omicron rages across nation",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/04/biden-doubles-us-order-of-pfizer-covid-treatment-pills-speeds-delivery-as-omicron-rages.html",
+        "timestamp": 1641326622,
+        "sentiment": -4,
+        "published": "January 4, 2022 8:03 PM"
+    },
+    {
+        "title": "‘Cobra Kai’ Season 4 Tops 120 Million Hours Viewed in First 3 Days",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/cobra-kai-season-4-tops-120-million-hours-viewed-in-first-3-days/",
+        "timestamp": 1641328130,
+        "sentiment": 4,
+        "published": "January 4, 2022 8:28 PM"
+    },
+    {
+        "title": "Sweden launches 'Psychological Defence Agency' to counter propaganda from Russia, China and Iran",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/01/04/sweden-launches-psychological-defence-agency-counter-complex/",
+        "timestamp": 1641335067,
+        "sentiment": -4,
+        "published": "January 4, 2022 10:24 PM"
+    },
+    {
+        "title": "French President Emmanuel Macron said he “really wants to piss off” the unvaccinated",
+        "domain": "thelocal.fr",
+        "category": "worldnews",
+        "link": "https://www.thelocal.fr/20220104/macron-causes-stir-as-he-vows-to-pss-off-frances-unvaccinated/",
+        "timestamp": 1641336289,
+        "sentiment": -4,
+        "published": "January 4, 2022 10:44 PM"
+    },
+    {
+        "title": "Jimmy Fallon Reveals He Tested Positive for COVID: 'I Was Vaccinated and Boostered'",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/jimmy-fallon-gets-breakthrough-case-of-covid-before-christmas/",
+        "timestamp": 1641262293,
         "sentiment": -1,
         "published": "January 4, 2022 2:11 AM"
     },
