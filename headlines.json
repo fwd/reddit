@@ -5,6 +5,24 @@
         "category": "news",
         "link": "https://www.westport-news.com/news/article/Alert-Jury-convicts-Elizabeth-Holmes-of-fraud-16747013.php",
         "timestamp": 1641255491,
+        "sentiment": -2,
+        "published": "January 4, 2022 12:18 AM"
+    },
+    {
+        "title": "Starbucks to require all U.S. workers get COVID-19 vaccine or tested",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/starbucks-covid-19-vaccine-tests/",
+        "timestamp": 1641255723,
+        "sentiment": -2,
+        "published": "January 4, 2022 12:22 AM"
+    },
+    {
+        "title": "Jury convicts Elizabeth Holmes of fraud and conspiracy at her former startup Theranos but acquits on some charges",
+        "domain": "westport-news.com",
+        "category": "news",
+        "link": "https://www.westport-news.com/news/article/Alert-Jury-convicts-Elizabeth-Holmes-of-fraud-16747013.php",
+        "timestamp": 1641255491,
         "sentiment": -4,
         "published": "January 4, 2022 12:18 AM"
     },
