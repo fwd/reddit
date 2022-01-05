@@ -1,5 +1,338 @@
 [
     {
+        "title": "North Korean officials demand handwriting samples of thousands of Pyongyang residents after graffiti appears calling Kim Jong-un a 'son of a bitch'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/pyongyang-demands-handwriting-samples-residents-144242458.html",
+        "timestamp": 1641352529,
+        "sentiment": 0,
+        "published": "January 5, 2022 3:15 AM"
+    },
+    {
+        "title": "Peacemaker Review: The Suicide Squad Spin-Off May Be James Gunn's Vulgar, Violent Masterpiece",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/724644/peacemaker-review-the-suicide-squad-spin-off-may-be-james-gunns-vulgar-violent-masterpiece/",
+        "timestamp": 1641370509,
+        "sentiment": 0,
+        "published": "January 5, 2022 8:15 AM"
+    },
+    {
+        "title": "Taiwan buys 20,000 bottles of Lithuania rum destined for China",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-59877917",
+        "timestamp": 1641373697,
+        "sentiment": 0,
+        "published": "January 5, 2022 9:08 AM"
+    },
+    {
+        "title": "GOP Group Calls Out Trump’s Enablers In Congress By Name In Scathing Fox News Ad",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/republican-accountability-project-trump-insurrection_n_61d5163fe4b0d637ae9b4e6e",
+        "timestamp": 1641379984,
+        "sentiment": -3,
+        "published": "January 5, 2022 10:53 AM"
+    },
+    {
+        "title": "George Floyd’s 4-year-old niece shot after someone fired several shots into Houston apartment, family says",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2022/01/04/4-year-old-girl-shot-after-multiple-shots-fired-into-apartment-on-houstons-south-side-police-say/",
+        "timestamp": 1641380246,
+        "sentiment": -7,
+        "published": "January 5, 2022 10:57 AM"
+    },
+    {
+        "title": "Mayo Clinic fires 700 unvaccinated employees",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/mayo-clinic-fires-700-unvaccinated-employees/",
+        "timestamp": 1641381378,
+        "sentiment": -7,
+        "published": "January 5, 2022 11:16 AM"
+    },
+    {
+        "title": "Fiery Protests Continue Across Kazakhstan",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/protests-kazakhstan-gas-prices-photos/31640302.html",
+        "timestamp": 1641383719,
+        "sentiment": 0,
+        "published": "January 5, 2022 11:55 AM"
+    },
+    {
+        "title": "HBO Max and HBO Ended 2021 With 73.8M Global Subscribers",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-subscribers-end-2021-million-1235069297/",
+        "timestamp": 1641384149,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:02 PM"
+    },
+    {
+        "title": "Kim Mi-soo, Korean Actor in ‘Snowdrop,’ Dies at 29",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/global/actors/kim-mi-soo-dead-dies-korean-actor-snowdrop-1235147015/",
+        "timestamp": 1641385127,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:18 PM"
+    },
+    {
+        "title": "Walmart, Kroger raise at-home Covid test prices after White House agreement expires",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/business/business-news/walmart-kroger-raise-home-covid-test-price-white-house-agreement-expir-rcna10967",
+        "timestamp": 1641385377,
+        "sentiment": -7,
+        "published": "January 5, 2022 12:22 PM"
+    },
+    {
+        "title": "Jay Wolpert, Game Show Producer Turned ‘Pirates of the Caribbean’ Screenwriter, Dies at 79",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jay-wolpert-dead-price-is-right-pirates-of-the-caribbean-1235069382/",
+        "timestamp": 1641387029,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:50 PM"
+    },
+    {
+        "title": "Democrats, listen up: Conservatives don't care how they'll be remembered by history",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/reidout-blog/manchin-sinema-schumer-voting-rights-rcna10860",
+        "timestamp": 1641387238,
+        "sentiment": -3,
+        "published": "January 5, 2022 12:53 PM"
+    },
+    {
+        "title": "Microsoft, AmEx, Airbnb and 4 other major companies have pledged not to donate to Republican election objectors in 2022",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/donald-trump-sedition-caucus-microsoft-amex-donations-gop-pac-biden-2022-1",
+        "timestamp": 1641388645,
+        "sentiment": -3,
+        "published": "January 5, 2022 1:17 PM"
+    },
+    {
+        "title": "‘Yellowstone’ Sets New Ratings Records As Season 4 Finale Draws 9.3 Million Viewers On Paramount Network",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/yellowstone-season-4-finale-ratings-highs-record-kevin-costner-paramount-network-1234904529/",
+        "timestamp": 1641389487,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:31 PM"
+    },
+    {
+        "title": "More police officers sue Trump over January 6",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/january-6-capitol-metropolitan-police-officers-trump-lawsuits/",
+        "timestamp": 1641389726,
+        "sentiment": -7,
+        "published": "January 5, 2022 1:35 PM"
+    },
+    {
+        "title": "Kazakhstan Shuts Internet as Government Offices Burn in Protests",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html",
+        "timestamp": 1641389951,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:39 PM"
+    },
+    {
+        "title": "Chinese tokamak keeps plasma 2.6 times as hot as the Sun for 17 minutes",
+        "domain": "newatlas.com",
+        "category": "worldnews",
+        "link": "https://newatlas.com/energy/asipp-east-tokamak-plasma-record/",
+        "timestamp": 1641389953,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:39 PM"
+    },
+    {
+        "title": "New Texts Show Sean Hannity Panicking About Trump's State of Mind After Jan. 6",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/jan-6-committee-sean-hannity-request-cooperation-1278476/",
+        "timestamp": 1641390657,
+        "sentiment": -3,
+        "published": "January 5, 2022 1:50 PM"
+    },
+    {
+        "title": "'Do you realize you're describing a coup?': MSNBC host challenges Trump aide after he described plans to overturn the 2020 election",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/ari-melber-challenge-peter-navarro-says-describing-coup-2022-1",
+        "timestamp": 1641391050,
+        "sentiment": -3,
+        "published": "January 5, 2022 1:57 PM"
+    },
+    {
+        "title": "A Year Later, GOP Lawmakers Still Won’t Say If Joe Biden Is Actually President Nearly all of the 147 Republicans who voted to reject the 2020 presidential election results also won’t say if they regret that vote, which was based on a lie.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/january-6-republicans-overturn-election-capitol-riot_n_61d35f59e4b0bcd219561a94",
+        "timestamp": 1641391997,
+        "sentiment": -3,
+        "published": "January 5, 2022 2:13 PM"
+    },
+    {
+        "title": "Fox News has a Jan. 6 problem: Sean Hannity's text messages make clear his complicity",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/05/fox-news-has-a-jan-6-problem-sean-hannitys-text-messages-make-clear-his-complicity/",
+        "timestamp": 1641392660,
+        "sentiment": -3,
+        "published": "January 5, 2022 2:24 PM"
+    },
+    {
+        "title": "Night Court - Dan is desperate to catch a flight, but a case involving the slowest man in the world holds him up",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=tFADFSI7Z4Q",
+        "timestamp": 1641395285,
+        "sentiment": 0,
+        "published": "January 5, 2022 3:08 PM"
+    },
+    {
+        "title": "Kosovo bans cryptocurrency mining after blackouts",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59879760",
+        "timestamp": 1641395948,
+        "sentiment": -7,
+        "published": "January 5, 2022 3:19 PM"
+    },
+    {
+        "title": "Filipino 'Squid Game' actor reveals he was victim of racial abuse in Korea",
+        "domain": "sea.mashable.com",
+        "category": "worldnews",
+        "link": "https://sea.mashable.com/life/18047/filipino-squid-game-actor-reveals-he-was-victim-of-racial-abuse-in-korea",
+        "timestamp": 1641395998,
+        "sentiment": 0,
+        "published": "January 5, 2022 3:19 PM"
+    },
+    {
+        "title": "January 6 committee mulling prime time, televised hearings as Sean Hannity and Mike Pence latest to be called",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/january-6-committee-capitol-riot-b1987205.html",
+        "timestamp": 1641396425,
+        "sentiment": -3,
+        "published": "January 5, 2022 3:27 PM"
+    },
+    {
+        "title": "Bodycam video shows Houston cop speeding, driving with 1 hand before hitting and killing pedestrian with patrol car",
+        "domain": "chron.com",
+        "category": "news",
+        "link": "https://www.chron.com/news/houston-texas/amp/Houston-police-hits-pedestrian-pursuit-16745763.php",
+        "timestamp": 1641396428,
+        "sentiment": -7,
+        "published": "January 5, 2022 3:27 PM"
+    },
+    {
+        "title": "Capitol Police intelligence official says she sounded alarm about potential violence days before January 6 riot",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/capitol-police-intelligence-official-julie-farnam-january-6-riot/?dc_data=1131694_samsung-carnival-us&utm_source=taboola&utm_medium=taboola_news&utm_campaign=ECCBSiCBSNews&ui=5615fe13-be11-4e8b-bb5c-bdc748a7473f-tuct8cb8c8b#app",
+        "timestamp": 1641397104,
+        "sentiment": -7,
+        "published": "January 5, 2022 3:38 PM"
+    },
+    {
+        "title": "Greenland permanently bans all oil and gas exploration",
+        "domain": "optimistdaily.com",
+        "category": "worldnews",
+        "link": "https://www.optimistdaily.com/2021/12/greenland-permanently-bans-all-oil-and-gas-exploration/",
+        "timestamp": 1641397359,
+        "sentiment": 0,
+        "published": "January 5, 2022 3:42 PM"
+    },
+    {
+        "title": "'The Amazing Race' host talks mid-season production shutdown due to COVID-19 and restarting the Race 2-years later, ahead of tonight's season premiere on CBS",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/amazing-race-season-33-phil-keoghan-premiere-covid/",
+        "timestamp": 1641397926,
+        "sentiment": 0,
+        "published": "January 5, 2022 3:52 PM"
+    },
+    {
+        "title": "Archive 81 | Official Trailer | Netflix",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/ibxKEqxARkE",
+        "timestamp": 1641398450,
+        "sentiment": 0,
+        "published": "January 5, 2022 4:00 PM"
+    },
+    {
+        "title": "\"You realize you are describing a coup?'—Peter Navarro's Jan 6 interview viewed 1m times",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/peter-navarro-msnbc-ari-melber-donald-trump-january-6-coup-joe-biden-1665707",
+        "timestamp": 1641398477,
+        "sentiment": -3,
+        "published": "January 5, 2022 4:01 PM"
+    },
+    {
+        "title": "'Can't Afford' Build Back Better? US Billionaires Saw $1 Trillion Wealth Boom in 2021 Alone | A new analysis shows that Sen. Ron Wyden's proposed tax on billionaires \"would be more than enough to cover the expansion of the child tax credit in the Build Back Better Act.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/05/cant-afford-build-back-better-us-billionaires-saw-1-trillion-wealth-boom-2021-alone",
+        "timestamp": 1641398614,
+        "sentiment": -3,
+        "published": "January 5, 2022 4:03 PM"
+    },
+    {
+        "title": "Fraggle Rock: Back to the Rock — Official Trailer | Apple TV+",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/H21eTqk9BP8",
+        "timestamp": 1641399896,
+        "sentiment": 0,
+        "published": "January 5, 2022 4:24 PM"
+    },
+    {
+        "title": "James Webb Space Telescope extends secondary mirror",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/science-environment-59885687",
+        "timestamp": 1641402199,
+        "sentiment": 0,
+        "published": "January 5, 2022 5:03 PM"
+    },
+    {
+        "title": "Tech Company Bolt Permanently Enacts 4 Day Workweek",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/amp/2022/01/05/the-4-day-workweek-becomes-permanent-for-tech-company-bolt.html",
+        "timestamp": 1641402473,
+        "sentiment": -7,
+        "published": "January 5, 2022 5:07 PM"
+    },
+    {
+        "title": "Texas father gunned down in Chuck E. Cheese parking lot while bringing in daughter’s birthday cake",
+        "domain": "ketk.com",
+        "category": "news",
+        "link": "https://www.ketk.com/news/texas/texas-father-gunned-down-in-chuck-e-chees-parking-lot-while-bringing-in-daughters-birthday-cake/",
+        "timestamp": 1641404110,
+        "sentiment": -7,
+        "published": "January 5, 2022 5:35 PM"
+    },
+    {
+        "title": "4th resident of The Villages arrested for allegedly casting multiple ballots",
+        "domain": "clickorlando.com",
+        "category": "news",
+        "link": "https://www.clickorlando.com/news/local/2022/01/05/4th-resident-of-the-villages-arrested-for-allegedly-casting-multiple-ballots/",
+        "timestamp": 1641408910,
+        "sentiment": -7,
+        "published": "January 5, 2022 6:55 PM"
+    },
+    {
         "title": "OC Deputy DA, vocal critic of vaccine mandates, dies of COVID-19",
         "domain": "foxla.com",
         "category": "news",
