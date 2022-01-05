@@ -14,6 +14,285 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/04/us/missouri-complain-asian-tv-anchor-michelle-li/index.html",
         "timestamp": 1641341557,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:12 AM"
+    },
+    {
+        "title": "Customer Service at the IRS Is So Bad, Even Tax Pros Are Fed Up",
+        "domain": "news.bloombergtax.com",
+        "category": "news",
+        "link": "https://news.bloombergtax.com/daily-tax-report/customer-service-at-the-irs-is-so-bad-even-tax-pros-are-fed-up",
+        "timestamp": 1641342047,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:20 AM"
+    },
+    {
+        "title": "California gun control bill would let shooting victims sue firearm manufacturers, sellers",
+        "domain": "sacbee.com",
+        "category": "politics",
+        "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article257038052.html",
+        "timestamp": 1641343140,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:39 AM"
+    },
+    {
+        "title": "OC Deputy DA, vocal critic of vaccine mandates, dies of COVID-19",
+        "domain": "foxla.com",
+        "category": "news",
+        "link": "https://www.foxla.com/news/oc-deputy-da-vocal-critic-of-vaccine-mandates-dies-of-covid-19",
+        "timestamp": 1641345259,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:14 AM"
+    },
+    {
+        "title": "Jan. 6 committee releases ‘explosive’ texts from Sean Hannity",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/all-in/watch/jan-6-committee-releases-explosive-texts-from-sean-hannity-130140741655",
+        "timestamp": 1641346878,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:41 AM"
+    },
+    {
+        "title": "French President Emmanuel Macron has warned he intends to make life difficult for people in France who have not been vaccinated",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59873833",
+        "timestamp": 1641348408,
+        "sentiment": 0,
+        "published": "January 5, 2022 2:06 AM"
+    },
+    {
+        "title": "Jan. 6 was not a riot. It was an insurrection. | Language that downplays the violent US Capitol breach is trying to rewrite history that was witnessed live by millions.",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/01/04/opinion/jan-6-was-not-riot-it-was-an-insurrection/",
+        "timestamp": 1641348578,
+        "sentiment": 0,
+        "published": "January 5, 2022 2:09 AM"
+    },
+    {
+        "title": "North Korean officials demand handwriting samples of thousands of Pyongyang residents after graffiti appears calling Kim Jong-un a 'son of a bitch'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/pyongyang-demands-handwriting-samples-residents-144242458.html",
+        "timestamp": 1641352529,
+        "sentiment": -2,
+        "published": "January 5, 2022 3:15 AM"
+    },
+    {
+        "title": "Ex-Trump aide Peter Navarro says 100 House members were \"ready\" to carry out election coup",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/04/ex-aide-peter-navarro-says-100-members-were-ready-to-carry-out-coup/",
+        "timestamp": 1641358084,
+        "sentiment": 0,
+        "published": "January 5, 2022 4:48 AM"
+    },
+    {
+        "title": "Australia, Japan to sign 'historic' defense, security pact",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/china-japan-australia-scott-morrison-fumio-kishida-2b00e52fe6b33e572e74d80f3d878635",
+        "timestamp": 1641361350,
+        "sentiment": -2,
+        "published": "January 5, 2022 5:42 AM"
+    },
+    {
+        "title": "Peacemaker Review: The Suicide Squad Spin-Off May Be James Gunn's Vulgar, Violent Masterpiece",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/724644/peacemaker-review-the-suicide-squad-spin-off-may-be-james-gunns-vulgar-violent-masterpiece/",
+        "timestamp": 1641370509,
+        "sentiment": 1,
+        "published": "January 5, 2022 8:15 AM"
+    },
+    {
+        "title": "Taiwan buys 20,000 bottles of Lithuania rum destined for China",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-59877917",
+        "timestamp": 1641373697,
+        "sentiment": -2,
+        "published": "January 5, 2022 9:08 AM"
+    },
+    {
+        "title": "Novak Djokovic: Australian Open vaccine exemption ignites backlash",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-australia-59876203",
+        "timestamp": 1641374139,
+        "sentiment": -2,
+        "published": "January 5, 2022 9:15 AM"
+    },
+    {
+        "title": "GOP Group Calls Out Trump’s Enablers In Congress By Name In Scathing Fox News Ad",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/republican-accountability-project-trump-insurrection_n_61d5163fe4b0d637ae9b4e6e",
+        "timestamp": 1641379984,
+        "sentiment": 0,
+        "published": "January 5, 2022 10:53 AM"
+    },
+    {
+        "title": "George Floyd’s 4-year-old niece shot after someone fired several shots into Houston apartment, family says",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2022/01/04/4-year-old-girl-shot-after-multiple-shots-fired-into-apartment-on-houstons-south-side-police-say/",
+        "timestamp": 1641380246,
+        "sentiment": 0,
+        "published": "January 5, 2022 10:57 AM"
+    },
+    {
+        "title": "Mayo Clinic fires 700 unvaccinated employees",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/mayo-clinic-fires-700-unvaccinated-employees/",
+        "timestamp": 1641381378,
+        "sentiment": 0,
+        "published": "January 5, 2022 11:16 AM"
+    },
+    {
+        "title": "Fiery Protests Continue Across Kazakhstan",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/protests-kazakhstan-gas-prices-photos/31640302.html",
+        "timestamp": 1641383719,
+        "sentiment": -2,
+        "published": "January 5, 2022 11:55 AM"
+    },
+    {
+        "title": "HBO Max and HBO Ended 2021 With 73.8M Global Subscribers",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-subscribers-end-2021-million-1235069297/",
+        "timestamp": 1641384149,
+        "sentiment": 1,
+        "published": "January 5, 2022 12:02 PM"
+    },
+    {
+        "title": "Kim Mi-soo, Korean Actor in ‘Snowdrop,’ Dies at 29",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/global/actors/kim-mi-soo-dead-dies-korean-actor-snowdrop-1235147015/",
+        "timestamp": 1641385127,
+        "sentiment": 1,
+        "published": "January 5, 2022 12:18 PM"
+    },
+    {
+        "title": "Walmart, Kroger raise at-home Covid test prices after White House agreement expires",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/business/business-news/walmart-kroger-raise-home-covid-test-price-white-house-agreement-expir-rcna10967",
+        "timestamp": 1641385377,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:22 PM"
+    },
+    {
+        "title": "Jay Wolpert, Game Show Producer Turned ‘Pirates of the Caribbean’ Screenwriter, Dies at 79",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jay-wolpert-dead-price-is-right-pirates-of-the-caribbean-1235069382/",
+        "timestamp": 1641387029,
+        "sentiment": 1,
+        "published": "January 5, 2022 12:50 PM"
+    },
+    {
+        "title": "Democrats, listen up: Conservatives don't care how they'll be remembered by history",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/reidout-blog/manchin-sinema-schumer-voting-rights-rcna10860",
+        "timestamp": 1641387238,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:53 PM"
+    },
+    {
+        "title": "Microsoft, AmEx, Airbnb and 4 other major companies have pledged not to donate to Republican election objectors in 2022",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/donald-trump-sedition-caucus-microsoft-amex-donations-gop-pac-biden-2022-1",
+        "timestamp": 1641388645,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:17 PM"
+    },
+    {
+        "title": "‘Yellowstone’ Sets New Ratings Records As Season 4 Finale Draws 9.3 Million Viewers On Paramount Network",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/yellowstone-season-4-finale-ratings-highs-record-kevin-costner-paramount-network-1234904529/",
+        "timestamp": 1641389487,
+        "sentiment": 1,
+        "published": "January 5, 2022 1:31 PM"
+    },
+    {
+        "title": "More police officers sue Trump over January 6",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/january-6-capitol-metropolitan-police-officers-trump-lawsuits/",
+        "timestamp": 1641389726,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:35 PM"
+    },
+    {
+        "title": "Kazakhstan Shuts Internet as Government Offices Burn in Protests",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/05/world/europe/kazakhstan-protests-gas-prices.html",
+        "timestamp": 1641389951,
+        "sentiment": -2,
+        "published": "January 5, 2022 1:39 PM"
+    },
+    {
+        "title": "New Texts Show Sean Hannity Panicking About Trump's State of Mind After Jan. 6",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/jan-6-committee-sean-hannity-request-cooperation-1278476/",
+        "timestamp": 1641390657,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:50 PM"
+    },
+    {
+        "title": "Video shows crowds in Kazakhstan forcing military to retreat, as violent fuel-price protests roil the country",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/video-kazakhstan-protests-force-armored-military-tanks-retreat-2022-1",
+        "timestamp": 1641390922,
+        "sentiment": -2,
+        "published": "January 5, 2022 1:55 PM"
+    },
+    {
+        "title": "'Do you realize you're describing a coup?': MSNBC host challenges Trump aide after he described plans to overturn the 2020 election",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/ari-melber-challenge-peter-navarro-says-describing-coup-2022-1",
+        "timestamp": 1641391050,
+        "sentiment": 0,
+        "published": "January 5, 2022 1:57 PM"
+    },
+    {
+        "title": "Fox News has a Jan. 6 problem: Sean Hannity's text messages make clear his complicity",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/05/fox-news-has-a-jan-6-problem-sean-hannitys-text-messages-make-clear-his-complicity/",
+        "timestamp": 1641392660,
+        "sentiment": 0,
+        "published": "January 5, 2022 2:24 PM"
+    },
+    {
+        "title": "John Wilson on making the world of How To With John Wilson even bigger",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/john-wilson-on-making-the-world-of-how-to-with-john-wil-1848112400",
+        "timestamp": 1641341008,
+        "sentiment": 1,
+        "published": "January 5, 2022 12:03 AM"
+    },
+    {
+        "title": "A viewer called to criticize a TV anchor in Missouri over being 'very Asian'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/04/us/missouri-complain-asian-tv-anchor-michelle-li/index.html",
+        "timestamp": 1641341557,
         "sentiment": -2,
         "published": "January 5, 2022 12:12 AM"
     },
