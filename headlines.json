@@ -14,6 +14,87 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/04/us/missouri-complain-asian-tv-anchor-michelle-li/index.html",
         "timestamp": 1641341557,
+        "sentiment": -6,
+        "published": "January 5, 2022 12:12 AM"
+    },
+    {
+        "title": "California gun control bill would let shooting victims sue firearm manufacturers, sellers",
+        "domain": "sacbee.com",
+        "category": "politics",
+        "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article257038052.html",
+        "timestamp": 1641343140,
+        "sentiment": -2,
+        "published": "January 5, 2022 12:39 AM"
+    },
+    {
+        "title": "McConnell Openly Admits His Very Real Fear Is American Democracy Actually Working",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/04/mcconnell-openly-admits-his-very-real-fear-american-democracy-actually-working",
+        "timestamp": 1641343661,
+        "sentiment": -2,
+        "published": "January 5, 2022 12:47 AM"
+    },
+    {
+        "title": "OC Deputy DA, vocal critic of vaccine mandates, dies of COVID-19",
+        "domain": "foxla.com",
+        "category": "news",
+        "link": "https://www.foxla.com/news/oc-deputy-da-vocal-critic-of-vaccine-mandates-dies-of-covid-19",
+        "timestamp": 1641345259,
+        "sentiment": -6,
+        "published": "January 5, 2022 1:14 AM"
+    },
+    {
+        "title": "Jan. 6 committee releases ‘explosive’ texts from Sean Hannity",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/all-in/watch/jan-6-committee-releases-explosive-texts-from-sean-hannity-130140741655",
+        "timestamp": 1641346878,
+        "sentiment": -2,
+        "published": "January 5, 2022 1:41 AM"
+    },
+    {
+        "title": "French President Emmanuel Macron has warned he intends to make life difficult for people in France who have not been vaccinated",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-59873833",
+        "timestamp": 1641348408,
+        "sentiment": -6,
+        "published": "January 5, 2022 2:06 AM"
+    },
+    {
+        "title": "Jan. 6 was not a riot. It was an insurrection. | Language that downplays the violent US Capitol breach is trying to rewrite history that was witnessed live by millions.",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/01/04/opinion/jan-6-was-not-riot-it-was-an-insurrection/",
+        "timestamp": 1641348578,
+        "sentiment": -2,
+        "published": "January 5, 2022 2:09 AM"
+    },
+    {
+        "title": "North Korean officials demand handwriting samples of thousands of Pyongyang residents after graffiti appears calling Kim Jong-un a 'son of a bitch'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/pyongyang-demands-handwriting-samples-residents-144242458.html",
+        "timestamp": 1641352529,
+        "sentiment": -3,
+        "published": "January 5, 2022 3:15 AM"
+    },
+    {
+        "title": "John Wilson on making the world of How To With John Wilson even bigger",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/john-wilson-on-making-the-world-of-how-to-with-john-wil-1848112400",
+        "timestamp": 1641341008,
+        "sentiment": 0,
+        "published": "January 5, 2022 12:03 AM"
+    },
+    {
+        "title": "A viewer called to criticize a TV anchor in Missouri over being 'very Asian'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/04/us/missouri-complain-asian-tv-anchor-michelle-li/index.html",
+        "timestamp": 1641341557,
         "sentiment": -2,
         "published": "January 5, 2022 12:12 AM"
     },
