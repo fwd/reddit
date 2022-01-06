@@ -1,5 +1,275 @@
 [
     {
+        "title": "Taiwan sends honey oranges, pineapple sugar apples to Singapore for Lunar New Year: Singapore has become prime market for Taiwan fruit following Chinese ban.",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4399222",
+        "timestamp": 1641437604,
+        "sentiment": 1,
+        "published": "January 6, 2022 2:53 AM"
+    },
+    {
+        "title": "South African scientist thinks she may have solved the mystery of long COVID-19, which afflicts 100 million people",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/changing-america/well-being/medical-advances/588443-south-african-scientist-thinks-she-may-have",
+        "timestamp": 1641439314,
+        "sentiment": 1,
+        "published": "January 6, 2022 3:21 AM"
+    },
+    {
+        "title": "Passengers who filmed themselves partying maskless aboard a chartered Sunwing Airlines flight from Montreal to Mexico last week have become pariahs and now face being stranded",
+        "domain": "cp24.com",
+        "category": "news",
+        "link": "https://www.cp24.com/news/airlines-won-t-fly-home-quebec-passengers-from-sunwing-party-flight-to-mexico-1.5728747",
+        "timestamp": 1641441443,
+        "sentiment": 0,
+        "published": "January 6, 2022 3:57 AM"
+    },
+    {
+        "title": "ViacomCBS and WarnerMedia Exploring Sale of The CW",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/the-cw-for-sale-warnermedia-viacomcbs-1235070616/",
+        "timestamp": 1641443008,
+        "sentiment": 0,
+        "published": "January 6, 2022 4:23 AM"
+    },
+    {
+        "title": "Jessica Henwick Turned Down Xialing Role in Shang-Chi in Hopes of Colleen Wing's Return",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/jessica-henwick-on-the-matrix-resurrections-and-her-knives-out-2-full-circle-moment-1235066541/",
+        "timestamp": 1641445810,
+        "sentiment": 0,
+        "published": "January 6, 2022 5:10 AM"
+    },
+    {
+        "title": "Karl Rove urges certain Republicans to stop 'soft-pedaling' Jan. 6, hold Capitol attackers to account",
+        "domain": "theweek.com",
+        "category": "politics",
+        "link": "https://theweek.com/republicans/1008669/karl-rove-urges-certain-republicans-to-stop-soft-pedaling-jan-6-hold-capitol",
+        "timestamp": 1641446642,
+        "sentiment": -2,
+        "published": "January 6, 2022 5:24 AM"
+    },
+    {
+        "title": "U.S. and Taiwan pledge to assist Lithuania in countering China’s ‘economic coercion’",
+        "domain": "japantimes.co.jp",
+        "category": "worldnews",
+        "link": "https://www.japantimes.co.jp/news/2022/01/06/world/taiwan-us-lithuania-china-economic-coercion/",
+        "timestamp": 1641446644,
+        "sentiment": 1,
+        "published": "January 6, 2022 5:24 AM"
+    },
+    {
+        "title": "70 years after extinction, cheetahs to return to Indian jungles",
+        "domain": "deccanherald.com",
+        "category": "worldnews",
+        "link": "https://www.deccanherald.com/national/70-years-after-extinction-cheetahs-to-return-to-indian-jungles-1068375.html",
+        "timestamp": 1641451021,
+        "sentiment": 1,
+        "published": "January 6, 2022 6:37 AM"
+    },
+    {
+        "title": "Toddler Shoots Mother, Infant Sibling at Granbury, Texas Walmart",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/local/toddler-accidentally-shoots-mother-infant-sibling-at-granbury-walmart-police-say/2852449/",
+        "timestamp": 1641451987,
+        "sentiment": 0,
+        "published": "January 6, 2022 6:53 AM"
+    },
+    {
+        "title": "'Dozens' killed by police overnight in Kazakhstan protests",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/01/05/state-of-emergency-in-kazakhstan-amid-protests-over-soaring-gas-prices",
+        "timestamp": 1641454456,
+        "sentiment": 1,
+        "published": "January 6, 2022 7:34 AM"
+    },
+    {
+        "title": "Secretary Blinken: NATO Did Not Invade Georgia & Ukraine, Russia Did",
+        "domain": "georgianjournal.ge",
+        "category": "worldnews",
+        "link": "https://georgianjournal.ge/politics/37652-secretary-blinken-nato-did-not-invade-georgia-ukraine-russia-did.html",
+        "timestamp": 1641456876,
+        "sentiment": 1,
+        "published": "January 6, 2022 8:14 AM"
+    },
+    {
+        "title": "France fines Google, Facebook for not allowing users to deny cookies as simply as accepting them.",
+        "domain": "p.dw.com",
+        "category": "news",
+        "link": "https://p.dw.com/p/45Cef",
+        "timestamp": 1641460289,
+        "sentiment": 0,
+        "published": "January 6, 2022 9:11 AM"
+    },
+    {
+        "title": "Russian paratroopers arrive in Kazakhstan as unrest continues",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/06/shots-heard-in-kazakhstan-as-protests-enter-third-day",
+        "timestamp": 1641462237,
+        "sentiment": 1,
+        "published": "January 6, 2022 9:43 AM"
+    },
+    {
+        "title": "Hannity, Fox face ethical issues over Trump text revelations",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/sean-hannity-business-arts-and-entertainment-donald-trump-ben-bradlee-e4e8353591844244a0d74c3584b53b60",
+        "timestamp": 1641466577,
+        "sentiment": -2,
+        "published": "January 6, 2022 10:56 AM"
+    },
+    {
+        "title": "Democrats quietly explore barring Trump from office over Jan. 6",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/588489-democrats-quietly-explore-barring-trump-from-office-over-jan-6",
+        "timestamp": 1641467136,
+        "sentiment": -2,
+        "published": "January 6, 2022 11:05 AM"
+    },
+    {
+        "title": "Biden Urges U.S. to Reject Trump Lies on Anniversary of Capitol Attack",
+        "domain": "usnews.com",
+        "category": "politics",
+        "link": "https://www.usnews.com/news/top-news/articles/2022-01-06/biden-urges-u-s-to-reject-trump-lies-on-anniversary-of-capitol-attack",
+        "timestamp": 1641468187,
+        "sentiment": -2,
+        "published": "January 6, 2022 11:23 AM"
+    },
+    {
+        "title": "Biden to call Trump a threat to democracy on U.S. Capitol attack anniversary",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/biden-call-trump-threat-democracy-us-capitol-attack-anniversary-2022-01-06/",
+        "timestamp": 1641469071,
+        "sentiment": -2,
+        "published": "January 6, 2022 11:37 AM"
+    },
+    {
+        "title": "Son of North Carolina police officer shot by father has died",
+        "domain": "wndu.com",
+        "category": "news",
+        "link": "https://www.wndu.com/2022/01/05/son-north-carolina-police-officer-shot-by-father-has-died/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wndu",
+        "timestamp": 1641469223,
+        "sentiment": 0,
+        "published": "January 6, 2022 11:40 AM"
+    },
+    {
+        "title": "One million chickens culled after H5N1 Bird Flu virus found spreading among several UK farms",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-lincolnshire-59878040",
+        "timestamp": 1641469925,
+        "sentiment": 1,
+        "published": "January 6, 2022 11:52 AM"
+    },
+    {
+        "title": "‘Ghost’ orchid that grows in the dark among new plant finds",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jan/06/ghost-orchid-that-grows-in-the-dark-among-new-plant-finds",
+        "timestamp": 1641470271,
+        "sentiment": 0,
+        "published": "January 6, 2022 11:57 AM"
+    },
+    {
+        "title": "'We're done. This is the end of the 2020 election': Maricopa County officials rebut error-plagued review",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/05/politics/maricopa-county-rebut-2020-election-review/index.html",
+        "timestamp": 1641471530,
+        "sentiment": 0,
+        "published": "January 6, 2022 12:18 PM"
+    },
+    {
+        "title": "Ron DeSantis Out of Breath in Video Prompts COVID Speculation",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/ron-desantis-florida-covid-press-conference-breath-1666230",
+        "timestamp": 1641472252,
+        "sentiment": -2,
+        "published": "January 6, 2022 12:30 PM"
+    },
+    {
+        "title": "Philippines bans child marriage",
+        "domain": "pna.gov.ph",
+        "category": "worldnews",
+        "link": "https://www.pna.gov.ph/articles/1164695",
+        "timestamp": 1641472780,
+        "sentiment": 1,
+        "published": "January 6, 2022 12:39 PM"
+    },
+    {
+        "title": "Infiltrator wanted to 'kneecap' a violent neo-Nazi group",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/world/neo-nazi-group-infiltrator-the-base-1.6302804",
+        "timestamp": 1641474236,
+        "sentiment": 0,
+        "published": "January 6, 2022 1:03 PM"
+    },
+    {
+        "title": "To preserve our democracy, we must bar insurrectionists from the ballot",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/2022/01/06/election-constitution-rights-curtail-january-6/9024921002/?gnt-cfr=1",
+        "timestamp": 1641477159,
+        "sentiment": -2,
+        "published": "January 6, 2022 1:52 PM"
+    },
+    {
+        "title": "‘Look at All Those People Fighting for Me’: Trump ‘Gleefully’ Watched Jan. 6 Riot, Says Former Press Secretary - Stephanie Grisham Told CNN on Thursday That the Former President was So Excited by the Riot That He was Rewinding His TV and Watching it Again",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/stephanie-grisham-trump-gleefully-watched-jan-6-1280113/",
+        "timestamp": 1641479258,
+        "sentiment": -2,
+        "published": "January 6, 2022 2:27 PM"
+    },
+    {
+        "title": "Biden slams Trump for watching TV during Capitol insurrection: He was ‘doing nothing as police were assaulted’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-biden-speech-trump-insurrection-b1988027.html",
+        "timestamp": 1641479506,
+        "sentiment": -2,
+        "published": "January 6, 2022 2:31 PM"
+    },
+    {
+        "title": "Biden: Trump not just former president, he's a 'defeated former president'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/588524-biden-trump-not-just-former-president-hes-defeated-former-president",
+        "timestamp": 1641480182,
+        "sentiment": -2,
+        "published": "January 6, 2022 2:43 PM"
+    },
+    {
+        "title": "Praise Be: ‘The Righteous Gemstones’ Has Returned",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2022/1/6/22869160/righteous-gemstones-season-2-preview-danny-mcbride",
+        "timestamp": 1641482452,
+        "sentiment": 0,
+        "published": "January 6, 2022 3:20 PM"
+    },
+    {
+        "title": "“BattleBots” season 6 premieres tonight on Discovery",
+        "domain": "groundedreason.com",
+        "category": "television",
+        "link": "https://www.groundedreason.com/how-to-watch-battlebots/",
+        "timestamp": 1641484574,
+        "sentiment": 0,
+        "published": "January 6, 2022 3:56 PM"
+    },
+    {
         "title": "Ming-Na Wen Reacts To Fans’ Rally To Revive ‘Agents Of S.H.I.E.L.D.’: “Fingers Crossed”",
         "domain": "deadline.com",
         "category": "television",
