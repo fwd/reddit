@@ -14,6 +14,42 @@
         "category": "worldnews",
         "link": "https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show?utm_source=Social&utm_medium=Twitter&utm_campaign=NewsfromScience-25189",
         "timestamp": 1641517082,
+        "sentiment": -2,
+        "published": "January 7, 2022 12:58 AM"
+    },
+    {
+        "title": "Planned Parenthood fire in Knoxville confirmed to be arson",
+        "domain": "plannedparenthood.org",
+        "category": "news",
+        "link": "https://www.plannedparenthood.org/planned-parenthood-tennessee-and-north-mississippi/knoxville-arson",
+        "timestamp": 1641517213,
+        "sentiment": -3,
+        "published": "January 7, 2022 1:00 AM"
+    },
+    {
+        "title": "Queen refuses to pay Prince Andrew's sex abuse case legal fees, forces him to quickly sell chalet",
+        "domain": "newshub.co.nz",
+        "category": "worldnews",
+        "link": "https://www.newshub.co.nz/home/entertainment/2022/01/queen-refuses-to-pay-prince-andrew-s-sex-abuse-case-legal-fees-forces-him-to-quickly-sell-chalet.html",
+        "timestamp": 1641526298,
+        "sentiment": -2,
+        "published": "January 7, 2022 3:31 AM"
+    },
+    {
+        "title": "James Corden Tests Positive for COVID-19, Cancels Late Late Show Episodes",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
+        "timestamp": 1641515811,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:36 AM"
+    },
+    {
+        "title": "India has “substantially greater” COVID-19 deaths than official reports suggest—close to 3 million, which is more than six times higher than the government has acknowledged and the largest number of any country. The finding could prompt scrutiny of other countries with anomalously low death rates.",
+        "domain": "science.org",
+        "category": "worldnews",
+        "link": "https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show?utm_source=Social&utm_medium=Twitter&utm_campaign=NewsfromScience-25189",
+        "timestamp": 1641517082,
         "sentiment": 0,
         "published": "January 7, 2022 12:58 AM"
     },
