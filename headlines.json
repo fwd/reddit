@@ -5,6 +5,312 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
         "timestamp": 1641515811,
+        "sentiment": -3,
+        "published": "January 7, 2022 12:36 AM"
+    },
+    {
+        "title": "Queen refuses to pay Prince Andrew's sex abuse case legal fees, forces him to quickly sell chalet",
+        "domain": "newshub.co.nz",
+        "category": "worldnews",
+        "link": "https://www.newshub.co.nz/home/entertainment/2022/01/queen-refuses-to-pay-prince-andrew-s-sex-abuse-case-legal-fees-forces-him-to-quickly-sell-chalet.html",
+        "timestamp": 1641526298,
+        "sentiment": -5,
+        "published": "January 7, 2022 3:31 AM"
+    },
+    {
+        "title": "Beijing fines 7-Eleven for calling Taiwan a country",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/07/beijing-fines-7-eleven-for-calling-taiwan-a-country",
+        "timestamp": 1641531912,
+        "sentiment": -5,
+        "published": "January 7, 2022 5:05 AM"
+    },
+    {
+        "title": "Keurig to pay $3 million fine for false, misleading claims on recycling of its K-CUPs",
+        "domain": "lethbridgenewsnow.com",
+        "category": "worldnews",
+        "link": "https://lethbridgenewsnow.com/2022/01/06/keurig-to-pay-3-million-fine-for-false-misleading-claims-on-recycling-of-its-k-cups/",
+        "timestamp": 1641540930,
+        "sentiment": -5,
+        "published": "January 7, 2022 7:35 AM"
+    },
+    {
+        "title": "Troops told to fire without warning in Kazakhstan",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-asia-59907235",
+        "timestamp": 1641545392,
+        "sentiment": -5,
+        "published": "January 7, 2022 8:49 AM"
+    },
+    {
+        "title": "Kazakhstan president authorises forces to 'fire without warning'",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/asia-pacific/20220107-russian-led-troops-arrive-thousands-detained-after-deadly-clashes-in-kazakhstan?ref=tw_i",
+        "timestamp": 1641545592,
+        "sentiment": -5,
+        "published": "January 7, 2022 8:53 AM"
+    },
+    {
+        "title": "At least 7 historically Black colleges receive bomb threats",
+        "domain": "axios.com",
+        "category": "news",
+        "link": "https://www.axios.com/hbcu-bomb-threats-howard-d7ec79bb-4065-47dd-90d9-4a9f122114b6.html",
+        "timestamp": 1641551934,
+        "sentiment": 0,
+        "published": "January 7, 2022 10:38 AM"
+    },
+    {
+        "title": "LGBTQ rights: Germany appoints first 'commissioner for queer affairs'. For the first time in the country's history, Germany has appointed a commissioner for the acceptance of sexual and gender diversity. Green Party lawmaker Sven Lehmann will oversee a LGBTQ national action plan.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/lgbtq-rights-germany-appoints-first-commissioner-for-queer-affairs/a-60351173",
+        "timestamp": 1641551996,
+        "sentiment": -5,
+        "published": "January 7, 2022 10:39 AM"
+    },
+    {
+        "title": "Capitol Police officer sues Trump on Jan. 6 anniversary, says he ‘directed’ mob",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/donald-trump/capitol-police-officer-sues-trump-jan-6-anniversary-says-he-n1287146",
+        "timestamp": 1641553729,
+        "sentiment": 1,
+        "published": "January 7, 2022 11:08 AM"
+    },
+    {
+        "title": "Astronomers spot dying star just before it explodes and record supernova | Science & Tech News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/astronomers-spot-dying-star-just-before-it-explodes-and-record-supernova-12510823",
+        "timestamp": 1641555477,
+        "sentiment": -5,
+        "published": "January 7, 2022 11:37 AM"
+    },
+    {
+        "title": "Antonio Brown allegedly broke COVID protocol by sneaking date into hotel - ProFootballTalk",
+        "domain": "profootballtalk.nbcsports.com",
+        "category": "news",
+        "link": "https://profootballtalk.nbcsports.com/2022/01/06/antonio-brown-allegedly-broke-covid-protocol-by-sneaking-date-into-hotel/",
+        "timestamp": 1641555605,
+        "sentiment": 0,
+        "published": "January 7, 2022 11:40 AM"
+    },
+    {
+        "title": "UK beauty queen denied entry to US to compete in Mrs World believes her visa was refused because she was born in Syria.",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-humber-59896728",
+        "timestamp": 1641555640,
+        "sentiment": -5,
+        "published": "January 7, 2022 11:40 AM"
+    },
+    {
+        "title": "Damning Supercut Exposes Republicans Who Flip-Flopped On Trump And Jan. 6",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/republicans-flip-flop-on-trump_n_61d7e1f3e4b061afe3b0d643",
+        "timestamp": 1641557228,
+        "sentiment": 1,
+        "published": "January 7, 2022 12:07 PM"
+    },
+    {
+        "title": "Trump Thrashed for Lie-Laden Response to Biden Jan. 6 Anniversary Address | \"The former president who tried to overthrow the republic after lying about a 'stolen' election for months has just released a statement in which he continues to lie about a stolen election.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/06/trump-thrashed-lie-laden-response-biden-jan-6-anniversary-address",
+        "timestamp": 1641558552,
+        "sentiment": 1,
+        "published": "January 7, 2022 12:29 PM"
+    },
+    {
+        "title": "Kazakhstan internet shutdown deals blow to global bitcoin mining operation",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/06/kazakhstan-bitcoin-internet-shutdown",
+        "timestamp": 1641558842,
+        "sentiment": -5,
+        "published": "January 7, 2022 12:34 PM"
+    },
+    {
+        "title": "Overwhelmed by Omicron surge, U.S. hospitals delay surgeries",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/overwhelmed-by-omicron-surge-us-hospitals-delay-surgeries-2022-01-07/",
+        "timestamp": 1641559190,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:39 PM"
+    },
+    {
+        "title": "Killing Eve Season 4 Teaser 2",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/TCyQL9fyo-I",
+        "timestamp": 1641559632,
+        "sentiment": -3,
+        "published": "January 7, 2022 12:47 PM"
+    },
+    {
+        "title": "Cyber Ninjas shutting down after judge fines Arizona audit company $50K a day",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/cybersecurity/588703-cyber-ninjas-shutting-down-after-judges-fines-arizona-audit-company",
+        "timestamp": 1641561317,
+        "sentiment": 1,
+        "published": "January 7, 2022 1:15 PM"
+    },
+    {
+        "title": "Trump did not want to tweet ‘stay peaceful’ during 6 January riot, key former aide says - Aide says Donald Trump did not want to tweet the words ‘stay peaceful’ and was ‘letting it play out’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-stay-peaceful-tweet-january-6-riot-b1988468.html",
+        "timestamp": 1641562527,
+        "sentiment": 1,
+        "published": "January 7, 2022 1:35 PM"
+    },
+    {
+        "title": "'No Excuse' to Keep Federal Minimum at $7.25, Experts Say as 21 States Hike Wages | \"With consumer prices rising substantially over the past year, the need for a higher federal minimum wage is more acute than ever.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/07/no-excuse-keep-federal-minimum-725-experts-say-21-states-hike-wages",
+        "timestamp": 1641563897,
+        "sentiment": 1,
+        "published": "January 7, 2022 1:58 PM"
+    },
+    {
+        "title": "No, Trump did not order 10,000 troops to secure the Capitol on Jan. 6",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/12/15/no-trump-did-not-order-10000-troops-secure-capitol-jan-6/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+        "timestamp": 1641565511,
+        "sentiment": 1,
+        "published": "January 7, 2022 2:25 PM"
+    },
+    {
+        "title": "CDC warns about rabies linked to bats after 3 Americans die in recent weeks",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/cdc-warns-rabies-linked-bats-americans-die-recent/story?id=82115086",
+        "timestamp": 1641565669,
+        "sentiment": 0,
+        "published": "January 7, 2022 2:27 PM"
+    },
+    {
+        "title": "Monsanto pleads guilty to pesticide-related crimes in Hawaii",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-environment-and-nature-crime-hawaii-honolulu-ed13f915250b1e1fbb4ffb7ed2e5ab71",
+        "timestamp": 1641567789,
+        "sentiment": 0,
+        "published": "January 7, 2022 3:03 PM"
+    },
+    {
+        "title": "Jason Stanley: \"America is Now in Fascism’s Legal Phase\"",
+        "domain": "pbs.org",
+        "category": "politics",
+        "link": "https://www.pbs.org/wnet/amanpour-and-company/video/jason-stanley-america-is-now-in-fascisms-legal-phase-e37mm3/",
+        "timestamp": 1641568097,
+        "sentiment": 1,
+        "published": "January 7, 2022 3:08 PM"
+    },
+    {
+        "title": "'The Boys' Season 3 Premieres June 3rd, 2022 on Amazon Prime Video",
+        "domain": "bloody-disgusting.com",
+        "category": "television",
+        "link": "https://bloody-disgusting.com/tv/3698195/boys-amazons-ultraviolent-superhero-series-returns-third-season-june-3-2022-video/",
+        "timestamp": 1641568478,
+        "sentiment": -3,
+        "published": "January 7, 2022 3:14 PM"
+    },
+    {
+        "title": "Feds sue auto repair shop that paid former employee in pennies",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/feds-sue-auto-repair-shop-paid-former-employee-pennies-rcna11339",
+        "timestamp": 1641568673,
+        "sentiment": 0,
+        "published": "January 7, 2022 3:17 PM"
+    },
+    {
+        "title": "Czech Republic to end coal use by 2033, boost nuclear power",
+        "domain": "thinkpol.ca",
+        "category": "worldnews",
+        "link": "https://thinkpol.ca/2022/01/07/czech-republic-to-end-coal-use-by-2033-boost-nuclear-power/",
+        "timestamp": 1641568728,
+        "sentiment": -5,
+        "published": "January 7, 2022 3:18 PM"
+    },
+    {
+        "title": "Watch Ted Cruz Literally Beg Tucker Carlson for Forgiveness",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/n7n79d/ted-cruz-apology-tucker-carlson-jan-6-statement",
+        "timestamp": 1641571856,
+        "sentiment": 1,
+        "published": "January 7, 2022 4:10 PM"
+    },
+    {
+        "title": "Ahmaud Arbery's family says they rejected a plea deal for federal hate crime charges",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/ahmaud-arbery-killing-federal-hate-crime-charges-plea-deal-rejected/",
+        "timestamp": 1641572657,
+        "sentiment": 0,
+        "published": "January 7, 2022 4:24 PM"
+    },
+    {
+        "title": "Cyber Ninjas, company that led Arizona GOP election 'audit,' is shutting down",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/politics/politics-news/cyber-ninjas-company-led-arizona-gop-election-audit-shutting-down-n1287145",
+        "timestamp": 1641574091,
+        "sentiment": 0,
+        "published": "January 7, 2022 4:48 PM"
+    },
+    {
+        "title": "2 lawyers arguing against Biden's vaccine mandate before the Supreme Court will have to do it remotely after testing positive for COVID-19",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/lawyers-supreme-court-biden-vaccine-mandate-positive-covid-19-2022-1",
+        "timestamp": 1641574172,
+        "sentiment": 1,
+        "published": "January 7, 2022 4:49 PM"
+    },
+    {
+        "title": "Sidney Poitier, Oscar-winning actor and Hollywood's first Black movie star, dies at 94",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/07/entertainment/sidney-poitier-death/",
+        "timestamp": 1641575788,
+        "sentiment": 0,
+        "published": "January 7, 2022 5:16 PM"
+    },
+    {
+        "title": "Resident Alien Season 2 Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=0RF0l9J77pw",
+        "timestamp": 1641575981,
+        "sentiment": -3,
+        "published": "January 7, 2022 5:19 PM"
+    },
+    {
+        "title": "Tim Cook earned over 1,400 times the average Apple worker in 2021",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/apples-tim-cook-paid-over-1400-times-average-worker-2021-2022-01-07/",
+        "timestamp": 1641576841,
+        "sentiment": 0,
+        "published": "January 7, 2022 5:34 PM"
+    },
+    {
+        "title": "James Corden Tests Positive for COVID-19, Cancels Late Late Show Episodes",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
+        "timestamp": 1641515811,
         "sentiment": 4,
         "published": "January 7, 2022 12:36 AM"
     },
