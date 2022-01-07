@@ -5,6 +5,321 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
         "timestamp": 1641515811,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:36 AM"
+    },
+    {
+        "title": "Queen refuses to pay Prince Andrew's sex abuse case legal fees, forces him to quickly sell chalet",
+        "domain": "newshub.co.nz",
+        "category": "worldnews",
+        "link": "https://www.newshub.co.nz/home/entertainment/2022/01/queen-refuses-to-pay-prince-andrew-s-sex-abuse-case-legal-fees-forces-him-to-quickly-sell-chalet.html",
+        "timestamp": 1641526298,
+        "sentiment": -6,
+        "published": "January 7, 2022 3:31 AM"
+    },
+    {
+        "title": "Kazakhstan president authorises forces to 'fire without warning'",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/asia-pacific/20220107-russian-led-troops-arrive-thousands-detained-after-deadly-clashes-in-kazakhstan?ref=tw_i",
+        "timestamp": 1641545592,
+        "sentiment": -6,
+        "published": "January 7, 2022 8:53 AM"
+    },
+    {
+        "title": "Capitol Police officer sues Trump on Jan. 6 anniversary, says he ‘directed’ mob",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/donald-trump/capitol-police-officer-sues-trump-jan-6-anniversary-says-he-n1287146",
+        "timestamp": 1641553729,
+        "sentiment": -2,
+        "published": "January 7, 2022 11:08 AM"
+    },
+    {
+        "title": "Astronomers spot dying star just before it explodes and record supernova | Science & Tech News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/astronomers-spot-dying-star-just-before-it-explodes-and-record-supernova-12510823",
+        "timestamp": 1641555477,
+        "sentiment": -6,
+        "published": "January 7, 2022 11:37 AM"
+    },
+    {
+        "title": "Antonio Brown allegedly broke COVID protocol by sneaking date into hotel - ProFootballTalk",
+        "domain": "profootballtalk.nbcsports.com",
+        "category": "news",
+        "link": "https://profootballtalk.nbcsports.com/2022/01/06/antonio-brown-allegedly-broke-covid-protocol-by-sneaking-date-into-hotel/",
+        "timestamp": 1641555605,
+        "sentiment": 0,
+        "published": "January 7, 2022 11:40 AM"
+    },
+    {
+        "title": "Damning Supercut Exposes Republicans Who Flip-Flopped On Trump And Jan. 6",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/republicans-flip-flop-on-trump_n_61d7e1f3e4b061afe3b0d643",
+        "timestamp": 1641557228,
+        "sentiment": -2,
+        "published": "January 7, 2022 12:07 PM"
+    },
+    {
+        "title": "Trump Thrashed for Lie-Laden Response to Biden Jan. 6 Anniversary Address | \"The former president who tried to overthrow the republic after lying about a 'stolen' election for months has just released a statement in which he continues to lie about a stolen election.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/06/trump-thrashed-lie-laden-response-biden-jan-6-anniversary-address",
+        "timestamp": 1641558552,
+        "sentiment": -2,
+        "published": "January 7, 2022 12:29 PM"
+    },
+    {
+        "title": "Kazakhstan internet shutdown deals blow to global bitcoin mining operation",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/06/kazakhstan-bitcoin-internet-shutdown",
+        "timestamp": 1641558842,
+        "sentiment": -6,
+        "published": "January 7, 2022 12:34 PM"
+    },
+    {
+        "title": "Overwhelmed by Omicron surge, U.S. hospitals delay surgeries",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/overwhelmed-by-omicron-surge-us-hospitals-delay-surgeries-2022-01-07/",
+        "timestamp": 1641559190,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:39 PM"
+    },
+    {
+        "title": "Cyber Ninjas shutting down after judge fines Arizona audit company $50K a day",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/cybersecurity/588703-cyber-ninjas-shutting-down-after-judges-fines-arizona-audit-company",
+        "timestamp": 1641561317,
+        "sentiment": -2,
+        "published": "January 7, 2022 1:15 PM"
+    },
+    {
+        "title": "No, Trump did not order 10,000 troops to secure the Capitol on Jan. 6",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2021/12/15/no-trump-did-not-order-10000-troops-secure-capitol-jan-6/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+        "timestamp": 1641565511,
+        "sentiment": -2,
+        "published": "January 7, 2022 2:25 PM"
+    },
+    {
+        "title": "CDC warns about rabies linked to bats after 3 Americans die in recent weeks",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/cdc-warns-rabies-linked-bats-americans-die-recent/story?id=82115086",
+        "timestamp": 1641565669,
+        "sentiment": 0,
+        "published": "January 7, 2022 2:27 PM"
+    },
+    {
+        "title": "Monsanto pleads guilty to pesticide-related crimes in Hawaii",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-environment-and-nature-crime-hawaii-honolulu-ed13f915250b1e1fbb4ffb7ed2e5ab71",
+        "timestamp": 1641567789,
+        "sentiment": 0,
+        "published": "January 7, 2022 3:03 PM"
+    },
+    {
+        "title": "Jason Stanley: \"America is Now in Fascism’s Legal Phase\"",
+        "domain": "pbs.org",
+        "category": "politics",
+        "link": "https://www.pbs.org/wnet/amanpour-and-company/video/jason-stanley-america-is-now-in-fascisms-legal-phase-e37mm3/",
+        "timestamp": 1641568097,
+        "sentiment": -2,
+        "published": "January 7, 2022 3:08 PM"
+    },
+    {
+        "title": "'The Boys' Season 3 Premieres June 3rd, 2022 on Amazon Prime Video",
+        "domain": "bloody-disgusting.com",
+        "category": "television",
+        "link": "https://bloody-disgusting.com/tv/3698195/boys-amazons-ultraviolent-superhero-series-returns-third-season-june-3-2022-video/",
+        "timestamp": 1641568478,
+        "sentiment": 0,
+        "published": "January 7, 2022 3:14 PM"
+    },
+    {
+        "title": "Feds sue auto repair shop that paid former employee in pennies",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/feds-sue-auto-repair-shop-paid-former-employee-pennies-rcna11339",
+        "timestamp": 1641568673,
+        "sentiment": 0,
+        "published": "January 7, 2022 3:17 PM"
+    },
+    {
+        "title": "Czech Republic to end coal use by 2033, boost nuclear power",
+        "domain": "thinkpol.ca",
+        "category": "worldnews",
+        "link": "https://thinkpol.ca/2022/01/07/czech-republic-to-end-coal-use-by-2033-boost-nuclear-power/",
+        "timestamp": 1641568728,
+        "sentiment": -6,
+        "published": "January 7, 2022 3:18 PM"
+    },
+    {
+        "title": "Watch Ted Cruz Literally Beg Tucker Carlson for Forgiveness",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/n7n79d/ted-cruz-apology-tucker-carlson-jan-6-statement",
+        "timestamp": 1641571856,
+        "sentiment": -2,
+        "published": "January 7, 2022 4:10 PM"
+    },
+    {
+        "title": "‘Shoplifters’ Director Hirokazu Kore-eda To Make Netflix Debut with TV series 'From the Maiko House'",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/shoplifters-hirokazu-to-make-netflix-debut-1234905950/",
+        "timestamp": 1641572445,
+        "sentiment": 0,
+        "published": "January 7, 2022 4:20 PM"
+    },
+    {
+        "title": "Ahmaud Arbery's family says they rejected a plea deal for federal hate crime charges",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/ahmaud-arbery-killing-federal-hate-crime-charges-plea-deal-rejected/",
+        "timestamp": 1641572657,
+        "sentiment": 0,
+        "published": "January 7, 2022 4:24 PM"
+    },
+    {
+        "title": "Proposal could redefine palm oil-driven deforestation as 'reforestation' in Indonesia",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2022/01/indonesian-proposal-could-redefine-palm-oil-driven-deforestation-as-reforestation/",
+        "timestamp": 1641573471,
+        "sentiment": -6,
+        "published": "January 7, 2022 4:37 PM"
+    },
+    {
+        "title": "2 lawyers arguing against Biden's vaccine mandate before the Supreme Court will have to do it remotely after testing positive for COVID-19",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/lawyers-supreme-court-biden-vaccine-mandate-positive-covid-19-2022-1",
+        "timestamp": 1641574172,
+        "sentiment": -2,
+        "published": "January 7, 2022 4:49 PM"
+    },
+    {
+        "title": "Detained Ugandan satirical novelist displays signs of torture on brief home visit",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/africa/20220104-detained-ugandan-satirical-novelist-displays-signs-of-torture-on-brief-home-visit",
+        "timestamp": 1641575302,
+        "sentiment": -6,
+        "published": "January 7, 2022 5:08 PM"
+    },
+    {
+        "title": "Quebec’s cannabis, liquor stores to require coronavirus vaccination proof",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/2022/01/07/quebec-covid-vaccine-passport-weed-liquor/",
+        "timestamp": 1641575712,
+        "sentiment": -6,
+        "published": "January 7, 2022 5:15 PM"
+    },
+    {
+        "title": "Sidney Poitier, Oscar-winning actor and Hollywood's first Black movie star, dies at 94",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/07/entertainment/sidney-poitier-death/",
+        "timestamp": 1641575788,
+        "sentiment": 0,
+        "published": "January 7, 2022 5:16 PM"
+    },
+    {
+        "title": "Resident Alien Season 2 Trailer",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=0RF0l9J77pw",
+        "timestamp": 1641575981,
+        "sentiment": 0,
+        "published": "January 7, 2022 5:19 PM"
+    },
+    {
+        "title": "Tim Cook earned over 1,400 times the average Apple worker in 2021",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/apples-tim-cook-paid-over-1400-times-average-worker-2021-2022-01-07/",
+        "timestamp": 1641576841,
+        "sentiment": 0,
+        "published": "January 7, 2022 5:34 PM"
+    },
+    {
+        "title": "NATO won't create '2nd-class' allies to soothe Russia, alliance head says",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/nato-wont-create-2nd-class-allies-to-soothe-russia-alliance-head-says/a-60361903",
+        "timestamp": 1641577192,
+        "sentiment": -6,
+        "published": "January 7, 2022 5:39 PM"
+    },
+    {
+        "title": "Mom who took her child into Capitol during riot gets prison",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/fa46aafd4bc5a37c5174e25d2941c517",
+        "timestamp": 1641580848,
+        "sentiment": 0,
+        "published": "January 7, 2022 6:40 PM"
+    },
+    {
+        "title": "How ‘Star Trek’ Pulled Off One of Its More Disturbing Episodes - 'Deep Space Nine' writer Ronald D. Moore reflects on \"The Darkness and the Light,\" 25 years after it aired",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/star-trek-deep-space-nine-episode-1235071138/",
+        "timestamp": 1641582344,
+        "sentiment": 0,
+        "published": "January 7, 2022 7:05 PM"
+    },
+    {
+        "title": "76% of voters disagree with Pelosi, think members of congress have an 'unfair advantage' in trading stocks: poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/76-percent-disagree-with-pelosi-congress-unfair-advantage-stock-trading-2022-1",
+        "timestamp": 1641584587,
+        "sentiment": -2,
+        "published": "January 7, 2022 7:43 PM"
+    },
+    {
+        "title": "Three men convicted of murdering Ahmaud Arbery sentenced to life in prison",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/three-men-convicted-murdering-ahmaud-arbery-sentenced-life-prison-rcna10901",
+        "timestamp": 1641586270,
+        "sentiment": 0,
+        "published": "January 7, 2022 8:11 PM"
+    },
+    {
+        "title": "3 men sentenced to life in prison for Ahmaud Arbery's murder; parole denied for father, son",
+        "domain": "amp.usatoday.com",
+        "category": "politics",
+        "link": "https://amp.usatoday.com/amp/9077430002",
+        "timestamp": 1641586446,
+        "sentiment": -2,
+        "published": "January 7, 2022 8:14 PM"
+    },
+    {
+        "title": "Magic mushrooms are safe to treat mental health conditions, says another landmark trial",
+        "domain": "goodnewsnetwork.org",
+        "category": "worldnews",
+        "link": "https://www.goodnewsnetwork.org/magic-mushrooms-mental-health-the-journal-psychopharmacology/",
+        "timestamp": 1641586759,
+        "sentiment": -6,
+        "published": "January 7, 2022 8:19 PM"
+    },
+    {
+        "title": "James Corden Tests Positive for COVID-19, Cancels Late Late Show Episodes",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
+        "timestamp": 1641515811,
         "sentiment": 3,
         "published": "January 7, 2022 12:36 AM"
     },
