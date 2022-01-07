@@ -5,6 +5,123 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/164943/joe-biden-january-6-speech-donald-trump",
         "timestamp": 1641513883,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:04 AM"
+    },
+    {
+        "title": "James Corden Tests Positive for COVID-19, Cancels Late Late Show Episodes",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/james-corden-tests-positive-covid-19-cancels-shows-1235071164/",
+        "timestamp": 1641515811,
+        "sentiment": 0,
+        "published": "January 7, 2022 12:36 AM"
+    },
+    {
+        "title": "Cherokee Nation in 'crisis mode' as omicron spreads",
+        "domain": "ktul.com",
+        "category": "news",
+        "link": "https://ktul.com/news/local/cherokee-nation-in-crisis-mode-as-omicron-spreads",
+        "timestamp": 1641516095,
+        "sentiment": -7,
+        "published": "January 7, 2022 12:41 AM"
+    },
+    {
+        "title": "Judge slams US Capitol rioter's request to take Jamaican vacation",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/06/politics/capitol-rioter-jamaican-vacation-denied/index.html",
+        "timestamp": 1641516172,
+        "sentiment": -7,
+        "published": "January 7, 2022 12:42 AM"
+    },
+    {
+        "title": "India has “substantially greater” COVID-19 deaths than official reports suggest—close to 3 million, which is more than six times higher than the government has acknowledged and the largest number of any country. The finding could prompt scrutiny of other countries with anomalously low death rates.",
+        "domain": "science.org",
+        "category": "worldnews",
+        "link": "https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show?utm_source=Social&utm_medium=Twitter&utm_campaign=NewsfromScience-25189",
+        "timestamp": 1641517082,
+        "sentiment": 6,
+        "published": "January 7, 2022 12:58 AM"
+    },
+    {
+        "title": "Planned Parenthood fire in Knoxville confirmed to be arson",
+        "domain": "plannedparenthood.org",
+        "category": "news",
+        "link": "https://www.plannedparenthood.org/planned-parenthood-tennessee-and-north-mississippi/knoxville-arson",
+        "timestamp": 1641517213,
+        "sentiment": -7,
+        "published": "January 7, 2022 1:00 AM"
+    },
+    {
+        "title": "U.S. VP Harris was in building when pipe bomb was discovered last Jan 6, official says",
+        "domain": "wtvbam.com",
+        "category": "news",
+        "link": "https://wtvbam.com/2022/01/06/u-s-vp-harris-was-in-building-when-pipe-bomb-was-discovered-last-jan-6-official-says/",
+        "timestamp": 1641521180,
+        "sentiment": -7,
+        "published": "January 7, 2022 2:06 AM"
+    },
+    {
+        "title": "Ex-White House Press Secretary: Trump “Gleefully“ Watched Insurrection on TV, Hit “Rewind” to Watch People Fighting Again",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-stephanie-grisham-january-6",
+        "timestamp": 1641521531,
+        "sentiment": 0,
+        "published": "January 7, 2022 2:12 AM"
+    },
+    {
+        "title": "Is this the best marriage of credits + theme song with a show’s mood? True Detective Season 1",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/Xyu_MdKBXic",
+        "timestamp": 1641522856,
+        "sentiment": 0,
+        "published": "January 7, 2022 2:34 AM"
+    },
+    {
+        "title": "Queen refuses to pay Prince Andrew's sex abuse case legal fees, forces him to quickly sell chalet",
+        "domain": "newshub.co.nz",
+        "category": "worldnews",
+        "link": "https://www.newshub.co.nz/home/entertainment/2022/01/queen-refuses-to-pay-prince-andrew-s-sex-abuse-case-legal-fees-forces-him-to-quickly-sell-chalet.html",
+        "timestamp": 1641526298,
+        "sentiment": 6,
+        "published": "January 7, 2022 3:31 AM"
+    },
+    {
+        "title": "Organizer of wild influencer party flight from Montreal to Mexico complains they're now stranded because no airline will agree to take fly them home together",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10376595/Organizer-wild-influencer-party-flight-complains-no-airline-home.html",
+        "timestamp": 1641527281,
+        "sentiment": 6,
+        "published": "January 7, 2022 3:48 AM"
+    },
+    {
+        "title": "Cyber Ninjas, company that led Arizona GOP election 'audit,' is shutting down",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/cyber-ninjas-company-led-arizona-gop-election-audit-shutting-down-n1287145?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1641528484,
+        "sentiment": 0,
+        "published": "January 7, 2022 4:08 AM"
+    },
+    {
+        "title": "Beijing fines 7-Eleven for calling Taiwan a country",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/07/beijing-fines-7-eleven-for-calling-taiwan-a-country",
+        "timestamp": 1641531912,
+        "sentiment": 6,
+        "published": "January 7, 2022 5:05 AM"
+    },
+    {
+        "title": "Joe Biden’s January 6 Speech Is a Turning Point For His Presidency — Biden’s forceful condemnation of Trump reminded the public that the choice is between democracy and authoritarian rule.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/164943/joe-biden-january-6-speech-donald-trump",
+        "timestamp": 1641513883,
         "sentiment": -1,
         "published": "January 7, 2022 12:04 AM"
     },
