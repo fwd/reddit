@@ -5,6 +5,330 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/pennies-worker-retaliation-labor-department-complaint/?ftag=CNM-00-10aac3a#app",
         "timestamp": 1641605726,
+        "sentiment": -2,
+        "published": "January 8, 2022 1:35 AM"
+    },
+    {
+        "title": "Dick Cheney Should Be in Jail, Not Praised as a Hero by Democrats",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2022/01/dick-cheney-congress-capitol-riot-january-6",
+        "timestamp": 1641618624,
+        "sentiment": 0,
+        "published": "January 8, 2022 5:10 AM"
+    },
+    {
+        "title": "A Year Later, We’re Still Reluctant to Say What Really Caused the Insurrection",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/01/insurrectionists-victims-banality-of-evil.html",
+        "timestamp": 1641639449,
+        "sentiment": 0,
+        "published": "January 8, 2022 10:57 AM"
+    },
+    {
+        "title": "World passes 300 million Covid cases as Omicron breaks records",
+        "domain": "easterneye.biz",
+        "category": "worldnews",
+        "link": "https://www.easterneye.biz/world-passes-300-million-covid-cases-as-omicron-breaks-records/",
+        "timestamp": 1641640100,
+        "sentiment": 0,
+        "published": "January 8, 2022 11:08 AM"
+    },
+    {
+        "title": "He Was at the Jan. 6 Capitol Rally—and Once Fumed About Teachers. Now He’s on a School Board.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/rafael-rafidi-was-at-the-jan-6-capitol-rallyand-once-fumed-about-teachers-now-hes-on-a-school-board?",
+        "timestamp": 1641640327,
+        "sentiment": 0,
+        "published": "January 8, 2022 11:12 AM"
+    },
+    {
+        "title": "Kazakhstan president tells troops to 'shoot to kill without warning' as he vows to 'completely eliminate' protesters and gives 'special thanks' to Putin for his help",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10378219/Kazakhstan-vows-continue-liquidating-protesters-completely-eliminated.html",
+        "timestamp": 1641643760,
+        "sentiment": 0,
+        "published": "January 8, 2022 12:09 PM"
+    },
+    {
+        "title": "Russian submarines threatening undersea network of internet cables, says UK defence chief Sir Tony Radakin",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/russian-submarines-threatening-undersea-network-of-internet-cables-says-uk-defence-chief-sir-tony-radakin-12511437",
+        "timestamp": 1641644714,
+        "sentiment": 0,
+        "published": "January 8, 2022 12:25 PM"
+    },
+    {
+        "title": "Ex-Oklahoma police officer gets 25 years for 2014 killing",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/oklahoma-police-officer-25-years-2014-killing-82142090",
+        "timestamp": 1641645998,
+        "sentiment": -2,
+        "published": "January 8, 2022 12:46 PM"
+    },
+    {
+        "title": "“You’re F***ing Out, I’m F***ing In” by Kenny Powers (Eastbound and Down)",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/TOcQhqrqdpI",
+        "timestamp": 1641646579,
+        "sentiment": 0,
+        "published": "January 8, 2022 12:56 PM"
+    },
+    {
+        "title": "Son of Sinéad O’Connor dies at age of 17 after going missing",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/music/2022/jan/08/son-of-sinead-oconnor-dies-at-age-of-17-after-going-missing?CMP=Share_iOSApp_Other",
+        "timestamp": 1641647750,
+        "sentiment": -2,
+        "published": "January 8, 2022 1:15 PM"
+    },
+    {
+        "title": "Donald Trump should be very afraid: This anniversary was not good news for him | Last year, Trump thought he could find a way to hang on. Now he's more worried about staying out of prison",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/08/donald-should-be-very-afraid-this-anniversary-was-not-good-news-for-him/",
+        "timestamp": 1641649667,
+        "sentiment": 0,
+        "published": "January 8, 2022 1:47 PM"
+    },
+    {
+        "title": "Birds are real, a US government agency wants you to assure you",
+        "domain": "cnet.com",
+        "category": "news",
+        "link": "https://www.cnet.com/news/birds-are-real-a-us-government-agency-wants-you-to-assure-you/",
+        "timestamp": 1641650044,
+        "sentiment": -2,
+        "published": "January 8, 2022 1:54 PM"
+    },
+    {
+        "title": "'All Creatures Great and Small' Renewed for Seasons 3 and 4",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/all-creatures-great-and-small-renewed-1235149076/",
+        "timestamp": 1641650453,
+        "sentiment": 0,
+        "published": "January 8, 2022 2:00 PM"
+    },
+    {
+        "title": "China’s lunar probe finds first on-site evidence of water on moon",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/science/article/3162669/chinas-change-5-lunar-probe-finds-first-site-evidence-water?module=lead_hero_story&pgtype=homepage",
+        "timestamp": 1641652228,
+        "sentiment": 0,
+        "published": "January 8, 2022 2:30 PM"
+    },
+    {
+        "title": "MAGA Audit Fans Turn on Cyber Ninjas After Court Ruling",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/cyber-ninjas-attacked-by-maga-audit-fans-after-court-ruling",
+        "timestamp": 1641653167,
+        "sentiment": 0,
+        "published": "January 8, 2022 2:46 PM"
+    },
+    {
+        "title": "Malcolm in the Middle - Malcolm breaks the system",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/5_z0iHs5B5w",
+        "timestamp": 1641653244,
+        "sentiment": 0,
+        "published": "January 8, 2022 2:47 PM"
+    },
+    {
+        "title": "First Colombian with non-terminal illness dies legally by euthanasia",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/first-colombian-with-non-terminal-illness-dies-legally-by-euthanasia-2022-01-08/",
+        "timestamp": 1641654553,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:09 PM"
+    },
+    {
+        "title": "Cara Gee (The Expanse) is the Performer of the Week. Honorable mentions: Himesh Patel (Station Eleven), Christina Ricci (Yellowjackets), Liza Lapira (The Equalizer) and Hosea Chanchez (The Game).",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/08/cara-gee-the-expanse-performance-season-6-episode-5/",
+        "timestamp": 1641654570,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:09 PM"
+    },
+    {
+        "title": "First-dose vaccinations quadruple in Quebec ahead of restrictions at liquor and cannabis stores",
+        "domain": "montreal.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://montreal.ctvnews.ca/first-dose-vaccinations-quadruple-in-quebec-ahead-of-restrictions-at-liquor-and-cannabis-stores-1.5731327?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
+        "timestamp": 1641654782,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:13 PM"
+    },
+    {
+        "title": "Teen honored after using his Make-A-Wish to feed homeless in Jackson",
+        "domain": "wlox.com",
+        "category": "news",
+        "link": "https://www.wlox.com/app/2022/01/08/teen-honored-after-using-his-make-a-wish-feed-homeless-jackson/",
+        "timestamp": 1641654878,
+        "sentiment": -2,
+        "published": "January 8, 2022 3:14 PM"
+    },
+    {
+        "title": "US Democracy Is At Risk Of Failing, According To 64% Of Americans",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/03/1069985482/us-democracy-is-at-risk-of-failing-according-to-64-of-americans",
+        "timestamp": 1641655078,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:17 PM"
+    },
+    {
+        "title": "‘Drastic’ rise in high Arctic lightning has scientists worried",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jan/07/lightning-high-arctic-rise-scientists-worried",
+        "timestamp": 1641655532,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:25 PM"
+    },
+    {
+        "title": "Calls for student loan forgiveness expected to intensify as Biden's legislative agenda stalls",
+        "domain": "marketwatch.com",
+        "category": "politics",
+        "link": "https://www.marketwatch.com/story/calls-for-student-loan-forgiveness-expected-to-intensify-as-bidens-legislative-agenda-stalls-11641588147",
+        "timestamp": 1641655757,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:29 PM"
+    },
+    {
+        "title": "James Webb Completely and Successfully Unfolded",
+        "domain": "space.com",
+        "category": "news",
+        "link": "https://www.space.com/news/live/james-webb-space-telescope-updates",
+        "timestamp": 1641656704,
+        "sentiment": -2,
+        "published": "January 8, 2022 3:45 PM"
+    },
+    {
+        "title": "Dennis cracks the code for Millennials [Always Sunny]",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/wJevL0a8XZU",
+        "timestamp": 1641657352,
+        "sentiment": 0,
+        "published": "January 8, 2022 3:55 PM"
+    },
+    {
+        "title": "House candidate Shelly Luther: Chinese students should be banned from Texas universities",
+        "domain": "star-telegram.com",
+        "category": "politics",
+        "link": "https://www.star-telegram.com/news/politics-government/article257137222.html",
+        "timestamp": 1641658323,
+        "sentiment": 0,
+        "published": "January 8, 2022 4:12 PM"
+    },
+    {
+        "title": "Chinese American man attacked in New York last April dies of injuries | Attack on Yao Pan Ma, 61, drew attention amid rise in anti-Asian hate crimes and is now being treated as homicide",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/08/chinese-american-man-dies-new-york-hate-crime",
+        "timestamp": 1641658548,
+        "sentiment": -2,
+        "published": "January 8, 2022 4:15 PM"
+    },
+    {
+        "title": "Webb telescope fully deployed in space - Times of India",
+        "domain": "timesofindia.indiatimes.com",
+        "category": "worldnews",
+        "link": "https://timesofindia.indiatimes.com/home/science/webb-telescope-fully-deployed-in-space/articleshow/88780118.cms",
+        "timestamp": 1641658588,
+        "sentiment": 0,
+        "published": "January 8, 2022 4:16 PM"
+    },
+    {
+        "title": "Calgary therapists hail 'legalization' of medicinal psychedelic drugs",
+        "domain": "calgaryherald.com",
+        "category": "worldnews",
+        "link": "https://calgaryherald.com/news/local-news/therapists-hail-legalization-of-medicinal-psychedelic-drugs",
+        "timestamp": 1641659861,
+        "sentiment": 0,
+        "published": "January 8, 2022 4:37 PM"
+    },
+    {
+        "title": "Snow leopard dies at Illinois zoo after contracting Covid-19",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/08/us/covid-19-snow-leopard-zoo-death-intl-scli/index.html",
+        "timestamp": 1641660244,
+        "sentiment": -2,
+        "published": "January 8, 2022 4:44 PM"
+    },
+    {
+        "title": "Dennis has COVID (Its Always Sunny)",
+        "domain": "streamable.com",
+        "category": "television",
+        "link": "https://streamable.com/08axce",
+        "timestamp": 1641660521,
+        "sentiment": 0,
+        "published": "January 8, 2022 4:48 PM"
+    },
+    {
+        "title": "Omicron explosion spurs nationwide breakdown of services",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-education-pandemics-76830eee3a8c2a5688df4fc77488195a",
+        "timestamp": 1641663226,
+        "sentiment": -2,
+        "published": "January 8, 2022 5:33 PM"
+    },
+    {
+        "title": "Novak Djokovic pictured with young players the day after lawyers say he tested positive for COVID | World News",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/novak-djokovic-pictured-with-young-players-the-day-after-lawyers-say-he-tested-positive-for-covid-12511669",
+        "timestamp": 1641663324,
+        "sentiment": -2,
+        "published": "January 8, 2022 5:35 PM"
+    },
+    {
+        "title": "A Louisiana school board has asked a newly appointed board member who bragged about marching to the Capitol on January 6 last year to step down",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/school-board-sacks-board-member-attended-capitol-march-last-year-2022-1",
+        "timestamp": 1641665635,
+        "sentiment": 0,
+        "published": "January 8, 2022 6:13 PM"
+    },
+    {
+        "title": "'X-Men: The Animated Series': Wolverine Voice Actor Shares Recording Image From Disney+ Revival",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/x-men-animated-series-revival-wolverine-cal-dodd-image-disney-plus/",
+        "timestamp": 1641668101,
+        "sentiment": 0,
+        "published": "January 8, 2022 6:55 PM"
+    },
+    {
+        "title": "Jon Ossoff expected to snub Pelosi by pushing ban on Congress stock trades",
+        "domain": "nypost.com",
+        "category": "politics",
+        "link": "https://nypost.com/2022/01/08/jon-ossoff-could-snub-nancy-pelosi-with-ban-on-congress-stock-trades/",
+        "timestamp": 1641670468,
+        "sentiment": 0,
+        "published": "January 8, 2022 7:34 PM"
+    },
+    {
+        "title": "Business owner paid ex-worker with 91,000 pennies. That's retaliation, feds claim in lawsuit.",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/pennies-worker-retaliation-labor-department-complaint/?ftag=CNM-00-10aac3a#app",
+        "timestamp": 1641605726,
         "sentiment": 0,
         "published": "January 8, 2022 1:35 AM"
     },
