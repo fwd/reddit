@@ -5,6 +5,96 @@
         "category": "politics",
         "link": "https://www.newsweek.com/congress-should-refer-trump-prosecution-over-jan-6-say-41-americans-new-poll-1667228",
         "timestamp": 1641687099,
+        "sentiment": -2,
+        "published": "January 9, 2022 12:11 AM"
+    },
+    {
+        "title": "Chuck Schumer overheard Jan. 6 rioter calling him 'the big Jew'",
+        "domain": "jpost.com",
+        "category": "politics",
+        "link": "https://www.jpost.com/diaspora/antisemitism/article-691891",
+        "timestamp": 1641691548,
+        "sentiment": -2,
+        "published": "January 9, 2022 1:25 AM"
+    },
+    {
+        "title": "Mass die-off of penguins caused by 2019 heat wave, study says: xtreme heat events can have a deadly impact on people and wildlife, as evidenced by a summer heat wave in 2019 that killed hundreds of penguins in Argentina.",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/mass-die-off-penguins-caused-2019-heat-wave-study-says-1666994",
+        "timestamp": 1641692566,
+        "sentiment": -6,
+        "published": "January 9, 2022 1:42 AM"
+    },
+    {
+        "title": "Germany needs jabs, not omicron's 'dirty vaccination' — health minister. Health Minister Karl Lauterbach has said it's \"naive\" to think the omicron variant will be the end of the pandemic. He warned that new COVID-19 mutations were still possible.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-needs-jabs-not-omicrons-dirty-vaccination-health-minister/a-60366926",
+        "timestamp": 1641692755,
+        "sentiment": -6,
+        "published": "January 9, 2022 1:45 AM"
+    },
+    {
+        "title": "Florida Men Love Golf Cart Parades and, Allegedly, Voting More Than Once | They're all registered Republicans.",
+        "domain": "esquire.com",
+        "category": "politics",
+        "link": "https://www.esquire.com/news-politics/politics/a38686943/the-villages-florida-voter-fraud/",
+        "timestamp": 1641694113,
+        "sentiment": -2,
+        "published": "January 9, 2022 2:08 AM"
+    },
+    {
+        "title": "Outbreak reported at Rhode Island hospital after Covid-positive, asymptomatic staff asked to work",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/outbreak-reported-rhode-island-hospital-covid-positive-asymptomatic-st-rcna11376",
+        "timestamp": 1641694270,
+        "sentiment": -4,
+        "published": "January 9, 2022 2:11 AM"
+    },
+    {
+        "title": "McCarthy \"talked himself right into being a marquee witness\" against Trump: Ex-Fed prosecutor",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/mccarthy-talked-himself-right-being-marquee-witness-against-trump-ex-fed-prosecutor-1667231",
+        "timestamp": 1641694891,
+        "sentiment": -2,
+        "published": "January 9, 2022 2:21 AM"
+    },
+    {
+        "title": "US hospitals struggle to match Walmart pay as staff flees omicron",
+        "domain": "m.arcamax.com",
+        "category": "news",
+        "link": "https://m.arcamax.com/currentnews/newsheadlines/s-2617292-p2",
+        "timestamp": 1641695546,
+        "sentiment": -4,
+        "published": "January 9, 2022 2:32 AM"
+    },
+    {
+        "title": "Saudi princess released from jail: Princess Basmah Bint Saud has been a vocal critic of the kingdom's treatment of women. She was arrested three years ago when she was about to travel overseas for medical treatment",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/saudi-princess-released-from-jail/a-60370218",
+        "timestamp": 1641697373,
+        "sentiment": -6,
+        "published": "January 9, 2022 3:02 AM"
+    },
+    {
+        "title": "Djokovic pictured maskless at public event one day after positive Covid test | Novak Djokovic",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jan/08/novak-djokovic-relied-on-december-covid-infection-for-vaccine-exemption-court-documents-reveal",
+        "timestamp": 1641702507,
+        "sentiment": -6,
+        "published": "January 9, 2022 4:28 AM"
+    },
+    {
+        "title": "Congress Should Refer Trump for Prosecution Over Jan. 6, Say 41% of Americans in New Poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/congress-should-refer-trump-prosecution-over-jan-6-say-41-americans-new-poll-1667228",
+        "timestamp": 1641687099,
         "sentiment": -4,
         "published": "January 9, 2022 12:11 AM"
     },
