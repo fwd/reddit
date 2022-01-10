@@ -41,6 +41,366 @@
         "category": "news",
         "link": "https://abc7.com/newsom-covid-test-kits-at-home/11446219/",
         "timestamp": 1641799378,
+        "sentiment": -7,
+        "published": "January 10, 2022 7:22 AM"
+    },
+    {
+        "title": "Adult Swim just premiered the entire first season of 'Smiling Friends' out of nowhere. Episode 2 is available for free on their website.",
+        "domain": "adultswim.com",
+        "category": "television",
+        "link": "https://www.adultswim.com/videos/smiling-friends",
+        "timestamp": 1641804618,
+        "sentiment": 2,
+        "published": "January 10, 2022 8:50 AM"
+    },
+    {
+        "title": "Ukraine's growing reserve army 'getting ready' amid fears of Russian attack | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraines-growing-reserve-army-getting-ready-amid-fears-of-russian-attack-12512270",
+        "timestamp": 1641809759,
+        "sentiment": 0,
+        "published": "January 10, 2022 10:15 AM"
+    },
+    {
+        "title": "Kazakhstan: Putin says Russia will not allow revolutions",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/kazakhstan-putin-says-russia-will-not-allow-revolutions/a-60377370",
+        "timestamp": 1641812552,
+        "sentiment": 0,
+        "published": "January 10, 2022 11:02 AM"
+    },
+    {
+        "title": "Chicago schools cancel classes for fourth day as union fight hits second week",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chicago-schools-cancel-classes-fight-teachers-covid-hits-second-week-rcna11564",
+        "timestamp": 1641815242,
+        "sentiment": -7,
+        "published": "January 10, 2022 11:47 AM"
+    },
+    {
+        "title": "‘We simply did not win the election for the presidency’: GOP senator says no evidence for Trump claims",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mike-rounds-trump-gop-2020-b1989611.html",
+        "timestamp": 1641817163,
+        "sentiment": 4,
+        "published": "January 10, 2022 12:19 PM"
+    },
+    {
+        "title": "‘Say no to Putin’: Ukrainians support protests in Kazakhstan",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/10/ukrainians-take-to-the-streets-in-support-for-kazakhstan-protests",
+        "timestamp": 1641818039,
+        "sentiment": 0,
+        "published": "January 10, 2022 12:33 PM"
+    },
+    {
+        "title": "Despite widespread rumors about Frankie Muniz's severe memory issues, he recently clarified on an interview with Steve-O that these stories about his supposed shattered memory or TIA's have been wildly exaggerated and fabricated",
+        "domain": "youtu.be",
+        "category": "television",
+        "link": "https://youtu.be/j38OAU-FANE",
+        "timestamp": 1641820723,
+        "sentiment": 2,
+        "published": "January 10, 2022 1:18 PM"
+    },
+    {
+        "title": "Manchin's Coal Corruption Is So Much Worse Than You Knew",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-features/joe-manchin-big-coal-west-virginia-1280922/",
+        "timestamp": 1641821264,
+        "sentiment": 4,
+        "published": "January 10, 2022 1:27 PM"
+    },
+    {
+        "title": "So much for 'nothing to hide': Jim Jordan balks at Jan. 6 probe",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/so-much-nothing-hide-jim-jordan-balks-jan-6-probe-n1287234",
+        "timestamp": 1641823738,
+        "sentiment": 4,
+        "published": "January 10, 2022 2:08 PM"
+    },
+    {
+        "title": "Donald Trump dialled Fox hosts into Oval Office meetings, report says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-fox-news-hosts-white-house-b1989772.html",
+        "timestamp": 1641826018,
+        "sentiment": 4,
+        "published": "January 10, 2022 2:46 PM"
+    },
+    {
+        "title": "MILWAUKEE -- The man who bought Kyle Rittenhouse an assault-style rifle when he was only 17 has agreed to plead no contest to contributing to the delinquency of a minor, a non-criminal citation, and avoid convictions on the two felonies he'd been facing.",
+        "domain": "abc7chicago.com",
+        "category": "news",
+        "link": "https://abc7chicago.com/kyle-rittenhouse-shooting-dominick-black-kenosha-wisconsin/11442815/",
+        "timestamp": 1641826593,
+        "sentiment": -7,
+        "published": "January 10, 2022 2:56 PM"
+    },
+    {
+        "title": "The last 7 years have been the warmest on record as planet approaches critical threshold",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/10/world/2021-global-climate-5th-warmest-copernicus/index.html",
+        "timestamp": 1641827429,
+        "sentiment": 0,
+        "published": "January 10, 2022 3:10 PM"
+    },
+    {
+        "title": "National Archives received forged letters from Arizona and Michigan claiming Trump won election, report says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-election-forged-letters-arizona-michigan-b1989975.html",
+        "timestamp": 1641829598,
+        "sentiment": 4,
+        "published": "January 10, 2022 3:46 PM"
+    },
+    {
+        "title": "FBI: Cyber criminals are mailing out USB drives that install ransomware",
+        "domain": "zdnet.com",
+        "category": "news",
+        "link": "https://www.zdnet.com/article/fbi-cybercriminals-are-mailing-out-usb-drives-that-will-install-ransomware/?ftag=TRE-03-10aaa6b&bhid=%7B%24external_id%7D&mid=%7B%24MESSAGE_ID%7D&cid=%7B%24contact_id%7D&eh=%7B%24CF_emailHash%7D",
+        "timestamp": 1641830032,
+        "sentiment": -7,
+        "published": "January 10, 2022 3:53 PM"
+    },
+    {
+        "title": "Bay Area fans mourn Bob Saget at SF's 'Full House' home",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=oaSLdG5Cnro",
+        "timestamp": 1641830250,
+        "sentiment": 2,
+        "published": "January 10, 2022 3:57 PM"
+    },
+    {
+        "title": "Trump says GOP Sen. Mike Rounds 'went woke' and 'will never receive my Endorsement again' after he called the 2020 presidential election 'as fair as we've seen'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-mike-rounds-never-receive-my-endorsement-again-2020-election-2022-1",
+        "timestamp": 1641831324,
+        "sentiment": 4,
+        "published": "January 10, 2022 4:15 PM"
+    },
+    {
+        "title": "Emily in Paris Renewed for 2 More Seasons at Netflix",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/10/emily-in-paris-renewed-season-3-4-netflix/",
+        "timestamp": 1641832301,
+        "sentiment": 2,
+        "published": "January 10, 2022 4:31 PM"
+    },
+    {
+        "title": "Ikea cuts sick pay for unvaccinated staff forced to self-isolate",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/business-59930206",
+        "timestamp": 1641832576,
+        "sentiment": -7,
+        "published": "January 10, 2022 4:36 PM"
+    },
+    {
+        "title": "US charges New York man with threatening to kill Donald Trump",
+        "domain": "jpost.com",
+        "category": "news",
+        "link": "https://www.jpost.com/breaking-news/article-692106",
+        "timestamp": 1641833523,
+        "sentiment": -7,
+        "published": "January 10, 2022 4:52 PM"
+    },
+    {
+        "title": "North Carolina voters file suit to disqualify Cawthorn from running for reelection",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/589011-north-carolina-voters-file-suit-to-disqualify-cawthorn-from-running-for",
+        "timestamp": 1641836760,
+        "sentiment": 4,
+        "published": "January 10, 2022 5:46 PM"
+    },
+    {
+        "title": "A Trading Ban for U.S. Lawmakers That Makes Sense | Senator Jon Ossoff’s proposal to bar federal legislators and their family members from buying individual stocks deserves bipartisan support.",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/opinion/articles/2022-01-10/ossoff-is-right-about-stock-trading-ban-for-u-s-lawmakers",
+        "timestamp": 1641836906,
+        "sentiment": 4,
+        "published": "January 10, 2022 5:48 PM"
+    },
+    {
+        "title": "Group argues Madison Cawthorn ineligible for Congress due to Jan. 6 rally participation",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/group-argues-madison-cawthorn-ineligible-congress-due-jan-6-rally-participation-1667527",
+        "timestamp": 1641837211,
+        "sentiment": 4,
+        "published": "January 10, 2022 5:53 PM"
+    },
+    {
+        "title": "Apple announces third season renewal for flagship Apple TV+ drama series ‘The Morning Show’",
+        "domain": "9to5mac.com",
+        "category": "television",
+        "link": "https://9to5mac.com/2022/01/10/apple-morning-show-third-season/",
+        "timestamp": 1641838578,
+        "sentiment": 2,
+        "published": "January 10, 2022 6:16 PM"
+    },
+    {
+        "title": "Mark Ruffalo & Hugh Laurie Join ‘All The Light We Cannot See’ Netflix Limited Series Adaptation",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/mark-ruffalo-hugh-laurie-all-the-light-we-cannot-see-netflix-limited-series-adaptation-1234907325/",
+        "timestamp": 1641839593,
+        "sentiment": 2,
+        "published": "January 10, 2022 6:33 PM"
+    },
+    {
+        "title": "Schools must allow children leave during religion class, says Atheist Ireland",
+        "domain": "irishtimes.com",
+        "category": "worldnews",
+        "link": "https://www.irishtimes.com/news/social-affairs/religion-and-beliefs/schools-must-allow-children-leave-during-religion-class-says-atheist-ireland-1.4772979",
+        "timestamp": 1641839685,
+        "sentiment": 0,
+        "published": "January 10, 2022 6:34 PM"
+    },
+    {
+        "title": "Robert Durst dead at 78 following sentencing",
+        "domain": "the-sun.com",
+        "category": "television",
+        "link": "https://www.the-sun.com/news/3872915/robert-durst-dead-covid/",
+        "timestamp": 1641840081,
+        "sentiment": 2,
+        "published": "January 10, 2022 6:41 PM"
+    },
+    {
+        "title": "Robert Durst dies in custody",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/robert-durst-dies-custody/story?id=82182614",
+        "timestamp": 1641840176,
+        "sentiment": -7,
+        "published": "January 10, 2022 6:42 PM"
+    },
+    {
+        "title": "Sanders Says Democrats Need 'Major Course Correction' to Prevent GOP Takeover",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/10/sanders-says-democrats-need-major-course-correction-prevent-gop-takeover",
+        "timestamp": 1641840510,
+        "sentiment": 4,
+        "published": "January 10, 2022 6:48 PM"
+    },
+    {
+        "title": "Pope suggests that COVID vaccinations are 'moral obligation'",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/01/10/1071785531/on-covid-vaccinations-pope-says-health-care-is-a-moral-obligation",
+        "timestamp": 1641842210,
+        "sentiment": 0,
+        "published": "January 10, 2022 7:16 PM"
+    },
+    {
+        "title": "Lufthansa operated 18,000 empty or near-empty flights this winter to avoid losing airport slots, including 3,000 flights under the Brussels Airlines banner",
+        "domain": "thebulletin.be",
+        "category": "worldnews",
+        "link": "https://www.thebulletin.be/brussels-airlines-runs-3000-empty-flights-maintain-airport-slots",
+        "timestamp": 1641843693,
+        "sentiment": 0,
+        "published": "January 10, 2022 7:41 PM"
+    },
+    {
+        "title": "Mother shoots her 4-year-old child twice while attempting to clean gun, police say",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/mother-shoots-4-year-old-child-twice-attempting-clean-gun-police-say-rcna11639",
+        "timestamp": 1641844312,
+        "sentiment": -7,
+        "published": "January 10, 2022 7:51 PM"
+    },
+    {
+        "title": "No evidence of drugs or foul play in death of Bob Saget, medical examiner says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/no-evidence-drugs-foul-play-death-bob-saget-medical-examiner-says-rcna11605",
+        "timestamp": 1641845334,
+        "sentiment": -7,
+        "published": "January 10, 2022 8:08 PM"
+    },
+    {
+        "title": "‘The White Lotus’: Aubrey Plaza To Star In Second Installment Of HBO Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/the-white-lotus-aubrey-plaza-star-season-2-hbo-mike-white-1234907616/",
+        "timestamp": 1641846685,
+        "sentiment": 2,
+        "published": "January 10, 2022 8:31 PM"
+    },
+    {
+        "title": "Omicron was in Nova Scotia wastewater before it was identified in South Africa",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/canada/omicron-was-in-nova-scotia-wastewater-before-it-was-identified-in-south-africa",
+        "timestamp": 1641846978,
+        "sentiment": 0,
+        "published": "January 10, 2022 8:36 PM"
+    },
+    {
+        "title": "Cleveland Starbucks workers file for unionization, aiming to be first Starbucks union in Ohio",
+        "domain": "news5cleveland.com",
+        "category": "news",
+        "link": "https://www.news5cleveland.com/news/local-news/cleveland-metro/cleveland-starbucks-workers-file-for-unionization-aiming-to-be-first-starbucks-union-in-ohio",
+        "timestamp": 1641849467,
+        "sentiment": -7,
+        "published": "January 10, 2022 9:17 PM"
+    },
+    {
+        "title": "Bob Saget Dead: Star Dies, But Cause of Death Unclear",
+        "domain": "heavy.com",
+        "category": "television",
+        "link": "https://heavy.com/news/bob-saget-dead-star-dies-but-cause-of-death-unclear/",
+        "timestamp": 1641775056,
+        "sentiment": 2,
+        "published": "January 10, 2022 12:37 AM"
+    },
+    {
+        "title": "Unvaccinated People Ordered to Stay Home or Face Jail in City of 14 Million",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/z3n3xe/philippines-lockdown-manila",
+        "timestamp": 1641783432,
+        "sentiment": 0,
+        "published": "January 10, 2022 2:57 AM"
+    },
+    {
+        "title": "Anti-vaccination doctor Jonie Girouard can no longer practise in New Zealand",
+        "domain": "rnz.co.nz",
+        "category": "worldnews",
+        "link": "https://www.rnz.co.nz/news/national/459310/anti-vaccination-doctor-jonie-girouard-can-no-longer-practise-in-new-zealand",
+        "timestamp": 1641785258,
+        "sentiment": 0,
+        "published": "January 10, 2022 3:27 AM"
+    },
+    {
+        "title": "O Yeong-su wins Golden Globes best TV supporting actor for 'Squid Game'",
+        "domain": "yna.kr",
+        "category": "television",
+        "link": "http://yna.kr/AEN20220110002552315",
+        "timestamp": 1641796611,
+        "sentiment": 2,
+        "published": "January 10, 2022 6:36 AM"
+    },
+    {
+        "title": "Gov. Newsom signs executive order outlawing price gouging of COVID-19 at-home test kits in California",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/newsom-covid-test-kits-at-home/11446219/",
+        "timestamp": 1641799378,
         "sentiment": -6,
         "published": "January 10, 2022 7:22 AM"
     },
