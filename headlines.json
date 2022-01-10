@@ -5,6 +5,69 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-nato-prepares-for-possible-russian-invasion-as-diplomats-fear-talks-will-fail-12512624",
         "timestamp": 1641773185,
+        "sentiment": -2,
+        "published": "January 10, 2022 12:06 AM"
+    },
+    {
+        "title": "Bob Saget Dead: Star Dies, But Cause of Death Unclear",
+        "domain": "heavy.com",
+        "category": "television",
+        "link": "https://heavy.com/news/bob-saget-dead-star-dies-but-cause-of-death-unclear/",
+        "timestamp": 1641775056,
+        "sentiment": 0,
+        "published": "January 10, 2022 12:37 AM"
+    },
+    {
+        "title": "Bob Saget is dead at 65",
+        "domain": "comicbook.com",
+        "category": "news",
+        "link": "https://comicbook.com/irl/news/bob-saget-dead-at-65/",
+        "timestamp": 1641775167,
+        "sentiment": 0,
+        "published": "January 10, 2022 12:39 AM"
+    },
+    {
+        "title": "Jim Jordan won't cooperate with Jan. 6 panel",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/jim-jordan-jan-6-panel-capitol-riot-ad422f5b-033f-40c1-b0b3-22fd5b275592.html",
+        "timestamp": 1641775486,
+        "sentiment": 0,
+        "published": "January 10, 2022 12:44 AM"
+    },
+    {
+        "title": "The United States records an average of 700,000 new cases per day; Fauci says the nation could grow to 1 million",
+        "domain": "hindimeintv.com",
+        "category": "news",
+        "link": "https://hindimeintv.com/the-united-states-records-an-average-of-700000-new-cases-per-day-fauci-says-the-nation-could-grow-to-1-million/",
+        "timestamp": 1641780737,
+        "sentiment": 0,
+        "published": "January 10, 2022 2:12 AM"
+    },
+    {
+        "title": "Unvaccinated People Ordered to Stay Home or Face Jail in City of 14 Million",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/z3n3xe/philippines-lockdown-manila",
+        "timestamp": 1641783432,
+        "sentiment": -2,
+        "published": "January 10, 2022 2:57 AM"
+    },
+    {
+        "title": "Anti-vaccination doctor Jonie Girouard can no longer practise in New Zealand",
+        "domain": "rnz.co.nz",
+        "category": "worldnews",
+        "link": "https://www.rnz.co.nz/news/national/459310/anti-vaccination-doctor-jonie-girouard-can-no-longer-practise-in-new-zealand",
+        "timestamp": 1641785258,
+        "sentiment": -2,
+        "published": "January 10, 2022 3:27 AM"
+    },
+    {
+        "title": "Ukraine: NATO prepares for possible Russian invasion as diplomats fear talks will fail | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-nato-prepares-for-possible-russian-invasion-as-diplomats-fear-talks-will-fail-12512624",
+        "timestamp": 1641773185,
         "sentiment": 0,
         "published": "January 10, 2022 12:06 AM"
     },
