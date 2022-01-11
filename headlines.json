@@ -5,6 +5,105 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/01/10/bill-bar-congress-trading-stocks/9159830002/",
         "timestamp": 1641861140,
+        "sentiment": 0,
+        "published": "January 11, 2022 12:32 AM"
+    },
+    {
+        "title": "Federal vaccine mandate for employers with 100 or more staff now in effect",
+        "domain": "wptv.com",
+        "category": "news",
+        "link": "https://www.wptv.com/coronavirus/federal-vaccine-mandate-for-employers-with-100-or-more-staff-now-in-effect",
+        "timestamp": 1641864476,
+        "sentiment": -5,
+        "published": "January 11, 2022 1:27 AM"
+    },
+    {
+        "title": "Betty White died of a stroke she suffered six days earlier",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/betty-white-cause-of-death-stroke/",
+        "timestamp": 1641866563,
+        "sentiment": -5,
+        "published": "January 11, 2022 2:02 AM"
+    },
+    {
+        "title": "U.S. reports at least 1.1 million COVID cases in a day, shattering global record",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-reports-least-11-mln-covid-cases-day-shattering-global-record-2022-01-11/",
+        "timestamp": 1641866786,
+        "sentiment": -5,
+        "published": "January 11, 2022 2:06 AM"
+    },
+    {
+        "title": "Maya Angelou becomes first Black woman to appear on US quarter",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html",
+        "timestamp": 1641867807,
+        "sentiment": -5,
+        "published": "January 11, 2022 2:23 AM"
+    },
+    {
+        "title": "McConnell blocks simple majority votes on Dems' voting rights bills",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/589119-mcconnell-blocks-simple-majority-votes-dems-voting-rights-bills",
+        "timestamp": 1641868557,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:35 AM"
+    },
+    {
+        "title": "Three in four voters support banning lawmakers from trading stocks: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/news/588630-76-percent-of-voters-support-banning-lawmakers-from-trading-stocks-poll",
+        "timestamp": 1641870990,
+        "sentiment": 0,
+        "published": "January 11, 2022 3:16 AM"
+    },
+    {
+        "title": "A Federal Judge Suggests Trump Might Have to Pay Up for January 6 | By not calling off the rioters, Trump may be held liable for the attack and the lawsuits demanding damages.",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-january-6-lawsuits-liability",
+        "timestamp": 1641873881,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:04 AM"
+    },
+    {
+        "title": "The Bob's Burgers Movie | Official Trailer | 20th Century Studios",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=hldGGWN9HcI&ab_channel=20thCenturyStudios",
+        "timestamp": 1641877009,
+        "sentiment": 2,
+        "published": "January 11, 2022 4:56 AM"
+    },
+    {
+        "title": "Australia spends $3.5billion to purchase 120 military tanks from the United States as tensions soar with China",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10388087/Australia-spends-3-5billion-purchase-120-tanks-United-States.html",
+        "timestamp": 1641877524,
+        "sentiment": -2,
+        "published": "January 11, 2022 5:05 AM"
+    },
+    {
+        "title": "U.S. reports 1.35 mln COVID-19 cases in a day, shattering global record",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-reports-least-11-mln-covid-cases-day-shattering-global-record-2022-01-11/",
+        "timestamp": 1641883914,
+        "sentiment": -2,
+        "published": "January 11, 2022 6:51 AM"
+    },
+    {
+        "title": "A potential new bill could bar members of Congress and their families from trading individual stocks",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2022/01/10/bill-bar-congress-trading-stocks/9159830002/",
+        "timestamp": 1641861140,
         "sentiment": -8,
         "published": "January 11, 2022 12:32 AM"
     },
