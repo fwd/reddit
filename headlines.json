@@ -18,6 +18,330 @@
         "published": "January 11, 2022 2:02 AM"
     },
     {
+        "title": "Maya Angelou becomes first Black woman to appear on US quarter",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/10/politics/maya-angelou-quarter-issued/index.html",
+        "timestamp": 1641867807,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:23 AM"
+    },
+    {
+        "title": "McConnell blocks simple majority votes on Dems' voting rights bills",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/589119-mcconnell-blocks-simple-majority-votes-dems-voting-rights-bills",
+        "timestamp": 1641868557,
+        "sentiment": 2,
+        "published": "January 11, 2022 2:35 AM"
+    },
+    {
+        "title": "Three in four voters support banning lawmakers from trading stocks: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/news/588630-76-percent-of-voters-support-banning-lawmakers-from-trading-stocks-poll",
+        "timestamp": 1641870990,
+        "sentiment": 2,
+        "published": "January 11, 2022 3:16 AM"
+    },
+    {
+        "title": "Australia spends $3.5billion to purchase 120 military tanks from the United States as tensions soar with China",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10388087/Australia-spends-3-5billion-purchase-120-tanks-United-States.html",
+        "timestamp": 1641877524,
+        "sentiment": 0,
+        "published": "January 11, 2022 5:05 AM"
+    },
+    {
+        "title": "COVID: Boris Johnson accused of hosting another party during lockdown",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/covid-boris-johnson-accused-of-hosting-another-party-during-lockdown/a-60383705?maca=en-rss-en-top-1022-rdf",
+        "timestamp": 1641881796,
+        "sentiment": 0,
+        "published": "January 11, 2022 6:16 AM"
+    },
+    {
+        "title": "State Dep: Russia Has Invaded, Occupied, Fomented Conflict Against Ukraine, Georgia, Moldova",
+        "domain": "georgianjournal.ge",
+        "category": "worldnews",
+        "link": "https://georgianjournal.ge/politics/37664-state-dep-russia-has-invaded-occupied-fomented-conflict-against-ukraine-georgia-moldova.html",
+        "timestamp": 1641892396,
+        "sentiment": 0,
+        "published": "January 11, 2022 9:13 AM"
+    },
+    {
+        "title": "Republicans in at least three states filed forged elector letters; possible pattern seen",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow/watch/republicans-in-at-least-three-states-filed-forged-elector-letters-possible-pattern-seen-130571333927",
+        "timestamp": 1641894500,
+        "sentiment": 2,
+        "published": "January 11, 2022 9:48 AM"
+    },
+    {
+        "title": "‘Jeopardy!’ Keeps Seeing Winning Streaks. Champions Ponder Why.",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2022/01/09/arts/television/jeopardy-streaks-amy-schneider.html",
+        "timestamp": 1641900288,
+        "sentiment": 0,
+        "published": "January 11, 2022 11:24 AM"
+    },
+    {
+        "title": "Opinion: Wisconsin's 1-party rule is what the GOP wants everywhere",
+        "domain": "theweek.com",
+        "category": "politics",
+        "link": "https://theweek.com/republicans/1008820/wisconsins-1-party-rule-is-what-the-gop-wants-everywhere",
+        "timestamp": 1641901980,
+        "sentiment": 2,
+        "published": "January 11, 2022 11:53 AM"
+    },
+    {
+        "title": "Firing Upheld for LAPD Officers Playing Pokémon Go Instead of Responding to Robbery",
+        "domain": "nbclosangeles.com",
+        "category": "news",
+        "link": "https://www.nbclosangeles.com/news/national-international/firing-upheld-lapd-officers-playing-pokemon-go-instead-responding-robbery/2795006/",
+        "timestamp": 1641902101,
+        "sentiment": 0,
+        "published": "January 11, 2022 11:55 AM"
+    },
+    {
+        "title": "Joe Biden to back filibuster rule change to push voting rights bill",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/11/joe-biden-to-back-filibuster-rule-change-to-push-voting-rights-bill",
+        "timestamp": 1641902386,
+        "sentiment": 2,
+        "published": "January 11, 2022 11:59 AM"
+    },
+    {
+        "title": "Indiana state senator apologizes for saying educators need to be impartial when teaching about racism and Nazism",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/11/us/indiana-state-senator-apology-nazism-fascism/index.html",
+        "timestamp": 1641903227,
+        "sentiment": 0,
+        "published": "January 11, 2022 12:13 PM"
+    },
+    {
+        "title": "Hottest ocean temperatures in history recorded last year",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jan/11/oceans-hottest-temperatures-research-climate-crisis",
+        "timestamp": 1641903455,
+        "sentiment": 0,
+        "published": "January 11, 2022 12:17 PM"
+    },
+    {
+        "title": "UK PM Johnson under fire over 'bring your own booze' lockdown party",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/british-minister-i-understand-hurt-caused-by-lockdown-party-claims-2022-01-11/",
+        "timestamp": 1641906910,
+        "sentiment": 0,
+        "published": "January 11, 2022 1:15 PM"
+    },
+    {
+        "title": "Magawa, the landmine-sniffing hero rat, dies aged eight",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-asia-59951255",
+        "timestamp": 1641907702,
+        "sentiment": 0,
+        "published": "January 11, 2022 1:28 PM"
+    },
+    {
+        "title": "McConnell Told To 'Save The Damn Crocodile Tears' After Whining About Silencing Voters",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mitch-mcconnell-senate-rules-backfires_n_61dd4afde4b0c7d8b8b48b06",
+        "timestamp": 1641908299,
+        "sentiment": 2,
+        "published": "January 11, 2022 1:38 PM"
+    },
+    {
+        "title": "After 2020, Trump backers forged election docs in three states - Groups of Republicans in three states signed their names to forged documents, pretended they were real, and sent them to government agencies.",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/after-2020-trump-backers-forged-election-docs-three-states-n1287287",
+        "timestamp": 1641908354,
+        "sentiment": 2,
+        "published": "January 11, 2022 1:39 PM"
+    },
+    {
+        "title": "Netflix’s new 'Hype House' series is a morbid tale of what happens when your 15 minutes of fame is up.",
+        "domain": "vox.com",
+        "category": "television",
+        "link": "https://www.vox.com/the-goods/22877013/hype-house-netflix-show?",
+        "timestamp": 1641910034,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:07 PM"
+    },
+    {
+        "title": "Kazakhstan president says Russian troops will begin leaving in two days",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/589144-kazakhstan-president-says-russian-troops-leaving-in-two-days",
+        "timestamp": 1641910727,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:18 PM"
+    },
+    {
+        "title": "16 top colleges sued for alleged violation of federal antitrust laws by colluding on their financial-aid practices",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/11/us/college-admissions-antitrust-lawsuit/index.html",
+        "timestamp": 1641911353,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:29 PM"
+    },
+    {
+        "title": "Republicans threaten floor takeover if Democrats weaken filibuster",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/589110-republicans-threaten-floor-takeover-if-democrats-weaken-filibuster",
+        "timestamp": 1641911458,
+        "sentiment": 2,
+        "published": "January 11, 2022 2:30 PM"
+    },
+    {
+        "title": "James Webb Space Telescope should have fuel for about 20 years of science",
+        "domain": "space.com",
+        "category": "news",
+        "link": "https://www.space.com/james-webb-space-telescope-fuel-20-years",
+        "timestamp": 1641913163,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:59 PM"
+    },
+    {
+        "title": "Several lawmakers want to ban themselves from trading stocks, calling the appearance of self-dealing 'pretty dangerous to democracy'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/pretty-dangerous-democracy-members-congress-want-ban-stock-trading-2022-1",
+        "timestamp": 1641915457,
+        "sentiment": 2,
+        "published": "January 11, 2022 3:37 PM"
+    },
+    {
+        "title": "Catholic and Jewish leaders condemn fascist display at Rome funeral",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/11/catholic-jewish-leaders-condemn-fascist-display-rome-funeral-nazi-flag",
+        "timestamp": 1641916505,
+        "sentiment": 0,
+        "published": "January 11, 2022 3:55 PM"
+    },
+    {
+        "title": "'Dexter: New Blood' Becomes Most-Watched Showtime Series of All Time",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/dexter-new-blood-most-watched-showtime-all-time/",
+        "timestamp": 1641916860,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:01 PM"
+    },
+    {
+        "title": "Sharon Stone Joins ‘The Flight Attendant’ Season 2, Will Recur As Cassie’s [SPOILER] On HBO Max Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/sharon-stone-the-flight-attendant-season-2-hbo-max-series-recurring-cassie-mom-1234907830/",
+        "timestamp": 1641917016,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:03 PM"
+    },
+    {
+        "title": "Chip and Joanna Gaines' Magnolia Network pulls show after homeowners allege that makeovers ruined their houses",
+        "domain": "msn.com",
+        "category": "television",
+        "link": "https://www.msn.com/en-us/tv/celebrity/chip-and-joanna-gaines-magnolia-network-pulls-show-after-homeowners-allege-that-makeovers-ruined-their-houses/ar-AASy3kz",
+        "timestamp": 1641917448,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:10 PM"
+    },
+    {
+        "title": "'Station Eleven' is post-apocalyptic sci-fi without the Strong Survival Gun Guy",
+        "domain": "sfgate.com",
+        "category": "television",
+        "link": "https://www.sfgate.com/streaming/article/Station-Eleven-is-the-most-hopeful-show-16764290.php",
+        "timestamp": 1641917533,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:12 PM"
+    },
+    {
+        "title": "Justice Dept. creating unit focused on domestic terrorism",
+        "domain": "wbrc.com",
+        "category": "news",
+        "link": "https://www.wbrc.com/2022/01/11/justice-dept-creating-unit-focused-domestic-terrorism/",
+        "timestamp": 1641918615,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:30 PM"
+    },
+    {
+        "title": "‘You are distorting everything about me’: Fauci tears into Rand Paul amid new Project Veritas smear campaign",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/fauci-rand-paul-hearing-project-veritas-b1990925.html",
+        "timestamp": 1641919241,
+        "sentiment": 2,
+        "published": "January 11, 2022 4:40 PM"
+    },
+    {
+        "title": "Inconsistencies found in Djokovic's PCR Tests",
+        "domain": "zerforschung.org",
+        "category": "worldnews",
+        "link": "https://zerforschung.org/posts/djokovic-pcr-test-en/",
+        "timestamp": 1641920388,
+        "sentiment": 0,
+        "published": "January 11, 2022 4:59 PM"
+    },
+    {
+        "title": "Ukraine: We will defend ourselves against Russia 'until the last drop of blood', says country's army chief | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-we-will-defend-ourselves-against-russia-until-the-last-drop-of-blood-says-countrys-army-chief-12513397",
+        "timestamp": 1641921685,
+        "sentiment": 0,
+        "published": "January 11, 2022 5:21 PM"
+    },
+    {
+        "title": "Nearly 70 percent of Brits think under-fire Boris Johnson should resign after 'bring your own booze' lockdown party - poll",
+        "domain": "newshub.co.nz",
+        "category": "worldnews",
+        "link": "https://www.newshub.co.nz/home/world/2022/01/nearly-70-percent-of-brits-think-under-fire-boris-johnson-should-resign-after-bring-your-own-booze-lockdown-party-poll.html",
+        "timestamp": 1641923347,
+        "sentiment": 0,
+        "published": "January 11, 2022 5:49 PM"
+    },
+    {
+        "title": "'The Great' Renewed by Hulu for Season 3",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/the-great-renewed-season-3-hulu-elle-fanning/",
+        "timestamp": 1641924024,
+        "sentiment": 0,
+        "published": "January 11, 2022 6:00 PM"
+    },
+    {
+        "title": "Federal vaccine mandate for employers with 100 or more staff now in effect",
+        "domain": "wptv.com",
+        "category": "news",
+        "link": "https://www.wptv.com/coronavirus/federal-vaccine-mandate-for-employers-with-100-or-more-staff-now-in-effect",
+        "timestamp": 1641864476,
+        "sentiment": 0,
+        "published": "January 11, 2022 1:27 AM"
+    },
+    {
+        "title": "Betty White died of a stroke she suffered six days earlier",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/betty-white-cause-of-death-stroke/",
+        "timestamp": 1641866563,
+        "sentiment": 0,
+        "published": "January 11, 2022 2:02 AM"
+    },
+    {
         "title": "U.S. reports at least 1.1 million COVID cases in a day, shattering global record",
         "domain": "reuters.com",
         "category": "news",
