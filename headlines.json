@@ -5,6 +5,348 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/german-police-under-fire-for-misuse-of-covid-contact-tracing-app/a-60393597",
         "timestamp": 1641948272,
+        "sentiment": -3,
+        "published": "January 12, 2022 12:44 AM"
+    },
+    {
+        "title": "Will Forte Is Still Waiting for ‘MacGruber’ to Blow Up",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2021/12/08/arts/television/will-forte-macgruber.html",
+        "timestamp": 1641953031,
+        "sentiment": 2,
+        "published": "January 12, 2022 2:03 AM"
+    },
+    {
+        "title": "Novak Djokovic admits breaking isolation while Covid positive",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-australia-59935127",
+        "timestamp": 1641967384,
+        "sentiment": -3,
+        "published": "January 12, 2022 6:03 AM"
+    },
+    {
+        "title": "France moves to ban incest for the first time since 1791",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10392785/France-moves-ban-incest-time-1791-series-scandals.html",
+        "timestamp": 1641969587,
+        "sentiment": -3,
+        "published": "January 12, 2022 6:39 AM"
+    },
+    {
+        "title": "YouTube is major conduit of fake news, factcheckers say",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jan/12/youtube-is-major-conduit-of-fake-news-factcheckers-say",
+        "timestamp": 1641976061,
+        "sentiment": -2,
+        "published": "January 12, 2022 8:27 AM"
+    },
+    {
+        "title": "Lawsuit Against Netflix Over ’13 Reasons Why’ Suicide Scene Dismissed",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/netflix-lawsuit-13-reasons-why-suicide-scene-dismissed-1235073625/",
+        "timestamp": 1641979228,
+        "sentiment": 2,
+        "published": "January 12, 2022 9:20 AM"
+    },
+    {
+        "title": "Pressed on his election lies, former President Trump cuts NPR interview short",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines",
+        "timestamp": 1641982982,
+        "sentiment": 3,
+        "published": "January 12, 2022 10:23 AM"
+    },
+    {
+        "title": "West Virginia governor feels 'extremely unwell' after testing positive for Covid-19 and cancels state legislature address",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/12/us/west-virginia-governor-jim-justice-covid-positive/index.html",
+        "timestamp": 1641988546,
+        "sentiment": -2,
+        "published": "January 12, 2022 11:55 AM"
+    },
+    {
+        "title": "Trump hangs up on NPR interviewer when pressed about non-existent election ‘fraud’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-npr-interview-fraud-capitol-b1991444.html",
+        "timestamp": 1641989119,
+        "sentiment": 3,
+        "published": "January 12, 2022 12:05 PM"
+    },
+    {
+        "title": "Miners press Manchin to choose between them and the coal bosses",
+        "domain": "peoplesworld.org",
+        "category": "politics",
+        "link": "https://peoplesworld.org/article/miners-press-manchin-to-choose-between-them-and-the-coal-bosses/",
+        "timestamp": 1641990367,
+        "sentiment": 3,
+        "published": "January 12, 2022 12:26 PM"
+    },
+    {
+        "title": "Prime Minister Boris Johnson admits he attended No.10 'BYOB' garden party during the height of the first lockdown, as Labour Leader Keir Starmer demands his resignation",
+        "domain": "huffingtonpost.co.uk",
+        "category": "worldnews",
+        "link": "https://www.huffingtonpost.co.uk/entry/boris-johnson-admits-no10-byob-garden-party_uk_61deaea8e4b04e9d84de29d0",
+        "timestamp": 1641990454,
+        "sentiment": -3,
+        "published": "January 12, 2022 12:27 PM"
+    },
+    {
+        "title": "The highly contagious Omicron variant will 'find just about everybody,' Fauci says, but vaccinated people will still fare better",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/11/health/us-coronavirus-tuesday/index.html",
+        "timestamp": 1641991995,
+        "sentiment": -2,
+        "published": "January 12, 2022 12:53 PM"
+    },
+    {
+        "title": "In Guatemala, Ex-Paramilitaries Face Trial for Wartime Rape of Indigenous Women",
+        "domain": "nacla.org",
+        "category": "news",
+        "link": "https://nacla.org/news/2022/01/11/guatemala-maya-achi-rape",
+        "timestamp": 1641993408,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:16 PM"
+    },
+    {
+        "title": "Inflation rises 7% over the past year to the highest level since 1982",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/12/cpi-december-2021-.html",
+        "timestamp": 1641994500,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:35 PM"
+    },
+    {
+        "title": "Study Finds Cannabis Compounds Prevent Infection By Covid-19 Virus",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/ajherrington/2022/01/11/study-finds-cannabis-compounds-prevent-infection-by-covid-19-virus/?sh=55966e251753",
+        "timestamp": 1641995161,
+        "sentiment": -3,
+        "published": "January 12, 2022 1:46 PM"
+    },
+    {
+        "title": "Ukraine dusts off Cold War bunkers in case of Russian invasion many think won't happen",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/russia-invade-ukraine-residents-1.6310843",
+        "timestamp": 1641995229,
+        "sentiment": -3,
+        "published": "January 12, 2022 1:47 PM"
+    },
+    {
+        "title": "Trump Can’t Take the Heat, Hangs Up on NPR When Host Pushes Back on His Election Lies",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-hangs-up-on-npr-1283158/",
+        "timestamp": 1641995994,
+        "sentiment": 3,
+        "published": "January 12, 2022 1:59 PM"
+    },
+    {
+        "title": "U.S. judge rejects Prince Andrew's bid to dismiss sex abuse accuser's lawsuit",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/us-judge-rejects-prince-andrews-bid-dismiss-sex-abuse-accusers-lawsuit-2022-01-12/",
+        "timestamp": 1641997917,
+        "sentiment": -2,
+        "published": "January 12, 2022 2:31 PM"
+    },
+    {
+        "title": "Station Eleven Has Pulled Off the Miracle of Grounded Apocalyptic Drama",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hbo-max/station-eleven-apocalypse-drama-answers/",
+        "timestamp": 1641998610,
+        "sentiment": 2,
+        "published": "January 12, 2022 2:43 PM"
+    },
+    {
+        "title": "U.S., NATO reject Russia’s demand to exclude Ukraine from alliance",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8496323/us-nato-ukraine-russia-meeting/",
+        "timestamp": 1641998979,
+        "sentiment": -3,
+        "published": "January 12, 2022 2:49 PM"
+    },
+    {
+        "title": "Will The CW Be a Streaming Wars Casualty?",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/the-cw-sale-nexstar-1235073465/",
+        "timestamp": 1641999591,
+        "sentiment": 2,
+        "published": "January 12, 2022 2:59 PM"
+    },
+    {
+        "title": "Britain's High Court ruled Wednesday that the government acted unlawfully when it used a so-called “VIP lane” to award millions of pounds' worth of contracts to suppliers of personal protective equipment who had connections to lawmakers and senior officials.",
+        "domain": "thinkpol.ca",
+        "category": "worldnews",
+        "link": "https://thinkpol.ca/2022/01/12/uk-court-government-vip-lane-for-covid-contracts-unlawful/",
+        "timestamp": 1642000364,
+        "sentiment": -3,
+        "published": "January 12, 2022 3:12 PM"
+    },
+    {
+        "title": "‘Squid Game’ Makes SAG Awards History: First Foreign-Language TV Nominee",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/squid-game-sag-awards-korean-nominee-1235151301/",
+        "timestamp": 1642000625,
+        "sentiment": 2,
+        "published": "January 12, 2022 3:17 PM"
+    },
+    {
+        "title": "Prince Andrew to face civil sex assault case after US ruling",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-59871514",
+        "timestamp": 1642001246,
+        "sentiment": -3,
+        "published": "January 12, 2022 3:27 PM"
+    },
+    {
+        "title": "Inflation is still surging and some Democrats see one culprit: Greedy companies",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/12/1072295047/inflation-is-still-surging-and-some-democrats-see-one-culprit-greedy-companies?sc=18&f=1072295047&",
+        "timestamp": 1642001861,
+        "sentiment": 3,
+        "published": "January 12, 2022 3:37 PM"
+    },
+    {
+        "title": "On the phone with the real world, Trump hangs up | The eternal lure of reasoning with the irrational",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/01/12/trump-inskeep-interview/",
+        "timestamp": 1642002015,
+        "sentiment": 3,
+        "published": "January 12, 2022 3:40 PM"
+    },
+    {
+        "title": "Kim Kardashian and Floyd Mayweather sued by investors over alleged crypto scam",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/12/kim-kardashian-and-floyd-mayweather-sued-over-alleged-crypto-scam.html",
+        "timestamp": 1642002241,
+        "sentiment": -2,
+        "published": "January 12, 2022 3:44 PM"
+    },
+    {
+        "title": "The Legend of Vox Machina - Red Band Trailer | Prime Video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=JvwxQSc-3os",
+        "timestamp": 1642003340,
+        "sentiment": 2,
+        "published": "January 12, 2022 4:02 PM"
+    },
+    {
+        "title": "There’s a growing push in Congress to limit lawmakers’ ability to trade stocks",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2022/01/12/theres-a-growing-push-in-congress-to-limit-lawmakers-ability-to-trade-stocks.html",
+        "timestamp": 1642005805,
+        "sentiment": 3,
+        "published": "January 12, 2022 4:43 PM"
+    },
+    {
+        "title": "Matt Gaetz's ex-girlfriend testifies to grand jury in sex trafficking probe",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/justice-department/matt-gaetz-s-ex-girlfriend-testifies-grand-jury-sex-trafficking-n1287352",
+        "timestamp": 1642008182,
+        "sentiment": 3,
+        "published": "January 12, 2022 5:23 PM"
+    },
+    {
+        "title": "CDC forecast predicts more than 62,000 Covid-19 deaths in the US in the next four weeks",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/world/live-news/omicron-variant-coronavirus-news-01-12-22/h_79fdb874ccd3ad30c7006185bb70f1ea",
+        "timestamp": 1642008631,
+        "sentiment": -2,
+        "published": "January 12, 2022 5:30 PM"
+    },
+    {
+        "title": "Marjorie Taylor Greene suggests using “Second Amendment rights” against Democrats MTG still wants a '' national divorce '' . Democrats respond : Come out for civil war and \" declare yourself a traitor \" .",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/12/marjorie-taylor-greene-suggests-using-second-amendment-rights-against-democrats/",
+        "timestamp": 1642012318,
+        "sentiment": 3,
+        "published": "January 12, 2022 6:31 PM"
+    },
+    {
+        "title": "Progressives to Clinton, Other Centrists: 'Back Off' on Election Advice - \"When conservative Democrats have repeatedly ripped apart the president's agenda while progressives fight to save it, it's frankly bizarre to watch the media conversation focus on the risks of 'going too far left.'\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/12/progressives-clinton-other-centrists-back-election-advice",
+        "timestamp": 1642014088,
+        "sentiment": 3,
+        "published": "January 12, 2022 7:01 PM"
+    },
+    {
+        "title": "‘Only Murders In The Building’: Martin Short Teases Season 2 Roles For Shirley MacLaine & Amy Schumer As He Lands First SAG Award Nom",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/only-murders-in-the-building-martin-short-teases-season-2-castings-1234909233/",
+        "timestamp": 1642014383,
+        "sentiment": 2,
+        "published": "January 12, 2022 7:06 PM"
+    },
+    {
+        "title": "Ground Temperatures Hit 129 Degrees as Argentina Suffers Blackouts",
+        "domain": "gizmodo.com",
+        "category": "worldnews",
+        "link": "https://gizmodo.com/ground-temperatures-hit-129-degrees-as-argentina-suffer-1848345544",
+        "timestamp": 1642015628,
+        "sentiment": -3,
+        "published": "January 12, 2022 7:27 PM"
+    },
+    {
+        "title": "Black youth in Miss. make up nearly 85% of all youth prison admissions, report says",
+        "domain": "wlbt.com",
+        "category": "news",
+        "link": "https://www.wlbt.com/app/2022/01/12/report-excessive-juvenile-incarceration-hurts-children-wastes-taxpayer-money/",
+        "timestamp": 1642015870,
+        "sentiment": -2,
+        "published": "January 12, 2022 7:31 PM"
+    },
+    {
+        "title": "Feds offer no plea deals to 3 former cops charged with violating George Floyd's rights",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/feds-offer-plea-deals-cops-charged-violating-george/story?id=82221061",
+        "timestamp": 1642016363,
+        "sentiment": -2,
+        "published": "January 12, 2022 7:39 PM"
+    },
+    {
+        "title": "Bob Saget was 'tucked in bed' and died in sleep without suffering, suffered 'heart attack or stroke'",
+        "domain": "dailymail.co.uk",
+        "category": "television",
+        "link": "https://www.dailymail.co.uk/tvshowbiz/article-10394771/Bob-Saget-tucked-bed-died-sleep-without-suffering-suffered-heart-attack-stroke.html",
+        "timestamp": 1642018386,
+        "sentiment": 2,
+        "published": "January 12, 2022 8:13 PM"
+    },
+    {
+        "title": "German police under fire for misuse of COVID contact tracing app: German police used a contact tracing app to track down witnesses in a local crime case. The scandal has data protection advocates up in arms, with politicians warning that abuse of the app could undermine public trust",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/german-police-under-fire-for-misuse-of-covid-contact-tracing-app/a-60393597",
+        "timestamp": 1641948272,
         "sentiment": -2,
         "published": "January 12, 2022 12:44 AM"
     },
