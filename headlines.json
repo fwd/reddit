@@ -14,6 +14,312 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/01/11/supreme-court-justice-neil-gorsuch-has-no-mask-despite-covid-spike.html",
         "timestamp": 1641951111,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:31 AM"
+    },
+    {
+        "title": "Will Forte Is Still Waiting for ‘MacGruber’ to Blow Up",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2021/12/08/arts/television/will-forte-macgruber.html",
+        "timestamp": 1641953031,
+        "sentiment": 0,
+        "published": "January 12, 2022 2:03 AM"
+    },
+    {
+        "title": "Bank of America reducing overdraft fees from $35 to $10, eliminating insufficient funds fees",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/amp/bank-of-america-overdraft-fees-insufficient-funds-bofa-account/11455896/",
+        "timestamp": 1641962991,
+        "sentiment": -2,
+        "published": "January 12, 2022 4:49 AM"
+    },
+    {
+        "title": "Marjorie Taylor Greene suggests \"Second Amendment rights\" should be used against Democrats",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/marjorie-taylor-greene-suggests-second-amendment-rights-should-used-against-democrats-1668286",
+        "timestamp": 1641964213,
+        "sentiment": -5,
+        "published": "January 12, 2022 5:10 AM"
+    },
+    {
+        "title": "Novak Djokovic admits breaking isolation while Covid positive",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-australia-59935127",
+        "timestamp": 1641967384,
+        "sentiment": 0,
+        "published": "January 12, 2022 6:03 AM"
+    },
+    {
+        "title": "France moves to ban incest for the first time since 1791",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10392785/France-moves-ban-incest-time-1791-series-scandals.html",
+        "timestamp": 1641969587,
+        "sentiment": 0,
+        "published": "January 12, 2022 6:39 AM"
+    },
+    {
+        "title": "YouTube is major conduit of fake news, factcheckers say",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jan/12/youtube-is-major-conduit-of-fake-news-factcheckers-say",
+        "timestamp": 1641976061,
+        "sentiment": -2,
+        "published": "January 12, 2022 8:27 AM"
+    },
+    {
+        "title": "Lawsuit Against Netflix Over ’13 Reasons Why’ Suicide Scene Dismissed",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/netflix-lawsuit-13-reasons-why-suicide-scene-dismissed-1235073625/",
+        "timestamp": 1641979228,
+        "sentiment": 0,
+        "published": "January 12, 2022 9:20 AM"
+    },
+    {
+        "title": "Pressed on his election lies, former President Trump cuts NPR interview short",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/12/1072204478/donald-trump-npr-interview-presidential-election-lies-vaccines",
+        "timestamp": 1641982982,
+        "sentiment": -5,
+        "published": "January 12, 2022 10:23 AM"
+    },
+    {
+        "title": "West Virginia governor feels 'extremely unwell' after testing positive for Covid-19 and cancels state legislature address",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/12/us/west-virginia-governor-jim-justice-covid-positive/index.html",
+        "timestamp": 1641988546,
+        "sentiment": -2,
+        "published": "January 12, 2022 11:55 AM"
+    },
+    {
+        "title": "Trump hangs up on NPR interviewer when pressed about non-existent election ‘fraud’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-npr-interview-fraud-capitol-b1991444.html",
+        "timestamp": 1641989119,
+        "sentiment": -5,
+        "published": "January 12, 2022 12:05 PM"
+    },
+    {
+        "title": "Miners press Manchin to choose between them and the coal bosses",
+        "domain": "peoplesworld.org",
+        "category": "politics",
+        "link": "https://peoplesworld.org/article/miners-press-manchin-to-choose-between-them-and-the-coal-bosses/",
+        "timestamp": 1641990367,
+        "sentiment": -5,
+        "published": "January 12, 2022 12:26 PM"
+    },
+    {
+        "title": "Prime Minister Boris Johnson admits he attended No.10 'BYOB' garden party during the height of the first lockdown, as Labour Leader Keir Starmer demands his resignation",
+        "domain": "huffingtonpost.co.uk",
+        "category": "worldnews",
+        "link": "https://www.huffingtonpost.co.uk/entry/boris-johnson-admits-no10-byob-garden-party_uk_61deaea8e4b04e9d84de29d0",
+        "timestamp": 1641990454,
+        "sentiment": 0,
+        "published": "January 12, 2022 12:27 PM"
+    },
+    {
+        "title": "Nancy Pelosi supports lawmakers trading stocks if they properly report the transactions. But 3 more members of Congress failed to meet that low standard.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/stock-act-congress-violations-pelosi-mccarthy-fallon-burgess-evans-2022-1",
+        "timestamp": 1641991382,
+        "sentiment": -5,
+        "published": "January 12, 2022 12:43 PM"
+    },
+    {
+        "title": "A conspiracy theorist who Trump put on a US body overseeing Holocaust monuments is still there more than a year after calls for Biden to fire him",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/conspiracist-trump-ally-beattie-keeps-federal-job-year-2022-1",
+        "timestamp": 1641991661,
+        "sentiment": -5,
+        "published": "January 12, 2022 12:47 PM"
+    },
+    {
+        "title": "The highly contagious Omicron variant will 'find just about everybody,' Fauci says, but vaccinated people will still fare better",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/11/health/us-coronavirus-tuesday/index.html",
+        "timestamp": 1641991995,
+        "sentiment": -2,
+        "published": "January 12, 2022 12:53 PM"
+    },
+    {
+        "title": "In Guatemala, Ex-Paramilitaries Face Trial for Wartime Rape of Indigenous Women",
+        "domain": "nacla.org",
+        "category": "news",
+        "link": "https://nacla.org/news/2022/01/11/guatemala-maya-achi-rape",
+        "timestamp": 1641993408,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:16 PM"
+    },
+    {
+        "title": "Inflation rises 7% over the past year to the highest level since 1982",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/12/cpi-december-2021-.html",
+        "timestamp": 1641994500,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:35 PM"
+    },
+    {
+        "title": "Japan calls for stricter COVID-19 measures for U.S. military personnel",
+        "domain": "globalvoices.org",
+        "category": "news",
+        "link": "https://globalvoices.org/2022/01/08/japan-calls-for-stricter-covid-19-measures-for-u-s-military-personnel/",
+        "timestamp": 1641995052,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:44 PM"
+    },
+    {
+        "title": "Study Finds Cannabis Compounds Prevent Infection By Covid-19 Virus",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/ajherrington/2022/01/11/study-finds-cannabis-compounds-prevent-infection-by-covid-19-virus/?sh=55966e251753",
+        "timestamp": 1641995161,
+        "sentiment": 0,
+        "published": "January 12, 2022 1:46 PM"
+    },
+    {
+        "title": "Trump Can’t Take the Heat, Hangs Up on NPR When Host Pushes Back on His Election Lies",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-hangs-up-on-npr-1283158/",
+        "timestamp": 1641995994,
+        "sentiment": -5,
+        "published": "January 12, 2022 1:59 PM"
+    },
+    {
+        "title": "Majority of Canadians support stiff healthcare fines for unvaccinated: poll",
+        "domain": "toronto.citynews.ca",
+        "category": "worldnews",
+        "link": "https://toronto.citynews.ca/2022/01/12/canada-poll-unvaccinated-fines/",
+        "timestamp": 1641997844,
+        "sentiment": 0,
+        "published": "January 12, 2022 2:30 PM"
+    },
+    {
+        "title": "U.S. judge rejects Prince Andrew's bid to dismiss sex abuse accuser's lawsuit",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/us-judge-rejects-prince-andrews-bid-dismiss-sex-abuse-accusers-lawsuit-2022-01-12/",
+        "timestamp": 1641997917,
+        "sentiment": -2,
+        "published": "January 12, 2022 2:31 PM"
+    },
+    {
+        "title": "Station Eleven Has Pulled Off the Miracle of Grounded Apocalyptic Drama",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hbo-max/station-eleven-apocalypse-drama-answers/",
+        "timestamp": 1641998610,
+        "sentiment": 0,
+        "published": "January 12, 2022 2:43 PM"
+    },
+    {
+        "title": "U.S., NATO reject Russia’s demand to exclude Ukraine from alliance",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8496323/us-nato-ukraine-russia-meeting/",
+        "timestamp": 1641998979,
+        "sentiment": 0,
+        "published": "January 12, 2022 2:49 PM"
+    },
+    {
+        "title": "Britain's High Court ruled Wednesday that the government acted unlawfully when it used a so-called “VIP lane” to award millions of pounds' worth of contracts to suppliers of personal protective equipment who had connections to lawmakers and senior officials.",
+        "domain": "thinkpol.ca",
+        "category": "worldnews",
+        "link": "https://thinkpol.ca/2022/01/12/uk-court-government-vip-lane-for-covid-contracts-unlawful/",
+        "timestamp": 1642000364,
+        "sentiment": 0,
+        "published": "January 12, 2022 3:12 PM"
+    },
+    {
+        "title": "‘Squid Game’ Makes SAG Awards History: First Foreign-Language TV Nominee",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/squid-game-sag-awards-korean-nominee-1235151301/",
+        "timestamp": 1642000625,
+        "sentiment": 0,
+        "published": "January 12, 2022 3:17 PM"
+    },
+    {
+        "title": "Prince Andrew to face civil sex assault case after US ruling",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-59871514",
+        "timestamp": 1642001246,
+        "sentiment": 0,
+        "published": "January 12, 2022 3:27 PM"
+    },
+    {
+        "title": "Inflation is still surging and some Democrats see one culprit: Greedy companies",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/12/1072295047/inflation-is-still-surging-and-some-democrats-see-one-culprit-greedy-companies?sc=18&f=1072295047&",
+        "timestamp": 1642001861,
+        "sentiment": -5,
+        "published": "January 12, 2022 3:37 PM"
+    },
+    {
+        "title": "On the phone with the real world, Trump hangs up | The eternal lure of reasoning with the irrational",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/01/12/trump-inskeep-interview/",
+        "timestamp": 1642002015,
+        "sentiment": -5,
+        "published": "January 12, 2022 3:40 PM"
+    },
+    {
+        "title": "Kim Kardashian and Floyd Mayweather sued by investors over alleged crypto scam",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/12/kim-kardashian-and-floyd-mayweather-sued-over-alleged-crypto-scam.html",
+        "timestamp": 1642002241,
+        "sentiment": -2,
+        "published": "January 12, 2022 3:44 PM"
+    },
+    {
+        "title": "The Legend of Vox Machina - Red Band Trailer | Prime Video",
+        "domain": "youtube.com",
+        "category": "television",
+        "link": "https://www.youtube.com/watch?v=JvwxQSc-3os",
+        "timestamp": 1642003340,
+        "sentiment": 0,
+        "published": "January 12, 2022 4:02 PM"
+    },
+    {
+        "title": "Matt Gaetz's ex-girlfriend testifies to grand jury in sex trafficking probe",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/justice-department/matt-gaetz-s-ex-girlfriend-testifies-grand-jury-sex-trafficking-n1287352",
+        "timestamp": 1642008182,
+        "sentiment": -5,
+        "published": "January 12, 2022 5:23 PM"
+    },
+    {
+        "title": "German police under fire for misuse of COVID contact tracing app: German police used a contact tracing app to track down witnesses in a local crime case. The scandal has data protection advocates up in arms, with politicians warning that abuse of the app could undermine public trust",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/german-police-under-fire-for-misuse-of-covid-contact-tracing-app/a-60393597",
+        "timestamp": 1641948272,
+        "sentiment": 0,
+        "published": "January 12, 2022 12:44 AM"
+    },
+    {
+        "title": "Supreme Court Justice Neil Gorsuch again doesn't wear mask on bench, Sotomayor and Breyer log in remotely",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/11/supreme-court-justice-neil-gorsuch-has-no-mask-despite-covid-spike.html",
+        "timestamp": 1641951111,
         "sentiment": 0,
         "published": "January 12, 2022 1:31 AM"
     },
