@@ -5,6 +5,33 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/neo-nazi-leader-sentenced-7-years-plot-intimidate-jews-journalists-rcna11837",
         "timestamp": 1641946446,
+        "sentiment": -2,
+        "published": "January 12, 2022 12:14 AM"
+    },
+    {
+        "title": "German police under fire for misuse of COVID contact tracing app: German police used a contact tracing app to track down witnesses in a local crime case. The scandal has data protection advocates up in arms, with politicians warning that abuse of the app could undermine public trust",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/german-police-under-fire-for-misuse-of-covid-contact-tracing-app/a-60393597",
+        "timestamp": 1641948272,
+        "sentiment": 0,
+        "published": "January 12, 2022 12:44 AM"
+    },
+    {
+        "title": "Supreme Court Justice Neil Gorsuch again doesn't wear mask on bench, Sotomayor and Breyer log in remotely",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/11/supreme-court-justice-neil-gorsuch-has-no-mask-despite-covid-spike.html",
+        "timestamp": 1641951111,
+        "sentiment": -2,
+        "published": "January 12, 2022 1:31 AM"
+    },
+    {
+        "title": "Neo-Nazi leader sentenced to 7 years for plot to intimidate Jews, journalists",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/neo-nazi-leader-sentenced-7-years-plot-intimidate-jews-journalists-rcna11837",
+        "timestamp": 1641946446,
         "sentiment": -4,
         "published": "January 12, 2022 12:14 AM"
     },
