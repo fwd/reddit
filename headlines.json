@@ -5,6 +5,69 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/quebec-says-tax-those-remain-041648209.html",
         "timestamp": 1642033321,
+        "sentiment": -3,
+        "published": "January 13, 2022 12:22 AM"
+    },
+    {
+        "title": "Texas school district asks parents to become substitute teachers amid COVID surge",
+        "domain": "fox7austin.com",
+        "category": "news",
+        "link": "https://www.fox7austin.com/news/texas-school-district-asks-parents-to-become-substitute-teachers-amid-covid-surge",
+        "timestamp": 1642034249,
+        "sentiment": -2,
+        "published": "January 13, 2022 12:37 AM"
+    },
+    {
+        "title": "Quebec judge suspends unvaccinated father's visitation rights with child",
+        "domain": "montreal.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://montreal.ctvnews.ca/it-sets-a-certain-precedent-quebec-judge-suspends-unvaccinated-father-s-visitation-rights-with-child-1.5737271",
+        "timestamp": 1642037131,
+        "sentiment": -3,
+        "published": "January 13, 2022 1:25 AM"
+    },
+    {
+        "title": "Official: Police used fake DNA reports during interrogations.",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/science-crime-police-virginia-forensics-310f0717caeae7a2dc76404f77845f18?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter",
+        "timestamp": 1642037146,
+        "sentiment": -2,
+        "published": "January 13, 2022 1:25 AM"
+    },
+    {
+        "title": "Italy: Enough Signatures Collected to Put Marijuana and Magic Mushrooms Initiative to a Vote",
+        "domain": "themarijuanaherald.com",
+        "category": "worldnews",
+        "link": "https://themarijuanaherald.com/2022/01/italy-enough-signatures-collected-to-put-marijuana-and-magic-mushrooms-initiative-to-a-vote/",
+        "timestamp": 1642037809,
+        "sentiment": -3,
+        "published": "January 13, 2022 1:36 AM"
+    },
+    {
+        "title": "Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules | Meta",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules",
+        "timestamp": 1642038528,
+        "sentiment": -2,
+        "published": "January 13, 2022 1:48 AM"
+    },
+    {
+        "title": "James Gunn on ‘Peacemaker’ and the Influence of ‘Better Call Saul’",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/peacemaker-james-gunn-tv-series-guardianas-3-1235074249/",
+        "timestamp": 1642041796,
+        "sentiment": 1,
+        "published": "January 13, 2022 2:43 AM"
+    },
+    {
+        "title": "Quebec says it will tax those who remain unvaccinated against COVID-19 without a medical reason",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/quebec-says-tax-those-remain-041648209.html",
+        "timestamp": 1642033321,
         "sentiment": 0,
         "published": "January 13, 2022 12:22 AM"
     },
