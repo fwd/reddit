@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
         "timestamp": 1642292805,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 16, 2022 12:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14512322",
         "timestamp": 1642294915,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 1:01 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -61,6 +61,33 @@
         "timestamp": 1642297890,
         "sentiment": 0,
         "published": "January 16, 2022 1:51 AM"
+    },
+    {
+        "title": "VIDEO: Police Officer Kills Dog in Miami-Dade After Barking Complaint",
+        "domain": "nbcmiami.com",
+        "category": "news",
+        "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
+        "timestamp": 1642298856,
+        "sentiment": 1,
+        "published": "January 16, 2022 2:07 AM"
+    },
+    {
+        "title": "City of Beijing reports first local Omicron case",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14523010",
+        "timestamp": 1642299199,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:13 AM"
+    },
+    {
+        "title": "Steve Bannon claims Trump rally will prompt Arizona to decertify Biden's 2020 election victory. The vote cannot be decertified in any way.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
+        "timestamp": 1642302716,
+        "sentiment": -4,
+        "published": "January 16, 2022 3:11 AM"
     },
     {
         "title": "Woman runs onto Phoenix tarmac to stop plane she missed",
