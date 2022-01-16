@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -36,21 +36,12 @@
         "published": "January 16, 2022 1:20 AM"
     },
     {
-        "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/book-of-boba-fett-danny-trejo-rancor-machete-set-image/",
-        "timestamp": 1642297890,
-        "sentiment": 0,
-        "published": "January 16, 2022 1:51 AM"
-    },
-    {
         "title": "VIDEO: Police Officer Kills Dog in Miami-Dade After Barking Complaint",
         "domain": "nbcmiami.com",
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -70,24 +61,6 @@
         "timestamp": 1642304455,
         "sentiment": 0,
         "published": "January 16, 2022 3:40 AM"
-    },
-    {
-        "title": "All hostages released from Colleyville synagogue, Texas governor says",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
-        "timestamp": 1642305482,
-        "sentiment": -5,
-        "published": "January 16, 2022 3:58 AM"
-    },
-    {
-        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/news/amp/rcna11645",
-        "timestamp": 1642307902,
-        "sentiment": -1,
-        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
@@ -113,7 +86,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
         "timestamp": 1642310217,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 5:16 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.insider.com/old-video-resurfaces-rand-paul-telling-students-misinformation-great-tactic-2022-1",
         "timestamp": 1642311708,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 5:41 AM"
     },
     {
@@ -144,12 +117,21 @@
         "published": "January 16, 2022 6:55 AM"
     },
     {
+        "title": "Republicans Won't Be Elected If Democrats Pass Voting Bill: Trump",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-republicans-elected-democrats-voting-rights-bill-passes-2022-1",
+        "timestamp": 1642316804,
+        "sentiment": 0,
+        "published": "January 16, 2022 7:06 AM"
+    },
+    {
         "title": "Panic as Kosovo pulls the plug on its energy-guzzling bitcoin miners",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners",
         "timestamp": 1642326135,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 9:42 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
         "timestamp": 1642330638,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 10:57 AM"
     },
     {
@@ -185,8 +167,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
         "timestamp": 1642334553,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 12:02 PM"
+    },
+    {
+        "title": "Doctor Who animations of lost episodes 'cancelled'",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/sci-fi/doctor-who-animated-episodes-cancelled-newsupdate/",
+        "timestamp": 1642335319,
+        "sentiment": 0,
+        "published": "January 16, 2022 12:15 PM"
     },
     {
         "title": "Ukraine says evidence points to Russia being behind cyber-attack",
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/16/sinema-defends-filibuster-progressives-say-vote-her-hell-out",
         "timestamp": 1642340029,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 1:33 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "news",
         "link": "https://www.nbcconnecticut.com/news/local/13-year-old-student-dies-of-fentanyl-related-overdose-at-hartford-school-pd/2691695/",
         "timestamp": 1642341953,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 2:05 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-senator-dubbed-moron-by-fauci-introducing-fauci-act-2022-1?fbclid=IwAR3jt9kGyOyUYKnzsqGXu67uzbKYcPblqWkT7P9tQHfwYWJwtTagHgVBFQQ",
         "timestamp": 1642342057,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 2:07 PM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-business-religion-north-carolina-4e4bfc4ff1092571524bc460f5ed3a16",
         "timestamp": 1642343842,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 16, 2022 2:37 PM"
     },
     {
@@ -259,6 +250,33 @@
         "timestamp": 1642344540,
         "sentiment": 0,
         "published": "January 16, 2022 2:49 PM"
+    },
+    {
+        "title": "Experts warn of an impending genocide of Muslims in India",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2022/1/16/expert-warns-of-possible-genocide-against-muslims-in-india",
+        "timestamp": 1642344996,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:56 PM"
+    },
+    {
+        "title": "Judge rules absentee ballot drop boxes not allowed under Wisconsin law",
+        "domain": "wpr.org",
+        "category": "politics",
+        "link": "https://www.wpr.org/judge-rules-absentee-ballot-drop-boxes-not-allowed-under-wisconsin-law",
+        "timestamp": 1642346848,
+        "sentiment": 0,
+        "published": "January 16, 2022 3:27 PM"
+    },
+    {
+        "title": "Texas synagogue siege: hostage-taker shot dead by FBI believed to be British",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/16/texas-synagogue-siege-hostage-taker-shot-dead-by-fbi-believed-to-be-british",
+        "timestamp": 1642347279,
+        "sentiment": 0,
+        "published": "January 16, 2022 3:34 PM"
     },
     {
         "title": "Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion",
@@ -277,6 +295,42 @@
         "timestamp": 1642348162,
         "sentiment": 0,
         "published": "January 16, 2022 3:49 PM"
+    },
+    {
+        "title": "Obamacare is proving popular in red states that didn't expand Medicaid",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/13/politics/obamacare-aca-red-states-medicaid/",
+        "timestamp": 1642350080,
+        "sentiment": 0,
+        "published": "January 16, 2022 4:21 PM"
+    },
+    {
+        "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/book-of-boba-fett-danny-trejo-rancor-machete-set-image/",
+        "timestamp": 1642297890,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:51 AM"
+    },
+    {
+        "title": "All hostages released from Colleyville synagogue, Texas governor says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
+        "timestamp": 1642305482,
+        "sentiment": -5,
+        "published": "January 16, 2022 3:58 AM"
+    },
+    {
+        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/amp/rcna11645",
+        "timestamp": 1642307902,
+        "sentiment": -1,
+        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Japan to tighten rules on pedophile teachers seeking reinstatement",
