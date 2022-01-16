@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
         "timestamp": 1642292805,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 12:26 AM"
     },
     {
@@ -14,8 +14,35 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 12:43 AM"
+    },
+    {
+        "title": "Florida gay rights activist found dead in landfill",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
+        "timestamp": 1642294348,
+        "sentiment": 0,
+        "published": "January 16, 2022 12:52 AM"
+    },
+    {
+        "title": "Japan to tighten rules on pedophile teachers seeking reinstatement",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14512322",
+        "timestamp": 1642294915,
+        "sentiment": -2,
+        "published": "January 16, 2022 1:01 AM"
+    },
+    {
+        "title": "Nurses across the U.S. strike against COVID working conditions",
+        "domain": "axios.com",
+        "category": "news",
+        "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1642294968,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:02 AM"
     },
     {
         "title": "Jimmy Carr Quiz Show \"I Literally Just Told You\" Renewed for Series 2 at Channel 4",
@@ -25,6 +52,15 @@
         "timestamp": 1642296009,
         "sentiment": 0,
         "published": "January 16, 2022 1:20 AM"
+    },
+    {
+        "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/book-of-boba-fett-danny-trejo-rancor-machete-set-image/",
+        "timestamp": 1642297890,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:51 AM"
     },
     {
         "title": "Woman runs onto Phoenix tarmac to stop plane she missed",
