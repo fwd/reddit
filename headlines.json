@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14512322",
         "timestamp": 1642294915,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 1:01 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14523010",
         "timestamp": 1642299199,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 2:13 AM"
     },
     {
@@ -86,8 +86,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
         "timestamp": 1642302716,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 3:11 AM"
+    },
+    {
+        "title": "DirecTV loss could cripple rightwing One America News",
+        "domain": "reuters.com",
+        "category": "television",
+        "link": "https://www.reuters.com/business/media-telecom/directv-loss-could-cripple-rightwing-one-america-news-2022-01-15/",
+        "timestamp": 1642309545,
+        "sentiment": 0,
+        "published": "January 16, 2022 5:05 AM"
     },
     {
         "title": "Woman runs onto Phoenix tarmac to stop plane she missed",
