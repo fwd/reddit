@@ -50,17 +50,8 @@
         "category": "television",
         "link": "https://www.tvzoneuk.com/post/c4literally-s2report",
         "timestamp": 1642296009,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 1:20 AM"
-    },
-    {
-        "title": "Sinema speech turbocharges primary challenge buzz",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
-        "timestamp": 1642296510,
-        "sentiment": -1,
-        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
@@ -68,7 +59,7 @@
         "category": "television",
         "link": "https://collider.com/book-of-boba-fett-danny-trejo-rancor-machete-set-image/",
         "timestamp": 1642297890,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 1:51 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
         "timestamp": 1642302716,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 16, 2022 3:11 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "television",
         "link": "https://www.koreatimes.co.kr/www/art/2022/01/688_322185.html?tw",
         "timestamp": 1642309053,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 4:57 AM"
     },
     {
@@ -149,8 +140,17 @@
         "category": "television",
         "link": "https://ew.com/tv/will-forte-snl-host-musical-guest-maneskin/",
         "timestamp": 1642309449,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 5:04 AM"
+    },
+    {
+        "title": "Glenn Youngkin Ends School Mask Mandates, Vaccines For State Workers After He's Sworn In As Virginia Governor. Youngkin quickly signed 11 executive orders, including dropping vaccine requirements for state workers and barring the teaching of critical race theory.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
+        "timestamp": 1642310217,
+        "sentiment": 0,
+        "published": "January 16, 2022 5:16 AM"
     },
     {
         "title": "Will Dexter: New Blood Season 2 Ever Happen? Regardless of what some fans and critics thought about Showtime’s Dexter revival, Dexter: New Blood has officially become the network’s most-watched series of all time",
@@ -158,7 +158,7 @@
         "category": "television",
         "link": "https://www.denofgeek.com/tv/dexter-new-blood-season-2-news/",
         "timestamp": 1642314897,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 6:34 AM"
     },
     {
@@ -169,6 +169,24 @@
         "timestamp": 1642316112,
         "sentiment": 0,
         "published": "January 16, 2022 6:55 AM"
+    },
+    {
+        "title": "Novak Djokovic loses Australian visa appeal",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-australia-60014059",
+        "timestamp": 1642316706,
+        "sentiment": 0,
+        "published": "January 16, 2022 7:05 AM"
+    },
+    {
+        "title": "Sinema speech turbocharges primary challenge buzz",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
+        "timestamp": 1642296510,
+        "sentiment": -1,
+        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "DirecTV loss could cripple rightwing One America News",
