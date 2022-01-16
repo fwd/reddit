@@ -45,15 +45,6 @@
         "published": "January 16, 2022 1:20 AM"
     },
     {
-        "title": "Sinema speech turbocharges primary challenge buzz",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
-        "timestamp": 1642296510,
-        "sentiment": -1,
-        "published": "January 16, 2022 1:28 AM"
-    },
-    {
         "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
         "domain": "collider.com",
         "category": "television",
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/news/amp/rcna11645",
         "timestamp": 1642307902,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 16, 2022 4:38 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
         "timestamp": 1642310217,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 16, 2022 5:16 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "politics",
         "link": "https://www.insider.com/old-video-resurfaces-rand-paul-telling-students-misinformation-great-tactic-2022-1",
         "timestamp": 1642311708,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 16, 2022 5:41 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
         "timestamp": 1642330638,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 16, 2022 10:57 AM"
     },
     {
@@ -214,6 +205,51 @@
         "timestamp": 1642332598,
         "sentiment": -1,
         "published": "January 16, 2022 11:29 AM"
+    },
+    {
+        "title": "Poor People's Campaign Readies 'Massive, Nonviolent' Effort to Save Democracy",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
+        "timestamp": 1642334553,
+        "sentiment": -4,
+        "published": "January 16, 2022 12:02 PM"
+    },
+    {
+        "title": "Ricky Gervais says the success of ‘After Life’ proves that no topic in comedy should be off limits",
+        "domain": "en.brinkwire.com",
+        "category": "television",
+        "link": "https://en.brinkwire.com/entertainment/according-to-ricky-gervais-the-success-of-after-life-proves-that-no-topic-in-comedy-should-be-off-limits/",
+        "timestamp": 1642339852,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:30 PM"
+    },
+    {
+        "title": "As Sinema Defends Filibuster, Progressives Say 'Vote Her the Hell Out'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/16/sinema-defends-filibuster-progressives-say-vote-her-hell-out",
+        "timestamp": 1642340029,
+        "sentiment": -4,
+        "published": "January 16, 2022 1:33 PM"
+    },
+    {
+        "title": "DOJ raises stakes with rarely used sedition charges for Oath Keepers",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/589831-justice-department-faces-challenges-with-oathkeepers-case",
+        "timestamp": 1642342212,
+        "sentiment": -4,
+        "published": "January 16, 2022 2:10 PM"
+    },
+    {
+        "title": "Sinema speech turbocharges primary challenge buzz",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
+        "timestamp": 1642296510,
+        "sentiment": -1,
+        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "Steve Bannon claims Trump rally will prompt Arizona to decertify Biden's 2020 election victory. The vote cannot be decertified in any way.",
