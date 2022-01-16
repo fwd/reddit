@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
         "timestamp": 1642305482,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 3:58 AM"
     },
     {
@@ -178,6 +178,15 @@
         "timestamp": 1642329065,
         "sentiment": 0,
         "published": "January 16, 2022 10:31 AM"
+    },
+    {
+        "title": "BBC licence fee to be abolished in 2027 and funding frozen | BBC",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen",
+        "timestamp": 1642332598,
+        "sentiment": 0,
+        "published": "January 16, 2022 11:29 AM"
     },
     {
         "title": "Asian woman pushed to her death in front of oncoming train in NYC",
