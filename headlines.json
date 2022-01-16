@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 12:52 AM"
-    },
-    {
-        "title": "Japan to tighten rules on pedophile teachers seeking reinstatement",
-        "domain": "asahi.com",
-        "category": "worldnews",
-        "link": "https://www.asahi.com/ajw/articles/14512322",
-        "timestamp": 1642294915,
-        "sentiment": 0,
-        "published": "January 16, 2022 1:01 AM"
     },
     {
         "title": "Nurses across the U.S. strike against COVID working conditions",
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -59,17 +50,8 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 2:07 AM"
-    },
-    {
-        "title": "City of Beijing reports first local Omicron case",
-        "domain": "asahi.com",
-        "category": "worldnews",
-        "link": "https://www.asahi.com/ajw/articles/14523010",
-        "timestamp": 1642299199,
-        "sentiment": 0,
-        "published": "January 16, 2022 2:13 AM"
     },
     {
         "title": "U.S. CDC urges Americans to wear 'most protective mask you can'",
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
         "timestamp": 1642305482,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 3:58 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/news/amp/rcna11645",
         "timestamp": 1642307902,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 4:38 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
         "timestamp": 1642310217,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 5:16 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.insider.com/old-video-resurfaces-rand-paul-telling-students-misinformation-great-tactic-2022-1",
         "timestamp": 1642311708,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 5:41 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners",
         "timestamp": 1642326135,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 16, 2022 9:42 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
         "timestamp": 1642330638,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 10:57 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
         "timestamp": 1642334553,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 12:02 PM"
     },
     {
@@ -230,8 +212,89 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/16/sinema-defends-filibuster-progressives-say-vote-her-hell-out",
         "timestamp": 1642340029,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 1:33 PM"
+    },
+    {
+        "title": "13-Year-Old Student Dies of Fentanyl-Related Overdose at Hartford School: PD",
+        "domain": "nbcconnecticut.com",
+        "category": "news",
+        "link": "https://www.nbcconnecticut.com/news/local/13-year-old-student-dies-of-fentanyl-related-overdose-at-hartford-school-pd/2691695/",
+        "timestamp": 1642341953,
+        "sentiment": -5,
+        "published": "January 16, 2022 2:05 PM"
+    },
+    {
+        "title": "GOP Senator Dubbed a 'Moron' by Dr. Fauci Plans to Introduce FAUCI Act",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-senator-dubbed-moron-by-fauci-introducing-fauci-act-2022-1?fbclid=IwAR3jt9kGyOyUYKnzsqGXu67uzbKYcPblqWkT7P9tQHfwYWJwtTagHgVBFQQ",
+        "timestamp": 1642342057,
+        "sentiment": -1,
+        "published": "January 16, 2022 2:07 PM"
+    },
+    {
+        "title": "Taliban pledge all girls in schools soon",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/afghanistan-education-united-nations-kabul-taliban-c07aefcb90b560bc82b60b17d9623833",
+        "timestamp": 1642343671,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:34 PM"
+    },
+    {
+        "title": "At many churches, pandemic hits collection plates, budgets",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-religion-north-carolina-4e4bfc4ff1092571524bc460f5ed3a16",
+        "timestamp": 1642343842,
+        "sentiment": -5,
+        "published": "January 16, 2022 2:37 PM"
+    },
+    {
+        "title": "'We are fasting as if it's Ramadan': Sri Lanka on the brink of bankruptcy; millions bear the brunt",
+        "domain": "khaleejtimes.com",
+        "category": "worldnews",
+        "link": "https://www.khaleejtimes.com/asia/we-have-had-no-income-sri-lanka-on-the-brink-of-bankruptcy-millions-bear-the-brunt",
+        "timestamp": 1642344540,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:49 PM"
+    },
+    {
+        "title": "Russia Issues Subtle Threats More Far-Reaching Than a Ukraine Invasion",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/16/world/europe/russia-ukraine-invasion.html",
+        "timestamp": 1642347422,
+        "sentiment": 0,
+        "published": "January 16, 2022 3:37 PM"
+    },
+    {
+        "title": "Let Tim Robinson Host the Oscars",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/why-tim-robinson-i-think-you-should-leave-should-host-the-oscars/",
+        "timestamp": 1642348162,
+        "sentiment": 0,
+        "published": "January 16, 2022 3:49 PM"
+    },
+    {
+        "title": "Japan to tighten rules on pedophile teachers seeking reinstatement",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14512322",
+        "timestamp": 1642294915,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:01 AM"
+    },
+    {
+        "title": "City of Beijing reports first local Omicron case",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14523010",
+        "timestamp": 1642299199,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:13 AM"
     },
     {
         "title": "Italian nurse accused of giving fake Covid jabs to anti-vaxxers arrested",
@@ -241,24 +304,6 @@
         "timestamp": 1642340979,
         "sentiment": 0,
         "published": "January 16, 2022 1:49 PM"
-    },
-    {
-        "title": "GOP Senator Dubbed a 'Moron' by Dr. Fauci Plans to Introduce FAUCI Act",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/gop-senator-dubbed-moron-by-fauci-introducing-fauci-act-2022-1?fbclid=IwAR3jt9kGyOyUYKnzsqGXu67uzbKYcPblqWkT7P9tQHfwYWJwtTagHgVBFQQ",
-        "timestamp": 1642342057,
-        "sentiment": 0,
-        "published": "January 16, 2022 2:07 PM"
-    },
-    {
-        "title": "At many churches, pandemic hits collection plates, budgets",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-religion-north-carolina-4e4bfc4ff1092571524bc460f5ed3a16",
-        "timestamp": 1642343842,
-        "sentiment": 0,
-        "published": "January 16, 2022 2:37 PM"
     },
     {
         "title": "FirstEnergy unable to determine how it spent $460 million collected from customers",
