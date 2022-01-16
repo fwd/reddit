@@ -71,9 +71,11 @@ async function scrape() {
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
+		'youtu.be',
+		'youtube.com',
 	]
 
-	data = data.filter(a => !banned.includes(a.domain) && a.domain && !a.domain.includes('self.') && !a.link.includes('/r/'))
+	data = data.filter(a => !banned.includes(a.domain) && a.domain && !a.domain.includes('self.') && !a.link.includes('/r/') && !a.link.includes(a))
 
 	data = _.sortBy(data, function(item) {
 		return new Date(item.timestamp)
@@ -81,8 +83,6 @@ async function scrape() {
 
 	data = data.filter(a => moment.unix(a.timestamp).format('LL') == moment().format('LL'))
 
-	data = _.uniqBy(data, 'title')
-	
 	var dataset = []
 
 	try {
@@ -90,6 +90,8 @@ async function scrape() {
 	} catch (e) {}
 
 	data.map(a => dataset.unshift(a))
+
+	dataset = _.uniqBy(dataset, 'title')
 
 	fs.writeFileSync('./headlines.json', JSON.stringify(dataset, null, 4));
 
