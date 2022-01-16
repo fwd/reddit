@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14512322",
         "timestamp": 1642294915,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 1:01 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -43,6 +43,15 @@
         "timestamp": 1642296009,
         "sentiment": 0,
         "published": "January 16, 2022 1:20 AM"
+    },
+    {
+        "title": "Sinema speech turbocharges primary challenge buzz",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
+        "timestamp": 1642296510,
+        "sentiment": -1,
+        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
@@ -59,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -68,17 +77,17 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14523010",
         "timestamp": 1642299199,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 2:13 AM"
     },
     {
-        "title": "Steve Bannon claims Trump rally will prompt Arizona to decertify Biden's 2020 election victory. The vote cannot be decertified in any way.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
-        "timestamp": 1642302716,
+        "title": "FirstEnergy unable to determine how it spent $460 million collected from customers",
+        "domain": "wfmj.com",
+        "category": "news",
+        "link": "https://www.wfmj.com/story/45657793/firstenergy-unable-to-determine-how-it-spent-dollar460-million-collected-from-customers",
+        "timestamp": 1642303172,
         "sentiment": -2,
-        "published": "January 16, 2022 3:11 AM"
+        "published": "January 16, 2022 3:19 AM"
     },
     {
         "title": "U.S. CDC urges Americans to wear 'most protective mask you can'",
@@ -86,7 +95,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-to-immunise-8-million-children-against-polio-3680882",
         "timestamp": 1642304455,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 3:40 AM"
     },
     {
@@ -104,7 +113,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
         "timestamp": 1642305482,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 3:58 AM"
     },
     {
@@ -113,7 +122,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/news/amp/rcna11645",
         "timestamp": 1642307902,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 16, 2022 4:38 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
         "timestamp": 1642310217,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 16, 2022 5:16 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "politics",
         "link": "https://www.insider.com/old-video-resurfaces-rand-paul-telling-students-misinformation-great-tactic-2022-1",
         "timestamp": 1642311708,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 16, 2022 5:41 AM"
     },
     {
@@ -167,8 +176,17 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-01-16/novak-djokovic-live-updates-visa-cancellation-court-hearing/100758964",
         "timestamp": 1642316112,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 6:55 AM"
+    },
+    {
+        "title": "Panic as Kosovo pulls the plug on its energy-guzzling bitcoin miners",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners",
+        "timestamp": 1642326135,
+        "sentiment": -2,
+        "published": "January 16, 2022 9:42 AM"
     },
     {
         "title": "The unvaccinated are now forbidden to use public transportation in the Philippines starting tomorrow",
@@ -176,8 +194,17 @@
         "category": "worldnews",
         "link": "https://mb.com.ph/2022/01/14/no-vax-no-ride-policy-starts-monday-how-will-this-be-implemented/",
         "timestamp": 1642329065,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 10:31 AM"
+    },
+    {
+        "title": "Trump complains about Democratic push to end filibuster four years after calling for Republicans to do it",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
+        "timestamp": 1642330638,
+        "sentiment": -1,
+        "published": "January 16, 2022 10:57 AM"
     },
     {
         "title": "BBC licence fee to be abolished in 2027 and funding frozen | BBC",
@@ -185,8 +212,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen",
         "timestamp": 1642332598,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 11:29 AM"
+    },
+    {
+        "title": "Steve Bannon claims Trump rally will prompt Arizona to decertify Biden's 2020 election victory. The vote cannot be decertified in any way.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
+        "timestamp": 1642302716,
+        "sentiment": -2,
+        "published": "January 16, 2022 3:11 AM"
     },
     {
         "title": "Asian woman pushed to her death in front of oncoming train in NYC",
@@ -223,15 +259,6 @@
         "timestamp": 1642316706,
         "sentiment": 0,
         "published": "January 16, 2022 7:05 AM"
-    },
-    {
-        "title": "Sinema speech turbocharges primary challenge buzz",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
-        "timestamp": 1642296510,
-        "sentiment": -1,
-        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "DirecTV loss could cripple rightwing One America News",
