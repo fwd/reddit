@@ -1,20 +1,11 @@
 [
     {
-        "title": "Asian woman pushed to her death in front of oncoming train in NYC",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1642292805,
-        "sentiment": -4,
-        "published": "January 16, 2022 12:26 AM"
-    },
-    {
         "title": "A 74-year-old woman spent 27 years in prison for a murder she didn't commit. This week she was exonerated",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -113,17 +104,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
         "timestamp": 1642305482,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 16, 2022 3:58 AM"
     },
     {
-        "title": "Japanese woman gives up baby, sues sperm donor for $3 million after learning he lied",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/news/japanese-woman-gives-baby-sues-184839225.html",
-        "timestamp": 1642307536,
-        "sentiment": 0,
-        "published": "January 16, 2022 4:32 AM"
+        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/amp/rcna11645",
+        "timestamp": 1642307902,
+        "sentiment": -2,
+        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
@@ -153,15 +144,6 @@
         "published": "January 16, 2022 5:16 AM"
     },
     {
-        "title": "NYPD Make Arrest In Connection To The Death Of An Asian Woman Who Was Pushed In Front Of A Train",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/15/us/nypd-make-arrest-connected-to-asian-woman-death-subway/index.html",
-        "timestamp": 1642311215,
-        "sentiment": -4,
-        "published": "January 16, 2022 5:33 AM"
-    },
-    {
         "title": "An old video has surfaced of Sen. Rand Paul telling students that spreading misinformation is a 'great tactic'",
         "domain": "insider.com",
         "category": "politics",
@@ -189,6 +171,42 @@
         "published": "January 16, 2022 6:55 AM"
     },
     {
+        "title": "The unvaccinated are now forbidden to use public transportation in the Philippines starting tomorrow",
+        "domain": "mb.com.ph",
+        "category": "worldnews",
+        "link": "https://mb.com.ph/2022/01/14/no-vax-no-ride-policy-starts-monday-how-will-this-be-implemented/",
+        "timestamp": 1642329065,
+        "sentiment": 0,
+        "published": "January 16, 2022 10:31 AM"
+    },
+    {
+        "title": "Asian woman pushed to her death in front of oncoming train in NYC",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1642292805,
+        "sentiment": -4,
+        "published": "January 16, 2022 12:26 AM"
+    },
+    {
+        "title": "Japanese woman gives up baby, sues sperm donor for $3 million after learning he lied",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/japanese-woman-gives-baby-sues-184839225.html",
+        "timestamp": 1642307536,
+        "sentiment": 0,
+        "published": "January 16, 2022 4:32 AM"
+    },
+    {
+        "title": "NYPD Make Arrest In Connection To The Death Of An Asian Woman Who Was Pushed In Front Of A Train",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/15/us/nypd-make-arrest-connected-to-asian-woman-death-subway/index.html",
+        "timestamp": 1642311215,
+        "sentiment": -4,
+        "published": "January 16, 2022 5:33 AM"
+    },
+    {
         "title": "Novak Djokovic loses Australian visa appeal",
         "domain": "bbc.com",
         "category": "worldnews",
@@ -196,15 +214,6 @@
         "timestamp": 1642316706,
         "sentiment": 0,
         "published": "January 16, 2022 7:05 AM"
-    },
-    {
-        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/news/amp/rcna11645",
-        "timestamp": 1642307902,
-        "sentiment": 0,
-        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Sinema speech turbocharges primary challenge buzz",
