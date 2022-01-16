@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
         "timestamp": 1642292805,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 12:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14512322",
         "timestamp": 1642294915,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 1:01 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -50,8 +50,17 @@
         "category": "television",
         "link": "https://www.tvzoneuk.com/post/c4literally-s2report",
         "timestamp": 1642296009,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 1:20 AM"
+    },
+    {
+        "title": "Sinema speech turbocharges primary challenge buzz",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/14/sinema-speech-primary-challenge-527110",
+        "timestamp": 1642296510,
+        "sentiment": -1,
+        "published": "January 16, 2022 1:28 AM"
     },
     {
         "title": "New 'Book of Boba Fett' Set Image Shows Danny Trejo's Machete Next to a Rancor Head",
@@ -59,7 +68,7 @@
         "category": "television",
         "link": "https://collider.com/book-of-boba-fett-danny-trejo-rancor-machete-set-image/",
         "timestamp": 1642297890,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 1:51 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14523010",
         "timestamp": 1642299199,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 2:13 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
         "timestamp": 1642302716,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 16, 2022 3:11 AM"
     },
     {
@@ -95,8 +104,26 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 3:31 AM"
+    },
+    {
+        "title": "Uganda to immunise 8 million children against polio",
+        "domain": "theeastafrican.co.ke",
+        "category": "worldnews",
+        "link": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-to-immunise-8-million-children-against-polio-3680882",
+        "timestamp": 1642304455,
+        "sentiment": 0,
+        "published": "January 16, 2022 3:40 AM"
+    },
+    {
+        "title": "All hostages released from Colleyville synagogue, Texas governor says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
+        "timestamp": 1642305482,
+        "sentiment": 2,
+        "published": "January 16, 2022 3:58 AM"
     },
     {
         "title": "Japanese woman gives up baby, sues sperm donor for $3 million after learning he lied",
@@ -104,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/japanese-woman-gives-baby-sues-184839225.html",
         "timestamp": 1642307536,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 4:32 AM"
     },
     {
@@ -113,7 +140,7 @@
         "category": "television",
         "link": "https://www.koreatimes.co.kr/www/art/2022/01/688_322185.html?tw",
         "timestamp": 1642309053,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 4:57 AM"
     },
     {
@@ -122,8 +149,26 @@
         "category": "television",
         "link": "https://ew.com/tv/will-forte-snl-host-musical-guest-maneskin/",
         "timestamp": 1642309449,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 16, 2022 5:04 AM"
+    },
+    {
+        "title": "Will Dexter: New Blood Season 2 Ever Happen? Regardless of what some fans and critics thought about Showtime’s Dexter revival, Dexter: New Blood has officially become the network’s most-watched series of all time",
+        "domain": "denofgeek.com",
+        "category": "television",
+        "link": "https://www.denofgeek.com/tv/dexter-new-blood-season-2-news/",
+        "timestamp": 1642314897,
+        "sentiment": -2,
+        "published": "January 16, 2022 6:34 AM"
+    },
+    {
+        "title": "Novak Djokovic has lost his Federal Court fight to stay in Australia",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-01-16/novak-djokovic-live-updates-visa-cancellation-court-hearing/100758964",
+        "timestamp": 1642316112,
+        "sentiment": 0,
+        "published": "January 16, 2022 6:55 AM"
     },
     {
         "title": "DirecTV loss could cripple rightwing One America News",
