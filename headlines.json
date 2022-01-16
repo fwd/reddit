@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
         "timestamp": 1642292805,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 12:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 12:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
         "timestamp": 1642294348,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 12:52 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642294968,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 1:02 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/video-police-officer-kills-dog-in-miami-dade-after-barking-complaint/2662142/",
         "timestamp": 1642298856,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 2:07 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/steve-bannon-claims-trump-rally-overturn-2020-election-florence-arizona-2022-1",
         "timestamp": 1642302716,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 16, 2022 3:11 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
         "timestamp": 1642303914,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 3:31 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/swat-team-involved-incident-synagogue-colleyville-texas-rcna12376",
         "timestamp": 1642305482,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 16, 2022 3:58 AM"
     },
     {
@@ -124,15 +124,6 @@
         "timestamp": 1642307536,
         "sentiment": 0,
         "published": "January 16, 2022 4:32 AM"
-    },
-    {
-        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/news/amp/rcna11645",
-        "timestamp": 1642307902,
-        "sentiment": 0,
-        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
@@ -158,8 +149,26 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
         "timestamp": 1642310217,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 16, 2022 5:16 AM"
+    },
+    {
+        "title": "NYPD Make Arrest In Connection To The Death Of An Asian Woman Who Was Pushed In Front Of A Train",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/15/us/nypd-make-arrest-connected-to-asian-woman-death-subway/index.html",
+        "timestamp": 1642311215,
+        "sentiment": -4,
+        "published": "January 16, 2022 5:33 AM"
+    },
+    {
+        "title": "An old video has surfaced of Sen. Rand Paul telling students that spreading misinformation is a 'great tactic'",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/old-video-resurfaces-rand-paul-telling-students-misinformation-great-tactic-2022-1",
+        "timestamp": 1642311708,
+        "sentiment": -2,
+        "published": "January 16, 2022 5:41 AM"
     },
     {
         "title": "Will Dexter: New Blood Season 2 Ever Happen? Regardless of what some fans and critics thought about Showtime’s Dexter revival, Dexter: New Blood has officially become the network’s most-watched series of all time",
@@ -187,6 +196,15 @@
         "timestamp": 1642316706,
         "sentiment": 0,
         "published": "January 16, 2022 7:05 AM"
+    },
+    {
+        "title": "As high court signals Roe v. Wade reversal, states eye same-sex marriage protections",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/amp/rcna11645",
+        "timestamp": 1642307902,
+        "sentiment": 0,
+        "published": "January 16, 2022 4:38 AM"
     },
     {
         "title": "Sinema speech turbocharges primary challenge buzz",
