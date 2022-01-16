@@ -1,20 +1,11 @@
 [
     {
-        "title": "A 74-year-old woman spent 27 years in prison for a murder she didn't commit. This week she was exonerated",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
-        "timestamp": 1642293792,
-        "sentiment": -1,
-        "published": "January 16, 2022 12:43 AM"
-    },
-    {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
         "domain": "koreatimes.co.kr",
         "category": "television",
         "link": "https://www.koreatimes.co.kr/www/art/2022/01/688_322185.html?tw",
         "timestamp": 1642309053,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 4:57 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://www.denofgeek.com/tv/dexter-new-blood-season-2-news/",
         "timestamp": 1642314897,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 6:34 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners",
         "timestamp": 1642326135,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 9:42 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
         "timestamp": 1642330638,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 10:57 AM"
     },
     {
@@ -72,21 +63,12 @@
         "published": "January 16, 2022 11:29 AM"
     },
     {
-        "title": "Poor People's Campaign Readies 'Massive, Nonviolent' Effort to Save Democracy",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
-        "timestamp": 1642334553,
-        "sentiment": -2,
-        "published": "January 16, 2022 12:02 PM"
-    },
-    {
         "title": "Doctor Who animations of lost episodes 'cancelled'",
         "domain": "radiotimes.com",
         "category": "television",
         "link": "https://www.radiotimes.com/tv/sci-fi/doctor-who-animated-episodes-cancelled-newsupdate/",
         "timestamp": 1642335319,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 12:15 PM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "television",
         "link": "https://en.brinkwire.com/entertainment/according-to-ricky-gervais-the-success-of-after-life-proves-that-no-topic-in-comedy-should-be-off-limits/",
         "timestamp": 1642339852,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 1:30 PM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/16/sinema-defends-filibuster-progressives-say-vote-her-hell-out",
         "timestamp": 1642340029,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 1:33 PM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.nbcconnecticut.com/news/local/13-year-old-student-dies-of-fentanyl-related-overdose-at-hartford-school-pd/2691695/",
         "timestamp": 1642341953,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 2:05 PM"
     },
     {
@@ -122,17 +104,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-senator-dubbed-moron-by-fauci-introducing-fauci-act-2022-1?fbclid=IwAR3jt9kGyOyUYKnzsqGXu67uzbKYcPblqWkT7P9tQHfwYWJwtTagHgVBFQQ",
         "timestamp": 1642342057,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 2:07 PM"
-    },
-    {
-        "title": "Taliban pledge all girls in schools soon",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/afghanistan-education-united-nations-kabul-taliban-c07aefcb90b560bc82b60b17d9623833",
-        "timestamp": 1642343671,
-        "sentiment": 0,
-        "published": "January 16, 2022 2:34 PM"
     },
     {
         "title": "At many churches, pandemic hits collection plates, budgets",
@@ -140,7 +113,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-business-religion-north-carolina-4e4bfc4ff1092571524bc460f5ed3a16",
         "timestamp": 1642343842,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 2:37 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/16/texas-synagogue-siege-hostage-taker-shot-dead-by-fbi-believed-to-be-british",
         "timestamp": 1642347279,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 3:34 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "news",
         "link": "https://www.kgun9.com/news/coronavirus/tucson-hospitals-to-allow-covid-positive-employees-to-return-to-work",
         "timestamp": 1642347699,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 3:41 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "television",
         "link": "https://collider.com/why-tim-robinson-i-think-you-should-leave-should-host-the-oscars/",
         "timestamp": 1642348162,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 3:49 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "news",
         "link": "https://www.cbssports.com/nfl/news/bills-become-the-first-team-in-nfl-history-to-pitch-a-perfect-offensive-game-in-playoff-win-over-patriots/",
         "timestamp": 1642349084,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 4:04 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/13/politics/obamacare-aca-red-states-medicaid/",
         "timestamp": 1642350080,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 4:21 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/youngkin-bans-school-mask-mandates-critical-race-theory-2022-1",
         "timestamp": 1642352153,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 4:55 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "television",
         "link": "https://nltimes.nl/2022/01/15/voice-holland-suspended-sexual-power-abuse-allegations-surface",
         "timestamp": 1642352415,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 5:00 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/buttigieg-companies-dont-pay-for-wasting-a-truckers-time-2022-1",
         "timestamp": 1642353236,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 5:13 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/hillary-clinton-mlk-day-voting-rights-b1993948.html",
         "timestamp": 1642353385,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 5:16 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/14/norwegians-blow-up-hydro-dam-restore-river-fish-health-aoe",
         "timestamp": 1642354282,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 5:31 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://www.nbcwashington.com/news/coronavirus/new-virginia-governor-youngkin-to-lift-school-mask-mandate-change-covid-policies/2936944/",
         "timestamp": 1642355808,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 5:56 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-census-meddling-gop-gain-memo-brennan-center_n_61e37ab6e4b0d8b6656c2792",
         "timestamp": 1642356754,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 6:12 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "news",
         "link": "https://inews.co.uk/news/health/uk-covid-cases-fall-omicron-variant-1404489",
         "timestamp": 1642357634,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 16, 2022 6:27 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "television",
         "link": "https://consequence.net/2022/01/peacemaker-opening-credits-steve-agee-interview",
         "timestamp": 1642362462,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 16, 2022 7:47 PM"
     },
     {
@@ -329,8 +302,62 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/florida-republican-mariner-wont-concede-cherfilus-mccormick-house-race-landslide-2022-1",
         "timestamp": 1642367927,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 16, 2022 9:18 PM"
+    },
+    {
+        "title": "Covid alert: New Omicron sub-variant in the UK is highly transmissible",
+        "domain": "en.brinkwire.com",
+        "category": "worldnews",
+        "link": "https://en.brinkwire.com/science/covid-alert-new-omicron-sub-variant-in-the-uk-is-highly-transmissible/",
+        "timestamp": 1642368075,
+        "sentiment": 0,
+        "published": "January 16, 2022 9:21 PM"
+    },
+    {
+        "title": "Chinese dialects in decline as government enforces Mandarin",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/16/chinese-dialects-in-decline-as-government-enforces-mandarin",
+        "timestamp": 1642368764,
+        "sentiment": -3,
+        "published": "January 16, 2022 9:32 PM"
+    },
+    {
+        "title": "How Did We Go From Stimulus Checks to “Go to Work With COVID”?",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/how-did-we-go-from-stimulus-checks-to-go-to-work-with-covid/",
+        "timestamp": 1642372025,
+        "sentiment": 1,
+        "published": "January 16, 2022 10:27 PM"
+    },
+    {
+        "title": "A 74-year-old woman spent 27 years in prison for a murder she didn't commit. This week she was exonerated",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
+        "timestamp": 1642293792,
+        "sentiment": -1,
+        "published": "January 16, 2022 12:43 AM"
+    },
+    {
+        "title": "Poor People's Campaign Readies 'Massive, Nonviolent' Effort to Save Democracy",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
+        "timestamp": 1642334553,
+        "sentiment": -2,
+        "published": "January 16, 2022 12:02 PM"
+    },
+    {
+        "title": "Taliban pledge all girls in schools soon",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/afghanistan-education-united-nations-kabul-taliban-c07aefcb90b560bc82b60b17d9623833",
+        "timestamp": 1642343671,
+        "sentiment": 0,
+        "published": "January 16, 2022 2:34 PM"
     },
     {
         "title": "Jimmy Carr Quiz Show \"I Literally Just Told You\" Renewed for Series 2 at Channel 4",
