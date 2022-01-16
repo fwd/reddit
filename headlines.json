@@ -5,26 +5,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 12:43 AM"
-    },
-    {
-        "title": "Florida gay rights activist found dead in landfill",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
-        "timestamp": 1642294348,
-        "sentiment": -3,
-        "published": "January 16, 2022 12:52 AM"
-    },
-    {
-        "title": "Nurses across the U.S. strike against COVID working conditions",
-        "domain": "axios.com",
-        "category": "news",
-        "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
-        "timestamp": 1642294968,
-        "sentiment": -3,
-        "published": "January 16, 2022 1:02 AM"
     },
     {
         "title": "Jimmy Carr Quiz Show \"I Literally Just Told You\" Renewed for Series 2 at Channel 4",
@@ -45,15 +27,6 @@
         "published": "January 16, 2022 4:57 AM"
     },
     {
-        "title": "Glenn Youngkin Ends School Mask Mandates, Vaccines For State Workers After He's Sworn In As Virginia Governor. Youngkin quickly signed 11 executive orders, including dropping vaccine requirements for state workers and barring the teaching of critical race theory.",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
-        "timestamp": 1642310217,
-        "sentiment": 0,
-        "published": "January 16, 2022 5:16 AM"
-    },
-    {
         "title": "Will Dexter: New Blood Season 2 Ever Happen? Regardless of what some fans and critics thought about Showtime’s Dexter revival, Dexter: New Blood has officially become the network’s most-watched series of all time",
         "domain": "denofgeek.com",
         "category": "television",
@@ -68,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-01-16/novak-djokovic-live-updates-visa-cancellation-court-hearing/100758964",
         "timestamp": 1642316112,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 6:55 AM"
     },
     {
@@ -77,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners",
         "timestamp": 1642326135,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 9:42 AM"
     },
     {
@@ -86,7 +59,7 @@
         "category": "worldnews",
         "link": "https://mb.com.ph/2022/01/14/no-vax-no-ride-policy-starts-monday-how-will-this-be-implemented/",
         "timestamp": 1642329065,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 10:31 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-end-filibuster-democrats-b1993996.html",
         "timestamp": 1642330638,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 10:57 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen",
         "timestamp": 1642332598,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 11:29 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/15/poor-peoples-campaign-readies-massive-nonviolent-effort-save-democracy",
         "timestamp": 1642334553,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 12:02 PM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/16/ukraine-says-evidence-points-to-russia-being-behind-cyber-attack",
         "timestamp": 1642335808,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 12:23 PM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/16/sinema-defends-filibuster-progressives-say-vote-her-hell-out",
         "timestamp": 1642340029,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 1:33 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://www.nbcconnecticut.com/news/local/13-year-old-student-dies-of-fentanyl-related-overdose-at-hartford-school-pd/2691695/",
         "timestamp": 1642341953,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 2:05 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-senator-dubbed-moron-by-fauci-introducing-fauci-act-2022-1?fbclid=IwAR3jt9kGyOyUYKnzsqGXu67uzbKYcPblqWkT7P9tQHfwYWJwtTagHgVBFQQ",
         "timestamp": 1642342057,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 2:07 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/afghanistan-education-united-nations-kabul-taliban-c07aefcb90b560bc82b60b17d9623833",
         "timestamp": 1642343671,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 2:34 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-business-religion-north-carolina-4e4bfc4ff1092571524bc460f5ed3a16",
         "timestamp": 1642343842,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 2:37 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.khaleejtimes.com/asia/we-have-had-no-income-sri-lanka-on-the-brink-of-bankruptcy-millions-bear-the-brunt",
         "timestamp": 1642344540,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 2:49 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "politics",
         "link": "https://www.wpr.org/judge-rules-absentee-ballot-drop-boxes-not-allowed-under-wisconsin-law",
         "timestamp": 1642346848,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 3:27 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/16/texas-synagogue-siege-hostage-taker-shot-dead-by-fbi-believed-to-be-british",
         "timestamp": 1642347279,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 3:34 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.kgun9.com/news/coronavirus/tucson-hospitals-to-allow-covid-positive-employees-to-return-to-work",
         "timestamp": 1642347699,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 3:41 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://www.cbssports.com/nfl/news/bills-become-the-first-team-in-nfl-history-to-pitch-a-perfect-offensive-game-in-playoff-win-over-patriots/",
         "timestamp": 1642349084,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 4:04 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/13/politics/obamacare-aca-red-states-medicaid/",
         "timestamp": 1642350080,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 4:21 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/canada-asks-citizens-avoid-non-essential-travel-ukraine-due-russian-aggression-2022-01-16/?taid=61e42998ed344f0001a6e6da&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1642350551,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 4:29 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/diplomacy/20220114-un-chief-urges-us-world-bank-to-release-afghanistan-funds-as-millions-on-verge-of-death",
         "timestamp": 1642351375,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 4:42 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/youngkin-bans-school-mask-mandates-critical-race-theory-2022-1",
         "timestamp": 1642352153,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 4:55 PM"
     },
     {
@@ -288,13 +261,31 @@
         "published": "January 16, 2022 5:00 PM"
     },
     {
+        "title": "Companies don't pay for 'wasting a trucker's time,' US Transportation Secretary says: 'We've got to fix that'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/buttigieg-companies-dont-pay-for-wasting-a-truckers-time-2022-1",
+        "timestamp": 1642353236,
+        "sentiment": 2,
+        "published": "January 16, 2022 5:13 PM"
+    },
+    {
         "title": "Hillary Clinton invokes MLK’s criticism of ‘white moderates’ after Manchin and Sinema reject filibuster reform - Democratic senators and GOP filibuster imperil voting rights legislation as activists rally ahead of late civil rights leader’s birthday",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/hillary-clinton-mlk-day-voting-rights-b1993948.html",
         "timestamp": 1642353385,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 16, 2022 5:16 PM"
+    },
+    {
+        "title": "Norway blows up hydro dam to restore river health and fish stocks",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jan/14/norwegians-blow-up-hydro-dam-restore-river-fish-health-aoe",
+        "timestamp": 1642354282,
+        "sentiment": -1,
+        "published": "January 16, 2022 5:31 PM"
     },
     {
         "title": "New Virginia Governor Youngkin to Lift School Mask Mandate",
@@ -302,8 +293,35 @@
         "category": "news",
         "link": "https://www.nbcwashington.com/news/coronavirus/new-virginia-governor-youngkin-to-lift-school-mask-mandate-change-covid-policies/2936944/",
         "timestamp": 1642355808,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 16, 2022 5:56 PM"
+    },
+    {
+        "title": "Trump Administration Exerted 'Unprecedented' Census Engagement In Bid For Political Gain: Memo",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-census-meddling-gop-gain-memo-brennan-center_n_61e37ab6e4b0d8b6656c2792",
+        "timestamp": 1642356754,
+        "sentiment": 2,
+        "published": "January 16, 2022 6:12 PM"
+    },
+    {
+        "title": "It's up to Russia to prevent war in Ukraine, NATO chief says | CBC News",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/ukraine-russia-nato-stoltenberg-1.6316037",
+        "timestamp": 1642357392,
+        "sentiment": -3,
+        "published": "January 16, 2022 6:23 PM"
+    },
+    {
+        "title": "UK Covid cases fall to half the level they were at a week ago as Omicron 'disappearing fast'",
+        "domain": "inews.co.uk",
+        "category": "news",
+        "link": "https://inews.co.uk/news/health/uk-covid-cases-fall-omicron-variant-1404489",
+        "timestamp": 1642357634,
+        "sentiment": -1,
+        "published": "January 16, 2022 6:27 PM"
     },
     {
         "title": "Italian nurse accused of giving fake Covid jabs to anti-vaxxers arrested",
@@ -311,8 +329,44 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/16/italian-nurse-accused-of-giving-fake-covid-jabs-to-anti-vaxxers",
         "timestamp": 1642357792,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 16, 2022 6:29 PM"
+    },
+    {
+        "title": "Steve Agee Takes Us Behind That Elaborate 'Peacemaker' Opening Credits Sequence: \"It Was Strenuous, I Won't Lie\"",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/2022/01/peacemaker-opening-credits-steve-agee-interview",
+        "timestamp": 1642362462,
+        "sentiment": 0,
+        "published": "January 16, 2022 7:47 PM"
+    },
+    {
+        "title": "Florida gay rights activist found dead in landfill",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/florida-gay-rights-activist-found-dead-landfill-rcna12234",
+        "timestamp": 1642294348,
+        "sentiment": -3,
+        "published": "January 16, 2022 12:52 AM"
+    },
+    {
+        "title": "Nurses across the U.S. strike against COVID working conditions",
+        "domain": "axios.com",
+        "category": "news",
+        "link": "https://www.axios.com/nurses-united-states-protesting-coronavirus-4f55d01c-94eb-457e-869e-850e84d5d011.html?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1642294968,
+        "sentiment": -3,
+        "published": "January 16, 2022 1:02 AM"
+    },
+    {
+        "title": "Glenn Youngkin Ends School Mask Mandates, Vaccines For State Workers After He's Sworn In As Virginia Governor. Youngkin quickly signed 11 executive orders, including dropping vaccine requirements for state workers and barring the teaching of critical race theory.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/glenn-youngkin-virginia-gop-governor-mask-mandates-vaccines_n_61e36415e4b0a864b073787e",
+        "timestamp": 1642310217,
+        "sentiment": 0,
+        "published": "January 16, 2022 5:16 AM"
     },
     {
         "title": "VIDEO: Police Officer Kills Dog in Miami-Dade After Barking Complaint",
