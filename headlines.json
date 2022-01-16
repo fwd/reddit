@@ -1,12 +1,30 @@
 [
     {
+        "title": "Asian woman pushed to her death in front of oncoming train in NYC",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/asian-woman-pushed-death-front-oncoming-train-nyc-rcna12367?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1642292805,
+        "sentiment": -2,
+        "published": "January 16, 2022 12:26 AM"
+    },
+    {
         "title": "A 74-year-old woman spent 27 years in prison for a murder she didn't commit. This week she was exonerated",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/01/14/us/woman-wrongfully-convicted-exonerated-trnd/index.html",
         "timestamp": 1642293792,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 16, 2022 12:43 AM"
+    },
+    {
+        "title": "Jimmy Carr Quiz Show \"I Literally Just Told You\" Renewed for Series 2 at Channel 4",
+        "domain": "tvzoneuk.com",
+        "category": "television",
+        "link": "https://www.tvzoneuk.com/post/c4literally-s2report",
+        "timestamp": 1642296009,
+        "sentiment": 0,
+        "published": "January 16, 2022 1:20 AM"
     },
     {
         "title": "Woman runs onto Phoenix tarmac to stop plane she missed",
