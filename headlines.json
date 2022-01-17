@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/16/us/florida-tornadoes-damages/index.html",
         "timestamp": 1642377938,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 12:05 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.jpost.com/breaking-news/article-692495",
         "timestamp": 1642379511,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 12:31 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60015294",
         "timestamp": 1642380058,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 12:40 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.news.com.au/world/north-america/ghislaine-maxwell-to-reveal-identity-of-8-john-does/news-story/ebb83f048dcab2d09fa265f9ef444d6d",
         "timestamp": 1642383885,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 1:44 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "news",
         "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
         "timestamp": 1642390382,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 3:33 AM"
+    },
+    {
+        "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
+        "timestamp": 1642393509,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:25 AM"
     },
     {
         "title": "Betrayer of Anne Frank revealed; man named Arnold van den Bergh",
@@ -86,7 +95,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/anne-frank-betrayal-investigation-60-minutes-2022-01-16/",
         "timestamp": 1642393558,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "January 17, 2022 4:25 AM"
     },
     {
