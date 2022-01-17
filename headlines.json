@@ -1,20 +1,11 @@
 [
     {
-        "title": "Florida tornadoes destroy dozens of homes, leave 7,000 customers without power",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/16/us/florida-tornadoes-damages/index.html",
-        "timestamp": 1642377938,
-        "sentiment": -4,
-        "published": "January 17, 2022 12:05 AM"
-    },
-    {
         "title": "Sen. Mitt Romney says Biden was 'elected to stop the crazy' and argues that voters weren't asking him 'to transform America'",
         "domain": "businessinsider.com.au",
         "category": "politics",
         "link": "https://www.businessinsider.com.au/romney-biden-elected-stop-crazy-not-transform-america-trump-2022-1",
         "timestamp": 1642378990,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 17, 2022 12:23 AM"
     },
     {
@@ -25,6 +16,15 @@
         "timestamp": 1642379511,
         "sentiment": -4,
         "published": "January 17, 2022 12:31 AM"
+    },
+    {
+        "title": "Covid vaccination to be compulsory from February, says Austrian chancellor. Those who refuse to take the vaccine would face fines upto $4,100.",
+        "domain": "geartape.com",
+        "category": "news",
+        "link": "https://geartape.com/covid-vaccination-to-be-compulsory-from-february-says-austrian-chancellor/",
+        "timestamp": 1642379700,
+        "sentiment": -4,
+        "published": "January 17, 2022 12:35 AM"
     },
     {
         "title": "Wealth of world's 10 richest men doubled in pandemic, Oxfam says",
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/alexandria-ocasio-cortez-covid-recovery_n_61e491c6e4b0a864b0744623",
         "timestamp": 1642381948,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 17, 2022 1:12 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "television",
         "link": "https://people.com/tv/americas-funniest-home-videos-bob-saget-tribute/",
         "timestamp": 1642389459,
-        "sentiment": 1,
+        "sentiment": 6,
         "published": "January 17, 2022 3:17 AM"
     },
     {
@@ -108,6 +108,15 @@
         "published": "January 17, 2022 4:31 AM"
     },
     {
+        "title": "Trump has been talking trash about Ron DeSantis in private, saying the Florida gov. has a 'dull personality' and is ungrateful: report",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-trash-talks-ron-desantis-in-private-dull-personality-report-2022-1",
+        "timestamp": 1642394662,
+        "sentiment": -3,
+        "published": "January 17, 2022 4:44 AM"
+    },
+    {
         "title": "Unvaccinated to be banned from restaurants and other venues in France under new Covid law",
         "domain": "walesonline.co.uk",
         "category": "news",
@@ -122,8 +131,17 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/01/yellowjackets-episode-10-review-finale-spoilers-1234690380/",
         "timestamp": 1642407675,
-        "sentiment": 1,
+        "sentiment": 6,
         "published": "January 17, 2022 8:21 AM"
+    },
+    {
+        "title": "Florida tornadoes destroy dozens of homes, leave 7,000 customers without power",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/16/us/florida-tornadoes-damages/index.html",
+        "timestamp": 1642377938,
+        "sentiment": -4,
+        "published": "January 17, 2022 12:05 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
