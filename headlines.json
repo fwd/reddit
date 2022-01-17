@@ -1,20 +1,11 @@
 [
     {
-        "title": "Wealth of world's 10 richest men doubled in pandemic, Oxfam says",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/business-60015294",
-        "timestamp": 1642380058,
-        "sentiment": 3,
-        "published": "January 17, 2022 12:40 AM"
-    },
-    {
         "title": "The world's 10 wealthiest men doubled their fortunes during the first two years of the coronavirus pandemic as poverty and inequality soared. Oxfam said the men's wealth jumped from $700 billion to $1.5 trillion, at an average rate of $1.3 billion per day",
         "domain": "france24.com",
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 12:44 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/anne-frank-betrayal-investigation-60-minutes-2022-01-16/",
         "timestamp": 1642393558,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/world-news/unvaccinated-people-excluded-venues-france-22772344",
         "timestamp": 1642400759,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 6:25 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/china/beijing-omicron-olympics-mic-intl-hnk/index.html",
         "timestamp": 1642414862,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 10:21 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbc12.com/2022/01/17/judge-shames-72-year-old-cancer-patient-overgrown-yard/?fbclid=IwAR0OGbN54395G-wTcdJqPp2z_Z1PCwn15ndFKl3ViqlI_at8LS9weTNMvRQ",
         "timestamp": 1642417085,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 10:58 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
         "timestamp": 1642421294,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 12:08 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/01/17/davos-chinas-xi-says-countries-must-abandon-cold-war-mentality.html",
         "timestamp": 1642421585,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 12:13 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
         "timestamp": 1642425594,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 1:19 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/17/russia-ukraine-attack-german-minister-annalena-baerbock",
         "timestamp": 1642429089,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 2:18 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/amys-kitchen-says-food-made-love-factory-say-job-left-injured-rcna8189",
         "timestamp": 1642430136,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 2:35 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
         "timestamp": 1642430359,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 2:39 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/moscow-refuses-to-rule-out-latin-america-military-deployments",
         "timestamp": 1642431029,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 2:50 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "worldnews",
         "link": "https://m.jpost.com/breaking-news/article-692757",
         "timestamp": 1642433800,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 17, 2022 3:36 PM"
     },
     {
@@ -243,13 +234,31 @@
         "published": "January 17, 2022 3:49 PM"
     },
     {
+        "title": "4,500-year-old highway lined with 18K ancient tombs discovered in Saudi Arabia",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/saudi-arabia-ancient-tombs-yemen-bronze-age/11479635/",
+        "timestamp": 1642436789,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:26 PM"
+    },
+    {
         "title": "Los Angeles nurse dies after being attacked at bus stop",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/us/los-angeles-nurse-attacked-dies/index.html",
         "timestamp": 1642437569,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 17, 2022 4:39 PM"
+    },
+    {
+        "title": "Rabbi threw chair at Texas synagogue hostage-taker before escaping",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/rabbi-threw-chair-texas-synagogue-hostage-taker-before-escaping-2022-01-17/",
+        "timestamp": 1642437739,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:42 PM"
     },
     {
         "title": "Bernie Sanders says Democratic Party has 'turned its back' on working Americans",
@@ -270,15 +279,6 @@
         "published": "January 17, 2022 5:11 PM"
     },
     {
-        "title": "Anne Frank Betrayal Suspect Identified After 77 Years",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-60024228",
-        "timestamp": 1642439676,
-        "sentiment": -3,
-        "published": "January 17, 2022 5:14 PM"
-    },
-    {
         "title": "\"The Expanse\" creators dig into a series ending still full of mystery",
         "domain": "polygon.com",
         "category": "television",
@@ -288,15 +288,6 @@
         "published": "January 17, 2022 5:34 PM"
     },
     {
-        "title": "\"They used us as an experiment\": Arkansas inmates who were given ivermectin to treat COVID file federal lawsuit against jail",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/arkansas-inmates-ivermectin-federal-lawsuit-jail/?ftag=CNM-00-10aac3a",
-        "timestamp": 1642441252,
-        "sentiment": 3,
-        "published": "January 17, 2022 5:40 PM"
-    },
-    {
         "title": "The Undoing of Joss Whedon The Buffy creator, once an icon of Hollywood feminism, is now an outcast accused of misogyny. How did he get here?",
         "domain": "vulture.com",
         "category": "television",
@@ -304,6 +295,51 @@
         "timestamp": 1642442570,
         "sentiment": 0,
         "published": "January 17, 2022 6:02 PM"
+    },
+    {
+        "title": "Russian dissident Alexei Navalny says he has 'no regrets': After spending a year behind bars, Navalny posted a message on social media telling his followers: \"Don't be afraid of anything.\"",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/alexei-navalny-says-he-has-no-regrets-1-year-since-arrest/a-60451223",
+        "timestamp": 1642445611,
+        "sentiment": 0,
+        "published": "January 17, 2022 6:53 PM"
+    },
+    {
+        "title": "British military aircraft rapidly supplying weapons to Ukraine",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "worldnews",
+        "link": "https://ukdefencejournal.org.uk/british-aircraft-transporting-anti-armour-weapons-to-ukraine/",
+        "timestamp": 1642447761,
+        "sentiment": 0,
+        "published": "January 17, 2022 7:29 PM"
+    },
+    {
+        "title": "Wealth of world's 10 richest men doubled in pandemic, Oxfam says",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/business-60015294",
+        "timestamp": 1642380058,
+        "sentiment": 3,
+        "published": "January 17, 2022 12:40 AM"
+    },
+    {
+        "title": "Anne Frank Betrayal Suspect Identified After 77 Years",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60024228",
+        "timestamp": 1642439676,
+        "sentiment": -3,
+        "published": "January 17, 2022 5:14 PM"
+    },
+    {
+        "title": "\"They used us as an experiment\": Arkansas inmates who were given ivermectin to treat COVID file federal lawsuit against jail",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/arkansas-inmates-ivermectin-federal-lawsuit-jail/?ftag=CNM-00-10aac3a",
+        "timestamp": 1642441252,
+        "sentiment": 3,
+        "published": "January 17, 2022 5:40 PM"
     },
     {
         "title": "Ghislaine Maxwell to reveal identity of ‘8 John Does’",
