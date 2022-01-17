@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/world-news/unvaccinated-people-excluded-venues-france-22772344",
         "timestamp": 1642400759,
-        "sentiment": -9,
+        "sentiment": -2,
         "published": "January 17, 2022 6:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/01/yellowjackets-episode-10-review-finale-spoilers-1234690380/",
         "timestamp": 1642407675,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 17, 2022 8:21 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbc12.com/2022/01/17/judge-shames-72-year-old-cancer-patient-overgrown-yard/?fbclid=IwAR0OGbN54395G-wTcdJqPp2z_Z1PCwn15ndFKl3ViqlI_at8LS9weTNMvRQ",
         "timestamp": 1642417085,
-        "sentiment": -9,
+        "sentiment": -2,
         "published": "January 17, 2022 10:58 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/ron-desantis-florida-reelection-freedoms-vanguard-critics-see-authoritarian-streak",
         "timestamp": 1642417920,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 17, 2022 11:12 AM"
     },
     {
@@ -41,8 +41,305 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
         "timestamp": 1642421294,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "January 17, 2022 12:08 PM"
+    },
+    {
+        "title": "Democrats see good chance of Garland prosecuting Trump",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/589858-democrats-see-good-chance-of-garland-prosecuting-trump",
+        "timestamp": 1642425524,
+        "sentiment": 0,
+        "published": "January 17, 2022 1:18 PM"
+    },
+    {
+        "title": "Charles McGee, brigadier general and one of the last surviving Tuskegee Airmen, dies at 102",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
+        "timestamp": 1642425594,
+        "sentiment": -2,
+        "published": "January 17, 2022 1:19 PM"
+    },
+    {
+        "title": "Enlisting Health Insurance Giants to Help With Rapid Covid Tests Was a Dumb Idea - One of the key lessons of the pandemic has been that this industry is utterly useless during a public health crisis.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
+        "timestamp": 1642425676,
+        "sentiment": 0,
+        "published": "January 17, 2022 1:21 PM"
+    },
+    {
+        "title": "It’s Long Past Time to Prosecute Phony GOP Electors",
+        "domain": "thebulwark.com",
+        "category": "politics",
+        "link": "https://www.thebulwark.com/its-long-past-time-to-prosecute-phony-gop-electors/",
+        "timestamp": 1642429055,
+        "sentiment": 0,
+        "published": "January 17, 2022 2:17 PM"
+    },
+    {
+        "title": "Russia would pay ‘high price’ for attack on Ukraine, says German minister | Germany",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/17/russia-ukraine-attack-german-minister-annalena-baerbock",
+        "timestamp": 1642429089,
+        "sentiment": 2,
+        "published": "January 17, 2022 2:18 PM"
+    },
+    {
+        "title": "Amy’s Kitchen says its food is made with ‘love.’ Some workers tell a different story.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/amys-kitchen-says-food-made-love-factory-say-job-left-injured-rcna8189",
+        "timestamp": 1642430136,
+        "sentiment": -2,
+        "published": "January 17, 2022 2:35 PM"
+    },
+    {
+        "title": "CDC's suggestion to cancel football, band in nearly every US school called 'unrealistic'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
+        "timestamp": 1642430359,
+        "sentiment": -2,
+        "published": "January 17, 2022 2:39 PM"
+    },
+    {
+        "title": "Moscow refuses to rule out Latin America military deployments | Conflict News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/17/moscow-refuses-to-rule-out-latin-america-military-deployments",
+        "timestamp": 1642431029,
+        "sentiment": 2,
+        "published": "January 17, 2022 2:50 PM"
+    },
+    {
+        "title": "The Lost Sheep of Danny McBride’s “The Righteous Gemstones”",
+        "domain": "newyorker.com",
+        "category": "television",
+        "link": "https://www.newyorker.com/magazine/2022/01/24/the-lost-sheep-of-danny-mcbrides-the-righteous-gemstones",
+        "timestamp": 1642432787,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:19 PM"
+    },
+    {
+        "title": "92% of patients treated with Pfizer antiviral improved",
+        "domain": "m.jpost.com",
+        "category": "worldnews",
+        "link": "https://m.jpost.com/breaking-news/article-692757",
+        "timestamp": 1642433800,
+        "sentiment": 2,
+        "published": "January 17, 2022 3:36 PM"
+    },
+    {
+        "title": "McConnell bombarded with criticism over voting rights stance after posting Martin Luther King Day tribute",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mlk-mcconnell-tweet-voting-rights-b1994609.html",
+        "timestamp": 1642433975,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:39 PM"
+    },
+    {
+        "title": "Trump is briefing insiders that DeSantis is too dull to be president",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-desantis-dull-president-2024-b1994560.html",
+        "timestamp": 1642434066,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:41 PM"
+    },
+    {
+        "title": "North Carolina voters sue to ban Madison Cawthorn from ballot",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-2022-election-capitol-riot-b1990693.html",
+        "timestamp": 1642434073,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:41 PM"
+    },
+    {
+        "title": "Peaky Blinders Will Now ‘Go Into And Beyond The Second World War’, Steven Knight Confirms",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/tv/news/peaky-blinders-beyond-second-world-war-steven-knight-exclusive/",
+        "timestamp": 1642434577,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:49 PM"
+    },
+    {
+        "title": "4,500-year-old highway lined with 18K ancient tombs discovered in Saudi Arabia",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/saudi-arabia-ancient-tombs-yemen-bronze-age/11479635/",
+        "timestamp": 1642436789,
+        "sentiment": -2,
+        "published": "January 17, 2022 4:26 PM"
+    },
+    {
+        "title": "Los Angeles nurse dies after being attacked at bus stop",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/us/los-angeles-nurse-attacked-dies/index.html",
+        "timestamp": 1642437569,
+        "sentiment": -2,
+        "published": "January 17, 2022 4:39 PM"
+    },
+    {
+        "title": "Rabbi threw chair at Texas synagogue hostage-taker before escaping",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/rabbi-threw-chair-texas-synagogue-hostage-taker-before-escaping-2022-01-17/",
+        "timestamp": 1642437739,
+        "sentiment": -2,
+        "published": "January 17, 2022 4:42 PM"
+    },
+    {
+        "title": "Bernie Sanders says Democratic Party has 'turned its back' on working Americans",
+        "domain": "foxnews.com",
+        "category": "politics",
+        "link": "https://www.foxnews.com/politics/bernie-sanders-democrats-wrong-direction-working-americans-jobs-economy",
+        "timestamp": 1642437831,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:43 PM"
+    },
+    {
+        "title": "Beijing locks down office building with workers still inside over single Omicron case",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/17/china/beijing-omicron-olympics-mic-intl-hnk/index.html",
+        "timestamp": 1642438274,
+        "sentiment": 2,
+        "published": "January 17, 2022 4:51 PM"
+    },
+    {
+        "title": "'Vikings: Valhalla,' the sequel series to 'Vikings,' is being planned with multiple seasons in mind, says its creator: 'We're already in prep on season 3.'",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/vikings-valhalla-multiple-seasons/",
+        "timestamp": 1642439519,
+        "sentiment": 0,
+        "published": "January 17, 2022 5:11 PM"
+    },
+    {
+        "title": "Once again Republicans will try to claim MLK — but if he were here, they'd despise him",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/17/once-again-will-try-to-claim-mlk--but-if-he-were-here-theyd-despise-him/",
+        "timestamp": 1642439609,
+        "sentiment": 0,
+        "published": "January 17, 2022 5:13 PM"
+    },
+    {
+        "title": "\"The Expanse\" creators dig into a series ending still full of mystery",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/interviews/22884559/expanse-finale-explained-creators-james-sa-corey-naren-shankar",
+        "timestamp": 1642440882,
+        "sentiment": 0,
+        "published": "January 17, 2022 5:34 PM"
+    },
+    {
+        "title": "MLK III Tells Arizona Crowd History Will Remember Sinema Unkindly Over Filibuster",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mlk-day-arizona-mlk-iii-kyrsten-sinema-filibuster_n_61e585ebe4b0c6802ee9fc92",
+        "timestamp": 1642441631,
+        "sentiment": 0,
+        "published": "January 17, 2022 5:47 PM"
+    },
+    {
+        "title": "The Undoing of Joss Whedon The Buffy creator, once an icon of Hollywood feminism, is now an outcast accused of misogyny. How did he get here?",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/article/joss-whedon-allegations.html",
+        "timestamp": 1642442570,
+        "sentiment": 0,
+        "published": "January 17, 2022 6:02 PM"
+    },
+    {
+        "title": "Russian dissident Alexei Navalny says he has 'no regrets': After spending a year behind bars, Navalny posted a message on social media telling his followers: \"Don't be afraid of anything.\"",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/alexei-navalny-says-he-has-no-regrets-1-year-since-arrest/a-60451223",
+        "timestamp": 1642445611,
+        "sentiment": 2,
+        "published": "January 17, 2022 6:53 PM"
+    },
+    {
+        "title": "UK says supplying Ukraine with weapons system to defend against Russia",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/uk-says-supplying-ukraine-with-weapons-system-defend-against-russia-2022-01-17/",
+        "timestamp": 1642446675,
+        "sentiment": 2,
+        "published": "January 17, 2022 7:11 PM"
+    },
+    {
+        "title": "British military aircraft rapidly supplying weapons to Ukraine",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "worldnews",
+        "link": "https://ukdefencejournal.org.uk/british-aircraft-transporting-anti-armour-weapons-to-ukraine/",
+        "timestamp": 1642447761,
+        "sentiment": 2,
+        "published": "January 17, 2022 7:29 PM"
+    },
+    {
+        "title": "Suspect arrested and charged with hate crime in alleged attack on Sikh taxi driver at JFK Airport",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/us/new-york-city-hate-crime-charge/index.html",
+        "timestamp": 1642451086,
+        "sentiment": -2,
+        "published": "January 17, 2022 8:24 PM"
+    },
+    {
+        "title": "Historic 'Jeopardy!' champion Amy Schneider was set to film episodes with Alex Trebek prior to his death, now \"fully supports\" Ken Jennings as a 'fantastic' pick for host but jokes she would like to get a turn as well",
+        "domain": "latimes.com",
+        "category": "television",
+        "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-01-17/amy-schneider-jeopardy-interview-ken-jennings",
+        "timestamp": 1642451862,
+        "sentiment": 0,
+        "published": "January 17, 2022 8:37 PM"
+    },
+    {
+        "title": "Canada deploys special forces to Ukraine amid rising tensions with Russia - National | Globalnews.ca",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8517110/canada-special-forces-ukraine-russia/",
+        "timestamp": 1642451992,
+        "sentiment": 2,
+        "published": "January 17, 2022 8:39 PM"
+    },
+    {
+        "title": "Parents of worker killed in tornado that hit Amazon facility are suing the company for wrongful death",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/tech/amazon-warehouse-death-tornado-lawsuit/index.html",
+        "timestamp": 1642457306,
+        "sentiment": -2,
+        "published": "January 17, 2022 10:08 PM"
+    },
+    {
+        "title": "Peaky Blinders stage show to open at Birmingham theatre",
+        "domain": "bbc.com",
+        "category": "television",
+        "link": "https://www.bbc.com/news/uk-england-birmingham-60030249",
+        "timestamp": 1642457868,
+        "sentiment": 0,
+        "published": "January 17, 2022 10:17 PM"
+    },
+    {
+        "title": "Djokovic must comply with local health rules to compete in Madrid Open, Spain's prime minister says",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/world/live-news/omicron-variant-coronavirus-news-01-17-22/h_8cb9fa29e2f9db5ee1218d90e0c9d6ea",
+        "timestamp": 1642457881,
+        "sentiment": 2,
+        "published": "January 17, 2022 10:18 PM"
     },
     {
         "title": "China’s Xi says countries must abandon ‘Cold War mentality,’ warns against confrontation",
@@ -54,51 +351,6 @@
         "published": "January 17, 2022 12:13 PM"
     },
     {
-        "title": "Democrats see good chance of Garland prosecuting Trump",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/senate/589858-democrats-see-good-chance-of-garland-prosecuting-trump",
-        "timestamp": 1642425524,
-        "sentiment": -2,
-        "published": "January 17, 2022 1:18 PM"
-    },
-    {
-        "title": "Charles McGee, brigadier general and one of the last surviving Tuskegee Airmen, dies at 102",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
-        "timestamp": 1642425594,
-        "sentiment": -9,
-        "published": "January 17, 2022 1:19 PM"
-    },
-    {
-        "title": "Enlisting Health Insurance Giants to Help With Rapid Covid Tests Was a Dumb Idea - One of the key lessons of the pandemic has been that this industry is utterly useless during a public health crisis.",
-        "domain": "newrepublic.com",
-        "category": "politics",
-        "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
-        "timestamp": 1642425676,
-        "sentiment": -2,
-        "published": "January 17, 2022 1:21 PM"
-    },
-    {
-        "title": "It’s Long Past Time to Prosecute Phony GOP Electors",
-        "domain": "thebulwark.com",
-        "category": "politics",
-        "link": "https://www.thebulwark.com/its-long-past-time-to-prosecute-phony-gop-electors/",
-        "timestamp": 1642429055,
-        "sentiment": -2,
-        "published": "January 17, 2022 2:17 PM"
-    },
-    {
-        "title": "Russia would pay ‘high price’ for attack on Ukraine, says German minister | Germany",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/17/russia-ukraine-attack-german-minister-annalena-baerbock",
-        "timestamp": 1642429089,
-        "sentiment": -6,
-        "published": "January 17, 2022 2:18 PM"
-    },
-    {
         "title": "Michigan: GOP-Backed Audit Finds No Fraud in County Trump Won Anyway",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -106,231 +358,6 @@
         "timestamp": 1642429362,
         "sentiment": -2,
         "published": "January 17, 2022 2:22 PM"
-    },
-    {
-        "title": "Amy’s Kitchen says its food is made with ‘love.’ Some workers tell a different story.",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/amys-kitchen-says-food-made-love-factory-say-job-left-injured-rcna8189",
-        "timestamp": 1642430136,
-        "sentiment": -9,
-        "published": "January 17, 2022 2:35 PM"
-    },
-    {
-        "title": "CDC's suggestion to cancel football, band in nearly every US school called 'unrealistic'",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
-        "timestamp": 1642430359,
-        "sentiment": -9,
-        "published": "January 17, 2022 2:39 PM"
-    },
-    {
-        "title": "Moscow refuses to rule out Latin America military deployments | Conflict News",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/1/17/moscow-refuses-to-rule-out-latin-america-military-deployments",
-        "timestamp": 1642431029,
-        "sentiment": -6,
-        "published": "January 17, 2022 2:50 PM"
-    },
-    {
-        "title": "The Lost Sheep of Danny McBride’s “The Righteous Gemstones”",
-        "domain": "newyorker.com",
-        "category": "television",
-        "link": "https://www.newyorker.com/magazine/2022/01/24/the-lost-sheep-of-danny-mcbrides-the-righteous-gemstones",
-        "timestamp": 1642432787,
-        "sentiment": 1,
-        "published": "January 17, 2022 3:19 PM"
-    },
-    {
-        "title": "92% of patients treated with Pfizer antiviral improved",
-        "domain": "m.jpost.com",
-        "category": "worldnews",
-        "link": "https://m.jpost.com/breaking-news/article-692757",
-        "timestamp": 1642433800,
-        "sentiment": -6,
-        "published": "January 17, 2022 3:36 PM"
-    },
-    {
-        "title": "McConnell bombarded with criticism over voting rights stance after posting Martin Luther King Day tribute",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mlk-mcconnell-tweet-voting-rights-b1994609.html",
-        "timestamp": 1642433975,
-        "sentiment": -2,
-        "published": "January 17, 2022 3:39 PM"
-    },
-    {
-        "title": "Trump is briefing insiders that DeSantis is too dull to be president",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-desantis-dull-president-2024-b1994560.html",
-        "timestamp": 1642434066,
-        "sentiment": -2,
-        "published": "January 17, 2022 3:41 PM"
-    },
-    {
-        "title": "North Carolina voters sue to ban Madison Cawthorn from ballot",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-2022-election-capitol-riot-b1990693.html",
-        "timestamp": 1642434073,
-        "sentiment": -2,
-        "published": "January 17, 2022 3:41 PM"
-    },
-    {
-        "title": "Peaky Blinders Will Now ‘Go Into And Beyond The Second World War’, Steven Knight Confirms",
-        "domain": "empireonline.com",
-        "category": "television",
-        "link": "https://www.empireonline.com/tv/news/peaky-blinders-beyond-second-world-war-steven-knight-exclusive/",
-        "timestamp": 1642434577,
-        "sentiment": 1,
-        "published": "January 17, 2022 3:49 PM"
-    },
-    {
-        "title": "4,500-year-old highway lined with 18K ancient tombs discovered in Saudi Arabia",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/saudi-arabia-ancient-tombs-yemen-bronze-age/11479635/",
-        "timestamp": 1642436789,
-        "sentiment": -9,
-        "published": "January 17, 2022 4:26 PM"
-    },
-    {
-        "title": "Los Angeles nurse dies after being attacked at bus stop",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/us/los-angeles-nurse-attacked-dies/index.html",
-        "timestamp": 1642437569,
-        "sentiment": -9,
-        "published": "January 17, 2022 4:39 PM"
-    },
-    {
-        "title": "Rabbi threw chair at Texas synagogue hostage-taker before escaping",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/rabbi-threw-chair-texas-synagogue-hostage-taker-before-escaping-2022-01-17/",
-        "timestamp": 1642437739,
-        "sentiment": -9,
-        "published": "January 17, 2022 4:42 PM"
-    },
-    {
-        "title": "Bernie Sanders says Democratic Party has 'turned its back' on working Americans",
-        "domain": "foxnews.com",
-        "category": "politics",
-        "link": "https://www.foxnews.com/politics/bernie-sanders-democrats-wrong-direction-working-americans-jobs-economy",
-        "timestamp": 1642437831,
-        "sentiment": -2,
-        "published": "January 17, 2022 4:43 PM"
-    },
-    {
-        "title": "Beijing locks down office building with workers still inside over single Omicron case",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/01/17/china/beijing-omicron-olympics-mic-intl-hnk/index.html",
-        "timestamp": 1642438274,
-        "sentiment": -6,
-        "published": "January 17, 2022 4:51 PM"
-    },
-    {
-        "title": "'Vikings: Valhalla,' the sequel series to 'Vikings,' is being planned with multiple seasons in mind, says its creator: 'We're already in prep on season 3.'",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/vikings-valhalla-multiple-seasons/",
-        "timestamp": 1642439519,
-        "sentiment": 1,
-        "published": "January 17, 2022 5:11 PM"
-    },
-    {
-        "title": "\"The Expanse\" creators dig into a series ending still full of mystery",
-        "domain": "polygon.com",
-        "category": "television",
-        "link": "https://www.polygon.com/interviews/22884559/expanse-finale-explained-creators-james-sa-corey-naren-shankar",
-        "timestamp": 1642440882,
-        "sentiment": 1,
-        "published": "January 17, 2022 5:34 PM"
-    },
-    {
-        "title": "MLK III Tells Arizona Crowd History Will Remember Sinema Unkindly Over Filibuster",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/mlk-day-arizona-mlk-iii-kyrsten-sinema-filibuster_n_61e585ebe4b0c6802ee9fc92",
-        "timestamp": 1642441631,
-        "sentiment": -2,
-        "published": "January 17, 2022 5:47 PM"
-    },
-    {
-        "title": "The Undoing of Joss Whedon The Buffy creator, once an icon of Hollywood feminism, is now an outcast accused of misogyny. How did he get here?",
-        "domain": "vulture.com",
-        "category": "television",
-        "link": "https://www.vulture.com/article/joss-whedon-allegations.html",
-        "timestamp": 1642442570,
-        "sentiment": 1,
-        "published": "January 17, 2022 6:02 PM"
-    },
-    {
-        "title": "Russian dissident Alexei Navalny says he has 'no regrets': After spending a year behind bars, Navalny posted a message on social media telling his followers: \"Don't be afraid of anything.\"",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/alexei-navalny-says-he-has-no-regrets-1-year-since-arrest/a-60451223",
-        "timestamp": 1642445611,
-        "sentiment": -6,
-        "published": "January 17, 2022 6:53 PM"
-    },
-    {
-        "title": "UK says supplying Ukraine with weapons system to defend against Russia",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/uk/uk-says-supplying-ukraine-with-weapons-system-defend-against-russia-2022-01-17/",
-        "timestamp": 1642446675,
-        "sentiment": -6,
-        "published": "January 17, 2022 7:11 PM"
-    },
-    {
-        "title": "British military aircraft rapidly supplying weapons to Ukraine",
-        "domain": "ukdefencejournal.org.uk",
-        "category": "worldnews",
-        "link": "https://ukdefencejournal.org.uk/british-aircraft-transporting-anti-armour-weapons-to-ukraine/",
-        "timestamp": 1642447761,
-        "sentiment": -6,
-        "published": "January 17, 2022 7:29 PM"
-    },
-    {
-        "title": "Suspect arrested and charged with hate crime in alleged attack on Sikh taxi driver at JFK Airport",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/us/new-york-city-hate-crime-charge/index.html",
-        "timestamp": 1642451086,
-        "sentiment": -9,
-        "published": "January 17, 2022 8:24 PM"
-    },
-    {
-        "title": "Historic 'Jeopardy!' champion Amy Schneider was set to film episodes with Alex Trebek prior to his death, now \"fully supports\" Ken Jennings as a 'fantastic' pick for host but jokes she would like to get a turn as well",
-        "domain": "latimes.com",
-        "category": "television",
-        "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-01-17/amy-schneider-jeopardy-interview-ken-jennings",
-        "timestamp": 1642451862,
-        "sentiment": 1,
-        "published": "January 17, 2022 8:37 PM"
-    },
-    {
-        "title": "Canada deploys special forces to Ukraine amid rising tensions with Russia - National | Globalnews.ca",
-        "domain": "globalnews.ca",
-        "category": "worldnews",
-        "link": "https://globalnews.ca/news/8517110/canada-special-forces-ukraine-russia/",
-        "timestamp": 1642451992,
-        "sentiment": -6,
-        "published": "January 17, 2022 8:39 PM"
-    },
-    {
-        "title": "Parents of worker killed in tornado that hit Amazon facility are suing the company for wrongful death",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/tech/amazon-warehouse-death-tornado-lawsuit/index.html",
-        "timestamp": 1642457306,
-        "sentiment": -9,
-        "published": "January 17, 2022 10:08 PM"
     },
     {
         "title": "The world's 10 wealthiest men doubled their fortunes during the first two years of the coronavirus pandemic as poverty and inequality soared. Oxfam said the men's wealth jumped from $700 billion to $1.5 trillion, at an average rate of $1.3 billion per day",
