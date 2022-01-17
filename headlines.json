@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 17, 2022 12:44 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "television",
         "link": "https://people.com/tv/americas-funniest-home-videos-bob-saget-tribute/",
         "timestamp": 1642389459,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 17, 2022 3:17 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/economy/2022/1/17/chinas-birth-rate-drops-to-record-low",
         "timestamp": 1642393872,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 17, 2022 4:31 AM"
     },
     {
@@ -115,6 +115,15 @@
         "timestamp": 1642400759,
         "sentiment": -4,
         "published": "January 17, 2022 6:25 AM"
+    },
+    {
+        "title": "‘Yellowjackets’ Caps Off the Most Disturbing TV Season in Years — and One of the Best",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/01/yellowjackets-episode-10-review-finale-spoilers-1234690380/",
+        "timestamp": 1642407675,
+        "sentiment": 1,
+        "published": "January 17, 2022 8:21 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
