@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 17, 2022 12:44 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -52,15 +52,6 @@
         "timestamp": 1642393558,
         "sentiment": -5,
         "published": "January 17, 2022 4:25 AM"
-    },
-    {
-        "title": "China’s birth rate drops to record low",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/economy/2022/1/17/chinas-birth-rate-drops-to-record-low",
-        "timestamp": 1642393872,
-        "sentiment": 0,
-        "published": "January 17, 2022 4:31 AM"
     },
     {
         "title": "Unvaccinated to be banned from restaurants and other venues in France under new Covid law",
@@ -79,15 +70,6 @@
         "timestamp": 1642407675,
         "sentiment": 0,
         "published": "January 17, 2022 8:21 AM"
-    },
-    {
-        "title": "Cantona: I won't watch Qatar World Cup, people died building the stadiums",
-        "domain": "marca.com",
-        "category": "worldnews",
-        "link": "https://www.marca.com/en/world-cup/2022/01/12/61df1cbc22601d104e8b45bc.html",
-        "timestamp": 1642411909,
-        "sentiment": 0,
-        "published": "January 17, 2022 9:31 AM"
     },
     {
         "title": "Beijing locks down office building with workers still inside over single Omicron case",
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
         "timestamp": 1642417330,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 17, 2022 11:02 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/ron-desantis-florida-reelection-freedoms-vanguard-critics-see-authoritarian-streak",
         "timestamp": 1642417920,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 17, 2022 11:12 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://theintercept.com/2022/01/17/surprise-medical-billing-lawsuit/",
         "timestamp": 1642420903,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 17, 2022 12:01 PM"
     },
     {
@@ -140,8 +122,26 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
         "timestamp": 1642421294,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 17, 2022 12:08 PM"
+    },
+    {
+        "title": "China’s Xi says countries must abandon ‘Cold War mentality,’ warns against confrontation",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/01/17/davos-chinas-xi-says-countries-must-abandon-cold-war-mentality.html",
+        "timestamp": 1642421585,
+        "sentiment": -6,
+        "published": "January 17, 2022 12:13 PM"
+    },
+    {
+        "title": "Oxfam: 10 richest men in the world doubled wealth amid COVID pandemic",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/oxfam-10-richest-men-in-the-world-doubled-wealth-amid-covid-pandemic/a-60443448",
+        "timestamp": 1642421764,
+        "sentiment": -6,
+        "published": "January 17, 2022 12:16 PM"
     },
     {
         "title": "Is Ruben Gallego the perfect challenger to send Kyrsten Sinema packing from the Senate?",
@@ -149,8 +149,125 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/ruben-gallego-perfect-challenger-send-kyrsten-sinema-packing-senate/",
         "timestamp": 1642423872,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 17, 2022 12:51 PM"
+    },
+    {
+        "title": "Democrats see good chance of Garland prosecuting Trump",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/589858-democrats-see-good-chance-of-garland-prosecuting-trump",
+        "timestamp": 1642425524,
+        "sentiment": -2,
+        "published": "January 17, 2022 1:18 PM"
+    },
+    {
+        "title": "Charles McGee, brigadier general and one of the last surviving Tuskegee Airmen, dies at 102",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
+        "timestamp": 1642425594,
+        "sentiment": -5,
+        "published": "January 17, 2022 1:19 PM"
+    },
+    {
+        "title": "Enlisting Health Insurance Giants to Help With Rapid Covid Tests Was a Dumb Idea - One of the key lessons of the pandemic has been that this industry is utterly useless during a public health crisis.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
+        "timestamp": 1642425676,
+        "sentiment": -2,
+        "published": "January 17, 2022 1:21 PM"
+    },
+    {
+        "title": "Revealed: the Flint water poisoning charges that never came to light | Flint water crisis | The Guardian",
+        "domain": "amp.theguardian.com",
+        "category": "news",
+        "link": "https://amp.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
+        "timestamp": 1642426988,
+        "sentiment": -5,
+        "published": "January 17, 2022 1:43 PM"
+    },
+    {
+        "title": "It’s Long Past Time to Prosecute Phony GOP Electors",
+        "domain": "thebulwark.com",
+        "category": "politics",
+        "link": "https://www.thebulwark.com/its-long-past-time-to-prosecute-phony-gop-electors/",
+        "timestamp": 1642429055,
+        "sentiment": -2,
+        "published": "January 17, 2022 2:17 PM"
+    },
+    {
+        "title": "Russia would pay ‘high price’ for attack on Ukraine, says German minister | Germany",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/17/russia-ukraine-attack-german-minister-annalena-baerbock",
+        "timestamp": 1642429089,
+        "sentiment": -6,
+        "published": "January 17, 2022 2:18 PM"
+    },
+    {
+        "title": "Michigan: GOP-Backed Audit Finds No Fraud in County Trump Won Anyway",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/michigan-macomb-audit-no-fraud-trump-won-anyway-2022-1",
+        "timestamp": 1642429362,
+        "sentiment": -2,
+        "published": "January 17, 2022 2:22 PM"
+    },
+    {
+        "title": "CDC's suggestion to cancel football, band in nearly every US school called 'unrealistic'",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
+        "timestamp": 1642430359,
+        "sentiment": -5,
+        "published": "January 17, 2022 2:39 PM"
+    },
+    {
+        "title": "Moscow refuses to rule out Latin America military deployments | Conflict News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/17/moscow-refuses-to-rule-out-latin-america-military-deployments",
+        "timestamp": 1642431029,
+        "sentiment": -6,
+        "published": "January 17, 2022 2:50 PM"
+    },
+    {
+        "title": "The Lost Sheep of Danny McBride’s “The Righteous Gemstones”",
+        "domain": "newyorker.com",
+        "category": "television",
+        "link": "https://www.newyorker.com/magazine/2022/01/24/the-lost-sheep-of-danny-mcbrides-the-righteous-gemstones",
+        "timestamp": 1642432787,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:19 PM"
+    },
+    {
+        "title": "Peaky Blinders Will Now ‘Go Into And Beyond The Second World War’, Steven Knight Confirms",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/tv/news/peaky-blinders-beyond-second-world-war-steven-knight-exclusive/",
+        "timestamp": 1642434577,
+        "sentiment": 0,
+        "published": "January 17, 2022 3:49 PM"
+    },
+    {
+        "title": "China’s birth rate drops to record low",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/economy/2022/1/17/chinas-birth-rate-drops-to-record-low",
+        "timestamp": 1642393872,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:31 AM"
+    },
+    {
+        "title": "Cantona: I won't watch Qatar World Cup, people died building the stadiums",
+        "domain": "marca.com",
+        "category": "worldnews",
+        "link": "https://www.marca.com/en/world-cup/2022/01/12/61df1cbc22601d104e8b45bc.html",
+        "timestamp": 1642411909,
+        "sentiment": 0,
+        "published": "January 17, 2022 9:31 AM"
     },
     {
         "title": "'Obscene inequality': Oxfam says taxing the world's richest could help save lives",
@@ -180,33 +297,6 @@
         "published": "January 17, 2022 1:18 PM"
     },
     {
-        "title": "Democrats see good chance of Garland prosecuting Trump",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/senate/589858-democrats-see-good-chance-of-garland-prosecuting-trump",
-        "timestamp": 1642425524,
-        "sentiment": 3,
-        "published": "January 17, 2022 1:18 PM"
-    },
-    {
-        "title": "Charles McGee, brigadier general and one of the last surviving Tuskegee Airmen, dies at 102",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
-        "timestamp": 1642425594,
-        "sentiment": -5,
-        "published": "January 17, 2022 1:19 PM"
-    },
-    {
-        "title": "Enlisting Health Insurance Giants to Help With Rapid Covid Tests Was a Dumb Idea - One of the key lessons of the pandemic has been that this industry is utterly useless during a public health crisis.",
-        "domain": "newrepublic.com",
-        "category": "politics",
-        "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
-        "timestamp": 1642425676,
-        "sentiment": 3,
-        "published": "January 17, 2022 1:21 PM"
-    },
-    {
         "title": "Rotten Tomatoes deems 'Hellbound' the 'Best Horror Series' of 2021",
         "domain": "koreajoongangdaily.joins.com",
         "category": "television",
@@ -216,15 +306,6 @@
         "published": "January 17, 2022 1:32 PM"
     },
     {
-        "title": "Revealed: the Flint water poisoning charges that never came to light | Flint water crisis | The Guardian",
-        "domain": "amp.theguardian.com",
-        "category": "news",
-        "link": "https://amp.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
-        "timestamp": 1642426988,
-        "sentiment": -5,
-        "published": "January 17, 2022 1:43 PM"
-    },
-    {
         "title": "Arkansas inmates who were given ivermectin to treat COVID in jail file federal lawsuit: \"They used us as an experiment\"",
         "domain": "cbsnews.com",
         "category": "politics",
@@ -232,24 +313,6 @@
         "timestamp": 1642428198,
         "sentiment": 3,
         "published": "January 17, 2022 2:03 PM"
-    },
-    {
-        "title": "It’s Long Past Time to Prosecute Phony GOP Electors",
-        "domain": "thebulwark.com",
-        "category": "politics",
-        "link": "https://www.thebulwark.com/its-long-past-time-to-prosecute-phony-gop-electors/",
-        "timestamp": 1642429055,
-        "sentiment": 3,
-        "published": "January 17, 2022 2:17 PM"
-    },
-    {
-        "title": "CDC's suggestion to cancel football, band in nearly every US school called 'unrealistic'",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
-        "timestamp": 1642430359,
-        "sentiment": -5,
-        "published": "January 17, 2022 2:39 PM"
     },
     {
         "title": "COVID-19: New Omicron sub variant discovered in Israel",
