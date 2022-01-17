@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 17, 2022 12:44 AM"
     },
     {
@@ -81,12 +81,21 @@
         "published": "January 17, 2022 3:33 AM"
     },
     {
+        "title": "As things fall apart, the super-rich spend $2m on whisky. We need a wealth tax",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jan/13/super-rich-spend-2m-on-whisky-wealth-tax-pandemic",
+        "timestamp": 1642390954,
+        "sentiment": -3,
+        "published": "January 17, 2022 3:42 AM"
+    },
+    {
         "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
         "domain": "aljazeera.com",
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -104,17 +113,8 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/economy/2022/1/17/chinas-birth-rate-drops-to-record-low",
         "timestamp": 1642393872,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 17, 2022 4:31 AM"
-    },
-    {
-        "title": "Trump has been talking trash about Ron DeSantis in private, saying the Florida gov. has a 'dull personality' and is ungrateful: report",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-trash-talks-ron-desantis-in-private-dull-personality-report-2022-1",
-        "timestamp": 1642394662,
-        "sentiment": -3,
-        "published": "January 17, 2022 4:44 AM"
     },
     {
         "title": "Unvaccinated to be banned from restaurants and other venues in France under new Covid law",
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.marca.com/en/world-cup/2022/01/12/61df1cbc22601d104e8b45bc.html",
         "timestamp": 1642411909,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 17, 2022 9:31 AM"
     },
     {
@@ -149,8 +149,26 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/14/asia/india-hindu-extremist-groups-intl-hnk-dst/index.html",
         "timestamp": 1642415618,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 17, 2022 10:33 AM"
+    },
+    {
+        "title": "No vaccine, no French Open for Djokovic, says French Sports ministry",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
+        "timestamp": 1642421294,
+        "sentiment": -2,
+        "published": "January 17, 2022 12:08 PM"
+    },
+    {
+        "title": "Trump has been talking trash about Ron DeSantis in private, saying the Florida gov. has a 'dull personality' and is ungrateful: report",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-trash-talks-ron-desantis-in-private-dull-personality-report-2022-1",
+        "timestamp": 1642394662,
+        "sentiment": -3,
+        "published": "January 17, 2022 4:44 AM"
     },
     {
         "title": "Florida tornadoes destroy dozens of homes, leave 7,000 customers without power",
