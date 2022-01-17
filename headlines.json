@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60015294",
         "timestamp": 1642380058,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 12:40 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 12:44 AM"
-    },
-    {
-        "title": "Ghislaine Maxwell to reveal identity of ‘8 John Does’",
-        "domain": "news.com.au",
-        "category": "news",
-        "link": "https://www.news.com.au/world/north-america/ghislaine-maxwell-to-reveal-identity-of-8-john-does/news-story/ebb83f048dcab2d09fa265f9ef444d6d",
-        "timestamp": 1642383885,
-        "sentiment": 0,
-        "published": "January 17, 2022 1:44 AM"
     },
     {
         "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/anne-frank-betrayal-investigation-60-minutes-2022-01-16/",
         "timestamp": 1642393558,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/world-news/unvaccinated-people-excluded-venues-france-22772344",
         "timestamp": 1642400759,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 6:25 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/china/beijing-omicron-olympics-mic-intl-hnk/index.html",
         "timestamp": 1642414862,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 10:21 AM"
     },
     {
@@ -77,17 +68,8 @@
         "category": "news",
         "link": "https://www.nbc12.com/2022/01/17/judge-shames-72-year-old-cancer-patient-overgrown-yard/?fbclid=IwAR0OGbN54395G-wTcdJqPp2z_Z1PCwn15ndFKl3ViqlI_at8LS9weTNMvRQ",
         "timestamp": 1642417085,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 10:58 AM"
-    },
-    {
-        "title": "Revealed: the Flint water poisoning charges that never came to light",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
-        "timestamp": 1642417330,
-        "sentiment": -2,
-        "published": "January 17, 2022 11:02 AM"
     },
     {
         "title": "Ron DeSantis touts his state as ‘freedom’s vanguard’ but critics see authoritarianism",
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
         "timestamp": 1642421294,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 12:08 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/01/17/davos-chinas-xi-says-countries-must-abandon-cold-war-mentality.html",
         "timestamp": 1642421585,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 12:13 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
         "timestamp": 1642425594,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 1:19 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/17/russia-ukraine-attack-german-minister-annalena-baerbock",
         "timestamp": 1642429089,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 2:18 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/amys-kitchen-says-food-made-love-factory-say-job-left-injured-rcna8189",
         "timestamp": 1642430136,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 2:35 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/health/cdc-guidance-out-of-touch/index.html",
         "timestamp": 1642430359,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 2:39 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/moscow-refuses-to-rule-out-latin-america-military-deployments",
         "timestamp": 1642431029,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 2:50 PM"
     },
     {
@@ -216,6 +198,15 @@
         "published": "January 17, 2022 3:19 PM"
     },
     {
+        "title": "92% of patients treated with Pfizer antiviral improved",
+        "domain": "m.jpost.com",
+        "category": "worldnews",
+        "link": "https://m.jpost.com/breaking-news/article-692757",
+        "timestamp": 1642433800,
+        "sentiment": -3,
+        "published": "January 17, 2022 3:36 PM"
+    },
+    {
         "title": "McConnell bombarded with criticism over voting rights stance after posting Martin Luther King Day tribute",
         "domain": "independent.co.uk",
         "category": "politics",
@@ -223,6 +214,15 @@
         "timestamp": 1642433975,
         "sentiment": -2,
         "published": "January 17, 2022 3:39 PM"
+    },
+    {
+        "title": "Trump is briefing insiders that DeSantis is too dull to be president",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-desantis-dull-president-2024-b1994560.html",
+        "timestamp": 1642434066,
+        "sentiment": -2,
+        "published": "January 17, 2022 3:41 PM"
     },
     {
         "title": "North Carolina voters sue to ban Madison Cawthorn from ballot",
@@ -234,15 +234,6 @@
         "published": "January 17, 2022 3:41 PM"
     },
     {
-        "title": "Nearly 50 percent chance of \"major war\" over Russia-Ukraine: Ex Ambassador",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-ukraine-invasion-major-war-europe-bill-taylor-former-us-ambassador-cnn-1670024",
-        "timestamp": 1642434377,
-        "sentiment": -6,
-        "published": "January 17, 2022 3:46 PM"
-    },
-    {
         "title": "Peaky Blinders Will Now ‘Go Into And Beyond The Second World War’, Steven Knight Confirms",
         "domain": "empireonline.com",
         "category": "television",
@@ -250,6 +241,15 @@
         "timestamp": 1642434577,
         "sentiment": 0,
         "published": "January 17, 2022 3:49 PM"
+    },
+    {
+        "title": "Los Angeles nurse dies after being attacked at bus stop",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/us/los-angeles-nurse-attacked-dies/index.html",
+        "timestamp": 1642437569,
+        "sentiment": 3,
+        "published": "January 17, 2022 4:39 PM"
     },
     {
         "title": "Bernie Sanders says Democratic Party has 'turned its back' on working Americans",
@@ -275,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60024228",
         "timestamp": 1642439676,
-        "sentiment": -6,
+        "sentiment": -3,
         "published": "January 17, 2022 5:14 PM"
     },
     {
@@ -293,8 +293,44 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/arkansas-inmates-ivermectin-federal-lawsuit-jail/?ftag=CNM-00-10aac3a",
         "timestamp": 1642441252,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 17, 2022 5:40 PM"
+    },
+    {
+        "title": "The Undoing of Joss Whedon The Buffy creator, once an icon of Hollywood feminism, is now an outcast accused of misogyny. How did he get here?",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/article/joss-whedon-allegations.html",
+        "timestamp": 1642442570,
+        "sentiment": 0,
+        "published": "January 17, 2022 6:02 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell to reveal identity of ‘8 John Does’",
+        "domain": "news.com.au",
+        "category": "news",
+        "link": "https://www.news.com.au/world/north-america/ghislaine-maxwell-to-reveal-identity-of-8-john-does/news-story/ebb83f048dcab2d09fa265f9ef444d6d",
+        "timestamp": 1642383885,
+        "sentiment": 0,
+        "published": "January 17, 2022 1:44 AM"
+    },
+    {
+        "title": "Revealed: the Flint water poisoning charges that never came to light",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
+        "timestamp": 1642417330,
+        "sentiment": -2,
+        "published": "January 17, 2022 11:02 AM"
+    },
+    {
+        "title": "Nearly 50 percent chance of \"major war\" over Russia-Ukraine: Ex Ambassador",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-ukraine-invasion-major-war-europe-bill-taylor-former-us-ambassador-cnn-1670024",
+        "timestamp": 1642434377,
+        "sentiment": -6,
+        "published": "January 17, 2022 3:46 PM"
     },
     {
         "title": "Taliban announces a national suicide brigade",
