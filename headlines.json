@@ -1,14 +1,5 @@
 [
     {
-        "title": "Sen. Mitt Romney says Biden was 'elected to stop the crazy' and argues that voters weren't asking him 'to transform America'",
-        "domain": "businessinsider.com.au",
-        "category": "politics",
-        "link": "https://www.businessinsider.com.au/romney-biden-elected-stop-crazy-not-transform-america-trump-2022-1",
-        "timestamp": 1642378990,
-        "sentiment": -2,
-        "published": "January 17, 2022 12:23 AM"
-    },
-    {
         "title": "COVID-19: New Omicron sub variant discovered in Israel",
         "domain": "jpost.com",
         "category": "news",
@@ -32,17 +23,8 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220117-world-s-10-richest-men-doubled-wealth-during-covid-report",
         "timestamp": 1642380267,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "January 17, 2022 12:44 AM"
-    },
-    {
-        "title": "Alexandria Ocasio-Cortez Says 'COVID Was No Joke,' Shares Photos After Recovery",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/alexandria-ocasio-cortez-covid-recovery_n_61e491c6e4b0a864b0744623",
-        "timestamp": 1642381948,
-        "sentiment": -2,
-        "published": "January 17, 2022 1:12 AM"
     },
     {
         "title": "Ghislaine Maxwell to reveal identity of ‘8 John Does’",
@@ -72,21 +54,12 @@
         "published": "January 17, 2022 3:33 AM"
     },
     {
-        "title": "As things fall apart, the super-rich spend $2m on whisky. We need a wealth tax",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/jan/13/super-rich-spend-2m-on-whisky-wealth-tax-pandemic",
-        "timestamp": 1642390954,
-        "sentiment": -2,
-        "published": "January 17, 2022 3:42 AM"
-    },
-    {
         "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
         "domain": "aljazeera.com",
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
         "timestamp": 1642393509,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "January 17, 2022 4:25 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/economy/2022/1/17/chinas-birth-rate-drops-to-record-low",
         "timestamp": 1642393872,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "January 17, 2022 4:31 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.marca.com/en/world-cup/2022/01/12/61df1cbc22601d104e8b45bc.html",
         "timestamp": 1642411909,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "January 17, 2022 9:31 AM"
     },
     {
@@ -142,15 +115,6 @@
         "timestamp": 1642414862,
         "sentiment": 0,
         "published": "January 17, 2022 10:21 AM"
-    },
-    {
-        "title": "India's Hindu extremists are calling for genocide against Muslims. Why is little being done to stop them?",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/14/asia/india-hindu-extremist-groups-intl-hnk-dst/index.html",
-        "timestamp": 1642415618,
-        "sentiment": -1,
-        "published": "January 17, 2022 10:33 AM"
     },
     {
         "title": "Judge shames 72 year old cancer patient for overgrown yard",
@@ -167,7 +131,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/flint-water-poisoning-charges",
         "timestamp": 1642417330,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 17, 2022 11:02 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/ron-desantis-florida-reelection-freedoms-vanguard-critics-see-authoritarian-streak",
         "timestamp": 1642417920,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 17, 2022 11:12 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://theintercept.com/2022/01/17/surprise-medical-billing-lawsuit/",
         "timestamp": 1642420903,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 17, 2022 12:01 PM"
     },
     {
@@ -194,8 +158,125 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/",
         "timestamp": 1642421294,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "January 17, 2022 12:08 PM"
+    },
+    {
+        "title": "Is Ruben Gallego the perfect challenger to send Kyrsten Sinema packing from the Senate?",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/ruben-gallego-perfect-challenger-send-kyrsten-sinema-packing-senate/",
+        "timestamp": 1642423872,
+        "sentiment": 3,
+        "published": "January 17, 2022 12:51 PM"
+    },
+    {
+        "title": "'Obscene inequality': Oxfam says taxing the world's richest could help save lives",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/01/17/oxfam-on-covid-inequality-tax-rich-to-pay-for-vaccines-protect-climate.html",
+        "timestamp": 1642423956,
+        "sentiment": 4,
+        "published": "January 17, 2022 12:52 PM"
+    },
+    {
+        "title": "Japanese firefighter has his pay slashed after officials discover his YouTube gaming channel",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/next/2022/01/17/japanese-firefighter-has-his-pay-slashed-after-officials-discover-his-youtube-gaming-chann",
+        "timestamp": 1642425400,
+        "sentiment": 4,
+        "published": "January 17, 2022 1:16 PM"
+    },
+    {
+        "title": "How I learned the power of lies: Fact and falsehood in the age of Trump (and long before) Covering George Wallace taught me this: If people like lies better than truth, you can't change their minds",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/17/how-i-learned-the-power-of-lies-fact-and-falsehood-in-the-age-of-and-long-before/",
+        "timestamp": 1642425508,
+        "sentiment": 3,
+        "published": "January 17, 2022 1:18 PM"
+    },
+    {
+        "title": "Charles McGee, brigadier general and one of the last surviving Tuskegee Airmen, dies at 102",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/charles-mcgee-tuskegee-airmen-obituary-veteran/11476834/",
+        "timestamp": 1642425594,
+        "sentiment": 0,
+        "published": "January 17, 2022 1:19 PM"
+    },
+    {
+        "title": "Enlisting Health Insurance Giants to Help With Rapid Covid Tests Was a Dumb Idea - One of the key lessons of the pandemic has been that this industry is utterly useless during a public health crisis.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
+        "timestamp": 1642425676,
+        "sentiment": 3,
+        "published": "January 17, 2022 1:21 PM"
+    },
+    {
+        "title": "QAnon followers believe Donald Trump used \"body double\" at Arizona rally",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/qanon-followers-believe-donald-trump-used-body-double-arizona-rally-1669936",
+        "timestamp": 1642427045,
+        "sentiment": 3,
+        "published": "January 17, 2022 1:44 PM"
+    },
+    {
+        "title": "\"They used us as an experiment\": Arkansas inmates who were given ivermectin to treat COVID file federal lawsuit against jail",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/arkansas-inmates-ivermectin-federal-lawsuit-jail/?ftag=CNM-00-10aag7e&s=09",
+        "timestamp": 1642428165,
+        "sentiment": 0,
+        "published": "January 17, 2022 2:02 PM"
+    },
+    {
+        "title": "Arkansas inmates who were given ivermectin to treat COVID in jail file federal lawsuit: \"They used us as an experiment\"",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/arkansas-inmates-ivermectin-federal-lawsuit-jail/?ftag=CNM-00-10aag7e&s=09",
+        "timestamp": 1642428198,
+        "sentiment": 3,
+        "published": "January 17, 2022 2:03 PM"
+    },
+    {
+        "title": "Sen. Mitt Romney says Biden was 'elected to stop the crazy' and argues that voters weren't asking him 'to transform America'",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/romney-biden-elected-stop-crazy-not-transform-america-trump-2022-1",
+        "timestamp": 1642378990,
+        "sentiment": -2,
+        "published": "January 17, 2022 12:23 AM"
+    },
+    {
+        "title": "Alexandria Ocasio-Cortez Says 'COVID Was No Joke,' Shares Photos After Recovery",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/alexandria-ocasio-cortez-covid-recovery_n_61e491c6e4b0a864b0744623",
+        "timestamp": 1642381948,
+        "sentiment": -2,
+        "published": "January 17, 2022 1:12 AM"
+    },
+    {
+        "title": "As things fall apart, the super-rich spend $2m on whisky. We need a wealth tax",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jan/13/super-rich-spend-2m-on-whisky-wealth-tax-pandemic",
+        "timestamp": 1642390954,
+        "sentiment": -2,
+        "published": "January 17, 2022 3:42 AM"
+    },
+    {
+        "title": "India's Hindu extremists are calling for genocide against Muslims. Why is little being done to stop them?",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/14/asia/india-hindu-extremist-groups-intl-hnk-dst/index.html",
+        "timestamp": 1642415618,
+        "sentiment": -1,
+        "published": "January 17, 2022 10:33 AM"
     },
     {
         "title": "Covid vaccination to be compulsory from February, says Austrian chancellor. Those who refuse to take the vaccine would face fines upto $4,100.",
