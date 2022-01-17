@@ -9,15 +9,6 @@
         "published": "January 17, 2022 12:44 AM"
     },
     {
-        "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
-        "timestamp": 1642393509,
-        "sentiment": 0,
-        "published": "January 17, 2022 4:25 AM"
-    },
-    {
         "title": "Betrayer of Anne Frank revealed; man named Arnold van den Bergh",
         "domain": "cbsnews.com",
         "category": "news",
@@ -41,7 +32,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/01/yellowjackets-episode-10-review-finale-spoilers-1234690380/",
         "timestamp": 1642407675,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 8:21 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/17/ron-desantis-florida-reelection-freedoms-vanguard-critics-see-authoritarian-streak",
         "timestamp": 1642417920,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 11:12 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://theintercept.com/2022/01/17/surprise-medical-billing-lawsuit/",
         "timestamp": 1642420903,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 12:01 PM"
     },
     {
@@ -90,21 +81,12 @@
         "published": "January 17, 2022 12:08 PM"
     },
     {
-        "title": "China’s Xi says countries must abandon ‘Cold War mentality,’ warns against confrontation",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/01/17/davos-chinas-xi-says-countries-must-abandon-cold-war-mentality.html",
-        "timestamp": 1642421585,
-        "sentiment": 0,
-        "published": "January 17, 2022 12:13 PM"
-    },
-    {
         "title": "Democrats see good chance of Garland prosecuting Trump",
         "domain": "thehill.com",
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/589858-democrats-see-good-chance-of-garland-prosecuting-trump",
         "timestamp": 1642425524,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 1:18 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/165043/rapid-tests-health-insurance-biden",
         "timestamp": 1642425676,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 1:21 PM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.thebulwark.com/its-long-past-time-to-prosecute-phony-gop-electors/",
         "timestamp": 1642429055,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 2:17 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/michigan-macomb-audit-no-fraud-trump-won-anyway-2022-1",
         "timestamp": 1642429362,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 2:22 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "television",
         "link": "https://www.newyorker.com/magazine/2022/01/24/the-lost-sheep-of-danny-mcbrides-the-righteous-gemstones",
         "timestamp": 1642432787,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 3:19 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/mlk-mcconnell-tweet-voting-rights-b1994609.html",
         "timestamp": 1642433975,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 3:39 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-desantis-dull-president-2024-b1994560.html",
         "timestamp": 1642434066,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 3:41 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-2022-election-capitol-riot-b1990693.html",
         "timestamp": 1642434073,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 3:41 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/peaky-blinders-beyond-second-world-war-steven-knight-exclusive/",
         "timestamp": 1642434577,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 3:49 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "politics",
         "link": "https://www.foxnews.com/politics/bernie-sanders-democrats-wrong-direction-working-americans-jobs-economy",
         "timestamp": 1642437831,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 17, 2022 4:43 PM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "television",
         "link": "https://ew.com/tv/vikings-valhalla-multiple-seasons/",
         "timestamp": 1642439519,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 5:11 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "television",
         "link": "https://www.polygon.com/interviews/22884559/expanse-finale-explained-creators-james-sa-corey-naren-shankar",
         "timestamp": 1642440882,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 5:34 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "television",
         "link": "https://www.vulture.com/article/joss-whedon-allegations.html",
         "timestamp": 1642442570,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 17, 2022 6:02 PM"
     },
     {
@@ -306,6 +288,15 @@
         "published": "January 17, 2022 6:53 PM"
     },
     {
+        "title": "UK says supplying Ukraine with weapons system to defend against Russia",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/uk-says-supplying-ukraine-with-weapons-system-defend-against-russia-2022-01-17/",
+        "timestamp": 1642446675,
+        "sentiment": 0,
+        "published": "January 17, 2022 7:11 PM"
+    },
+    {
         "title": "British military aircraft rapidly supplying weapons to Ukraine",
         "domain": "ukdefencejournal.org.uk",
         "category": "worldnews",
@@ -313,6 +304,42 @@
         "timestamp": 1642447761,
         "sentiment": 0,
         "published": "January 17, 2022 7:29 PM"
+    },
+    {
+        "title": "Historic 'Jeopardy!' champion Amy Schneider was set to film episodes with Alex Trebek prior to his death, now \"fully supports\" Ken Jennings as a 'fantastic' pick for host but jokes she would like to get a turn as well",
+        "domain": "latimes.com",
+        "category": "television",
+        "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-01-17/amy-schneider-jeopardy-interview-ken-jennings",
+        "timestamp": 1642451862,
+        "sentiment": 1,
+        "published": "January 17, 2022 8:37 PM"
+    },
+    {
+        "title": "Canada deploys special forces to Ukraine amid rising tensions with Russia - National | Globalnews.ca",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8517110/canada-special-forces-ukraine-russia/",
+        "timestamp": 1642451992,
+        "sentiment": 0,
+        "published": "January 17, 2022 8:39 PM"
+    },
+    {
+        "title": "Tonga calls for ‘immediate aid’ after volcanic eruption, tsunami",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/17/tonga-calls-for-immediate-aid-after-volcanic-eruption-tsunami",
+        "timestamp": 1642393509,
+        "sentiment": 0,
+        "published": "January 17, 2022 4:25 AM"
+    },
+    {
+        "title": "China’s Xi says countries must abandon ‘Cold War mentality,’ warns against confrontation",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/01/17/davos-chinas-xi-says-countries-must-abandon-cold-war-mentality.html",
+        "timestamp": 1642421585,
+        "sentiment": 0,
+        "published": "January 17, 2022 12:13 PM"
     },
     {
         "title": "Wealth of world's 10 richest men doubled in pandemic, Oxfam says",
