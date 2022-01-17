@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/16/us/florida-tornadoes-damages/index.html",
         "timestamp": 1642377938,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 17, 2022 12:05 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com.au/romney-biden-elected-stop-crazy-not-transform-america-trump-2022-1",
         "timestamp": 1642378990,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 17, 2022 12:23 AM"
+    },
+    {
+        "title": "COVID-19: New Omicron sub variant discovered in Israel",
+        "domain": "jpost.com",
+        "category": "news",
+        "link": "https://www.jpost.com/breaking-news/article-692495",
+        "timestamp": 1642379511,
+        "sentiment": -4,
+        "published": "January 17, 2022 12:31 AM"
     },
     {
         "title": "Wealth of world's 10 richest men doubled in pandemic, Oxfam says",
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60015294",
         "timestamp": 1642380058,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 17, 2022 12:40 AM"
     },
     {
@@ -36,13 +45,40 @@
         "published": "January 17, 2022 12:44 AM"
     },
     {
+        "title": "Alexandria Ocasio-Cortez Says 'COVID Was No Joke,' Shares Photos After Recovery",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/alexandria-ocasio-cortez-covid-recovery_n_61e491c6e4b0a864b0744623",
+        "timestamp": 1642381948,
+        "sentiment": 0,
+        "published": "January 17, 2022 1:12 AM"
+    },
+    {
         "title": "Ghislaine Maxwell to reveal identity of ‘8 John Does’",
         "domain": "news.com.au",
         "category": "news",
         "link": "https://www.news.com.au/world/north-america/ghislaine-maxwell-to-reveal-identity-of-8-john-does/news-story/ebb83f048dcab2d09fa265f9ef444d6d",
         "timestamp": 1642383885,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 17, 2022 1:44 AM"
+    },
+    {
+        "title": "America's Funniest Home Videos Airs Tribute to Late Host Bob Saget: 'The World Lost a Legend'",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/americas-funniest-home-videos-bob-saget-tribute/",
+        "timestamp": 1642389459,
+        "sentiment": -6,
+        "published": "January 17, 2022 3:17 AM"
+    },
+    {
+        "title": "Taliban announces a national suicide brigade",
+        "domain": "asiatimes.com",
+        "category": "news",
+        "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
+        "timestamp": 1642390382,
+        "sentiment": -4,
+        "published": "January 17, 2022 3:33 AM"
     },
     {
         "title": "Netflix to step up investment in Korean content, Netflix Korea VP says",
