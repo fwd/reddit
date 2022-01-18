@@ -1,14 +1,5 @@
 [
     {
-        "title": "Sinema's MLK Day Tweet Sparks Online Fury | One group criticized the Democratic senator from Arizona as \"the white moderate MLK warned us about.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/17/sinemas-mlk-day-tweet-sparks-online-fury",
-        "timestamp": 1642464671,
-        "sentiment": -1,
-        "published": "January 18, 2022 12:11 AM"
-    },
-    {
         "title": "Representative Matt Gaetz's ex-girlfriend granted immunity in sex trafficking probe",
         "domain": "cbsnews.com",
         "category": "news",
@@ -32,26 +23,8 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/paris-hilton-cooking-with-paris-canceled-netflix-1234913638/",
         "timestamp": 1642467335,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "January 18, 2022 12:55 AM"
-    },
-    {
-        "title": "Marjorie Taylor Greene uses MLK Day to announce 'a new segregation' for the unvaccinated",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/marjorie-taylor-greene-uses-mlk-day-announce-new-segregation-unvaccinated-1670136",
-        "timestamp": 1642467687,
-        "sentiment": -1,
-        "published": "January 18, 2022 1:01 AM"
-    },
-    {
-        "title": "Florida Democrats ask DOJ to investigate voter suppression",
-        "domain": "tampabay.com",
-        "category": "politics",
-        "link": "https://www.tampabay.com/news/florida-politics/2022/01/13/florida-democrats-ask-doj-to-investigate-voter-suppression/",
-        "timestamp": 1642469032,
-        "sentiment": -1,
-        "published": "January 18, 2022 1:23 AM"
     },
     {
         "title": "Revealed: The Billionaires Funding the Coup's Brain Trust",
@@ -77,7 +50,7 @@
         "category": "television",
         "link": "https://collider.com/moon-knight-release-date-oscar-isaac-disney-plus/",
         "timestamp": 1642474471,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "January 18, 2022 2:54 AM"
     },
     {
@@ -106,15 +79,6 @@
         "timestamp": 1642494488,
         "sentiment": 0,
         "published": "January 18, 2022 8:28 AM"
-    },
-    {
-        "title": "Apple TV+’s ‘The Afterparty’: TV Review. The Bottom Line: A genre-hopping blast.",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-afterparty-tv-review-1235073324/",
-        "timestamp": 1642495040,
-        "sentiment": 0,
-        "published": "January 18, 2022 8:37 AM"
     },
     {
         "title": "Hong Kong to kill all hamsters in pet shops after the animal tests positive of Covid-19 in world's first case",
@@ -180,15 +144,6 @@
         "published": "January 18, 2022 11:27 AM"
     },
     {
-        "title": "Texas synagogue hostage taker was known to MI5",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/uk-60038207",
-        "timestamp": 1642505418,
-        "sentiment": 0,
-        "published": "January 18, 2022 11:30 AM"
-    },
-    {
         "title": "France passes law to exclude unvaccinated people from public places",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
@@ -225,22 +180,22 @@
         "published": "January 18, 2022 11:56 AM"
     },
     {
-        "title": "The Taliban has announced it will establish a battalion of suicide attackers as part of the national army of Afghanistan.",
-        "domain": "asiatimes.com",
-        "category": "worldnews",
-        "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
-        "timestamp": 1642509833,
-        "sentiment": 0,
-        "published": "January 18, 2022 12:43 PM"
-    },
-    {
         "title": "The 'Never Have I Ever' Star, Maitreyi Ramakrishnan to Receive Canadian Screen Awards Special Honor",
         "domain": "hollywoodreporter.com",
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/maitreyi-ramakrishnan-canadian-screen-awards-honor-1235075992/",
         "timestamp": 1642511305,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "January 18, 2022 1:08 PM"
+    },
+    {
+        "title": "Florida governor proposes special police agency to monitor elections",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/01/18/florida-governor-proposes-special-police-agency-monitor-elections/?utm_campaign=wp_main&utm_medium=social&utm_source=twitter",
+        "timestamp": 1642512674,
+        "sentiment": -1,
+        "published": "January 18, 2022 1:31 PM"
     },
     {
         "title": "Microsoft to buy Activision Blizzard for $68.7 billion",
@@ -252,13 +207,22 @@
         "published": "January 18, 2022 1:35 PM"
     },
     {
-        "title": "Microsoft Has Acquired Activision In A Whopping $70 Billion Deal",
-        "domain": "exputer.com",
+        "title": "Sinema, Manchin slammed as Senate begins voting bill debate",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/elections-voting-race-and-ethnicity-racial-injustice-martin-luther-king-iii-d7370d915d0fbcc180dcd1fecbad46b9",
+        "timestamp": 1642514454,
+        "sentiment": -1,
+        "published": "January 18, 2022 2:00 PM"
+    },
+    {
+        "title": "British Prime Minister Boris Johnson: Nobody warned me drinks event was against rules",
+        "domain": "bbc.com",
         "category": "worldnews",
-        "link": "https://exputer.com/news/industry/microsoft-acquiring-activision-in-70-billion/",
-        "timestamp": 1642513640,
+        "link": "https://www.bbc.com/news/uk-politics-60039868",
+        "timestamp": 1642516036,
         "sentiment": 0,
-        "published": "January 18, 2022 1:47 PM"
+        "published": "January 18, 2022 2:27 PM"
     },
     {
         "title": "Nobody warned me drinks event was against rules - Boris Johnson",
@@ -268,6 +232,87 @@
         "timestamp": 1642516475,
         "sentiment": 0,
         "published": "January 18, 2022 2:34 PM"
+    },
+    {
+        "title": "Kenya withdraws from Beijing Winter Olympics",
+        "domain": "nation.africa",
+        "category": "news",
+        "link": "https://nation.africa/kenya/sports/other-sports/kenya-withdraws-from-beijing-winter-olympics-3686330",
+        "timestamp": 1642518147,
+        "sentiment": 0,
+        "published": "January 18, 2022 3:02 PM"
+    },
+    {
+        "title": "One of Alex Trebek's handpicked \"Jeopardy!\" potential successors, legal analyst Laura Coates, says studio rejected her bid to guest host: \"I asked for the opportunity when it came time... and I was told 'no'\"",
+        "domain": "newsweek.com",
+        "category": "television",
+        "link": "https://www.newsweek.com/alex-trebek-handpicked-jeopardy-successor-laura-coates-says-producers-rejected-her-1670213",
+        "timestamp": 1642521777,
+        "sentiment": 6,
+        "published": "January 18, 2022 4:02 PM"
+    },
+    {
+        "title": "Sinema's MLK Day Tweet Sparks Online Fury | One group criticized the Democratic senator from Arizona as \"the white moderate MLK warned us about.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/17/sinemas-mlk-day-tweet-sparks-online-fury",
+        "timestamp": 1642464671,
+        "sentiment": -1,
+        "published": "January 18, 2022 12:11 AM"
+    },
+    {
+        "title": "Marjorie Taylor Greene uses MLK Day to announce 'a new segregation' for the unvaccinated",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/marjorie-taylor-greene-uses-mlk-day-announce-new-segregation-unvaccinated-1670136",
+        "timestamp": 1642467687,
+        "sentiment": -1,
+        "published": "January 18, 2022 1:01 AM"
+    },
+    {
+        "title": "Florida Democrats ask DOJ to investigate voter suppression",
+        "domain": "tampabay.com",
+        "category": "politics",
+        "link": "https://www.tampabay.com/news/florida-politics/2022/01/13/florida-democrats-ask-doj-to-investigate-voter-suppression/",
+        "timestamp": 1642469032,
+        "sentiment": -1,
+        "published": "January 18, 2022 1:23 AM"
+    },
+    {
+        "title": "Apple TV+’s ‘The Afterparty’: TV Review. The Bottom Line: A genre-hopping blast.",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-afterparty-tv-review-1235073324/",
+        "timestamp": 1642495040,
+        "sentiment": 0,
+        "published": "January 18, 2022 8:37 AM"
+    },
+    {
+        "title": "Texas synagogue hostage taker was known to MI5",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/uk-60038207",
+        "timestamp": 1642505418,
+        "sentiment": 0,
+        "published": "January 18, 2022 11:30 AM"
+    },
+    {
+        "title": "The Taliban has announced it will establish a battalion of suicide attackers as part of the national army of Afghanistan.",
+        "domain": "asiatimes.com",
+        "category": "worldnews",
+        "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
+        "timestamp": 1642509833,
+        "sentiment": 0,
+        "published": "January 18, 2022 12:43 PM"
+    },
+    {
+        "title": "Microsoft Has Acquired Activision In A Whopping $70 Billion Deal",
+        "domain": "exputer.com",
+        "category": "worldnews",
+        "link": "https://exputer.com/news/industry/microsoft-acquiring-activision-in-70-billion/",
+        "timestamp": 1642513640,
+        "sentiment": 0,
+        "published": "January 18, 2022 1:47 PM"
     },
     {
         "title": "Liz Cheney’s Wyoming Nemesis Is an Oath Keeper Who Was at Capitol Rally",
