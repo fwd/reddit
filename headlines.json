@@ -5,8 +5,269 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/matt-gaetz-ex-girlfriend-immunity-sex-trafficking-probe/",
         "timestamp": 1642465859,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 18, 2022 12:30 AM"
+    },
+    {
+        "title": "Paris Hilton’s ‘Cooking With Paris’ Canceled By Netflix After One Season",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/paris-hilton-cooking-with-paris-canceled-netflix-1234913638/",
+        "timestamp": 1642467335,
+        "sentiment": 0,
+        "published": "January 18, 2022 12:55 AM"
+    },
+    {
+        "title": "Revealed: The Billionaires Funding the Coup's Brain Trust",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/devos-bradley-claremont-trump-election-fraud-insurrection-1274253/?src=tw",
+        "timestamp": 1642470442,
+        "sentiment": 0,
+        "published": "January 18, 2022 1:47 AM"
+    },
+    {
+        "title": "British woman swept away by wave while trying to rescue dogs is found dead in Tonga, brother says",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/angela-glover-dead-tonga-tsunami-brother-says/",
+        "timestamp": 1642471522,
+        "sentiment": -3,
+        "published": "January 18, 2022 2:05 AM"
+    },
+    {
+        "title": "The Omicron surge hasn't peaked nationwide, and 'the next few weeks will be tough,' US surgeon general says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/health/us-coronavirus-monday/index.html",
+        "timestamp": 1642472840,
+        "sentiment": -6,
+        "published": "January 18, 2022 2:27 AM"
+    },
+    {
+        "title": "'Moon Knight': March 30 Release Date Revealed for Oscar Isaac Marvel Series on Disney+",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/moon-knight-release-date-oscar-isaac-disney-plus/",
+        "timestamp": 1642474471,
+        "sentiment": 0,
+        "published": "January 18, 2022 2:54 AM"
+    },
+    {
+        "title": "‘I’m one of the nicer showrunners’: Joss Whedon denies misconduct allegations",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/culture/2022/jan/18/im-one-of-the-nicer-showrunners-joss-whedon-denies-misconduct-allegations",
+        "timestamp": 1642481320,
+        "sentiment": -6,
+        "published": "January 18, 2022 4:48 AM"
+    },
+    {
+        "title": "Dr. Bernice A. King: I think it's time for massive civil disobedience, noncooperation with evil",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/watch/martin-luther-king-s-legacy-is-remembered-by-his-daughter-dr-bernice-king-131079237547",
+        "timestamp": 1642491898,
+        "sentiment": 0,
+        "published": "January 18, 2022 7:44 AM"
+    },
+    {
+        "title": "Settlements on Tonga No Longer Visible After Eruption",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-60019814",
+        "timestamp": 1642494488,
+        "sentiment": -3,
+        "published": "January 18, 2022 8:28 AM"
+    },
+    {
+        "title": "Chemical pollution has passed safe limit for humanity, say scientists",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jan/18/chemical-pollution-has-passed-safe-limit-for-humanity-say-scientists?CMP=Share_iOSApp_Other",
+        "timestamp": 1642500427,
+        "sentiment": -6,
+        "published": "January 18, 2022 10:07 AM"
+    },
+    {
+        "title": "Norwegian killer Breivik begins parole hearing with Nazi salute",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/mass-killer-breiviks-parole-hearing-begin-tuesday-norway-2022-01-17/?taid=61e690cf38cdb90001240bb4&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1642501321,
+        "sentiment": -3,
+        "published": "January 18, 2022 10:22 AM"
+    },
+    {
+        "title": "Polish Bishop Sparks Backlash After Suggesting Altar Boy Derived 'Pleasure' From Priest's Sexual Abuse Because He Was Gay",
+        "domain": "ibtimes.sg",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.sg/polish-bishop-sparks-backlash-after-suggesting-altar-boy-derived-pleasure-priests-sexual-abuse-62304",
+        "timestamp": 1642502421,
+        "sentiment": -3,
+        "published": "January 18, 2022 10:40 AM"
+    },
+    {
+        "title": "A large Russian cargo plane took a lengthy, unexpected, and unexplained route over central and southern Finland on Saturday night, passing over Finland's Air Force headquarters and a military intelligence unit.",
+        "domain": "yle.fi",
+        "category": "news",
+        "link": "https://yle.fi/news/3-12275191",
+        "timestamp": 1642503887,
+        "sentiment": -6,
+        "published": "January 18, 2022 11:04 AM"
+    },
+    {
+        "title": "All houses destroyed on an island devastated by deadly tsunami, Tonga government says in first words since volcano erupted",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-asia-60039617",
+        "timestamp": 1642504771,
+        "sentiment": -6,
+        "published": "January 18, 2022 11:19 AM"
+    },
+    {
+        "title": "On Eve of Key Fight, Sanders Asks: 'Will Manchin and Sinema Vote With GOP?' | \"We are not going to win the elections in 2022 unless our base is energized and ordinary people understand what we are fighting for, and how we are different than the Republicans.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/18/eve-key-fight-sanders-asks-will-manchin-and-sinema-vote-gop",
+        "timestamp": 1642505244,
+        "sentiment": 0,
+        "published": "January 18, 2022 11:27 AM"
+    },
+    {
+        "title": "France passes law to exclude unvaccinated people from public places",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10409899/French-parliament-approves-law-exclude-unvaccinated-people-public-places.html",
+        "timestamp": 1642505493,
+        "sentiment": -3,
+        "published": "January 18, 2022 11:31 AM"
+    },
+    {
+        "title": "If the Senate Fails to Act, Voting Is Not the Only Freedom on the Line",
+        "domain": "thenation.com",
+        "category": "politics",
+        "link": "https://www.thenation.com/article/politics/voting-abortion-democracy/",
+        "timestamp": 1642506504,
+        "sentiment": 0,
+        "published": "January 18, 2022 11:48 AM"
+    },
+    {
+        "title": "Donald Trump-Loving Republicans Celebrate MLK Day And Get Told Where To Go",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mlk-republicans-praise-backfires_n_61e66a1ce4b0d8b6656f964e",
+        "timestamp": 1642506559,
+        "sentiment": 0,
+        "published": "January 18, 2022 11:49 AM"
+    },
+    {
+        "title": "Lying to parliament a resigning matter, says Justice Secretary Dominic Raab, amid claims that Prime Minister Boris Johnson deliberately misled MPs over his knowledge of a Downing Street party",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/politics/2022/jan/18/raab-admits-lying-to-parliament-a-resigning-matter-amid-claims-pm-misled-mps-boris-johnson",
+        "timestamp": 1642507688,
+        "sentiment": -3,
+        "published": "January 18, 2022 12:08 PM"
+    },
+    {
+        "title": "The 'Never Have I Ever' Star, Maitreyi Ramakrishnan to Receive Canadian Screen Awards Special Honor",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/maitreyi-ramakrishnan-canadian-screen-awards-honor-1235075992/",
+        "timestamp": 1642511305,
+        "sentiment": 0,
+        "published": "January 18, 2022 1:08 PM"
+    },
+    {
+        "title": "Florida governor proposes special police agency to monitor elections",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/01/18/florida-governor-proposes-special-police-agency-monitor-elections/?utm_campaign=wp_main&utm_medium=social&utm_source=twitter",
+        "timestamp": 1642512674,
+        "sentiment": 0,
+        "published": "January 18, 2022 1:31 PM"
+    },
+    {
+        "title": "Microsoft to buy Activision Blizzard for $68.7 billion",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/microsoft-buy-activision-blizzard-deal-687-billion-2022-01-18/?utm_source=reddit.com",
+        "timestamp": 1642512928,
+        "sentiment": -6,
+        "published": "January 18, 2022 1:35 PM"
+    },
+    {
+        "title": "Sinema, Manchin slammed as Senate begins voting bill debate",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/elections-voting-race-and-ethnicity-racial-injustice-martin-luther-king-iii-d7370d915d0fbcc180dcd1fecbad46b9",
+        "timestamp": 1642514454,
+        "sentiment": 0,
+        "published": "January 18, 2022 2:00 PM"
+    },
+    {
+        "title": "Former Obama official blasts Supreme Court justices for blocking Biden's vaccine mandate: 'They really don't want to stop this pandemic'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/former-obama-official-criticizes-supreme-court-covid-vaccine-mandate-block-2022-1",
+        "timestamp": 1642518115,
+        "sentiment": 0,
+        "published": "January 18, 2022 3:01 PM"
+    },
+    {
+        "title": "Kenya withdraws from Beijing Winter Olympics",
+        "domain": "nation.africa",
+        "category": "news",
+        "link": "https://nation.africa/kenya/sports/other-sports/kenya-withdraws-from-beijing-winter-olympics-3686330",
+        "timestamp": 1642518147,
+        "sentiment": -6,
+        "published": "January 18, 2022 3:02 PM"
+    },
+    {
+        "title": "Germany continues blocking arms exports to Ukraine due to new foreign ‘peace’ policy",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/defence-and-security/news/germany-continues-blocking-arms-exports-to-ukraine-due-to-new-foreign-peace-policy/",
+        "timestamp": 1642518984,
+        "sentiment": -3,
+        "published": "January 18, 2022 3:16 PM"
+    },
+    {
+        "title": "Russian Troops Enter Belarus, Escalating Threat of Kyiv Encirclement",
+        "domain": "coffeeordie.com",
+        "category": "worldnews",
+        "link": "https://coffeeordie.com/russian-troops-belarus/",
+        "timestamp": 1642519383,
+        "sentiment": -3,
+        "published": "January 18, 2022 3:23 PM"
+    },
+    {
+        "title": "One of Alex Trebek's handpicked \"Jeopardy!\" potential successors, legal analyst Laura Coates, says studio rejected her bid to guest host: \"I asked for the opportunity when it came time... and I was told 'no'\"",
+        "domain": "newsweek.com",
+        "category": "television",
+        "link": "https://www.newsweek.com/alex-trebek-handpicked-jeopardy-successor-laura-coates-says-producers-rejected-her-1670213",
+        "timestamp": 1642521777,
+        "sentiment": 0,
+        "published": "January 18, 2022 4:02 PM"
+    },
+    {
+        "title": "Pay rises fail to keep up with the cost of living",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/business-60035312",
+        "timestamp": 1642523354,
+        "sentiment": -6,
+        "published": "January 18, 2022 4:29 PM"
+    },
+    {
+        "title": "Supreme Court’s Gorsuch refused to wear mask despite request over Sotomayor’s Covid concerns, report says",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2022/01/18/supreme-court-gorsuch-refused-to-wear-mask-despite-sotomayors-covid-concerns.html",
+        "timestamp": 1642523420,
+        "sentiment": 0,
+        "published": "January 18, 2022 4:30 PM"
     },
     {
         "title": "The Taliban has announced it will establish a battalion of suicide attackers as part of the national army of Afghanistan. | These “martyrdom brigades” will be “under the control of the ministry of defense and will be used for special operations,” according to Taliban spokesman Zabihullah Mujahid",
@@ -18,69 +279,6 @@
         "published": "January 18, 2022 12:41 AM"
     },
     {
-        "title": "Paris Hilton’s ‘Cooking With Paris’ Canceled By Netflix After One Season",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/paris-hilton-cooking-with-paris-canceled-netflix-1234913638/",
-        "timestamp": 1642467335,
-        "sentiment": 6,
-        "published": "January 18, 2022 12:55 AM"
-    },
-    {
-        "title": "Revealed: The Billionaires Funding the Coup's Brain Trust",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/devos-bradley-claremont-trump-election-fraud-insurrection-1274253/?src=tw",
-        "timestamp": 1642470442,
-        "sentiment": -1,
-        "published": "January 18, 2022 1:47 AM"
-    },
-    {
-        "title": "The Omicron surge hasn't peaked nationwide, and 'the next few weeks will be tough,' US surgeon general says",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/17/health/us-coronavirus-monday/index.html",
-        "timestamp": 1642472840,
-        "sentiment": 0,
-        "published": "January 18, 2022 2:27 AM"
-    },
-    {
-        "title": "'Moon Knight': March 30 Release Date Revealed for Oscar Isaac Marvel Series on Disney+",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/moon-knight-release-date-oscar-isaac-disney-plus/",
-        "timestamp": 1642474471,
-        "sentiment": 6,
-        "published": "January 18, 2022 2:54 AM"
-    },
-    {
-        "title": "‘I’m one of the nicer showrunners’: Joss Whedon denies misconduct allegations",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/culture/2022/jan/18/im-one-of-the-nicer-showrunners-joss-whedon-denies-misconduct-allegations",
-        "timestamp": 1642481320,
-        "sentiment": 0,
-        "published": "January 18, 2022 4:48 AM"
-    },
-    {
-        "title": "Dr. Bernice A. King: I think it's time for massive civil disobedience, noncooperation with evil",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/the-reidout/watch/martin-luther-king-s-legacy-is-remembered-by-his-daughter-dr-bernice-king-131079237547",
-        "timestamp": 1642491898,
-        "sentiment": -1,
-        "published": "January 18, 2022 7:44 AM"
-    },
-    {
-        "title": "Settlements on Tonga No Longer Visible After Eruption",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-60019814",
-        "timestamp": 1642494488,
-        "sentiment": 0,
-        "published": "January 18, 2022 8:28 AM"
-    },
-    {
         "title": "Hong Kong to kill all hamsters in pet shops after the animal tests positive of Covid-19 in world's first case",
         "domain": "thestandard.com.hk",
         "category": "worldnews",
@@ -88,24 +286,6 @@
         "timestamp": 1642499579,
         "sentiment": 0,
         "published": "January 18, 2022 9:52 AM"
-    },
-    {
-        "title": "Chemical pollution has passed safe limit for humanity, say scientists",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/environment/2022/jan/18/chemical-pollution-has-passed-safe-limit-for-humanity-say-scientists?CMP=Share_iOSApp_Other",
-        "timestamp": 1642500427,
-        "sentiment": 0,
-        "published": "January 18, 2022 10:07 AM"
-    },
-    {
-        "title": "Norwegian killer Breivik begins parole hearing with Nazi salute",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/mass-killer-breiviks-parole-hearing-begin-tuesday-norway-2022-01-17/?taid=61e690cf38cdb90001240bb4&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-        "timestamp": 1642501321,
-        "sentiment": 0,
-        "published": "January 18, 2022 10:22 AM"
     },
     {
         "title": "Here's how Republicans running on ballot security tried to rig the 2020 election",
@@ -117,60 +297,6 @@
         "published": "January 18, 2022 10:35 AM"
     },
     {
-        "title": "A large Russian cargo plane took a lengthy, unexpected, and unexplained route over central and southern Finland on Saturday night, passing over Finland's Air Force headquarters and a military intelligence unit.",
-        "domain": "yle.fi",
-        "category": "worldnews",
-        "link": "https://yle.fi/news/3-12275191",
-        "timestamp": 1642503349,
-        "sentiment": 0,
-        "published": "January 18, 2022 10:55 AM"
-    },
-    {
-        "title": "All houses destroyed on an island devastated by deadly tsunami, Tonga government says in first words since volcano erupted",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/world-asia-60039617",
-        "timestamp": 1642504771,
-        "sentiment": 0,
-        "published": "January 18, 2022 11:19 AM"
-    },
-    {
-        "title": "On Eve of Key Fight, Sanders Asks: 'Will Manchin and Sinema Vote With GOP?' | \"We are not going to win the elections in 2022 unless our base is energized and ordinary people understand what we are fighting for, and how we are different than the Republicans.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/18/eve-key-fight-sanders-asks-will-manchin-and-sinema-vote-gop",
-        "timestamp": 1642505244,
-        "sentiment": -1,
-        "published": "January 18, 2022 11:27 AM"
-    },
-    {
-        "title": "France passes law to exclude unvaccinated people from public places",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10409899/French-parliament-approves-law-exclude-unvaccinated-people-public-places.html",
-        "timestamp": 1642505493,
-        "sentiment": 0,
-        "published": "January 18, 2022 11:31 AM"
-    },
-    {
-        "title": "If the Senate Fails to Act, Voting Is Not the Only Freedom on the Line",
-        "domain": "thenation.com",
-        "category": "politics",
-        "link": "https://www.thenation.com/article/politics/voting-abortion-democracy/",
-        "timestamp": 1642506504,
-        "sentiment": -1,
-        "published": "January 18, 2022 11:48 AM"
-    },
-    {
-        "title": "Donald Trump-Loving Republicans Celebrate MLK Day And Get Told Where To Go",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/mlk-republicans-praise-backfires_n_61e66a1ce4b0d8b6656f964e",
-        "timestamp": 1642506559,
-        "sentiment": -1,
-        "published": "January 18, 2022 11:49 AM"
-    },
-    {
         "title": "Doctors say China's claim 1st Omicron case came from Canada isn't scientifically possible",
         "domain": "cbc.ca",
         "category": "worldnews",
@@ -178,42 +304,6 @@
         "timestamp": 1642506976,
         "sentiment": 0,
         "published": "January 18, 2022 11:56 AM"
-    },
-    {
-        "title": "The 'Never Have I Ever' Star, Maitreyi Ramakrishnan to Receive Canadian Screen Awards Special Honor",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/maitreyi-ramakrishnan-canadian-screen-awards-honor-1235075992/",
-        "timestamp": 1642511305,
-        "sentiment": 6,
-        "published": "January 18, 2022 1:08 PM"
-    },
-    {
-        "title": "Florida governor proposes special police agency to monitor elections",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/nation/2022/01/18/florida-governor-proposes-special-police-agency-monitor-elections/?utm_campaign=wp_main&utm_medium=social&utm_source=twitter",
-        "timestamp": 1642512674,
-        "sentiment": -1,
-        "published": "January 18, 2022 1:31 PM"
-    },
-    {
-        "title": "Microsoft to buy Activision Blizzard for $68.7 billion",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/technology/microsoft-buy-activision-blizzard-deal-687-billion-2022-01-18/?utm_source=reddit.com",
-        "timestamp": 1642512928,
-        "sentiment": 0,
-        "published": "January 18, 2022 1:35 PM"
-    },
-    {
-        "title": "Sinema, Manchin slammed as Senate begins voting bill debate",
-        "domain": "apnews.com",
-        "category": "politics",
-        "link": "https://apnews.com/article/elections-voting-race-and-ethnicity-racial-injustice-martin-luther-king-iii-d7370d915d0fbcc180dcd1fecbad46b9",
-        "timestamp": 1642514454,
-        "sentiment": -1,
-        "published": "January 18, 2022 2:00 PM"
     },
     {
         "title": "British Prime Minister Boris Johnson: Nobody warned me drinks event was against rules",
@@ -232,24 +322,6 @@
         "timestamp": 1642516475,
         "sentiment": 0,
         "published": "January 18, 2022 2:34 PM"
-    },
-    {
-        "title": "Kenya withdraws from Beijing Winter Olympics",
-        "domain": "nation.africa",
-        "category": "news",
-        "link": "https://nation.africa/kenya/sports/other-sports/kenya-withdraws-from-beijing-winter-olympics-3686330",
-        "timestamp": 1642518147,
-        "sentiment": 0,
-        "published": "January 18, 2022 3:02 PM"
-    },
-    {
-        "title": "One of Alex Trebek's handpicked \"Jeopardy!\" potential successors, legal analyst Laura Coates, says studio rejected her bid to guest host: \"I asked for the opportunity when it came time... and I was told 'no'\"",
-        "domain": "newsweek.com",
-        "category": "television",
-        "link": "https://www.newsweek.com/alex-trebek-handpicked-jeopardy-successor-laura-coates-says-producers-rejected-her-1670213",
-        "timestamp": 1642521777,
-        "sentiment": 6,
-        "published": "January 18, 2022 4:02 PM"
     },
     {
         "title": "Sinema's MLK Day Tweet Sparks Online Fury | One group criticized the Democratic senator from Arizona as \"the white moderate MLK warned us about.\"",
@@ -340,15 +412,6 @@
         "timestamp": 1642514767,
         "sentiment": 0,
         "published": "January 18, 2022 2:06 PM"
-    },
-    {
-        "title": "British woman swept away by wave while trying to rescue dogs is found dead in Tonga, brother says",
-        "domain": "cbsnews.com",
-        "category": "worldnews",
-        "link": "https://www.cbsnews.com/news/angela-glover-dead-tonga-tsunami-brother-says/",
-        "timestamp": 1642471522,
-        "sentiment": -2,
-        "published": "January 18, 2022 2:05 AM"
     },
     {
         "title": "Official poster for Marvel Studios’ Moon Knight",
