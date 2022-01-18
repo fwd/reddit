@@ -1,5 +1,14 @@
 [
     {
+        "title": "Sinema's MLK Day Tweet Sparks Online Fury | One group criticized the Democratic senator from Arizona as \"the white moderate MLK warned us about.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/17/sinemas-mlk-day-tweet-sparks-online-fury",
+        "timestamp": 1642464671,
+        "sentiment": 0,
+        "published": "January 18, 2022 12:11 AM"
+    },
+    {
         "title": "Representative Matt Gaetz's ex-girlfriend granted immunity in sex trafficking probe",
         "domain": "cbsnews.com",
         "category": "news",
@@ -14,7 +23,7 @@
         "category": "worldnews",
         "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
         "timestamp": 1642466474,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "January 18, 2022 12:41 AM"
     },
     {
@@ -23,8 +32,17 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/01/17/chamath-palihapitiya-says-nobody-cares-about-uyghur-genocide-in-china.html",
         "timestamp": 1642466599,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "January 18, 2022 12:43 AM"
+    },
+    {
+        "title": "Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html?smid=tw-share",
+        "timestamp": 1642466721,
+        "sentiment": -9,
+        "published": "January 18, 2022 12:45 AM"
     },
     {
         "title": "Paris Hilton’s ‘Cooking With Paris’ Canceled By Netflix After One Season",
@@ -34,6 +52,15 @@
         "timestamp": 1642467335,
         "sentiment": 2,
         "published": "January 18, 2022 12:55 AM"
+    },
+    {
+        "title": "Revealed: The Billionaires Funding the Coup's Brain Trust",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/devos-bradley-claremont-trump-election-fraud-insurrection-1274253/?src=tw",
+        "timestamp": 1642470442,
+        "sentiment": 0,
+        "published": "January 18, 2022 1:47 AM"
     },
     {
         "title": "The Omicron surge hasn't peaked nationwide, and 'the next few weeks will be tough,' US surgeon general says",
@@ -52,6 +79,15 @@
         "timestamp": 1642474471,
         "sentiment": 2,
         "published": "January 18, 2022 2:54 AM"
+    },
+    {
+        "title": "Jamaica's bobsleigh team qualify for the Olympics for the first time in 24 years",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10411843/Jamaicas-bobsleigh-team-qualify-Olympics-time-24-years.html",
+        "timestamp": 1642475394,
+        "sentiment": -9,
+        "published": "January 18, 2022 3:09 AM"
     },
     {
         "title": "Unvaccinated to be banned from restaurants and other venues in France under new Covid law",
