@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/matt-gaetz-ex-girlfriend-immunity-sex-trafficking-probe/",
         "timestamp": 1642465859,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 18, 2022 12:30 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "worldnews",
         "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
         "timestamp": 1642466474,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 18, 2022 12:41 AM"
+    },
+    {
+        "title": "Billionaire investor Chamath Palihapitiya says ‘nobody cares’ about Uyghur genocide in China",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/01/17/chamath-palihapitiya-says-nobody-cares-about-uyghur-genocide-in-china.html",
+        "timestamp": 1642466599,
+        "sentiment": 0,
+        "published": "January 18, 2022 12:43 AM"
     },
     {
         "title": "Paris Hilton’s ‘Cooking With Paris’ Canceled By Netflix After One Season",
@@ -23,8 +32,26 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/paris-hilton-cooking-with-paris-canceled-netflix-1234913638/",
         "timestamp": 1642467335,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 18, 2022 12:55 AM"
+    },
+    {
+        "title": "The Omicron surge hasn't peaked nationwide, and 'the next few weeks will be tough,' US surgeon general says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/17/health/us-coronavirus-monday/index.html",
+        "timestamp": 1642472840,
+        "sentiment": 0,
+        "published": "January 18, 2022 2:27 AM"
+    },
+    {
+        "title": "'Moon Knight': March 30 Release Date Revealed for Oscar Isaac Marvel Series on Disney+",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/moon-knight-release-date-oscar-isaac-disney-plus/",
+        "timestamp": 1642474471,
+        "sentiment": 2,
+        "published": "January 18, 2022 2:54 AM"
     },
     {
         "title": "Unvaccinated to be banned from restaurants and other venues in France under new Covid law",
