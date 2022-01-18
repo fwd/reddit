@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/17/sinemas-mlk-day-tweet-sparks-online-fury",
         "timestamp": 1642464671,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 18, 2022 12:11 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/matt-gaetz-ex-girlfriend-immunity-sex-trafficking-probe/",
         "timestamp": 1642465859,
-        "sentiment": 0,
+        "sentiment": -14,
         "published": "January 18, 2022 12:30 AM"
     },
     {
@@ -54,13 +54,31 @@
         "published": "January 18, 2022 12:55 AM"
     },
     {
+        "title": "Florida Democrats ask DOJ to investigate voter suppression",
+        "domain": "tampabay.com",
+        "category": "politics",
+        "link": "https://www.tampabay.com/news/florida-politics/2022/01/13/florida-democrats-ask-doj-to-investigate-voter-suppression/",
+        "timestamp": 1642469032,
+        "sentiment": -1,
+        "published": "January 18, 2022 1:23 AM"
+    },
+    {
         "title": "Revealed: The Billionaires Funding the Coup's Brain Trust",
         "domain": "rollingstone.com",
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/devos-bradley-claremont-trump-election-fraud-insurrection-1274253/?src=tw",
         "timestamp": 1642470442,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 18, 2022 1:47 AM"
+    },
+    {
+        "title": "British woman swept away by wave while trying to rescue dogs is found dead in Tonga, brother says",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/angela-glover-dead-tonga-tsunami-brother-says/",
+        "timestamp": 1642471522,
+        "sentiment": -9,
+        "published": "January 18, 2022 2:05 AM"
     },
     {
         "title": "The Omicron surge hasn't peaked nationwide, and 'the next few weeks will be tough,' US surgeon general says",
@@ -68,7 +86,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/17/health/us-coronavirus-monday/index.html",
         "timestamp": 1642472840,
-        "sentiment": 0,
+        "sentiment": -14,
         "published": "January 18, 2022 2:27 AM"
     },
     {
