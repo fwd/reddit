@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/17/sinemas-mlk-day-tweet-sparks-online-fury",
         "timestamp": 1642464671,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 18, 2022 12:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://asiatimes.com/2022/01/taliban-announces-a-national-suicide-brigade/",
         "timestamp": 1642466474,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 18, 2022 12:41 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/marjorie-taylor-greene-uses-mlk-day-announce-new-segregation-unvaccinated-1670136",
         "timestamp": 1642467687,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 18, 2022 1:01 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.tampabay.com/news/florida-politics/2022/01/13/florida-democrats-ask-doj-to-investigate-voter-suppression/",
         "timestamp": 1642469032,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 18, 2022 1:23 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/devos-bradley-claremont-trump-election-fraud-insurrection-1274253/?src=tw",
         "timestamp": 1642470442,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "January 18, 2022 1:47 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/angela-glover-dead-tonga-tsunami-brother-says/",
         "timestamp": 1642471522,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 18, 2022 2:05 AM"
     },
     {
@@ -90,6 +90,15 @@
         "published": "January 18, 2022 2:54 AM"
     },
     {
+        "title": "Abortion clinics challenging Texas law dealt new setback",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/us-supreme-court-health-texas-new-orleans-e52dc29e4d6545a9c0a7d4d56c330f5b?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1642478882,
+        "sentiment": 0,
+        "published": "January 18, 2022 4:08 AM"
+    },
+    {
         "title": "‘I’m one of the nicer showrunners’: Joss Whedon denies misconduct allegations",
         "domain": "theguardian.com",
         "category": "news",
@@ -108,15 +117,6 @@
         "published": "January 18, 2022 6:04 AM"
     },
     {
-        "title": "Belgian kidnapped toddler found dead",
-        "domain": "nltimes.nl",
-        "category": "worldnews",
-        "link": "https://nltimes.nl/2022/01/17/kidnapped-belgian-boy-found-dead-zeeland",
-        "timestamp": 1642486469,
-        "sentiment": -4,
-        "published": "January 18, 2022 6:14 AM"
-    },
-    {
         "title": "Inmates sue jail over ivermectin treatment for Covid as ‘medical experimentation’ | Arkansas",
         "domain": "theguardian.com",
         "category": "news",
@@ -131,8 +131,35 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-60019814",
         "timestamp": 1642494488,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 18, 2022 8:28 AM"
+    },
+    {
+        "title": "Hong Kong to kill all hamsters in pet shops after the animal tests positive of Covid-19 in world's first case",
+        "domain": "thestandard.com.hk",
+        "category": "worldnews",
+        "link": "https://www.thestandard.com.hk/breaking-news/section/4/186104/Hong-Kong-to-kill-more-than-2,000-hamsters-after-the-animal-tests-positive-of-Covid-19-in-world's-first",
+        "timestamp": 1642499579,
+        "sentiment": -2,
+        "published": "January 18, 2022 9:52 AM"
+    },
+    {
+        "title": "Norwegian killer Breivik begins parole hearing with Nazi salute",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/mass-killer-breiviks-parole-hearing-begin-tuesday-norway-2022-01-17/?taid=61e690cf38cdb90001240bb4&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1642501321,
+        "sentiment": -2,
+        "published": "January 18, 2022 10:22 AM"
+    },
+    {
+        "title": "Belgian kidnapped toddler found dead",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/01/17/kidnapped-belgian-boy-found-dead-zeeland",
+        "timestamp": 1642486469,
+        "sentiment": -4,
+        "published": "January 18, 2022 6:14 AM"
     },
     {
         "title": "Billionaire investor Chamath Palihapitiya says ‘nobody cares’ about Uyghur genocide in China",
