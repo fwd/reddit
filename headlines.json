@@ -1,5 +1,167 @@
 [
     {
+        "title": "Schumer plans Senate rules vote to require 'talking filibuster' for voting bills",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/congress/schumer-plans-senate-rules-vote-require-talking-filibuster-voting-bills-n1287668",
+        "timestamp": 1642551545,
+        "sentiment": -4,
+        "published": "January 19, 2022 12:19 AM"
+    },
+    {
+        "title": "The Florida Department of Health Medical Director has been put on leave for encouraging his own staff to get vaccinated.",
+        "domain": "wmfe.org",
+        "category": "news",
+        "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
+        "timestamp": 1642553284,
+        "sentiment": -4,
+        "published": "January 19, 2022 12:48 AM"
+    },
+    {
+        "title": "Russian Landing Ships Leave Baltic Sea Raising Concerns That Ukraine May Be Their Final Destination",
+        "domain": "thedrive.com",
+        "category": "worldnews",
+        "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
+        "timestamp": 1642553964,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:59 AM"
+    },
+    {
+        "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
+        "timestamp": 1642557925,
+        "sentiment": -1,
+        "published": "January 19, 2022 2:05 AM"
+    },
+    {
+        "title": "Athletes warned against speaking up on human rights at Beijing Games",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/lifestyle/sports/athletes-warned-against-speaking-up-human-rights-beijing-games-2022-01-18/?taid=61e7742e08a5450001d2b7ed&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1642560826,
+        "sentiment": -4,
+        "published": "January 19, 2022 2:53 AM"
+    },
+    {
+        "title": "Attorney General Nessel: 'Absolutely' enough evidence to charge GOP electors",
+        "domain": "detroitnews.com",
+        "category": "politics",
+        "link": "https://www.detroitnews.com/story/news/politics/2022/01/18/dana-nessel-evidence-gop-electors-attorney-general-charges-prosecutors/6564921001/",
+        "timestamp": 1642566256,
+        "sentiment": -4,
+        "published": "January 19, 2022 4:24 AM"
+    },
+    {
+        "title": "US basketball player Sonny Weems racially abused by fans in China",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/18/sport/sonny-weems-racism-china-spt-intl/index.html",
+        "timestamp": 1642569007,
+        "sentiment": -4,
+        "published": "January 19, 2022 5:10 AM"
+    },
+    {
+        "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
+        "timestamp": 1642576326,
+        "sentiment": -1,
+        "published": "January 19, 2022 7:12 AM"
+    },
+    {
+        "title": "Tucker Carlson pushes blatantly false InfoWars conspiracy theory that white people are being denied monoclonal antibodies because of their race",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/tucker-carlson-whites-denied-covid-monoclonal-antibodies-discrimination-fact-check-2022-1",
+        "timestamp": 1642580960,
+        "sentiment": -4,
+        "published": "January 19, 2022 8:29 AM"
+    },
+    {
+        "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
+        "domain": "streamingdigitally.com",
+        "category": "television",
+        "link": "https://www.streamingdigitally.com/news/the-boys-season-3-is-even-more-messed-up-than-before-jack-quaid/",
+        "timestamp": 1642581981,
+        "sentiment": -3,
+        "published": "January 19, 2022 8:46 AM"
+    },
+    {
+        "title": "New French law bans unvaccinated from restaurants, venues",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/589986-new-french-law-bans-unvaccinated-from-restaurants-venues",
+        "timestamp": 1642586252,
+        "sentiment": -1,
+        "published": "January 19, 2022 9:57 AM"
+    },
+    {
+        "title": "British transport aircraft are now in their third day of delivering “thousands” of anti-tank weapons to Ukraine",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "worldnews",
+        "link": "https://ukdefencejournal.org.uk/third-day-of-british-weapon-flights-to-ukraine/",
+        "timestamp": 1642589474,
+        "sentiment": -1,
+        "published": "January 19, 2022 10:51 AM"
+    },
+    {
+        "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador sayss",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
+        "timestamp": 1642590868,
+        "sentiment": -1,
+        "published": "January 19, 2022 11:14 AM"
+    },
+    {
+        "title": "Shock in Colombia over murder of 14-year-old indigenous activist",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/18/colombia-indigenous-activist-murdered-14-breiner-david-cucuname",
+        "timestamp": 1642591836,
+        "sentiment": -4,
+        "published": "January 19, 2022 11:30 AM"
+    },
+    {
+        "title": "Pardoned Kentucky killer sentenced to 42 years in prison",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/pardoned-kentucky-killer-sentenced-42-years-prison-82338276",
+        "timestamp": 1642592886,
+        "sentiment": -4,
+        "published": "January 19, 2022 11:48 AM"
+    },
+    {
+        "title": "Hana Horka: Czech singer dies after catching Covid intentionally - BBC News",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60050996",
+        "timestamp": 1642595485,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:31 PM"
+    },
+    {
+        "title": "Boris Johnson announces end to all Omicron Covid restrictions in England",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/19/boris-johnson-announces-end-to-all-omicron-covid-restrictions-in-england?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1642596698-1",
+        "timestamp": 1642596825,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:53 PM"
+    },
+    {
+        "title": "U.S. to let teens drive big rigs in test program to help ease supply chain shortage",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
+        "timestamp": 1642597071,
+        "sentiment": -4,
+        "published": "January 19, 2022 12:57 PM"
+    },
+    {
         "title": "US worries Russian troop arrival could lead to nuclear weapons in Belarus - Insider Paper",
         "domain": "insiderpaper.com",
         "category": "worldnews",
@@ -9,15 +171,6 @@
         "published": "January 19, 2022 12:07 AM"
     },
     {
-        "title": "Schumer plans Senate rules vote to require 'talking filibuster' for voting bills",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/congress/schumer-plans-senate-rules-vote-require-talking-filibuster-voting-bills-n1287668",
-        "timestamp": 1642551545,
-        "sentiment": 0,
-        "published": "January 19, 2022 12:19 AM"
-    },
-    {
         "title": "Backlash as US billionaire dismisses Uyghur abuse",
         "domain": "bbc.co.uk",
         "category": "news",
@@ -25,96 +178,6 @@
         "timestamp": 1642552551,
         "sentiment": -3,
         "published": "January 19, 2022 12:35 AM"
-    },
-    {
-        "title": "The Florida Department of Health Medical Director has been put on leave for encouraging his own staff to get vaccinated.",
-        "domain": "wmfe.org",
-        "category": "news",
-        "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
-        "timestamp": 1642553284,
-        "sentiment": -3,
-        "published": "January 19, 2022 12:48 AM"
-    },
-    {
-        "title": "Russian Landing Ships Leave Baltic Sea Raising Concerns That Ukraine May Be Their Final Destination",
-        "domain": "thedrive.com",
-        "category": "worldnews",
-        "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
-        "timestamp": 1642553964,
-        "sentiment": -3,
-        "published": "January 19, 2022 12:59 AM"
-    },
-    {
-        "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
-        "timestamp": 1642557925,
-        "sentiment": -3,
-        "published": "January 19, 2022 2:05 AM"
-    },
-    {
-        "title": "Athletes warned against speaking up on human rights at Beijing Games",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/lifestyle/sports/athletes-warned-against-speaking-up-human-rights-beijing-games-2022-01-18/?taid=61e7742e08a5450001d2b7ed&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-        "timestamp": 1642560826,
-        "sentiment": -3,
-        "published": "January 19, 2022 2:53 AM"
-    },
-    {
-        "title": "US basketball player Sonny Weems racially abused by fans in China",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/01/18/sport/sonny-weems-racism-china-spt-intl/index.html",
-        "timestamp": 1642569007,
-        "sentiment": -3,
-        "published": "January 19, 2022 5:10 AM"
-    },
-    {
-        "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
-        "timestamp": 1642576326,
-        "sentiment": -3,
-        "published": "January 19, 2022 7:12 AM"
-    },
-    {
-        "title": "Tucker Carlson pushes blatantly false InfoWars conspiracy theory that white people are being denied monoclonal antibodies because of their race",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/tucker-carlson-whites-denied-covid-monoclonal-antibodies-discrimination-fact-check-2022-1",
-        "timestamp": 1642580960,
-        "sentiment": 0,
-        "published": "January 19, 2022 8:29 AM"
-    },
-    {
-        "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
-        "domain": "streamingdigitally.com",
-        "category": "television",
-        "link": "https://www.streamingdigitally.com/news/the-boys-season-3-is-even-more-messed-up-than-before-jack-quaid/",
-        "timestamp": 1642581981,
-        "sentiment": -2,
-        "published": "January 19, 2022 8:46 AM"
-    },
-    {
-        "title": "New French law bans unvaccinated from restaurants, venues",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/homenews/589986-new-french-law-bans-unvaccinated-from-restaurants-venues",
-        "timestamp": 1642586252,
-        "sentiment": -3,
-        "published": "January 19, 2022 9:57 AM"
-    },
-    {
-        "title": "British transport aircraft are now in their third day of delivering “thousands” of anti-tank weapons to Ukraine",
-        "domain": "ukdefencejournal.org.uk",
-        "category": "worldnews",
-        "link": "https://ukdefencejournal.org.uk/third-day-of-british-weapon-flights-to-ukraine/",
-        "timestamp": 1642589474,
-        "sentiment": -3,
-        "published": "January 19, 2022 10:51 AM"
     },
     {
         "title": "Netflix to Release 25 Korean Originals in 2022",
