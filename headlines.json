@@ -9,21 +9,12 @@
         "published": "January 19, 2022 12:48 AM"
     },
     {
-        "title": "Russian Landing Ships Leave Baltic Sea Raising Concerns That Ukraine May Be Their Final Destination",
-        "domain": "thedrive.com",
-        "category": "worldnews",
-        "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
-        "timestamp": 1642553964,
-        "sentiment": -2,
-        "published": "January 19, 2022 12:59 AM"
-    },
-    {
         "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
         "domain": "edition.cnn.com",
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
         "timestamp": 1642557925,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 2:05 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
         "timestamp": 1642576326,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 7:12 AM"
     },
     {
@@ -45,21 +36,12 @@
         "published": "January 19, 2022 8:46 AM"
     },
     {
-        "title": "Russian troops in Belarus pose \"direct threat to Lithuania\" - defence minister",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russian-troops-belarus-pose-direct-threat-lithuania-defence-minister-2022-01-19/",
-        "timestamp": 1642584202,
-        "sentiment": -2,
-        "published": "January 19, 2022 9:23 AM"
-    },
-    {
         "title": "British transport aircraft are now in their third day of delivering “thousands” of anti-tank weapons to Ukraine",
         "domain": "ukdefencejournal.org.uk",
         "category": "worldnews",
         "link": "https://ukdefencejournal.org.uk/third-day-of-british-weapon-flights-to-ukraine/",
         "timestamp": 1642589474,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 10:51 AM"
     },
     {
@@ -79,6 +61,15 @@
         "timestamp": 1642592886,
         "sentiment": 0,
         "published": "January 19, 2022 11:48 AM"
+    },
+    {
+        "title": "Nobel Prize Winners Are Urging Every Country To Cut Military Spending By 2%",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/christinero/2022/01/19/nobel-prize-winners-are-urging-every-country-to-cut-military-spending-by-2/?sh=353e7e9236dd",
+        "timestamp": 1642595050,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:24 PM"
     },
     {
         "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
@@ -104,17 +95,8 @@
         "category": "worldnews",
         "link": "https://tutanota.com/blog/posts/google-analytics/",
         "timestamp": 1642597181,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 12:59 PM"
-    },
-    {
-        "title": "Florida GOP Pushes Bill To Shield White People From 'Discomfort' Of Racist Past",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/bc-us-critical-race-theory-florida_n_61e7e9b4e4b0d8b665729239",
-        "timestamp": 1642597379,
-        "sentiment": 0,
-        "published": "January 19, 2022 1:02 PM"
     },
     {
         "title": "Dems Urged to Hold Senate Floor for 'As Long As It Takes' | \"Call your senators now and tell them to hold the floor, keep the debate going, and fix or ditch the filibuster to pass democracy reform,\" says Indivisible.",
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/18/dems-urged-hold-senate-floor-long-it-takes",
         "timestamp": 1642598454,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:20 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
         "timestamp": 1642599461,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:37 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-01-14/congress-stock-trading-ban-gains-steam-with-rare-partisan-unity",
         "timestamp": 1642599639,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:40 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/morning-memo/texas-secretary-state-paper-shortage-voter-registration-forms?utm_source=feedly&utm_medium=rss&utm_campaign=texas-secretary-state-paper-shortage-voter-registration-forms",
         "timestamp": 1642600901,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:01 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://prospect.org/power/major-us-companies-slam-voter-suppression-laws-then-donate-to-their-sponsors/",
         "timestamp": 1642601063,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:04 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/emilys-list-will-stop-supporting-kyrsten-sinema-over-voting-rights-2022-1",
         "timestamp": 1642602560,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.nl/xi-jinping-forced-10000-people-who-fled-overseas-to-return-to-china-through-an-operation-called-sky-net-says-human-rights-ngo/",
         "timestamp": 1642602877,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 2:34 PM"
     },
     {
@@ -239,16 +221,16 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/chris-sununu-governor-new-hampshire-turned-down-senate-bid-gop-senators-do-nothing",
         "timestamp": 1642604869,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 3:07 PM"
     },
     {
-        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
-        "domain": "jacobinmag.com",
+        "title": "Sen. Mark Kelly supports change to Senate's filibuster rule for voting-rights legislation",
+        "domain": "azcentral.com",
         "category": "politics",
-        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
-        "timestamp": 1642605338,
-        "sentiment": 0,
+        "link": "https://www.azcentral.com/story/news/politics/elections/2022/01/19/sen-mark-kelly-arizona-supports-change-filibuster-rule/6576500001/",
+        "timestamp": 1642605306,
+        "sentiment": 2,
         "published": "January 19, 2022 3:15 PM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.standard.co.uk/news/crime/slave-prisoner-shed-40-years-carlisle-modern-slavery-act-court-b977442.html?itm_source=Internal&itm_channel=homepage_trending_article_component&itm_campaign=trending_section&itm_content=1",
         "timestamp": 1642605722,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:22 PM"
     },
     {
@@ -266,8 +248,17 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10415297/Covid-pandemic-near-new-variants-likely-emerge-warns.html",
         "timestamp": 1642606009,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:26 PM"
+    },
+    {
+        "title": "Biden hasn’t followed through on his pledge to ‘immediately cancel’ $10,000 per student loan borrower",
+        "domain": "fortune.com",
+        "category": "politics",
+        "link": "https://fortune.com/education/business/articles/2022/01/04/biden-has-not-kept-pledge-to-immediately-cancel-student-loan-debt/",
+        "timestamp": 1642607613,
+        "sentiment": 2,
+        "published": "January 19, 2022 3:53 PM"
     },
     {
         "title": "Fake Trump elector scheme draws the attention of more state attorneys general",
@@ -275,7 +266,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow/watch/fake-trump-elector-scheme-draws-the-attention-of-more-state-attorneys-general-131172933817",
         "timestamp": 1642608074,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 4:01 PM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-says-us-west-stop-giving-ukraine-arms-threatening-2022-1?utm_source=reddit.com",
         "timestamp": 1642608993,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 4:16 PM"
     },
     {
@@ -313,6 +304,51 @@
         "timestamp": 1642611024,
         "sentiment": 0,
         "published": "January 19, 2022 4:50 PM"
+    },
+    {
+        "title": "100+ Ultra-Rich People Warn Fellow Elites: 'It's Taxes or Pitchforks'",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2022/01/19/100-ultra-rich-people-warn-fellow-elites-its-taxes-or-pitchforks",
+        "timestamp": 1642613771,
+        "sentiment": -1,
+        "published": "January 19, 2022 5:36 PM"
+    },
+    {
+        "title": "Russian Landing Ships Leave Baltic Sea Raising Concerns That Ukraine May Be Their Final Destination",
+        "domain": "thedrive.com",
+        "category": "worldnews",
+        "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
+        "timestamp": 1642553964,
+        "sentiment": -2,
+        "published": "January 19, 2022 12:59 AM"
+    },
+    {
+        "title": "Russian troops in Belarus pose \"direct threat to Lithuania\" - defence minister",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-troops-belarus-pose-direct-threat-lithuania-defence-minister-2022-01-19/",
+        "timestamp": 1642584202,
+        "sentiment": -2,
+        "published": "January 19, 2022 9:23 AM"
+    },
+    {
+        "title": "Florida GOP Pushes Bill To Shield White People From 'Discomfort' Of Racist Past",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bc-us-critical-race-theory-florida_n_61e7e9b4e4b0d8b665729239",
+        "timestamp": 1642597379,
+        "sentiment": 0,
+        "published": "January 19, 2022 1:02 PM"
+    },
+    {
+        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
+        "timestamp": 1642605338,
+        "sentiment": 0,
+        "published": "January 19, 2022 3:15 PM"
     },
     {
         "title": "Athletes warned against speaking up on human rights at Beijing Games",
@@ -349,15 +385,6 @@
         "timestamp": 1642591131,
         "sentiment": 1,
         "published": "January 19, 2022 11:18 AM"
-    },
-    {
-        "title": "Nobel Prize Winners Are Urging Every Country To Cut Military Spending By 2%",
-        "domain": "forbes.com",
-        "category": "worldnews",
-        "link": "https://www.forbes.com/sites/christinero/2022/01/19/nobel-prize-winners-are-urging-every-country-to-cut-military-spending-by-2/?sh=353e7e9236dd",
-        "timestamp": 1642595050,
-        "sentiment": -1,
-        "published": "January 19, 2022 12:24 PM"
     },
     {
         "title": "Eric Trump Invoked 5th Amendment 500 Times During 6-Hour Deposition",
