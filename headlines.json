@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
         "timestamp": 1642553284,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 12:48 AM"
     },
     {
@@ -45,31 +45,13 @@
         "published": "January 19, 2022 10:51 AM"
     },
     {
-        "title": "Shock in Colombia over murder of 14-year-old indigenous activist",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/global-development/2022/jan/18/colombia-indigenous-activist-murdered-14-breiner-david-cucuname",
-        "timestamp": 1642591836,
-        "sentiment": 0,
-        "published": "January 19, 2022 11:30 AM"
-    },
-    {
         "title": "Pardoned Kentucky killer sentenced to 42 years in prison",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/pardoned-kentucky-killer-sentenced-42-years-prison-82338276",
         "timestamp": 1642592886,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 11:48 AM"
-    },
-    {
-        "title": "Nobel Prize Winners Are Urging Every Country To Cut Military Spending By 2%",
-        "domain": "forbes.com",
-        "category": "worldnews",
-        "link": "https://www.forbes.com/sites/christinero/2022/01/19/nobel-prize-winners-are-urging-every-country-to-cut-military-spending-by-2/?sh=353e7e9236dd",
-        "timestamp": 1642595050,
-        "sentiment": -1,
-        "published": "January 19, 2022 12:24 PM"
     },
     {
         "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-europe-60050996",
         "timestamp": 1642595877,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 12:37 PM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "news",
         "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
         "timestamp": 1642597071,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 12:57 PM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/18/dems-urged-hold-senate-floor-long-it-takes",
         "timestamp": 1642598454,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 1:20 PM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/significant-evidence-alleged-fraud-trump-business-investigation-ny/story?id=82345318",
         "timestamp": 1642598860,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:27 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
         "timestamp": 1642599461,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 1:37 PM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-01-14/congress-stock-trading-ban-gains-steam-with-rare-partisan-unity",
         "timestamp": 1642599639,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 1:40 PM"
     },
     {
@@ -140,17 +122,8 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/morning-memo/texas-secretary-state-paper-shortage-voter-registration-forms?utm_source=feedly&utm_medium=rss&utm_campaign=texas-secretary-state-paper-shortage-voter-registration-forms",
         "timestamp": 1642600901,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 2:01 PM"
-    },
-    {
-        "title": "Major U.S. Companies Slam Voter Suppression Laws, Then Donate to Their Sponsors - The companies’ donations appear to contradict their public statements in support of voting rights.",
-        "domain": "prospect.org",
-        "category": "politics",
-        "link": "https://prospect.org/power/major-us-companies-slam-voter-suppression-laws-then-donate-to-their-sponsors/",
-        "timestamp": 1642601063,
-        "sentiment": 2,
-        "published": "January 19, 2022 2:04 PM"
     },
     {
         "title": "Matt Groening's 'Disenchantment' Part 4 Premieres February 9th on Netflix",
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/emilys-list-will-stop-supporting-kyrsten-sinema-over-voting-rights-2022-1",
         "timestamp": 1642602560,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "news",
         "link": "https://www.stripes.com/theaters/us/2022-01-18/extremism-armed-forces-capitol-attack-4292250.html",
         "timestamp": 1642602564,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -187,15 +160,6 @@
         "timestamp": 1642602877,
         "sentiment": -1,
         "published": "January 19, 2022 2:34 PM"
-    },
-    {
-        "title": "Texas officials find a dozen vehicles beneath surface of lake amid cold case investigation",
-        "domain": "chron.com",
-        "category": "news",
-        "link": "https://www.chron.com/news/houston-texas/article/John-Creech-cold-case-Texas-search-lake-16787162.php",
-        "timestamp": 1642603121,
-        "sentiment": 0,
-        "published": "January 19, 2022 2:38 PM"
     },
     {
         "title": "French Actor Gaspard Ulliel, Star Of Marvel’s ‘Moon Knight’ Series, Dies Aged 37 After Ski Accident",
@@ -221,7 +185,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/chris-sununu-governor-new-hampshire-turned-down-senate-bid-gop-senators-do-nothing",
         "timestamp": 1642604869,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:07 PM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/news/politics/elections/2022/01/19/sen-mark-kelly-arizona-supports-change-filibuster-rule/6576500001/",
         "timestamp": 1642605306,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:15 PM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "politics",
         "link": "https://fortune.com/education/business/articles/2022/01/04/biden-has-not-kept-pledge-to-immediately-cancel-student-loan-debt/",
         "timestamp": 1642607613,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:53 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow/watch/fake-trump-elector-scheme-draws-the-attention-of-more-state-attorneys-general-131172933817",
         "timestamp": 1642608074,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 19, 2022 4:01 PM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/britney-spears-says-father-took-millions-conservatorship-rcna12694",
         "timestamp": 1642609522,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 4:25 PM"
     },
     {
@@ -302,8 +266,35 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/business-news/peloton-insiders-sold-nearly-500-million-stock-big-drop-rcna12741",
         "timestamp": 1642611024,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 4:50 PM"
+    },
+    {
+        "title": "Jon Stewart to Receive Mark Twain Prize for American Humor From Kennedy Center",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/jon-stewart-mark-twain-prize-kennedy-center/",
+        "timestamp": 1642611377,
+        "sentiment": 0,
+        "published": "January 19, 2022 4:56 PM"
+    },
+    {
+        "title": "Nearly half of Americans gained weight in pandemic's first year",
+        "domain": "medicalxpress.com",
+        "category": "news",
+        "link": "https://medicalxpress.com/news/2022-01-americans-gained-weight-pandemic-year.html",
+        "timestamp": 1642611587,
+        "sentiment": 2,
+        "published": "January 19, 2022 4:59 PM"
+    },
+    {
+        "title": "New York AG says her office has evidence Trump's company lied to tax officials and banks",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/trump-organization-fraudulent-misleading-asset-valuations-new-york-ag-letitia-james/",
+        "timestamp": 1642612377,
+        "sentiment": -1,
+        "published": "January 19, 2022 5:12 PM"
     },
     {
         "title": "100+ Ultra-Rich People Warn Fellow Elites: 'It's Taxes or Pitchforks'",
@@ -313,6 +304,60 @@
         "timestamp": 1642613771,
         "sentiment": -1,
         "published": "January 19, 2022 5:36 PM"
+    },
+    {
+        "title": "Starbucks nixes vaccine mandate after Supreme Court ruling",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/starbucks-nixes-vaccine-mandate-supreme-court-ruling-rcna12756",
+        "timestamp": 1642615562,
+        "sentiment": 2,
+        "published": "January 19, 2022 6:06 PM"
+    },
+    {
+        "title": "Muslim woman, 26, is sentenced to death by hanging for blasphemy in Pakistan after sending caricatures of Prophet Mohammed over WhatsApp",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10419575/Muslim-woman-26-sentenced-death-hanging-sending-caricatures-Prophet-Mohammed.html",
+        "timestamp": 1642616950,
+        "sentiment": -1,
+        "published": "January 19, 2022 6:29 PM"
+    },
+    {
+        "title": "Shock in Colombia over murder of 14-year-old indigenous activist",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/18/colombia-indigenous-activist-murdered-14-breiner-david-cucuname",
+        "timestamp": 1642591836,
+        "sentiment": 0,
+        "published": "January 19, 2022 11:30 AM"
+    },
+    {
+        "title": "Nobel Prize Winners Are Urging Every Country To Cut Military Spending By 2%",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/christinero/2022/01/19/nobel-prize-winners-are-urging-every-country-to-cut-military-spending-by-2/?sh=353e7e9236dd",
+        "timestamp": 1642595050,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:24 PM"
+    },
+    {
+        "title": "Major U.S. Companies Slam Voter Suppression Laws, Then Donate to Their Sponsors - The companies’ donations appear to contradict their public statements in support of voting rights.",
+        "domain": "prospect.org",
+        "category": "politics",
+        "link": "https://prospect.org/power/major-us-companies-slam-voter-suppression-laws-then-donate-to-their-sponsors/",
+        "timestamp": 1642601063,
+        "sentiment": 2,
+        "published": "January 19, 2022 2:04 PM"
+    },
+    {
+        "title": "Texas officials find a dozen vehicles beneath surface of lake amid cold case investigation",
+        "domain": "chron.com",
+        "category": "news",
+        "link": "https://www.chron.com/news/houston-texas/article/John-Creech-cold-case-Texas-search-lake-16787162.php",
+        "timestamp": 1642603121,
+        "sentiment": 0,
+        "published": "January 19, 2022 2:38 PM"
     },
     {
         "title": "Russian Landing Ships Leave Baltic Sea Raising Concerns That Ukraine May Be Their Final Destination",
