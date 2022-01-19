@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://insiderpaper.com/us-worries-russian-troop-arrival-could-lead-to-nuclear-weapons-in-belarus/",
         "timestamp": 1642550831,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 12:07 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
         "timestamp": 1642553964,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 12:59 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
         "timestamp": 1642557925,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 2:05 AM"
     },
     {
@@ -63,12 +63,21 @@
         "published": "January 19, 2022 2:53 AM"
     },
     {
+        "title": "US basketball player Sonny Weems racially abused by fans in China",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/18/sport/sonny-weems-racism-china-spt-intl/index.html",
+        "timestamp": 1642569007,
+        "sentiment": 0,
+        "published": "January 19, 2022 5:10 AM"
+    },
+    {
         "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
         "domain": "cnbc.com",
         "category": "worldnews",
         "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
         "timestamp": 1642576326,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 7:12 AM"
     },
     {
