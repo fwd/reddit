@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/18/dems-urged-hold-senate-floor-long-it-takes",
         "timestamp": 1642598454,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:20 PM"
     },
     {
@@ -54,21 +54,12 @@
         "published": "January 19, 2022 1:27 PM"
     },
     {
-        "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
-        "timestamp": 1642599461,
-        "sentiment": 0,
-        "published": "January 19, 2022 1:37 PM"
-    },
-    {
         "title": "Move to Ban Stock Trades in Congress Gains Steam With Rare Bipartisan Unity",
         "domain": "bloomberg.com",
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-01-14/congress-stock-trading-ban-gains-steam-with-rare-partisan-unity",
         "timestamp": 1642599639,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 1:40 PM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/morning-memo/texas-secretary-state-paper-shortage-voter-registration-forms?utm_source=feedly&utm_medium=rss&utm_campaign=texas-secretary-state-paper-shortage-voter-registration-forms",
         "timestamp": 1642600901,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:01 PM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/emilys-list-will-stop-supporting-kyrsten-sinema-over-voting-rights-2022-1",
         "timestamp": 1642602560,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -140,16 +131,7 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/news/politics/elections/2022/01/19/sen-mark-kelly-arizona-supports-change-filibuster-rule/6576500001/",
         "timestamp": 1642605306,
-        "sentiment": 0,
-        "published": "January 19, 2022 3:15 PM"
-    },
-    {
-        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
-        "domain": "jacobinmag.com",
-        "category": "politics",
-        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
-        "timestamp": 1642605338,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 3:15 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow/watch/fake-trump-elector-scheme-draws-the-attention-of-more-state-attorneys-general-131172933817",
         "timestamp": 1642608074,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 4:01 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/jason-ravnsborg-south-dakota-attorney-general-who-ran-over-a-man-and-drove-away-seeks-second-term",
         "timestamp": 1642611797,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 5:03 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.cbsnews.com/news/trump-organization-fraudulent-misleading-asset-valuations-new-york-ag-letitia-james/",
         "timestamp": 1642612377,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 19, 2022 5:12 PM"
     },
     {
@@ -324,6 +306,15 @@
         "published": "January 19, 2022 8:38 PM"
     },
     {
+        "title": "Texas' GOP attorney general tells Steve Bannon podcast 'we're done if anybody can vote' after court ruling",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/texas-gop-steve-bannon-podcast-b1996612.html",
+        "timestamp": 1642624795,
+        "sentiment": 2,
+        "published": "January 19, 2022 8:39 PM"
+    },
+    {
         "title": "Please, Star Wars, forget about Tatooine",
         "domain": "polygon.com",
         "category": "television",
@@ -331,6 +322,33 @@
         "timestamp": 1642627458,
         "sentiment": 0,
         "published": "January 19, 2022 9:24 PM"
+    },
+    {
+        "title": "Biden criticizes GOP resistance to his agenda: 'What are Republicans for? Name me one thing they're for'",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/biden-press-conference-gop-name-me-one-thing-theyre-for-2022-1",
+        "timestamp": 1642628749,
+        "sentiment": 2,
+        "published": "January 19, 2022 9:45 PM"
+    },
+    {
+        "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
+        "timestamp": 1642599461,
+        "sentiment": 0,
+        "published": "January 19, 2022 1:37 PM"
+    },
+    {
+        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
+        "timestamp": 1642605338,
+        "sentiment": 0,
+        "published": "January 19, 2022 3:15 PM"
     },
     {
         "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
