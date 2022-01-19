@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://insiderpaper.com/us-worries-russian-troop-arrival-could-lead-to-nuclear-weapons-in-belarus/",
         "timestamp": 1642550831,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "January 19, 2022 12:07 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
         "timestamp": 1642553964,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "January 19, 2022 12:59 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
         "timestamp": 1642557925,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "January 19, 2022 2:05 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
         "timestamp": 1642576326,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "January 19, 2022 7:12 AM"
+    },
+    {
+        "title": "New French law bans unvaccinated from restaurants, venues",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/589986-new-french-law-bans-unvaccinated-from-restaurants-venues",
+        "timestamp": 1642586252,
+        "sentiment": -2,
+        "published": "January 19, 2022 9:57 AM"
     },
     {
         "title": "Norwegian killer Breivik begins parole hearing with Nazi salute",
