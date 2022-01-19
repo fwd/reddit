@@ -9,15 +9,6 @@
         "published": "January 19, 2022 2:05 AM"
     },
     {
-        "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
-        "timestamp": 1642576326,
-        "sentiment": -2,
-        "published": "January 19, 2022 7:12 AM"
-    },
-    {
         "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
         "domain": "streamingdigitally.com",
         "category": "television",
@@ -36,21 +27,12 @@
         "published": "January 19, 2022 10:51 AM"
     },
     {
-        "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/world-europe-60050996",
-        "timestamp": 1642595877,
-        "sentiment": 0,
-        "published": "January 19, 2022 12:37 PM"
-    },
-    {
         "title": "U.S. to let teens drive big rigs in test program to help ease supply chain shortage",
         "domain": "abc7.com",
         "category": "news",
         "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
         "timestamp": 1642597071,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 12:57 PM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/significant-evidence-alleged-fraud-trump-business-investigation-ny/story?id=82345318",
         "timestamp": 1642598860,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 1:27 PM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "news",
         "link": "https://www.stripes.com/theaters/us/2022-01-18/extremism-armed-forces-capitol-attack-4292250.html",
         "timestamp": 1642602564,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -160,15 +142,6 @@
         "timestamp": 1642603795,
         "sentiment": 0,
         "published": "January 19, 2022 2:49 PM"
-    },
-    {
-        "title": "GOP Guv Says He Turned Down Senate Bid Because GOP Sens. Admitted They Don’t Do Anything",
-        "domain": "talkingpointsmemo.com",
-        "category": "politics",
-        "link": "https://talkingpointsmemo.com/news/chris-sununu-governor-new-hampshire-turned-down-senate-bid-gop-senators-do-nothing",
-        "timestamp": 1642604869,
-        "sentiment": 0,
-        "published": "January 19, 2022 3:07 PM"
     },
     {
         "title": "Sen. Mark Kelly supports change to Senate's filibuster rule for voting-rights legislation",
@@ -230,7 +203,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/britney-spears-says-father-took-millions-conservatorship-rcna12694",
         "timestamp": 1642609522,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 4:25 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/business-news/peloton-insiders-sold-nearly-500-million-stock-big-drop-rcna12741",
         "timestamp": 1642611024,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 4:50 PM"
     },
     {
@@ -257,8 +230,17 @@
         "category": "news",
         "link": "https://medicalxpress.com/news/2022-01-americans-gained-weight-pandemic-year.html",
         "timestamp": 1642611587,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 4:59 PM"
+    },
+    {
+        "title": "State AG Who Ran Over a Man and Drove Away Seeks Second Term",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/jason-ravnsborg-south-dakota-attorney-general-who-ran-over-a-man-and-drove-away-seeks-second-term",
+        "timestamp": 1642611797,
+        "sentiment": 0,
+        "published": "January 19, 2022 5:03 PM"
     },
     {
         "title": "New York AG says her office has evidence Trump's company lied to tax officials and banks",
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/starbucks-nixes-vaccine-mandate-supreme-court-ruling-rcna12756",
         "timestamp": 1642615562,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 6:06 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/18/exxon-texas-courts-critics-climate-crimes",
         "timestamp": 1642617410,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 6:36 PM"
     },
     {
@@ -329,8 +311,53 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/capitol-rioter-ordered-back-jail-dwi-arrest-ar-15-rifle-discovered-car-rcna12747",
         "timestamp": 1642621419,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 19, 2022 7:43 PM"
+    },
+    {
+        "title": "Woman sentenced to death in Pakistan over ‘blasphemous’ WhatsApp activity",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/19/pakistan-woman-aneeqa-ateeq-sentenced-to-death-blasphemous-whatsapp-messages?",
+        "timestamp": 1642621460,
+        "sentiment": -4,
+        "published": "January 19, 2022 7:44 PM"
+    },
+    {
+        "title": "Ukrainians ask to personally join NATO, offer private land for NATO base",
+        "domain": "euromaidanpress.com",
+        "category": "worldnews",
+        "link": "https://euromaidanpress.com/2022/01/19/ukraine-offer-their-private-land-for-nato-bases/",
+        "timestamp": 1642623342,
+        "sentiment": -2,
+        "published": "January 19, 2022 8:15 PM"
+    },
+    {
+        "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
+        "timestamp": 1642576326,
+        "sentiment": -2,
+        "published": "January 19, 2022 7:12 AM"
+    },
+    {
+        "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-europe-60050996",
+        "timestamp": 1642595877,
+        "sentiment": 0,
+        "published": "January 19, 2022 12:37 PM"
+    },
+    {
+        "title": "GOP Guv Says He Turned Down Senate Bid Because GOP Sens. Admitted They Don’t Do Anything",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/chris-sununu-governor-new-hampshire-turned-down-senate-bid-gop-senators-do-nothing",
+        "timestamp": 1642604869,
+        "sentiment": 0,
+        "published": "January 19, 2022 3:07 PM"
     },
     {
         "title": "The Florida Department of Health Medical Director has been put on leave for encouraging his own staff to get vaccinated.",
