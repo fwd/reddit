@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
         "timestamp": 1642553284,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 12:48 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.reuters.com/lifestyle/sports/athletes-warned-against-speaking-up-human-rights-beijing-games-2022-01-18/?taid=61e7742e08a5450001d2b7ed&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1642560826,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 2:53 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/01/18/sport/sonny-weems-racism-china-spt-intl/index.html",
         "timestamp": 1642569007,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 5:10 AM"
+    },
+    {
+        "title": "'How I Met Your Father' Premiere Pays Tribute to 'HIMYM' Narrator Bob Saget",
+        "domain": "streamingdigitally.com",
+        "category": "television",
+        "link": "https://www.streamingdigitally.com/news/how-i-met-your-father-premiere-tribute-bob-saget/",
+        "timestamp": 1642572501,
+        "sentiment": 2,
+        "published": "January 19, 2022 6:08 AM"
     },
     {
         "title": "Russia needs to stop clinging to the idea of reviving the Soviet Union, Ukraine ambassador says",
@@ -63,13 +72,13 @@
         "published": "January 19, 2022 8:46 AM"
     },
     {
-        "title": "New French law bans unvaccinated from restaurants, venues",
-        "domain": "thehill.com",
+        "title": "Russian troops in Belarus pose \"direct threat to Lithuania\" - defence minister",
+        "domain": "reuters.com",
         "category": "worldnews",
-        "link": "https://thehill.com/homenews/589986-new-french-law-bans-unvaccinated-from-restaurants-venues",
-        "timestamp": 1642586252,
+        "link": "https://www.reuters.com/world/europe/russian-troops-belarus-pose-direct-threat-lithuania-defence-minister-2022-01-19/",
+        "timestamp": 1642584202,
         "sentiment": -1,
-        "published": "January 19, 2022 9:57 AM"
+        "published": "January 19, 2022 9:23 AM"
     },
     {
         "title": "British transport aircraft are now in their third day of delivering “thousands” of anti-tank weapons to Ukraine",
@@ -86,7 +95,7 @@
         "category": "politics",
         "link": "https://edition.cnn.com/2022/01/19/politics/n95-masks-biden-administration-covid-19/index.html",
         "timestamp": 1642591131,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 11:18 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/global-development/2022/jan/18/colombia-indigenous-activist-murdered-14-breiner-david-cucuname",
         "timestamp": 1642591836,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 11:30 AM"
     },
     {
@@ -104,17 +113,17 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/pardoned-kentucky-killer-sentenced-42-years-prison-82338276",
         "timestamp": 1642592886,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 11:48 AM"
     },
     {
-        "title": "Hana Horka: Czech singer dies after catching Covid intentionally - BBC News",
-        "domain": "bbc.com",
+        "title": "Nobel Prize Winners Are Urging Every Country To Cut Military Spending By 2%",
+        "domain": "forbes.com",
         "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-60050996",
-        "timestamp": 1642595485,
+        "link": "https://www.forbes.com/sites/christinero/2022/01/19/nobel-prize-winners-are-urging-every-country-to-cut-military-spending-by-2/?sh=353e7e9236dd",
+        "timestamp": 1642595050,
         "sentiment": -1,
-        "published": "January 19, 2022 12:31 PM"
+        "published": "January 19, 2022 12:24 PM"
     },
     {
         "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
@@ -122,17 +131,8 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-europe-60050996",
         "timestamp": 1642595877,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 12:37 PM"
-    },
-    {
-        "title": "Boris Johnson announces end to all Omicron Covid restrictions in England",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/19/boris-johnson-announces-end-to-all-omicron-covid-restrictions-in-england?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1642596698-1",
-        "timestamp": 1642596825,
-        "sentiment": -1,
-        "published": "January 19, 2022 12:53 PM"
     },
     {
         "title": "U.S. to let teens drive big rigs in test program to help ease supply chain shortage",
@@ -140,7 +140,7 @@
         "category": "news",
         "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
         "timestamp": 1642597071,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 12:57 PM"
     },
     {
@@ -153,12 +153,21 @@
         "published": "January 19, 2022 12:59 PM"
     },
     {
+        "title": "Florida GOP Pushes Bill To Shield White People From 'Discomfort' Of Racist Past",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/bc-us-critical-race-theory-florida_n_61e7e9b4e4b0d8b665729239",
+        "timestamp": 1642597379,
+        "sentiment": 1,
+        "published": "January 19, 2022 1:02 PM"
+    },
+    {
         "title": "Dems Urged to Hold Senate Floor for 'As Long As It Takes' | \"Call your senators now and tell them to hold the floor, keep the debate going, and fix or ditch the filibuster to pass democracy reform,\" says Indivisible.",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/18/dems-urged-hold-senate-floor-long-it-takes",
         "timestamp": 1642598454,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 1:20 PM"
     },
     {
@@ -167,17 +176,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/significant-evidence-alleged-fraud-trump-business-investigation-ny/story?id=82345318",
         "timestamp": 1642598860,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 1:27 PM"
-    },
-    {
-        "title": "Russia told the US and West to stop supplying arms to Ukraine, saying it's threatening Russia.",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/russia-says-us-west-stop-giving-ukraine-arms-threatening-2022-1",
-        "timestamp": 1642599267,
-        "sentiment": -1,
-        "published": "January 19, 2022 1:34 PM"
     },
     {
         "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
@@ -185,7 +185,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
         "timestamp": 1642599461,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 1:37 PM"
     },
     {
@@ -194,8 +194,17 @@
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-01-14/congress-stock-trading-ban-gains-steam-with-rare-partisan-unity",
         "timestamp": 1642599639,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 1:40 PM"
+    },
+    {
+        "title": "Texas Secretary Of State Claims There’s Not Enough Paper For Voter Registration Forms",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/morning-memo/texas-secretary-state-paper-shortage-voter-registration-forms?utm_source=feedly&utm_medium=rss&utm_campaign=texas-secretary-state-paper-shortage-voter-registration-forms",
+        "timestamp": 1642600901,
+        "sentiment": 1,
+        "published": "January 19, 2022 2:01 PM"
     },
     {
         "title": "Major U.S. Companies Slam Voter Suppression Laws, Then Donate to Their Sponsors - The companies’ donations appear to contradict their public statements in support of voting rights.",
@@ -203,7 +212,7 @@
         "category": "politics",
         "link": "https://prospect.org/power/major-us-companies-slam-voter-suppression-laws-then-donate-to-their-sponsors/",
         "timestamp": 1642601063,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 2:04 PM"
     },
     {
@@ -221,7 +230,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/emilys-list-will-stop-supporting-kyrsten-sinema-over-voting-rights-2022-1",
         "timestamp": 1642602560,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -230,7 +239,7 @@
         "category": "news",
         "link": "https://www.stripes.com/theaters/us/2022-01-18/extremism-armed-forces-capitol-attack-4292250.html",
         "timestamp": 1642602564,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -257,8 +266,44 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/19/eric-trump-invoked-5th-amendment-500-times-during-6-hour-deposition",
         "timestamp": 1642604796,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 19, 2022 3:06 PM"
+    },
+    {
+        "title": "New French law bans unvaccinated from restaurants, venues",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/589986-new-french-law-bans-unvaccinated-from-restaurants-venues",
+        "timestamp": 1642586252,
+        "sentiment": -1,
+        "published": "January 19, 2022 9:57 AM"
+    },
+    {
+        "title": "Hana Horka: Czech singer dies after catching Covid intentionally - BBC News",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60050996",
+        "timestamp": 1642595485,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:31 PM"
+    },
+    {
+        "title": "Boris Johnson announces end to all Omicron Covid restrictions in England",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/19/boris-johnson-announces-end-to-all-omicron-covid-restrictions-in-england?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1642596698-1",
+        "timestamp": 1642596825,
+        "sentiment": -1,
+        "published": "January 19, 2022 12:53 PM"
+    },
+    {
+        "title": "Russia told the US and West to stop supplying arms to Ukraine, saying it's threatening Russia.",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russia-says-us-west-stop-giving-ukraine-arms-threatening-2022-1",
+        "timestamp": 1642599267,
+        "sentiment": -1,
+        "published": "January 19, 2022 1:34 PM"
     },
     {
         "title": "Schumer plans Senate rules vote to require 'talking filibuster' for voting bills",
