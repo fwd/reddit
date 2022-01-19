@@ -1,20 +1,11 @@
 [
     {
-        "title": "The Florida Department of Health Medical Director has been put on leave for encouraging his own staff to get vaccinated.",
-        "domain": "wmfe.org",
-        "category": "news",
-        "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
-        "timestamp": 1642553284,
-        "sentiment": 2,
-        "published": "January 19, 2022 12:48 AM"
-    },
-    {
         "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
         "domain": "edition.cnn.com",
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
         "timestamp": 1642557925,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 2:05 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/amp/2022/01/19/russia-needs-to-stop-clinging-to-idea-of-reviving-soviet-union-ukraine.html",
         "timestamp": 1642576326,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 7:12 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "worldnews",
         "link": "https://ukdefencejournal.org.uk/third-day-of-british-weapon-flights-to-ukraine/",
         "timestamp": 1642589474,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 10:51 AM"
-    },
-    {
-        "title": "Pardoned Kentucky killer sentenced to 42 years in prison",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/pardoned-kentucky-killer-sentenced-42-years-prison-82338276",
-        "timestamp": 1642592886,
-        "sentiment": 2,
-        "published": "January 19, 2022 11:48 AM"
     },
     {
         "title": "Hana Horka: Czech singer dies after catching COVID intentionally. [BBC NEWS]",
@@ -59,7 +41,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-europe-60050996",
         "timestamp": 1642595877,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 12:37 PM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "news",
         "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
         "timestamp": 1642597071,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 12:57 PM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "worldnews",
         "link": "https://tutanota.com/blog/posts/google-analytics/",
         "timestamp": 1642597181,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 12:59 PM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/18/dems-urged-hold-senate-floor-long-it-takes",
         "timestamp": 1642598454,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 1:20 PM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/significant-evidence-alleged-fraud-trump-business-investigation-ny/story?id=82345318",
         "timestamp": 1642598860,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 1:27 PM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
         "timestamp": 1642599461,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 1:37 PM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-01-14/congress-stock-trading-ban-gains-steam-with-rare-partisan-unity",
         "timestamp": 1642599639,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 1:40 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/morning-memo/texas-secretary-state-paper-shortage-voter-registration-forms?utm_source=feedly&utm_medium=rss&utm_campaign=texas-secretary-state-paper-shortage-voter-registration-forms",
         "timestamp": 1642600901,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 2:01 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/emilys-list-will-stop-supporting-kyrsten-sinema-over-voting-rights-2022-1",
         "timestamp": 1642602560,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "news",
         "link": "https://www.stripes.com/theaters/us/2022-01-18/extremism-armed-forces-capitol-attack-4292250.html",
         "timestamp": 1642602564,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.nl/xi-jinping-forced-10000-people-who-fled-overseas-to-return-to-china-through-an-operation-called-sky-net-says-human-rights-ngo/",
         "timestamp": 1642602877,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 2:34 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/chris-sununu-governor-new-hampshire-turned-down-senate-bid-gop-senators-do-nothing",
         "timestamp": 1642604869,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 3:07 PM"
     },
     {
@@ -194,17 +176,17 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/news/politics/elections/2022/01/19/sen-mark-kelly-arizona-supports-change-filibuster-rule/6576500001/",
         "timestamp": 1642605306,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 3:15 PM"
     },
     {
-        "title": "Man kept as slave in shed for 40 years on caravan park near Carlisle",
-        "domain": "standard.co.uk",
-        "category": "worldnews",
-        "link": "https://www.standard.co.uk/news/crime/slave-prisoner-shed-40-years-carlisle-modern-slavery-act-court-b977442.html?itm_source=Internal&itm_channel=homepage_trending_article_component&itm_campaign=trending_section&itm_content=1",
-        "timestamp": 1642605722,
-        "sentiment": -1,
-        "published": "January 19, 2022 3:22 PM"
+        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
+        "domain": "jacobinmag.com",
+        "category": "politics",
+        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
+        "timestamp": 1642605338,
+        "sentiment": 0,
+        "published": "January 19, 2022 3:15 PM"
     },
     {
         "title": "Covid pandemic is 'nowhere near over' and new variants are likely to emerge, WHO warns",
@@ -212,17 +194,8 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10415297/Covid-pandemic-near-new-variants-likely-emerge-warns.html",
         "timestamp": 1642606009,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 3:26 PM"
-    },
-    {
-        "title": "Biden hasn’t followed through on his pledge to ‘immediately cancel’ $10,000 per student loan borrower",
-        "domain": "fortune.com",
-        "category": "politics",
-        "link": "https://fortune.com/education/business/articles/2022/01/04/biden-has-not-kept-pledge-to-immediately-cancel-student-loan-debt/",
-        "timestamp": 1642607613,
-        "sentiment": -1,
-        "published": "January 19, 2022 3:53 PM"
     },
     {
         "title": "Fake Trump elector scheme draws the attention of more state attorneys general",
@@ -230,7 +203,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow/watch/fake-trump-elector-scheme-draws-the-attention-of-more-state-attorneys-general-131172933817",
         "timestamp": 1642608074,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 4:01 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-says-us-west-stop-giving-ukraine-arms-threatening-2022-1?utm_source=reddit.com",
         "timestamp": 1642608993,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 19, 2022 4:16 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/britney-spears-says-father-took-millions-conservatorship-rcna12694",
         "timestamp": 1642609522,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 4:25 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/business-news/peloton-insiders-sold-nearly-500-million-stock-big-drop-rcna12741",
         "timestamp": 1642611024,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 4:50 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "news",
         "link": "https://medicalxpress.com/news/2022-01-americans-gained-weight-pandemic-year.html",
         "timestamp": 1642611587,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 19, 2022 4:59 PM"
     },
     {
@@ -293,8 +266,107 @@
         "category": "politics",
         "link": "https://www.cbsnews.com/news/trump-organization-fraudulent-misleading-asset-valuations-new-york-ag-letitia-james/",
         "timestamp": 1642612377,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 19, 2022 5:12 PM"
+    },
+    {
+        "title": "Russia says it will take nothing less but NATO expansion ban",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russia-says-nothing-less-nato-131712181.html",
+        "timestamp": 1642614283,
+        "sentiment": -2,
+        "published": "January 19, 2022 5:44 PM"
+    },
+    {
+        "title": "Starbucks nixes vaccine mandate after Supreme Court ruling",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/starbucks-nixes-vaccine-mandate-supreme-court-ruling-rcna12756",
+        "timestamp": 1642615562,
+        "sentiment": 0,
+        "published": "January 19, 2022 6:06 PM"
+    },
+    {
+        "title": "This Is How They Made the Lord of the Rings Title Sequence (Without CGI)",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-title-creation",
+        "timestamp": 1642616084,
+        "sentiment": 0,
+        "published": "January 19, 2022 6:14 PM"
+    },
+    {
+        "title": "Ukrainian intelligence says 127,000 Russian troops prepared for invasion near border",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/news/world/blinken-says-russian-attack-on-ukraine-could-come-at-very-short-notice",
+        "timestamp": 1642616905,
+        "sentiment": -2,
+        "published": "January 19, 2022 6:28 PM"
+    },
+    {
+        "title": "Muslim woman, 26, is sentenced to death by hanging for blasphemy in Pakistan after sending caricatures of Prophet Mohammed over WhatsApp",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10419575/Muslim-woman-26-sentenced-death-hanging-sending-caricatures-Prophet-Mohammed.html",
+        "timestamp": 1642616950,
+        "sentiment": -2,
+        "published": "January 19, 2022 6:29 PM"
+    },
+    {
+        "title": "America’s largest oil firm claims its history of publicly denying the climate crisis is protected by the first amendment",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jan/18/exxon-texas-courts-critics-climate-crimes",
+        "timestamp": 1642617410,
+        "sentiment": 0,
+        "published": "January 19, 2022 6:36 PM"
+    },
+    {
+        "title": "Capitol rioter ordered back to jail after DWI arrest, AR-15 rifle discovered in car",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/capitol-rioter-ordered-back-jail-dwi-arrest-ar-15-rifle-discovered-car-rcna12747",
+        "timestamp": 1642621419,
+        "sentiment": 0,
+        "published": "January 19, 2022 7:43 PM"
+    },
+    {
+        "title": "The Florida Department of Health Medical Director has been put on leave for encouraging his own staff to get vaccinated.",
+        "domain": "wmfe.org",
+        "category": "news",
+        "link": "https://www.wmfe.org/pino-put-on-leave-for-encouraging-orange-county-department-of-health-employees-to-get-vaccinated/195298",
+        "timestamp": 1642553284,
+        "sentiment": 2,
+        "published": "January 19, 2022 12:48 AM"
+    },
+    {
+        "title": "Pardoned Kentucky killer sentenced to 42 years in prison",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/pardoned-kentucky-killer-sentenced-42-years-prison-82338276",
+        "timestamp": 1642592886,
+        "sentiment": 2,
+        "published": "January 19, 2022 11:48 AM"
+    },
+    {
+        "title": "Man kept as slave in shed for 40 years on caravan park near Carlisle",
+        "domain": "standard.co.uk",
+        "category": "worldnews",
+        "link": "https://www.standard.co.uk/news/crime/slave-prisoner-shed-40-years-carlisle-modern-slavery-act-court-b977442.html?itm_source=Internal&itm_channel=homepage_trending_article_component&itm_campaign=trending_section&itm_content=1",
+        "timestamp": 1642605722,
+        "sentiment": -1,
+        "published": "January 19, 2022 3:22 PM"
+    },
+    {
+        "title": "Biden hasn’t followed through on his pledge to ‘immediately cancel’ $10,000 per student loan borrower",
+        "domain": "fortune.com",
+        "category": "politics",
+        "link": "https://fortune.com/education/business/articles/2022/01/04/biden-has-not-kept-pledge-to-immediately-cancel-student-loan-debt/",
+        "timestamp": 1642607613,
+        "sentiment": -1,
+        "published": "January 19, 2022 3:53 PM"
     },
     {
         "title": "100+ Ultra-Rich People Warn Fellow Elites: 'It's Taxes or Pitchforks'",
@@ -304,24 +376,6 @@
         "timestamp": 1642613771,
         "sentiment": -1,
         "published": "January 19, 2022 5:36 PM"
-    },
-    {
-        "title": "Starbucks nixes vaccine mandate after Supreme Court ruling",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/starbucks-nixes-vaccine-mandate-supreme-court-ruling-rcna12756",
-        "timestamp": 1642615562,
-        "sentiment": 2,
-        "published": "January 19, 2022 6:06 PM"
-    },
-    {
-        "title": "Muslim woman, 26, is sentenced to death by hanging for blasphemy in Pakistan after sending caricatures of Prophet Mohammed over WhatsApp",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10419575/Muslim-woman-26-sentenced-death-hanging-sending-caricatures-Prophet-Mohammed.html",
-        "timestamp": 1642616950,
-        "sentiment": -1,
-        "published": "January 19, 2022 6:29 PM"
     },
     {
         "title": "Shock in Colombia over murder of 14-year-old indigenous activist",
@@ -385,15 +439,6 @@
         "timestamp": 1642597379,
         "sentiment": 0,
         "published": "January 19, 2022 1:02 PM"
-    },
-    {
-        "title": "Manchin and Sinema Defend the Filibuster Because the Filibuster Defends Corporate Power",
-        "domain": "jacobinmag.com",
-        "category": "politics",
-        "link": "https://jacobinmag.com/2022/01/kyrsten-sinema-joe-manchin-filibuster-voting-reform-corporate-power",
-        "timestamp": 1642605338,
-        "sentiment": 0,
-        "published": "January 19, 2022 3:15 PM"
     },
     {
         "title": "Athletes warned against speaking up on human rights at Beijing Games",
