@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://insiderpaper.com/us-worries-russian-troop-arrival-could-lead-to-nuclear-weapons-in-belarus/",
         "timestamp": 1642550831,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "January 19, 2022 12:07 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/43902/russian-landing-ships-leave-baltic-sea-raising-concerns-that-ukraine-may-be-their-final-destination",
         "timestamp": 1642553964,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "January 19, 2022 12:59 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
         "timestamp": 1642557925,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "January 19, 2022 2:05 AM"
+    },
+    {
+        "title": "Athletes warned against speaking up on human rights at Beijing Games",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/lifestyle/sports/athletes-warned-against-speaking-up-human-rights-beijing-games-2022-01-18/?taid=61e7742e08a5450001d2b7ed&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1642560826,
+        "sentiment": 0,
+        "published": "January 19, 2022 2:53 AM"
     },
     {
         "title": "Norwegian killer Breivik begins parole hearing with Nazi salute",
