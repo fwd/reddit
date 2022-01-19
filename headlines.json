@@ -1,14 +1,5 @@
 [
     {
-        "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
-        "timestamp": 1642557925,
-        "sentiment": -2,
-        "published": "January 19, 2022 2:05 AM"
-    },
-    {
         "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
         "domain": "streamingdigitally.com",
         "category": "television",
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://ukdefencejournal.org.uk/third-day-of-british-weapon-flights-to-ukraine/",
         "timestamp": 1642589474,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 10:51 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://abc7.com/teens-drive-big-rigs-semi-trucks/11483898/",
         "timestamp": 1642597071,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 12:57 PM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://tutanota.com/blog/posts/google-analytics/",
         "timestamp": 1642597181,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 12:59 PM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/significant-evidence-alleged-fraud-trump-business-investigation-ny/story?id=82345318",
         "timestamp": 1642598860,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 1:27 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://www.stripes.com/theaters/us/2022-01-18/extremism-armed-forces-capitol-attack-4292250.html",
         "timestamp": 1642602564,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 2:29 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.nl/xi-jinping-forced-10000-people-who-fled-overseas-to-return-to-china-through-an-operation-called-sky-net-says-human-rights-ngo/",
         "timestamp": 1642602877,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 2:34 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10415297/Covid-pandemic-near-new-variants-likely-emerge-warns.html",
         "timestamp": 1642606009,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 3:26 PM"
     },
     {
@@ -180,21 +171,12 @@
         "published": "January 19, 2022 4:01 PM"
     },
     {
-        "title": "‘Craig of the Creek’ Renewed for Season 5, Cartoon Network and HBO Max Order Prequel Movie and Preschool Spinoff",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/craig-of-the-creek-season-5-1235156630/",
-        "timestamp": 1642608635,
-        "sentiment": 0,
-        "published": "January 19, 2022 4:10 PM"
-    },
-    {
         "title": "Russia told the US and West to stop supplying arms to Ukraine, saying it's threatening Russia..",
         "domain": "businessinsider.com",
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-says-us-west-stop-giving-ukraine-arms-threatening-2022-1?utm_source=reddit.com",
         "timestamp": 1642608993,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 4:16 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/britney-spears-says-father-took-millions-conservatorship-rcna12694",
         "timestamp": 1642609522,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 4:25 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/business-news/peloton-insiders-sold-nearly-500-million-stock-big-drop-rcna12741",
         "timestamp": 1642611024,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 4:50 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "news",
         "link": "https://medicalxpress.com/news/2022-01-americans-gained-weight-pandemic-year.html",
         "timestamp": 1642611587,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 4:59 PM"
     },
     {
@@ -252,12 +234,21 @@
         "published": "January 19, 2022 5:12 PM"
     },
     {
+        "title": "Russia vows to stop U.S. 'from taking over Ukraine'",
+        "domain": "uawire.org",
+        "category": "worldnews",
+        "link": "http://uawire.org/russia-vows-to-stop-u-s-from-taking-over-ukraine",
+        "timestamp": 1642613540,
+        "sentiment": -1,
+        "published": "January 19, 2022 5:32 PM"
+    },
+    {
         "title": "Russia says it will take nothing less but NATO expansion ban",
         "domain": "news.yahoo.com",
         "category": "worldnews",
         "link": "https://news.yahoo.com/russia-says-nothing-less-nato-131712181.html",
         "timestamp": 1642614283,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 5:44 PM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/starbucks-nixes-vaccine-mandate-supreme-court-ruling-rcna12756",
         "timestamp": 1642615562,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 6:06 PM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "worldnews",
         "link": "https://nationalpost.com/news/world/blinken-says-russian-attack-on-ukraine-could-come-at-very-short-notice",
         "timestamp": 1642616905,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 6:28 PM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10419575/Muslim-woman-26-sentenced-death-hanging-sending-caricatures-Prophet-Mohammed.html",
         "timestamp": 1642616950,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 19, 2022 6:29 PM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/18/exxon-texas-courts-critics-climate-crimes",
         "timestamp": 1642617410,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 6:36 PM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/capitol-rioter-ordered-back-jail-dwi-arrest-ar-15-rifle-discovered-car-rcna12747",
         "timestamp": 1642621419,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 7:43 PM"
     },
     {
@@ -320,8 +311,44 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/19/pakistan-woman-aneeqa-ateeq-sentenced-to-death-blasphemous-whatsapp-messages?",
         "timestamp": 1642621460,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 19, 2022 7:44 PM"
+    },
+    {
+        "title": "Polish Government Officials: \"It's no longer in Poland's interests to continue criticising China simply to please the United States\"",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/polands-president-attend-beijing-olympics-amidst-us-boycott-2022-01-18/",
+        "timestamp": 1642624713,
+        "sentiment": -1,
+        "published": "January 19, 2022 8:38 PM"
+    },
+    {
+        "title": "Please, Star Wars, forget about Tatooine",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/star-wars/22891879/tatooine-sucks",
+        "timestamp": 1642627458,
+        "sentiment": 0,
+        "published": "January 19, 2022 9:24 PM"
+    },
+    {
+        "title": "Ukraine warns Russia has 'almost completed' build-up of forces near border",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/18/europe/ukraine-intelligence-russia-military-build-up-intl/index.html",
+        "timestamp": 1642557925,
+        "sentiment": -2,
+        "published": "January 19, 2022 2:05 AM"
+    },
+    {
+        "title": "‘Craig of the Creek’ Renewed for Season 5, Cartoon Network and HBO Max Order Prequel Movie and Preschool Spinoff",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/craig-of-the-creek-season-5-1235156630/",
+        "timestamp": 1642608635,
+        "sentiment": 0,
+        "published": "January 19, 2022 4:10 PM"
     },
     {
         "title": "Ukrainians ask to personally join NATO, offer private land for NATO base",
