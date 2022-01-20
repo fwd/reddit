@@ -9,6 +9,15 @@
         "published": "January 20, 2022 12:09 AM"
     },
     {
+        "title": "Top donors threaten to cut off funding to Sinema | The donors said they will support a primary challenge, and demanded that the senator refund their contributions if she doesn’t change her position.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413",
+        "timestamp": 1642641211,
+        "sentiment": -1,
+        "published": "January 20, 2022 1:13 AM"
+    },
+    {
         "title": "Over 100 millionaires call for higher taxes worldwide: 'Tax us now'",
         "domain": "foxbusiness.com",
         "category": "worldnews",
@@ -23,7 +32,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/glenn-youngkin-mask-mandate-lifter-sends-child-school-requiring-masks-covid-19-1670207",
         "timestamp": 1642643418,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 20, 2022 1:50 AM"
     },
     {
@@ -32,8 +41,44 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/buffy-charisma-carpenter-joss-whedon-1234915732/",
         "timestamp": 1642644015,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 20, 2022 2:00 AM"
+    },
+    {
+        "title": "Legislator dies using medical suicide law he helped pass",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/health-vermont-211fb12ef7ffc5ae3dd5ca4f0476009d",
+        "timestamp": 1642646792,
+        "sentiment": 3,
+        "published": "January 20, 2022 2:46 AM"
+    },
+    {
+        "title": "Earth's sixth mass extinction has begun according to scientists",
+        "domain": "en.as.com",
+        "category": "news",
+        "link": "https://en.as.com/en/2022/01/17/latest_news/1642434631_293097.html",
+        "timestamp": 1642648738,
+        "sentiment": 3,
+        "published": "January 20, 2022 3:18 AM"
+    },
+    {
+        "title": "Manchin, Sinema join GOP to sink filibuster change for voting bill",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/590535-manchin-sinema-join-gop-to-sink-filibuster-change-for-voting-bill",
+        "timestamp": 1642650013,
+        "sentiment": -1,
+        "published": "January 20, 2022 3:40 AM"
+    },
+    {
+        "title": "'I thought it was a joke': Canada Post employee sent home for wearing N95 mask instead of company-provided cloth or disposable mask",
+        "domain": "winnipeg.ctvnews.ca",
+        "category": "news",
+        "link": "https://winnipeg.ctvnews.ca/i-thought-it-was-a-joke-canada-post-employee-sent-home-for-wearing-n95-mask-instead-of-company-provided-cloth-or-disposable-mask-1.5747301",
+        "timestamp": 1642652468,
+        "sentiment": 3,
+        "published": "January 20, 2022 4:21 AM"
     },
     {
         "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
