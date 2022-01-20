@@ -5,8 +5,26 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/blinken-ukraine-russia-attack-short-notice-invasion-fears-mount-rcna12691",
         "timestamp": 1642637377,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "January 20, 2022 12:09 AM"
+    },
+    {
+        "title": "Over 100 millionaires call for higher taxes worldwide: 'Tax us now'",
+        "domain": "foxbusiness.com",
+        "category": "worldnews",
+        "link": "https://www.foxbusiness.com/money/millionaires-call-for-higher-taxes-worldwide-tax-us-now",
+        "timestamp": 1642642401,
+        "sentiment": -3,
+        "published": "January 20, 2022 1:33 AM"
+    },
+    {
+        "title": "Joss Whedon Is Still Unable To Just Apologize, Says Charisma Carpenter",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/buffy-charisma-carpenter-joss-whedon-1234915732/",
+        "timestamp": 1642644015,
+        "sentiment": -1,
+        "published": "January 20, 2022 2:00 AM"
     },
     {
         "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
