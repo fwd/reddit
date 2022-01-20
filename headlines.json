@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/01/19/donors-threaten-cut-funding-sinema-527413",
         "timestamp": 1642641211,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 1:13 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/glenn-youngkin-mask-mandate-lifter-sends-child-school-requiring-masks-covid-19-1670207",
         "timestamp": 1642643418,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 1:50 AM"
     },
     {
@@ -43,6 +43,15 @@
         "timestamp": 1642644015,
         "sentiment": -4,
         "published": "January 20, 2022 2:00 AM"
+    },
+    {
+        "title": "Sanders Says He’s Open to Supporting Primary Challengers to Manchin and Sinema",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/sanders-says-hes-open-to-supporting-primary-challengers-to-manchin-and-sinema/",
+        "timestamp": 1642646349,
+        "sentiment": 1,
+        "published": "January 20, 2022 2:39 AM"
     },
     {
         "title": "Legislator dies using medical suicide law he helped pass",
@@ -68,7 +77,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/590535-manchin-sinema-join-gop-to-sink-filibuster-change-for-voting-bill",
         "timestamp": 1642650013,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 3:40 AM"
     },
     {
@@ -79,6 +88,15 @@
         "timestamp": 1642652468,
         "sentiment": 3,
         "published": "January 20, 2022 4:21 AM"
+    },
+    {
+        "title": "CIA says \"Havana Syndrome\" symptoms are not the result of a targeted global campaign; idea that widespread brain injuries are caused by hostile powers \"unfounded\"",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/a/rcna12838",
+        "timestamp": 1642652637,
+        "sentiment": -4,
+        "published": "January 20, 2022 4:23 AM"
     },
     {
         "title": "The Boys Third Season 'Even More Messed Up' Than Before: Jack Quaid",
