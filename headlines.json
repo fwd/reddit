@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/blinken-ukraine-russia-attack-short-notice-invasion-fears-mount-rcna12691",
         "timestamp": 1642637377,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 20, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.foxbusiness.com/money/millionaires-call-for-higher-taxes-worldwide-tax-us-now",
         "timestamp": 1642642401,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 20, 2022 1:33 AM"
     },
     {
@@ -23,8 +23,260 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/buffy-charisma-carpenter-joss-whedon-1234915732/",
         "timestamp": 1642644015,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 20, 2022 2:00 AM"
+    },
+    {
+        "title": "Manchin, Sinema join GOP to sink filibuster change for voting bill",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/590535-manchin-sinema-join-gop-to-sink-filibuster-change-for-voting-bill",
+        "timestamp": 1642650013,
+        "sentiment": 0,
+        "published": "January 20, 2022 3:40 AM"
+    },
+    {
+        "title": "'I thought it was a joke': Canada Post employee sent home for wearing N95 mask instead of company-provided cloth or disposable mask",
+        "domain": "winnipeg.ctvnews.ca",
+        "category": "news",
+        "link": "https://winnipeg.ctvnews.ca/i-thought-it-was-a-joke-canada-post-employee-sent-home-for-wearing-n95-mask-instead-of-company-provided-cloth-or-disposable-mask-1.5747301",
+        "timestamp": 1642652468,
+        "sentiment": 0,
+        "published": "January 20, 2022 4:21 AM"
+    },
+    {
+        "title": "With winter weather approaching, pipeline company threatens to cut off gas supply to Texas’ biggest power generators unless paid $21.6 million",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/texas/2022/01/20/with-winter-weather-approaching-pipeline-company-threatens-to-cut-off-gas-supply-to-texas-biggest-power-generator/",
+        "timestamp": 1642667441,
+        "sentiment": 0,
+        "published": "January 20, 2022 8:30 AM"
+    },
+    {
+        "title": "Netflix donates After Life park benches to local UK councils in partnership with suicide prevention charity",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-60057551",
+        "timestamp": 1642667450,
+        "sentiment": 3,
+        "published": "January 20, 2022 8:30 AM"
+    },
+    {
+        "title": "Australian Open 2022: Novak Djokovic in talks to sue Australian government for A$6 million over \"ill treatment\"",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/sport/australian-open-2022-novak-djokovic-in-talks-to-sue-australian-government-for-a6-million-over-ill-treatment/SGWJK5CAWMSMR25H4RPLIPO4UE/?c_id=4&objectid=12499636&amp;ref=rss",
+        "timestamp": 1642667749,
+        "sentiment": -2,
+        "published": "January 20, 2022 8:35 AM"
+    },
+    {
+        "title": "Final fantasy anime porn interrupts Italian senate zoom meeting live broadcast",
+        "domain": "animenewsnetwork.com",
+        "category": "worldnews",
+        "link": "https://www.animenewsnetwork.com/interest/2022-01-19/final-fantasy-vii-tifa-pornography-interrupts-italian-senate-meeting/.181685",
+        "timestamp": 1642676031,
+        "sentiment": -2,
+        "published": "January 20, 2022 10:53 AM"
+    },
+    {
+        "title": "Pope Benedict XVI knew of abusive priests when he ran Munich archdiocese, investigators say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/20/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
+        "timestamp": 1642677565,
+        "sentiment": 0,
+        "published": "January 20, 2022 11:19 AM"
+    },
+    {
+        "title": "Florida bill to shield people from feeling 'discomfort' over historic actions by their race, nationality or gender approved by Senate committee",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/19/us/florida-education-critical-race-theory-bill/index.html",
+        "timestamp": 1642679173,
+        "sentiment": 0,
+        "published": "January 20, 2022 11:46 AM"
+    },
+    {
+        "title": "Trump held secret meetings in days before Capitol attack, ex-press secretary tells panel | Stephanie Grisham gave more significant details than expected about what Trump was doing before 6 January, sources say",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/20/trump-secret-meetings-january-6-capitol-attack-stephanie-grisham",
+        "timestamp": 1642680572,
+        "sentiment": 0,
+        "published": "January 20, 2022 12:09 PM"
+    },
+    {
+        "title": "New Mexico asks National Guard to teach as COVID shuts schools",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-mexico-asks-national-guard-teach-covid-shuts-schools-2022-01-20/",
+        "timestamp": 1642680858,
+        "sentiment": 0,
+        "published": "January 20, 2022 12:14 PM"
+    },
+    {
+        "title": "French lawmakers officially recognise China’s treatment of Uyghurs as ‘genocide’",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220120-french-lawmakers-officially-recognise-china-s-treatment-of-uyghurs-as-genocide",
+        "timestamp": 1642681998,
+        "sentiment": -2,
+        "published": "January 20, 2022 12:33 PM"
+    },
+    {
+        "title": "Amid 'Slow-Motion Coup,' Manchin and Sinema Help GOP Sink Voting Rights",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/20/amid-slow-motion-coup-manchin-and-sinema-help-gop-sink-voting-rights",
+        "timestamp": 1642682077,
+        "sentiment": 0,
+        "published": "January 20, 2022 12:34 PM"
+    },
+    {
+        "title": "Video appears to confirm Lorain school worker forced student to eat from trash",
+        "domain": "cleveland19.com",
+        "category": "news",
+        "link": "https://www.cleveland19.com/app/2022/01/20/video-appears-confirm-lorain-school-worker-forced-student-eat-trash/",
+        "timestamp": 1642685019,
+        "sentiment": 0,
+        "published": "January 20, 2022 1:23 PM"
+    },
+    {
+        "title": "Russia accuses West of plotting 'provocations' in Ukraine",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-europe-ukraine-moscow-af55d379aed7afc6e7794d782ff871ca",
+        "timestamp": 1642685965,
+        "sentiment": -2,
+        "published": "January 20, 2022 1:39 PM"
+    },
+    {
+        "title": "Biden chuckles as Fox News reporter Peter Doocy asks him why he’s pulling US ‘so far to the left’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-pres-conference-fox-doocy-b1996792.html",
+        "timestamp": 1642685980,
+        "sentiment": 0,
+        "published": "January 20, 2022 1:39 PM"
+    },
+    {
+        "title": "McConnell comparing \"African Americans\" and \"Americans\" sparks outrage",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/mcconnell-comparing-african-americans-americans-sparks-outrage-1671077",
+        "timestamp": 1642686815,
+        "sentiment": 0,
+        "published": "January 20, 2022 1:53 PM"
+    },
+    {
+        "title": "Teen suspect accused of shooting 16-year-old 22 times free on bond, court records say",
+        "domain": "click2houston.com",
+        "category": "news",
+        "link": "https://www.click2houston.com/news/local/2022/01/18/teen-suspect-accused-of-shooting-16-year-old-22-times-was-romantically-involved-with-victim-another-girl-police-say/",
+        "timestamp": 1642688773,
+        "sentiment": 0,
+        "published": "January 20, 2022 2:26 PM"
+    },
+    {
+        "title": "West Virginia TV Reporter Hit by Car During Live Shot, Keeps Reporting",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/west-virginia-tv-reporter-hit-by-car-during-live-shot-keeps-reporting/",
+        "timestamp": 1642688876,
+        "sentiment": 3,
+        "published": "January 20, 2022 2:27 PM"
+    },
+    {
+        "title": "India Plans to Criminalize Marital Rape, So Some Men Are Boycotting Marriage",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/4awn89/india-marital-rape-laws-marriage-strike",
+        "timestamp": 1642689102,
+        "sentiment": -2,
+        "published": "January 20, 2022 2:31 PM"
+    },
+    {
+        "title": "Congress receives Jan. 6 documents Trump fought to keep secret - Three times, Donald Trump has asked the courts to help him hide Jan. 6 materials from Congress. Three times, he's lost.",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/congress-receives-jan-6-documents-trump-fought-keep-secret-n1287761",
+        "timestamp": 1642689434,
+        "sentiment": 0,
+        "published": "January 20, 2022 2:37 PM"
+    },
+    {
+        "title": "GOP States Are Shredding Voting Rights and Joe Manchin and Kyrsten Sinema Are Now Complicit - Voter suppression is skyrocketing and they blocked an effort to stop it",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/01/gop-states-are-shredding-voting-rights-and-joe-manchin-and-kyrsten-sinema-are-now-complicit/",
+        "timestamp": 1642690607,
+        "sentiment": 0,
+        "published": "January 20, 2022 2:56 PM"
+    },
+    {
+        "title": "McConnell waves off voting concerns since Black people turn out as heavily as ‘Americans’",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/01/20/mcconnell-waves-off-voting-concerns-since-black-people-turn-out-heavily-americans/",
+        "timestamp": 1642690697,
+        "sentiment": 0,
+        "published": "January 20, 2022 2:58 PM"
+    },
+    {
+        "title": "Stranded dog saved from rising tide after rescuers attach sausage to drone",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/lifeandstyle/2022/jan/20/stranded-dog-saved-from-drowning-after-rescuers-attach-sausage-to-drone",
+        "timestamp": 1642691353,
+        "sentiment": 0,
+        "published": "January 20, 2022 3:09 PM"
+    },
+    {
+        "title": "Teen pilot Zara Rutherford becomes youngest woman to fly the world solo",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/travel/article/zara-rutherford-youngest-woman-to-fly-world-solo/index.html",
+        "timestamp": 1642692551,
+        "sentiment": 0,
+        "published": "January 20, 2022 3:29 PM"
+    },
+    {
+        "title": "The Gilded Age Review: HBO's Dull Downton Abbey Retread Is Like Watching Beautiful Paint Dry",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/20/the-gilded-age-review-hbo-julian-fellowes/",
+        "timestamp": 1642693153,
+        "sentiment": 3,
+        "published": "January 20, 2022 3:39 PM"
+    },
+    {
+        "title": "Ukrainian President pushes back on Biden: 'There are no minor incursions'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/20/politics/zelensky-biden-ukraine-incursions/index.html",
+        "timestamp": 1642693953,
+        "sentiment": -2,
+        "published": "January 20, 2022 3:52 PM"
+    },
+    {
+        "title": "American Airlines flight to London returns to Miami after passenger refuses to wear mask",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/american-airlines-flight-miami-passenger-refuses-wear-mask/",
+        "timestamp": 1642695656,
+        "sentiment": 0,
+        "published": "January 20, 2022 4:20 PM"
+    },
+    {
+        "title": "Video of Kyrsten Sinema Shaking Hands With GOP Senators After Vote Goes Viral",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/kyrsten-sinema-filibuster-senate-biden-voting-shaking-hand-1671104",
+        "timestamp": 1642697448,
+        "sentiment": 0,
+        "published": "January 20, 2022 4:50 PM"
     },
     {
         "title": "Legislator dies using medical suicide law he helped pass",
@@ -36,69 +288,6 @@
         "published": "January 20, 2022 2:46 AM"
     },
     {
-        "title": "Manchin, Sinema join GOP to sink filibuster change for voting bill",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/senate/590535-manchin-sinema-join-gop-to-sink-filibuster-change-for-voting-bill",
-        "timestamp": 1642650013,
-        "sentiment": -2,
-        "published": "January 20, 2022 3:40 AM"
-    },
-    {
-        "title": "'I thought it was a joke': Canada Post employee sent home for wearing N95 mask instead of company-provided cloth or disposable mask",
-        "domain": "winnipeg.ctvnews.ca",
-        "category": "news",
-        "link": "https://winnipeg.ctvnews.ca/i-thought-it-was-a-joke-canada-post-employee-sent-home-for-wearing-n95-mask-instead-of-company-provided-cloth-or-disposable-mask-1.5747301",
-        "timestamp": 1642652468,
-        "sentiment": -2,
-        "published": "January 20, 2022 4:21 AM"
-    },
-    {
-        "title": "With winter weather approaching, pipeline company threatens to cut off gas supply to Texas’ biggest power generators unless paid $21.6 million",
-        "domain": "click2houston.com",
-        "category": "news",
-        "link": "https://www.click2houston.com/news/texas/2022/01/20/with-winter-weather-approaching-pipeline-company-threatens-to-cut-off-gas-supply-to-texas-biggest-power-generator/",
-        "timestamp": 1642667441,
-        "sentiment": -2,
-        "published": "January 20, 2022 8:30 AM"
-    },
-    {
-        "title": "Netflix donates After Life park benches to local UK councils in partnership with suicide prevention charity",
-        "domain": "bbc.co.uk",
-        "category": "television",
-        "link": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-60057551",
-        "timestamp": 1642667450,
-        "sentiment": 0,
-        "published": "January 20, 2022 8:30 AM"
-    },
-    {
-        "title": "Australian Open 2022: Novak Djokovic in talks to sue Australian government for A$6 million over \"ill treatment\"",
-        "domain": "nzherald.co.nz",
-        "category": "worldnews",
-        "link": "https://www.nzherald.co.nz/sport/australian-open-2022-novak-djokovic-in-talks-to-sue-australian-government-for-a6-million-over-ill-treatment/SGWJK5CAWMSMR25H4RPLIPO4UE/?c_id=4&objectid=12499636&amp;ref=rss",
-        "timestamp": 1642667749,
-        "sentiment": 0,
-        "published": "January 20, 2022 8:35 AM"
-    },
-    {
-        "title": "Final fantasy anime porn interrupts Italian senate zoom meeting live broadcast",
-        "domain": "animenewsnetwork.com",
-        "category": "worldnews",
-        "link": "https://www.animenewsnetwork.com/interest/2022-01-19/final-fantasy-vii-tifa-pornography-interrupts-italian-senate-meeting/.181685",
-        "timestamp": 1642676031,
-        "sentiment": 0,
-        "published": "January 20, 2022 10:53 AM"
-    },
-    {
-        "title": "Pope Benedict XVI knew of abusive priests when he ran Munich archdiocese, investigators say",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/20/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
-        "timestamp": 1642677565,
-        "sentiment": -2,
-        "published": "January 20, 2022 11:19 AM"
-    },
-    {
         "title": "Norwegian mass killer Breivik as dangerous now as a decade ago, court told",
         "domain": "reuters.com",
         "category": "worldnews",
@@ -106,15 +295,6 @@
         "timestamp": 1642678899,
         "sentiment": 0,
         "published": "January 20, 2022 11:41 AM"
-    },
-    {
-        "title": "Florida bill to shield people from feeling 'discomfort' over historic actions by their race, nationality or gender approved by Senate committee",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/19/us/florida-education-critical-race-theory-bill/index.html",
-        "timestamp": 1642679173,
-        "sentiment": -2,
-        "published": "January 20, 2022 11:46 AM"
     },
     {
         "title": "Natural immunity against COVID lowered risk more than vaccines against Delta variant, new study says",
@@ -126,51 +306,6 @@
         "published": "January 20, 2022 11:54 AM"
     },
     {
-        "title": "Trump held secret meetings in days before Capitol attack, ex-press secretary tells panel | Stephanie Grisham gave more significant details than expected about what Trump was doing before 6 January, sources say",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/20/trump-secret-meetings-january-6-capitol-attack-stephanie-grisham",
-        "timestamp": 1642680572,
-        "sentiment": -2,
-        "published": "January 20, 2022 12:09 PM"
-    },
-    {
-        "title": "New Mexico asks National Guard to teach as COVID shuts schools",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-mexico-asks-national-guard-teach-covid-shuts-schools-2022-01-20/",
-        "timestamp": 1642680858,
-        "sentiment": -2,
-        "published": "January 20, 2022 12:14 PM"
-    },
-    {
-        "title": "French lawmakers officially recognise China’s treatment of Uyghurs as ‘genocide’",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/europe/20220120-french-lawmakers-officially-recognise-china-s-treatment-of-uyghurs-as-genocide",
-        "timestamp": 1642681998,
-        "sentiment": 0,
-        "published": "January 20, 2022 12:33 PM"
-    },
-    {
-        "title": "Amid 'Slow-Motion Coup,' Manchin and Sinema Help GOP Sink Voting Rights",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/20/amid-slow-motion-coup-manchin-and-sinema-help-gop-sink-voting-rights",
-        "timestamp": 1642682077,
-        "sentiment": -2,
-        "published": "January 20, 2022 12:34 PM"
-    },
-    {
-        "title": "Video appears to confirm Lorain school worker forced student to eat from trash",
-        "domain": "cleveland19.com",
-        "category": "news",
-        "link": "https://www.cleveland19.com/app/2022/01/20/video-appears-confirm-lorain-school-worker-forced-student-eat-trash/",
-        "timestamp": 1642685019,
-        "sentiment": -2,
-        "published": "January 20, 2022 1:23 PM"
-    },
-    {
         "title": "Prince Andrew's Twitter account deleted, days after royal loses military titles and charities",
         "domain": "edition.cnn.com",
         "category": "worldnews",
@@ -180,24 +315,6 @@
         "published": "January 20, 2022 1:33 PM"
     },
     {
-        "title": "Biden chuckles as Fox News reporter Peter Doocy asks him why he’s pulling US ‘so far to the left’",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-pres-conference-fox-doocy-b1996792.html",
-        "timestamp": 1642685980,
-        "sentiment": -2,
-        "published": "January 20, 2022 1:39 PM"
-    },
-    {
-        "title": "McConnell comparing \"African Americans\" and \"Americans\" sparks outrage",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/mcconnell-comparing-african-americans-americans-sparks-outrage-1671077",
-        "timestamp": 1642686815,
-        "sentiment": -2,
-        "published": "January 20, 2022 1:53 PM"
-    },
-    {
         "title": "The inventor of PlayStation thinks the metaverse is pointless",
         "domain": "businessinsider.com",
         "category": "worldnews",
@@ -205,60 +322,6 @@
         "timestamp": 1642688535,
         "sentiment": 0,
         "published": "January 20, 2022 2:22 PM"
-    },
-    {
-        "title": "Teen suspect accused of shooting 16-year-old 22 times free on bond, court records say",
-        "domain": "click2houston.com",
-        "category": "news",
-        "link": "https://www.click2houston.com/news/local/2022/01/18/teen-suspect-accused-of-shooting-16-year-old-22-times-was-romantically-involved-with-victim-another-girl-police-say/",
-        "timestamp": 1642688773,
-        "sentiment": -2,
-        "published": "January 20, 2022 2:26 PM"
-    },
-    {
-        "title": "West Virginia TV Reporter Hit by Car During Live Shot, Keeps Reporting",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/west-virginia-tv-reporter-hit-by-car-during-live-shot-keeps-reporting/",
-        "timestamp": 1642688876,
-        "sentiment": 0,
-        "published": "January 20, 2022 2:27 PM"
-    },
-    {
-        "title": "Congress receives Jan. 6 documents Trump fought to keep secret - Three times, Donald Trump has asked the courts to help him hide Jan. 6 materials from Congress. Three times, he's lost.",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/rachel-maddow-show/congress-receives-jan-6-documents-trump-fought-keep-secret-n1287761",
-        "timestamp": 1642689434,
-        "sentiment": -2,
-        "published": "January 20, 2022 2:37 PM"
-    },
-    {
-        "title": "GOP States Are Shredding Voting Rights and Joe Manchin and Kyrsten Sinema Are Now Complicit - Voter suppression is skyrocketing and they blocked an effort to stop it",
-        "domain": "motherjones.com",
-        "category": "politics",
-        "link": "https://www.motherjones.com/politics/2022/01/gop-states-are-shredding-voting-rights-and-joe-manchin-and-kyrsten-sinema-are-now-complicit/",
-        "timestamp": 1642690607,
-        "sentiment": -2,
-        "published": "January 20, 2022 2:56 PM"
-    },
-    {
-        "title": "McConnell waves off voting concerns since Black people turn out as heavily as ‘Americans’",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/politics/2022/01/20/mcconnell-waves-off-voting-concerns-since-black-people-turn-out-heavily-americans/",
-        "timestamp": 1642690697,
-        "sentiment": -2,
-        "published": "January 20, 2022 2:58 PM"
-    },
-    {
-        "title": "Stranded dog saved from rising tide after rescuers attach sausage to drone",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/lifeandstyle/2022/jan/20/stranded-dog-saved-from-drowning-after-rescuers-attach-sausage-to-drone",
-        "timestamp": 1642691353,
-        "sentiment": -2,
-        "published": "January 20, 2022 3:09 PM"
     },
     {
         "title": "Canada is Chinese citizens' least favorite country, according to state media survey",
