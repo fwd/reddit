@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/blinken-ukraine-russia-attack-short-notice-invasion-fears-mount-rcna12691",
         "timestamp": 1642637377,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.foxbusiness.com/money/millionaires-call-for-higher-taxes-worldwide-tax-us-now",
         "timestamp": 1642642401,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 1:33 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/buffy-charisma-carpenter-joss-whedon-1234915732/",
         "timestamp": 1642644015,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 20, 2022 2:00 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/590535-manchin-sinema-join-gop-to-sink-filibuster-change-for-voting-bill",
         "timestamp": 1642650013,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 3:40 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "television",
         "link": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-60057551",
         "timestamp": 1642667450,
-        "sentiment": 3,
-        "published": "January 20, 2022 8:30 AM"
-    },
-    {
-        "title": "Australian Open 2022: Novak Djokovic in talks to sue Australian government for A$6 million over \"ill treatment\"",
-        "domain": "nzherald.co.nz",
-        "category": "worldnews",
-        "link": "https://www.nzherald.co.nz/sport/australian-open-2022-novak-djokovic-in-talks-to-sue-australian-government-for-a6-million-over-ill-treatment/SGWJK5CAWMSMR25H4RPLIPO4UE/?c_id=4&objectid=12499636&amp;ref=rss",
-        "timestamp": 1642667749,
         "sentiment": -2,
-        "published": "January 20, 2022 8:35 AM"
+        "published": "January 20, 2022 8:30 AM"
     },
     {
         "title": "Final fantasy anime porn interrupts Italian senate zoom meeting live broadcast",
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.animenewsnetwork.com/interest/2022-01-19/final-fantasy-vii-tifa-pornography-interrupts-italian-senate-meeting/.181685",
         "timestamp": 1642676031,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 10:53 AM"
     },
     {
@@ -90,21 +81,12 @@
         "published": "January 20, 2022 11:19 AM"
     },
     {
-        "title": "Florida bill to shield people from feeling 'discomfort' over historic actions by their race, nationality or gender approved by Senate committee",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/19/us/florida-education-critical-race-theory-bill/index.html",
-        "timestamp": 1642679173,
-        "sentiment": 0,
-        "published": "January 20, 2022 11:46 AM"
-    },
-    {
         "title": "Trump held secret meetings in days before Capitol attack, ex-press secretary tells panel | Stephanie Grisham gave more significant details than expected about what Trump was doing before 6 January, sources say",
         "domain": "theguardian.com",
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/20/trump-secret-meetings-january-6-capitol-attack-stephanie-grisham",
         "timestamp": 1642680572,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 12:09 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220120-french-lawmakers-officially-recognise-china-s-treatment-of-uyghurs-as-genocide",
         "timestamp": 1642681998,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 12:33 PM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/20/amid-slow-motion-coup-manchin-and-sinema-help-gop-sink-voting-rights",
         "timestamp": 1642682077,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 12:34 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-europe-ukraine-moscow-af55d379aed7afc6e7794d782ff871ca",
         "timestamp": 1642685965,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 1:39 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-pres-conference-fox-doocy-b1996792.html",
         "timestamp": 1642685980,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 1:39 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/mcconnell-comparing-african-americans-americans-sparks-outrage-1671077",
         "timestamp": 1642686815,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 1:53 PM"
     },
     {
@@ -185,17 +167,8 @@
         "category": "television",
         "link": "https://www.thewrap.com/west-virginia-tv-reporter-hit-by-car-during-live-shot-keeps-reporting/",
         "timestamp": 1642688876,
-        "sentiment": 3,
-        "published": "January 20, 2022 2:27 PM"
-    },
-    {
-        "title": "India Plans to Criminalize Marital Rape, So Some Men Are Boycotting Marriage",
-        "domain": "vice.com",
-        "category": "worldnews",
-        "link": "https://www.vice.com/en/article/4awn89/india-marital-rape-laws-marriage-strike",
-        "timestamp": 1642689102,
         "sentiment": -2,
-        "published": "January 20, 2022 2:31 PM"
+        "published": "January 20, 2022 2:27 PM"
     },
     {
         "title": "Congress receives Jan. 6 documents Trump fought to keep secret - Three times, Donald Trump has asked the courts to help him hide Jan. 6 materials from Congress. Three times, he's lost.",
@@ -203,7 +176,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow-show/congress-receives-jan-6-documents-trump-fought-keep-secret-n1287761",
         "timestamp": 1642689434,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 2:37 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/01/gop-states-are-shredding-voting-rights-and-joe-manchin-and-kyrsten-sinema-are-now-complicit/",
         "timestamp": 1642690607,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 2:56 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/01/20/mcconnell-waves-off-voting-concerns-since-black-people-turn-out-heavily-americans/",
         "timestamp": 1642690697,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 2:58 PM"
     },
     {
@@ -243,22 +216,22 @@
         "published": "January 20, 2022 3:29 PM"
     },
     {
-        "title": "The Gilded Age Review: HBO's Dull Downton Abbey Retread Is Like Watching Beautiful Paint Dry",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/01/20/the-gilded-age-review-hbo-julian-fellowes/",
-        "timestamp": 1642693153,
-        "sentiment": 3,
-        "published": "January 20, 2022 3:39 PM"
-    },
-    {
         "title": "Ukrainian President pushes back on Biden: 'There are no minor incursions'",
         "domain": "cnn.com",
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/20/politics/zelensky-biden-ukraine-incursions/index.html",
         "timestamp": 1642693953,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 20, 2022 3:52 PM"
+    },
+    {
+        "title": "FBI says it's conducting a 'court-authorized' search of Rep. Henry Cuellar's Texas home - CNNPolitics",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/19/politics/henry-cuellar-fbi-texas-home/index.html",
+        "timestamp": 1642695423,
+        "sentiment": 0,
+        "published": "January 20, 2022 4:17 PM"
     },
     {
         "title": "American Airlines flight to London returns to Miami after passenger refuses to wear mask",
@@ -270,13 +243,76 @@
         "published": "January 20, 2022 4:20 PM"
     },
     {
+        "title": "Mitch McConnell sparks anger by saying Black Americans ‘are voting in just as high a percentage as Americans’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mitch-mcconnell-black-americans-voters-b1997297.html",
+        "timestamp": 1642695946,
+        "sentiment": 1,
+        "published": "January 20, 2022 4:25 PM"
+    },
+    {
         "title": "Video of Kyrsten Sinema Shaking Hands With GOP Senators After Vote Goes Viral",
         "domain": "newsweek.com",
         "category": "politics",
         "link": "https://www.newsweek.com/kyrsten-sinema-filibuster-senate-biden-voting-shaking-hand-1671104",
         "timestamp": 1642697448,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 20, 2022 4:50 PM"
+    },
+    {
+        "title": "Spain dispatches warship to the Black Sea to boost Ukraine’s defences",
+        "domain": "tvpworld.com",
+        "category": "worldnews",
+        "link": "https://tvpworld.com/58057335/spain-dispatches-warship-to-the-black-sea-to-boost-ukraines-defences",
+        "timestamp": 1642698785,
+        "sentiment": -4,
+        "published": "January 20, 2022 5:13 PM"
+    },
+    {
+        "title": "Biden clarifies stance on a Russian incursion in Ukraine: 'Russia will pay a heavy price' if units move across Ukrainian border",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/20/politics/biden-russia-putin-ukraine-incursion/index.html",
+        "timestamp": 1642699266,
+        "sentiment": -4,
+        "published": "January 20, 2022 5:21 PM"
+    },
+    {
+        "title": "Australian Open 2022: Novak Djokovic in talks to sue Australian government for A$6 million over \"ill treatment\"",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/sport/australian-open-2022-novak-djokovic-in-talks-to-sue-australian-government-for-a6-million-over-ill-treatment/SGWJK5CAWMSMR25H4RPLIPO4UE/?c_id=4&objectid=12499636&amp;ref=rss",
+        "timestamp": 1642667749,
+        "sentiment": -2,
+        "published": "January 20, 2022 8:35 AM"
+    },
+    {
+        "title": "Florida bill to shield people from feeling 'discomfort' over historic actions by their race, nationality or gender approved by Senate committee",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/19/us/florida-education-critical-race-theory-bill/index.html",
+        "timestamp": 1642679173,
+        "sentiment": 0,
+        "published": "January 20, 2022 11:46 AM"
+    },
+    {
+        "title": "India Plans to Criminalize Marital Rape, So Some Men Are Boycotting Marriage",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/4awn89/india-marital-rape-laws-marriage-strike",
+        "timestamp": 1642689102,
+        "sentiment": -2,
+        "published": "January 20, 2022 2:31 PM"
+    },
+    {
+        "title": "The Gilded Age Review: HBO's Dull Downton Abbey Retread Is Like Watching Beautiful Paint Dry",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/20/the-gilded-age-review-hbo-julian-fellowes/",
+        "timestamp": 1642693153,
+        "sentiment": 3,
+        "published": "January 20, 2022 3:39 PM"
     },
     {
         "title": "Legislator dies using medical suicide law he helped pass",
