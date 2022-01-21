@@ -1,5 +1,14 @@
 [
     {
+        "title": "Missouri Senate candidate says Congress members should go to jail if guilty of insider trading",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/hilltv/rising/590668-missouri-senate-candidates-says-congress-members-should-go-to-jail-if-guilty-of",
+        "timestamp": 1642724665,
+        "sentiment": -3,
+        "published": "January 21, 2022 12:24 AM"
+    },
+    {
         "title": "Trudeau fears Russia will invade Ukraine and sends warship to Black Sea",
         "domain": "nationalobserver.com",
         "category": "worldnews",
@@ -9,21 +18,12 @@
         "published": "January 21, 2022 12:30 AM"
     },
     {
-        "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/20/health/marijuana-brain-cognition-wellness/index.html",
-        "timestamp": 1642726931,
-        "sentiment": 0,
-        "published": "January 21, 2022 1:02 AM"
-    },
-    {
         "title": "More than 100 former Tesla employees have signed statements alleging that Tesla discriminates against Black people and allows a racist environment in its factories",
         "domain": "inputmag.com",
         "category": "news",
         "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
         "timestamp": 1642727599,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 21, 2022 1:13 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 21, 2022 1:54 AM"
+    },
+    {
+        "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/20/health/marijuana-brain-cognition-wellness/index.html",
+        "timestamp": 1642726931,
+        "sentiment": 0,
+        "published": "January 21, 2022 1:02 AM"
     },
     {
         "title": "Joss Whedon Is Still Unable To Just Apologize, Says Charisma Carpenter",
