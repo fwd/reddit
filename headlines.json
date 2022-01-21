@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nationalobserver.com/2022/01/19/news/trudeau-fears-russia-invade-ukraine-sends-warship-black-sea",
         "timestamp": 1642725057,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 21, 2022 12:30 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
         "timestamp": 1642727599,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 1:13 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 1:54 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
         "timestamp": 1642734316,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 3:05 AM"
     },
     {
@@ -59,8 +59,26 @@
         "category": "worldnews",
         "link": "https://stluciatimes.com/passengers-stuck-at-sea-after-norwegian-cancels-cruise-mid-voyage/",
         "timestamp": 1642738834,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 21, 2022 4:20 AM"
+    },
+    {
+        "title": "Kansas and California Cops Used Civil Forfeiture to Stage Armored Car Heists, Stealing Money Earned by Licensed Marijuana Businesses",
+        "domain": "reason.com",
+        "category": "politics",
+        "link": "https://reason.com/2022/01/18/kansas-and-california-cops-used-civil-forfeiture-to-stage-armored-car-heists-stealing-money-earned-by-licensed-marijuana-businesses/?s=09",
+        "timestamp": 1642739999,
+        "sentiment": -3,
+        "published": "January 21, 2022 4:39 AM"
+    },
+    {
+        "title": "North Korea Says U.S. Hostility Has Reached 'Danger Line,' Can No Longer Be Ignored",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/north-korea-says-us-hostility-has-reached-danger-line-can-no-longer-ignored-1671231",
+        "timestamp": 1642749835,
+        "sentiment": -1,
+        "published": "January 21, 2022 7:23 AM"
     },
     {
         "title": "Meat Loaf Musician and Actor dies at 74",
@@ -77,7 +95,7 @@
         "category": "news",
         "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
         "timestamp": 1642752187,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 8:03 AM"
     },
     {
