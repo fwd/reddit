@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://thehill.com/hilltv/rising/590668-missouri-senate-candidates-says-congress-members-should-go-to-jail-if-guilty-of",
         "timestamp": 1642724665,
-        "sentiment": -6,
+        "sentiment": -5,
         "published": "January 21, 2022 12:24 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nationalobserver.com/2022/01/19/news/trudeau-fears-russia-invade-ukraine-sends-warship-black-sea",
         "timestamp": 1642725057,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 12:30 AM"
     },
     {
@@ -23,8 +23,224 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 21, 2022 1:54 AM"
+    },
+    {
+        "title": "LGBTQ dating ban at BYU probed in federal investigation",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
+        "timestamp": 1642734316,
+        "sentiment": -1,
+        "published": "January 21, 2022 3:05 AM"
+    },
+    {
+        "title": "Netflix shares fall 20% on slowing subscriber growth",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
+        "timestamp": 1642738485,
+        "sentiment": 4,
+        "published": "January 21, 2022 4:14 AM"
+    },
+    {
+        "title": "North Korea Says U.S. Hostility Has Reached 'Danger Line,' Can No Longer Be Ignored",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/north-korea-says-us-hostility-has-reached-danger-line-can-no-longer-ignored-1671231",
+        "timestamp": 1642749835,
+        "sentiment": -1,
+        "published": "January 21, 2022 7:23 AM"
+    },
+    {
+        "title": "China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
+        "timestamp": 1642751003,
+        "sentiment": -1,
+        "published": "January 21, 2022 7:43 AM"
+    },
+    {
+        "title": "Meat Loaf Musician and Actor dies at 74",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/meat-loaf-dead-bat-out-of-hell-rocky-horror-picture-show-1234917056/",
+        "timestamp": 1642751693,
+        "sentiment": 4,
+        "published": "January 21, 2022 7:54 AM"
+    },
+    {
+        "title": "US singer Meat Loaf dies aged 74",
+        "domain": "heraldscotland.com",
+        "category": "news",
+        "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
+        "timestamp": 1642752187,
+        "sentiment": -1,
+        "published": "January 21, 2022 8:03 AM"
+    },
+    {
+        "title": "Americans are showing up sick to work even as Omicron spreads",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/20/economy/paid-sick-leave-covid-retail-restaurant-workers/index.html",
+        "timestamp": 1642754826,
+        "sentiment": -1,
+        "published": "January 21, 2022 8:47 AM"
+    },
+    {
+        "title": "Russia wants NATO forces to leave Romania, Bulgaria - foreign ministry",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
+        "timestamp": 1642756710,
+        "sentiment": -1,
+        "published": "January 21, 2022 9:18 AM"
+    },
+    {
+        "title": "Ozark Season 4 Part 1 is now available on Netflix",
+        "domain": "netflix.com",
+        "category": "television",
+        "link": "https://www.netflix.com/hu/title/80117552",
+        "timestamp": 1642759873,
+        "sentiment": 4,
+        "published": "January 21, 2022 10:11 AM"
+    },
+    {
+        "title": "'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/21/january-6-committee-precedent-pro-trump-electors-527528",
+        "timestamp": 1642761391,
+        "sentiment": -5,
+        "published": "January 21, 2022 10:36 AM"
+    },
+    {
+        "title": "Queen Elizabeth II is hiring a part-time housekeeper for minimum wage",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
+        "timestamp": 1642761952,
+        "sentiment": -1,
+        "published": "January 21, 2022 10:45 AM"
+    },
+    {
+        "title": "British doctor visiting US killed by stray bullet while lying in bed",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/british-doctor-visiting-us-killed-by-stray-bullet-while-lying-in-bed/ar-AASZyYU",
+        "timestamp": 1642763078,
+        "sentiment": -1,
+        "published": "January 21, 2022 11:04 AM"
+    },
+    {
+        "title": "Russia wants NATO forces to leave Romania, Bulgaria",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
+        "timestamp": 1642763297,
+        "sentiment": -1,
+        "published": "January 21, 2022 11:08 AM"
+    },
+    {
+        "title": "3 Pennsylvania officers fired after being charged in the fatal shooting of 8-year-old Fanta Bility",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
+        "timestamp": 1642763308,
+        "sentiment": -1,
+        "published": "January 21, 2022 11:08 AM"
+    },
+    {
+        "title": "‘Lucifer’ Tops ‘Squid Game’ On Nielsen 2021 Original Series Chart In U.S., ‘Luca’ Is No. 1 Movie",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/nielsen-streaming-top-shows-of-2021-lucifer-1234914241/",
+        "timestamp": 1642766505,
+        "sentiment": 4,
+        "published": "January 21, 2022 12:01 PM"
+    },
+    {
+        "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/20/georgia-trump-special-grand-jury-2020-election",
+        "timestamp": 1642767323,
+        "sentiment": -5,
+        "published": "January 21, 2022 12:15 PM"
+    },
+    {
+        "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
+        "domain": "screenshot-media.com",
+        "category": "television",
+        "link": "https://screenshot-media.com/visual-cultures/entertainment/euphoria-high-school-fetishisation/",
+        "timestamp": 1642767430,
+        "sentiment": 4,
+        "published": "January 21, 2022 12:17 PM"
+    },
+    {
+        "title": "Rudy Giuliani oversaw state effort to send fake electors to declare Trump victory in 2020, report says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rudy-giuliani-fake-electors-b1997683.html",
+        "timestamp": 1642768303,
+        "sentiment": -5,
+        "published": "January 21, 2022 12:31 PM"
+    },
+    {
+        "title": "Woman refuses mask on flight to London. So, the pilot took her back to Florida",
+        "domain": "eu.usatoday.com",
+        "category": "worldnews",
+        "link": "https://eu.usatoday.com/story/travel/airline-news/2022/01/20/american-airlines-flight-miami-london-mask/6594359001/",
+        "timestamp": 1642768307,
+        "sentiment": -1,
+        "published": "January 21, 2022 12:31 PM"
+    },
+    {
+        "title": "Woman, 31, clubbed to death with a pipe while sitting in office lobby",
+        "domain": "mlive.com",
+        "category": "news",
+        "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
+        "timestamp": 1642768861,
+        "sentiment": -1,
+        "published": "January 21, 2022 12:41 PM"
+    },
+    {
+        "title": "Biden administration to investigate Christian college that wouldn’t let gay student graduate",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
+        "timestamp": 1642770742,
+        "sentiment": -5,
+        "published": "January 21, 2022 1:12 PM"
+    },
+    {
+        "title": "Black lawmakers fire back at Mitch McConnell—\"We are American\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/black-lawmakers-fire-back-mitch-mcconnell-we-are-american-1671489",
+        "timestamp": 1642771454,
+        "sentiment": -5,
+        "published": "January 21, 2022 1:24 PM"
+    },
+    {
+        "title": "An hour before DWI crash, Hennepin County sheriff called for a ride to a bar: Hennepin County Sheriff David Hutchinson was driving 126 mph and was not wearing a seatbelt when he crashed",
+        "domain": "minnesotareformer.com",
+        "category": "news",
+        "link": "https://minnesotareformer.com/2022/01/20/an-hour-before-dwi-crash-hennepin-county-sheriff-called-for-a-ride-to-a-bar/",
+        "timestamp": 1642771491,
+        "sentiment": -1,
+        "published": "January 21, 2022 1:24 PM"
+    },
+    {
+        "title": "Elizabeth Warren says Elon Musk launches personal attacks on her, rather than actually discussing the tax system",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elizabeth-warren-elon-musk-prefers-insults-tax-discussion-2022-1",
+        "timestamp": 1642771566,
+        "sentiment": -5,
+        "published": "January 21, 2022 1:26 PM"
     },
     {
         "title": "Mitch McConnell said Black people show up to vote just as much as 'Americans' after the voting rights bill failed in the Senate",
@@ -36,24 +252,6 @@
         "published": "January 21, 2022 2:08 AM"
     },
     {
-        "title": "LGBTQ dating ban at BYU probed in federal investigation",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
-        "timestamp": 1642734316,
-        "sentiment": -2,
-        "published": "January 21, 2022 3:05 AM"
-    },
-    {
-        "title": "Netflix shares fall 20% on slowing subscriber growth",
-        "domain": "cnbc.com",
-        "category": "television",
-        "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
-        "timestamp": 1642738485,
-        "sentiment": 0,
-        "published": "January 21, 2022 4:14 AM"
-    },
-    {
         "title": "Giuliani Reportedly In Charge Of Fake Electors Who Filed Fake Certificates For Trump",
         "domain": "huffpost.com",
         "category": "politics",
@@ -61,132 +259,6 @@
         "timestamp": 1642746380,
         "sentiment": -6,
         "published": "January 21, 2022 6:26 AM"
-    },
-    {
-        "title": "North Korea Says U.S. Hostility Has Reached 'Danger Line,' Can No Longer Be Ignored",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/north-korea-says-us-hostility-has-reached-danger-line-can-no-longer-ignored-1671231",
-        "timestamp": 1642749835,
-        "sentiment": 0,
-        "published": "January 21, 2022 7:23 AM"
-    },
-    {
-        "title": "China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
-        "timestamp": 1642751003,
-        "sentiment": 0,
-        "published": "January 21, 2022 7:43 AM"
-    },
-    {
-        "title": "Meat Loaf Musician and Actor dies at 74",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/meat-loaf-dead-bat-out-of-hell-rocky-horror-picture-show-1234917056/",
-        "timestamp": 1642751693,
-        "sentiment": 0,
-        "published": "January 21, 2022 7:54 AM"
-    },
-    {
-        "title": "US singer Meat Loaf dies aged 74",
-        "domain": "heraldscotland.com",
-        "category": "news",
-        "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
-        "timestamp": 1642752187,
-        "sentiment": -2,
-        "published": "January 21, 2022 8:03 AM"
-    },
-    {
-        "title": "Americans are showing up sick to work even as Omicron spreads",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/20/economy/paid-sick-leave-covid-retail-restaurant-workers/index.html",
-        "timestamp": 1642754826,
-        "sentiment": -2,
-        "published": "January 21, 2022 8:47 AM"
-    },
-    {
-        "title": "Russia wants NATO forces to leave Romania, Bulgaria - foreign ministry",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
-        "timestamp": 1642756710,
-        "sentiment": 0,
-        "published": "January 21, 2022 9:18 AM"
-    },
-    {
-        "title": "Ozark Season 4 Part 1 is now available on Netflix",
-        "domain": "netflix.com",
-        "category": "television",
-        "link": "https://www.netflix.com/hu/title/80117552",
-        "timestamp": 1642759873,
-        "sentiment": 0,
-        "published": "January 21, 2022 10:11 AM"
-    },
-    {
-        "title": "Queen Elizabeth II is hiring a part-time housekeeper for minimum wage",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
-        "timestamp": 1642761952,
-        "sentiment": -2,
-        "published": "January 21, 2022 10:45 AM"
-    },
-    {
-        "title": "British doctor visiting US killed by stray bullet while lying in bed",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-gb/news/world/british-doctor-visiting-us-killed-by-stray-bullet-while-lying-in-bed/ar-AASZyYU",
-        "timestamp": 1642763078,
-        "sentiment": 0,
-        "published": "January 21, 2022 11:04 AM"
-    },
-    {
-        "title": "3 Pennsylvania officers fired after being charged in the fatal shooting of 8-year-old Fanta Bility",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
-        "timestamp": 1642763308,
-        "sentiment": -2,
-        "published": "January 21, 2022 11:08 AM"
-    },
-    {
-        "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
-        "domain": "screenshot-media.com",
-        "category": "television",
-        "link": "https://screenshot-media.com/visual-cultures/entertainment/euphoria-high-school-fetishisation/",
-        "timestamp": 1642767430,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:17 PM"
-    },
-    {
-        "title": "Rudy Giuliani oversaw state effort to send fake electors to declare Trump victory in 2020, report says",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rudy-giuliani-fake-electors-b1997683.html",
-        "timestamp": 1642768303,
-        "sentiment": -6,
-        "published": "January 21, 2022 12:31 PM"
-    },
-    {
-        "title": "Woman refuses mask on flight to London. So, the pilot took her back to Florida",
-        "domain": "eu.usatoday.com",
-        "category": "worldnews",
-        "link": "https://eu.usatoday.com/story/travel/airline-news/2022/01/20/american-airlines-flight-miami-london-mask/6594359001/",
-        "timestamp": 1642768307,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:31 PM"
-    },
-    {
-        "title": "Woman, 31, clubbed to death with a pipe while sitting in office lobby",
-        "domain": "mlive.com",
-        "category": "news",
-        "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
-        "timestamp": 1642768861,
-        "sentiment": -2,
-        "published": "January 21, 2022 12:41 PM"
     },
     {
         "title": "Passengers Stuck At Sea After Norwegian Cancels Cruise Mid-Voyage",
