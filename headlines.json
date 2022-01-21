@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
         "timestamp": 1642727599,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 21, 2022 1:13 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 21, 2022 1:54 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
         "timestamp": 1642734316,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 21, 2022 3:05 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
         "timestamp": 1642738485,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 21, 2022 4:14 AM"
     },
     {
@@ -61,6 +61,24 @@
         "timestamp": 1642738834,
         "sentiment": -5,
         "published": "January 21, 2022 4:20 AM"
+    },
+    {
+        "title": "Meat Loaf Musician and Actor dies at 74",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/meat-loaf-dead-bat-out-of-hell-rocky-horror-picture-show-1234917056/",
+        "timestamp": 1642751693,
+        "sentiment": 0,
+        "published": "January 21, 2022 7:54 AM"
+    },
+    {
+        "title": "US singer Meat Loaf dies aged 74",
+        "domain": "heraldscotland.com",
+        "category": "news",
+        "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
+        "timestamp": 1642752187,
+        "sentiment": 0,
+        "published": "January 21, 2022 8:03 AM"
     },
     {
         "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
