@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://thehill.com/hilltv/rising/590668-missouri-senate-candidates-says-congress-members-should-go-to-jail-if-guilty-of",
         "timestamp": 1642724665,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 21, 2022 12:24 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
         "timestamp": 1642727599,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 21, 2022 1:13 AM"
     },
     {
@@ -32,8 +32,26 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 21, 2022 1:54 AM"
+    },
+    {
+        "title": "LGBTQ dating ban at BYU probed in federal investigation",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
+        "timestamp": 1642734316,
+        "sentiment": 2,
+        "published": "January 21, 2022 3:05 AM"
+    },
+    {
+        "title": "Netflix shares fall 20% on slowing subscriber growth",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
+        "timestamp": 1642738485,
+        "sentiment": 0,
+        "published": "January 21, 2022 4:14 AM"
     },
     {
         "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
