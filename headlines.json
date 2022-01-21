@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://thehill.com/hilltv/rising/590668-missouri-senate-candidates-says-congress-members-should-go-to-jail-if-guilty-of",
         "timestamp": 1642724665,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 12:24 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nationalobserver.com/2022/01/19/news/trudeau-fears-russia-invade-ukraine-sends-warship-black-sea",
         "timestamp": 1642725057,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 21, 2022 12:30 AM"
     },
     {
@@ -50,8 +50,17 @@
         "category": "television",
         "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
         "timestamp": 1642738485,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 21, 2022 4:14 AM"
+    },
+    {
+        "title": "Passengers Stuck At Sea After Norwegian Cancels Cruise Mid-Voyage",
+        "domain": "stluciatimes.com",
+        "category": "worldnews",
+        "link": "https://stluciatimes.com/passengers-stuck-at-sea-after-norwegian-cancels-cruise-mid-voyage/",
+        "timestamp": 1642738834,
+        "sentiment": -3,
+        "published": "January 21, 2022 4:20 AM"
     },
     {
         "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
