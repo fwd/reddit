@@ -1,20 +1,11 @@
 [
     {
-        "title": "Michigan judge apologizes for berating elderly cancer patient over weeds",
-        "domain": "freep.com",
-        "category": "news",
-        "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
-        "timestamp": 1642730057,
-        "sentiment": -2,
-        "published": "January 21, 2022 1:54 AM"
-    },
-    {
         "title": "Netflix shares fall 20% on slowing subscriber growth",
         "domain": "cnbc.com",
         "category": "television",
         "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
         "timestamp": 1642738485,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 21, 2022 4:14 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/north-korea-says-us-hostility-has-reached-danger-line-can-no-longer-ignored-1671231",
         "timestamp": 1642749835,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 7:23 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
         "timestamp": 1642751003,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 7:43 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/meat-loaf-dead-bat-out-of-hell-rocky-horror-picture-show-1234917056/",
         "timestamp": 1642751693,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 21, 2022 7:54 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
         "timestamp": 1642752187,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 8:03 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
         "timestamp": 1642756710,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 9:18 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "television",
         "link": "https://www.netflix.com/hu/title/80117552",
         "timestamp": 1642759873,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 21, 2022 10:11 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
         "timestamp": 1642761952,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 10:45 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
         "timestamp": 1642763308,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 11:08 AM"
-    },
-    {
-        "title": "‘Lucifer’ Tops ‘Squid Game’ On Nielsen 2021 Original Series Chart In U.S., ‘Luca’ Is No. 1 Movie",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/nielsen-streaming-top-shows-of-2021-lucifer-1234914241/",
-        "timestamp": 1642766505,
-        "sentiment": 1,
-        "published": "January 21, 2022 12:01 PM"
     },
     {
         "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
@@ -104,7 +86,7 @@
         "category": "television",
         "link": "https://screenshot-media.com/visual-cultures/entertainment/euphoria-high-school-fetishisation/",
         "timestamp": 1642767430,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 21, 2022 12:17 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
         "timestamp": 1642768861,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 12:41 PM"
     },
     {
@@ -131,17 +113,8 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-announces-deployment-over-140-warships-some-black-sea-after-biden-warning-1671447?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1642769605,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 12:53 PM"
-    },
-    {
-        "title": "Biden administration to investigate Christian college that wouldn’t let gay student graduate",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
-        "timestamp": 1642770742,
-        "sentiment": 0,
-        "published": "January 21, 2022 1:12 PM"
     },
     {
         "title": "Britain warns Putin and Xi: West will stand up to 'dictatorship'",
@@ -149,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/uk/britain-warns-putin-xi-west-will-stand-up-dictatorship-2022-01-20/?utm_medium=Social&utm_source=twitter",
         "timestamp": 1642770969,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 1:16 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "news",
         "link": "https://minnesotareformer.com/2022/01/20/an-hour-before-dwi-crash-hennepin-county-sheriff-called-for-a-ride-to-a-bar/",
         "timestamp": 1642771491,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 1:24 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.dw.com/en/pope-francis-vows-justice-for-church-abuse-victims-after-damning-report/a-60509998",
         "timestamp": 1642773436,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 1:57 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/louie-anderson-dead-obituary-comedian-baskets-family-feud-emmy-winner-1234917040/",
         "timestamp": 1642778230,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 21, 2022 3:17 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.artnews.com/art-news/news/sphinxes-found-amenhotep-iii-temple-luxor-1234616230/",
         "timestamp": 1642778909,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 3:28 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jan/20/environment-agency-cuts-staff-blow-whistle",
         "timestamp": 1642779483,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 3:38 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "worldnews",
         "link": "https://globalnews.ca/news/8529262/canada-120m-loan-ukraine-russia/",
         "timestamp": 1642779867,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 3:44 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.forbes.com/sites/lisakim/2022/01/21/us-reportedly-considers-evacuating-family-members-of-diplomats-in-ukraine-as-russia-amasses-troops-on-border/",
         "timestamp": 1642780613,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 3:56 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "news",
         "link": "https://wset.com/news/at-the-capitol/page-county-public-schools-luray-virginia-increase-security-police-presence-mom-threatens-to-bring-loaded-gun-over-mask-mandate",
         "timestamp": 1642784478,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 5:01 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-charges-texas-man-threatening-georgia-government-officials-2022-01-21/",
         "timestamp": 1642784802,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "January 21, 2022 5:06 PM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/world/article-estonia-latvia-and-lithuania-sending-anti-armour-and-anti-aircraft/",
         "timestamp": 1642785709,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 21, 2022 5:21 PM"
     },
     {
@@ -313,6 +286,60 @@
         "timestamp": 1642786077,
         "sentiment": 0,
         "published": "January 21, 2022 5:27 PM"
+    },
+    {
+        "title": "Couple arrested after launching hateful rant against family, including 10-year-old boy, on train",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/couple-arrested-launching-hateful-rant-family-10-year-old-boy-train-rcna13037?cid=sm_npd_nn_tw_ma&s=09",
+        "timestamp": 1642788248,
+        "sentiment": -6,
+        "published": "January 21, 2022 6:04 PM"
+    },
+    {
+        "title": "Trump order that instructed defense secretary to seize voting machines was based on Sidney Powell conspiracies",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-voting-machines-election-sidney-powell-b1998170.html",
+        "timestamp": 1642789802,
+        "sentiment": 0,
+        "published": "January 21, 2022 6:30 PM"
+    },
+    {
+        "title": "'Star Trek: Picard' Season 2 Image Reveals Whoopi Goldberg's Return as Guinan",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/star-trek-picard-season-2-image-whoopi-goldberg-guinan-paramount-plus/",
+        "timestamp": 1642790592,
+        "sentiment": 0,
+        "published": "January 21, 2022 6:43 PM"
+    },
+    {
+        "title": "Michigan judge apologizes for berating elderly cancer patient over weeds",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
+        "timestamp": 1642730057,
+        "sentiment": -2,
+        "published": "January 21, 2022 1:54 AM"
+    },
+    {
+        "title": "‘Lucifer’ Tops ‘Squid Game’ On Nielsen 2021 Original Series Chart In U.S., ‘Luca’ Is No. 1 Movie",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/nielsen-streaming-top-shows-of-2021-lucifer-1234914241/",
+        "timestamp": 1642766505,
+        "sentiment": 1,
+        "published": "January 21, 2022 12:01 PM"
+    },
+    {
+        "title": "Biden administration to investigate Christian college that wouldn’t let gay student graduate",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
+        "timestamp": 1642770742,
+        "sentiment": 0,
+        "published": "January 21, 2022 1:12 PM"
     },
     {
         "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
