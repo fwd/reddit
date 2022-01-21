@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://thehill.com/hilltv/rising/590668-missouri-senate-candidates-says-congress-members-should-go-to-jail-if-guilty-of",
         "timestamp": 1642724665,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 21, 2022 12:24 AM"
     },
     {
@@ -18,21 +18,12 @@
         "published": "January 21, 2022 12:30 AM"
     },
     {
-        "title": "More than 100 former Tesla employees have signed statements alleging that Tesla discriminates against Black people and allows a racist environment in its factories",
-        "domain": "inputmag.com",
-        "category": "news",
-        "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
-        "timestamp": 1642727599,
-        "sentiment": -3,
-        "published": "January 21, 2022 1:13 AM"
-    },
-    {
         "title": "Michigan judge apologizes for berating elderly cancer patient over weeds",
         "domain": "freep.com",
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 21, 2022 1:54 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/mitch-mcconnell-says-black-people-vote-much-as-americans-2022-1",
         "timestamp": 1642730937,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 21, 2022 2:08 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://apnews.com/article/sports-lifestyle-us-department-of-education-brigham-young-university-education-41cf849a79eaaddf7f8d16e167646a67",
         "timestamp": 1642734316,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 21, 2022 3:05 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://reason.com/2022/01/18/kansas-and-california-cops-used-civil-forfeiture-to-stage-armored-car-heists-stealing-money-earned-by-licensed-marijuana-businesses/?s=09",
         "timestamp": 1642739999,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "January 21, 2022 4:39 AM"
     },
     {
@@ -88,6 +79,15 @@
         "timestamp": 1642749835,
         "sentiment": -3,
         "published": "January 21, 2022 7:23 AM"
+    },
+    {
+        "title": "China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
+        "timestamp": 1642751003,
+        "sentiment": -3,
+        "published": "January 21, 2022 7:43 AM"
     },
     {
         "title": "Meat Loaf Musician and Actor dies at 74",
@@ -104,8 +104,17 @@
         "category": "news",
         "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
         "timestamp": 1642752187,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 21, 2022 8:03 AM"
+    },
+    {
+        "title": "Americans are showing up sick to work even as Omicron spreads",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/20/economy/paid-sick-leave-covid-retail-restaurant-workers/index.html",
+        "timestamp": 1642754826,
+        "sentiment": -2,
+        "published": "January 21, 2022 8:47 AM"
     },
     {
         "title": "Russia wants NATO forces to leave Romania, Bulgaria - foreign ministry",
@@ -126,6 +135,15 @@
         "published": "January 21, 2022 10:11 AM"
     },
     {
+        "title": "Queen Elizabeth II is hiring a part-time housekeeper for minimum wage",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
+        "timestamp": 1642761952,
+        "sentiment": -2,
+        "published": "January 21, 2022 10:45 AM"
+    },
+    {
         "title": "British doctor visiting US killed by stray bullet while lying in bed",
         "domain": "msn.com",
         "category": "worldnews",
@@ -133,6 +151,24 @@
         "timestamp": 1642763078,
         "sentiment": -3,
         "published": "January 21, 2022 11:04 AM"
+    },
+    {
+        "title": "3 Pennsylvania officers fired after being charged in the fatal shooting of 8-year-old Fanta Bility",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
+        "timestamp": 1642763308,
+        "sentiment": -2,
+        "published": "January 21, 2022 11:08 AM"
+    },
+    {
+        "title": "More than 100 former Tesla employees have signed statements alleging that Tesla discriminates against Black people and allows a racist environment in its factories",
+        "domain": "inputmag.com",
+        "category": "news",
+        "link": "https://www.inputmag.com/culture/tesla-fremont-employees-allege-widespread-racism-on-the-factory-floor",
+        "timestamp": 1642727599,
+        "sentiment": -3,
+        "published": "January 21, 2022 1:13 AM"
     },
     {
         "title": "CNN: Using Marijuana May Affect Your Ability to Think and Plan",
