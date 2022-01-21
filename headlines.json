@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 1:54 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/north-korea-says-us-hostility-has-reached-danger-line-can-no-longer-ignored-1671231",
         "timestamp": 1642749835,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 7:23 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
         "timestamp": 1642751003,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 7:43 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
         "timestamp": 1642752187,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 8:03 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
         "timestamp": 1642756710,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 9:18 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
         "timestamp": 1642761952,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 10:45 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
         "timestamp": 1642763308,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 11:08 AM"
     },
     {
@@ -97,15 +97,6 @@
         "timestamp": 1642766505,
         "sentiment": 1,
         "published": "January 21, 2022 12:01 PM"
-    },
-    {
-        "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/20/georgia-trump-special-grand-jury-2020-election",
-        "timestamp": 1642767323,
-        "sentiment": 3,
-        "published": "January 21, 2022 12:15 PM"
     },
     {
         "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rudy-giuliani-fake-electors-b1997683.html",
         "timestamp": 1642768303,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 12:31 PM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
         "timestamp": 1642768861,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 12:41 PM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-announces-deployment-over-140-warships-some-black-sea-after-biden-warning-1671447?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1642769605,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 12:53 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
         "timestamp": 1642770742,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 1:12 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/uk/britain-warns-putin-xi-west-will-stand-up-dictatorship-2022-01-20/?utm_medium=Social&utm_source=twitter",
         "timestamp": 1642770969,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 1:16 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/black-lawmakers-fire-back-mitch-mcconnell-we-are-american-1671489",
         "timestamp": 1642771454,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 1:24 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://minnesotareformer.com/2022/01/20/an-hour-before-dwi-crash-hennepin-county-sheriff-called-for-a-ride-to-a-bar/",
         "timestamp": 1642771491,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 1:24 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/elizabeth-warren-elon-musk-prefers-insults-tax-discussion-2022-1",
         "timestamp": 1642771566,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 1:26 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jan/19/america-biden-trump-authoritarinism?CMP=twt_b-usopinion_c-us",
         "timestamp": 1642773022,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 1:50 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "news",
         "link": "https://www.dw.com/en/pope-francis-vows-justice-for-church-abuse-victims-after-damning-report/a-60509998",
         "timestamp": 1642773436,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 21, 2022 1:57 PM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/josh-hawley-democrats-dont-accept-elections_n_61ea1949e4b01440a689bedc",
         "timestamp": 1642778063,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 3:14 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.artnews.com/art-news/news/sphinxes-found-amenhotep-iii-temple-luxor-1234616230/",
         "timestamp": 1642778909,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 3:28 PM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jan/20/environment-agency-cuts-staff-blow-whistle",
         "timestamp": 1642779483,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 3:38 PM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/z3nzay/kyrsten-sinema-volunteers-staffers-feel-betrayed",
         "timestamp": 1642779585,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 3:39 PM"
     },
     {
@@ -257,8 +248,17 @@
         "category": "worldnews",
         "link": "https://globalnews.ca/news/8529262/canada-120m-loan-ukraine-russia/",
         "timestamp": 1642779867,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 21, 2022 3:44 PM"
+    },
+    {
+        "title": "U.S. Reportedly Considers Evacuating Family Members Of Diplomats In Ukraine As Russia Amasses Troops On Border",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/lisakim/2022/01/21/us-reportedly-considers-evacuating-family-members-of-diplomats-in-ukraine-as-russia-amasses-troops-on-border/",
+        "timestamp": 1642780613,
+        "sentiment": -1,
+        "published": "January 21, 2022 3:56 PM"
     },
     {
         "title": "50 Republican senators, not just Kyrsten Sinema and Joe Manchin, killed democracy",
@@ -266,8 +266,62 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2022/01/21/republican-senators-killed-voting-rights-filibuster-sinema-manchin/6602008001/",
         "timestamp": 1642782624,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 21, 2022 4:30 PM"
+    },
+    {
+        "title": "Mom threatens bringing loaded gun to Va. school over mask policy: 'See y'all on Monday'",
+        "domain": "wset.com",
+        "category": "news",
+        "link": "https://wset.com/news/at-the-capitol/page-county-public-schools-luray-virginia-increase-security-police-presence-mom-threatens-to-bring-loaded-gun-over-mask-mandate",
+        "timestamp": 1642784478,
+        "sentiment": -2,
+        "published": "January 21, 2022 5:01 PM"
+    },
+    {
+        "title": "Trump White House records are now in the hands of Jan 6 committee",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-capitol-riot-committee-records-b1998102.html",
+        "timestamp": 1642784567,
+        "sentiment": 0,
+        "published": "January 21, 2022 5:02 PM"
+    },
+    {
+        "title": "U.S. charges Texas man for threatening Georgia election officials",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-charges-texas-man-threatening-georgia-government-officials-2022-01-21/",
+        "timestamp": 1642784802,
+        "sentiment": -2,
+        "published": "January 21, 2022 5:06 PM"
+    },
+    {
+        "title": "Estonia, Latvia and Lithuania sending anti-armour and anti-aircraft missiles to Ukraine",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-estonia-latvia-and-lithuania-sending-anti-armour-and-anti-aircraft/",
+        "timestamp": 1642785709,
+        "sentiment": -1,
+        "published": "January 21, 2022 5:21 PM"
+    },
+    {
+        "title": "Read the never-issued Trump order that would have seized voting machines",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/21/read-the-never-issued-trump-order-that-would-have-seized-voting-machines-527572",
+        "timestamp": 1642786077,
+        "sentiment": 0,
+        "published": "January 21, 2022 5:27 PM"
+    },
+    {
+        "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/20/georgia-trump-special-grand-jury-2020-election",
+        "timestamp": 1642767323,
+        "sentiment": 3,
+        "published": "January 21, 2022 12:15 PM"
     },
     {
         "title": "Kyle Rittenhouse wants the gun he used in the Kenosha shootings back so he can destroy it, court document shows",
@@ -277,33 +331,6 @@
         "timestamp": 1642783223,
         "sentiment": -4,
         "published": "January 21, 2022 4:40 PM"
-    },
-    {
-        "title": "Mom threatens bringing loaded gun to Va. school over mask policy: 'See y'all on Monday'",
-        "domain": "wset.com",
-        "category": "news",
-        "link": "https://wset.com/news/at-the-capitol/page-county-public-schools-luray-virginia-increase-security-police-presence-mom-threatens-to-bring-loaded-gun-over-mask-mandate",
-        "timestamp": 1642784478,
-        "sentiment": -4,
-        "published": "January 21, 2022 5:01 PM"
-    },
-    {
-        "title": "Trump White House records are now in the hands of Jan 6 committee",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-capitol-riot-committee-records-b1998102.html",
-        "timestamp": 1642784567,
-        "sentiment": 3,
-        "published": "January 21, 2022 5:02 PM"
-    },
-    {
-        "title": "Estonia, Latvia and Lithuania sending anti-armour and anti-aircraft missiles to Ukraine",
-        "domain": "theglobeandmail.com",
-        "category": "worldnews",
-        "link": "https://www.theglobeandmail.com/world/article-estonia-latvia-and-lithuania-sending-anti-armour-and-anti-aircraft/",
-        "timestamp": 1642785709,
-        "sentiment": 0,
-        "published": "January 21, 2022 5:21 PM"
     },
     {
         "title": "Trudeau fears Russia will invade Ukraine and sends warship to Black Sea",
