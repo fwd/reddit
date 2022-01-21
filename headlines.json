@@ -1,20 +1,11 @@
 [
     {
-        "title": "Trudeau fears Russia will invade Ukraine and sends warship to Black Sea",
-        "domain": "nationalobserver.com",
-        "category": "worldnews",
-        "link": "https://www.nationalobserver.com/2022/01/19/news/trudeau-fears-russia-invade-ukraine-sends-warship-black-sea",
-        "timestamp": 1642725057,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:30 AM"
-    },
-    {
         "title": "Michigan judge apologizes for berating elderly cancer patient over weeds",
         "domain": "freep.com",
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/20/hamtramck-judge-alexis-krot-apologizes/6598996001/?utm_campaign=snd-autopilot",
         "timestamp": 1642730057,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 21, 2022 1:54 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://www.cnbc.com/2022/01/20/netflix-nflx-earnings-q4-2021.html",
         "timestamp": 1642738485,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 21, 2022 4:14 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/meat-loaf-dead-bat-out-of-hell-rocky-horror-picture-show-1234917056/",
         "timestamp": 1642751693,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 21, 2022 7:54 AM"
     },
     {
@@ -59,8 +50,269 @@
         "category": "news",
         "link": "https://www.heraldscotland.com/news/19864369.meat-loaf-dead-us-singer-dies-aged-74-official-account-confirms/",
         "timestamp": 1642752187,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "January 21, 2022 8:03 AM"
+    },
+    {
+        "title": "Russia wants NATO forces to leave Romania, Bulgaria - foreign ministry",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
+        "timestamp": 1642756710,
+        "sentiment": 0,
+        "published": "January 21, 2022 9:18 AM"
+    },
+    {
+        "title": "Ozark Season 4 Part 1 is now available on Netflix",
+        "domain": "netflix.com",
+        "category": "television",
+        "link": "https://www.netflix.com/hu/title/80117552",
+        "timestamp": 1642759873,
+        "sentiment": 1,
+        "published": "January 21, 2022 10:11 AM"
+    },
+    {
+        "title": "Queen Elizabeth II is hiring a part-time housekeeper for minimum wage",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
+        "timestamp": 1642761952,
+        "sentiment": -4,
+        "published": "January 21, 2022 10:45 AM"
+    },
+    {
+        "title": "3 Pennsylvania officers fired after being charged in the fatal shooting of 8-year-old Fanta Bility",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
+        "timestamp": 1642763308,
+        "sentiment": -4,
+        "published": "January 21, 2022 11:08 AM"
+    },
+    {
+        "title": "‘Lucifer’ Tops ‘Squid Game’ On Nielsen 2021 Original Series Chart In U.S., ‘Luca’ Is No. 1 Movie",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/nielsen-streaming-top-shows-of-2021-lucifer-1234914241/",
+        "timestamp": 1642766505,
+        "sentiment": 1,
+        "published": "January 21, 2022 12:01 PM"
+    },
+    {
+        "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/20/georgia-trump-special-grand-jury-2020-election",
+        "timestamp": 1642767323,
+        "sentiment": 3,
+        "published": "January 21, 2022 12:15 PM"
+    },
+    {
+        "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
+        "domain": "screenshot-media.com",
+        "category": "television",
+        "link": "https://screenshot-media.com/visual-cultures/entertainment/euphoria-high-school-fetishisation/",
+        "timestamp": 1642767430,
+        "sentiment": 1,
+        "published": "January 21, 2022 12:17 PM"
+    },
+    {
+        "title": "Rudy Giuliani oversaw state effort to send fake electors to declare Trump victory in 2020, report says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rudy-giuliani-fake-electors-b1997683.html",
+        "timestamp": 1642768303,
+        "sentiment": 3,
+        "published": "January 21, 2022 12:31 PM"
+    },
+    {
+        "title": "Woman, 31, clubbed to death with a pipe while sitting in office lobby",
+        "domain": "mlive.com",
+        "category": "news",
+        "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
+        "timestamp": 1642768861,
+        "sentiment": -4,
+        "published": "January 21, 2022 12:41 PM"
+    },
+    {
+        "title": "Russia announces deployment of over 140 warships, some to Black Sea, after Biden warning",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-announces-deployment-over-140-warships-some-black-sea-after-biden-warning-1671447?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
+        "timestamp": 1642769605,
+        "sentiment": 0,
+        "published": "January 21, 2022 12:53 PM"
+    },
+    {
+        "title": "Biden administration to investigate Christian college that wouldn’t let gay student graduate",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
+        "timestamp": 1642770742,
+        "sentiment": 3,
+        "published": "January 21, 2022 1:12 PM"
+    },
+    {
+        "title": "Britain warns Putin and Xi: West will stand up to 'dictatorship'",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/britain-warns-putin-xi-west-will-stand-up-dictatorship-2022-01-20/?utm_medium=Social&utm_source=twitter",
+        "timestamp": 1642770969,
+        "sentiment": 0,
+        "published": "January 21, 2022 1:16 PM"
+    },
+    {
+        "title": "Black lawmakers fire back at Mitch McConnell—\"We are American\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/black-lawmakers-fire-back-mitch-mcconnell-we-are-american-1671489",
+        "timestamp": 1642771454,
+        "sentiment": 3,
+        "published": "January 21, 2022 1:24 PM"
+    },
+    {
+        "title": "An hour before DWI crash, Hennepin County sheriff called for a ride to a bar: Hennepin County Sheriff David Hutchinson was driving 126 mph and was not wearing a seatbelt when he crashed",
+        "domain": "minnesotareformer.com",
+        "category": "news",
+        "link": "https://minnesotareformer.com/2022/01/20/an-hour-before-dwi-crash-hennepin-county-sheriff-called-for-a-ride-to-a-bar/",
+        "timestamp": 1642771491,
+        "sentiment": -4,
+        "published": "January 21, 2022 1:24 PM"
+    },
+    {
+        "title": "Elizabeth Warren says Elon Musk launches personal attacks on her, rather than actually discussing the tax system",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elizabeth-warren-elon-musk-prefers-insults-tax-discussion-2022-1",
+        "timestamp": 1642771566,
+        "sentiment": 3,
+        "published": "January 21, 2022 1:26 PM"
+    },
+    {
+        "title": "America must take steps now to avoid a slide into authoritarianism",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jan/19/america-biden-trump-authoritarinism?CMP=twt_b-usopinion_c-us",
+        "timestamp": 1642773022,
+        "sentiment": 3,
+        "published": "January 21, 2022 1:50 PM"
+    },
+    {
+        "title": "Pope Francis vows 'justice' for church abuse victims after damning report",
+        "domain": "dw.com",
+        "category": "news",
+        "link": "https://www.dw.com/en/pope-francis-vows-justice-for-church-abuse-victims-after-damning-report/a-60509998",
+        "timestamp": 1642773436,
+        "sentiment": -4,
+        "published": "January 21, 2022 1:57 PM"
+    },
+    {
+        "title": "Sen. Josh Hawley Says, Without Irony, That Democrats Don't Accept Elections They Lose",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/josh-hawley-democrats-dont-accept-elections_n_61ea1949e4b01440a689bedc",
+        "timestamp": 1642778063,
+        "sentiment": 3,
+        "published": "January 21, 2022 3:14 PM"
+    },
+    {
+        "title": "Louie Anderson Dead: Comedian & Emmy Winner Was 68",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/louie-anderson-dead-obituary-comedian-baskets-family-feud-emmy-winner-1234917040/",
+        "timestamp": 1642778230,
+        "sentiment": 1,
+        "published": "January 21, 2022 3:17 PM"
+    },
+    {
+        "title": "Researchers Unearth Colossal Pair of Sphinxes in Egypt",
+        "domain": "artnews.com",
+        "category": "worldnews",
+        "link": "https://www.artnews.com/art-news/news/sphinxes-found-amenhotep-iii-temple-luxor-1234616230/",
+        "timestamp": 1642778909,
+        "sentiment": 0,
+        "published": "January 21, 2022 3:28 PM"
+    },
+    {
+        "title": "Staff blow whistle on Environment Agency that ‘no longer deters polluters’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jan/20/environment-agency-cuts-staff-blow-whistle",
+        "timestamp": 1642779483,
+        "sentiment": 0,
+        "published": "January 21, 2022 3:38 PM"
+    },
+    {
+        "title": "‘People Need to Know She Sucks’: Kyrsten Sinema’s Volunteers, Ex-Staff Are Fed Up",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/z3nzay/kyrsten-sinema-volunteers-staffers-feel-betrayed",
+        "timestamp": 1642779585,
+        "sentiment": 3,
+        "published": "January 21, 2022 3:39 PM"
+    },
+    {
+        "title": "Canada loaning Ukraine $120M as tensions with Russia escalate",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8529262/canada-120m-loan-ukraine-russia/",
+        "timestamp": 1642779867,
+        "sentiment": 0,
+        "published": "January 21, 2022 3:44 PM"
+    },
+    {
+        "title": "50 Republican senators, not just Kyrsten Sinema and Joe Manchin, killed democracy",
+        "domain": "azcentral.com",
+        "category": "politics",
+        "link": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2022/01/21/republican-senators-killed-voting-rights-filibuster-sinema-manchin/6602008001/",
+        "timestamp": 1642782624,
+        "sentiment": 3,
+        "published": "January 21, 2022 4:30 PM"
+    },
+    {
+        "title": "Kyle Rittenhouse wants the gun he used in the Kenosha shootings back so he can destroy it, court document shows",
+        "domain": "kvoa.com",
+        "category": "news",
+        "link": "https://www.kvoa.com/townnews/law/kyle-rittenhouse-wants-the-gun-he-used-in-the-kenosha-shootings-back-so-he-can/article_16f25ece-d638-5f94-967a-472b776a60c4.html?utm_medium=social&utm_source=facebook_News_4_Tucson_-_KVOA",
+        "timestamp": 1642783223,
+        "sentiment": -4,
+        "published": "January 21, 2022 4:40 PM"
+    },
+    {
+        "title": "Mom threatens bringing loaded gun to Va. school over mask policy: 'See y'all on Monday'",
+        "domain": "wset.com",
+        "category": "news",
+        "link": "https://wset.com/news/at-the-capitol/page-county-public-schools-luray-virginia-increase-security-police-presence-mom-threatens-to-bring-loaded-gun-over-mask-mandate",
+        "timestamp": 1642784478,
+        "sentiment": -4,
+        "published": "January 21, 2022 5:01 PM"
+    },
+    {
+        "title": "Trump White House records are now in the hands of Jan 6 committee",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-capitol-riot-committee-records-b1998102.html",
+        "timestamp": 1642784567,
+        "sentiment": 3,
+        "published": "January 21, 2022 5:02 PM"
+    },
+    {
+        "title": "Estonia, Latvia and Lithuania sending anti-armour and anti-aircraft missiles to Ukraine",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-estonia-latvia-and-lithuania-sending-anti-armour-and-anti-aircraft/",
+        "timestamp": 1642785709,
+        "sentiment": 0,
+        "published": "January 21, 2022 5:21 PM"
+    },
+    {
+        "title": "Trudeau fears Russia will invade Ukraine and sends warship to Black Sea",
+        "domain": "nationalobserver.com",
+        "category": "worldnews",
+        "link": "https://www.nationalobserver.com/2022/01/19/news/trudeau-fears-russia-invade-ukraine-sends-warship-black-sea",
+        "timestamp": 1642725057,
+        "sentiment": 0,
+        "published": "January 21, 2022 12:30 AM"
     },
     {
         "title": "Americans are showing up sick to work even as Omicron spreads",
@@ -81,24 +333,6 @@
         "published": "January 21, 2022 8:56 AM"
     },
     {
-        "title": "Russia wants NATO forces to leave Romania, Bulgaria - foreign ministry",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-wants-nato-forces-leave-romania-bulgaria-foreign-ministry-2022-01-21/",
-        "timestamp": 1642756710,
-        "sentiment": 0,
-        "published": "January 21, 2022 9:18 AM"
-    },
-    {
-        "title": "Ozark Season 4 Part 1 is now available on Netflix",
-        "domain": "netflix.com",
-        "category": "television",
-        "link": "https://www.netflix.com/hu/title/80117552",
-        "timestamp": 1642759873,
-        "sentiment": 0,
-        "published": "January 21, 2022 10:11 AM"
-    },
-    {
         "title": "'Dangerous precedent': Jan. 6 committee trains its sights on false pro-Trump electors",
         "domain": "politico.com",
         "category": "politics",
@@ -106,186 +340,6 @@
         "timestamp": 1642761391,
         "sentiment": -1,
         "published": "January 21, 2022 10:36 AM"
-    },
-    {
-        "title": "Queen Elizabeth II is hiring a part-time housekeeper for minimum wage",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/world/queen-elizabeth-ii-is-hiring-a-part-time-housekeeper-for-minimum-wage-1.5748858",
-        "timestamp": 1642761952,
-        "sentiment": -2,
-        "published": "January 21, 2022 10:45 AM"
-    },
-    {
-        "title": "3 Pennsylvania officers fired after being charged in the fatal shooting of 8-year-old Fanta Bility",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/01/21/us/pennsylvania-officers-fired-fanta-bility-shooting/index.html",
-        "timestamp": 1642763308,
-        "sentiment": -2,
-        "published": "January 21, 2022 11:08 AM"
-    },
-    {
-        "title": "‘Lucifer’ Tops ‘Squid Game’ On Nielsen 2021 Original Series Chart In U.S., ‘Luca’ Is No. 1 Movie",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/nielsen-streaming-top-shows-of-2021-lucifer-1234914241/",
-        "timestamp": 1642766505,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:01 PM"
-    },
-    {
-        "title": "Georgia prosecutor seeks special grand jury into Trump’s election interference | Georgia",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/20/georgia-trump-special-grand-jury-2020-election",
-        "timestamp": 1642767323,
-        "sentiment": -1,
-        "published": "January 21, 2022 12:15 PM"
-    },
-    {
-        "title": "Diagnosing the ‘Euphoria’ fever: Why do we fetishise the high school experience?",
-        "domain": "screenshot-media.com",
-        "category": "television",
-        "link": "https://screenshot-media.com/visual-cultures/entertainment/euphoria-high-school-fetishisation/",
-        "timestamp": 1642767430,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:17 PM"
-    },
-    {
-        "title": "Rudy Giuliani oversaw state effort to send fake electors to declare Trump victory in 2020, report says",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rudy-giuliani-fake-electors-b1997683.html",
-        "timestamp": 1642768303,
-        "sentiment": -1,
-        "published": "January 21, 2022 12:31 PM"
-    },
-    {
-        "title": "Woman, 31, clubbed to death with a pipe while sitting in office lobby",
-        "domain": "mlive.com",
-        "category": "news",
-        "link": "https://www.mlive.com/news/2022/01/woman-31-clubbed-to-death-with-a-pipe-while-sitting-in-office-lobby.html",
-        "timestamp": 1642768861,
-        "sentiment": -2,
-        "published": "January 21, 2022 12:41 PM"
-    },
-    {
-        "title": "Russia announces deployment of over 140 warships, some to Black Sea, after Biden warning",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-announces-deployment-over-140-warships-some-black-sea-after-biden-warning-1671447?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
-        "timestamp": 1642769605,
-        "sentiment": 0,
-        "published": "January 21, 2022 12:53 PM"
-    },
-    {
-        "title": "Biden administration to investigate Christian college that wouldn’t let gay student graduate",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/01/biden-administration-investigate-christian-college-wouldnt-let-gay-student-graduate/",
-        "timestamp": 1642770742,
-        "sentiment": -1,
-        "published": "January 21, 2022 1:12 PM"
-    },
-    {
-        "title": "Britain warns Putin and Xi: West will stand up to 'dictatorship'",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/uk/britain-warns-putin-xi-west-will-stand-up-dictatorship-2022-01-20/?utm_medium=Social&utm_source=twitter",
-        "timestamp": 1642770969,
-        "sentiment": 0,
-        "published": "January 21, 2022 1:16 PM"
-    },
-    {
-        "title": "Black lawmakers fire back at Mitch McConnell—\"We are American\"",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/black-lawmakers-fire-back-mitch-mcconnell-we-are-american-1671489",
-        "timestamp": 1642771454,
-        "sentiment": -1,
-        "published": "January 21, 2022 1:24 PM"
-    },
-    {
-        "title": "An hour before DWI crash, Hennepin County sheriff called for a ride to a bar: Hennepin County Sheriff David Hutchinson was driving 126 mph and was not wearing a seatbelt when he crashed",
-        "domain": "minnesotareformer.com",
-        "category": "news",
-        "link": "https://minnesotareformer.com/2022/01/20/an-hour-before-dwi-crash-hennepin-county-sheriff-called-for-a-ride-to-a-bar/",
-        "timestamp": 1642771491,
-        "sentiment": -2,
-        "published": "January 21, 2022 1:24 PM"
-    },
-    {
-        "title": "Elizabeth Warren says Elon Musk launches personal attacks on her, rather than actually discussing the tax system",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/elizabeth-warren-elon-musk-prefers-insults-tax-discussion-2022-1",
-        "timestamp": 1642771566,
-        "sentiment": -1,
-        "published": "January 21, 2022 1:26 PM"
-    },
-    {
-        "title": "America must take steps now to avoid a slide into authoritarianism",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/jan/19/america-biden-trump-authoritarinism?CMP=twt_b-usopinion_c-us",
-        "timestamp": 1642773022,
-        "sentiment": -1,
-        "published": "January 21, 2022 1:50 PM"
-    },
-    {
-        "title": "Pope Francis vows 'justice' for church abuse victims after damning report",
-        "domain": "dw.com",
-        "category": "news",
-        "link": "https://www.dw.com/en/pope-francis-vows-justice-for-church-abuse-victims-after-damning-report/a-60509998",
-        "timestamp": 1642773436,
-        "sentiment": -2,
-        "published": "January 21, 2022 1:57 PM"
-    },
-    {
-        "title": "Sen. Josh Hawley Says, Without Irony, That Democrats Don't Accept Elections They Lose",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/josh-hawley-democrats-dont-accept-elections_n_61ea1949e4b01440a689bedc",
-        "timestamp": 1642778063,
-        "sentiment": -1,
-        "published": "January 21, 2022 3:14 PM"
-    },
-    {
-        "title": "Louie Anderson Dead: Comedian & Emmy Winner Was 68",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/louie-anderson-dead-obituary-comedian-baskets-family-feud-emmy-winner-1234917040/",
-        "timestamp": 1642778230,
-        "sentiment": 0,
-        "published": "January 21, 2022 3:17 PM"
-    },
-    {
-        "title": "Researchers Unearth Colossal Pair of Sphinxes in Egypt",
-        "domain": "artnews.com",
-        "category": "worldnews",
-        "link": "https://www.artnews.com/art-news/news/sphinxes-found-amenhotep-iii-temple-luxor-1234616230/",
-        "timestamp": 1642778909,
-        "sentiment": 0,
-        "published": "January 21, 2022 3:28 PM"
-    },
-    {
-        "title": "‘People Need to Know She Sucks’: Kyrsten Sinema’s Volunteers, Ex-Staff Are Fed Up",
-        "domain": "vice.com",
-        "category": "politics",
-        "link": "https://www.vice.com/en/article/z3nzay/kyrsten-sinema-volunteers-staffers-feel-betrayed",
-        "timestamp": 1642779585,
-        "sentiment": -1,
-        "published": "January 21, 2022 3:39 PM"
-    },
-    {
-        "title": "Canada loaning Ukraine $120M as tensions with Russia escalate",
-        "domain": "globalnews.ca",
-        "category": "worldnews",
-        "link": "https://globalnews.ca/news/8529262/canada-120m-loan-ukraine-russia/",
-        "timestamp": 1642779867,
-        "sentiment": 0,
-        "published": "January 21, 2022 3:44 PM"
     },
     {
         "title": "Missouri Senate candidate says Congress members should go to jail if guilty of insider trading",
