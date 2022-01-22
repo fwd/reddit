@@ -54,6 +54,15 @@
         "published": "January 22, 2022 4:20 AM"
     },
     {
+        "title": "Arnold Schwarzenegger involved in multi-car crash in Brentwood, LAPD says",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/arnold-schwarzenegger-car-crash-brentwood-sunset-boulevard/11496858/",
+        "timestamp": 1642827733,
+        "sentiment": -2,
+        "published": "January 22, 2022 5:02 AM"
+    },
+    {
         "title": "Republicans vote to allow 18-year-olds to carry concealed weapons on school property",
         "domain": "cbs58.com",
         "category": "politics",
@@ -97,6 +106,24 @@
         "timestamp": 1642850925,
         "sentiment": -2,
         "published": "January 22, 2022 11:28 AM"
+    },
+    {
+        "title": "Would Trump Throw His Own Kids Under the Bus to Save Himself? We May Soon Find Out.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
+        "timestamp": 1642853915,
+        "sentiment": 0,
+        "published": "January 22, 2022 12:18 PM"
+    },
+    {
+        "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
+        "timestamp": 1642857164,
+        "sentiment": -2,
+        "published": "January 22, 2022 1:12 PM"
     },
     {
         "title": "WI nurses who gave their notice are prevented via court order from working at their new job on Monday.",
