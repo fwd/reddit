@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
         "timestamp": 1642817099,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 2:04 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/21/politics/us-embassy-ukraine-nonessential-personnel/index.html",
         "timestamp": 1642822208,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 3:30 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
         "timestamp": 1642841254,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 8:47 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/residents-ukrainian-city-near-russian-border-brace-unknown-2022-01-22/",
         "timestamp": 1642847050,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 10:24 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/georgia-pastor-wife-charged-false-imprisonment-people-found-locked-bas-rcna13086?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642850925,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 11:28 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-crisis-moscow-accepts-uk-talks-invite-amid-fears-russian-invasion-is-imminent-12522361",
         "timestamp": 1642852725,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 11:58 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/01/22/us-sends-first-shipment-of-military-aid-to-ukraine-amid-standoff-with-russia?utm_source=flipboard.com&utm_campaign=feeds_news&utm_medium=referral",
         "timestamp": 1642853413,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 12:10 PM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.mirror.co.uk/news/uk-news/russian-politicians-mock-boris-johnson-25975069",
         "timestamp": 1642855385,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 22, 2022 12:43 PM"
     },
     {
@@ -131,8 +131,17 @@
         "category": "news",
         "link": "https://www.reuters.com/world/americas/two-canadians-die-shooting-mexican-caribbean-resort-2022-01-22/",
         "timestamp": 1642856059,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 12:54 PM"
+    },
+    {
+        "title": "Ukraine tension: US 'lethal aid' arrives in Kyiv amid border build-up",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60096261",
+        "timestamp": 1642856820,
+        "sentiment": -1,
+        "published": "January 22, 2022 1:07 PM"
     },
     {
         "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
@@ -140,17 +149,8 @@
         "category": "news",
         "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
         "timestamp": 1642857164,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 1:12 PM"
-    },
-    {
-        "title": "Twelve Tory MPs planning to oust PM allegedly blackmailed by whips and Boris Johnson",
-        "domain": "telegraph.co.uk",
-        "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/politics/2022/01/22/dozen-tory-mps-planning-oust-pm-allegedly-blackmailed-whips/",
-        "timestamp": 1642858944,
-        "sentiment": -3,
-        "published": "January 22, 2022 1:42 PM"
     },
     {
         "title": "Videos show \"Stop the Steal\" rally organizer saying he would work with extremist groups",
@@ -167,7 +167,7 @@
         "category": "news",
         "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
         "timestamp": 1642860012,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 2:00 PM"
     },
     {
@@ -178,6 +178,15 @@
         "timestamp": 1642860606,
         "sentiment": 0,
         "published": "January 22, 2022 2:10 PM"
+    },
+    {
+        "title": "Romania and Bulgaria slam Russia's demands to move NATO troops as 'unacceptable'",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
+        "timestamp": 1642863566,
+        "sentiment": -1,
+        "published": "January 22, 2022 2:59 PM"
     },
     {
         "title": "Georgia election chief Raffensperger says he'll cooperate with Fulton County Trump investigation",
@@ -194,17 +203,8 @@
         "category": "news",
         "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
         "timestamp": 1642865492,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 22, 2022 3:31 PM"
-    },
-    {
-        "title": "There's a Mass Palestinian Grave at a Popular Israeli Beach, Veterans Confess",
-        "domain": "haaretz.com",
-        "category": "worldnews",
-        "link": "https://www.haaretz.com/israel-news/.premium.HIGHLIGHT.MAGAZINE-there-s-a-mass-palestinian-grave-at-a-popular-israeli-beach-veterans-confess-1.10553968",
-        "timestamp": 1642866481,
-        "sentiment": -3,
-        "published": "January 22, 2022 3:48 PM"
     },
     {
         "title": "'America's Funniest Home Videos' Will Pay Tribute to Bob Saget With Weekly Segment Throughout Season 32",
@@ -214,6 +214,42 @@
         "timestamp": 1642867409,
         "sentiment": 2,
         "published": "January 22, 2022 4:03 PM"
+    },
+    {
+        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
+        "timestamp": 1642869788,
+        "sentiment": 0,
+        "published": "January 22, 2022 4:43 PM"
+    },
+    {
+        "title": "Argument over BBQ sauce leads to teenage Wendy's employee being shot in head",
+        "domain": "news4sanantonio.com",
+        "category": "news",
+        "link": "https://news4sanantonio.com/news/nation-world/argument-over-bbq-sauce-leads-to-teenage-wendys-employee-being-shot-in-head-restaurant-shooting-investigation-police-phoenix-suspect-violence-handgun",
+        "timestamp": 1642871183,
+        "sentiment": -1,
+        "published": "January 22, 2022 5:06 PM"
+    },
+    {
+        "title": "Twelve Tory MPs planning to oust PM allegedly blackmailed by whips and Boris Johnson",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/politics/2022/01/22/dozen-tory-mps-planning-oust-pm-allegedly-blackmailed-whips/",
+        "timestamp": 1642858944,
+        "sentiment": -3,
+        "published": "January 22, 2022 1:42 PM"
+    },
+    {
+        "title": "There's a Mass Palestinian Grave at a Popular Israeli Beach, Veterans Confess",
+        "domain": "haaretz.com",
+        "category": "worldnews",
+        "link": "https://www.haaretz.com/israel-news/.premium.HIGHLIGHT.MAGAZINE-there-s-a-mass-palestinian-grave-at-a-popular-israeli-beach-veterans-confess-1.10553968",
+        "timestamp": 1642866481,
+        "sentiment": -3,
+        "published": "January 22, 2022 3:48 PM"
     },
     {
         "title": "U.S. senators introduce bill to help Ukraine counter Russian aggression",
@@ -322,15 +358,6 @@
         "timestamp": 1642822173,
         "sentiment": -6,
         "published": "January 22, 2022 3:29 AM"
-    },
-    {
-        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
-        "domain": "amp.cnn.com",
-        "category": "news",
-        "link": "https://amp.cnn.com/cnn/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
-        "timestamp": 1642827540,
-        "sentiment": -6,
-        "published": "January 22, 2022 4:59 AM"
     },
     {
         "title": "Netflix shares fall 20% on slowing subscriber growth",
