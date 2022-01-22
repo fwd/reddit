@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
         "timestamp": 1642813524,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 1:05 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
         "timestamp": 1642817099,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 2:04 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
         "timestamp": 1642818228,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 2:23 AM"
-    },
-    {
-        "title": "Florida Advances Bill That Would Ban Making White People Feel Bad About Racism, and No, That’s Not a Joke",
-        "domain": "vanityfair.com",
-        "category": "politics",
-        "link": "https://www.vanityfair.com/news/2022/01/florida-sb-148-racism-discomfort",
-        "timestamp": 1642818278,
-        "sentiment": 1,
-        "published": "January 22, 2022 2:24 AM"
     },
     {
         "title": "US Embassy in Kyiv asks State Dept. to authorize departure of nonessential personnel",
@@ -54,21 +45,12 @@
         "published": "January 22, 2022 4:20 AM"
     },
     {
-        "title": "Arnold Schwarzenegger involved in multi-car crash in Brentwood, LAPD says",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/arnold-schwarzenegger-car-crash-brentwood-sunset-boulevard/11496858/",
-        "timestamp": 1642827733,
-        "sentiment": -2,
-        "published": "January 22, 2022 5:02 AM"
-    },
-    {
         "title": "Republicans vote to allow 18-year-olds to carry concealed weapons on school property",
         "domain": "cbs58.com",
         "category": "politics",
         "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
         "timestamp": 1642835496,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 7:11 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/georgia-pastor-wife-charged-false-imprisonment-people-found-locked-bas-rcna13086?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642850925,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 11:28 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
         "timestamp": 1642852529,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 11:55 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
         "timestamp": 1642853915,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 12:18 PM"
     },
     {
@@ -149,8 +131,26 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
         "timestamp": 1642854832,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "January 22, 2022 12:33 PM"
+    },
+    {
+        "title": "Russian politicians mock Boris Johnson and threaten nuclear attack on London",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/uk-news/russian-politicians-mock-boris-johnson-25975069",
+        "timestamp": 1642855385,
+        "sentiment": 0,
+        "published": "January 22, 2022 12:43 PM"
+    },
+    {
+        "title": "Two Canadians die in shooting at Mexican Caribbean resort",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/americas/two-canadians-die-shooting-mexican-caribbean-resort-2022-01-22/",
+        "timestamp": 1642856059,
+        "sentiment": 1,
+        "published": "January 22, 2022 12:54 PM"
     },
     {
         "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
@@ -158,8 +158,62 @@
         "category": "news",
         "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
         "timestamp": 1642857164,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 1:12 PM"
+    },
+    {
+        "title": "Videos show \"Stop the Steal\" rally organizer saying he would work with extremist groups",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/22/politics/ali-alexander-january-6-extremists-kfile/index.html",
+        "timestamp": 1642859512,
+        "sentiment": -4,
+        "published": "January 22, 2022 1:51 PM"
+    },
+    {
+        "title": "Mexican Photojournalist Shot Dead in Front of His Tijuana Home.",
+        "domain": "petapixel.com",
+        "category": "news",
+        "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
+        "timestamp": 1642860012,
+        "sentiment": 1,
+        "published": "January 22, 2022 2:00 PM"
+    },
+    {
+        "title": "Poland plans to bolster military amid threats from Belarus, Russia",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/poland-plans-to-bolster-military-amid-threats-from-belarus-russia/a-59634280",
+        "timestamp": 1642860055,
+        "sentiment": 0,
+        "published": "January 22, 2022 2:00 PM"
+    },
+    {
+        "title": "Smartmatic voting firm sues Mike Lindell, alleging he lied about election to sell pillows",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/smartmatic-lawsuit-mike-lindell-mypillow_n_61ea02c7e4b0c24d4dd3a85e",
+        "timestamp": 1642863198,
+        "sentiment": -4,
+        "published": "January 22, 2022 2:53 PM"
+    },
+    {
+        "title": "Florida Advances Bill That Would Ban Making White People Feel Bad About Racism, and No, That’s Not a Joke",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/florida-sb-148-racism-discomfort",
+        "timestamp": 1642818278,
+        "sentiment": 1,
+        "published": "January 22, 2022 2:24 AM"
+    },
+    {
+        "title": "Arnold Schwarzenegger involved in multi-car crash in Brentwood, LAPD says",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/arnold-schwarzenegger-car-crash-brentwood-sunset-boulevard/11496858/",
+        "timestamp": 1642827733,
+        "sentiment": -2,
+        "published": "January 22, 2022 5:02 AM"
     },
     {
         "title": "State Duma deputy proposed to launch a nuclear strike on the United States",
