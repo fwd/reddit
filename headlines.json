@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
         "timestamp": 1642813524,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 22, 2022 1:05 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
         "timestamp": 1642817099,
-        "sentiment": -4,
+        "sentiment": -6,
         "published": "January 22, 2022 2:04 AM"
+    },
+    {
+        "title": "MAGA confession: Trump lawyer admits fraudulent electors plot",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
+        "timestamp": 1642818228,
+        "sentiment": 0,
+        "published": "January 22, 2022 2:23 AM"
     },
     {
         "title": "Monkeys escape after truck carrying 100 animals to a laboratory crashes in US",
@@ -23,8 +32,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/22/monkeys-escape-after-truck-carrying-100-animals-to-a-laboratory-crashes-in-us",
         "timestamp": 1642822173,
-        "sentiment": -4,
+        "sentiment": -6,
         "published": "January 22, 2022 3:29 AM"
+    },
+    {
+        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
+        "domain": "amp.cnn.com",
+        "category": "news",
+        "link": "https://amp.cnn.com/cnn/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
+        "timestamp": 1642827540,
+        "sentiment": -6,
+        "published": "January 22, 2022 4:59 AM"
     },
     {
         "title": "Netflix shares fall 20% on slowing subscriber growth",
