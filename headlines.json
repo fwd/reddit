@@ -1,20 +1,11 @@
 [
     {
-        "title": "Arizona Democrats Have Turned On Kyrsten Sinema",
-        "domain": "slate.com",
-        "category": "politics",
-        "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
-        "timestamp": 1642813524,
-        "sentiment": 0,
-        "published": "January 22, 2022 1:05 AM"
-    },
-    {
         "title": "Texas attorney general refuses to hand over Jan. 6 records",
         "domain": "kwtx.com",
         "category": "news",
         "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
         "timestamp": 1642817099,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 22, 2022 2:04 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
         "timestamp": 1642818228,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 22, 2022 2:23 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "politics",
         "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
         "timestamp": 1642835496,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 22, 2022 7:11 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/georgia-pastor-wife-charged-false-imprisonment-people-found-locked-bas-rcna13086?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1642850925,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 22, 2022 11:28 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
         "timestamp": 1642852529,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 22, 2022 11:55 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
         "timestamp": 1642853915,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 22, 2022 12:18 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
         "timestamp": 1642854832,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 22, 2022 12:33 PM"
     },
     {
@@ -124,6 +115,168 @@
         "timestamp": 1642855385,
         "sentiment": -1,
         "published": "January 22, 2022 12:43 PM"
+    },
+    {
+        "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
+        "timestamp": 1642857164,
+        "sentiment": 0,
+        "published": "January 22, 2022 1:12 PM"
+    },
+    {
+        "title": "Videos show \"Stop the Steal\" rally organizer saying he would work with extremist groups",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/22/politics/ali-alexander-january-6-extremists-kfile/index.html",
+        "timestamp": 1642859512,
+        "sentiment": -5,
+        "published": "January 22, 2022 1:51 PM"
+    },
+    {
+        "title": "Mexican Photojournalist Shot Dead in Front of His Tijuana Home.",
+        "domain": "petapixel.com",
+        "category": "news",
+        "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
+        "timestamp": 1642860012,
+        "sentiment": 0,
+        "published": "January 22, 2022 2:00 PM"
+    },
+    {
+        "title": "Chief Justice John Roberts created the legal landscape that doomed the voting rights bill, author says",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/22/politics/john-roberts-voting-rights-mystal-blake-cec/index.html",
+        "timestamp": 1642860606,
+        "sentiment": -5,
+        "published": "January 22, 2022 2:10 PM"
+    },
+    {
+        "title": "Romania and Bulgaria slam Russia's demands to move NATO troops as 'unacceptable'",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
+        "timestamp": 1642863566,
+        "sentiment": -1,
+        "published": "January 22, 2022 2:59 PM"
+    },
+    {
+        "title": "Georgia election chief Raffensperger says he'll cooperate with Fulton County Trump investigation",
+        "domain": "11alive.com",
+        "category": "politics",
+        "link": "https://www.11alive.com/video/news/politics/georgia-election-chief-raffensperger-says-hell-cooperate-with-fulton-county-trump-investigation/85-14c3ff00-5556-4a2c-bd2b-8961e53e3360",
+        "timestamp": 1642864776,
+        "sentiment": -5,
+        "published": "January 22, 2022 3:19 PM"
+    },
+    {
+        "title": "Omicron wave leaves US food banks scrambling for volunteers",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
+        "timestamp": 1642865492,
+        "sentiment": 0,
+        "published": "January 22, 2022 3:31 PM"
+    },
+    {
+        "title": "Taiwan seeks to join US' Indo-Pacific economic framework",
+        "domain": "aninews.in",
+        "category": "worldnews",
+        "link": "https://www.aninews.in/news/world/asia/taiwan-seeks-to-join-us-indo-pacific-economic-framework20220117095917/",
+        "timestamp": 1642867084,
+        "sentiment": -1,
+        "published": "January 22, 2022 3:58 PM"
+    },
+    {
+        "title": "'America's Funniest Home Videos' Will Pay Tribute to Bob Saget With Weekly Segment Throughout Season 32",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/bob-saget-afv-tribute-season-1235160556/",
+        "timestamp": 1642867409,
+        "sentiment": 0,
+        "published": "January 22, 2022 4:03 PM"
+    },
+    {
+        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
+        "timestamp": 1642869788,
+        "sentiment": -5,
+        "published": "January 22, 2022 4:43 PM"
+    },
+    {
+        "title": "‘The Gilded Age’ Is Even More Fun Than ‘Downton Abbey’",
+        "domain": "thedailybeast.com",
+        "category": "television",
+        "link": "https://www.thedailybeast.com/the-gilded-age-is-even-more-fun-than-downton-abbey",
+        "timestamp": 1642870922,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:02 PM"
+    },
+    {
+        "title": "Argument over BBQ sauce leads to teenage Wendy's employee being shot in head",
+        "domain": "news4sanantonio.com",
+        "category": "news",
+        "link": "https://news4sanantonio.com/news/nation-world/argument-over-bbq-sauce-leads-to-teenage-wendys-employee-being-shot-in-head-restaurant-shooting-investigation-police-phoenix-suspect-violence-handgun",
+        "timestamp": 1642871183,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:06 PM"
+    },
+    {
+        "title": "AZ Democratic Party censures Sen. Sinema after blocking voting rights legislation",
+        "domain": "abc15.com",
+        "category": "politics",
+        "link": "https://www.abc15.com/news/state/az-democratic-party-censures-sen-kirsten-sinema",
+        "timestamp": 1642871296,
+        "sentiment": -5,
+        "published": "January 22, 2022 5:08 PM"
+    },
+    {
+        "title": "Before Recent Wave of Train Cargo Thefts, Union Pacific Laid Off Unspecified Number of Its Railroad Police Force",
+        "domain": "lataco.com",
+        "category": "news",
+        "link": "https://www.lataco.com/union-pacific-theft-police-laid-off/",
+        "timestamp": 1642871807,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:16 PM"
+    },
+    {
+        "title": "A Restaurant Was Accepting Dog Pics Instead of Vaccine Proof. It Was Shut Down.",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/5dgyex/granary-alberta-dog-pics-vaccine-shut-down",
+        "timestamp": 1642872081,
+        "sentiment": -1,
+        "published": "January 22, 2022 5:21 PM"
+    },
+    {
+        "title": "Arizona Democrats censure Sinema for blocking voting bill",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/voting-rights-kyrsten-sinema-phoenix-arizona-voting-af9409b7dbab996a1a8df329c053fce0",
+        "timestamp": 1642873356,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:42 PM"
+    },
+    {
+        "title": "No amount of alcohol is good for the heart, says World Heart Federation",
+        "domain": "world-heart-federation.org",
+        "category": "news",
+        "link": "https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/",
+        "timestamp": 1642874063,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:54 PM"
+    },
+    {
+        "title": "Arizona Democrats Have Turned On Kyrsten Sinema",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
+        "timestamp": 1642813524,
+        "sentiment": 0,
+        "published": "January 22, 2022 1:05 AM"
     },
     {
         "title": "Two Canadians die in shooting at Mexican Caribbean resort",
@@ -142,96 +295,6 @@
         "timestamp": 1642856820,
         "sentiment": -1,
         "published": "January 22, 2022 1:07 PM"
-    },
-    {
-        "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
-        "domain": "abc.net.au",
-        "category": "news",
-        "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
-        "timestamp": 1642857164,
-        "sentiment": -1,
-        "published": "January 22, 2022 1:12 PM"
-    },
-    {
-        "title": "Videos show \"Stop the Steal\" rally organizer saying he would work with extremist groups",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/22/politics/ali-alexander-january-6-extremists-kfile/index.html",
-        "timestamp": 1642859512,
-        "sentiment": 0,
-        "published": "January 22, 2022 1:51 PM"
-    },
-    {
-        "title": "Mexican Photojournalist Shot Dead in Front of His Tijuana Home.",
-        "domain": "petapixel.com",
-        "category": "news",
-        "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
-        "timestamp": 1642860012,
-        "sentiment": -1,
-        "published": "January 22, 2022 2:00 PM"
-    },
-    {
-        "title": "Chief Justice John Roberts created the legal landscape that doomed the voting rights bill, author says",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/22/politics/john-roberts-voting-rights-mystal-blake-cec/index.html",
-        "timestamp": 1642860606,
-        "sentiment": 0,
-        "published": "January 22, 2022 2:10 PM"
-    },
-    {
-        "title": "Romania and Bulgaria slam Russia's demands to move NATO troops as 'unacceptable'",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
-        "timestamp": 1642863566,
-        "sentiment": -1,
-        "published": "January 22, 2022 2:59 PM"
-    },
-    {
-        "title": "Georgia election chief Raffensperger says he'll cooperate with Fulton County Trump investigation",
-        "domain": "11alive.com",
-        "category": "politics",
-        "link": "https://www.11alive.com/video/news/politics/georgia-election-chief-raffensperger-says-hell-cooperate-with-fulton-county-trump-investigation/85-14c3ff00-5556-4a2c-bd2b-8961e53e3360",
-        "timestamp": 1642864776,
-        "sentiment": 0,
-        "published": "January 22, 2022 3:19 PM"
-    },
-    {
-        "title": "Omicron wave leaves US food banks scrambling for volunteers",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
-        "timestamp": 1642865492,
-        "sentiment": -1,
-        "published": "January 22, 2022 3:31 PM"
-    },
-    {
-        "title": "'America's Funniest Home Videos' Will Pay Tribute to Bob Saget With Weekly Segment Throughout Season 32",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/bob-saget-afv-tribute-season-1235160556/",
-        "timestamp": 1642867409,
-        "sentiment": 2,
-        "published": "January 22, 2022 4:03 PM"
-    },
-    {
-        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
-        "timestamp": 1642869788,
-        "sentiment": 0,
-        "published": "January 22, 2022 4:43 PM"
-    },
-    {
-        "title": "Argument over BBQ sauce leads to teenage Wendy's employee being shot in head",
-        "domain": "news4sanantonio.com",
-        "category": "news",
-        "link": "https://news4sanantonio.com/news/nation-world/argument-over-bbq-sauce-leads-to-teenage-wendys-employee-being-shot-in-head-restaurant-shooting-investigation-police-phoenix-suspect-violence-handgun",
-        "timestamp": 1642871183,
-        "sentiment": -1,
-        "published": "January 22, 2022 5:06 PM"
     },
     {
         "title": "Twelve Tory MPs planning to oust PM allegedly blackmailed by whips and Boris Johnson",
