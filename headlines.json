@@ -1,5 +1,104 @@
 [
     {
+        "title": "Arizona Democrats Have Turned On Kyrsten Sinema",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
+        "timestamp": 1642813524,
+        "sentiment": 1,
+        "published": "January 22, 2022 1:05 AM"
+    },
+    {
+        "title": "Texas attorney general refuses to hand over Jan. 6 records",
+        "domain": "kwtx.com",
+        "category": "news",
+        "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
+        "timestamp": 1642817099,
+        "sentiment": -2,
+        "published": "January 22, 2022 2:04 AM"
+    },
+    {
+        "title": "MAGA confession: Trump lawyer admits fraudulent electors plot",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
+        "timestamp": 1642818228,
+        "sentiment": 1,
+        "published": "January 22, 2022 2:23 AM"
+    },
+    {
+        "title": "Florida Advances Bill That Would Ban Making White People Feel Bad About Racism, and No, That’s Not a Joke",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/florida-sb-148-racism-discomfort",
+        "timestamp": 1642818278,
+        "sentiment": 1,
+        "published": "January 22, 2022 2:24 AM"
+    },
+    {
+        "title": "US Embassy in Kyiv asks State Dept. to authorize departure of nonessential personnel",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/21/politics/us-embassy-ukraine-nonessential-personnel/index.html",
+        "timestamp": 1642822208,
+        "sentiment": 0,
+        "published": "January 22, 2022 3:30 AM"
+    },
+    {
+        "title": "U.S. senators introduce bill to help Ukraine counter Russian aggression",
+        "domain": "ukrinform.net",
+        "category": "worldnews",
+        "link": "https://www.ukrinform.net/rubric-polytics/3389358-us-senators-introduce-bill-to-help-ukraine-counter-russian-aggression.html",
+        "timestamp": 1642825230,
+        "sentiment": 0,
+        "published": "January 22, 2022 4:20 AM"
+    },
+    {
+        "title": "Republicans vote to allow 18-year-olds to carry concealed weapons on school property",
+        "domain": "cbs58.com",
+        "category": "politics",
+        "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
+        "timestamp": 1642835496,
+        "sentiment": 1,
+        "published": "January 22, 2022 7:11 AM"
+    },
+    {
+        "title": "What's going on at Russian military bases near Ukraine",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/whats-going-on-at-russian-military-bases-near-ukraine-12521842",
+        "timestamp": 1642835582,
+        "sentiment": 0,
+        "published": "January 22, 2022 7:13 AM"
+    },
+    {
+        "title": "Russian foreign minister Lavrov claims 'Russophobic' Baltics and Poland guiding NATO policy",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
+        "timestamp": 1642841254,
+        "sentiment": 0,
+        "published": "January 22, 2022 8:47 AM"
+    },
+    {
+        "title": "State Duma deputy proposed to launch a nuclear strike on the United States",
+        "domain": "pledgetimes.com",
+        "category": "worldnews",
+        "link": "https://pledgetimes.com/state-duma-deputy-proposed-to-launch-a-nuclear-strike-on-the-united-states/",
+        "timestamp": 1642844602,
+        "sentiment": 0,
+        "published": "January 22, 2022 9:43 AM"
+    },
+    {
+        "title": "WI nurses who gave their notice are prevented via court order from working at their new job on Monday.",
+        "domain": "amp.postcrescent.com",
+        "category": "news",
+        "link": "https://amp.postcrescent.com/amp/6607417001",
+        "timestamp": 1642848357,
+        "sentiment": -2,
+        "published": "January 22, 2022 10:45 AM"
+    },
+    {
         "title": "Germany blocks Estonian arms exports to Ukraine",
         "domain": "dw.com",
         "category": "worldnews",
@@ -9,42 +108,6 @@
         "published": "January 22, 2022 12:38 AM"
     },
     {
-        "title": "Arizona Democrats Have Turned On Kyrsten Sinema",
-        "domain": "slate.com",
-        "category": "politics",
-        "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
-        "timestamp": 1642813524,
-        "sentiment": 0,
-        "published": "January 22, 2022 1:05 AM"
-    },
-    {
-        "title": "Texas attorney general refuses to hand over Jan. 6 records",
-        "domain": "kwtx.com",
-        "category": "news",
-        "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
-        "timestamp": 1642817099,
-        "sentiment": -6,
-        "published": "January 22, 2022 2:04 AM"
-    },
-    {
-        "title": "MAGA confession: Trump lawyer admits fraudulent electors plot",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
-        "timestamp": 1642818228,
-        "sentiment": 0,
-        "published": "January 22, 2022 2:23 AM"
-    },
-    {
-        "title": "Florida Advances Bill That Would Ban Making White People Feel Bad About Racism, and No, That’s Not a Joke",
-        "domain": "vanityfair.com",
-        "category": "politics",
-        "link": "https://www.vanityfair.com/news/2022/01/florida-sb-148-racism-discomfort",
-        "timestamp": 1642818278,
-        "sentiment": 0,
-        "published": "January 22, 2022 2:24 AM"
-    },
-    {
         "title": "Monkeys escape after truck carrying 100 animals to a laboratory crashes in US",
         "domain": "theguardian.com",
         "category": "news",
@@ -52,24 +115,6 @@
         "timestamp": 1642822173,
         "sentiment": -6,
         "published": "January 22, 2022 3:29 AM"
-    },
-    {
-        "title": "US Embassy in Kyiv asks State Dept. to authorize departure of nonessential personnel",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/21/politics/us-embassy-ukraine-nonessential-personnel/index.html",
-        "timestamp": 1642822208,
-        "sentiment": -1,
-        "published": "January 22, 2022 3:30 AM"
-    },
-    {
-        "title": "U.S. senators introduce bill to help Ukraine counter Russian aggression",
-        "domain": "ukrinform.net",
-        "category": "worldnews",
-        "link": "https://www.ukrinform.net/rubric-polytics/3389358-us-senators-introduce-bill-to-help-ukraine-counter-russian-aggression.html",
-        "timestamp": 1642825230,
-        "sentiment": -1,
-        "published": "January 22, 2022 4:20 AM"
     },
     {
         "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
