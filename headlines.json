@@ -5,8 +5,296 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/01/22/texas-attorney-general-refuses-hand-over-jan-6-records/",
         "timestamp": 1642817099,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 22, 2022 2:04 AM"
+    },
+    {
+        "title": "Republicans vote to allow 18-year-olds to carry concealed weapons on school property",
+        "domain": "cbs58.com",
+        "category": "politics",
+        "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
+        "timestamp": 1642835496,
+        "sentiment": 2,
+        "published": "January 22, 2022 7:11 AM"
+    },
+    {
+        "title": "Russian foreign minister Lavrov claims 'Russophobic' Baltics and Poland guiding NATO policy",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
+        "timestamp": 1642841254,
+        "sentiment": -2,
+        "published": "January 22, 2022 8:47 AM"
+    },
+    {
+        "title": "Georgia pastor, wife charged with false imprisonment after people found in locked basement",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/georgia-pastor-wife-charged-false-imprisonment-people-found-locked-bas-rcna13086?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1642850925,
+        "sentiment": 0,
+        "published": "January 22, 2022 11:28 AM"
+    },
+    {
+        "title": "January 6 committee obtains draft executive order for Trump that directed the Pentagon to 'seize' voting machines",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
+        "timestamp": 1642852529,
+        "sentiment": 2,
+        "published": "January 22, 2022 11:55 AM"
+    },
+    {
+        "title": "Ukraine crisis: Moscow accepts UK talks invite amid fears Russian invasion is 'imminent' | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-crisis-moscow-accepts-uk-talks-invite-amid-fears-russian-invasion-is-imminent-12522361",
+        "timestamp": 1642852725,
+        "sentiment": -2,
+        "published": "January 22, 2022 11:58 AM"
+    },
+    {
+        "title": "US sends first military aid shipment to Ukraine amid Russia standoff",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/01/22/us-sends-first-shipment-of-military-aid-to-ukraine-amid-standoff-with-russia?utm_source=flipboard.com&utm_campaign=feeds_news&utm_medium=referral",
+        "timestamp": 1642853413,
+        "sentiment": -2,
+        "published": "January 22, 2022 12:10 PM"
+    },
+    {
+        "title": "Would Trump Throw His Own Kids Under the Bus to Save Himself? We May Soon Find Out.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
+        "timestamp": 1642853915,
+        "sentiment": 2,
+        "published": "January 22, 2022 12:18 PM"
+    },
+    {
+        "title": "Jan. 6 Investigators Zeroing In On Apparent Plot To Hijack Election With Fake Electors",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
+        "timestamp": 1642854832,
+        "sentiment": 2,
+        "published": "January 22, 2022 12:33 PM"
+    },
+    {
+        "title": "Russian politicians mock Boris Johnson and threaten nuclear attack on London",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/uk-news/russian-politicians-mock-boris-johnson-25975069",
+        "timestamp": 1642855385,
+        "sentiment": -2,
+        "published": "January 22, 2022 12:43 PM"
+    },
+    {
+        "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
+        "domain": "abc.net.au",
+        "category": "news",
+        "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
+        "timestamp": 1642857164,
+        "sentiment": 0,
+        "published": "January 22, 2022 1:12 PM"
+    },
+    {
+        "title": "Mexican Photojournalist Shot Dead in Front of His Tijuana Home.",
+        "domain": "petapixel.com",
+        "category": "news",
+        "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
+        "timestamp": 1642860012,
+        "sentiment": 0,
+        "published": "January 22, 2022 2:00 PM"
+    },
+    {
+        "title": "Romania and Bulgaria slam Russia's demands to move NATO troops as 'unacceptable'",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
+        "timestamp": 1642863566,
+        "sentiment": -2,
+        "published": "January 22, 2022 2:59 PM"
+    },
+    {
+        "title": "Georgia election chief Raffensperger says he'll cooperate with Fulton County Trump investigation",
+        "domain": "11alive.com",
+        "category": "politics",
+        "link": "https://www.11alive.com/video/news/politics/georgia-election-chief-raffensperger-says-hell-cooperate-with-fulton-county-trump-investigation/85-14c3ff00-5556-4a2c-bd2b-8961e53e3360",
+        "timestamp": 1642864776,
+        "sentiment": 2,
+        "published": "January 22, 2022 3:19 PM"
+    },
+    {
+        "title": "Omicron wave leaves US food banks scrambling for volunteers",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
+        "timestamp": 1642865492,
+        "sentiment": 0,
+        "published": "January 22, 2022 3:31 PM"
+    },
+    {
+        "title": "Taiwan seeks to join US' Indo-Pacific economic framework",
+        "domain": "aninews.in",
+        "category": "worldnews",
+        "link": "https://www.aninews.in/news/world/asia/taiwan-seeks-to-join-us-indo-pacific-economic-framework20220117095917/",
+        "timestamp": 1642867084,
+        "sentiment": -2,
+        "published": "January 22, 2022 3:58 PM"
+    },
+    {
+        "title": "'America's Funniest Home Videos' Will Pay Tribute to Bob Saget With Weekly Segment Throughout Season 32",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/bob-saget-afv-tribute-season-1235160556/",
+        "timestamp": 1642867409,
+        "sentiment": 3,
+        "published": "January 22, 2022 4:03 PM"
+    },
+    {
+        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
+        "timestamp": 1642869788,
+        "sentiment": 2,
+        "published": "January 22, 2022 4:43 PM"
+    },
+    {
+        "title": "‘The Gilded Age’ Is Even More Fun Than ‘Downton Abbey’",
+        "domain": "thedailybeast.com",
+        "category": "television",
+        "link": "https://www.thedailybeast.com/the-gilded-age-is-even-more-fun-than-downton-abbey",
+        "timestamp": 1642870922,
+        "sentiment": 3,
+        "published": "January 22, 2022 5:02 PM"
+    },
+    {
+        "title": "Argument over BBQ sauce leads to teenage Wendy's employee being shot in head",
+        "domain": "news4sanantonio.com",
+        "category": "news",
+        "link": "https://news4sanantonio.com/news/nation-world/argument-over-bbq-sauce-leads-to-teenage-wendys-employee-being-shot-in-head-restaurant-shooting-investigation-police-phoenix-suspect-violence-handgun",
+        "timestamp": 1642871183,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:06 PM"
+    },
+    {
+        "title": "AZ Democratic Party censures Sen. Sinema after blocking voting rights legislation",
+        "domain": "abc15.com",
+        "category": "politics",
+        "link": "https://www.abc15.com/news/state/az-democratic-party-censures-sen-kirsten-sinema",
+        "timestamp": 1642871296,
+        "sentiment": 2,
+        "published": "January 22, 2022 5:08 PM"
+    },
+    {
+        "title": "GOP Election Official Charged with Murdering Tenant by Shooting Him Four Times, Then ‘Rambling’ to Police That He Was ‘Driving Me Nuts’",
+        "domain": "lawandcrime.com",
+        "category": "politics",
+        "link": "https://lawandcrime.com/crime/gop-election-official-charged-with-murdering-tenant-by-shooting-him-four-times-then-rambling-to-police-that-he-was-driving-me-nuts/",
+        "timestamp": 1642871320,
+        "sentiment": 2,
+        "published": "January 22, 2022 5:08 PM"
+    },
+    {
+        "title": "Before Recent Wave of Train Cargo Thefts, Union Pacific Laid Off Unspecified Number of Its Railroad Police Force",
+        "domain": "lataco.com",
+        "category": "news",
+        "link": "https://www.lataco.com/union-pacific-theft-police-laid-off/",
+        "timestamp": 1642871807,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:16 PM"
+    },
+    {
+        "title": "Ukraine Says Germany 'Encouraging Putin' By Refusing To Supply Weapons",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/ukraine-germany-weapons-russia/31666531.html",
+        "timestamp": 1642873148,
+        "sentiment": -2,
+        "published": "January 22, 2022 5:39 PM"
+    },
+    {
+        "title": "Arizona Democrats censure Sinema for blocking voting bill",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/voting-rights-kyrsten-sinema-phoenix-arizona-voting-af9409b7dbab996a1a8df329c053fce0",
+        "timestamp": 1642873356,
+        "sentiment": 0,
+        "published": "January 22, 2022 5:42 PM"
+    },
+    {
+        "title": "China warns of 'no mercy' in corruption and monopoly crackdown",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/china-warns-no-mercy-corruption-064405435.html",
+        "timestamp": 1642875553,
+        "sentiment": -2,
+        "published": "January 22, 2022 6:19 PM"
+    },
+    {
+        "title": "The Arizona Democratic Party unanimously voted to censure Sen. Kyrsten Sinema for voting to uphold the filibuster",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/arizona-democratic-party-unanimously-censure-sen-kyrsten-sinema-filibuster-2022-1",
+        "timestamp": 1642875574,
+        "sentiment": 2,
+        "published": "January 22, 2022 6:19 PM"
+    },
+    {
+        "title": "Rep. Marjorie Taylor Greene sold up to $15,000 worth of Activision Blizzard stock on the day Microsoft announced plans to buy the video game company",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mtg-congress-stock-sale-microsoft-activision-2022-1",
+        "timestamp": 1642878373,
+        "sentiment": 2,
+        "published": "January 22, 2022 7:06 PM"
+    },
+    {
+        "title": "Russia to conduct missile tests in Irish-patrolled waters 240km off south-west coast",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-ie/news/newsireland/russia-to-conduct-missile-tests-in-irish-patrolled-waters-240km-off-south-west-coast/ar-AAT1wte?pfr=1",
+        "timestamp": 1642879114,
+        "sentiment": -2,
+        "published": "January 22, 2022 7:18 PM"
+    },
+    {
+        "title": "Amy Schneider, now tied for second place for consecutive wins on Jeopardy!, talks game strategy, life as newfound celebrity, her identity a trans woman, and the show's hosts: \"It's bittersweet [without Alex Trebek] — but Ken is really good... so having him around has made it easy to move on.\"",
+        "domain": "datebook.sfchronicle.com",
+        "category": "television",
+        "link": "https://datebook.sfchronicle.com/movies-tv/jeopardy-champion-takes-her-winning-streak-in-stride",
+        "timestamp": 1642880240,
+        "sentiment": 3,
+        "published": "January 22, 2022 7:37 PM"
+    },
+    {
+        "title": "Kyle Rittenhouse seeks return of AR-15 style rifle used in Kenosha shootings",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/22/kyle-rittenhouse-gun-rifle-kenosha-shootings",
+        "timestamp": 1642881660,
+        "sentiment": 0,
+        "published": "January 22, 2022 8:01 PM"
+    },
+    {
+        "title": "Head of German navy resigns after saying Putin deserves respect and Crimea is lost forever",
+        "domain": "p.dw.com",
+        "category": "worldnews",
+        "link": "https://p.dw.com/p/45xV7",
+        "timestamp": 1642883721,
+        "sentiment": -2,
+        "published": "January 22, 2022 8:35 PM"
+    },
+    {
+        "title": "The TV Rom-com Has Evolved and Left ‘How I Met Your Father’ Behind",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2022/1/21/22894138/how-i-met-your-father-tv-romantic-comedy-evolution",
+        "timestamp": 1642885464,
+        "sentiment": 3,
+        "published": "January 22, 2022 9:04 PM"
     },
     {
         "title": "US Embassy in Kyiv asks State Dept. to authorize departure of nonessential personnel",
@@ -18,87 +306,6 @@
         "published": "January 22, 2022 3:30 AM"
     },
     {
-        "title": "Republicans vote to allow 18-year-olds to carry concealed weapons on school property",
-        "domain": "cbs58.com",
-        "category": "politics",
-        "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
-        "timestamp": 1642835496,
-        "sentiment": -5,
-        "published": "January 22, 2022 7:11 AM"
-    },
-    {
-        "title": "Russian foreign minister Lavrov claims 'Russophobic' Baltics and Poland guiding NATO policy",
-        "domain": "lrt.lt",
-        "category": "worldnews",
-        "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
-        "timestamp": 1642841254,
-        "sentiment": 0,
-        "published": "January 22, 2022 8:47 AM"
-    },
-    {
-        "title": "Georgia pastor, wife charged with false imprisonment after people found in locked basement",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/georgia-pastor-wife-charged-false-imprisonment-people-found-locked-bas-rcna13086?utm_source=facebook&utm_medium=news_tab",
-        "timestamp": 1642850925,
-        "sentiment": -3,
-        "published": "January 22, 2022 11:28 AM"
-    },
-    {
-        "title": "January 6 committee obtains draft executive order for Trump that directed the Pentagon to 'seize' voting machines",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
-        "timestamp": 1642852529,
-        "sentiment": -5,
-        "published": "January 22, 2022 11:55 AM"
-    },
-    {
-        "title": "Ukraine crisis: Moscow accepts UK talks invite amid fears Russian invasion is 'imminent' | World News",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/ukraine-crisis-moscow-accepts-uk-talks-invite-amid-fears-russian-invasion-is-imminent-12522361",
-        "timestamp": 1642852725,
-        "sentiment": 0,
-        "published": "January 22, 2022 11:58 AM"
-    },
-    {
-        "title": "US sends first military aid shipment to Ukraine amid Russia standoff",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/2022/01/22/us-sends-first-shipment-of-military-aid-to-ukraine-amid-standoff-with-russia?utm_source=flipboard.com&utm_campaign=feeds_news&utm_medium=referral",
-        "timestamp": 1642853413,
-        "sentiment": 0,
-        "published": "January 22, 2022 12:10 PM"
-    },
-    {
-        "title": "Would Trump Throw His Own Kids Under the Bus to Save Himself? We May Soon Find Out.",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
-        "timestamp": 1642853915,
-        "sentiment": -5,
-        "published": "January 22, 2022 12:18 PM"
-    },
-    {
-        "title": "Jan. 6 Investigators Zeroing In On Apparent Plot To Hijack Election With Fake Electors",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
-        "timestamp": 1642854832,
-        "sentiment": -5,
-        "published": "January 22, 2022 12:33 PM"
-    },
-    {
-        "title": "Russian politicians mock Boris Johnson and threaten nuclear attack on London",
-        "domain": "mirror.co.uk",
-        "category": "worldnews",
-        "link": "https://www.mirror.co.uk/news/uk-news/russian-politicians-mock-boris-johnson-25975069",
-        "timestamp": 1642855385,
-        "sentiment": 0,
-        "published": "January 22, 2022 12:43 PM"
-    },
-    {
         "title": "Two Canadians die in shooting at Mexican Caribbean resort",
         "domain": "reuters.com",
         "category": "news",
@@ -106,15 +313,6 @@
         "timestamp": 1642856059,
         "sentiment": -3,
         "published": "January 22, 2022 12:54 PM"
-    },
-    {
-        "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
-        "domain": "abc.net.au",
-        "category": "news",
-        "link": "https://www.abc.net.au/news/2022-01-22/truck-with-100-monkeys-crashes-in-the-us-with-some-missing/100775854",
-        "timestamp": 1642857164,
-        "sentiment": -3,
-        "published": "January 22, 2022 1:12 PM"
     },
     {
         "title": "Videos show \"Stop the Steal\" rally organizer saying he would work with extremist groups",
@@ -126,114 +324,6 @@
         "published": "January 22, 2022 1:51 PM"
     },
     {
-        "title": "Mexican Photojournalist Shot Dead in Front of His Tijuana Home.",
-        "domain": "petapixel.com",
-        "category": "news",
-        "link": "https://petapixel.com/2022/01/19/mexican-photojournalist-shot-dead-in-front-of-his-tijuana-home/",
-        "timestamp": 1642860012,
-        "sentiment": -3,
-        "published": "January 22, 2022 2:00 PM"
-    },
-    {
-        "title": "Romania and Bulgaria slam Russia's demands to move NATO troops as 'unacceptable'",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
-        "timestamp": 1642863566,
-        "sentiment": 0,
-        "published": "January 22, 2022 2:59 PM"
-    },
-    {
-        "title": "Georgia election chief Raffensperger says he'll cooperate with Fulton County Trump investigation",
-        "domain": "11alive.com",
-        "category": "politics",
-        "link": "https://www.11alive.com/video/news/politics/georgia-election-chief-raffensperger-says-hell-cooperate-with-fulton-county-trump-investigation/85-14c3ff00-5556-4a2c-bd2b-8961e53e3360",
-        "timestamp": 1642864776,
-        "sentiment": -5,
-        "published": "January 22, 2022 3:19 PM"
-    },
-    {
-        "title": "Omicron wave leaves US food banks scrambling for volunteers",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
-        "timestamp": 1642865492,
-        "sentiment": -3,
-        "published": "January 22, 2022 3:31 PM"
-    },
-    {
-        "title": "Taiwan seeks to join US' Indo-Pacific economic framework",
-        "domain": "aninews.in",
-        "category": "worldnews",
-        "link": "https://www.aninews.in/news/world/asia/taiwan-seeks-to-join-us-indo-pacific-economic-framework20220117095917/",
-        "timestamp": 1642867084,
-        "sentiment": 0,
-        "published": "January 22, 2022 3:58 PM"
-    },
-    {
-        "title": "'America's Funniest Home Videos' Will Pay Tribute to Bob Saget With Weekly Segment Throughout Season 32",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/bob-saget-afv-tribute-season-1235160556/",
-        "timestamp": 1642867409,
-        "sentiment": 2,
-        "published": "January 22, 2022 4:03 PM"
-    },
-    {
-        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
-        "timestamp": 1642869788,
-        "sentiment": -5,
-        "published": "January 22, 2022 4:43 PM"
-    },
-    {
-        "title": "‘The Gilded Age’ Is Even More Fun Than ‘Downton Abbey’",
-        "domain": "thedailybeast.com",
-        "category": "television",
-        "link": "https://www.thedailybeast.com/the-gilded-age-is-even-more-fun-than-downton-abbey",
-        "timestamp": 1642870922,
-        "sentiment": 2,
-        "published": "January 22, 2022 5:02 PM"
-    },
-    {
-        "title": "Argument over BBQ sauce leads to teenage Wendy's employee being shot in head",
-        "domain": "news4sanantonio.com",
-        "category": "news",
-        "link": "https://news4sanantonio.com/news/nation-world/argument-over-bbq-sauce-leads-to-teenage-wendys-employee-being-shot-in-head-restaurant-shooting-investigation-police-phoenix-suspect-violence-handgun",
-        "timestamp": 1642871183,
-        "sentiment": -3,
-        "published": "January 22, 2022 5:06 PM"
-    },
-    {
-        "title": "AZ Democratic Party censures Sen. Sinema after blocking voting rights legislation",
-        "domain": "abc15.com",
-        "category": "politics",
-        "link": "https://www.abc15.com/news/state/az-democratic-party-censures-sen-kirsten-sinema",
-        "timestamp": 1642871296,
-        "sentiment": -5,
-        "published": "January 22, 2022 5:08 PM"
-    },
-    {
-        "title": "GOP Election Official Charged with Murdering Tenant by Shooting Him Four Times, Then ‘Rambling’ to Police That He Was ‘Driving Me Nuts’",
-        "domain": "lawandcrime.com",
-        "category": "politics",
-        "link": "https://lawandcrime.com/crime/gop-election-official-charged-with-murdering-tenant-by-shooting-him-four-times-then-rambling-to-police-that-he-was-driving-me-nuts/",
-        "timestamp": 1642871320,
-        "sentiment": -5,
-        "published": "January 22, 2022 5:08 PM"
-    },
-    {
-        "title": "Before Recent Wave of Train Cargo Thefts, Union Pacific Laid Off Unspecified Number of Its Railroad Police Force",
-        "domain": "lataco.com",
-        "category": "news",
-        "link": "https://www.lataco.com/union-pacific-theft-police-laid-off/",
-        "timestamp": 1642871807,
-        "sentiment": -3,
-        "published": "January 22, 2022 5:16 PM"
-    },
-    {
         "title": "A Restaurant Was Accepting Dog Pics Instead of Vaccine Proof. It Was Shut Down.",
         "domain": "vice.com",
         "category": "worldnews",
@@ -243,24 +333,6 @@
         "published": "January 22, 2022 5:21 PM"
     },
     {
-        "title": "Ukraine Says Germany 'Encouraging Putin' By Refusing To Supply Weapons",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/ukraine-germany-weapons-russia/31666531.html",
-        "timestamp": 1642873148,
-        "sentiment": 0,
-        "published": "January 22, 2022 5:39 PM"
-    },
-    {
-        "title": "Arizona Democrats censure Sinema for blocking voting bill",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/voting-rights-kyrsten-sinema-phoenix-arizona-voting-af9409b7dbab996a1a8df329c053fce0",
-        "timestamp": 1642873356,
-        "sentiment": -3,
-        "published": "January 22, 2022 5:42 PM"
-    },
-    {
         "title": "Louie Anderson and the Compassion of America’s Eternal Kid",
         "domain": "nytimes.com",
         "category": "television",
@@ -268,42 +340,6 @@
         "timestamp": 1642874482,
         "sentiment": 2,
         "published": "January 22, 2022 6:01 PM"
-    },
-    {
-        "title": "China warns of 'no mercy' in corruption and monopoly crackdown",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/china-warns-no-mercy-corruption-064405435.html",
-        "timestamp": 1642875553,
-        "sentiment": 0,
-        "published": "January 22, 2022 6:19 PM"
-    },
-    {
-        "title": "The Arizona Democratic Party unanimously voted to censure Sen. Kyrsten Sinema for voting to uphold the filibuster",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/arizona-democratic-party-unanimously-censure-sen-kyrsten-sinema-filibuster-2022-1",
-        "timestamp": 1642875574,
-        "sentiment": -5,
-        "published": "January 22, 2022 6:19 PM"
-    },
-    {
-        "title": "Amy Schneider, now tied for second place for consecutive wins on Jeopardy!, talks game strategy, life as newfound celebrity, her identity a trans woman, and the show's hosts: \"It's bittersweet [without Alex Trebek] — but Ken is really good... so having him around has made it easy to move on.\"",
-        "domain": "datebook.sfchronicle.com",
-        "category": "television",
-        "link": "https://datebook.sfchronicle.com/movies-tv/jeopardy-champion-takes-her-winning-streak-in-stride",
-        "timestamp": 1642880240,
-        "sentiment": 2,
-        "published": "January 22, 2022 7:37 PM"
-    },
-    {
-        "title": "Kyle Rittenhouse seeks return of AR-15 style rifle used in Kenosha shootings",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jan/22/kyle-rittenhouse-gun-rifle-kenosha-shootings",
-        "timestamp": 1642881660,
-        "sentiment": -3,
-        "published": "January 22, 2022 8:01 PM"
     },
     {
         "title": "Residents of Ukrainian city near Russian border brace for the unknown",
