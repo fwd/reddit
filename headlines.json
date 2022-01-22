@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://slate.com/news-and-politics/2022/01/poll-only-8-percent-of-arizona-democrats-view-kyrsten-sinema-favorably.html",
         "timestamp": 1642813524,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 22, 2022 1:05 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/maga-confession-trump-lawyer-admits-fraudulent-electors-plot-131436613579",
         "timestamp": 1642818228,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 22, 2022 2:23 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/01/florida-sb-148-racism-discomfort",
         "timestamp": 1642818278,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 22, 2022 2:24 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/21/politics/us-embassy-ukraine-nonessential-personnel/index.html",
         "timestamp": 1642822208,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 22, 2022 3:30 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-polytics/3389358-us-senators-introduce-bill-to-help-ukraine-counter-russian-aggression.html",
         "timestamp": 1642825230,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 22, 2022 4:20 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
         "timestamp": 1642835496,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 22, 2022 7:11 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/whats-going-on-at-russian-military-bases-near-ukraine-12521842",
         "timestamp": 1642835582,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 22, 2022 7:13 AM"
+    },
+    {
+        "title": "Despite warnings from U.S., Russia likely only weeks away from invading Ukraine",
+        "domain": "pbs.org",
+        "category": "worldnews",
+        "link": "https://www.pbs.org/newshour/show/despite-warnings-from-u-s-russia-likely-only-weeks-away-from-invading-ukraineukraine-tensions",
+        "timestamp": 1642837564,
+        "sentiment": 0,
+        "published": "January 22, 2022 7:46 AM"
     },
     {
         "title": "Russian foreign minister Lavrov claims 'Russophobic' Baltics and Poland guiding NATO policy",
@@ -86,17 +95,17 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
         "timestamp": 1642841254,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 22, 2022 8:47 AM"
     },
     {
-        "title": "State Duma deputy proposed to launch a nuclear strike on the United States",
-        "domain": "pledgetimes.com",
+        "title": "WI nurses who gave their notice are prevented via court order from working at their new job on Monday.",
+        "domain": "amp.postcrescent.com",
         "category": "worldnews",
-        "link": "https://pledgetimes.com/state-duma-deputy-proposed-to-launch-a-nuclear-strike-on-the-united-states/",
-        "timestamp": 1642844602,
-        "sentiment": -2,
-        "published": "January 22, 2022 9:43 AM"
+        "link": "https://amp.postcrescent.com/amp/6607417001",
+        "timestamp": 1642845103,
+        "sentiment": 0,
+        "published": "January 22, 2022 9:51 AM"
     },
     {
         "title": "Georgia pastor, wife charged with false imprisonment after people found in locked basement",
@@ -108,13 +117,40 @@
         "published": "January 22, 2022 11:28 AM"
     },
     {
+        "title": "January 6 committee obtains draft executive order for Trump that directed the Pentagon to 'seize' voting machines",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
+        "timestamp": 1642852529,
+        "sentiment": 1,
+        "published": "January 22, 2022 11:55 AM"
+    },
+    {
+        "title": "2021 was the most antisemitic year in the last decade",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/diaspora/antisemitism/article-694197",
+        "timestamp": 1642852735,
+        "sentiment": 0,
+        "published": "January 22, 2022 11:58 AM"
+    },
+    {
         "title": "Would Trump Throw His Own Kids Under the Bus to Save Himself? We May Soon Find Out.",
         "domain": "thedailybeast.com",
         "category": "politics",
         "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
         "timestamp": 1642853915,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 22, 2022 12:18 PM"
+    },
+    {
+        "title": "Jan. 6 Investigators Zeroing In On Apparent Plot To Hijack Election With Fake Electors",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
+        "timestamp": 1642854832,
+        "sentiment": 1,
+        "published": "January 22, 2022 12:33 PM"
     },
     {
         "title": "Search for missing lab monkeys after truck carrying 100 primates crashes in the US",
@@ -126,13 +162,13 @@
         "published": "January 22, 2022 1:12 PM"
     },
     {
-        "title": "WI nurses who gave their notice are prevented via court order from working at their new job on Monday.",
-        "domain": "amp.postcrescent.com",
-        "category": "news",
-        "link": "https://amp.postcrescent.com/amp/6607417001",
-        "timestamp": 1642848357,
+        "title": "State Duma deputy proposed to launch a nuclear strike on the United States",
+        "domain": "pledgetimes.com",
+        "category": "worldnews",
+        "link": "https://pledgetimes.com/state-duma-deputy-proposed-to-launch-a-nuclear-strike-on-the-united-states/",
+        "timestamp": 1642844602,
         "sentiment": -2,
-        "published": "January 22, 2022 10:45 AM"
+        "published": "January 22, 2022 9:43 AM"
     },
     {
         "title": "Germany blocks Estonian arms exports to Ukraine",
