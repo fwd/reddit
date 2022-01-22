@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.cbs58.com/news/republicans-vote-to-allow-18-year-olds-to-carry-concealed-weapons-on-school-property",
         "timestamp": 1642835496,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 7:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1594604/lavrov-claims-russophobic-baltics-and-poland-guiding-nato-policy",
         "timestamp": 1642841254,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 8:47 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-draft-order-seize-voting-machines-appoint-special-counsel-2022-1",
         "timestamp": 1642852529,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 11:55 AM"
-    },
-    {
-        "title": "Ukraine crisis: Moscow accepts UK talks invite amid fears Russian invasion is 'imminent' | World News",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/ukraine-crisis-moscow-accepts-uk-talks-invite-amid-fears-russian-invasion-is-imminent-12522361",
-        "timestamp": 1642852725,
-        "sentiment": -2,
-        "published": "January 22, 2022 11:58 AM"
     },
     {
         "title": "US sends first military aid shipment to Ukraine amid Russia standoff",
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/01/22/us-sends-first-shipment-of-military-aid-to-ukraine-amid-standoff-with-russia?utm_source=flipboard.com&utm_campaign=feeds_news&utm_medium=referral",
         "timestamp": 1642853413,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 12:10 PM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/would-trump-throw-his-own-kids-under-the-bus-to-save-himself-we-may-soon-find-out?ref=wrap",
         "timestamp": 1642853915,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 12:18 PM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/giuliani-fake-electors-jamie-raskin-jan-6-committee-investigation_n_61eb56b3e4b03216750ad4df",
         "timestamp": 1642854832,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 12:33 PM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.mirror.co.uk/news/uk-news/russian-politicians-mock-boris-johnson-25975069",
         "timestamp": 1642855385,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 12:43 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/22/europe/bulgaria-romania-russia-intl/index.html",
         "timestamp": 1642863566,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 2:59 PM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "politics",
         "link": "https://www.11alive.com/video/news/politics/georgia-election-chief-raffensperger-says-hell-cooperate-with-fulton-county-trump-investigation/85-14c3ff00-5556-4a2c-bd2b-8961e53e3360",
         "timestamp": 1642864776,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 3:19 PM"
-    },
-    {
-        "title": "Omicron wave leaves US food banks scrambling for volunteers",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
-        "timestamp": 1642865492,
-        "sentiment": 0,
-        "published": "January 22, 2022 3:31 PM"
     },
     {
         "title": "Taiwan seeks to join US' Indo-Pacific economic framework",
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.aninews.in/news/world/asia/taiwan-seeks-to-join-us-indo-pacific-economic-framework20220117095917/",
         "timestamp": 1642867084,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 3:58 PM"
     },
     {
@@ -151,15 +133,6 @@
         "timestamp": 1642867409,
         "sentiment": 3,
         "published": "January 22, 2022 4:03 PM"
-    },
-    {
-        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
-        "timestamp": 1642869788,
-        "sentiment": 2,
-        "published": "January 22, 2022 4:43 PM"
     },
     {
         "title": "‘The Gilded Age’ Is Even More Fun Than ‘Downton Abbey’",
@@ -185,7 +158,7 @@
         "category": "politics",
         "link": "https://www.abc15.com/news/state/az-democratic-party-censures-sen-kirsten-sinema",
         "timestamp": 1642871296,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 5:08 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://lawandcrime.com/crime/gop-election-official-charged-with-murdering-tenant-by-shooting-him-four-times-then-rambling-to-police-that-he-was-driving-me-nuts/",
         "timestamp": 1642871320,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 5:08 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/ukraine-germany-weapons-russia/31666531.html",
         "timestamp": 1642873148,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 5:39 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/china-warns-no-mercy-corruption-064405435.html",
         "timestamp": 1642875553,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 6:19 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/arizona-democratic-party-unanimously-censure-sen-kyrsten-sinema-filibuster-2022-1",
         "timestamp": 1642875574,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 6:19 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/mtg-congress-stock-sale-microsoft-activision-2022-1",
         "timestamp": 1642878373,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "January 22, 2022 7:06 PM"
     },
     {
@@ -257,8 +230,17 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-ie/news/newsireland/russia-to-conduct-missile-tests-in-irish-patrolled-waters-240km-off-south-west-coast/ar-AAT1wte?pfr=1",
         "timestamp": 1642879114,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 7:18 PM"
+    },
+    {
+        "title": "Former Trump campaign adviser acknowledges being part of 2020 fake electors plot",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/22/politics/boris-epshteyn-trump-campaign-fake-electors/index.html",
+        "timestamp": 1642879486,
+        "sentiment": 1,
+        "published": "January 22, 2022 7:24 PM"
     },
     {
         "title": "Amy Schneider, now tied for second place for consecutive wins on Jeopardy!, talks game strategy, life as newfound celebrity, her identity a trans woman, and the show's hosts: \"It's bittersweet [without Alex Trebek] — but Ken is really good... so having him around has made it easy to move on.\"",
@@ -279,13 +261,40 @@
         "published": "January 22, 2022 8:01 PM"
     },
     {
+        "title": "Woman charged after threatening to bring 'every single gun loaded and ready' if her children had to wear masks at school",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/21/us/virginia-school-board-threat-gun-loaded/index.html",
+        "timestamp": 1642883304,
+        "sentiment": 0,
+        "published": "January 22, 2022 8:28 PM"
+    },
+    {
         "title": "Head of German navy resigns after saying Putin deserves respect and Crimea is lost forever",
         "domain": "p.dw.com",
         "category": "worldnews",
         "link": "https://p.dw.com/p/45xV7",
         "timestamp": 1642883721,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 22, 2022 8:35 PM"
+    },
+    {
+        "title": "90 tons of military aid from the U.S. arrives in Ukraine as Russia tensions rise",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/01/22/1075064514/ukraine-lethal-aid-us-russia",
+        "timestamp": 1642884303,
+        "sentiment": 1,
+        "published": "January 22, 2022 8:45 PM"
+    },
+    {
+        "title": "Cannabis Use Produces Persistent Cognitive Impairments",
+        "domain": "neurosciencenews.com",
+        "category": "news",
+        "link": "https://neurosciencenews.com/cannabis-cognition-19945/amp/",
+        "timestamp": 1642885432,
+        "sentiment": 0,
+        "published": "January 22, 2022 9:03 PM"
     },
     {
         "title": "The TV Rom-com Has Evolved and Left ‘How I Met Your Father’ Behind",
@@ -295,6 +304,24 @@
         "timestamp": 1642885464,
         "sentiment": 3,
         "published": "January 22, 2022 9:04 PM"
+    },
+    {
+        "title": "Ukraine crisis: Moscow accepts UK talks invite amid fears Russian invasion is 'imminent' | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-crisis-moscow-accepts-uk-talks-invite-amid-fears-russian-invasion-is-imminent-12522361",
+        "timestamp": 1642852725,
+        "sentiment": -2,
+        "published": "January 22, 2022 11:58 AM"
+    },
+    {
+        "title": "Omicron wave leaves US food banks scrambling for volunteers",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-lifestyle-alabama-d4623b478d6c293850343557afd7f559",
+        "timestamp": 1642865492,
+        "sentiment": 0,
+        "published": "January 22, 2022 3:31 PM"
     },
     {
         "title": "US Embassy in Kyiv asks State Dept. to authorize departure of nonessential personnel",
