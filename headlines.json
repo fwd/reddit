@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/carhartt-covid-vaccine-mandate-boycott-ceo-mark-valade/",
         "timestamp": 1642901809,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 1:36 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "news",
         "link": "https://www.restaurantdive.com/news/starbucks-union-drive-reaches-30-stores-in-14-states/617541/",
         "timestamp": 1642909402,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 3:43 AM"
-    },
-    {
-        "title": "All 100 lab monkeys accounted for after several escape crash",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/science-pennsylvania-monkeys-animals-fe5ddc03bba64ce62433f79b0ee7c6c3",
-        "timestamp": 1642911327,
-        "sentiment": -3,
-        "published": "January 23, 2022 4:15 AM"
     },
     {
         "title": "More than half of Americans view right-wing militia groups as a threat to US: poll",
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "http://www.jpost.com/middle-east/article-694248",
         "timestamp": 1642913224,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 4:47 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/betty-white-challenge-raises-127m-animal-shelters-via-facebook-instagram/6JGHDEV76RHOTHVVQDJB2X6COA/",
         "timestamp": 1642914955,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 5:15 AM"
     },
     {
@@ -70,15 +61,6 @@
         "timestamp": 1642916073,
         "sentiment": 0,
         "published": "January 23, 2022 5:34 AM"
-    },
-    {
-        "title": "If the Democrats don’t shape up, Biden’s presidency will lead to a Trumpian sequel: The president has failed to capitalise on progressive sentiment: his party needs to stand up for the working class",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/jan/21/democrats-shape-up-bidens-presidency-trumpian-sequel",
-        "timestamp": 1642917487,
-        "sentiment": 0,
-        "published": "January 23, 2022 5:58 AM"
     },
     {
         "title": "Rep. Castro on Jan. 6 plot: “It’s becoming clearer..that Donald Trump and his minions orchestrated this at every level”",
@@ -104,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/23/russian-ships-tanks-and-troops-on-the-move-to-ukraine-as-peace-talks-stall",
         "timestamp": 1642921869,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 7:11 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60099931",
         "timestamp": 1642926813,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 8:33 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
         "timestamp": 1642931151,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 9:45 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-uk-will-stand-shoulder-to-shoulder-with-kyiv-but-extremely-unlikely-to-send-troops-deputy-pm-dominic-raab-says-12523321",
         "timestamp": 1642932261,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 10:04 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://bellinghammetronews.com/news/breaking-news/wealth-management-advisor-jim-iannazzo-under-fire-amid-serious-allegations/",
         "timestamp": 1642934697,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 10:44 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://newsy-today.com/the-netherlands-sends-f-35s-to-bulgaria-due-to-concerns-about-ukraine/",
         "timestamp": 1642935058,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 10:50 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "news",
         "link": "https://m.dw.com/en/german-navy-chief-sch%C3%B6nbach-resigns-over-comments-on-putin-crimea/a-60525709",
         "timestamp": 1642936008,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 11:06 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.dohanews.co/qatar-in-talks-with-the-us-on-supplying-europe-with-gas-as-russia-ukraine-tensions-mount/",
         "timestamp": 1642940033,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 12:13 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/01/23/lab-grown-meat-start-ups-hope-to-make-strides-in-2022.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
         "timestamp": 1642949172,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 23, 2022 2:46 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/homenews/sunday-talk-shows/590952-blinken-promises-swift-and-severe-response-if-single-russian-force",
         "timestamp": 1642949897,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 2:58 PM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/asia-pacific/taiwan-reports-new-large-scale-chinese-air-force-incursion-2022-01-23/",
         "timestamp": 1642951187,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 23, 2022 3:19 PM"
     },
     {
@@ -252,6 +234,24 @@
         "published": "January 23, 2022 3:31 PM"
     },
     {
+        "title": "A Tennessee woman allegedly chopped her dad with an ax and punched her grandpa in the face before they disarmed and subdued her, according to authorities.",
+        "domain": "fox5atlanta.com",
+        "category": "news",
+        "link": "https://www.fox5atlanta.com/news/tennessee-ax-woman-nevada-fortson",
+        "timestamp": 1642953016,
+        "sentiment": -6,
+        "published": "January 23, 2022 3:50 PM"
+    },
+    {
+        "title": "Sanders says Republicans are 'laughing all the way to Election Day'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/590955-sanders-says-gop-is-laughing-all-the-way-to-election-day-they-have",
+        "timestamp": 1642953317,
+        "sentiment": 0,
+        "published": "January 23, 2022 3:55 PM"
+    },
+    {
         "title": "Netflix’s 'Maid' is an unfiltered portrayal of single motherhood. Margaret Qualley gives a stunning performance in this 10-part drama about a young mum who escapes an abusive relationship.",
         "domain": "lwlies.com",
         "category": "television",
@@ -259,6 +259,51 @@
         "timestamp": 1642954496,
         "sentiment": 0,
         "published": "January 23, 2022 4:14 PM"
+    },
+    {
+        "title": "Blinken says 'a single additional Russian force' entering Ukraine would trigger US response",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/23/politics/antony-blinken-russian-troops-ukraine-cnntv/index.html",
+        "timestamp": 1642954629,
+        "sentiment": -5,
+        "published": "January 23, 2022 4:17 PM"
+    },
+    {
+        "title": "Bernie Sanders Is Mad as Hell at Sinema and Manchin’s ‘Sabotage’ of Biden’s Agenda",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/bernie-sanders-manchin-sinema-1289356/",
+        "timestamp": 1642956707,
+        "sentiment": 0,
+        "published": "January 23, 2022 4:51 PM"
+    },
+    {
+        "title": "Could California's single-payer proposal reignite debate on health care reform?",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/californias-single-payer-proposal-reignite-debate-health-care/story?id=82200267",
+        "timestamp": 1642957434,
+        "sentiment": -6,
+        "published": "January 23, 2022 5:03 PM"
+    },
+    {
+        "title": "All 100 lab monkeys accounted for after several escape crash",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/science-pennsylvania-monkeys-animals-fe5ddc03bba64ce62433f79b0ee7c6c3",
+        "timestamp": 1642911327,
+        "sentiment": -3,
+        "published": "January 23, 2022 4:15 AM"
+    },
+    {
+        "title": "If the Democrats don’t shape up, Biden’s presidency will lead to a Trumpian sequel: The president has failed to capitalise on progressive sentiment: his party needs to stand up for the working class",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jan/21/democrats-shape-up-bidens-presidency-trumpian-sequel",
+        "timestamp": 1642917487,
+        "sentiment": 0,
+        "published": "January 23, 2022 5:58 AM"
     },
     {
         "title": "Julian McMahon Leaving ‘FBI: Most Wanted’: “I Am Grateful To Have Had The Opportunity To Play Jess”",
