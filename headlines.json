@@ -1,23 +1,5 @@
 [
     {
-        "title": "FBI raid on Rep. Henry Cuellar's Texas home, office said to be tied to Azerbaijan",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/news/amp/rcna13005",
-        "timestamp": 1642898455,
-        "sentiment": 0,
-        "published": "January 23, 2022 12:40 AM"
-    },
-    {
-        "title": "Michael McCaul predicts Chinese invasion of Taiwan after Winter Olympics",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/01/21/michael-mccaul-predicts-chinese-invasion-of-taiwan-after-winter-olympics/",
-        "timestamp": 1642898942,
-        "sentiment": 1,
-        "published": "January 23, 2022 12:49 AM"
-    },
-    {
         "title": "Carhartt CEO says he's still mandating staff vaccinations. Now he's facing a boycott.",
         "domain": "cbsnews.com",
         "category": "news",
@@ -41,7 +23,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/julian-mcmahon-leaving-fbi-most-wanted-jess-lacroix-3-seasons-1234918040/",
         "timestamp": 1642903316,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 23, 2022 2:01 AM"
     },
     {
@@ -50,8 +32,62 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/590935-donald-trump-slams-jan-6-panel-after-ivanka-trump-interview-request",
         "timestamp": 1642904728,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 23, 2022 2:25 AM"
+    },
+    {
+        "title": "Starbucks Union Drive Reaches 30 Stores in 14 States",
+        "domain": "restaurantdive.com",
+        "category": "news",
+        "link": "https://www.restaurantdive.com/news/starbucks-union-drive-reaches-30-stores-in-14-states/617541/",
+        "timestamp": 1642909402,
+        "sentiment": 0,
+        "published": "January 23, 2022 3:43 AM"
+    },
+    {
+        "title": "Canada Woman Takes Selfie On Top Of Sinking Car As People Rush To Rescue Her",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/offbeat/canada-woman-takes-selfie-on-top-of-sinking-car-as-people-rush-to-rescue-her-2716382",
+        "timestamp": 1642911363,
+        "sentiment": 1,
+        "published": "January 23, 2022 4:16 AM"
+    },
+    {
+        "title": "More than half of Americans view right-wing militia groups as a threat to US: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/590928-more-than-half-of-americans-view-right-wing-militia-groups-as-a",
+        "timestamp": 1642912874,
+        "sentiment": -2,
+        "published": "January 23, 2022 4:41 AM"
+    },
+    {
+        "title": "Dick Carson (Johnny Carson's Younger Brother), Director on ‘The Tonight Show,’ ‘Get Smart,’ ‘The Merv Griffin Show,’ and ‘Wheel of Fortune,’ Dies at 92",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/dick-carson-dead-johnny-carson-brother-the-tonight-show-1235149811/",
+        "timestamp": 1642916073,
+        "sentiment": -1,
+        "published": "January 23, 2022 5:34 AM"
+    },
+    {
+        "title": "FBI raid on Rep. Henry Cuellar's Texas home, office said to be tied to Azerbaijan",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/amp/rcna13005",
+        "timestamp": 1642898455,
+        "sentiment": 0,
+        "published": "January 23, 2022 12:40 AM"
+    },
+    {
+        "title": "Michael McCaul predicts Chinese invasion of Taiwan after Winter Olympics",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/01/21/michael-mccaul-predicts-chinese-invasion-of-taiwan-after-winter-olympics/",
+        "timestamp": 1642898942,
+        "sentiment": 1,
+        "published": "January 23, 2022 12:49 AM"
     },
     {
         "title": "Texas attorney general refuses to hand over Jan. 6 records",
