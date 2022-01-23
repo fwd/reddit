@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/carhartt-covid-vaccine-mandate-boycott-ceo-mark-valade/",
         "timestamp": 1642901809,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 23, 2022 1:36 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/590935-donald-trump-slams-jan-6-panel-after-ivanka-trump-interview-request",
         "timestamp": 1642904728,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 23, 2022 2:25 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.restaurantdive.com/news/starbucks-union-drive-reaches-30-stores-in-14-states/617541/",
         "timestamp": 1642909402,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 23, 2022 3:43 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "news",
         "link": "https://apnews.com/article/science-pennsylvania-monkeys-animals-fe5ddc03bba64ce62433f79b0ee7c6c3",
         "timestamp": 1642911327,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 23, 2022 4:15 AM"
-    },
-    {
-        "title": "Canada Woman Takes Selfie On Top Of Sinking Car As People Rush To Rescue Her",
-        "domain": "ndtv.com",
-        "category": "worldnews",
-        "link": "https://www.ndtv.com/offbeat/canada-woman-takes-selfie-on-top-of-sinking-car-as-people-rush-to-rescue-her-2716382",
-        "timestamp": 1642911363,
-        "sentiment": 4,
-        "published": "January 23, 2022 4:16 AM"
     },
     {
         "title": "More than half of Americans view right-wing militia groups as a threat to US: poll",
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/590928-more-than-half-of-americans-view-right-wing-militia-groups-as-a",
         "timestamp": 1642912874,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 23, 2022 4:41 AM"
     },
     {
@@ -68,17 +59,17 @@
         "category": "worldnews",
         "link": "http://www.jpost.com/middle-east/article-694248",
         "timestamp": 1642913224,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 4:47 AM"
     },
     {
-        "title": "100 Millionaires And Billionaires Sign Open Letter Pleading For Higher Taxes",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/patriotic-millionaires-more-taxes-injustice-letter_n_61ecbfb2e4b03216750b98a6",
-        "timestamp": 1642915587,
-        "sentiment": 2,
-        "published": "January 23, 2022 5:26 AM"
+        "title": "‘Betty White Challenge’ raises $12.7M for animal shelters via Facebook, Instagram",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/trending/betty-white-challenge-raises-127m-animal-shelters-via-facebook-instagram/6JGHDEV76RHOTHVVQDJB2X6COA/",
+        "timestamp": 1642914955,
+        "sentiment": -2,
+        "published": "January 23, 2022 5:15 AM"
     },
     {
         "title": "Dick Carson (Johnny Carson's Younger Brother), Director on ‘The Tonight Show,’ ‘Get Smart,’ ‘The Merv Griffin Show,’ and ‘Wheel of Fortune,’ Dies at 92",
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jan/21/democrats-shape-up-bidens-presidency-trumpian-sequel",
         "timestamp": 1642917487,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 23, 2022 5:58 AM"
     },
     {
@@ -104,8 +95,17 @@
         "category": "politics",
         "link": "https://www.msnbc.com/ali-velshi/watch/rep-castro-on-jan-6-plot-it-s-becoming-clearer-that-donald-trump-and-his-minions-orchestrated-this-at-every-level-131465797996",
         "timestamp": 1642917549,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "January 23, 2022 5:59 AM"
+    },
+    {
+        "title": "US State Department orders families of Embassy personnel in Ukraine to begin Leaving as soon as Monday",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10430381/US-State-Dept-orders-families-Embassy-personnel-Ukraine-begin-LEAVING-soon-Monday.html",
+        "timestamp": 1642918032,
+        "sentiment": 0,
+        "published": "January 23, 2022 6:07 AM"
     },
     {
         "title": "Australian firm fires employee for leak of TV anchors' Djokovic rant",
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/23/russian-ships-tanks-and-troops-on-the-move-to-ukraine-as-peace-talks-stall",
         "timestamp": 1642921869,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 7:11 AM"
     },
     {
@@ -131,8 +131,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60099931",
         "timestamp": 1642926813,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 8:33 AM"
+    },
+    {
+        "title": "Clarence Thomas' wife spoke at a conservative conference featuring the founder of the Oath Keepers, a far-right militia group involved in the Capitol riot",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/clarence-thomas-wife-oath-keepers-founder-featured-together-at-event-2022-1",
+        "timestamp": 1642927573,
+        "sentiment": -1,
+        "published": "January 23, 2022 8:46 AM"
     },
     {
         "title": "India Plans to Criminalize Marital Rape, So Some Men Are Boycotting Marriage",
@@ -140,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.vice.com/en/article/4awn89/india-marital-rape-laws-marriage-strike",
         "timestamp": 1642928874,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 9:07 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/amp/US/wireStory/stray-bullet-kills-english-astrophysicist-visiting-atlanta-82413272",
         "timestamp": 1642930122,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 9:28 AM"
     },
     {
@@ -158,7 +167,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
         "timestamp": 1642931151,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 23, 2022 9:45 AM"
     },
     {
@@ -167,8 +176,17 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-uk-will-stand-shoulder-to-shoulder-with-kyiv-but-extremely-unlikely-to-send-troops-deputy-pm-dominic-raab-says-12523321",
         "timestamp": 1642932261,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 10:04 AM"
+    },
+    {
+        "title": "Man who threatened to kill Ocasio-Cortez, Pelosi pleads guilty to federal charges",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/legal/590899-man-who-threatened-to-kill-ocasio-cortez-pelosi-pleads-guilty-to-federal-charges",
+        "timestamp": 1642934631,
+        "sentiment": -1,
+        "published": "January 23, 2022 10:43 AM"
     },
     {
         "title": "The Netherlands sends F-35s to Bulgaria due to concerns about Ukraine",
@@ -176,8 +194,44 @@
         "category": "worldnews",
         "link": "https://newsy-today.com/the-netherlands-sends-f-35s-to-bulgaria-due-to-concerns-about-ukraine/",
         "timestamp": 1642935058,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 23, 2022 10:50 AM"
+    },
+    {
+        "title": "A cop fatally struck a nurse. His actions after the crash shock the victim’s loved ones.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/investigations/cop-fatally-struck-nurse-actions-crash-shock-victims-loved-ones-rcna12072",
+        "timestamp": 1642941646,
+        "sentiment": -2,
+        "published": "January 23, 2022 12:40 PM"
+    },
+    {
+        "title": "Michael Cohen says Donald Trump told him if one of his kids had to go to prison to 'make sure' it was Donald Jr., not Ivanka",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/cohen-trump-don-jr-prison-rather-than-ivanka-2022-1?r=US&IR=T",
+        "timestamp": 1642943426,
+        "sentiment": -1,
+        "published": "January 23, 2022 1:10 PM"
+    },
+    {
+        "title": "Canada Woman Takes Selfie On Top Of Sinking Car As People Rush To Rescue Her",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/offbeat/canada-woman-takes-selfie-on-top-of-sinking-car-as-people-rush-to-rescue-her-2716382",
+        "timestamp": 1642911363,
+        "sentiment": 4,
+        "published": "January 23, 2022 4:16 AM"
+    },
+    {
+        "title": "100 Millionaires And Billionaires Sign Open Letter Pleading For Higher Taxes",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/patriotic-millionaires-more-taxes-injustice-letter_n_61ecbfb2e4b03216750b98a6",
+        "timestamp": 1642915587,
+        "sentiment": 2,
+        "published": "January 23, 2022 5:26 AM"
     },
     {
         "title": "Total resistance: Tens of thousands protest against Covid vaccine pass in France | World News",
@@ -187,15 +241,6 @@
         "timestamp": 1642902308,
         "sentiment": 0,
         "published": "January 23, 2022 1:45 AM"
-    },
-    {
-        "title": "US State Department orders families of Embassy personnel in Ukraine to begin Leaving as soon as Monday",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10430381/US-State-Dept-orders-families-Embassy-personnel-Ukraine-begin-LEAVING-soon-Monday.html",
-        "timestamp": 1642918032,
-        "sentiment": 0,
-        "published": "January 23, 2022 6:07 AM"
     },
     {
         "title": "Girl survives heavy snowstorm by hugging a dog, Russian state TV reports",
