@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://nypost.com/2022/01/21/michael-mccaul-predicts-chinese-invasion-of-taiwan-after-winter-olympics/",
         "timestamp": 1642898942,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 23, 2022 12:49 AM"
     },
     {
@@ -18,13 +18,31 @@
         "published": "January 23, 2022 1:36 AM"
     },
     {
+        "title": "Total resistance: Tens of thousands protest against Covid vaccine pass in France | World News",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/total-resistance-tens-of-thousands-protest-against-covid-vaccine-pass-in-france-101642897831517.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
+        "timestamp": 1642902308,
+        "sentiment": 1,
+        "published": "January 23, 2022 1:45 AM"
+    },
+    {
         "title": "Julian McMahon Leaving ‘FBI: Most Wanted’: “I Am Grateful To Have Had The Opportunity To Play Jess”",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/01/julian-mcmahon-leaving-fbi-most-wanted-jess-lacroix-3-seasons-1234918040/",
         "timestamp": 1642903316,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 2:01 AM"
+    },
+    {
+        "title": "Donald Trump slams Jan. 6 panel after Ivanka Trump interview request: 'They'll go after children'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/590935-donald-trump-slams-jan-6-panel-after-ivanka-trump-interview-request",
+        "timestamp": 1642904728,
+        "sentiment": 0,
+        "published": "January 23, 2022 2:25 AM"
     },
     {
         "title": "Texas attorney general refuses to hand over Jan. 6 records",
