@@ -9,15 +9,6 @@
         "published": "January 23, 2022 1:36 AM"
     },
     {
-        "title": "Total resistance: Tens of thousands protest against Covid vaccine pass in France | World News",
-        "domain": "hindustantimes.com",
-        "category": "worldnews",
-        "link": "https://www.hindustantimes.com/world-news/total-resistance-tens-of-thousands-protest-against-covid-vaccine-pass-in-france-101642897831517.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
-        "timestamp": 1642902308,
-        "sentiment": 0,
-        "published": "January 23, 2022 1:45 AM"
-    },
-    {
         "title": "Julian McMahon Leaving ‘FBI: Most Wanted’: “I Am Grateful To Have Had The Opportunity To Play Jess”",
         "domain": "deadline.com",
         "category": "television",
@@ -32,7 +23,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/590935-donald-trump-slams-jan-6-panel-after-ivanka-trump-interview-request",
         "timestamp": 1642904728,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 2:25 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/offbeat/canada-woman-takes-selfie-on-top-of-sinking-car-as-people-rush-to-rescue-her-2716382",
         "timestamp": 1642911363,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 4:16 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/590928-more-than-half-of-americans-view-right-wing-militia-groups-as-a",
         "timestamp": 1642912874,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 4:41 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "http://www.jpost.com/middle-east/article-694248",
         "timestamp": 1642913224,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 4:47 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/patriotic-millionaires-more-taxes-injustice-letter_n_61ecbfb2e4b03216750b98a6",
         "timestamp": 1642915587,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 5:26 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jan/21/democrats-shape-up-bidens-presidency-trumpian-sequel",
         "timestamp": 1642917487,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 5:58 AM"
     },
     {
@@ -113,17 +104,8 @@
         "category": "politics",
         "link": "https://www.msnbc.com/ali-velshi/watch/rep-castro-on-jan-6-plot-it-s-becoming-clearer-that-donald-trump-and-his-minions-orchestrated-this-at-every-level-131465797996",
         "timestamp": 1642917549,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 23, 2022 5:59 AM"
-    },
-    {
-        "title": "US State Department orders families of Embassy personnel in Ukraine to begin Leaving as soon as Monday",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10430381/US-State-Dept-orders-families-Embassy-personnel-Ukraine-begin-LEAVING-soon-Monday.html",
-        "timestamp": 1642918032,
-        "sentiment": 0,
-        "published": "January 23, 2022 6:07 AM"
     },
     {
         "title": "Australian firm fires employee for leak of TV anchors' Djokovic rant",
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/23/russian-ships-tanks-and-troops-on-the-move-to-ukraine-as-peace-talks-stall",
         "timestamp": 1642921869,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 7:11 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60099931",
         "timestamp": 1642926813,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 8:33 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.vice.com/en/article/4awn89/india-marital-rape-laws-marriage-strike",
         "timestamp": 1642928874,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 9:07 AM"
     },
     {
@@ -167,8 +149,53 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/amp/US/wireStory/stray-bullet-kills-english-astrophysicist-visiting-atlanta-82413272",
         "timestamp": 1642930122,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 23, 2022 9:28 AM"
+    },
+    {
+        "title": "China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
+        "timestamp": 1642931151,
+        "sentiment": -1,
+        "published": "January 23, 2022 9:45 AM"
+    },
+    {
+        "title": "Ukraine: UK will stand 'shoulder to shoulder' with Kyiv but 'extremely unlikely' to send troops, deputy PM Dominic Raab says",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-uk-will-stand-shoulder-to-shoulder-with-kyiv-but-extremely-unlikely-to-send-troops-deputy-pm-dominic-raab-says-12523321",
+        "timestamp": 1642932261,
+        "sentiment": 4,
+        "published": "January 23, 2022 10:04 AM"
+    },
+    {
+        "title": "The Netherlands sends F-35s to Bulgaria due to concerns about Ukraine",
+        "domain": "newsy-today.com",
+        "category": "worldnews",
+        "link": "https://newsy-today.com/the-netherlands-sends-f-35s-to-bulgaria-due-to-concerns-about-ukraine/",
+        "timestamp": 1642935058,
+        "sentiment": 4,
+        "published": "January 23, 2022 10:50 AM"
+    },
+    {
+        "title": "Total resistance: Tens of thousands protest against Covid vaccine pass in France | World News",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/total-resistance-tens-of-thousands-protest-against-covid-vaccine-pass-in-france-101642897831517.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
+        "timestamp": 1642902308,
+        "sentiment": 0,
+        "published": "January 23, 2022 1:45 AM"
+    },
+    {
+        "title": "US State Department orders families of Embassy personnel in Ukraine to begin Leaving as soon as Monday",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10430381/US-State-Dept-orders-families-Embassy-personnel-Ukraine-begin-LEAVING-soon-Monday.html",
+        "timestamp": 1642918032,
+        "sentiment": 0,
+        "published": "January 23, 2022 6:07 AM"
     },
     {
         "title": "Girl survives heavy snowstorm by hugging a dog, Russian state TV reports",
@@ -1132,15 +1159,6 @@
         "timestamp": 1642779483,
         "sentiment": 3,
         "published": "January 21, 2022 3:38 PM"
-    },
-    {
-        "title": "China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/sport/2022/jan/21/china-threat-punishment-beijing-winter-olympics-athletes-political-statements-free-speech-very-concerning-australia-says",
-        "timestamp": 1642751003,
-        "sentiment": -1,
-        "published": "January 21, 2022 7:43 AM"
     },
     {
         "title": "Britain warns Putin and Xi: West will stand up to 'dictatorship'",
