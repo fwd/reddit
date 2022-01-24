@@ -1,32 +1,5 @@
 [
     {
-        "title": "COVID-19 patient whose family sued to keep him on ventilator dies after transfer from Mercy Hospital",
-        "domain": "kstp.com",
-        "category": "news",
-        "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
-        "timestamp": 1642983948,
-        "sentiment": 0,
-        "published": "January 24, 2022 12:25 AM"
-    },
-    {
-        "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
-        "domain": "dw.com",
-        "category": "news",
-        "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
-        "timestamp": 1642991542,
-        "sentiment": 0,
-        "published": "January 24, 2022 2:32 AM"
-    },
-    {
-        "title": "‘People will be murdered’: Boy who wrote governor about gun law killed in shooting",
-        "domain": "yourbasin.com",
-        "category": "news",
-        "link": "https://www.yourbasin.com/news/people-will-be-murdered-boy-who-wrote-governor-about-gun-law-killed-in-shooting/",
-        "timestamp": 1643004523,
-        "sentiment": 0,
-        "published": "January 24, 2022 6:08 AM"
-    },
-    {
         "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
         "domain": "theguardian.com",
         "category": "television",
@@ -41,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
         "timestamp": 1643015747,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 9:15 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-60113271",
         "timestamp": 1643028600,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 12:50 PM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/ex-pope-benedict-xvi-admits-false-statement-during-abuse-probe-testimony/a-60535297",
         "timestamp": 1643029786,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 1:09 PM"
     },
     {
@@ -133,15 +106,6 @@
         "timestamp": 1643030956,
         "sentiment": 0,
         "published": "January 24, 2022 1:29 PM"
-    },
-    {
-        "title": "'Unbreakable Kimmy Schmidt' composer talks creating the show's earworm (and empowering) theme song",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/unbreakable-kimmy-schmidt-theme-song-jeff-richmond/?",
-        "timestamp": 1643031806,
-        "sentiment": 0,
-        "published": "January 24, 2022 1:43 PM"
     },
     {
         "title": "Arizona Republicans propose major changes to elections after GOP review finds no fraud",
@@ -185,7 +149,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/amp/germany-lone-gunman-dead-after-shooting-several-people-at-university-in-heidelberg-12524362",
         "timestamp": 1643035118,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 2:38 PM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/01/24/russias-central-bank-steps-in-to-halt-trade-as-russian-markets-in-freefall-a76130",
         "timestamp": 1643040406,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 4:06 PM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "worldnews",
         "link": "https://english.alaraby.co.uk/news/israeli-minister-says-settler-attacks-organised-terrorism",
         "timestamp": 1643046282,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 5:44 PM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.ft.com/content/c5e6141d-60c0-4333-ad15-e5fdaf4dde71",
         "timestamp": 1643049708,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 6:41 PM"
     },
     {
@@ -293,8 +257,17 @@
         "category": "worldnews",
         "link": "https://www.irishexaminer.com/news/arid-40791954.html",
         "timestamp": 1643051020,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 7:03 PM"
+    },
+    {
+        "title": "James Webb telescope parked in observing position",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/science-environment-60116475",
+        "timestamp": 1643052870,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:34 PM"
     },
     {
         "title": "“Death Star” response from US would lock Russia out of 5G, advanced chips",
@@ -302,8 +275,89 @@
         "category": "worldnews",
         "link": "https://arstechnica.com/tech-policy/2022/01/death-star-response-from-us-would-lock-russia-out-of-5g-advanced-chips/",
         "timestamp": 1643053695,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 7:48 PM"
+    },
+    {
+        "title": "Texas woman arrested after allegedly trying to buy another woman’s child for $500,000 at Walmart",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/texas-woman-arrested-allegedly-trying-buy-another-womans-child-500000-rcna13282?cid=sm_npd_nn_tw_ma&s=09",
+        "timestamp": 1643053979,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:52 PM"
+    },
+    {
+        "title": "'Secrets of Playboy:' Hugh Hefner's former girlfriends, Playmates and employees allege a culture of abuse",
+        "domain": "usatoday.com",
+        "category": "television",
+        "link": "https://www.usatoday.com/story/life/health-wellness/2022/01/24/secrets-playboy-hugh-hefner-playmates-abuse-trauma/6623453001/",
+        "timestamp": 1643054746,
+        "sentiment": 0,
+        "published": "January 24, 2022 8:05 PM"
+    },
+    {
+        "title": "Peter Dinklage says he thinks 'House of the Dragon' will be 'really' good, but notes a key difference from 'Game of Thrones'",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/peter-dinklage-says-house-of-the-dragon-isnt-a-risk-for-hbo-2022-1",
+        "timestamp": 1643055423,
+        "sentiment": 0,
+        "published": "January 24, 2022 8:17 PM"
+    },
+    {
+        "title": "Hactivists say they hacked Belarus rail system to stop Russian military buildup",
+        "domain": "arstechnica.com",
+        "category": "worldnews",
+        "link": "https://arstechnica.com/information-technology/2022/01/hactivists-say-they-hacked-belarus-rail-system-to-stop-russian-military-buildup/",
+        "timestamp": 1643056022,
+        "sentiment": -2,
+        "published": "January 24, 2022 8:27 PM"
+    },
+    {
+        "title": "DA for Atlanta area granted special grand jury to probe Trump's election interference",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/24/politics/georgia-trump-grand-jury/index.html",
+        "timestamp": 1643057179,
+        "sentiment": 0,
+        "published": "January 24, 2022 8:46 PM"
+    },
+    {
+        "title": "COVID-19 patient whose family sued to keep him on ventilator dies after transfer from Mercy Hospital",
+        "domain": "kstp.com",
+        "category": "news",
+        "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
+        "timestamp": 1642983948,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:25 AM"
+    },
+    {
+        "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
+        "domain": "dw.com",
+        "category": "news",
+        "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
+        "timestamp": 1642991542,
+        "sentiment": 0,
+        "published": "January 24, 2022 2:32 AM"
+    },
+    {
+        "title": "‘People will be murdered’: Boy who wrote governor about gun law killed in shooting",
+        "domain": "yourbasin.com",
+        "category": "news",
+        "link": "https://www.yourbasin.com/news/people-will-be-murdered-boy-who-wrote-governor-about-gun-law-killed-in-shooting/",
+        "timestamp": 1643004523,
+        "sentiment": 0,
+        "published": "January 24, 2022 6:08 AM"
+    },
+    {
+        "title": "'Unbreakable Kimmy Schmidt' composer talks creating the show's earworm (and empowering) theme song",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/unbreakable-kimmy-schmidt-theme-song-jeff-richmond/?",
+        "timestamp": 1643031806,
+        "sentiment": 0,
+        "published": "January 24, 2022 1:43 PM"
     },
     {
         "title": "Pentagon: 8,500 U.S. troops on high alert for possible deployment to eastern Europe",
