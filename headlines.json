@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
         "timestamp": 1642984710,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 12:38 AM"
-    },
-    {
-        "title": "Liz Cheney Issues Warning After Newt Gingrich Says 1/6 Committee Members May Face Jail",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
-        "timestamp": 1642985656,
-        "sentiment": -3,
-        "published": "January 24, 2022 12:54 AM"
     },
     {
         "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
@@ -36,21 +27,12 @@
         "published": "January 24, 2022 2:32 AM"
     },
     {
-        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
-        "timestamp": 1642994832,
-        "sentiment": -2,
-        "published": "January 24, 2022 3:27 AM"
-    },
-    {
         "title": "Donald Trump's niece said it's hypocritical for him to complain about the Jan. 6 commission investigating his kids after his attacks on Hunter Biden",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-hypocritical-jan-6-panel-going-after-kids-mary-trump-2022-1",
         "timestamp": 1643001974,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 5:26 AM"
     },
     {
@@ -72,15 +54,6 @@
         "published": "January 24, 2022 7:56 AM"
     },
     {
-        "title": "Israel said preparing for potential need to evacuate Ukrainian Jews in case of war with Russia",
-        "domain": "timesofisrael.com",
-        "category": "worldnews",
-        "link": "https://www.timesofisrael.com/israeli-said-preparing-for-potential-mass-immigration-from-ukraine-in-case-of-war/",
-        "timestamp": 1643011590,
-        "sentiment": -3,
-        "published": "January 24, 2022 8:06 AM"
-    },
-    {
         "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
         "domain": "theguardian.com",
         "category": "television",
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
         "timestamp": 1643015747,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 9:15 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-business-vladimir-putin-europe-antony-blinken-1c3eee4895926233aa85ad52ef09d102",
         "timestamp": 1643018647,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 10:04 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/politics-news/florida-school-district-cancels-professors-civil-rights-lecture-critic-rcna13183",
         "timestamp": 1643024137,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 11:35 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "politics",
         "link": "https://www.inquirer.com/opinion/commentary/donald-trump-criminal-investigations-closing-in-20220123.html",
         "timestamp": 1643025546,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 11:59 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/24/newt-gingrich-capitol-attack-committee-jail",
         "timestamp": 1643028435,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 12:47 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-60113271",
         "timestamp": 1643028600,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 12:50 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/world/us/pro-trump-death-threats-prompt-bills-3-states-protect-election-workers-2022-01-24/",
         "timestamp": 1643028971,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 12:56 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/cheney-fires-back-gingrich-jan-6-commission-jailing-claim-2022-1",
         "timestamp": 1643029142,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 12:59 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/ex-pope-benedict-xvi-admits-false-statement-during-abuse-probe-testimony/a-60535297",
         "timestamp": 1643029786,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 1:09 PM"
     },
     {
@@ -207,6 +180,15 @@
         "published": "January 24, 2022 1:43 PM"
     },
     {
+        "title": "Arizona Republicans propose major changes to elections after GOP review finds no fraud",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/elections/arizona-republicans-propose-major-changes-elections-after-gop-review-finds-n1287879?dc_data=2260837_samsung-carnival-us&utm_source=taboola&utm_medium=taboola_news&ui=3acbedac-5a88-419d-9385-e0b8d058160d-tuct8e6d1a5",
+        "timestamp": 1643031913,
+        "sentiment": -5,
+        "published": "January 24, 2022 1:45 PM"
+    },
+    {
         "title": "Peloton takes another PR hit after 'Billions' character suffers a heart attack while using its bike",
         "domain": "businessinsider.com",
         "category": "television",
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/165118/clarence-thomas-impeachment-case-democrats",
         "timestamp": 1643032952,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 2:02 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html",
         "timestamp": 1643033021,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 2:03 PM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/amp/germany-lone-gunman-dead-after-shooting-several-people-at-university-in-heidelberg-12524362",
         "timestamp": 1643035118,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 2:38 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/house-members-ask-leadership-swiftly-bring-stock-trading-ban-pelosi-2022-1",
         "timestamp": 1643037309,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 3:15 PM"
     },
     {
@@ -288,13 +270,58 @@
         "published": "January 24, 2022 3:55 PM"
     },
     {
+        "title": "Russia’s Central Bank Steps In to Halt Ruble Slide as Markets in Freefall",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/01/24/russias-central-bank-steps-in-to-halt-trade-as-russian-markets-in-freefall-a76130",
+        "timestamp": 1643040406,
+        "sentiment": -5,
+        "published": "January 24, 2022 4:06 PM"
+    },
+    {
+        "title": "A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2022/01/13/1072929277/a-wisconsin-judge-rules-absentee-ballot-drop-boxes-are-not-allowed-under-state-l",
+        "timestamp": 1643041530,
+        "sentiment": -2,
+        "published": "January 24, 2022 4:25 PM"
+    },
+    {
         "title": "Biden administration identifying troops for possible deployment to Eastern Europe amid Russia tensions",
         "domain": "edition.cnn.com",
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/24/politics/biden-troops-europe/index.html",
         "timestamp": 1643044059,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 24, 2022 5:07 PM"
+    },
+    {
+        "title": "Liz Cheney Issues Warning After Newt Gingrich Says 1/6 Committee Members May Face Jail",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
+        "timestamp": 1642985656,
+        "sentiment": -3,
+        "published": "January 24, 2022 12:54 AM"
+    },
+    {
+        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
+        "timestamp": 1642994832,
+        "sentiment": -2,
+        "published": "January 24, 2022 3:27 AM"
+    },
+    {
+        "title": "Israel said preparing for potential need to evacuate Ukrainian Jews in case of war with Russia",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/israeli-said-preparing-for-potential-mass-immigration-from-ukraine-in-case-of-war/",
+        "timestamp": 1643011590,
+        "sentiment": -3,
+        "published": "January 24, 2022 8:06 AM"
     },
     {
         "title": "29-year-old Dutch tourist detained for Nazi salute at Auschwitz | World News",
