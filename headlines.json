@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/23/eight-year-old-girl-shot-dead-chicago-melissa-ortega",
         "timestamp": 1642983592,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 24, 2022 12:19 AM"
     },
     {
@@ -14,8 +14,98 @@
         "category": "news",
         "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
         "timestamp": 1642983948,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 24, 2022 12:25 AM"
+    },
+    {
+        "title": "Biden Considers Sending Thousands of Troops, Including Warships and Aircraft, to Eastern Europe and Baltics Amid Fears of Russian Attack on Ukraine",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
+        "timestamp": 1642984710,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:38 AM"
+    },
+    {
+        "title": "Liz Cheney Issues Warning After Newt Gingrich Says 1/6 Committee Members May Face Jail",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
+        "timestamp": 1642985656,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:54 AM"
+    },
+    {
+        "title": "Start the Steal: New MAGA Emails Reveal Plot to Hand Arizona to Trump",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
+        "timestamp": 1642986611,
+        "sentiment": 0,
+        "published": "January 24, 2022 1:10 AM"
+    },
+    {
+        "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
+        "domain": "dw.com",
+        "category": "news",
+        "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
+        "timestamp": 1642991542,
+        "sentiment": -1,
+        "published": "January 24, 2022 2:32 AM"
+    },
+    {
+        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
+        "timestamp": 1642994832,
+        "sentiment": -1,
+        "published": "January 24, 2022 3:27 AM"
+    },
+    {
+        "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
+        "timestamp": 1642998511,
+        "sentiment": 3,
+        "published": "January 24, 2022 4:28 AM"
+    },
+    {
+        "title": "Donald Trump's niece said it's hypocritical for him to complain about the Jan. 6 commission investigating his kids after his attacks on Hunter Biden",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-hypocritical-jan-6-panel-going-after-kids-mary-trump-2022-1",
+        "timestamp": 1643001974,
+        "sentiment": 0,
+        "published": "January 24, 2022 5:26 AM"
+    },
+    {
+        "title": "U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis",
+        "timestamp": 1643003019,
+        "sentiment": 0,
+        "published": "January 24, 2022 5:43 AM"
+    },
+    {
+        "title": "A 75-year-old French adventurer has died attempting solo row across the Atlantic Ocean",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/world/a-75-year-old-french-adventurer-has-died-attempting-solo-row-across-the-atlantic-ocean-1.5751337",
+        "timestamp": 1643004737,
+        "sentiment": -1,
+        "published": "January 24, 2022 6:12 AM"
+    },
+    {
+        "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/stan-lee-superhero-kindergarten-arnold-schwarzenegger-1235079834/",
+        "timestamp": 1643010967,
+        "sentiment": 3,
+        "published": "January 24, 2022 7:56 AM"
     },
     {
         "title": "Democrats have had enough of Sen. Kyrsten Sinema’s obstruction",
@@ -25,78 +115,6 @@
         "timestamp": 1642984658,
         "sentiment": -2,
         "published": "January 24, 2022 12:37 AM"
-    },
-    {
-        "title": "Biden Considers Sending Thousands of Troops, Including Warships and Aircraft, to Eastern Europe and Baltics Amid Fears of Russian Attack on Ukraine",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
-        "timestamp": 1642984710,
-        "sentiment": -2,
-        "published": "January 24, 2022 12:38 AM"
-    },
-    {
-        "title": "Liz Cheney Issues Warning After Newt Gingrich Says 1/6 Committee Members May Face Jail",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
-        "timestamp": 1642985656,
-        "sentiment": -2,
-        "published": "January 24, 2022 12:54 AM"
-    },
-    {
-        "title": "Start the Steal: New MAGA Emails Reveal Plot to Hand Arizona to Trump",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
-        "timestamp": 1642986611,
-        "sentiment": -2,
-        "published": "January 24, 2022 1:10 AM"
-    },
-    {
-        "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
-        "domain": "dw.com",
-        "category": "news",
-        "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
-        "timestamp": 1642991542,
-        "sentiment": -3,
-        "published": "January 24, 2022 2:32 AM"
-    },
-    {
-        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
-        "timestamp": 1642994832,
-        "sentiment": -3,
-        "published": "January 24, 2022 3:27 AM"
-    },
-    {
-        "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
-        "timestamp": 1642998511,
-        "sentiment": -1,
-        "published": "January 24, 2022 4:28 AM"
-    },
-    {
-        "title": "U.S. weighs sending 5,000 troops to Eastern Europe to counter Russia : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis",
-        "timestamp": 1643003019,
-        "sentiment": -2,
-        "published": "January 24, 2022 5:43 AM"
-    },
-    {
-        "title": "A 75-year-old French adventurer has died attempting solo row across the Atlantic Ocean",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/world/a-75-year-old-french-adventurer-has-died-attempting-solo-row-across-the-atlantic-ocean-1.5751337",
-        "timestamp": 1643004737,
-        "sentiment": -3,
-        "published": "January 24, 2022 6:12 AM"
     },
     {
         "title": "University finds novel 1984 ‘offensive and upsetting’¶ The University of Northampton has issued a harsh warning over potentially “offensive and upsetting” material contained in the famous dystopia by George Orwell, ‘1984.’",
