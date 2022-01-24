@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
         "timestamp": 1642983948,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
         "timestamp": 1642984710,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 24, 2022 12:38 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
         "timestamp": 1642985656,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 24, 2022 12:54 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
         "timestamp": 1642986611,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 24, 2022 1:10 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
         "timestamp": 1642991542,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 2:32 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
         "timestamp": 1642994832,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 3:27 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
         "timestamp": 1642998511,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 24, 2022 4:28 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-hypocritical-jan-6-panel-going-after-kids-mary-trump-2022-1",
         "timestamp": 1643001974,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 24, 2022 5:26 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis",
         "timestamp": 1643003019,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 24, 2022 5:43 AM"
     },
     {
@@ -86,8 +86,188 @@
         "category": "news",
         "link": "https://www.yourbasin.com/news/people-will-be-murdered-boy-who-wrote-governor-about-gun-law-killed-in-shooting/",
         "timestamp": 1643004523,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 24, 2022 6:08 AM"
+    },
+    {
+        "title": "Martina Navratilova says Tennis Australia is ‘capitulating’ to China over decision to stop fans wearing “where Peng Shuai?” t-shirts.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jan/24/martina-navratilova-says-tennis-australia-is-capitulating-to-china-over-peng-shuai",
+        "timestamp": 1643009501,
+        "sentiment": -3,
+        "published": "January 24, 2022 7:31 AM"
+    },
+    {
+        "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/stan-lee-superhero-kindergarten-arnold-schwarzenegger-1235079834/",
+        "timestamp": 1643010967,
+        "sentiment": 3,
+        "published": "January 24, 2022 7:56 AM"
+    },
+    {
+        "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/media/2022/jan/24/netflix-could-lose-750000-uk-subscribers-as-disney-takes-control-of-hit-shows",
+        "timestamp": 1643014490,
+        "sentiment": 3,
+        "published": "January 24, 2022 8:54 AM"
+    },
+    {
+        "title": "EU ready to impose \"never-seen-before\" sanctions if Russia attacks Ukraine, Denmark says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
+        "timestamp": 1643015747,
+        "sentiment": -3,
+        "published": "January 24, 2022 9:15 AM"
+    },
+    {
+        "title": "Pope Benedict XVI admits being at meeting about abuser priest when he ran Munich archdiocese",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/24/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
+        "timestamp": 1643020808,
+        "sentiment": -2,
+        "published": "January 24, 2022 10:40 AM"
+    },
+    {
+        "title": "Catholic Church suggests altar boy, 12, drew 'pleasure' from priest's abuse.",
+        "domain": "metroweekly.com",
+        "category": "worldnews",
+        "link": "https://www.metroweekly.com/2022/01/catholic-church-tried-to-argue-that-altar-boy-derived-pleasure-from-priests-abuse/",
+        "timestamp": 1643022925,
+        "sentiment": -3,
+        "published": "January 24, 2022 11:15 AM"
+    },
+    {
+        "title": "‘I stayed at the party too long’: Ozark’s Jason Bateman on Arrested Development, smiling villains and his lost decade",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/i-stayed-at-the-party-too-long-ozark-jason-bateman-on-arrested-development-smiling-villains-and-his-lost-decade",
+        "timestamp": 1643023261,
+        "sentiment": 3,
+        "published": "January 24, 2022 11:21 AM"
+    },
+    {
+        "title": "Two-thirds of anti-vax propaganda online created by just 12 influencers, research finds",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/two-thirds-of-anti-vax-propaganda-online-created-by-just-12-influencers-research-finds-12521910",
+        "timestamp": 1643023402,
+        "sentiment": -3,
+        "published": "January 24, 2022 11:23 AM"
+    },
+    {
+        "title": "Surgeon faces legal action for trying to sell Bataclan victim X-ray as NFT",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/24/surgeon-faces-legal-action-for-trying-to-sell-bataclan-victim-x-ray-as-nft",
+        "timestamp": 1643023419,
+        "sentiment": -2,
+        "published": "January 24, 2022 11:23 AM"
+    },
+    {
+        "title": "Florida school district cancels professor’s civil rights lecture over critical race theory concerns",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/florida-school-district-cancels-professors-civil-rights-lecture-critic-rcna13183",
+        "timestamp": 1643024137,
+        "sentiment": 0,
+        "published": "January 24, 2022 11:35 AM"
+    },
+    {
+        "title": "The question is no longer Donald Trump’s criminality but whether America will care",
+        "domain": "inquirer.com",
+        "category": "politics",
+        "link": "https://www.inquirer.com/opinion/commentary/donald-trump-criminal-investigations-closing-in-20220123.html",
+        "timestamp": 1643025546,
+        "sentiment": 0,
+        "published": "January 24, 2022 11:59 AM"
+    },
+    {
+        "title": "US conservatives linked to rich donors wage campaign to ban books from schools | US news",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/24/us-conservatives-campaign-books-ban-schools",
+        "timestamp": 1643027909,
+        "sentiment": -2,
+        "published": "January 24, 2022 12:38 PM"
+    },
+    {
+        "title": "Outrage as Newt Gingrich says Capitol attack investigators could be jailed",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/24/newt-gingrich-capitol-attack-committee-jail",
+        "timestamp": 1643028435,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:47 PM"
+    },
+    {
+        "title": "Ukraine: Boris Johnson warns Russian invasion would be 'disastrous'",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-60113271",
+        "timestamp": 1643028600,
+        "sentiment": -3,
+        "published": "January 24, 2022 12:50 PM"
+    },
+    {
+        "title": "Pro-Trump Death Threats Prompt Bills in 3 States to Protect Election Workers",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/pro-trump-death-threats-prompt-bills-3-states-protect-election-workers-2022-01-24/",
+        "timestamp": 1643028971,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:56 PM"
+    },
+    {
+        "title": "'What it looks like when the rule of law unravels:' Liz Cheney fired back at Newt Gingrich for suggesting jailing members of the Jan 6 panel",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/cheney-fires-back-gingrich-jan-6-commission-jailing-claim-2022-1",
+        "timestamp": 1643029142,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:59 PM"
+    },
+    {
+        "title": "Ex-Pope Benedict XVI admits false statement during abuse probe testimony - Pope Emeritus Benedict XVI has admitted providing false testimony during an investigation into sexual abuse in Germany's Catholic Church.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/ex-pope-benedict-xvi-admits-false-statement-during-abuse-probe-testimony/a-60535297",
+        "timestamp": 1643029786,
+        "sentiment": -3,
+        "published": "January 24, 2022 1:09 PM"
+    },
+    {
+        "title": "Bitcoin value tumbles almost 50% since record November",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/01/22/investing/bitcoin-ethereum-cryptocurrency-price-record-high/index.html",
+        "timestamp": 1643030956,
+        "sentiment": -2,
+        "published": "January 24, 2022 1:29 PM"
+    },
+    {
+        "title": "Peloton takes another PR hit after 'Billions' character suffers a heart attack while using its bike",
+        "domain": "businessinsider.com",
+        "category": "television",
+        "link": "https://www.businessinsider.com/peloton-takes-pr-hit-billions-character-suffers-heart-on-bike-2022-1",
+        "timestamp": 1643032433,
+        "sentiment": 3,
+        "published": "January 24, 2022 1:53 PM"
+    },
+    {
+        "title": "The Case for Impeaching Clarence Thomas",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165118/clarence-thomas-impeachment-case-democrats",
+        "timestamp": 1643032952,
+        "sentiment": 0,
+        "published": "January 24, 2022 2:02 PM"
     },
     {
         "title": "A 75-year-old French adventurer has died attempting solo row across the Atlantic Ocean",
@@ -99,42 +279,6 @@
         "published": "January 24, 2022 6:12 AM"
     },
     {
-        "title": "Martina Navratilova says Tennis Australia is ‘capitulating’ to China over decision to stop fans wearing “where Peng Shuai?” t-shirts.",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/sport/2022/jan/24/martina-navratilova-says-tennis-australia-is-capitulating-to-china-over-peng-shuai",
-        "timestamp": 1643009501,
-        "sentiment": 0,
-        "published": "January 24, 2022 7:31 AM"
-    },
-    {
-        "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/stan-lee-superhero-kindergarten-arnold-schwarzenegger-1235079834/",
-        "timestamp": 1643010967,
-        "sentiment": 0,
-        "published": "January 24, 2022 7:56 AM"
-    },
-    {
-        "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/media/2022/jan/24/netflix-could-lose-750000-uk-subscribers-as-disney-takes-control-of-hit-shows",
-        "timestamp": 1643014490,
-        "sentiment": 0,
-        "published": "January 24, 2022 8:54 AM"
-    },
-    {
-        "title": "EU ready to impose \"never-seen-before\" sanctions if Russia attacks Ukraine, Denmark says",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
-        "timestamp": 1643015747,
-        "sentiment": 0,
-        "published": "January 24, 2022 9:15 AM"
-    },
-    {
         "title": "EU trumpets unity as Ireland rejects Russian war games",
         "domain": "apnews.com",
         "category": "worldnews",
@@ -144,15 +288,6 @@
         "published": "January 24, 2022 10:04 AM"
     },
     {
-        "title": "Pope Benedict XVI admits being at meeting about abuser priest when he ran Munich archdiocese",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/24/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
-        "timestamp": 1643020808,
-        "sentiment": 0,
-        "published": "January 24, 2022 10:40 AM"
-    },
-    {
         "title": "Record 88% of Japanese 'feel friendly' toward U.S.: survey",
         "domain": "japantoday.com",
         "category": "worldnews",
@@ -160,78 +295,6 @@
         "timestamp": 1643022479,
         "sentiment": 0,
         "published": "January 24, 2022 11:07 AM"
-    },
-    {
-        "title": "Catholic Church suggests altar boy, 12, drew 'pleasure' from priest's abuse.",
-        "domain": "metroweekly.com",
-        "category": "worldnews",
-        "link": "https://www.metroweekly.com/2022/01/catholic-church-tried-to-argue-that-altar-boy-derived-pleasure-from-priests-abuse/",
-        "timestamp": 1643022925,
-        "sentiment": 0,
-        "published": "January 24, 2022 11:15 AM"
-    },
-    {
-        "title": "‘I stayed at the party too long’: Ozark’s Jason Bateman on Arrested Development, smiling villains and his lost decade",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/i-stayed-at-the-party-too-long-ozark-jason-bateman-on-arrested-development-smiling-villains-and-his-lost-decade",
-        "timestamp": 1643023261,
-        "sentiment": 0,
-        "published": "January 24, 2022 11:21 AM"
-    },
-    {
-        "title": "Two-thirds of anti-vax propaganda online created by just 12 influencers, research finds",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/two-thirds-of-anti-vax-propaganda-online-created-by-just-12-influencers-research-finds-12521910",
-        "timestamp": 1643023402,
-        "sentiment": 0,
-        "published": "January 24, 2022 11:23 AM"
-    },
-    {
-        "title": "Florida school district cancels professor’s civil rights lecture over critical race theory concerns",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/politics-news/florida-school-district-cancels-professors-civil-rights-lecture-critic-rcna13183",
-        "timestamp": 1643024137,
-        "sentiment": -6,
-        "published": "January 24, 2022 11:35 AM"
-    },
-    {
-        "title": "The question is no longer Donald Trump’s criminality but whether America will care",
-        "domain": "inquirer.com",
-        "category": "politics",
-        "link": "https://www.inquirer.com/opinion/commentary/donald-trump-criminal-investigations-closing-in-20220123.html",
-        "timestamp": 1643025546,
-        "sentiment": -6,
-        "published": "January 24, 2022 11:59 AM"
-    },
-    {
-        "title": "US conservatives linked to rich donors wage campaign to ban books from schools | US news",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jan/24/us-conservatives-campaign-books-ban-schools",
-        "timestamp": 1643027909,
-        "sentiment": 0,
-        "published": "January 24, 2022 12:38 PM"
-    },
-    {
-        "title": "Outrage as Newt Gingrich says Capitol attack investigators could be jailed",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/24/newt-gingrich-capitol-attack-committee-jail",
-        "timestamp": 1643028435,
-        "sentiment": -6,
-        "published": "January 24, 2022 12:47 PM"
-    },
-    {
-        "title": "Pro-Trump Death Threats Prompt Bills in 3 States to Protect Election Workers",
-        "domain": "reuters.com",
-        "category": "politics",
-        "link": "https://www.reuters.com/world/us/pro-trump-death-threats-prompt-bills-3-states-protect-election-workers-2022-01-24/",
-        "timestamp": 1643028971,
-        "sentiment": -6,
-        "published": "January 24, 2022 12:56 PM"
     },
     {
         "title": "Spurs' Gregg Popovich rips Republicans, as well as Joe Manchin, Kyrsten Sinema, for blocking voting rights bill",
