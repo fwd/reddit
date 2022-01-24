@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/23/eight-year-old-girl-shot-dead-chicago-melissa-ortega",
         "timestamp": 1642983592,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 24, 2022 12:19 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "news",
         "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
         "timestamp": 1642983948,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 24, 2022 12:25 AM"
+    },
+    {
+        "title": "Democrats have had enough of Sen. Kyrsten Sinema’s obstruction",
+        "domain": "vox.com",
+        "category": "politics",
+        "link": "https://www.vox.com/2022/1/23/22897566/kyrsten-sinema-voting-rights-filibuster-backlash-censure",
+        "timestamp": 1642984658,
+        "sentiment": -2,
+        "published": "January 24, 2022 12:37 AM"
     },
     {
         "title": "Biden Considers Sending Thousands of Troops, Including Warships and Aircraft, to Eastern Europe and Baltics Amid Fears of Russian Attack on Ukraine",
@@ -32,7 +41,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
         "timestamp": 1642985656,
-        "sentiment": -10,
+        "sentiment": -2,
         "published": "January 24, 2022 12:54 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
         "timestamp": 1642986611,
-        "sentiment": -10,
+        "sentiment": -2,
         "published": "January 24, 2022 1:10 AM"
     },
     {
@@ -50,8 +59,26 @@
         "category": "news",
         "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
         "timestamp": 1642991542,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "January 24, 2022 2:32 AM"
+    },
+    {
+        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
+        "timestamp": 1642994832,
+        "sentiment": -6,
+        "published": "January 24, 2022 3:27 AM"
+    },
+    {
+        "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
+        "timestamp": 1642998511,
+        "sentiment": 3,
+        "published": "January 24, 2022 4:28 AM"
     },
     {
         "title": "Biden weighs sending thousands of troops to counter Russia",
@@ -61,24 +88,6 @@
         "timestamp": 1642992959,
         "sentiment": -2,
         "published": "January 24, 2022 2:55 AM"
-    },
-    {
-        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
-        "timestamp": 1642994832,
-        "sentiment": -3,
-        "published": "January 24, 2022 3:27 AM"
-    },
-    {
-        "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
-        "timestamp": 1642998511,
-        "sentiment": 0,
-        "published": "January 24, 2022 4:28 AM"
     },
     {
         "title": "Auschwitz: Dutch tourist fined over Nazi salute at former death camp",
