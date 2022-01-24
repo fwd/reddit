@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://kstp.com/minnesota-news/covid-19-patient-scott-quiner-death-mercy-hospital-transfer/6367370/",
         "timestamp": 1642983948,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 24, 2022 12:25 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
         "timestamp": 1642985656,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "January 24, 2022 12:54 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
         "timestamp": 1642986611,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "January 24, 2022 1:10 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.dw.com/en/taiwan-detects-39-chinese-warplanes-scrambles-jets/a-60530852",
         "timestamp": 1642991542,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 24, 2022 2:32 AM"
     },
     {
@@ -50,26 +50,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
         "timestamp": 1642994832,
-        "sentiment": -1,
-        "published": "January 24, 2022 3:27 AM"
-    },
-    {
-        "title": "Spurs' Gregg Popovich rips Republicans, as well as Joe Manchin, Kyrsten Sinema, for blocking voting rights bill",
-        "domain": "usatoday.com",
-        "category": "politics",
-        "link": "https://www.usatoday.com/story/sports/nba/2022/01/23/gregg-popovich-spurs-rips-joe-manchin-kyrsten-sinema-voting-rights/6632516001/",
-        "timestamp": 1642996160,
-        "sentiment": -1,
-        "published": "January 24, 2022 3:49 AM"
-    },
-    {
-        "title": "29-year-old Dutch tourist detained for Nazi salute at Auschwitz | World News",
-        "domain": "hindustantimes.com",
-        "category": "worldnews",
-        "link": "https://www.hindustantimes.com/world-news/29yearold-dutch-tourist-detained-for-nazi-salute-at-auschwitz-101642981290064.html",
-        "timestamp": 1642996940,
         "sentiment": 0,
-        "published": "January 24, 2022 4:02 AM"
+        "published": "January 24, 2022 3:27 AM"
     },
     {
         "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
@@ -86,7 +68,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-hypocritical-jan-6-panel-going-after-kids-mary-trump-2022-1",
         "timestamp": 1643001974,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "January 24, 2022 5:26 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "news",
         "link": "https://www.yourbasin.com/news/people-will-be-murdered-boy-who-wrote-governor-about-gun-law-killed-in-shooting/",
         "timestamp": 1643004523,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 24, 2022 6:08 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/world/a-75-year-old-french-adventurer-has-died-attempting-solo-row-across-the-atlantic-ocean-1.5751337",
         "timestamp": 1643004737,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 24, 2022 6:12 AM"
     },
     {
@@ -153,13 +135,31 @@
         "published": "January 24, 2022 9:15 AM"
     },
     {
+        "title": "EU trumpets unity as Ireland rejects Russian war games",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-business-vladimir-putin-europe-antony-blinken-1c3eee4895926233aa85ad52ef09d102",
+        "timestamp": 1643018647,
+        "sentiment": 0,
+        "published": "January 24, 2022 10:04 AM"
+    },
+    {
         "title": "Pope Benedict XVI admits being at meeting about abuser priest when he ran Munich archdiocese",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/01/24/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
         "timestamp": 1643020808,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 24, 2022 10:40 AM"
+    },
+    {
+        "title": "Record 88% of Japanese 'feel friendly' toward U.S.: survey",
+        "domain": "japantoday.com",
+        "category": "worldnews",
+        "link": "https://japantoday.com/category/national/record-88-of-japanese-feel-friendly-toward-u.s.-survey",
+        "timestamp": 1643022479,
+        "sentiment": 0,
+        "published": "January 24, 2022 11:07 AM"
     },
     {
         "title": "Catholic Church suggests altar boy, 12, drew 'pleasure' from priest's abuse.",
@@ -189,13 +189,67 @@
         "published": "January 24, 2022 11:23 AM"
     },
     {
+        "title": "Florida school district cancels professor’s civil rights lecture over critical race theory concerns",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/florida-school-district-cancels-professors-civil-rights-lecture-critic-rcna13183",
+        "timestamp": 1643024137,
+        "sentiment": -6,
+        "published": "January 24, 2022 11:35 AM"
+    },
+    {
         "title": "The question is no longer Donald Trump’s criminality but whether America will care",
         "domain": "inquirer.com",
         "category": "politics",
         "link": "https://www.inquirer.com/opinion/commentary/donald-trump-criminal-investigations-closing-in-20220123.html",
         "timestamp": 1643025546,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "January 24, 2022 11:59 AM"
+    },
+    {
+        "title": "US conservatives linked to rich donors wage campaign to ban books from schools | US news",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/24/us-conservatives-campaign-books-ban-schools",
+        "timestamp": 1643027909,
+        "sentiment": 0,
+        "published": "January 24, 2022 12:38 PM"
+    },
+    {
+        "title": "Outrage as Newt Gingrich says Capitol attack investigators could be jailed",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/24/newt-gingrich-capitol-attack-committee-jail",
+        "timestamp": 1643028435,
+        "sentiment": -6,
+        "published": "January 24, 2022 12:47 PM"
+    },
+    {
+        "title": "Pro-Trump Death Threats Prompt Bills in 3 States to Protect Election Workers",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/pro-trump-death-threats-prompt-bills-3-states-protect-election-workers-2022-01-24/",
+        "timestamp": 1643028971,
+        "sentiment": -6,
+        "published": "January 24, 2022 12:56 PM"
+    },
+    {
+        "title": "Spurs' Gregg Popovich rips Republicans, as well as Joe Manchin, Kyrsten Sinema, for blocking voting rights bill",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/sports/nba/2022/01/23/gregg-popovich-spurs-rips-joe-manchin-kyrsten-sinema-voting-rights/6632516001/",
+        "timestamp": 1642996160,
+        "sentiment": -1,
+        "published": "January 24, 2022 3:49 AM"
+    },
+    {
+        "title": "29-year-old Dutch tourist detained for Nazi salute at Auschwitz | World News",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/29yearold-dutch-tourist-detained-for-nazi-salute-at-auschwitz-101642981290064.html",
+        "timestamp": 1642996940,
+        "sentiment": 0,
+        "published": "January 24, 2022 4:02 AM"
     },
     {
         "title": "Eight-year-old girl shot dead by Chicago gunman targeting someone else | Chicago",
