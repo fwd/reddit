@@ -9,15 +9,6 @@
         "published": "January 24, 2022 12:25 AM"
     },
     {
-        "title": "Biden Considers Sending Thousands of Troops, Including Warships and Aircraft, to Eastern Europe and Baltics Amid Fears of Russian Attack on Ukraine",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
-        "timestamp": 1642984710,
-        "sentiment": -3,
-        "published": "January 24, 2022 12:38 AM"
-    },
-    {
         "title": "Taiwan detects 39 Chinese warplanes, scrambles jets",
         "domain": "dw.com",
         "category": "news",
@@ -25,15 +16,6 @@
         "timestamp": 1642991542,
         "sentiment": 0,
         "published": "January 24, 2022 2:32 AM"
-    },
-    {
-        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
-        "timestamp": 1642994832,
-        "sentiment": 0,
-        "published": "January 24, 2022 3:27 AM"
     },
     {
         "title": "‘People will be murdered’: Boy who wrote governor about gun law killed in shooting",
@@ -45,21 +27,12 @@
         "published": "January 24, 2022 6:08 AM"
     },
     {
-        "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/stan-lee-superhero-kindergarten-arnold-schwarzenegger-1235079834/",
-        "timestamp": 1643010967,
-        "sentiment": 2,
-        "published": "January 24, 2022 7:56 AM"
-    },
-    {
         "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
         "domain": "theguardian.com",
         "category": "television",
         "link": "https://www.theguardian.com/media/2022/jan/24/netflix-could-lose-750000-uk-subscribers-as-disney-takes-control-of-hit-shows",
         "timestamp": 1643014490,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 24, 2022 8:54 AM"
     },
     {
@@ -68,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
         "timestamp": 1643015747,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 9:15 AM"
-    },
-    {
-        "title": "EU trumpets unity as Ireland rejects Russian war games",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-business-vladimir-putin-europe-antony-blinken-1c3eee4895926233aa85ad52ef09d102",
-        "timestamp": 1643018647,
-        "sentiment": -3,
-        "published": "January 24, 2022 10:04 AM"
     },
     {
         "title": "‘I stayed at the party too long’: Ozark’s Jason Bateman on Arrested Development, smiling villains and his lost decade",
@@ -86,7 +50,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/i-stayed-at-the-party-too-long-ozark-jason-bateman-on-arrested-development-smiling-villains-and-his-lost-decade",
         "timestamp": 1643023261,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 24, 2022 11:21 AM"
     },
     {
@@ -131,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-60113271",
         "timestamp": 1643028600,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 12:50 PM"
     },
     {
@@ -158,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/ex-pope-benedict-xvi-admits-false-statement-during-abuse-probe-testimony/a-60535297",
         "timestamp": 1643029786,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 1:09 PM"
     },
     {
@@ -169,6 +133,15 @@
         "timestamp": 1643030956,
         "sentiment": 0,
         "published": "January 24, 2022 1:29 PM"
+    },
+    {
+        "title": "'Unbreakable Kimmy Schmidt' composer talks creating the show's earworm (and empowering) theme song",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/unbreakable-kimmy-schmidt-theme-song-jeff-richmond/?",
+        "timestamp": 1643031806,
+        "sentiment": 0,
+        "published": "January 24, 2022 1:43 PM"
     },
     {
         "title": "Arizona Republicans propose major changes to elections after GOP review finds no fraud",
@@ -185,7 +158,7 @@
         "category": "television",
         "link": "https://www.businessinsider.com/peloton-takes-pr-hit-billions-character-suffers-heart-on-bike-2022-1",
         "timestamp": 1643032433,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 24, 2022 1:53 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/amp/germany-lone-gunman-dead-after-shooting-several-people-at-university-in-heidelberg-12524362",
         "timestamp": 1643035118,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 2:38 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "television",
         "link": "https://www.vox.com/culture/22771675/yellowjackets-review-pilot-recap-showtime-crash-cannibals",
         "timestamp": 1643036252,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 24, 2022 2:57 PM"
     },
     {
@@ -266,8 +239,17 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/01/24/russias-central-bank-steps-in-to-halt-trade-as-russian-markets-in-freefall-a76130",
         "timestamp": 1643040406,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 4:06 PM"
+    },
+    {
+        "title": "Ikea is raising prices by 9% in 2022",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2021/12/31/business/ikea-price-increase/index.html",
+        "timestamp": 1643044764,
+        "sentiment": 0,
+        "published": "January 24, 2022 5:19 PM"
     },
     {
         "title": "Israel's public security minister says attacks by Israeli settlers in the occupied West Bank are 'organised terrorism'",
@@ -275,7 +257,7 @@
         "category": "worldnews",
         "link": "https://english.alaraby.co.uk/news/israeli-minister-says-settler-attacks-organised-terrorism",
         "timestamp": 1643046282,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 5:44 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/the-ark-sci-fi-drama-dean-devlin-gets-series-order-at-syfy-1234918525/",
         "timestamp": 1643047286,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 24, 2022 6:01 PM"
     },
     {
@@ -302,8 +284,71 @@
         "category": "worldnews",
         "link": "https://www.ft.com/content/c5e6141d-60c0-4333-ad15-e5fdaf4dde71",
         "timestamp": 1643049708,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 24, 2022 6:41 PM"
+    },
+    {
+        "title": "Ireland tells Russia that naval exercises off our coast 'not welcome'",
+        "domain": "irishexaminer.com",
+        "category": "worldnews",
+        "link": "https://www.irishexaminer.com/news/arid-40791954.html",
+        "timestamp": 1643051020,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:03 PM"
+    },
+    {
+        "title": "“Death Star” response from US would lock Russia out of 5G, advanced chips",
+        "domain": "arstechnica.com",
+        "category": "worldnews",
+        "link": "https://arstechnica.com/tech-policy/2022/01/death-star-response-from-us-would-lock-russia-out-of-5g-advanced-chips/",
+        "timestamp": 1643053695,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:48 PM"
+    },
+    {
+        "title": "Pentagon: 8,500 U.S. troops on high alert for possible deployment to eastern Europe",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/pentagon-ukraine-eastern-europe-russia-troops-e3df265a-b48f-4348-9227-a3102de490d0.html",
+        "timestamp": 1643054077,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:54 PM"
+    },
+    {
+        "title": "Biden Considers Sending Thousands of Troops, Including Warships and Aircraft, to Eastern Europe and Baltics Amid Fears of Russian Attack on Ukraine",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
+        "timestamp": 1642984710,
+        "sentiment": -3,
+        "published": "January 24, 2022 12:38 AM"
+    },
+    {
+        "title": "‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/23/ive-already-sold-my-daughters-now-my-kidney-winter-in-afghanistans-slums",
+        "timestamp": 1642994832,
+        "sentiment": 0,
+        "published": "January 24, 2022 3:27 AM"
+    },
+    {
+        "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/stan-lee-superhero-kindergarten-arnold-schwarzenegger-1235079834/",
+        "timestamp": 1643010967,
+        "sentiment": 2,
+        "published": "January 24, 2022 7:56 AM"
+    },
+    {
+        "title": "EU trumpets unity as Ireland rejects Russian war games",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-business-vladimir-putin-europe-antony-blinken-1c3eee4895926233aa85ad52ef09d102",
+        "timestamp": 1643018647,
+        "sentiment": -3,
+        "published": "January 24, 2022 10:04 AM"
     },
     {
         "title": "Donald Trump's niece said it's hypocritical for him to complain about the Jan. 6 commission investigating his kids after his attacks on Hunter Biden",
@@ -313,15 +358,6 @@
         "timestamp": 1643001974,
         "sentiment": -5,
         "published": "January 24, 2022 5:26 AM"
-    },
-    {
-        "title": "'Unbreakable Kimmy Schmidt' composer talks creating the show's earworm (and empowering) theme song",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/unbreakable-kimmy-schmidt-theme-song-jeff-richmond/?",
-        "timestamp": 1643031806,
-        "sentiment": 0,
-        "published": "January 24, 2022 1:43 PM"
     },
     {
         "title": "A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law",
