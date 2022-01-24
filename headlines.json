@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
         "timestamp": 1642984710,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "January 24, 2022 12:38 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/liz-cheney-issues-warning-after-newt-gingrich-says-1-6-committee-members-may-face-jail-1672013",
         "timestamp": 1642985656,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 12:54 AM"
     },
     {
@@ -45,6 +45,15 @@
         "published": "January 24, 2022 3:27 AM"
     },
     {
+        "title": "29-year-old Dutch tourist detained for Nazi salute at Auschwitz | World News",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/29yearold-dutch-tourist-detained-for-nazi-salute-at-auschwitz-101642981290064.html",
+        "timestamp": 1642996940,
+        "sentiment": 8,
+        "published": "January 24, 2022 4:02 AM"
+    },
+    {
         "title": "In ‘Phoenix Rising,’ Evan Rachel Wood Doesn’t Hold Back on Hollywood, Marilyn Manson or Herself: TV Review",
         "domain": "variety.com",
         "category": "television",
@@ -59,7 +68,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-hypocritical-jan-6-panel-going-after-kids-mary-trump-2022-1",
         "timestamp": 1643001974,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 5:26 AM"
     },
     {
@@ -72,15 +81,6 @@
         "published": "January 24, 2022 6:08 AM"
     },
     {
-        "title": "Martina Navratilova says Tennis Australia is ‘capitulating’ to China over decision to stop fans wearing “where Peng Shuai?” t-shirts.",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/sport/2022/jan/24/martina-navratilova-says-tennis-australia-is-capitulating-to-china-over-peng-shuai",
-        "timestamp": 1643009501,
-        "sentiment": 0,
-        "published": "January 24, 2022 7:31 AM"
-    },
-    {
         "title": "Chinese streaming video platform Youku, the flagship streamer of Jack Ma’s Alibaba Group, has acquired the first season of animated children’s series, Stan Lee’s Superhero Kindergarten, produced by and starring Arnold Schwarzenegger",
         "domain": "hollywoodreporter.com",
         "category": "television",
@@ -88,6 +88,15 @@
         "timestamp": 1643010967,
         "sentiment": 0,
         "published": "January 24, 2022 7:56 AM"
+    },
+    {
+        "title": "Israel said preparing for potential need to evacuate Ukrainian Jews in case of war with Russia",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/israeli-said-preparing-for-potential-mass-immigration-from-ukraine-in-case-of-war/",
+        "timestamp": 1643011590,
+        "sentiment": 8,
+        "published": "January 24, 2022 8:06 AM"
     },
     {
         "title": "Netflix could lose 750,000 UK subscribers as Disney takes control of hit shows",
@@ -104,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/eu-leave-diplomats-families-ukraine-now-borrell-says-2022-01-24/",
         "timestamp": 1643015747,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "January 24, 2022 9:15 AM"
     },
     {
@@ -117,15 +126,6 @@
         "published": "January 24, 2022 10:40 AM"
     },
     {
-        "title": "Record 88% of Japanese 'feel friendly' toward U.S.: survey",
-        "domain": "japantoday.com",
-        "category": "worldnews",
-        "link": "https://japantoday.com/category/national/record-88-of-japanese-feel-friendly-toward-u.s.-survey",
-        "timestamp": 1643022479,
-        "sentiment": 0,
-        "published": "January 24, 2022 11:07 AM"
-    },
-    {
         "title": "‘I stayed at the party too long’: Ozark’s Jason Bateman on Arrested Development, smiling villains and his lost decade",
         "domain": "theguardian.com",
         "category": "television",
@@ -135,22 +135,13 @@
         "published": "January 24, 2022 11:21 AM"
     },
     {
-        "title": "Two-thirds of anti-vax propaganda online created by just 12 influencers, research finds",
-        "domain": "news.sky.com",
+        "title": "Julian Assange wins right to ask Supreme Court to consider case against US extradition",
+        "domain": "bbc.co.uk",
         "category": "worldnews",
-        "link": "https://news.sky.com/story/two-thirds-of-anti-vax-propaganda-online-created-by-just-12-influencers-research-finds-12521910",
-        "timestamp": 1643023402,
-        "sentiment": 0,
-        "published": "January 24, 2022 11:23 AM"
-    },
-    {
-        "title": "Surgeon faces legal action for trying to sell Bataclan victim X-ray as NFT",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jan/24/surgeon-faces-legal-action-for-trying-to-sell-bataclan-victim-x-ray-as-nft",
-        "timestamp": 1643023419,
-        "sentiment": -2,
-        "published": "January 24, 2022 11:23 AM"
+        "link": "https://www.bbc.co.uk/news/uk-60108379",
+        "timestamp": 1643023643,
+        "sentiment": 8,
+        "published": "January 24, 2022 11:27 AM"
     },
     {
         "title": "Florida school district cancels professor’s civil rights lecture over critical race theory concerns",
@@ -158,7 +149,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/politics-news/florida-school-district-cancels-professors-civil-rights-lecture-critic-rcna13183",
         "timestamp": 1643024137,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 11:35 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.inquirer.com/opinion/commentary/donald-trump-criminal-investigations-closing-in-20220123.html",
         "timestamp": 1643025546,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 11:59 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/24/newt-gingrich-capitol-attack-committee-jail",
         "timestamp": 1643028435,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 12:47 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-60113271",
         "timestamp": 1643028600,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "January 24, 2022 12:50 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/world/us/pro-trump-death-threats-prompt-bills-3-states-protect-election-workers-2022-01-24/",
         "timestamp": 1643028971,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 12:56 PM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/cheney-fires-back-gingrich-jan-6-commission-jailing-claim-2022-1",
         "timestamp": 1643029142,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 12:59 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/ex-pope-benedict-xvi-admits-false-statement-during-abuse-probe-testimony/a-60535297",
         "timestamp": 1643029786,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "January 24, 2022 1:09 PM"
     },
     {
@@ -248,8 +239,17 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/165118/clarence-thomas-impeachment-case-democrats",
         "timestamp": 1643032952,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 2:02 PM"
+    },
+    {
+        "title": "Top Jan. 6 Investigator Fired From Post at the University of Virginia",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html",
+        "timestamp": 1643033021,
+        "sentiment": 0,
+        "published": "January 24, 2022 2:03 PM"
     },
     {
         "title": "Germany: Several injured at Heidelberg University after student opens fire in lecture hall; then kills himself.",
@@ -257,7 +257,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/amp/germany-lone-gunman-dead-after-shooting-several-people-at-university-in-heidelberg-12524362",
         "timestamp": 1643035118,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "January 24, 2022 2:38 PM"
     },
     {
@@ -270,13 +270,76 @@
         "published": "January 24, 2022 2:57 PM"
     },
     {
+        "title": "Four AGs sue Google for allegedly tracking you without permission",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/24/google-sued-by-4-attorneys-general-over-location-tracking.html",
+        "timestamp": 1643036467,
+        "sentiment": -2,
+        "published": "January 24, 2022 3:01 PM"
+    },
+    {
         "title": "27 House members sign letter asking Nancy Pelosi and Kevin McCarthy to bring stock trading ban to the floor: 'We came to Congress to serve our country, not turn a quick buck'",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/house-members-ask-leadership-swiftly-bring-stock-trading-ban-pelosi-2022-1",
         "timestamp": 1643037309,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 24, 2022 3:15 PM"
+    },
+    {
+        "title": "\"Mega\" iceberg releases 152 billion tons of fresh water into ocean",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/iceberg-a68a-152-billion-tons-fresh-water-ocean/",
+        "timestamp": 1643039003,
+        "sentiment": -2,
+        "published": "January 24, 2022 3:43 PM"
+    },
+    {
+        "title": "'Unvaccinated' Sarah Palin tests positive for Covid right before New York Times defamation trial begins, judge says",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/24/-unvaccinated-sarah-palin-positive-for-covid-before-ny-times-defamation-trial.html",
+        "timestamp": 1643039702,
+        "sentiment": -2,
+        "published": "January 24, 2022 3:55 PM"
+    },
+    {
+        "title": "Martina Navratilova says Tennis Australia is ‘capitulating’ to China over decision to stop fans wearing “where Peng Shuai?” t-shirts.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jan/24/martina-navratilova-says-tennis-australia-is-capitulating-to-china-over-peng-shuai",
+        "timestamp": 1643009501,
+        "sentiment": 0,
+        "published": "January 24, 2022 7:31 AM"
+    },
+    {
+        "title": "Record 88% of Japanese 'feel friendly' toward U.S.: survey",
+        "domain": "japantoday.com",
+        "category": "worldnews",
+        "link": "https://japantoday.com/category/national/record-88-of-japanese-feel-friendly-toward-u.s.-survey",
+        "timestamp": 1643022479,
+        "sentiment": 0,
+        "published": "January 24, 2022 11:07 AM"
+    },
+    {
+        "title": "Two-thirds of anti-vax propaganda online created by just 12 influencers, research finds",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/two-thirds-of-anti-vax-propaganda-online-created-by-just-12-influencers-research-finds-12521910",
+        "timestamp": 1643023402,
+        "sentiment": 0,
+        "published": "January 24, 2022 11:23 AM"
+    },
+    {
+        "title": "Surgeon faces legal action for trying to sell Bataclan victim X-ray as NFT",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/24/surgeon-faces-legal-action-for-trying-to-sell-bataclan-victim-x-ray-as-nft",
+        "timestamp": 1643023419,
+        "sentiment": -2,
+        "published": "January 24, 2022 11:23 AM"
     },
     {
         "title": "Start the Steal: New MAGA Emails Reveal Plot to Hand Arizona to Trump",
@@ -331,15 +394,6 @@
         "timestamp": 1642996160,
         "sentiment": -1,
         "published": "January 24, 2022 3:49 AM"
-    },
-    {
-        "title": "29-year-old Dutch tourist detained for Nazi salute at Auschwitz | World News",
-        "domain": "hindustantimes.com",
-        "category": "worldnews",
-        "link": "https://www.hindustantimes.com/world-news/29yearold-dutch-tourist-detained-for-nazi-salute-at-auschwitz-101642981290064.html",
-        "timestamp": 1642996940,
-        "sentiment": 0,
-        "published": "January 24, 2022 4:02 AM"
     },
     {
         "title": "Eight-year-old girl shot dead by Chicago gunman targeting someone else | Chicago",
