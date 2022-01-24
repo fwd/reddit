@@ -77,8 +77,17 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/reviews/evan-rachel-wood-documentary-phoenix-rising-review-marilyn-manson-1235160333/",
         "timestamp": 1642998511,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "January 24, 2022 4:28 AM"
+    },
+    {
+        "title": "University finds novel 1984 ‘offensive and upsetting’¶ The University of Northampton has issued a harsh warning over potentially “offensive and upsetting” material contained in the famous dystopia by George Orwell, ‘1984.’",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/news/546885-orwell-books-warnings-university/",
+        "timestamp": 1643004259,
+        "sentiment": -2,
+        "published": "January 24, 2022 6:04 AM"
     },
     {
         "title": "Biden weighs sending thousands of troops to counter Russia",
