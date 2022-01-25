@@ -1,20 +1,11 @@
 [
     {
-        "title": "Trumpers took over a small town & the first thing they’re doing is repeal LGBTQ rights",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
-        "timestamp": 1643073100,
-        "sentiment": -1,
-        "published": "January 25, 2022 1:11 AM"
-    },
-    {
         "title": "New COVID variant detected in at least 40 different countries",
         "domain": "cbs12.com",
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/01/24/jeopardy-amy-schneider-second-place-rank-streak/",
         "timestamp": 1643073869,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 25, 2022 1:24 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.billboard.com/business/streaming/neil-young-spotify-joe-rogan-vaccines-letter-remove-music-1235022525/",
         "timestamp": 1643075495,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
         "timestamp": 1643080141,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "January 25, 2022 3:09 AM"
     },
     {
@@ -50,8 +41,251 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 25, 2022 3:40 AM"
+    },
+    {
+        "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
+        "domain": "112.international",
+        "category": "worldnews",
+        "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
+        "timestamp": 1643097445,
+        "sentiment": -3,
+        "published": "January 25, 2022 7:57 AM"
+    },
+    {
+        "title": "Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free",
+        "domain": "pagesix.com",
+        "category": "television",
+        "link": "https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/",
+        "timestamp": 1643107207,
+        "sentiment": 0,
+        "published": "January 25, 2022 10:40 AM"
+    },
+    {
+        "title": "Irish fishermen plan to disrupt Russian military exercise",
+        "domain": "rte.ie",
+        "category": "worldnews",
+        "link": "https://www.rte.ie/news/ireland/2022/0125/1275728-ireland-fishing-russia/",
+        "timestamp": 1643108795,
+        "sentiment": -3,
+        "published": "January 25, 2022 11:06 AM"
+    },
+    {
+        "title": "Prosecutors in multiple states are investigating false Electoral College submissions",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss",
+        "timestamp": 1643109428,
+        "sentiment": 0,
+        "published": "January 25, 2022 11:17 AM"
+    },
+    {
+        "title": "China gives 'Fight Club' new ending where authorities win",
+        "domain": "bangkokpost.com",
+        "category": "news",
+        "link": "https://www.bangkokpost.com/world/2253199/china-gives-fight-club-new-ending-where-authorities-win",
+        "timestamp": 1643110190,
+        "sentiment": -3,
+        "published": "January 25, 2022 11:29 AM"
+    },
+    {
+        "title": "Ukraine urges calm, saying Russian invasion not imminent",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-russia-diplomacy-europe-baltic-sea-44821c52f54b5e927d86ea28420cb2cf",
+        "timestamp": 1643110402,
+        "sentiment": -3,
+        "published": "January 25, 2022 11:33 AM"
+    },
+    {
+        "title": "Trump Supporters Left Death Threats for Election Workers. We Called Back.",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/5dg5p5/trump-supporters-death-threats-election-workers",
+        "timestamp": 1643113181,
+        "sentiment": 0,
+        "published": "January 25, 2022 12:19 PM"
+    },
+    {
+        "title": "California redwood forest returned to native tribal group",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/california-redwood-forest-returned-native-tribal-group-82456609",
+        "timestamp": 1643113223,
+        "sentiment": -3,
+        "published": "January 25, 2022 12:20 PM"
+    },
+    {
+        "title": "Black Texas farmers were finally on track to get federal aid. The state’s agriculture commissioner wants to stop that.",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
+        "timestamp": 1643115103,
+        "sentiment": 0,
+        "published": "January 25, 2022 12:51 PM"
+    },
+    {
+        "title": "Elizabeth Warren says $20,000 in student loan debt 'might as well be $20 million' for people who are working at minimum wage",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
+        "timestamp": 1643115271,
+        "sentiment": 0,
+        "published": "January 25, 2022 12:54 PM"
+    },
+    {
+        "title": "Ukraine crisis latest: Russian advance forces 'already in Ukraine', says UK Armed Forces minister",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/01/25/russia-succeeding-sowing-panic-ukraine-says-top-security-official/",
+        "timestamp": 1643115403,
+        "sentiment": -3,
+        "published": "January 25, 2022 12:56 PM"
+    },
+    {
+        "title": "Ukraine 'dismantles' team of saboteurs 'co-ordinated by Russian special services' who were planning 'a series of armed attacks' aimed at destabilising border regions",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10439345/Ukraine-dismantles-team-saboteurs-ordinated-Russian-special-services.html",
+        "timestamp": 1643116119,
+        "sentiment": -3,
+        "published": "January 25, 2022 1:08 PM"
+    },
+    {
+        "title": "Russia posts video of soldiers, tanks, and missile launchers near Ukraine border as West warns of invasion",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russia-posts-video-drills-missile-launchers-near-ukraine-border-2022-1",
+        "timestamp": 1643116494,
+        "sentiment": -3,
+        "published": "January 25, 2022 1:14 PM"
+    },
+    {
+        "title": "Thailand first in Asia to move to decriminalize marijuana",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/thailand-asia-move-decriminalize-marijuana-82458865",
+        "timestamp": 1643117526,
+        "sentiment": -3,
+        "published": "January 25, 2022 1:32 PM"
+    },
+    {
+        "title": "Court Throws Out Alabama’s New Congressional Map - A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
+        "timestamp": 1643117688,
+        "sentiment": 0,
+        "published": "January 25, 2022 1:34 PM"
+    },
+    {
+        "title": "Hymen repair surgery and virginity testing to be banned in UK",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-politics-59960177",
+        "timestamp": 1643119274,
+        "sentiment": -3,
+        "published": "January 25, 2022 2:01 PM"
+    },
+    {
+        "title": "Boston Hospital refuses heart transplant for man after he refuses to be vaccinated",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/amp/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/",
+        "timestamp": 1643119605,
+        "sentiment": -3,
+        "published": "January 25, 2022 2:06 PM"
+    },
+    {
+        "title": "Croatia To Withdraw Its Forces From NATO In Event Of Russia - Ukraine Conflict - President",
+        "domain": "urdupoint.com",
+        "category": "worldnews",
+        "link": "https://www.urdupoint.com/en/world/croatia-to-withdraw-its-forces-from-nato-in-e-1455572.html",
+        "timestamp": 1643119758,
+        "sentiment": -3,
+        "published": "January 25, 2022 2:09 PM"
+    },
+    {
+        "title": "Russia adds jailed Kremlin critic Navalny to list of ‘terrorists’",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2022/1/25/russia-adds-jailed-kremlin-critic-navalny-to-terrorists-list",
+        "timestamp": 1643121196,
+        "sentiment": -3,
+        "published": "January 25, 2022 2:33 PM"
+    },
+    {
+        "title": "Wisconsin Republicans pass bill allowing some high school students to bring a gun to campus",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/24/wisconsin-pass-bill-allowing-some-high-school-students-to-bring-a-to-campus/",
+        "timestamp": 1643121370,
+        "sentiment": 0,
+        "published": "January 25, 2022 2:36 PM"
+    },
+    {
+        "title": "‘Book of Boba Fett’ Faces a Challenging in Home Stretch - With three episodes left, the Disney+ series is shaping up to be the show fans feared 'The Mandalorian' would become.",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/book-of-boba-fett-star-wars-fans-1235080102",
+        "timestamp": 1643122285,
+        "sentiment": 0,
+        "published": "January 25, 2022 2:51 PM"
+    },
+    {
+        "title": "'And I say, Hey! HEY!' Aardvark Arthur's wonderful new days are ending",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2022/01/25/1075381867/and-i-say-hey-hey-aardvark-arthurs-wonderful-new-days-are-ending",
+        "timestamp": 1643123665,
+        "sentiment": 0,
+        "published": "January 25, 2022 3:14 PM"
+    },
+    {
+        "title": "Tucker Carlson viewers calling me to say US should back Russia, Democrat says - New Jersey congressman says viewers are calling to express distress that Biden is ‘not siding with Russia’ in Ukraine crisis",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/world/2022/jan/25/tucker-carlson-russia-ukraine-democrats",
+        "timestamp": 1643124456,
+        "sentiment": 0,
+        "published": "January 25, 2022 3:27 PM"
+    },
+    {
+        "title": "TV Ratings: Bills-Chiefs Game Is Most-Watched NFL Divisional Playoff in 5 Years With 43 Million Viewers",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/bill-chiefs-nfl-playoff-ratings-cbs-nbc-1235162112/",
+        "timestamp": 1643126102,
+        "sentiment": 0,
+        "published": "January 25, 2022 3:55 PM"
+    },
+    {
+        "title": "They were charged more than $1,000 for an ER visit, even though they never saw a doctor",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/emergency-room-bill-dhaval-bhatt/?ftag=CNM-00-10aac3a",
+        "timestamp": 1643126852,
+        "sentiment": -3,
+        "published": "January 25, 2022 4:07 PM"
+    },
+    {
+        "title": "Alex Jones sat with the Jan. 6 panel and repeatedly pleaded the Fifth. Then he revealed what they asked him on his broadcast.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/minutes/congress/01-25-2022/jones/",
+        "timestamp": 1643126864,
+        "sentiment": 0,
+        "published": "January 25, 2022 4:07 PM"
+    },
+    {
+        "title": "Trumpers took over a small town & the first thing they’re doing is repeal LGBTQ rights",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
+        "timestamp": 1643073100,
+        "sentiment": -1,
+        "published": "January 25, 2022 1:11 AM"
     },
     {
         "title": "Rep. Lieu: You really see how fearful Republicans are now of Jan. 6 committee",
@@ -63,105 +297,6 @@
         "published": "January 25, 2022 4:25 AM"
     },
     {
-        "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
-        "domain": "112.international",
-        "category": "worldnews",
-        "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
-        "timestamp": 1643097445,
-        "sentiment": -2,
-        "published": "January 25, 2022 7:57 AM"
-    },
-    {
-        "title": "Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free",
-        "domain": "pagesix.com",
-        "category": "television",
-        "link": "https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/",
-        "timestamp": 1643107207,
-        "sentiment": -3,
-        "published": "January 25, 2022 10:40 AM"
-    },
-    {
-        "title": "Irish fishermen plan to disrupt Russian military exercise",
-        "domain": "rte.ie",
-        "category": "worldnews",
-        "link": "https://www.rte.ie/news/ireland/2022/0125/1275728-ireland-fishing-russia/",
-        "timestamp": 1643108795,
-        "sentiment": -2,
-        "published": "January 25, 2022 11:06 AM"
-    },
-    {
-        "title": "Prosecutors in multiple states are investigating false Electoral College submissions",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss",
-        "timestamp": 1643109428,
-        "sentiment": -1,
-        "published": "January 25, 2022 11:17 AM"
-    },
-    {
-        "title": "China gives 'Fight Club' new ending where authorities win",
-        "domain": "bangkokpost.com",
-        "category": "news",
-        "link": "https://www.bangkokpost.com/world/2253199/china-gives-fight-club-new-ending-where-authorities-win",
-        "timestamp": 1643110190,
-        "sentiment": 4,
-        "published": "January 25, 2022 11:29 AM"
-    },
-    {
-        "title": "Ukraine urges calm, saying Russian invasion not imminent",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-russia-diplomacy-europe-baltic-sea-44821c52f54b5e927d86ea28420cb2cf",
-        "timestamp": 1643110402,
-        "sentiment": -2,
-        "published": "January 25, 2022 11:33 AM"
-    },
-    {
-        "title": "Trump Supporters Left Death Threats for Election Workers. We Called Back.",
-        "domain": "vice.com",
-        "category": "politics",
-        "link": "https://www.vice.com/en/article/5dg5p5/trump-supporters-death-threats-election-workers",
-        "timestamp": 1643113181,
-        "sentiment": -1,
-        "published": "January 25, 2022 12:19 PM"
-    },
-    {
-        "title": "California redwood forest returned to native tribal group",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/california-redwood-forest-returned-native-tribal-group-82456609",
-        "timestamp": 1643113223,
-        "sentiment": 4,
-        "published": "January 25, 2022 12:20 PM"
-    },
-    {
-        "title": "Black Texas farmers were finally on track to get federal aid. The state’s agriculture commissioner wants to stop that.",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
-        "timestamp": 1643115103,
-        "sentiment": -1,
-        "published": "January 25, 2022 12:51 PM"
-    },
-    {
-        "title": "Elizabeth Warren says $20,000 in student loan debt 'might as well be $20 million' for people who are working at minimum wage",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
-        "timestamp": 1643115271,
-        "sentiment": -1,
-        "published": "January 25, 2022 12:54 PM"
-    },
-    {
-        "title": "Ukraine crisis latest: Russian advance forces 'already in Ukraine', says UK Armed Forces minister",
-        "domain": "telegraph.co.uk",
-        "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/world-news/2022/01/25/russia-succeeding-sowing-panic-ukraine-says-top-security-official/",
-        "timestamp": 1643115403,
-        "sentiment": -2,
-        "published": "January 25, 2022 12:56 PM"
-    },
-    {
         "title": "Ukraine says Russian invasion is not imminent, situation is 'under control'",
         "domain": "thehill.com",
         "category": "worldnews",
@@ -169,69 +304,6 @@
         "timestamp": 1643116403,
         "sentiment": -2,
         "published": "January 25, 2022 1:13 PM"
-    },
-    {
-        "title": "Thailand first in Asia to move to decriminalize marijuana",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/thailand-asia-move-decriminalize-marijuana-82458865",
-        "timestamp": 1643117526,
-        "sentiment": 4,
-        "published": "January 25, 2022 1:32 PM"
-    },
-    {
-        "title": "Court Throws Out Alabama’s New Congressional Map - A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
-        "timestamp": 1643117688,
-        "sentiment": -1,
-        "published": "January 25, 2022 1:34 PM"
-    },
-    {
-        "title": "Hymen repair surgery and virginity testing to be banned in UK",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/uk-politics-59960177",
-        "timestamp": 1643119274,
-        "sentiment": 4,
-        "published": "January 25, 2022 2:01 PM"
-    },
-    {
-        "title": "Boston Hospital refuses heart transplant for man after he refuses to be vaccinated",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/amp/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/",
-        "timestamp": 1643119605,
-        "sentiment": 4,
-        "published": "January 25, 2022 2:06 PM"
-    },
-    {
-        "title": "Wisconsin Republicans pass bill allowing some high school students to bring a gun to campus",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/01/24/wisconsin-pass-bill-allowing-some-high-school-students-to-bring-a-to-campus/",
-        "timestamp": 1643121370,
-        "sentiment": -1,
-        "published": "January 25, 2022 2:36 PM"
-    },
-    {
-        "title": "‘Book of Boba Fett’ Faces a Challenging in Home Stretch - With three episodes left, the Disney+ series is shaping up to be the show fans feared 'The Mandalorian' would become.",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/book-of-boba-fett-star-wars-fans-1235080102",
-        "timestamp": 1643122285,
-        "sentiment": -3,
-        "published": "January 25, 2022 2:51 PM"
-    },
-    {
-        "title": "'And I say, Hey! HEY!' Aardvark Arthur's wonderful new days are ending",
-        "domain": "npr.org",
-        "category": "television",
-        "link": "https://www.npr.org/2022/01/25/1075381867/and-i-say-hey-hey-aardvark-arthurs-wonderful-new-days-are-ending",
-        "timestamp": 1643123665,
-        "sentiment": -3,
-        "published": "January 25, 2022 3:14 PM"
     },
     {
         "title": "In Blow to McCarthy, Supreme Court Says Congress Can Keep Voting from Home",
