@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
         "timestamp": 1643073100,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 1:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/01/24/jeopardy-amy-schneider-second-place-rank-streak/",
         "timestamp": 1643073869,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "January 25, 2022 1:24 AM"
     },
     {
@@ -34,15 +34,6 @@
         "timestamp": 1643075495,
         "sentiment": 4,
         "published": "January 25, 2022 1:51 AM"
-    },
-    {
-        "title": "In Blow to McCarthy, Supreme Court Says Congress Can Keep Voting from Home",
-        "domain": "time.com",
-        "category": "politics",
-        "link": "https://time.com/6141548/congress-voting-by-proxy-supreme-court/",
-        "timestamp": 1643075525,
-        "sentiment": 0,
-        "published": "January 25, 2022 1:52 AM"
     },
     {
         "title": "Federal Judges order Alabama to redraw Congressional map",
@@ -68,17 +59,8 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/watch/jan-6-select-committee-speaks-with-former-trump-attorney-general-bill-bar-131605573853",
         "timestamp": 1643084729,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 4:25 AM"
-    },
-    {
-        "title": "Ukraine’s amateur army: Thousands of young civilians are drafted into the military and trained for war in desperate bid to fend off Putin’s 100,000 well-trained troops",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
-        "timestamp": 1643088760,
-        "sentiment": -2,
-        "published": "January 25, 2022 5:32 AM"
     },
     {
         "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
@@ -90,21 +72,12 @@
         "published": "January 25, 2022 7:57 AM"
     },
     {
-        "title": "Eric Clapton Claims People Who Receive COVID-19 Vaccines Are Under 'Mass Hypnosis'",
-        "domain": "huffpost.com",
-        "category": "worldnews",
-        "link": "https://www.huffpost.com/entry/eric-clapton-covid-19-vaccines-hypnosis_n_61ef1484e4b08d9ab5f1d765",
-        "timestamp": 1643099596,
-        "sentiment": -2,
-        "published": "January 25, 2022 8:33 AM"
-    },
-    {
         "title": "Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free",
         "domain": "pagesix.com",
         "category": "television",
         "link": "https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/",
         "timestamp": 1643107207,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "January 25, 2022 10:40 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss",
         "timestamp": 1643109428,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 11:17 AM"
     },
     {
@@ -144,21 +117,12 @@
         "published": "January 25, 2022 11:33 AM"
     },
     {
-        "title": "Boy's nipples fall off after he freezes them with deodorant in school dare in UK",
-        "domain": "indy100.com",
-        "category": "worldnews",
-        "link": "https://www.indy100.com/amp/british-schoolboy-loses-nipples-lynx-2656469281?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
-        "timestamp": 1643110875,
-        "sentiment": -2,
-        "published": "January 25, 2022 11:41 AM"
-    },
-    {
         "title": "Trump Supporters Left Death Threats for Election Workers. We Called Back.",
         "domain": "vice.com",
         "category": "politics",
         "link": "https://www.vice.com/en/article/5dg5p5/trump-supporters-death-threats-election-workers",
         "timestamp": 1643113181,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 12:19 PM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
         "timestamp": 1643115103,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 12:51 PM"
     },
     {
@@ -185,8 +149,26 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
         "timestamp": 1643115271,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 12:54 PM"
+    },
+    {
+        "title": "Ukraine crisis latest: Russian advance forces 'already in Ukraine', says UK Armed Forces minister",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/01/25/russia-succeeding-sowing-panic-ukraine-says-top-security-official/",
+        "timestamp": 1643115403,
+        "sentiment": -2,
+        "published": "January 25, 2022 12:56 PM"
+    },
+    {
+        "title": "Ukraine says Russian invasion is not imminent, situation is 'under control'",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/591168-ukraine-says-russian-invasion-is-not-imminent-situation-is-under-control",
+        "timestamp": 1643116403,
+        "sentiment": -2,
+        "published": "January 25, 2022 1:13 PM"
     },
     {
         "title": "Thailand first in Asia to move to decriminalize marijuana",
@@ -196,6 +178,15 @@
         "timestamp": 1643117526,
         "sentiment": 4,
         "published": "January 25, 2022 1:32 PM"
+    },
+    {
+        "title": "Court Throws Out Alabama’s New Congressional Map - A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
+        "timestamp": 1643117688,
+        "sentiment": -1,
+        "published": "January 25, 2022 1:34 PM"
     },
     {
         "title": "Hymen repair surgery and virginity testing to be banned in UK",
@@ -214,6 +205,69 @@
         "timestamp": 1643119605,
         "sentiment": 4,
         "published": "January 25, 2022 2:06 PM"
+    },
+    {
+        "title": "Wisconsin Republicans pass bill allowing some high school students to bring a gun to campus",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/24/wisconsin-pass-bill-allowing-some-high-school-students-to-bring-a-to-campus/",
+        "timestamp": 1643121370,
+        "sentiment": -1,
+        "published": "January 25, 2022 2:36 PM"
+    },
+    {
+        "title": "‘Book of Boba Fett’ Faces a Challenging in Home Stretch - With three episodes left, the Disney+ series is shaping up to be the show fans feared 'The Mandalorian' would become.",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/book-of-boba-fett-star-wars-fans-1235080102",
+        "timestamp": 1643122285,
+        "sentiment": -3,
+        "published": "January 25, 2022 2:51 PM"
+    },
+    {
+        "title": "'And I say, Hey! HEY!' Aardvark Arthur's wonderful new days are ending",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2022/01/25/1075381867/and-i-say-hey-hey-aardvark-arthurs-wonderful-new-days-are-ending",
+        "timestamp": 1643123665,
+        "sentiment": -3,
+        "published": "January 25, 2022 3:14 PM"
+    },
+    {
+        "title": "In Blow to McCarthy, Supreme Court Says Congress Can Keep Voting from Home",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6141548/congress-voting-by-proxy-supreme-court/",
+        "timestamp": 1643075525,
+        "sentiment": 0,
+        "published": "January 25, 2022 1:52 AM"
+    },
+    {
+        "title": "Ukraine’s amateur army: Thousands of young civilians are drafted into the military and trained for war in desperate bid to fend off Putin’s 100,000 well-trained troops",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
+        "timestamp": 1643088760,
+        "sentiment": -2,
+        "published": "January 25, 2022 5:32 AM"
+    },
+    {
+        "title": "Eric Clapton Claims People Who Receive COVID-19 Vaccines Are Under 'Mass Hypnosis'",
+        "domain": "huffpost.com",
+        "category": "worldnews",
+        "link": "https://www.huffpost.com/entry/eric-clapton-covid-19-vaccines-hypnosis_n_61ef1484e4b08d9ab5f1d765",
+        "timestamp": 1643099596,
+        "sentiment": -2,
+        "published": "January 25, 2022 8:33 AM"
+    },
+    {
+        "title": "Boy's nipples fall off after he freezes them with deodorant in school dare in UK",
+        "domain": "indy100.com",
+        "category": "worldnews",
+        "link": "https://www.indy100.com/amp/british-schoolboy-loses-nipples-lynx-2656469281?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "timestamp": 1643110875,
+        "sentiment": -2,
+        "published": "January 25, 2022 11:41 AM"
     },
     {
         "title": "Surveillance video shows a Black 17-year-old struggling with staff at a Wichita juvenile center last fall before he died after he was restrained facedown for more than 30 minutes.",
