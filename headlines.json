@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.billboard.com/business/streaming/neil-young-spotify-joe-rogan-vaccines-letter-remove-music-1235022525/",
         "timestamp": 1643075495,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
         "timestamp": 1643080141,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 3:09 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss",
         "timestamp": 1643109428,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 11:17 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.bangkokpost.com/world/2253199/china-gives-fight-club-new-ending-where-authorities-win",
         "timestamp": 1643110190,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 11:29 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/california-redwood-forest-returned-native-tribal-group-82456609",
         "timestamp": 1643113223,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 12:20 PM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
         "timestamp": 1643115103,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 12:51 PM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
         "timestamp": 1643115271,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 12:54 PM"
     },
     {
@@ -140,17 +140,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/thailand-asia-move-decriminalize-marijuana-82458865",
         "timestamp": 1643117526,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 1:32 PM"
-    },
-    {
-        "title": "Court Throws Out Alabama’s New Congressional Map - A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
-        "timestamp": 1643117688,
-        "sentiment": -5,
-        "published": "January 25, 2022 1:34 PM"
     },
     {
         "title": "Hymen repair surgery and virginity testing to be banned in UK",
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/uk-politics-59960177",
         "timestamp": 1643119274,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 2:01 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/amp/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/",
         "timestamp": 1643119605,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 2:06 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/01/24/wisconsin-pass-bill-allowing-some-high-school-students-to-bring-a-to-campus/",
         "timestamp": 1643121370,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 2:36 PM"
     },
     {
@@ -212,17 +203,8 @@
         "category": "politics",
         "link": "https://www.theguardian.com/world/2022/jan/25/tucker-carlson-russia-ukraine-democrats",
         "timestamp": 1643124456,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 3:27 PM"
-    },
-    {
-        "title": "DHS Warns That Right-Wing Extremists Could Attack Power Grid",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/dhs-warns-that-right-wing-extremists-could-attack-power-grid?ref=home",
-        "timestamp": 1643124776,
-        "sentiment": -5,
-        "published": "January 25, 2022 3:32 PM"
     },
     {
         "title": "TV Ratings: Bills-Chiefs Game Is Most-Watched NFL Divisional Playoff in 5 Years With 43 Million Viewers",
@@ -234,21 +216,12 @@
         "published": "January 25, 2022 3:55 PM"
     },
     {
-        "title": "The West fears Russia is about to attack Ukraine. But that's not the way Russians are seeing it on TV",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/01/25/europe/ukraine-nato-russia-coverage-tv-media-cmd-intl/index.html",
-        "timestamp": 1643126744,
-        "sentiment": -1,
-        "published": "January 25, 2022 4:05 PM"
-    },
-    {
         "title": "They were charged more than $1,000 for an ER visit, even though they never saw a doctor",
         "domain": "cbsnews.com",
         "category": "news",
         "link": "https://www.cbsnews.com/news/emergency-room-bill-dhaval-bhatt/?ftag=CNM-00-10aac3a",
         "timestamp": 1643126852,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 4:07 PM"
     },
     {
@@ -257,8 +230,17 @@
         "category": "politics",
         "link": "https://www.politico.com/minutes/congress/01-25-2022/jones/",
         "timestamp": 1643126864,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 4:07 PM"
+    },
+    {
+        "title": "Thailand gives green light to growing cannabis at home",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/thailand-gives-green-light-growing-cannabis-home-2022-01-25/",
+        "timestamp": 1643127355,
+        "sentiment": -1,
+        "published": "January 25, 2022 4:15 PM"
     },
     {
         "title": "Covid ‘denialist’ and Bolsonaro ally Olavo de Carvalho died of virus, says daughter",
@@ -266,7 +248,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/25/covid-denialist-bolsonaro-ally-olavo-de-carvalho-dies-coronavirus",
         "timestamp": 1643128828,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 4:40 PM"
     },
     {
@@ -275,8 +257,17 @@
         "category": "politics",
         "link": "https://peoplesworld.org/article/biden-gives-70k-federal-workers-an-immediate-raise-to-15-hour/",
         "timestamp": 1643130593,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 5:09 PM"
+    },
+    {
+        "title": "Florida shuts down all monoclonal antibody treatment sites after FDA decision to limit use of certain treatments not proven effective against Omicron",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/25/us/florida-closing-monoclonal-antibody-treatment-sites/index.html",
+        "timestamp": 1643131344,
+        "sentiment": -2,
+        "published": "January 25, 2022 5:22 PM"
     },
     {
         "title": "Evidence mounts against Trump, if America cares | There's a very real possibility of learning that the former president really was a crook - then doing nothing.",
@@ -284,17 +275,17 @@
         "category": "politics",
         "link": "https://www.startribune.com/evidence-mounts-against-trump-if-america-cares/600139426/",
         "timestamp": 1643131516,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "January 25, 2022 5:25 PM"
     },
     {
         "title": "Tucker Carlson Wonders Why the U.S. Would Side With Ukraine’s Fledgling Democracy Against Putin’s Russia",
         "domain": "thedailybeast.com",
-        "category": "worldnews",
+        "category": "politics",
         "link": "https://www.thedailybeast.com/tucker-carlson-wonders-why-the-us-would-side-with-ukraines-fledgling-democracy-against-putins-russia",
-        "timestamp": 1643132469,
+        "timestamp": 1643132426,
         "sentiment": -1,
-        "published": "January 25, 2022 5:41 PM"
+        "published": "January 25, 2022 5:40 PM"
     },
     {
         "title": "'Percy Jackson and the Olympians' Series Greenlit at Disney Plus",
@@ -304,6 +295,51 @@
         "timestamp": 1643132584,
         "sentiment": -4,
         "published": "January 25, 2022 5:43 PM"
+    },
+    {
+        "title": "NATO chief: \"NATO will not deploy NATO combat troops to Ukraine\"",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/25/europe/nato-jens-stoltenberg-russia-ukraine-proposals-amanpour-intl/index.html",
+        "timestamp": 1643134570,
+        "sentiment": -1,
+        "published": "January 25, 2022 6:16 PM"
+    },
+    {
+        "title": "Extremist politicians aren't a \"both sides\" issue — it's strictly a GOP phenomenon Republicans want to overturn elections and spread disease - while progressive Dems just want better social programs",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/25/extremist-politicians-arent-a-both-sides-issue--its-strictly-a-phenomenon/",
+        "timestamp": 1643134658,
+        "sentiment": -1,
+        "published": "January 25, 2022 6:17 PM"
+    },
+    {
+        "title": "Court Throws Out Alabama’s New Congressional Map - A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
+        "timestamp": 1643117688,
+        "sentiment": -5,
+        "published": "January 25, 2022 1:34 PM"
+    },
+    {
+        "title": "DHS Warns That Right-Wing Extremists Could Attack Power Grid",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/dhs-warns-that-right-wing-extremists-could-attack-power-grid?ref=home",
+        "timestamp": 1643124776,
+        "sentiment": -5,
+        "published": "January 25, 2022 3:32 PM"
+    },
+    {
+        "title": "The West fears Russia is about to attack Ukraine. But that's not the way Russians are seeing it on TV",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/25/europe/ukraine-nato-russia-coverage-tv-media-cmd-intl/index.html",
+        "timestamp": 1643126744,
+        "sentiment": -1,
+        "published": "January 25, 2022 4:05 PM"
     },
     {
         "title": "New COVID variant detected in at least 40 different countries",
