@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.billboard.com/business/streaming/neil-young-spotify-joe-rogan-vaccines-letter-remove-music-1235022525/",
         "timestamp": 1643075495,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
         "timestamp": 1643080141,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 25, 2022 3:09 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "January 25, 2022 3:40 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
         "timestamp": 1643088760,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "January 25, 2022 5:32 AM"
+    },
+    {
+        "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
+        "domain": "112.international",
+        "category": "worldnews",
+        "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
+        "timestamp": 1643097445,
+        "sentiment": -7,
+        "published": "January 25, 2022 7:57 AM"
     },
     {
         "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
