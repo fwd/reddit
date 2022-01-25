@@ -1,11 +1,20 @@
 [
     {
+        "title": "Trumpers took over a small town & the first thing they’re doing is repeal LGBTQ rights",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
+        "timestamp": 1643073100,
+        "sentiment": 0,
+        "published": "January 25, 2022 1:11 AM"
+    },
+    {
         "title": "New COVID variant detected in at least 40 different countries",
         "domain": "cbs12.com",
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://www.billboard.com/business/streaming/neil-young-spotify-joe-rogan-vaccines-letter-remove-music-1235022525/",
         "timestamp": 1643075495,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -32,8 +41,17 @@
         "category": "news",
         "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
         "timestamp": 1643080141,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "January 25, 2022 3:09 AM"
+    },
+    {
+        "title": "Mexican journalist who told president she feared for her life shot dead",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
+        "timestamp": 1643082016,
+        "sentiment": -1,
+        "published": "January 25, 2022 3:40 AM"
     },
     {
         "title": "Militarized Dolphins Protect Almost a Quarter of the US Nuclear Stockpile",
