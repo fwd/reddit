@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -36,6 +36,15 @@
         "published": "January 25, 2022 1:51 AM"
     },
     {
+        "title": "Surveillance video shows a Black 17-year-old struggling with staff at a Wichita juvenile center last fall before he died after he was restrained facedown for more than 30 minutes.",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/kansas-wichita-72306786c90addb96280d1738d931ad8",
+        "timestamp": 1643075513,
+        "sentiment": 0,
+        "published": "January 25, 2022 1:51 AM"
+    },
+    {
         "title": "In Blow to McCarthy, Supreme Court Says Congress Can Keep Voting from Home",
         "domain": "time.com",
         "category": "politics",
@@ -43,6 +52,15 @@
         "timestamp": 1643075525,
         "sentiment": -2,
         "published": "January 25, 2022 1:52 AM"
+    },
+    {
+        "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
+        "domain": "hongkongfp.com",
+        "category": "worldnews",
+        "link": "https://hongkongfp.com/2022/01/25/australian-open-to-allow-where-is-peng-shuai-shirts-after-backlash/",
+        "timestamp": 1643075836,
+        "sentiment": 1,
+        "published": "January 25, 2022 1:57 AM"
     },
     {
         "title": "Federal Judges order Alabama to redraw Congressional map",
@@ -59,7 +77,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 25, 2022 3:40 AM"
     },
     {
@@ -77,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
         "timestamp": 1643088760,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 25, 2022 5:32 AM"
     },
     {
@@ -86,7 +104,7 @@
         "category": "worldnews",
         "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
         "timestamp": 1643097445,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 25, 2022 7:57 AM"
     },
     {
@@ -95,8 +113,17 @@
         "category": "worldnews",
         "link": "https://www.huffpost.com/entry/eric-clapton-covid-19-vaccines-hypnosis_n_61ef1484e4b08d9ab5f1d765",
         "timestamp": 1643099596,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 25, 2022 8:33 AM"
+    },
+    {
+        "title": "Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free",
+        "domain": "pagesix.com",
+        "category": "television",
+        "link": "https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/",
+        "timestamp": 1643107207,
+        "sentiment": 0,
+        "published": "January 25, 2022 10:40 AM"
     },
     {
         "title": "Federal Court Blocks Alabama’s New Congressional Map, Orders Lawmakers to Draw Map with Two Majority-Black Districts",
@@ -106,15 +133,6 @@
         "timestamp": 1643078716,
         "sentiment": -1,
         "published": "January 25, 2022 2:45 AM"
-    },
-    {
-        "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
-        "domain": "hongkongfp.com",
-        "category": "worldnews",
-        "link": "https://hongkongfp.com/2022/01/25/australian-open-to-allow-where-is-peng-shuai-shirts-after-backlash/",
-        "timestamp": 1643075836,
-        "sentiment": 1,
-        "published": "January 25, 2022 1:57 AM"
     },
     {
         "title": "Militarized Dolphins Protect Almost a Quarter of the US Nuclear Stockpile",
