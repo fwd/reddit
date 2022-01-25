@@ -1,23 +1,5 @@
 [
     {
-        "title": "Jeopardy! Champ Amy Schneider Climbs to No. 2 on All-Time Wins List, Behind Reigning MVP Ken Jennings",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/01/24/jeopardy-amy-schneider-second-place-rank-streak/",
-        "timestamp": 1643073869,
-        "sentiment": -1,
-        "published": "January 25, 2022 1:24 AM"
-    },
-    {
-        "title": "Federal Judges order Alabama to redraw Congressional map",
-        "domain": "waff.com",
-        "category": "news",
-        "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
-        "timestamp": 1643080141,
-        "sentiment": 0,
-        "published": "January 25, 2022 3:09 AM"
-    },
-    {
         "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
         "domain": "112.international",
         "category": "worldnews",
@@ -72,21 +54,12 @@
         "published": "January 25, 2022 12:20 PM"
     },
     {
-        "title": "Black Texas farmers were finally on track to get federal aid. The state’s agriculture commissioner wants to stop that.",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
-        "timestamp": 1643115103,
-        "sentiment": -1,
-        "published": "January 25, 2022 12:51 PM"
-    },
-    {
         "title": "Elizabeth Warren says $20,000 in student loan debt 'might as well be $20 million' for people who are working at minimum wage",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
         "timestamp": 1643115271,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 12:54 PM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/01/24/wisconsin-pass-bill-allowing-some-high-school-students-to-bring-a-to-campus/",
         "timestamp": 1643121370,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 2:36 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/world/2022/jan/25/tucker-carlson-russia-ukraine-democrats",
         "timestamp": 1643124456,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 3:27 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://www.politico.com/minutes/congress/01-25-2022/jones/",
         "timestamp": 1643126864,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 4:07 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "politics",
         "link": "https://peoplesworld.org/article/biden-gives-70k-federal-workers-an-immediate-raise-to-15-hour/",
         "timestamp": 1643130593,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 5:09 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://www.startribune.com/evidence-mounts-against-trump-if-america-cares/600139426/",
         "timestamp": 1643131516,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 5:25 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.thenation.com/article/politics/stocks-congress-loeffler-bill/",
         "timestamp": 1643131747,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 5:29 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/tucker-carlson-wonders-why-the-us-would-side-with-ukraines-fledgling-democracy-against-putins-russia",
         "timestamp": 1643132426,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 5:40 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/01/25/extremist-politicians-arent-a-both-sides-issue--its-strictly-a-phenomenon/",
         "timestamp": 1643134658,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 6:17 PM"
     },
     {
@@ -295,6 +268,15 @@
         "timestamp": 1643136227,
         "sentiment": 0,
         "published": "January 25, 2022 6:43 PM"
+    },
+    {
+        "title": "Donald Trump Jr. Tries To Blame Looming Russian Invasion Of Ukraine On ... Hunter Biden",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/donald-trump-jr-russian-invasion-ukraine-hunter-biden_n_61ef4155e4b010a5a234566f",
+        "timestamp": 1643138889,
+        "sentiment": -2,
+        "published": "January 25, 2022 7:28 PM"
     },
     {
         "title": "Biden: \"There is not going to be any American forces moving into Ukraine\"",
@@ -331,6 +313,51 @@
         "timestamp": 1643141143,
         "sentiment": -1,
         "published": "January 25, 2022 8:05 PM"
+    },
+    {
+        "title": "Alex Jones met with 1/6 committee and says he pleaded the Fifth ‘almost 100 times’",
+        "domain": "abc17news.com",
+        "category": "news",
+        "link": "https://abc17news.com/news/2022/01/25/alex-jones-met-with-1-6-committee-and-says-he-pleaded-the-fifth-almost-100-times/",
+        "timestamp": 1643146343,
+        "sentiment": 0,
+        "published": "January 25, 2022 9:32 PM"
+    },
+    {
+        "title": "Sydney Sweeney Says ‘Euphoria’ Creator Allowed Her to Cut ‘Unnecessary’ Season 2 Nudity",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/sydney-sweeney-euphoria-nude-scenes-1235163094/",
+        "timestamp": 1643147406,
+        "sentiment": -1,
+        "published": "January 25, 2022 9:50 PM"
+    },
+    {
+        "title": "Jeopardy! Champ Amy Schneider Climbs to No. 2 on All-Time Wins List, Behind Reigning MVP Ken Jennings",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/24/jeopardy-amy-schneider-second-place-rank-streak/",
+        "timestamp": 1643073869,
+        "sentiment": -1,
+        "published": "January 25, 2022 1:24 AM"
+    },
+    {
+        "title": "Federal Judges order Alabama to redraw Congressional map",
+        "domain": "waff.com",
+        "category": "news",
+        "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
+        "timestamp": 1643080141,
+        "sentiment": 0,
+        "published": "January 25, 2022 3:09 AM"
+    },
+    {
+        "title": "Black Texas farmers were finally on track to get federal aid. The state’s agriculture commissioner wants to stop that.",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/24/texas-black-farmers-sid-miller-lawsuit/",
+        "timestamp": 1643115103,
+        "sentiment": -1,
+        "published": "January 25, 2022 12:51 PM"
     },
     {
         "title": "Mexican journalist who told president she feared for her life shot dead",
