@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
         "timestamp": 1643073100,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 1:11 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://time.com/6141548/congress-voting-by-proxy-supreme-court/",
         "timestamp": 1643075525,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 25, 2022 1:52 AM"
-    },
-    {
-        "title": "Federal Court Blocks Alabama’s New Congressional Map, Orders Lawmakers to Draw Map with Two Majority-Black Districts",
-        "domain": "aclualabama.org",
-        "category": "politics",
-        "link": "https://www.aclualabama.org/en/press-releases/federal-court-blocks-alabamas-new-congressional-map-orders-lawmakers-draw-map-two",
-        "timestamp": 1643078716,
-        "sentiment": -1,
-        "published": "January 25, 2022 2:45 AM"
     },
     {
         "title": "Federal Judges order Alabama to redraw Congressional map",
@@ -68,8 +59,17 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 25, 2022 3:40 AM"
+    },
+    {
+        "title": "Rep. Lieu: You really see how fearful Republicans are now of Jan. 6 committee",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/watch/jan-6-select-committee-speaks-with-former-trump-attorney-general-bill-bar-131605573853",
+        "timestamp": 1643084729,
+        "sentiment": -2,
+        "published": "January 25, 2022 4:25 AM"
     },
     {
         "title": "Ukraine’s amateur army: Thousands of young civilians are drafted into the military and trained for war in desperate bid to fend off Putin’s 100,000 well-trained troops",
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
         "timestamp": 1643088760,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 25, 2022 5:32 AM"
     },
     {
@@ -86,8 +86,26 @@
         "category": "worldnews",
         "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
         "timestamp": 1643097445,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 25, 2022 7:57 AM"
+    },
+    {
+        "title": "Eric Clapton Claims People Who Receive COVID-19 Vaccines Are Under 'Mass Hypnosis'",
+        "domain": "huffpost.com",
+        "category": "worldnews",
+        "link": "https://www.huffpost.com/entry/eric-clapton-covid-19-vaccines-hypnosis_n_61ef1484e4b08d9ab5f1d765",
+        "timestamp": 1643099596,
+        "sentiment": -2,
+        "published": "January 25, 2022 8:33 AM"
+    },
+    {
+        "title": "Federal Court Blocks Alabama’s New Congressional Map, Orders Lawmakers to Draw Map with Two Majority-Black Districts",
+        "domain": "aclualabama.org",
+        "category": "politics",
+        "link": "https://www.aclualabama.org/en/press-releases/federal-court-blocks-alabamas-new-congressional-map-orders-lawmakers-draw-map-two",
+        "timestamp": 1643078716,
+        "sentiment": -1,
+        "published": "January 25, 2022 2:45 AM"
     },
     {
         "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
