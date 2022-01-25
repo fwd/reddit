@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
         "timestamp": 1643073100,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 25, 2022 1:11 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/01/24/jeopardy-amy-schneider-second-place-rank-streak/",
         "timestamp": 1643073869,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 25, 2022 1:24 AM"
     },
     {
@@ -34,6 +34,24 @@
         "timestamp": 1643075495,
         "sentiment": -1,
         "published": "January 25, 2022 1:51 AM"
+    },
+    {
+        "title": "In Blow to McCarthy, Supreme Court Says Congress Can Keep Voting from Home",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6141548/congress-voting-by-proxy-supreme-court/",
+        "timestamp": 1643075525,
+        "sentiment": 0,
+        "published": "January 25, 2022 1:52 AM"
+    },
+    {
+        "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
+        "domain": "hongkongfp.com",
+        "category": "worldnews",
+        "link": "https://hongkongfp.com/2022/01/25/australian-open-to-allow-where-is-peng-shuai-shirts-after-backlash/",
+        "timestamp": 1643075836,
+        "sentiment": 1,
+        "published": "January 25, 2022 1:57 AM"
     },
     {
         "title": "Federal Judges order Alabama to redraw Congressional map",
@@ -50,7 +68,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 25, 2022 3:40 AM"
     },
     {
