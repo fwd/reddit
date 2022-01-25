@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/trumpers-took-small-town-first-thing-theyre-repeal-lgbtq-rights/",
         "timestamp": 1643073100,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "January 25, 2022 1:11 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://cbs12.com/news/local/new-covid-variant-detected-in-at-least-40-different-countries",
         "timestamp": 1643073483,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 1:18 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.billboard.com/business/streaming/neil-young-spotify-joe-rogan-vaccines-letter-remove-music-1235022525/",
         "timestamp": 1643075495,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://apnews.com/article/kansas-wichita-72306786c90addb96280d1738d931ad8",
         "timestamp": 1643075513,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 25, 2022 1:51 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "politics",
         "link": "https://time.com/6141548/congress-voting-by-proxy-supreme-court/",
         "timestamp": 1643075525,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "January 25, 2022 1:52 AM"
-    },
-    {
-        "title": "Federal Court Blocks Alabama’s New Congressional Map, Orders Lawmakers to Draw Map with Two Majority-Black Districts",
-        "domain": "aclualabama.org",
-        "category": "politics",
-        "link": "https://www.aclualabama.org/en/press-releases/federal-court-blocks-alabamas-new-congressional-map-orders-lawmakers-draw-map-two",
-        "timestamp": 1643078716,
-        "sentiment": -1,
-        "published": "January 25, 2022 2:45 AM"
     },
     {
         "title": "Federal Judges order Alabama to redraw Congressional map",
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.waff.com/2022/01/25/federal-judges-order-alabama-redraw-congressional-map/",
         "timestamp": 1643080141,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 25, 2022 3:09 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/latino/591076-mexican-journalist-who-told-president-she-feared-for-her-life-shot-dead",
         "timestamp": 1643082016,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 3:40 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/watch/jan-6-select-committee-speaks-with-former-trump-attorney-general-bill-bar-131605573853",
         "timestamp": 1643084729,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "January 25, 2022 4:25 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435987/Ukraine-amateur-army-Thousands-young-civilians-drafted-military-amid-Russia-invasion-threat.html",
         "timestamp": 1643088760,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 5:32 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://112.international/politics/lukashenko-promises-to-send-whole-contingent-of-belarusian-army-to-border-with-ukraine-68906.html",
         "timestamp": 1643097445,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 7:57 AM"
     },
     {
@@ -113,8 +104,17 @@
         "category": "worldnews",
         "link": "https://www.huffpost.com/entry/eric-clapton-covid-19-vaccines-hypnosis_n_61ef1484e4b08d9ab5f1d765",
         "timestamp": 1643099596,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 8:33 AM"
+    },
+    {
+        "title": "Corruption is on the rise and pummeling human rights: New report",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/economy/2022/1/25/corruption-is-on-the-rise-and-pummeling-human-rights-new-report",
+        "timestamp": 1643103811,
+        "sentiment": -5,
+        "published": "January 25, 2022 9:43 AM"
     },
     {
         "title": "Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free",
@@ -131,8 +131,17 @@
         "category": "worldnews",
         "link": "https://www.rte.ie/news/ireland/2022/0125/1275728-ireland-fishing-russia/",
         "timestamp": 1643108795,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 25, 2022 11:06 AM"
+    },
+    {
+        "title": "Prosecutors in multiple states are investigating false Electoral College submissions",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/25/1075304670/prosecutors-in-multiple-states-are-investigating-false-electoral-college-submiss",
+        "timestamp": 1643109428,
+        "sentiment": 5,
+        "published": "January 25, 2022 11:17 AM"
     },
     {
         "title": "China gives 'Fight Club' new ending where authorities win",
@@ -140,8 +149,53 @@
         "category": "news",
         "link": "https://www.bangkokpost.com/world/2253199/china-gives-fight-club-new-ending-where-authorities-win",
         "timestamp": 1643110190,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 25, 2022 11:29 AM"
+    },
+    {
+        "title": "Boy's nipples fall off after he freezes them with deodorant in school dare in UK",
+        "domain": "indy100.com",
+        "category": "worldnews",
+        "link": "https://www.indy100.com/amp/british-schoolboy-loses-nipples-lynx-2656469281?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "timestamp": 1643110875,
+        "sentiment": -2,
+        "published": "January 25, 2022 11:41 AM"
+    },
+    {
+        "title": "Trump Supporters Left Death Threats for Election Workers. We Called Back.",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/5dg5p5/trump-supporters-death-threats-election-workers",
+        "timestamp": 1643113181,
+        "sentiment": 5,
+        "published": "January 25, 2022 12:19 PM"
+    },
+    {
+        "title": "California redwood forest returned to native tribal group",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/california-redwood-forest-returned-native-tribal-group-82456609",
+        "timestamp": 1643113223,
+        "sentiment": -5,
+        "published": "January 25, 2022 12:20 PM"
+    },
+    {
+        "title": "Elizabeth Warren says $20,000 in student loan debt 'might as well be $20 million' for people who are working at minimum wage",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/elizabeth-warren-college-debt-million-for-minimum-wage-workers-2022-1",
+        "timestamp": 1643115271,
+        "sentiment": 5,
+        "published": "January 25, 2022 12:54 PM"
+    },
+    {
+        "title": "Federal Court Blocks Alabama’s New Congressional Map, Orders Lawmakers to Draw Map with Two Majority-Black Districts",
+        "domain": "aclualabama.org",
+        "category": "politics",
+        "link": "https://www.aclualabama.org/en/press-releases/federal-court-blocks-alabamas-new-congressional-map-orders-lawmakers-draw-map-two",
+        "timestamp": 1643078716,
+        "sentiment": -1,
+        "published": "January 25, 2022 2:45 AM"
     },
     {
         "title": "Australian Open to allow ‘Where is Peng Shuai?” shirts after backlash",
