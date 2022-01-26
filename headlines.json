@@ -1,20 +1,11 @@
 [
     {
-        "title": "‘Abbott Elementary’ Becomes First ABC Comedy Premiere To Quadruple In MP35",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/abbott-elementary-first-abc-comedy-premiere-quadruple-ratings-in-mp35-1234919539/#comments",
-        "timestamp": 1643155389,
-        "sentiment": 1,
-        "published": "January 26, 2022 12:03 AM"
-    },
-    {
         "title": "Pritzker vetoes proposal to pay COVID-19 sick leave to all school employees, says only fully vaccinated should be compensated",
         "domain": "chicagotribune.com",
         "category": "politics",
         "link": "https://www.chicagotribune.com/coronavirus/ct-covid-pritzker-vaccinated-teachers-sick-days-20220125-b4dubwh2pbgmxcrf3zbmr4uasy-story.html",
         "timestamp": 1643157540,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "January 26, 2022 12:39 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "January 26, 2022 12:48 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
         "timestamp": 1643161273,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "January 26, 2022 1:41 AM"
     },
     {
@@ -59,8 +50,44 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/biden-says-no-u-nato-201115427.html",
         "timestamp": 1643162563,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "January 26, 2022 2:02 AM"
+    },
+    {
+        "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/joe-manchin-bernie-sanders-relationship-primary-2022-1",
+        "timestamp": 1643162701,
+        "sentiment": -5,
+        "published": "January 26, 2022 2:05 AM"
+    },
+    {
+        "title": "Chinese entertainment giant Tencent accused of wanting ‘bigger tits’ and ‘no blacks’ in a film it funded",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/pop-culture/547312-tencent-accused-film-rules/",
+        "timestamp": 1643167912,
+        "sentiment": -2,
+        "published": "January 26, 2022 3:31 AM"
+    },
+    {
+        "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
+        "timestamp": 1643169128,
+        "sentiment": 2,
+        "published": "January 26, 2022 3:52 AM"
+    },
+    {
+        "title": "‘Abbott Elementary’ Becomes First ABC Comedy Premiere To Quadruple In MP35",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/abbott-elementary-first-abc-comedy-premiere-quadruple-ratings-in-mp35-1234919539/#comments",
+        "timestamp": 1643155389,
+        "sentiment": 1,
+        "published": "January 26, 2022 12:03 AM"
     },
     {
         "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
