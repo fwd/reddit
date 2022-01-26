@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 12:48 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60133618",
         "timestamp": 1643158563,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 26, 2022 12:56 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 26, 2022 1:00 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/wyoming-first-black-sheriff-aaron-appelhans-fired-white-deputy-christian-handley-alleged-racism-lawsuit/",
         "timestamp": 1643161133,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 26, 2022 1:38 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "January 26, 2022 3:52 AM"
     },
     {
-        "title": "Ridgeland Mayor Demands LGBTQ+ Book Purge, Threatens Library Funding",
-        "domain": "mississippifreepress.org",
-        "category": "news",
-        "link": "https://www.mississippifreepress.org/20068/ridgeland-mayor-demands-lgbtq-book-purge-threatens-library-funding/",
-        "timestamp": 1643169449,
-        "sentiment": -3,
-        "published": "January 26, 2022 3:57 AM"
-    },
-    {
         "title": "Out-of-control SpaceX rocket on collision course with the moon",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
         "timestamp": 1643171560,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 26, 2022 4:32 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.independent.co.uk/news/media/tv-radio/charlie-brown-peter-robbins-death-cause-b2000776.html",
         "timestamp": 1643173482,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 26, 2022 5:04 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
         "timestamp": 1643176438,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 5:53 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
         "timestamp": 1643179103,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 6:38 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
         "timestamp": 1643184086,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 8:01 AM"
     },
     {
@@ -149,8 +140,62 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/burkina-faso-president-ousted-after-refusing-to-pay-wagner-mercenaries",
         "timestamp": 1643190267,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 9:44 AM"
+    },
+    {
+        "title": "Support your children if they are gay, pope tells parents",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
+        "timestamp": 1643191828,
+        "sentiment": -1,
+        "published": "January 26, 2022 10:10 AM"
+    },
+    {
+        "title": "Why are Germany and France at odds with the Anglosphere over how to handle Russia?",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/26/nato-allies-policy-russia-ukraine-analysis",
+        "timestamp": 1643192810,
+        "sentiment": 0,
+        "published": "January 26, 2022 10:26 AM"
+    },
+    {
+        "title": "Jeremy Corbyn barred from rejoining UK Labour party",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-694580",
+        "timestamp": 1643194611,
+        "sentiment": 0,
+        "published": "January 26, 2022 10:56 AM"
+    },
+    {
+        "title": "Pope Francis tells parents not to condemn children with different sexual orientations",
+        "domain": "ncronline.org",
+        "category": "worldnews",
+        "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
+        "timestamp": 1643196897,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:34 AM"
+    },
+    {
+        "title": "Glenn Youngkin Set Up Tipline To Report Teachers And You Know What Pranksters Did Next",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/glenn-youngkin-tip-line-pranksters_n_61f0f6c0e4b0061af257cbfd",
+        "timestamp": 1643197929,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:52 AM"
+    },
+    {
+        "title": "Ridgeland Mayor Demands LGBTQ+ Book Purge, Threatens Library Funding",
+        "domain": "mississippifreepress.org",
+        "category": "news",
+        "link": "https://www.mississippifreepress.org/20068/ridgeland-mayor-demands-lgbtq-book-purge-threatens-library-funding/",
+        "timestamp": 1643169449,
+        "sentiment": -3,
+        "published": "January 26, 2022 3:57 AM"
     },
     {
         "title": "Israeli Soldiers Bound, Gagged 80-year-old Palestinian for Over an Hour Before He Died, Army Finds",
