@@ -5,17 +5,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 12:48 AM"
-    },
-    {
-        "title": "Daily US death toll from Covid now matches Delta",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-60133618",
-        "timestamp": 1643158563,
-        "sentiment": -2,
-        "published": "January 26, 2022 12:56 AM"
     },
     {
         "title": "Robert F. Kennedy Jr. apologized Tuesday after critics, including members of his own family, blasted him for implying Anne Frank had more freedom in hiding from the Nazis than people have today under U.S. vaccine policies.",
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 1:00 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
         "timestamp": 1643161273,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 1:41 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
         "timestamp": 1643169128,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 3:52 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
         "timestamp": 1643171560,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 4:32 AM"
     },
     {
@@ -77,8 +68,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
         "timestamp": 1643176438,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 5:53 AM"
+    },
+    {
+        "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
+        "timestamp": 1643179103,
+        "sentiment": -3,
+        "published": "January 26, 2022 6:38 AM"
     },
     {
         "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
         "timestamp": 1643184086,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 8:01 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "television",
         "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
         "timestamp": 1643190177,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 9:42 AM"
     },
     {
@@ -104,17 +104,8 @@
         "category": "news",
         "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
         "timestamp": 1643191828,
-        "sentiment": -2,
-        "published": "January 26, 2022 10:10 AM"
-    },
-    {
-        "title": "Why are Germany and France at odds with the Anglosphere over how to handle Russia?",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/26/nato-allies-policy-russia-ukraine-analysis",
-        "timestamp": 1643192810,
         "sentiment": 0,
-        "published": "January 26, 2022 10:26 AM"
+        "published": "January 26, 2022 10:10 AM"
     },
     {
         "title": "Jeremy Corbyn barred from rejoining UK Labour party",
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-694580",
         "timestamp": 1643194611,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 10:56 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
         "timestamp": 1643196897,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 11:34 AM"
     },
     {
@@ -158,17 +149,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-biden-would-consider-putin-personal-sanctions-if-russia-invades-2022-1",
         "timestamp": 1643199683,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 12:21 PM"
-    },
-    {
-        "title": "‘He’s a villain’: Joe Manchin attracts global anger over climate crisis | Joe Manchin",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/us-news/2022/jan/26/joe-manchin-climate-crisis-global-villain",
-        "timestamp": 1643199848,
-        "sentiment": 0,
-        "published": "January 26, 2022 12:24 PM"
     },
     {
         "title": "Fixing the Electoral Count Act Is Suddenly the Most Popular Policy Idea in Washington - Experts and politicians agree: The measure is in desperate need of reform, in order to avoid a repeat of 2020 in 2024.",
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://amp.cnn.com/cnn/2022/01/26/tech/china-clean-up-internet-beijing-olympics-intl-hnk/index.html",
         "timestamp": 1643200758,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 12:39 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
         "timestamp": 1643204748,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 1:45 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
         "timestamp": 1643205936,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 2:05 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
         "timestamp": 1643206316,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 2:11 PM"
     },
     {
@@ -243,21 +225,12 @@
         "published": "January 26, 2022 2:19 PM"
     },
     {
-        "title": "Americans seeking to renounce their citizenship are stuck with it for now | US news",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
-        "timestamp": 1643207787,
-        "sentiment": 0,
-        "published": "January 26, 2022 2:36 PM"
-    },
-    {
         "title": "‘South Park’ Enlists Full Orchestra, Singers for “Kyle’s Mom’s a B****” Rendition Ahead of New Season",
         "domain": "hollywoodreporter.com",
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
         "timestamp": 1643209270,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "January 26, 2022 3:01 PM"
     },
     {
@@ -275,8 +248,80 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
         "timestamp": 1643210991,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 3:29 PM"
+    },
+    {
+        "title": "GOP Rep Claims Without Irony That No President Has Attacked Press More Than Biden",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/jim-banks-biden-press_n_61f060b7e4b067cbfa151f2c",
+        "timestamp": 1643212861,
+        "sentiment": 0,
+        "published": "January 26, 2022 4:01 PM"
+    },
+    {
+        "title": "A third of students think Holocaust exaggerated or fabricated: study",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/canada/a-third-of-students-think-holocaust-exaggerated-or-fabricated-study-1.5753990",
+        "timestamp": 1643214155,
+        "sentiment": -3,
+        "published": "January 26, 2022 4:22 PM"
+    },
+    {
+        "title": "Justice Stephen Breyer to retire from Supreme Court, paving way for Biden appointment",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042",
+        "timestamp": 1643216481,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:01 PM"
+    },
+    {
+        "title": "Woman dies in Poland after having to carry dead foetus for seven days",
+        "domain": "notesfrompoland.com",
+        "category": "worldnews",
+        "link": "https://notesfrompoland.com/2022/01/26/woman-dies-in-poland-after-being-made-to-carry-dead-foetus-for-seven-days/",
+        "timestamp": 1643217413,
+        "sentiment": -3,
+        "published": "January 26, 2022 5:16 PM"
+    },
+    {
+        "title": "Daily US death toll from Covid now matches Delta",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-60133618",
+        "timestamp": 1643158563,
+        "sentiment": -2,
+        "published": "January 26, 2022 12:56 AM"
+    },
+    {
+        "title": "Why are Germany and France at odds with the Anglosphere over how to handle Russia?",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/26/nato-allies-policy-russia-ukraine-analysis",
+        "timestamp": 1643192810,
+        "sentiment": 0,
+        "published": "January 26, 2022 10:26 AM"
+    },
+    {
+        "title": "‘He’s a villain’: Joe Manchin attracts global anger over climate crisis | Joe Manchin",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2022/jan/26/joe-manchin-climate-crisis-global-villain",
+        "timestamp": 1643199848,
+        "sentiment": 0,
+        "published": "January 26, 2022 12:24 PM"
+    },
+    {
+        "title": "Americans seeking to renounce their citizenship are stuck with it for now | US news",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
+        "timestamp": 1643207787,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:36 PM"
     },
     {
         "title": "Portland Police Used a Proud Boy Meme in Their Training Materials. The Feds Want Answers",
@@ -304,15 +349,6 @@
         "timestamp": 1643161133,
         "sentiment": -7,
         "published": "January 26, 2022 1:38 AM"
-    },
-    {
-        "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
-        "timestamp": 1643179103,
-        "sentiment": -1,
-        "published": "January 26, 2022 6:38 AM"
     },
     {
         "title": "African President Was Ousted Just Weeks After Refusing to Pay Russian Paramilitaries",
