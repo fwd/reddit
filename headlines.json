@@ -9,22 +9,22 @@
         "published": "January 26, 2022 1:41 AM"
     },
     {
+        "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
+        "timestamp": 1643169128,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:52 AM"
+    },
+    {
         "title": "Out-of-control SpaceX rocket on collision course with the moon",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
         "timestamp": 1643171560,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 4:32 AM"
-    },
-    {
-        "title": "US Navy Wants To Get Crashed Stealth Fighter Back From South China Sea, Before China Can",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
-        "timestamp": 1643176438,
-        "sentiment": 0,
-        "published": "January 26, 2022 5:53 AM"
     },
     {
         "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
@@ -92,20 +92,11 @@
     {
         "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
         "domain": "cbsnews.com",
-        "category": "politics",
-        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/",
-        "timestamp": 1643202581,
-        "sentiment": 0,
-        "published": "January 26, 2022 1:09 PM"
-    },
-    {
-        "title": "France bans gay 'conversion therapy' with new law",
-        "domain": "abcnews.go.com",
         "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
-        "timestamp": 1643204748,
-        "sentiment": -1,
-        "published": "January 26, 2022 1:45 PM"
+        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/?s=09",
+        "timestamp": 1643203010,
+        "sentiment": -2,
+        "published": "January 26, 2022 1:16 PM"
     },
     {
         "title": "Costume Designers Guild Awards 2022: ‘Loki,’ ‘WandaVision,’ ‘Squid Game’ Among Nominees",
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
         "timestamp": 1643210991,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 3:29 PM"
     },
     {
@@ -153,21 +144,12 @@
         "published": "January 26, 2022 4:01 PM"
     },
     {
-        "title": "A bomb cyclone with the power of a hurricane will unleash snow and blizzard-like conditions this weekend",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/26/weather/noreaster-bomb-cyclone-weekend-storm/index.html",
-        "timestamp": 1643212888,
-        "sentiment": -1,
-        "published": "January 26, 2022 4:01 PM"
-    },
-    {
         "title": "Rioter Who Wore 'Camp Auschwitz' Sweatshirt Pleads Guilty",
         "domain": "usnews.com",
         "category": "news",
         "link": "https://www.usnews.com/news/politics/articles/2022-01-26/rioter-who-wore-camp-auschwitz-sweatshirt-pleads-guilty",
         "timestamp": 1643214179,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 4:22 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042",
         "timestamp": 1643216481,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 5:01 PM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/black-correction-officer-mistaken-shoplifter-sues-walmart-racial/story?id=82460745",
         "timestamp": 1643220128,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 6:02 PM"
     },
     {
@@ -252,13 +234,13 @@
         "published": "January 26, 2022 6:08 PM"
     },
     {
-        "title": "Domestic extremists have plotted to disrupt U.S. power grid, DHS bulletin warns",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/domestic-violent-extremists-plotting-disrupt-us-power-grid-dhs-bulletin-warns/",
-        "timestamp": 1643220780,
-        "sentiment": -1,
-        "published": "January 26, 2022 6:13 PM"
+        "title": "The Czech Republic considers the deployment of military troops in Ukraine",
+        "domain": "apostrophe.ua",
+        "category": "worldnews",
+        "link": "https://apostrophe.ua/en/news/politics/2022-01-25/chehiya-zayavila-o-vozmojnoy-otpravke-svoih-voennyih-v-ukrainu/257038",
+        "timestamp": 1643221536,
+        "sentiment": 0,
+        "published": "January 26, 2022 6:25 PM"
     },
     {
         "title": "Polish state has ‘blood on its hands’ after death of woman refused an abortion",
@@ -266,7 +248,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/global-development/2022/jan/26/poland-death-of-woman-refused-abortion",
         "timestamp": 1643222621,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "January 26, 2022 6:43 PM"
     },
     {
@@ -324,6 +306,78 @@
         "published": "January 26, 2022 8:03 PM"
     },
     {
+        "title": "Psaki says Biden will stand by pledge to nominate a Black woman to the Supreme Court",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/biden-supreme-court-nominee-psaki-b2001433.html",
+        "timestamp": 1643228278,
+        "sentiment": 0,
+        "published": "January 26, 2022 8:17 PM"
+    },
+    {
+        "title": "Texas man charged with selling gun to man who held hostages at synagogue",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/texas-man-charged-selling-gun-man-held-hostages-synagogue-rcna13684",
+        "timestamp": 1643229068,
+        "sentiment": -2,
+        "published": "January 26, 2022 8:31 PM"
+    },
+    {
+        "title": "YouTube permanently bans Fox News host Dan Bongino",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/media-telecom/youtube-permanently-bans-fox-news-host-dan-bongino-2022-01-26/",
+        "timestamp": 1643234419,
+        "sentiment": -2,
+        "published": "January 26, 2022 10:00 PM"
+    },
+    {
+        "title": "Spotify Agrees to Pull Neil Young’s Music After His Criticism of Joe Rogan’s Podcast",
+        "domain": "pitchfork.com",
+        "category": "news",
+        "link": "https://pitchfork.com/news/spotify-agrees-to-pull-neil-young-music-after-his-criticism-of-joe-rogan-podcast/",
+        "timestamp": 1643236231,
+        "sentiment": -2,
+        "published": "January 26, 2022 10:30 PM"
+    },
+    {
+        "title": "US Navy Wants To Get Crashed Stealth Fighter Back From South China Sea, Before China Can",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
+        "timestamp": 1643176438,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:53 AM"
+    },
+    {
+        "title": "France bans gay 'conversion therapy' with new law",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
+        "timestamp": 1643204748,
+        "sentiment": -1,
+        "published": "January 26, 2022 1:45 PM"
+    },
+    {
+        "title": "A bomb cyclone with the power of a hurricane will unleash snow and blizzard-like conditions this weekend",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/26/weather/noreaster-bomb-cyclone-weekend-storm/index.html",
+        "timestamp": 1643212888,
+        "sentiment": -1,
+        "published": "January 26, 2022 4:01 PM"
+    },
+    {
+        "title": "Domestic extremists have plotted to disrupt U.S. power grid, DHS bulletin warns",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/domestic-violent-extremists-plotting-disrupt-us-power-grid-dhs-bulletin-warns/",
+        "timestamp": 1643220780,
+        "sentiment": -1,
+        "published": "January 26, 2022 6:13 PM"
+    },
+    {
         "title": "Late-night TV can't get enough of Biden cursing at Fox reporter: 'Old Joe is back'",
         "domain": "latimes.com",
         "category": "television",
@@ -331,15 +385,6 @@
         "timestamp": 1643231785,
         "sentiment": 0,
         "published": "January 26, 2022 9:16 PM"
-    },
-    {
-        "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
-        "timestamp": 1643169128,
-        "sentiment": -1,
-        "published": "January 26, 2022 3:52 AM"
     },
     {
         "title": "Support your children if they are gay, pope tells parents",
