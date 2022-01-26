@@ -1,12 +1,39 @@
 [
     {
+        "title": "‘Abbott Elementary’ Becomes First ABC Comedy Premiere To Quadruple In MP35",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/abbott-elementary-first-abc-comedy-premiere-quadruple-ratings-in-mp35-1234919539/#comments",
+        "timestamp": 1643155389,
+        "sentiment": 1,
+        "published": "January 26, 2022 12:03 AM"
+    },
+    {
+        "title": "Pritzker vetoes proposal to pay COVID-19 sick leave to all school employees, says only fully vaccinated should be compensated",
+        "domain": "chicagotribune.com",
+        "category": "politics",
+        "link": "https://www.chicagotribune.com/coronavirus/ct-covid-pritzker-vaccinated-teachers-sick-days-20220125-b4dubwh2pbgmxcrf3zbmr4uasy-story.html",
+        "timestamp": 1643157540,
+        "sentiment": -2,
+        "published": "January 26, 2022 12:39 AM"
+    },
+    {
         "title": "AP News: Thailand first in Asia to move to decriminalize marijuana",
         "domain": "apnews.com",
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 26, 2022 12:48 AM"
+    },
+    {
+        "title": "Daily US death toll from Covid now matches Delta",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-60133618",
+        "timestamp": 1643158563,
+        "sentiment": 0,
+        "published": "January 26, 2022 12:56 AM"
     },
     {
         "title": "Robert F. Kennedy Jr. apologized Tuesday after critics, including members of his own family, blasted him for implying Anne Frank had more freedom in hiding from the Nazis than people have today under U.S. vaccine policies.",
@@ -14,7 +41,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 26, 2022 1:00 AM"
     },
     {
@@ -23,8 +50,17 @@
         "category": "television",
         "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
         "timestamp": 1643161273,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "January 26, 2022 1:41 AM"
+    },
+    {
+        "title": "Biden says no U.S. or NATO troops will be sent to Ukraine if Russia invades",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/biden-says-no-u-nato-201115427.html",
+        "timestamp": 1643162563,
+        "sentiment": 1,
+        "published": "January 26, 2022 2:02 AM"
     },
     {
         "title": "Lukashenko promises to send \"whole contingent of Belarusian army\" to the border with Ukraine claiming that \"the Ukrainians have started dragging troops there”",
