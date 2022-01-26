@@ -1,23 +1,5 @@
 [
     {
-        "title": "AP News: Thailand first in Asia to move to decriminalize marijuana",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
-        "timestamp": 1643158107,
-        "sentiment": -2,
-        "published": "January 26, 2022 12:48 AM"
-    },
-    {
-        "title": "Robert F. Kennedy Jr. apologized Tuesday after critics, including members of his own family, blasted him for implying Anne Frank had more freedom in hiding from the Nazis than people have today under U.S. vaccine policies.",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
-        "timestamp": 1643158836,
-        "sentiment": -4,
-        "published": "January 26, 2022 1:00 AM"
-    },
-    {
         "title": "Peter Robbins, voice actor for Charlie Brown in Peanuts, has committed suicide at 65",
         "domain": "fox5sandiego.com",
         "category": "television",
@@ -25,15 +7,6 @@
         "timestamp": 1643161273,
         "sentiment": 0,
         "published": "January 26, 2022 1:41 AM"
-    },
-    {
-        "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/joe-manchin-bernie-sanders-relationship-primary-2022-1",
-        "timestamp": 1643162701,
-        "sentiment": 0,
-        "published": "January 26, 2022 2:05 AM"
     },
     {
         "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
@@ -97,15 +70,6 @@
         "timestamp": 1643194611,
         "sentiment": -2,
         "published": "January 26, 2022 10:56 AM"
-    },
-    {
-        "title": "2022 is shaping up to be a legal nightmare for Trumpworld. Here's a timeline of upcoming court cases and legal obstacles.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/donald-trump-2022-lawsuit-court-case-timeline-2022-1",
-        "timestamp": 1643196486,
-        "sentiment": 0,
-        "published": "January 26, 2022 11:28 AM"
     },
     {
         "title": "Pope Francis tells parents not to condemn children with different sexual orientations",
@@ -261,6 +225,24 @@
         "published": "January 26, 2022 4:22 PM"
     },
     {
+        "title": "Marjorie Taylor Greene Challenger Says She Was Barred From Town Hall",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/marjorie-taylor-greene-challenger-says-barred-town-hall-georgia-2022-midterms-1672994",
+        "timestamp": 1643215061,
+        "sentiment": 0,
+        "published": "January 26, 2022 4:37 PM"
+    },
+    {
+        "title": "'Every indication' Putin plans force by mid-February: US",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/every-indication-putin-plans-force-143136165.html?fr=sycsrp_catchall",
+        "timestamp": 1643215391,
+        "sentiment": -2,
+        "published": "January 26, 2022 4:43 PM"
+    },
+    {
         "title": "Justice Stephen Breyer to retire from Supreme Court, paving way for Biden appointment",
         "domain": "nbcnews.com",
         "category": "news",
@@ -279,13 +261,13 @@
         "published": "January 26, 2022 5:15 PM"
     },
     {
-        "title": "Woman dies in Poland after having to carry dead foetus for seven days",
-        "domain": "notesfrompoland.com",
+        "title": "Student Who Opened Fire During Lecture Linked to Neo-Nazi Party",
+        "domain": "vice.com",
         "category": "worldnews",
-        "link": "https://notesfrompoland.com/2022/01/26/woman-dies-in-poland-after-being-made-to-carry-dead-foetus-for-seven-days/",
-        "timestamp": 1643217413,
+        "link": "https://www.vice.com/en/article/pkpzkz/heidelberg-university-shooting-nikolai-g-the-third-path",
+        "timestamp": 1643217979,
         "sentiment": -2,
-        "published": "January 26, 2022 5:16 PM"
+        "published": "January 26, 2022 5:26 PM"
     },
     {
         "title": "Biden must release a nearly year-old student debt memo and 'immediately' cancel up to $50,000 in loans before payments resume, Elizabeth Warren, AOC, and 83 other Democrats say",
@@ -313,6 +295,78 @@
         "timestamp": 1643220128,
         "sentiment": -4,
         "published": "January 26, 2022 6:02 PM"
+    },
+    {
+        "title": "Holocaust survivors demand that Tucker Carlson, GOP lawmakers, and anti-vaccine activists stop comparing their ordeal to COVID-19 mandates and restrictions",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/holocaust-remembrance-day-hitlers-victims-damn-covid-19-comparisons-2022-1",
+        "timestamp": 1643220538,
+        "sentiment": 0,
+        "published": "January 26, 2022 6:08 PM"
+    },
+    {
+        "title": "Polish state has ‘blood on its hands’ after death of woman refused an abortion",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/global-development/2022/jan/26/poland-death-of-woman-refused-abortion",
+        "timestamp": 1643222621,
+        "sentiment": -4,
+        "published": "January 26, 2022 6:43 PM"
+    },
+    {
+        "title": "Norway's PM says Russia build-up is 'a sign of weakness'",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-russia-vladimir-putin-europe-moscow-6e5d3171a2540b8550cfc9f01ed5b7dd",
+        "timestamp": 1643222657,
+        "sentiment": -2,
+        "published": "January 26, 2022 6:44 PM"
+    },
+    {
+        "title": "AP News: Thailand first in Asia to move to decriminalize marijuana",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
+        "timestamp": 1643158107,
+        "sentiment": -2,
+        "published": "January 26, 2022 12:48 AM"
+    },
+    {
+        "title": "Robert F. Kennedy Jr. apologized Tuesday after critics, including members of his own family, blasted him for implying Anne Frank had more freedom in hiding from the Nazis than people have today under U.S. vaccine policies.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
+        "timestamp": 1643158836,
+        "sentiment": -4,
+        "published": "January 26, 2022 1:00 AM"
+    },
+    {
+        "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/joe-manchin-bernie-sanders-relationship-primary-2022-1",
+        "timestamp": 1643162701,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:05 AM"
+    },
+    {
+        "title": "2022 is shaping up to be a legal nightmare for Trumpworld. Here's a timeline of upcoming court cases and legal obstacles.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/donald-trump-2022-lawsuit-court-case-timeline-2022-1",
+        "timestamp": 1643196486,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:28 AM"
+    },
+    {
+        "title": "Woman dies in Poland after having to carry dead foetus for seven days",
+        "domain": "notesfrompoland.com",
+        "category": "worldnews",
+        "link": "https://notesfrompoland.com/2022/01/26/woman-dies-in-poland-after-being-made-to-carry-dead-foetus-for-seven-days/",
+        "timestamp": 1643217413,
+        "sentiment": -2,
+        "published": "January 26, 2022 5:16 PM"
     },
     {
         "title": "It Sure Looks Like This Arizona Republican Used Campaign Cash To Attend Jan. 6 Riot",
