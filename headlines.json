@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 12:48 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 26, 2022 1:00 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
         "timestamp": 1643161273,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 26, 2022 1:41 AM"
     },
     {
@@ -36,21 +36,12 @@
         "published": "January 26, 2022 2:05 AM"
     },
     {
-        "title": "It Sure Looks Like This Arizona Republican Used Campaign Cash To Attend Jan. 6 Riot",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/anthony-kern-capitol-riot-campaign-funds_n_61f038b4e4b067cbfa14bc42?utm_campaign=share_twitter&ncid=engmodushpmg00000004",
-        "timestamp": 1643167126,
-        "sentiment": 0,
-        "published": "January 26, 2022 3:18 AM"
-    },
-    {
         "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
         "domain": "thewrap.com",
         "category": "television",
         "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
         "timestamp": 1643169128,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 26, 2022 3:52 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
         "timestamp": 1643171560,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 26, 2022 4:32 AM"
     },
     {
@@ -68,17 +59,8 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
         "timestamp": 1643176438,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 5:53 AM"
-    },
-    {
-        "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
-        "timestamp": 1643179103,
-        "sentiment": -3,
-        "published": "January 26, 2022 6:38 AM"
     },
     {
         "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
         "timestamp": 1643184086,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 8:01 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "television",
         "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
         "timestamp": 1643190177,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "January 26, 2022 9:42 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
         "timestamp": 1643191828,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 26, 2022 10:10 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-694580",
         "timestamp": 1643194611,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 10:56 AM"
     },
     {
@@ -131,8 +113,17 @@
         "category": "worldnews",
         "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
         "timestamp": 1643196897,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 11:34 AM"
+    },
+    {
+        "title": "AP News: Russia threatens retaliation if Ukraine demands not met",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-europe-russia-united-states-moscow-72856781c3b92640d03c5e954488ba90",
+        "timestamp": 1643197929,
+        "sentiment": -2,
+        "published": "January 26, 2022 11:52 AM"
     },
     {
         "title": "Glenn Youngkin Set Up Tipline To Report Teachers And You Know What Pranksters Did Next",
@@ -149,8 +140,197 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-biden-would-consider-putin-personal-sanctions-if-russia-invades-2022-1",
         "timestamp": 1643199683,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 26, 2022 12:21 PM"
+    },
+    {
+        "title": "Congress Can Trade Stocks or Keep the Public Trust. Not Both.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/18/opinion/congress-trade-stocks.html?campaign_id=9&emc=edit_nn_20220124&instance_id=51124&nl=the-morning&regi_id=167329761&segment_id=80567&te=1&user_id=34fafff25b36e5b13f89c07f4b7168f2",
+        "timestamp": 1643202293,
+        "sentiment": 0,
+        "published": "January 26, 2022 1:04 PM"
+    },
+    {
+        "title": "Russia issues arrest warrant for Alexey Navalny’s brother",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/26/russia-issues-arrest-warrant-for-alexey-navalnys-brother",
+        "timestamp": 1643202499,
+        "sentiment": -2,
+        "published": "January 26, 2022 1:08 PM"
+    },
+    {
+        "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/",
+        "timestamp": 1643202581,
+        "sentiment": 0,
+        "published": "January 26, 2022 1:09 PM"
+    },
+    {
+        "title": "France bans gay 'conversion therapy' with new law",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
+        "timestamp": 1643204748,
+        "sentiment": -4,
+        "published": "January 26, 2022 1:45 PM"
+    },
+    {
+        "title": "Costume Designers Guild Awards 2022: ‘Loki,’ ‘WandaVision,’ ‘Squid Game’ Among Nominees",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
+        "timestamp": 1643205936,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:05 PM"
+    },
+    {
+        "title": "HBO And HBO Max Reach 46.8M Domestic Subscribers At End Of 2021, Up 5.3M Over 2020, With Average Domestic Revenue Per Subscriber Of $11.15; Global Subscribers At 73.8M",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
+        "timestamp": 1643206316,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:11 PM"
+    },
+    {
+        "title": "Sean Hannity Sent Kayleigh McEnany A Post-Riot ‘Playbook,’ Newly Released Texts Show",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/sean-hannity-jan-6-texts-kayleigh-mcenany_n_61ea74f7e4b0c24d4dd43f70",
+        "timestamp": 1643206757,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:19 PM"
+    },
+    {
+        "title": "‘South Park’ Enlists Full Orchestra, Singers for “Kyle’s Mom’s a B****” Rendition Ahead of New Season",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
+        "timestamp": 1643209270,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:01 PM"
+    },
+    {
+        "title": "Top DOJ official says federal prosecutors are investigating fake Electoral College certificates that falsely declared Trump won",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fake-electoral-college-trump-doj-2020-2022-1",
+        "timestamp": 1643210200,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:16 PM"
+    },
+    {
+        "title": "Americans seeking to renounce their citizenship are stuck with it for now",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
+        "timestamp": 1643210991,
+        "sentiment": -4,
+        "published": "January 26, 2022 3:29 PM"
+    },
+    {
+        "title": "GOP Rep Claims Without Irony That No President Has Attacked Press More Than Biden",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/jim-banks-biden-press_n_61f060b7e4b067cbfa151f2c",
+        "timestamp": 1643212861,
+        "sentiment": 0,
+        "published": "January 26, 2022 4:01 PM"
+    },
+    {
+        "title": "A bomb cyclone with the power of a hurricane will unleash snow and blizzard-like conditions this weekend",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/26/weather/noreaster-bomb-cyclone-weekend-storm/index.html",
+        "timestamp": 1643212888,
+        "sentiment": -4,
+        "published": "January 26, 2022 4:01 PM"
+    },
+    {
+        "title": "Rioter Who Wore 'Camp Auschwitz' Sweatshirt Pleads Guilty",
+        "domain": "usnews.com",
+        "category": "news",
+        "link": "https://www.usnews.com/news/politics/articles/2022-01-26/rioter-who-wore-camp-auschwitz-sweatshirt-pleads-guilty",
+        "timestamp": 1643214179,
+        "sentiment": -4,
+        "published": "January 26, 2022 4:22 PM"
+    },
+    {
+        "title": "Justice Stephen Breyer to retire from Supreme Court, paving way for Biden appointment",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042",
+        "timestamp": 1643216481,
+        "sentiment": -4,
+        "published": "January 26, 2022 5:01 PM"
+    },
+    {
+        "title": "This review of episode one of Chernobyl taught me to ignore reviews",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2019/may/07/chernobyl-review-chaos-reigns-in-confusing-nuclear-disaster-epic",
+        "timestamp": 1643217350,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:15 PM"
+    },
+    {
+        "title": "Woman dies in Poland after having to carry dead foetus for seven days",
+        "domain": "notesfrompoland.com",
+        "category": "worldnews",
+        "link": "https://notesfrompoland.com/2022/01/26/woman-dies-in-poland-after-being-made-to-carry-dead-foetus-for-seven-days/",
+        "timestamp": 1643217413,
+        "sentiment": -2,
+        "published": "January 26, 2022 5:16 PM"
+    },
+    {
+        "title": "Biden must release a nearly year-old student debt memo and 'immediately' cancel up to $50,000 in loans before payments resume, Elizabeth Warren, AOC, and 83 other Democrats say",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/biden-must-cancel-student-debt-release-memo-aoc-elizabeth-warren-2022-1",
+        "timestamp": 1643218170,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:29 PM"
+    },
+    {
+        "title": "President Biden is replacing federal judges at a record-breaking pace",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/22/1075049532/president-biden-is-replacing-federal-judges-at-a-record-breaking-pace",
+        "timestamp": 1643218454,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:34 PM"
+    },
+    {
+        "title": "Black correction officer mistaken for shoplifter sues Walmart for 'racial profiling'",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/black-correction-officer-mistaken-shoplifter-sues-walmart-racial/story?id=82460745",
+        "timestamp": 1643220128,
+        "sentiment": -4,
+        "published": "January 26, 2022 6:02 PM"
+    },
+    {
+        "title": "It Sure Looks Like This Arizona Republican Used Campaign Cash To Attend Jan. 6 Riot",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/anthony-kern-capitol-riot-campaign-funds_n_61f038b4e4b067cbfa14bc42?utm_campaign=share_twitter&ncid=engmodushpmg00000004",
+        "timestamp": 1643167126,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:18 AM"
+    },
+    {
+        "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
+        "timestamp": 1643179103,
+        "sentiment": -3,
+        "published": "January 26, 2022 6:38 AM"
     },
     {
         "title": "Fixing the Electoral Count Act Is Suddenly the Most Popular Policy Idea in Washington - Experts and politicians agree: The measure is in desperate need of reform, in order to avoid a repeat of 2020 in 2024.",
@@ -171,96 +351,6 @@
         "published": "January 26, 2022 12:39 PM"
     },
     {
-        "title": "Congress Can Trade Stocks or Keep the Public Trust. Not Both.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/01/18/opinion/congress-trade-stocks.html?campaign_id=9&emc=edit_nn_20220124&instance_id=51124&nl=the-morning&regi_id=167329761&segment_id=80567&te=1&user_id=34fafff25b36e5b13f89c07f4b7168f2",
-        "timestamp": 1643202293,
-        "sentiment": 0,
-        "published": "January 26, 2022 1:04 PM"
-    },
-    {
-        "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
-        "domain": "cbsnews.com",
-        "category": "politics",
-        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/",
-        "timestamp": 1643202581,
-        "sentiment": 0,
-        "published": "January 26, 2022 1:09 PM"
-    },
-    {
-        "title": "France bans gay 'conversion therapy' with new law",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
-        "timestamp": 1643204748,
-        "sentiment": 0,
-        "published": "January 26, 2022 1:45 PM"
-    },
-    {
-        "title": "Costume Designers Guild Awards 2022: ‘Loki,’ ‘WandaVision,’ ‘Squid Game’ Among Nominees",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
-        "timestamp": 1643205936,
-        "sentiment": 4,
-        "published": "January 26, 2022 2:05 PM"
-    },
-    {
-        "title": "HBO And HBO Max Reach 46.8M Domestic Subscribers At End Of 2021, Up 5.3M Over 2020, With Average Domestic Revenue Per Subscriber Of $11.15; Global Subscribers At 73.8M",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
-        "timestamp": 1643206316,
-        "sentiment": 4,
-        "published": "January 26, 2022 2:11 PM"
-    },
-    {
-        "title": "Sean Hannity Sent Kayleigh McEnany A Post-Riot ‘Playbook,’ Newly Released Texts Show",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/sean-hannity-jan-6-texts-kayleigh-mcenany_n_61ea74f7e4b0c24d4dd43f70",
-        "timestamp": 1643206757,
-        "sentiment": 0,
-        "published": "January 26, 2022 2:19 PM"
-    },
-    {
-        "title": "‘South Park’ Enlists Full Orchestra, Singers for “Kyle’s Mom’s a B****” Rendition Ahead of New Season",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
-        "timestamp": 1643209270,
-        "sentiment": 4,
-        "published": "January 26, 2022 3:01 PM"
-    },
-    {
-        "title": "Top DOJ official says federal prosecutors are investigating fake Electoral College certificates that falsely declared Trump won",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/fake-electoral-college-trump-doj-2020-2022-1",
-        "timestamp": 1643210200,
-        "sentiment": 0,
-        "published": "January 26, 2022 3:16 PM"
-    },
-    {
-        "title": "Americans seeking to renounce their citizenship are stuck with it for now",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
-        "timestamp": 1643210991,
-        "sentiment": 0,
-        "published": "January 26, 2022 3:29 PM"
-    },
-    {
-        "title": "GOP Rep Claims Without Irony That No President Has Attacked Press More Than Biden",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/jim-banks-biden-press_n_61f060b7e4b067cbfa151f2c",
-        "timestamp": 1643212861,
-        "sentiment": 0,
-        "published": "January 26, 2022 4:01 PM"
-    },
-    {
         "title": "A third of students think Holocaust exaggerated or fabricated: study",
         "domain": "ctvnews.ca",
         "category": "worldnews",
@@ -268,24 +358,6 @@
         "timestamp": 1643214155,
         "sentiment": -3,
         "published": "January 26, 2022 4:22 PM"
-    },
-    {
-        "title": "Justice Stephen Breyer to retire from Supreme Court, paving way for Biden appointment",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042",
-        "timestamp": 1643216481,
-        "sentiment": 0,
-        "published": "January 26, 2022 5:01 PM"
-    },
-    {
-        "title": "Woman dies in Poland after having to carry dead foetus for seven days",
-        "domain": "notesfrompoland.com",
-        "category": "worldnews",
-        "link": "https://notesfrompoland.com/2022/01/26/woman-dies-in-poland-after-being-made-to-carry-dead-foetus-for-seven-days/",
-        "timestamp": 1643217413,
-        "sentiment": -3,
-        "published": "January 26, 2022 5:16 PM"
     },
     {
         "title": "Daily US death toll from Covid now matches Delta",
