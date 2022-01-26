@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
         "timestamp": 1643161273,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 26, 2022 1:41 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
         "timestamp": 1643169128,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 26, 2022 3:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
         "timestamp": 1643171560,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 4:32 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
         "timestamp": 1643176438,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 5:53 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
         "timestamp": 1643184086,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 8:01 AM"
-    },
-    {
-        "title": "'The Woman in the House Across the Street From the Girl in the Window' review: As exhausting as its title",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
-        "timestamp": 1643190177,
-        "sentiment": 0,
-        "published": "January 26, 2022 9:42 AM"
     },
     {
         "title": "Support your children if they are gay, pope tells parents",
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
         "timestamp": 1643191828,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 10:10 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-694580",
         "timestamp": 1643194611,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 10:56 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
         "timestamp": 1643196897,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 11:34 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-europe-russia-united-states-moscow-72856781c3b92640d03c5e954488ba90",
         "timestamp": 1643197929,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 11:52 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-biden-would-consider-putin-personal-sanctions-if-russia-invades-2022-1",
         "timestamp": 1643199683,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 12:21 PM"
     },
     {
@@ -115,15 +106,6 @@
         "timestamp": 1643202293,
         "sentiment": 0,
         "published": "January 26, 2022 1:04 PM"
-    },
-    {
-        "title": "Russia issues arrest warrant for Alexey Navalny’s brother",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/1/26/russia-issues-arrest-warrant-for-alexey-navalnys-brother",
-        "timestamp": 1643202499,
-        "sentiment": -2,
-        "published": "January 26, 2022 1:08 PM"
     },
     {
         "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
         "timestamp": 1643204748,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 1:45 PM"
     },
     {
@@ -149,17 +131,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
         "timestamp": 1643205936,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 26, 2022 2:05 PM"
-    },
-    {
-        "title": "HBO And HBO Max Reach 46.8M Domestic Subscribers At End Of 2021, Up 5.3M Over 2020, With Average Domestic Revenue Per Subscriber Of $11.15; Global Subscribers At 73.8M",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
-        "timestamp": 1643206316,
-        "sentiment": 0,
-        "published": "January 26, 2022 2:11 PM"
     },
     {
         "title": "Sean Hannity Sent Kayleigh McEnany A Post-Riot ‘Playbook,’ Newly Released Texts Show",
@@ -176,7 +149,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
         "timestamp": 1643209270,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 26, 2022 3:01 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
         "timestamp": 1643210991,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 3:29 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/26/weather/noreaster-bomb-cyclone-weekend-storm/index.html",
         "timestamp": 1643212888,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 4:01 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.usnews.com/news/politics/articles/2022-01-26/rioter-who-wore-camp-auschwitz-sweatshirt-pleads-guilty",
         "timestamp": 1643214179,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 4:22 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/every-indication-putin-plans-force-143136165.html?fr=sycsrp_catchall",
         "timestamp": 1643215391,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 4:43 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042",
         "timestamp": 1643216481,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 5:01 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2019/may/07/chernobyl-review-chaos-reigns-in-confusing-nuclear-disaster-epic",
         "timestamp": 1643217350,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "January 26, 2022 5:15 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.vice.com/en/article/pkpzkz/heidelberg-university-shooting-nikolai-g-the-third-path",
         "timestamp": 1643217979,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 5:26 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/black-correction-officer-mistaken-shoplifter-sues-walmart-racial/story?id=82460745",
         "timestamp": 1643220128,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 6:02 PM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/global-development/2022/jan/26/poland-death-of-woman-refused-abortion",
         "timestamp": 1643222621,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "January 26, 2022 6:43 PM"
     },
     {
@@ -320,8 +293,62 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-russia-vladimir-putin-europe-moscow-6e5d3171a2540b8550cfc9f01ed5b7dd",
         "timestamp": 1643222657,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 26, 2022 6:44 PM"
+    },
+    {
+        "title": "‘Succession,’ ‘Ted Lasso’ Lead 2022 DGA Awards TV Nominations",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/awards/directors-guild-tv-awards-nominations-2022-succession-1235163574/",
+        "timestamp": 1643224623,
+        "sentiment": -1,
+        "published": "January 26, 2022 7:17 PM"
+    },
+    {
+        "title": "‘Young Sheldon’ Repeats Are Beating Every Other Network’s Comedies This Season in Ratings",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/young-sheldon-repeats-more-watched/",
+        "timestamp": 1643226906,
+        "sentiment": -1,
+        "published": "January 26, 2022 7:55 PM"
+    },
+    {
+        "title": "Anger in China as Keanu Reeves joins benefit concert for Tibet",
+        "domain": "news.com.au",
+        "category": "worldnews",
+        "link": "https://www.news.com.au/entertainment/celebrity-life/anger-in-china-as-keanu-reeves-joins-benefit-concert-for-tibet/news-story/355155d92bc572829438326b94ca4d2e",
+        "timestamp": 1643228197,
+        "sentiment": -3,
+        "published": "January 26, 2022 8:16 PM"
+    },
+    {
+        "title": "'The Woman in the House Across the Street From the Girl in the Window' review: As exhausting as its title",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
+        "timestamp": 1643190177,
+        "sentiment": 0,
+        "published": "January 26, 2022 9:42 AM"
+    },
+    {
+        "title": "Russia issues arrest warrant for Alexey Navalny’s brother",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/1/26/russia-issues-arrest-warrant-for-alexey-navalnys-brother",
+        "timestamp": 1643202499,
+        "sentiment": -2,
+        "published": "January 26, 2022 1:08 PM"
+    },
+    {
+        "title": "HBO And HBO Max Reach 46.8M Domestic Subscribers At End Of 2021, Up 5.3M Over 2020, With Average Domestic Revenue Per Subscriber Of $11.15; Global Subscribers At 73.8M",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
+        "timestamp": 1643206316,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:11 PM"
     },
     {
         "title": "AP News: Thailand first in Asia to move to decriminalize marijuana",
