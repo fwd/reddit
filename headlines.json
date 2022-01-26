@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60133618",
         "timestamp": 1643158563,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 12:56 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 26, 2022 1:00 AM"
     },
     {
@@ -45,15 +45,6 @@
         "published": "January 26, 2022 1:41 AM"
     },
     {
-        "title": "Biden says no U.S. or NATO troops will be sent to Ukraine if Russia invades",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/biden-says-no-u-nato-201115427.html",
-        "timestamp": 1643162563,
-        "sentiment": -2,
-        "published": "January 26, 2022 2:02 AM"
-    },
-    {
         "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -63,15 +54,6 @@
         "published": "January 26, 2022 2:05 AM"
     },
     {
-        "title": "Chinese entertainment giant Tencent accused of wanting ‘bigger tits’ and ‘no blacks’ in a film it funded",
-        "domain": "rt.com",
-        "category": "worldnews",
-        "link": "https://www.rt.com/pop-culture/547312-tencent-accused-film-rules/",
-        "timestamp": 1643167912,
-        "sentiment": -2,
-        "published": "January 26, 2022 3:31 AM"
-    },
-    {
         "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
         "domain": "thewrap.com",
         "category": "television",
@@ -79,6 +61,33 @@
         "timestamp": 1643169128,
         "sentiment": 2,
         "published": "January 26, 2022 3:52 AM"
+    },
+    {
+        "title": "Out-of-control SpaceX rocket on collision course with the moon",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
+        "timestamp": 1643171560,
+        "sentiment": -3,
+        "published": "January 26, 2022 4:32 AM"
+    },
+    {
+        "title": "Biden says no U.S. or NATO troops will be sent to Ukraine if Russia invades",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/biden-says-no-u-nato-201115427.html",
+        "timestamp": 1643162563,
+        "sentiment": -2,
+        "published": "January 26, 2022 2:02 AM"
+    },
+    {
+        "title": "Chinese entertainment giant Tencent accused of wanting ‘bigger tits’ and ‘no blacks’ in a film it funded",
+        "domain": "rt.com",
+        "category": "worldnews",
+        "link": "https://www.rt.com/pop-culture/547312-tencent-accused-film-rules/",
+        "timestamp": 1643167912,
+        "sentiment": -2,
+        "published": "January 26, 2022 3:31 AM"
     },
     {
         "title": "‘Abbott Elementary’ Becomes First ABC Comedy Premiere To Quadruple In MP35",
