@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 26, 2022 12:48 AM"
     },
     {
@@ -104,8 +104,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
         "timestamp": 1643176438,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 26, 2022 5:53 AM"
+    },
+    {
+        "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/belarus-ukraine-us-warning/31671188.html",
+        "timestamp": 1643179103,
+        "sentiment": 1,
+        "published": "January 26, 2022 6:38 AM"
     },
     {
         "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
@@ -113,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
         "timestamp": 1643184086,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "January 26, 2022 8:01 AM"
     },
     {
