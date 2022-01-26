@@ -1,20 +1,11 @@
 [
     {
-        "title": "Pritzker vetoes proposal to pay COVID-19 sick leave to all school employees, says only fully vaccinated should be compensated",
-        "domain": "chicagotribune.com",
-        "category": "politics",
-        "link": "https://www.chicagotribune.com/coronavirus/ct-covid-pritzker-vaccinated-teachers-sick-days-20220125-b4dubwh2pbgmxcrf3zbmr4uasy-story.html",
-        "timestamp": 1643157540,
-        "sentiment": -3,
-        "published": "January 26, 2022 12:39 AM"
-    },
-    {
         "title": "AP News: Thailand first in Asia to move to decriminalize marijuana",
         "domain": "apnews.com",
         "category": "worldnews",
         "link": "https://apnews.com/article/health-asia-marijuana-thailand-62cb278fe7eb269cf2bf967d272ab098",
         "timestamp": 1643158107,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 26, 2022 12:48 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60133618",
         "timestamp": 1643158563,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 26, 2022 12:56 AM"
     },
     {
@@ -32,8 +23,278 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/robert-f-kennedy-jr-apologizes-anne-frank-reference-anti-vaccine-speec-rcna13484",
         "timestamp": 1643158836,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "January 26, 2022 1:00 AM"
+    },
+    {
+        "title": "Peter Robbins, voice actor for Charlie Brown in Peanuts, has committed suicide at 65",
+        "domain": "fox5sandiego.com",
+        "category": "television",
+        "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
+        "timestamp": 1643161273,
+        "sentiment": 1,
+        "published": "January 26, 2022 1:41 AM"
+    },
+    {
+        "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/joe-manchin-bernie-sanders-relationship-primary-2022-1",
+        "timestamp": 1643162701,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:05 AM"
+    },
+    {
+        "title": "It Sure Looks Like This Arizona Republican Used Campaign Cash To Attend Jan. 6 Riot",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/anthony-kern-capitol-riot-campaign-funds_n_61f038b4e4b067cbfa14bc42?utm_campaign=share_twitter&ncid=engmodushpmg00000004",
+        "timestamp": 1643167126,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:18 AM"
+    },
+    {
+        "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
+        "timestamp": 1643169128,
+        "sentiment": 1,
+        "published": "January 26, 2022 3:52 AM"
+    },
+    {
+        "title": "Out-of-control SpaceX rocket on collision course with the moon",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
+        "timestamp": 1643171560,
+        "sentiment": -2,
+        "published": "January 26, 2022 4:32 AM"
+    },
+    {
+        "title": "US Navy Wants To Get Crashed Stealth Fighter Back From South China Sea, Before China Can",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
+        "timestamp": 1643176438,
+        "sentiment": 0,
+        "published": "January 26, 2022 5:53 AM"
+    },
+    {
+        "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
+        "timestamp": 1643184086,
+        "sentiment": 0,
+        "published": "January 26, 2022 8:01 AM"
+    },
+    {
+        "title": "'The Woman in the House Across the Street From the Girl in the Window' review: As exhausting as its title",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
+        "timestamp": 1643190177,
+        "sentiment": 1,
+        "published": "January 26, 2022 9:42 AM"
+    },
+    {
+        "title": "Support your children if they are gay, pope tells parents",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
+        "timestamp": 1643191828,
+        "sentiment": -2,
+        "published": "January 26, 2022 10:10 AM"
+    },
+    {
+        "title": "Why are Germany and France at odds with the Anglosphere over how to handle Russia?",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/26/nato-allies-policy-russia-ukraine-analysis",
+        "timestamp": 1643192810,
+        "sentiment": 0,
+        "published": "January 26, 2022 10:26 AM"
+    },
+    {
+        "title": "Jeremy Corbyn barred from rejoining UK Labour party",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-694580",
+        "timestamp": 1643194611,
+        "sentiment": 0,
+        "published": "January 26, 2022 10:56 AM"
+    },
+    {
+        "title": "2022 is shaping up to be a legal nightmare for Trumpworld. Here's a timeline of upcoming court cases and legal obstacles.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/donald-trump-2022-lawsuit-court-case-timeline-2022-1",
+        "timestamp": 1643196486,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:28 AM"
+    },
+    {
+        "title": "Pope Francis tells parents not to condemn children with different sexual orientations",
+        "domain": "ncronline.org",
+        "category": "worldnews",
+        "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
+        "timestamp": 1643196897,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:34 AM"
+    },
+    {
+        "title": "Glenn Youngkin Set Up Tipline To Report Teachers And You Know What Pranksters Did Next",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/glenn-youngkin-tip-line-pranksters_n_61f0f6c0e4b0061af257cbfd",
+        "timestamp": 1643197929,
+        "sentiment": 0,
+        "published": "January 26, 2022 11:52 AM"
+    },
+    {
+        "title": "Biden says he'd consider slapping Putin with personal sanctions if Russia invades Ukraine",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/ukraine-biden-would-consider-putin-personal-sanctions-if-russia-invades-2022-1",
+        "timestamp": 1643199683,
+        "sentiment": 0,
+        "published": "January 26, 2022 12:21 PM"
+    },
+    {
+        "title": "‘He’s a villain’: Joe Manchin attracts global anger over climate crisis | Joe Manchin",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2022/jan/26/joe-manchin-climate-crisis-global-villain",
+        "timestamp": 1643199848,
+        "sentiment": 0,
+        "published": "January 26, 2022 12:24 PM"
+    },
+    {
+        "title": "Fixing the Electoral Count Act Is Suddenly the Most Popular Policy Idea in Washington - Experts and politicians agree: The measure is in desperate need of reform, in order to avoid a repeat of 2020 in 2024.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165136/electoral-count-act-angus-king",
+        "timestamp": 1643200169,
+        "sentiment": 0,
+        "published": "January 26, 2022 12:29 PM"
+    },
+    {
+        "title": "China pledges 'purification' of the internet ahead of the Beijing Winter Olympics and the Lunar New Year",
+        "domain": "amp.cnn.com",
+        "category": "news",
+        "link": "https://amp.cnn.com/cnn/2022/01/26/tech/china-clean-up-internet-beijing-olympics-intl-hnk/index.html",
+        "timestamp": 1643200758,
+        "sentiment": -2,
+        "published": "January 26, 2022 12:39 PM"
+    },
+    {
+        "title": "Congress Can Trade Stocks or Keep the Public Trust. Not Both.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/18/opinion/congress-trade-stocks.html?campaign_id=9&emc=edit_nn_20220124&instance_id=51124&nl=the-morning&regi_id=167329761&segment_id=80567&te=1&user_id=34fafff25b36e5b13f89c07f4b7168f2",
+        "timestamp": 1643202293,
+        "sentiment": 0,
+        "published": "January 26, 2022 1:04 PM"
+    },
+    {
+        "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/",
+        "timestamp": 1643202581,
+        "sentiment": 0,
+        "published": "January 26, 2022 1:09 PM"
+    },
+    {
+        "title": "France bans gay 'conversion therapy' with new law",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
+        "timestamp": 1643204748,
+        "sentiment": -2,
+        "published": "January 26, 2022 1:45 PM"
+    },
+    {
+        "title": "Costume Designers Guild Awards 2022: ‘Loki,’ ‘WandaVision,’ ‘Squid Game’ Among Nominees",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
+        "timestamp": 1643205936,
+        "sentiment": 1,
+        "published": "January 26, 2022 2:05 PM"
+    },
+    {
+        "title": "HBO And HBO Max Reach 46.8M Domestic Subscribers At End Of 2021, Up 5.3M Over 2020, With Average Domestic Revenue Per Subscriber Of $11.15; Global Subscribers At 73.8M",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/hbo-hbo-max-reach-46-8m-domestic-subscribers-average-revenue-1234920025/",
+        "timestamp": 1643206316,
+        "sentiment": 1,
+        "published": "January 26, 2022 2:11 PM"
+    },
+    {
+        "title": "Sean Hannity Sent Kayleigh McEnany A Post-Riot ‘Playbook,’ Newly Released Texts Show",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/sean-hannity-jan-6-texts-kayleigh-mcenany_n_61ea74f7e4b0c24d4dd43f70",
+        "timestamp": 1643206757,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:19 PM"
+    },
+    {
+        "title": "Americans seeking to renounce their citizenship are stuck with it for now | US news",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
+        "timestamp": 1643207787,
+        "sentiment": 0,
+        "published": "January 26, 2022 2:36 PM"
+    },
+    {
+        "title": "‘South Park’ Enlists Full Orchestra, Singers for “Kyle’s Mom’s a B****” Rendition Ahead of New Season",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
+        "timestamp": 1643209270,
+        "sentiment": 1,
+        "published": "January 26, 2022 3:01 PM"
+    },
+    {
+        "title": "Top DOJ official says federal prosecutors are investigating fake Electoral College certificates that falsely declared Trump won",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fake-electoral-college-trump-doj-2020-2022-1",
+        "timestamp": 1643210200,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:16 PM"
+    },
+    {
+        "title": "Americans seeking to renounce their citizenship are stuck with it for now",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2021/dec/31/americans-seeking-renounce-citizenship-stuck",
+        "timestamp": 1643210991,
+        "sentiment": -2,
+        "published": "January 26, 2022 3:29 PM"
+    },
+    {
+        "title": "Portland Police Used a Proud Boy Meme in Their Training Materials. The Feds Want Answers",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/portland-police-proud-boys-training-1290583/",
+        "timestamp": 1643212716,
+        "sentiment": 0,
+        "published": "January 26, 2022 3:58 PM"
+    },
+    {
+        "title": "Pritzker vetoes proposal to pay COVID-19 sick leave to all school employees, says only fully vaccinated should be compensated",
+        "domain": "chicagotribune.com",
+        "category": "politics",
+        "link": "https://www.chicagotribune.com/coronavirus/ct-covid-pritzker-vaccinated-teachers-sick-days-20220125-b4dubwh2pbgmxcrf3zbmr4uasy-story.html",
+        "timestamp": 1643157540,
+        "sentiment": -3,
+        "published": "January 26, 2022 12:39 AM"
     },
     {
         "title": "Wyoming's first Black sheriff fired White deputy over alleged racism, lawsuit says",
@@ -45,60 +306,6 @@
         "published": "January 26, 2022 1:38 AM"
     },
     {
-        "title": "Peter Robbins, voice actor for Charlie Brown in Peanuts, has committed suicide at 65",
-        "domain": "fox5sandiego.com",
-        "category": "television",
-        "link": "https://fox5sandiego.com/entertainment/charlie-brown-voice-actor-dies-at-65/",
-        "timestamp": 1643161273,
-        "sentiment": 0,
-        "published": "January 26, 2022 1:41 AM"
-    },
-    {
-        "title": "Joe Manchin says Bernie Sanders is not what 'the majority of Americans represent' after Sanders hinted at Manchin getting primaried",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/joe-manchin-bernie-sanders-relationship-primary-2022-1",
-        "timestamp": 1643162701,
-        "sentiment": -3,
-        "published": "January 26, 2022 2:05 AM"
-    },
-    {
-        "title": "It Sure Looks Like This Arizona Republican Used Campaign Cash To Attend Jan. 6 Riot",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/anthony-kern-capitol-riot-campaign-funds_n_61f038b4e4b067cbfa14bc42?utm_campaign=share_twitter&ncid=engmodushpmg00000004",
-        "timestamp": 1643167126,
-        "sentiment": -3,
-        "published": "January 26, 2022 3:18 AM"
-    },
-    {
-        "title": "Peacemaker Blasts Onto List of Most In-Demand New Shows",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/peacemaker-most-in-demand-new-shows/",
-        "timestamp": 1643169128,
-        "sentiment": 0,
-        "published": "January 26, 2022 3:52 AM"
-    },
-    {
-        "title": "Out-of-control SpaceX rocket on collision course with the moon",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/science/2022/jan/26/out-of-control-spacex-rocket-on-track-to-collide-with-the-moon",
-        "timestamp": 1643171560,
-        "sentiment": -7,
-        "published": "January 26, 2022 4:32 AM"
-    },
-    {
-        "title": "US Navy Wants To Get Crashed Stealth Fighter Back From South China Sea, Before China Can",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/01/25/asia/us-f-35-crash-recovery-south-china-sea-intl-hnk-ml/index.html",
-        "timestamp": 1643176438,
-        "sentiment": -1,
-        "published": "January 26, 2022 5:53 AM"
-    },
-    {
         "title": "U.S. Warns Belarus Against Helping Potential Russian Invasion Of Ukraine",
         "domain": "rferl.org",
         "category": "worldnews",
@@ -106,24 +313,6 @@
         "timestamp": 1643179103,
         "sentiment": -1,
         "published": "January 26, 2022 6:38 AM"
-    },
-    {
-        "title": "LGBTQ Afghans face surge of rape, torture after Taliban takeover, report says",
-        "domain": "nbcnews.com",
-        "category": "worldnews",
-        "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-afghans-face-surge-rape-torture-taliban-takeover-report-says-rcna13303",
-        "timestamp": 1643184086,
-        "sentiment": -1,
-        "published": "January 26, 2022 8:01 AM"
-    },
-    {
-        "title": "'The Woman in the House Across the Street From the Girl in the Window' review: As exhausting as its title",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/tv-reviews/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window-review-netflix/",
-        "timestamp": 1643190177,
-        "sentiment": 0,
-        "published": "January 26, 2022 9:42 AM"
     },
     {
         "title": "African President Was Ousted Just Weeks After Refusing to Pay Russian Paramilitaries",
@@ -135,123 +324,6 @@
         "published": "January 26, 2022 9:44 AM"
     },
     {
-        "title": "Support your children if they are gay, pope tells parents",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/support-your-children-if-they-are-gay-pope-tells-parents-2022-01-26/",
-        "timestamp": 1643191828,
-        "sentiment": -7,
-        "published": "January 26, 2022 10:10 AM"
-    },
-    {
-        "title": "Why are Germany and France at odds with the Anglosphere over how to handle Russia?",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/26/nato-allies-policy-russia-ukraine-analysis",
-        "timestamp": 1643192810,
-        "sentiment": -1,
-        "published": "January 26, 2022 10:26 AM"
-    },
-    {
-        "title": "Jeremy Corbyn barred from rejoining UK Labour party",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-694580",
-        "timestamp": 1643194611,
-        "sentiment": -1,
-        "published": "January 26, 2022 10:56 AM"
-    },
-    {
-        "title": "2022 is shaping up to be a legal nightmare for Trumpworld. Here's a timeline of upcoming court cases and legal obstacles.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/donald-trump-2022-lawsuit-court-case-timeline-2022-1",
-        "timestamp": 1643196486,
-        "sentiment": -3,
-        "published": "January 26, 2022 11:28 AM"
-    },
-    {
-        "title": "Pope Francis tells parents not to condemn children with different sexual orientations",
-        "domain": "ncronline.org",
-        "category": "worldnews",
-        "link": "https://www.ncronline.org/news/vatican/pope-francis-tells-parents-not-condemn-children-different-sexual-orientations",
-        "timestamp": 1643196897,
-        "sentiment": -1,
-        "published": "January 26, 2022 11:34 AM"
-    },
-    {
-        "title": "Glenn Youngkin Set Up Tipline To Report Teachers And You Know What Pranksters Did Next",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/glenn-youngkin-tip-line-pranksters_n_61f0f6c0e4b0061af257cbfd",
-        "timestamp": 1643197929,
-        "sentiment": -3,
-        "published": "January 26, 2022 11:52 AM"
-    },
-    {
-        "title": "‘He’s a villain’: Joe Manchin attracts global anger over climate crisis | Joe Manchin",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/us-news/2022/jan/26/joe-manchin-climate-crisis-global-villain",
-        "timestamp": 1643199848,
-        "sentiment": -1,
-        "published": "January 26, 2022 12:24 PM"
-    },
-    {
-        "title": "China pledges 'purification' of the internet ahead of the Beijing Winter Olympics and the Lunar New Year",
-        "domain": "amp.cnn.com",
-        "category": "news",
-        "link": "https://amp.cnn.com/cnn/2022/01/26/tech/china-clean-up-internet-beijing-olympics-intl-hnk/index.html",
-        "timestamp": 1643200758,
-        "sentiment": -7,
-        "published": "January 26, 2022 12:39 PM"
-    },
-    {
-        "title": "Congress Can Trade Stocks or Keep the Public Trust. Not Both.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/01/18/opinion/congress-trade-stocks.html?campaign_id=9&emc=edit_nn_20220124&instance_id=51124&nl=the-morning&regi_id=167329761&segment_id=80567&te=1&user_id=34fafff25b36e5b13f89c07f4b7168f2",
-        "timestamp": 1643202293,
-        "sentiment": -3,
-        "published": "January 26, 2022 1:04 PM"
-    },
-    {
-        "title": "San Jose passes first U.S. law requiring gun owners to get liability insurance and pay annual fee",
-        "domain": "cbsnews.com",
-        "category": "politics",
-        "link": "https://www.cbsnews.com/news/san-jose-gun-law-insurance-annual-fee/",
-        "timestamp": 1643202581,
-        "sentiment": -3,
-        "published": "January 26, 2022 1:09 PM"
-    },
-    {
-        "title": "France bans gay 'conversion therapy' with new law",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/france-bans-gay-conversion-therapy-law-82480852",
-        "timestamp": 1643204748,
-        "sentiment": -7,
-        "published": "January 26, 2022 1:45 PM"
-    },
-    {
-        "title": "Costume Designers Guild Awards 2022: ‘Loki,’ ‘WandaVision,’ ‘Squid Game’ Among Nominees",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/costume-designers-guild-awards-2022-nominations-nominees-list-1235081210/",
-        "timestamp": 1643205936,
-        "sentiment": 0,
-        "published": "January 26, 2022 2:05 PM"
-    },
-    {
-        "title": "Sean Hannity Sent Kayleigh McEnany A Post-Riot ‘Playbook,’ Newly Released Texts Show",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/sean-hannity-jan-6-texts-kayleigh-mcenany_n_61ea74f7e4b0c24d4dd43f70",
-        "timestamp": 1643206757,
-        "sentiment": -3,
-        "published": "January 26, 2022 2:19 PM"
-    },
-    {
         "title": "Florida Shock Jock in Matt Gaetz Circle Pleads Guilty",
         "domain": "thedailybeast.com",
         "category": "politics",
@@ -259,15 +331,6 @@
         "timestamp": 1643208397,
         "sentiment": -3,
         "published": "January 26, 2022 2:46 PM"
-    },
-    {
-        "title": "‘South Park’ Enlists Full Orchestra, Singers for “Kyle’s Mom’s a B****” Rendition Ahead of New Season",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-enlists-orchestra-kyles-mom-rendition-ahead-season-1235081277/",
-        "timestamp": 1643209270,
-        "sentiment": 0,
-        "published": "January 26, 2022 3:01 PM"
     },
     {
         "title": "Peter Robbins: Voice of Charlie Brown found dead",
