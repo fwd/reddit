@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-europe-60145159",
         "timestamp": 1643241795,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 12:03 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/germany-offer-5000-helmets-ukraine-decried-as-joke-by-kyiv-mayor-2022-1",
         "timestamp": 1643242508,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 12:15 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=wrap",
         "timestamp": 1643244476,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 27, 2022 12:47 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/tennessee-school-bans-art-spiegelmans-pulitzer-prize-winning-graphic-novel-maus",
         "timestamp": 1643244928,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 27, 2022 12:55 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://time.com/6142360/thailand-decriminalizes-marijuana/",
         "timestamp": 1643248519,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 1:55 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/ron-johnson-other-peoples-children_n_61f1c3b1e4b04f9a12b83b79?ncid=APPLENEWS00001",
         "timestamp": 1643249493,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 27, 2022 2:11 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.daijiworld.com/news/newsDisplay?newsID=919243",
         "timestamp": 1643253457,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 3:17 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/26/europe/ukraine-russia-normandy-format-ceasefire-talks-intl-hnk/index.html",
         "timestamp": 1643253744,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 3:22 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/01/26/tennessee-school-board-bans-holocaust-comic-maus-by-art-spiegelman.html",
         "timestamp": 1643255862,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 27, 2022 3:57 AM"
     },
     {
@@ -151,6 +151,15 @@
         "timestamp": 1643256286,
         "sentiment": -3,
         "published": "January 27, 2022 4:04 AM"
+    },
+    {
+        "title": "Texas violated voting rights law during redistricting, retiring state GOP senator says in sworn court statement",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/26/texas-redistricting-kel-seliger-redistricting/",
+        "timestamp": 1643257339,
+        "sentiment": 2,
+        "published": "January 27, 2022 4:22 AM"
     },
     {
         "title": "Black man on camping trip died in modern day lynching, his family says",
@@ -167,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/27/soldier-opens-fire-kills-five-troops-at-ukraine-military",
         "timestamp": 1643267077,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 7:04 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60140566",
         "timestamp": 1643269251,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 7:40 AM"
     },
     {
@@ -194,8 +203,26 @@
         "category": "worldnews",
         "link": "https://www.ft.com/content/789f0799-8583-4cbb-b513-8924561caf74",
         "timestamp": 1643277639,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 10:00 AM"
+    },
+    {
+        "title": "Barry Cryer: Veteran comedian and writer (The Two Ronnies, Bob Hope, Tommy Cooper and Morecambe and Wise) dies aged 86",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-60154371",
+        "timestamp": 1643284284,
+        "sentiment": -1,
+        "published": "January 27, 2022 11:51 AM"
+    },
+    {
+        "title": "Germany says it will send 5,000 helmets to Ukraine after being slammed for refusing to send weapons",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/lifestyle/germany-says-send-5-000-131431172.html",
+        "timestamp": 1643285930,
+        "sentiment": -2,
+        "published": "January 27, 2022 12:18 PM"
     },
     {
         "title": "Amy Schneider ‘Jeopardy!’ Streak Ends After 40 Games And $1.4 Million",
