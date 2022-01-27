@@ -9,24 +9,6 @@
         "published": "January 27, 2022 1:59 AM"
     },
     {
-        "title": "Popular anti-work subreddit goes private after awkward Fox News interview",
-        "domain": "independent.co.uk",
-        "category": "news",
-        "link": "https://www.independent.co.uk/news/world/americas/antiwork-reddit-fox-news-interview-b2001619.html",
-        "timestamp": 1643254246,
-        "sentiment": 1,
-        "published": "January 27, 2022 3:30 AM"
-    },
-    {
-        "title": "Amy Schneider’s historic ‘Jeopardy!’ winning streak ends with loss to Chicago librarian Rhone Talsma",
-        "domain": "chicagotribune.com",
-        "category": "television",
-        "link": "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-jeopardy-new-winner-chicago-librarian-schneider-20220126-cdby5wpk6jarbc5mpkztodfw3q-story.html",
-        "timestamp": 1643255838,
-        "sentiment": 0,
-        "published": "January 27, 2022 3:57 AM"
-    },
-    {
         "title": "Ukraine Soldier Opens Fire, Kills Five Soldiers at Military Base",
         "domain": "aljazeera.com",
         "category": "worldnews",
@@ -45,15 +27,6 @@
         "published": "January 27, 2022 7:40 AM"
     },
     {
-        "title": "‘Loki,’ ‘Rick and Morty’ Among 2021’s Most Pirated Television Shows",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/most-pirated-movies-tv-shows-2021-list/",
-        "timestamp": 1643276073,
-        "sentiment": 0,
-        "published": "January 27, 2022 9:34 AM"
-    },
-    {
         "title": "Denmark set to lift all Covid curbs amid record high surge of infections.",
         "domain": "ft.com",
         "category": "worldnews",
@@ -70,15 +43,6 @@
         "timestamp": 1643283221,
         "sentiment": 4,
         "published": "January 27, 2022 11:33 AM"
-    },
-    {
-        "title": "Dirty Russian Money Flowing Through UK 'Destabilising' Ukraine",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/tugendhat-dirty-russian-money-flowing-through-uk-destabilising-ukraine-2022-1",
-        "timestamp": 1643286036,
-        "sentiment": -2,
-        "published": "January 27, 2022 12:20 PM"
     },
     {
         "title": "Tucker Carlson Flips Out Over Biden’s Vow To Appoint Black Woman To Supreme Court",
@@ -131,7 +95,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/richard-jacobson-fall-death-arizona-superstition-mountains/?ftag=CNM-00-10aac3a",
         "timestamp": 1643288549,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 1:02 PM"
     },
     {
@@ -140,7 +104,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jan/26/homeless-los-angeles-super-bowl",
         "timestamp": 1643288751,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 1:05 PM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/obamacare-14-5-million-americans-sign-up-affordable-care-act/",
         "timestamp": 1643294084,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 2:34 PM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/27/business-food/sarah-palin-covid-restaurant/index.html",
         "timestamp": 1643296363,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 3:12 PM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/uk-england-nottinghamshire-60159649",
         "timestamp": 1643299853,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 4:10 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "news",
         "link": "http://www.cnn.com/travel/article/prison-time-flight-attendant-assault/index.html",
         "timestamp": 1643303894,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 5:18 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "news",
         "link": "https://wcyb.com/news/nation-world/sheriff-man-stealing-catalytic-converter-fatally-crushed-in-north-carolina",
         "timestamp": 1643305794,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 5:49 PM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "news",
         "link": "https://www.theledger.com/story/news/local/2022/01/21/judge-stargels-abortion-dissent-gets-criticism-focus-teens-gpa/6590534001/",
         "timestamp": 1643306545,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 6:02 PM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "news",
         "link": "https://www.mlive.com/news/grand-rapids/2022/01/judge-rejects-entrapment-claim-in-gov-whitmer-kidnap-plot-prosecutor-says-defense-based-on-conspiracy-theories.html",
         "timestamp": 1643311038,
-        "sentiment": 1,
+        "sentiment": -7,
         "published": "January 27, 2022 7:17 PM"
     },
     {
@@ -349,6 +313,78 @@
         "timestamp": 1643314543,
         "sentiment": 0,
         "published": "January 27, 2022 8:15 PM"
+    },
+    {
+        "title": "Auschwitz survivor and great-grandson teach TikTok about realities of Holocaust",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Entertainment/auschwitz-survivor-great-grandson-teach-tiktok-realities-holocaust/story?id=82490868",
+        "timestamp": 1643314893,
+        "sentiment": -7,
+        "published": "January 27, 2022 8:21 PM"
+    },
+    {
+        "title": "David Attenborough's The Green Planet is the nature TV we need - it shows the power of plants",
+        "domain": "inews.co.uk",
+        "category": "television",
+        "link": "https://inews.co.uk/culture/television/david-attenborough-the-green-planet-bbc-one-is-the-nature-series-we-need-it-shows-the-power-of-plants-1388652",
+        "timestamp": 1643318979,
+        "sentiment": 0,
+        "published": "January 27, 2022 9:29 PM"
+    },
+    {
+        "title": "Biden admin warns that serious Russian combat forces have gathered near Ukraine in last 24 hours",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10449615/Biden-admin-warns-Russian-combat-forces-gathered-near-Ukraine-24-hours.html",
+        "timestamp": 1643321607,
+        "sentiment": -2,
+        "published": "January 27, 2022 10:13 PM"
+    },
+    {
+        "title": "Marvel and Lost actress Evangeline Lilly is slamming vaccine mandates.",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/news/general-news/marvel-evangeline-lilly-anti-vax-1235082668/",
+        "timestamp": 1643322038,
+        "sentiment": 0,
+        "published": "January 27, 2022 10:20 PM"
+    },
+    {
+        "title": "Popular anti-work subreddit goes private after awkward Fox News interview",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/antiwork-reddit-fox-news-interview-b2001619.html",
+        "timestamp": 1643254246,
+        "sentiment": 1,
+        "published": "January 27, 2022 3:30 AM"
+    },
+    {
+        "title": "Amy Schneider’s historic ‘Jeopardy!’ winning streak ends with loss to Chicago librarian Rhone Talsma",
+        "domain": "chicagotribune.com",
+        "category": "television",
+        "link": "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-jeopardy-new-winner-chicago-librarian-schneider-20220126-cdby5wpk6jarbc5mpkztodfw3q-story.html",
+        "timestamp": 1643255838,
+        "sentiment": 0,
+        "published": "January 27, 2022 3:57 AM"
+    },
+    {
+        "title": "‘Loki,’ ‘Rick and Morty’ Among 2021’s Most Pirated Television Shows",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/most-pirated-movies-tv-shows-2021-list/",
+        "timestamp": 1643276073,
+        "sentiment": 0,
+        "published": "January 27, 2022 9:34 AM"
+    },
+    {
+        "title": "Dirty Russian Money Flowing Through UK 'Destabilising' Ukraine",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/tugendhat-dirty-russian-money-flowing-through-uk-destabilising-ukraine-2022-1",
+        "timestamp": 1643286036,
+        "sentiment": -2,
+        "published": "January 27, 2022 12:20 PM"
     },
     {
         "title": "Moderator fired from anti-work subreddit in fallout from disastrous Fox News interview",
