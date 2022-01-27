@@ -1,20 +1,11 @@
 [
     {
-        "title": "Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/world-europe-60145159",
-        "timestamp": 1643241795,
-        "sentiment": -5,
-        "published": "January 27, 2022 12:03 AM"
-    },
-    {
         "title": "Kyiv's mayor decries Germany's offer of 5,000 helmets to Ukraine as a 'joke' and asks if 'pillows' are next",
         "domain": "businessinsider.com",
         "category": "worldnews",
         "link": "https://www.businessinsider.com/germany-offer-5000-helmets-ukraine-decried-as-joke-by-kyiv-mayor-2022-1",
         "timestamp": 1643242508,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 12:15 AM"
     },
     {
@@ -32,17 +23,8 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=wrap",
         "timestamp": 1643244476,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 12:47 AM"
-    },
-    {
-        "title": "‘Peacemaker’ Director James Gunn Talks 400-Song Hair Metal Playlist, Insane Opening Credit Dance & Watching Guns N’ Roses Get Signed",
-        "domain": "billboard.com",
-        "category": "television",
-        "link": "https://www.billboard.com/music/rock/peacemaker-james-gunn-interview-hair-metal-guns-n-roses-1235022764/",
-        "timestamp": 1643246934,
-        "sentiment": -2,
-        "published": "January 27, 2022 1:28 AM"
     },
     {
         "title": "QAnon follower from South Carolina who admitted he assaulted officers on January 6 sentenced to 44 months in prison",
@@ -59,7 +41,7 @@
         "category": "worldnews",
         "link": "https://time.com/6142360/thailand-decriminalizes-marijuana/",
         "timestamp": 1643248519,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 1:55 AM"
     },
     {
@@ -68,17 +50,8 @@
         "category": "television",
         "link": "https://consequence.net/2022/01/euphoria-glamorizes-drugs-d-a-r-e/",
         "timestamp": 1643248791,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 1:59 AM"
-    },
-    {
-        "title": "Sen. Ron Johnson: Not 'Society’s Responsibility To Take Care Of Other People’s Children’",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/ron-johnson-other-peoples-children_n_61f1c3b1e4b04f9a12b83b79?ncid=APPLENEWS00001",
-        "timestamp": 1643249493,
-        "sentiment": -2,
-        "published": "January 27, 2022 2:11 AM"
     },
     {
         "title": "Norway shocked as its most wanted terrorist Anas Haqqani lands in Oslo, part of Taliban delegation",
@@ -86,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.daijiworld.com/news/newsDisplay?newsID=919243",
         "timestamp": 1643253457,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 3:17 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "television",
         "link": "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-jeopardy-new-winner-chicago-librarian-schneider-20220126-cdby5wpk6jarbc5mpkztodfw3q-story.html",
         "timestamp": 1643255838,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 3:57 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/01/26/tennessee-school-board-bans-holocaust-comic-maus-by-art-spiegelman.html",
         "timestamp": 1643255862,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 3:57 AM"
     },
     {
@@ -133,15 +106,6 @@
         "timestamp": 1643256286,
         "sentiment": -3,
         "published": "January 27, 2022 4:04 AM"
-    },
-    {
-        "title": "Texas violated voting rights law during redistricting, retiring state GOP senator says in sworn court statement",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/01/26/texas-redistricting-kel-seliger-redistricting/",
-        "timestamp": 1643257339,
-        "sentiment": -2,
-        "published": "January 27, 2022 4:22 AM"
     },
     {
         "title": "Black man on camping trip died in modern day lynching, his family says",
@@ -158,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/27/soldier-opens-fire-kills-five-troops-at-ukraine-military",
         "timestamp": 1643267077,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 7:04 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60140566",
         "timestamp": 1643269251,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 7:40 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/01/26/uk/boris-johnson-afghanistan-animal-evacuation-intl/index.html",
         "timestamp": 1643275145,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 9:19 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/most-pirated-movies-tv-shows-2021-list/",
         "timestamp": 1643276073,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 9:34 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.ft.com/content/789f0799-8583-4cbb-b513-8924561caf74",
         "timestamp": 1643277639,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 10:00 AM"
     },
     {
@@ -203,8 +167,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/witness-supports-claim-matt-gaetz-told-sex-with-minor-report-2022-1",
         "timestamp": 1643283221,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 11:33 AM"
+    },
+    {
+        "title": "Activist Republicans oppose helping Ukraine",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/activist-republicans-oppose-helping-ukraine-7311d46f-49fc-47b5-af46-f365c4e7809d.html",
+        "timestamp": 1643283599,
+        "sentiment": 2,
+        "published": "January 27, 2022 11:39 AM"
     },
     {
         "title": "Barry Cryer: Veteran comedian and writer (The Two Ronnies, Bob Hope, Tommy Cooper and Morecambe and Wise) dies aged 86",
@@ -212,7 +185,7 @@
         "category": "television",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-60154371",
         "timestamp": 1643284284,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 11:51 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/lifestyle/germany-says-send-5-000-131431172.html",
         "timestamp": 1643285930,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "January 27, 2022 12:18 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/tucker-carlson-supreme-court-justice-biden_n_61f2543ee4b01d3f2996d92a",
         "timestamp": 1643286475,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 12:27 PM"
     },
     {
@@ -239,8 +212,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/27/no-more-hiding-sanders-says-make-gop-vote-popular-policies",
         "timestamp": 1643287561,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 12:46 PM"
+    },
+    {
+        "title": "‘Abandon Cold War Mentality’: China Urges Calm On Ukraine-Russia Tensions, Asks U.S. To ‘Stop Interfering’ In Beijing Olympics.",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/siladityaray/2022/01/27/abandon-cold-war-mentality-china-urges-calm-on-ukraine-russia-tensions-asks-us-to-stop-interfering-in-beijing-olympics/?sh=2d0140f2698c",
+        "timestamp": 1643287707,
+        "sentiment": -4,
+        "published": "January 27, 2022 12:48 PM"
     },
     {
         "title": "Kyrsten Sinema would lose 2024 Arizona primary in a landslide: poll",
@@ -248,7 +230,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/kyrsten-sinema-filibuster-senate-gallego-arizona-1673493",
         "timestamp": 1643288174,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 12:56 PM"
     },
     {
@@ -261,12 +243,21 @@
         "published": "January 27, 2022 1:02 PM"
     },
     {
+        "title": "‘Trying to disappear the poor’: California clears homeless camp near Super Bowl",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/26/homeless-los-angeles-super-bowl",
+        "timestamp": 1643288751,
+        "sentiment": -3,
+        "published": "January 27, 2022 1:05 PM"
+    },
+    {
         "title": "The 59 Republicans Who Joined Electoral Voter Fraud Scheme For Trump Could Face Prison",
         "domain": "huffpost.com",
         "category": "politics",
         "link": "https://www.huffpost.com/entry/fake-electors-prison-capitol-riot-2020-election_n_61f1c3e3e4b02de5f513fa73",
         "timestamp": 1643289817,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 1:23 PM"
     },
     {
@@ -275,8 +266,71 @@
         "category": "television",
         "link": "https://variety.com/2022/biz/news/peacock-loss-2021-more-doubled-1235164939/",
         "timestamp": 1643290091,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 27, 2022 1:28 PM"
+    },
+    {
+        "title": "Denmark to End Most COVID Restrictions and 'Welcome the Life We Knew Before'",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/denmark-end-most-covid-restrictions-welcome-life-we-knew-before-1673373",
+        "timestamp": 1643290643,
+        "sentiment": -4,
+        "published": "January 27, 2022 1:37 PM"
+    },
+    {
+        "title": "TikTokers say thousands of them are spamming the tip line set up by Virginia's GOP governor to report teachers over critical race theory",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/tiktokers-spamming-virginia-youngkin-critical-race-theory-tip-line-2022-1",
+        "timestamp": 1643292047,
+        "sentiment": 2,
+        "published": "January 27, 2022 2:00 PM"
+    },
+    {
+        "title": "Mike Flanagan's Edgar Allan Poe Series “The Fall of the House of Usher” Officially Begins Production",
+        "domain": "bloody-disgusting.com",
+        "category": "television",
+        "link": "https://bloody-disgusting.com/tv/3700861/edgar-allan-poe-netflix-series-the-fall-of-the-house-of-usher-from-mike-flanagan-begins-production/",
+        "timestamp": 1643294947,
+        "sentiment": 2,
+        "published": "January 27, 2022 2:49 PM"
+    },
+    {
+        "title": "Ukraine crisis: US rejects Russian demand to bar Ukraine from Nato",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-europe-60145159",
+        "timestamp": 1643241795,
+        "sentiment": -5,
+        "published": "January 27, 2022 12:03 AM"
+    },
+    {
+        "title": "‘Peacemaker’ Director James Gunn Talks 400-Song Hair Metal Playlist, Insane Opening Credit Dance & Watching Guns N’ Roses Get Signed",
+        "domain": "billboard.com",
+        "category": "television",
+        "link": "https://www.billboard.com/music/rock/peacemaker-james-gunn-interview-hair-metal-guns-n-roses-1235022764/",
+        "timestamp": 1643246934,
+        "sentiment": -2,
+        "published": "January 27, 2022 1:28 AM"
+    },
+    {
+        "title": "Sen. Ron Johnson: Not 'Society’s Responsibility To Take Care Of Other People’s Children’",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ron-johnson-other-peoples-children_n_61f1c3b1e4b04f9a12b83b79?ncid=APPLENEWS00001",
+        "timestamp": 1643249493,
+        "sentiment": -2,
+        "published": "January 27, 2022 2:11 AM"
+    },
+    {
+        "title": "Texas violated voting rights law during redistricting, retiring state GOP senator says in sworn court statement",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/26/texas-redistricting-kel-seliger-redistricting/",
+        "timestamp": 1643257339,
+        "sentiment": -2,
+        "published": "January 27, 2022 4:22 AM"
     },
     {
         "title": "School Bans Pulitzer Prize-Winning Graphic Novel ‘Maus’",
