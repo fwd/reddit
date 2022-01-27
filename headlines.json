@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-europe-60145159",
         "timestamp": 1643241795,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 27, 2022 12:03 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/germany-offer-5000-helmets-ukraine-decried-as-joke-by-kyiv-mayor-2022-1",
         "timestamp": 1643242508,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 27, 2022 12:15 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=wrap",
         "timestamp": 1643244476,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "January 27, 2022 12:47 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/tennessee-school-bans-art-spiegelmans-pulitzer-prize-winning-graphic-novel-maus",
         "timestamp": 1643244928,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "January 27, 2022 12:55 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://time.com/6142360/thailand-decriminalizes-marijuana/",
         "timestamp": 1643248519,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 27, 2022 1:55 AM"
     },
     {
@@ -81,13 +81,31 @@
         "published": "January 27, 2022 1:59 AM"
     },
     {
+        "title": "Sen. Ron Johnson: Not 'Society’s Responsibility To Take Care Of Other People’s Children’",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ron-johnson-other-peoples-children_n_61f1c3b1e4b04f9a12b83b79?ncid=APPLENEWS00001",
+        "timestamp": 1643249493,
+        "sentiment": 3,
+        "published": "January 27, 2022 2:11 AM"
+    },
+    {
         "title": "Norway shocked as its most wanted terrorist Anas Haqqani lands in Oslo, part of Taliban delegation",
         "domain": "daijiworld.com",
         "category": "worldnews",
         "link": "https://www.daijiworld.com/news/newsDisplay?newsID=919243",
         "timestamp": 1643253457,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "January 27, 2022 3:17 AM"
+    },
+    {
+        "title": "Popular anti-work subreddit goes private after awkward Fox News interview",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/antiwork-reddit-fox-news-interview-b2001619.html",
+        "timestamp": 1643254246,
+        "sentiment": -2,
+        "published": "January 27, 2022 3:30 AM"
     },
     {
         "title": "Amy Schneider’s historic ‘Jeopardy!’ winning streak ends with loss to Chicago librarian Rhone Talsma",
