@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/germany-offer-5000-helmets-ukraine-decried-as-joke-by-kyiv-mayor-2022-1",
         "timestamp": 1643242508,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 12:15 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=wrap",
         "timestamp": 1643244476,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 27, 2022 12:47 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/january-6-nicolas-languerand-qanon-assault-sentence/",
         "timestamp": 1643247182,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 27, 2022 1:33 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://consequence.net/2022/01/euphoria-glamorizes-drugs-d-a-r-e/",
         "timestamp": 1643248791,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "January 27, 2022 1:59 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.independent.co.uk/news/world/americas/antiwork-reddit-fox-news-interview-b2001619.html",
         "timestamp": 1643254246,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 27, 2022 3:30 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-jeopardy-new-winner-chicago-librarian-schneider-20220126-cdby5wpk6jarbc5mpkztodfw3q-story.html",
         "timestamp": 1643255838,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "January 27, 2022 3:57 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/family-black-man-killed-trip-ex-coworker-call-death-modern-day-lynchin-rcna13490",
         "timestamp": 1643264525,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 27, 2022 6:22 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/27/soldier-opens-fire-kills-five-troops-at-ukraine-military",
         "timestamp": 1643267077,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 7:04 AM"
     },
     {
@@ -77,8 +77,260 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60140566",
         "timestamp": 1643269251,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 27, 2022 7:40 AM"
+    },
+    {
+        "title": "Leaked emails suggest UK's Boris Johnson may have lied about evacuating animals before people from Afghanistan.",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/01/26/uk/boris-johnson-afghanistan-animal-evacuation-intl/index.html",
+        "timestamp": 1643275145,
+        "sentiment": -2,
+        "published": "January 27, 2022 9:19 AM"
+    },
+    {
+        "title": "‘Loki,’ ‘Rick and Morty’ Among 2021’s Most Pirated Television Shows",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/most-pirated-movies-tv-shows-2021-list/",
+        "timestamp": 1643276073,
+        "sentiment": 2,
+        "published": "January 27, 2022 9:34 AM"
+    },
+    {
+        "title": "Denmark set to lift all Covid curbs amid record high surge of infections.",
+        "domain": "ft.com",
+        "category": "worldnews",
+        "link": "https://www.ft.com/content/789f0799-8583-4cbb-b513-8924561caf74",
+        "timestamp": 1643277639,
+        "sentiment": -2,
+        "published": "January 27, 2022 10:00 AM"
+    },
+    {
+        "title": "A witness has corroborated the claim that Rep. Matt Gaetz was told he had sex with a minor in 2017, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/witness-supports-claim-matt-gaetz-told-sex-with-minor-report-2022-1",
+        "timestamp": 1643283221,
+        "sentiment": 2,
+        "published": "January 27, 2022 11:33 AM"
+    },
+    {
+        "title": "Activist Republicans oppose helping Ukraine",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/activist-republicans-oppose-helping-ukraine-7311d46f-49fc-47b5-af46-f365c4e7809d.html",
+        "timestamp": 1643283599,
+        "sentiment": 2,
+        "published": "January 27, 2022 11:39 AM"
+    },
+    {
+        "title": "Barry Cryer: Veteran comedian and writer (The Two Ronnies, Bob Hope, Tommy Cooper and Morecambe and Wise) dies aged 86",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-60154371",
+        "timestamp": 1643284284,
+        "sentiment": 2,
+        "published": "January 27, 2022 11:51 AM"
+    },
+    {
+        "title": "Dirty Russian Money Flowing Through UK 'Destabilising' Ukraine",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/tugendhat-dirty-russian-money-flowing-through-uk-destabilising-ukraine-2022-1",
+        "timestamp": 1643286036,
+        "sentiment": -2,
+        "published": "January 27, 2022 12:20 PM"
+    },
+    {
+        "title": "Tucker Carlson Flips Out Over Biden’s Vow To Appoint Black Woman To Supreme Court",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/tucker-carlson-supreme-court-justice-biden_n_61f2543ee4b01d3f2996d92a",
+        "timestamp": 1643286475,
+        "sentiment": 2,
+        "published": "January 27, 2022 12:27 PM"
+    },
+    {
+        "title": "Canada extends military operation in Ukraine for three years",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/mobile/politics/canada-extends-military-operation-in-ukraine-for-three-years-1.5755493",
+        "timestamp": 1643286796,
+        "sentiment": -2,
+        "published": "January 27, 2022 12:33 PM"
+    },
+    {
+        "title": "'No More Hiding': Sanders Says Make GOP Vote on Popular Policies",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/27/no-more-hiding-sanders-says-make-gop-vote-popular-policies",
+        "timestamp": 1643287561,
+        "sentiment": 2,
+        "published": "January 27, 2022 12:46 PM"
+    },
+    {
+        "title": "‘Abandon Cold War Mentality’: China Urges Calm On Ukraine-Russia Tensions, Asks U.S. To ‘Stop Interfering’ In Beijing Olympics.",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/siladityaray/2022/01/27/abandon-cold-war-mentality-china-urges-calm-on-ukraine-russia-tensions-asks-us-to-stop-interfering-in-beijing-olympics/?sh=2d0140f2698c",
+        "timestamp": 1643287707,
+        "sentiment": -2,
+        "published": "January 27, 2022 12:48 PM"
+    },
+    {
+        "title": "Kyrsten Sinema would lose 2024 Arizona primary in a landslide: poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/kyrsten-sinema-filibuster-senate-gallego-arizona-1673493",
+        "timestamp": 1643288174,
+        "sentiment": 2,
+        "published": "January 27, 2022 12:56 PM"
+    },
+    {
+        "title": "Hiker falls 700 feet to death while taking selfie on a peak in the Superstition Mountains near Phoenix",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/richard-jacobson-fall-death-arizona-superstition-mountains/?ftag=CNM-00-10aac3a",
+        "timestamp": 1643288549,
+        "sentiment": -3,
+        "published": "January 27, 2022 1:02 PM"
+    },
+    {
+        "title": "‘Trying to disappear the poor’: California clears homeless camp near Super Bowl",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jan/26/homeless-los-angeles-super-bowl",
+        "timestamp": 1643288751,
+        "sentiment": -3,
+        "published": "January 27, 2022 1:05 PM"
+    },
+    {
+        "title": "The 59 Republicans Who Joined Electoral Voter Fraud Scheme For Trump Could Face Prison",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/fake-electors-prison-capitol-riot-2020-election_n_61f1c3e3e4b02de5f513fa73",
+        "timestamp": 1643289817,
+        "sentiment": 2,
+        "published": "January 27, 2022 1:23 PM"
+    },
+    {
+        "title": "Peacock Lost $1.7 Billion in 2021, More Than Double from Last Year",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/biz/news/peacock-loss-2021-more-doubled-1235164939/",
+        "timestamp": 1643290091,
+        "sentiment": 2,
+        "published": "January 27, 2022 1:28 PM"
+    },
+    {
+        "title": "Ridgeland mayor withholds funds from library because of LGBTQ+ books on the shelves",
+        "domain": "wlox.com",
+        "category": "news",
+        "link": "https://www.wlox.com/app/2022/01/27/ridgeland-mayor-withholds-funds-library-because-lgbtq-books-shelves/",
+        "timestamp": 1643290641,
+        "sentiment": -3,
+        "published": "January 27, 2022 1:37 PM"
+    },
+    {
+        "title": "TikTokers say thousands of them are spamming the tip line set up by Virginia's GOP governor to report teachers over critical race theory",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/tiktokers-spamming-virginia-youngkin-critical-race-theory-tip-line-2022-1",
+        "timestamp": 1643292047,
+        "sentiment": 2,
+        "published": "January 27, 2022 2:00 PM"
+    },
+    {
+        "title": "Poland starts building wall on border with Belarus",
+        "domain": "thinkpol.ca",
+        "category": "worldnews",
+        "link": "https://thinkpol.ca/2022/01/27/poland-starts-building-wall-on-border-with-belarus/",
+        "timestamp": 1643293916,
+        "sentiment": -2,
+        "published": "January 27, 2022 2:31 PM"
+    },
+    {
+        "title": "Record 14.5 million Americans signed up for 2022 health coverage under Affordable Care Act",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/obamacare-14-5-million-americans-sign-up-affordable-care-act/",
+        "timestamp": 1643294084,
+        "sentiment": -3,
+        "published": "January 27, 2022 2:34 PM"
+    },
+    {
+        "title": "Mike Flanagan's Edgar Allan Poe Series “The Fall of the House of Usher” Officially Begins Production",
+        "domain": "bloody-disgusting.com",
+        "category": "television",
+        "link": "https://bloody-disgusting.com/tv/3700861/edgar-allan-poe-netflix-series-the-fall-of-the-house-of-usher-from-mike-flanagan-begins-production/",
+        "timestamp": 1643294947,
+        "sentiment": 2,
+        "published": "January 27, 2022 2:49 PM"
+    },
+    {
+        "title": "Sarah Palin went out to eat at a NYC restaurant two days after testing positive for Covid",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/27/business-food/sarah-palin-covid-restaurant/index.html",
+        "timestamp": 1643296363,
+        "sentiment": -3,
+        "published": "January 27, 2022 3:12 PM"
+    },
+    {
+        "title": "The Book of Boba Fett episode 5 offers a rebuke of The Book of Boba Fett",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/22902664/book-of-boba-fett-episode-5-mandalorian-star-wars",
+        "timestamp": 1643296670,
+        "sentiment": 2,
+        "published": "January 27, 2022 3:17 PM"
+    },
+    {
+        "title": "Republicans seek to portray Biden's Supreme Court pick as 'radical liberal', although he has yet to chose anyone",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-derides-biden-supreme-court-pick-radical-liberal-2022-1",
+        "timestamp": 1643298075,
+        "sentiment": 2,
+        "published": "January 27, 2022 3:41 PM"
+    },
+    {
+        "title": "‘Scrubs’ Cast Reunion Coming to ATX Television Festival",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/scrubs-reunion-atx-festival-1235082354/",
+        "timestamp": 1643299837,
+        "sentiment": 2,
+        "published": "January 27, 2022 4:10 PM"
+    },
+    {
+        "title": "World remembers Holocaust as antisemitism rises in pandemic",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/world-remembers-holocaust-antisemitism-rises-pandemic-82507736",
+        "timestamp": 1643300622,
+        "sentiment": -2,
+        "published": "January 27, 2022 4:23 PM"
+    },
+    {
+        "title": "Moderator fired from anti-work subreddit in fallout from disastrous Fox News interview",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/anti-work-reddit-abolishwork-fired-b2002208.html",
+        "timestamp": 1643305149,
+        "sentiment": -3,
+        "published": "January 27, 2022 5:39 PM"
+    },
+    {
+        "title": "70 Percent of Adults Don't Want Donald Trump to Run in 2024: Poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/70-percent-adults-dont-want-donald-trump-run-2024-poll-1673588",
+        "timestamp": 1643305276,
+        "sentiment": 2,
+        "published": "January 27, 2022 5:41 PM"
     },
     {
         "title": "Nord Stream 2 gas pipeline won’t open if Russia invades Ukraine, says US",
@@ -90,33 +342,6 @@
         "published": "January 27, 2022 7:59 AM"
     },
     {
-        "title": "Leaked emails suggest UK's Boris Johnson may have lied about evacuating animals before people from Afghanistan.",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/01/26/uk/boris-johnson-afghanistan-animal-evacuation-intl/index.html",
-        "timestamp": 1643275145,
-        "sentiment": 0,
-        "published": "January 27, 2022 9:19 AM"
-    },
-    {
-        "title": "‘Loki,’ ‘Rick and Morty’ Among 2021’s Most Pirated Television Shows",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/most-pirated-movies-tv-shows-2021-list/",
-        "timestamp": 1643276073,
-        "sentiment": -1,
-        "published": "January 27, 2022 9:34 AM"
-    },
-    {
-        "title": "Denmark set to lift all Covid curbs amid record high surge of infections.",
-        "domain": "ft.com",
-        "category": "worldnews",
-        "link": "https://www.ft.com/content/789f0799-8583-4cbb-b513-8924561caf74",
-        "timestamp": 1643277639,
-        "sentiment": 0,
-        "published": "January 27, 2022 10:00 AM"
-    },
-    {
         "title": "Biden administration revokes Trump-approved Minnesota mining lease",
         "domain": "theguardian.com",
         "category": "politics",
@@ -124,195 +349,6 @@
         "timestamp": 1643281024,
         "sentiment": 0,
         "published": "January 27, 2022 10:57 AM"
-    },
-    {
-        "title": "A witness has corroborated the claim that Rep. Matt Gaetz was told he had sex with a minor in 2017, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/witness-supports-claim-matt-gaetz-told-sex-with-minor-report-2022-1",
-        "timestamp": 1643283221,
-        "sentiment": 0,
-        "published": "January 27, 2022 11:33 AM"
-    },
-    {
-        "title": "Activist Republicans oppose helping Ukraine",
-        "domain": "axios.com",
-        "category": "politics",
-        "link": "https://www.axios.com/activist-republicans-oppose-helping-ukraine-7311d46f-49fc-47b5-af46-f365c4e7809d.html",
-        "timestamp": 1643283599,
-        "sentiment": 0,
-        "published": "January 27, 2022 11:39 AM"
-    },
-    {
-        "title": "Barry Cryer: Veteran comedian and writer (The Two Ronnies, Bob Hope, Tommy Cooper and Morecambe and Wise) dies aged 86",
-        "domain": "bbc.co.uk",
-        "category": "television",
-        "link": "https://www.bbc.co.uk/news/entertainment-arts-60154371",
-        "timestamp": 1643284284,
-        "sentiment": -1,
-        "published": "January 27, 2022 11:51 AM"
-    },
-    {
-        "title": "Dirty Russian Money Flowing Through UK 'Destabilising' Ukraine",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/tugendhat-dirty-russian-money-flowing-through-uk-destabilising-ukraine-2022-1",
-        "timestamp": 1643286036,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:20 PM"
-    },
-    {
-        "title": "Tucker Carlson Flips Out Over Biden’s Vow To Appoint Black Woman To Supreme Court",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/tucker-carlson-supreme-court-justice-biden_n_61f2543ee4b01d3f2996d92a",
-        "timestamp": 1643286475,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:27 PM"
-    },
-    {
-        "title": "Canada extends military operation in Ukraine for three years",
-        "domain": "ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://www.ctvnews.ca/mobile/politics/canada-extends-military-operation-in-ukraine-for-three-years-1.5755493",
-        "timestamp": 1643286796,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:33 PM"
-    },
-    {
-        "title": "'No More Hiding': Sanders Says Make GOP Vote on Popular Policies",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/27/no-more-hiding-sanders-says-make-gop-vote-popular-policies",
-        "timestamp": 1643287561,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:46 PM"
-    },
-    {
-        "title": "‘Abandon Cold War Mentality’: China Urges Calm On Ukraine-Russia Tensions, Asks U.S. To ‘Stop Interfering’ In Beijing Olympics.",
-        "domain": "forbes.com",
-        "category": "worldnews",
-        "link": "https://www.forbes.com/sites/siladityaray/2022/01/27/abandon-cold-war-mentality-china-urges-calm-on-ukraine-russia-tensions-asks-us-to-stop-interfering-in-beijing-olympics/?sh=2d0140f2698c",
-        "timestamp": 1643287707,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:48 PM"
-    },
-    {
-        "title": "Kyrsten Sinema would lose 2024 Arizona primary in a landslide: poll",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/kyrsten-sinema-filibuster-senate-gallego-arizona-1673493",
-        "timestamp": 1643288174,
-        "sentiment": 0,
-        "published": "January 27, 2022 12:56 PM"
-    },
-    {
-        "title": "Hiker falls 700 feet to death while taking selfie on a peak in the Superstition Mountains near Phoenix",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/richard-jacobson-fall-death-arizona-superstition-mountains/?ftag=CNM-00-10aac3a",
-        "timestamp": 1643288549,
-        "sentiment": 0,
-        "published": "January 27, 2022 1:02 PM"
-    },
-    {
-        "title": "‘Trying to disappear the poor’: California clears homeless camp near Super Bowl",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jan/26/homeless-los-angeles-super-bowl",
-        "timestamp": 1643288751,
-        "sentiment": 0,
-        "published": "January 27, 2022 1:05 PM"
-    },
-    {
-        "title": "The 59 Republicans Who Joined Electoral Voter Fraud Scheme For Trump Could Face Prison",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/fake-electors-prison-capitol-riot-2020-election_n_61f1c3e3e4b02de5f513fa73",
-        "timestamp": 1643289817,
-        "sentiment": 0,
-        "published": "January 27, 2022 1:23 PM"
-    },
-    {
-        "title": "Peacock Lost $1.7 Billion in 2021, More Than Double from Last Year",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/biz/news/peacock-loss-2021-more-doubled-1235164939/",
-        "timestamp": 1643290091,
-        "sentiment": -1,
-        "published": "January 27, 2022 1:28 PM"
-    },
-    {
-        "title": "Ridgeland mayor withholds funds from library because of LGBTQ+ books on the shelves",
-        "domain": "wlox.com",
-        "category": "news",
-        "link": "https://www.wlox.com/app/2022/01/27/ridgeland-mayor-withholds-funds-library-because-lgbtq-books-shelves/",
-        "timestamp": 1643290641,
-        "sentiment": 0,
-        "published": "January 27, 2022 1:37 PM"
-    },
-    {
-        "title": "TikTokers say thousands of them are spamming the tip line set up by Virginia's GOP governor to report teachers over critical race theory",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/tiktokers-spamming-virginia-youngkin-critical-race-theory-tip-line-2022-1",
-        "timestamp": 1643292047,
-        "sentiment": 0,
-        "published": "January 27, 2022 2:00 PM"
-    },
-    {
-        "title": "Poland starts building wall on border with Belarus",
-        "domain": "thinkpol.ca",
-        "category": "worldnews",
-        "link": "https://thinkpol.ca/2022/01/27/poland-starts-building-wall-on-border-with-belarus/",
-        "timestamp": 1643293916,
-        "sentiment": 0,
-        "published": "January 27, 2022 2:31 PM"
-    },
-    {
-        "title": "Record 14.5 million Americans signed up for 2022 health coverage under Affordable Care Act",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/obamacare-14-5-million-americans-sign-up-affordable-care-act/",
-        "timestamp": 1643294084,
-        "sentiment": 0,
-        "published": "January 27, 2022 2:34 PM"
-    },
-    {
-        "title": "Mike Flanagan's Edgar Allan Poe Series “The Fall of the House of Usher” Officially Begins Production",
-        "domain": "bloody-disgusting.com",
-        "category": "television",
-        "link": "https://bloody-disgusting.com/tv/3700861/edgar-allan-poe-netflix-series-the-fall-of-the-house-of-usher-from-mike-flanagan-begins-production/",
-        "timestamp": 1643294947,
-        "sentiment": -1,
-        "published": "January 27, 2022 2:49 PM"
-    },
-    {
-        "title": "Sarah Palin went out to eat at a NYC restaurant two days after testing positive for Covid",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/01/27/business-food/sarah-palin-covid-restaurant/index.html",
-        "timestamp": 1643296363,
-        "sentiment": 0,
-        "published": "January 27, 2022 3:12 PM"
-    },
-    {
-        "title": "The Book of Boba Fett episode 5 offers a rebuke of The Book of Boba Fett",
-        "domain": "polygon.com",
-        "category": "television",
-        "link": "https://www.polygon.com/22902664/book-of-boba-fett-episode-5-mandalorian-star-wars",
-        "timestamp": 1643296670,
-        "sentiment": -1,
-        "published": "January 27, 2022 3:17 PM"
-    },
-    {
-        "title": "Republicans seek to portray Biden's Supreme Court pick as 'radical liberal', although he has yet to chose anyone",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/gop-derides-biden-supreme-court-pick-radical-liberal-2022-1",
-        "timestamp": 1643298075,
-        "sentiment": 0,
-        "published": "January 27, 2022 3:41 PM"
     },
     {
         "title": "SF police data shows 567% increase in reports of hate crimes against Asian Americans",
