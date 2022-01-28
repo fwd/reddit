@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": 4,
+        "sentiment": -6,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nydailynews.com/new-york/ny-palin-covid-restaurant-visits-20220127-qznporya3rdqdbjm5newlp5rnq-story.html",
         "timestamp": 1643331362,
-        "sentiment": 4,
+        "sentiment": -6,
         "published": "January 28, 2022 12:56 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
         "timestamp": 1643335146,
-        "sentiment": 4,
+        "sentiment": -6,
         "published": "January 28, 2022 1:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
         "timestamp": 1643336342,
-        "sentiment": 4,
+        "sentiment": -6,
         "published": "January 28, 2022 2:19 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 28, 2022 2:29 AM"
     },
     {
@@ -86,8 +86,62 @@
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 28, 2022 3:27 AM"
+    },
+    {
+        "title": "San Jose becomes 1st in US to require gun liability insurance",
+        "domain": "abc7news.com",
+        "category": "politics",
+        "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
+        "timestamp": 1643342415,
+        "sentiment": -6,
+        "published": "January 28, 2022 4:00 AM"
+    },
+    {
+        "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
+        "domain": "bookriot.com",
+        "category": "news",
+        "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
+        "timestamp": 1643343781,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:23 AM"
+    },
+    {
+        "title": "Russia says imposing sanctions on Vladimir Putin would be 'destructive'.",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/russia-us-imposing-sanctions-on-vladimir-putin-would-be-destructive-kremlin-2730868",
+        "timestamp": 1643347693,
+        "sentiment": -1,
+        "published": "January 28, 2022 5:28 AM"
+    },
+    {
+        "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
+        "domain": "laist.com",
+        "category": "news",
+        "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
+        "timestamp": 1643347756,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:29 AM"
+    },
+    {
+        "title": "‘I’ve never missed a vote’: 95-year-old World War II Veteran says his mail-in ballot application has been denied twice due to new requirements",
+        "domain": "click2houston.com",
+        "category": "politics",
+        "link": "https://www.click2houston.com/news/local/2022/01/26/ive-never-missed-a-vote-95-year-old-world-war-ii-veteran-says-his-mail-in-ballot-application-has-been-denied-twice-due-to-new-requirements/",
+        "timestamp": 1643351258,
+        "sentiment": -6,
+        "published": "January 28, 2022 6:27 AM"
+    },
+    {
+        "title": "Paris hospitals chief sparks debate suggesting unvaccinated patients should pay for treatment",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
+        "timestamp": 1643354369,
+        "sentiment": -1,
+        "published": "January 28, 2022 7:19 AM"
     },
     {
         "title": "All-Muslim City Council in metro Detroit condemns antisemitism",
@@ -97,33 +151,6 @@
         "timestamp": 1643340559,
         "sentiment": -2,
         "published": "January 28, 2022 3:29 AM"
-    },
-    {
-        "title": "San Jose becomes 1st in US to require gun liability insurance",
-        "domain": "abc7news.com",
-        "category": "politics",
-        "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
-        "timestamp": 1643342415,
-        "sentiment": 4,
-        "published": "January 28, 2022 4:00 AM"
-    },
-    {
-        "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
-        "domain": "bookriot.com",
-        "category": "news",
-        "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
-        "timestamp": 1643343781,
-        "sentiment": -2,
-        "published": "January 28, 2022 4:23 AM"
-    },
-    {
-        "title": "Paris hospitals chief sparks debate suggesting unvaccinated patients should pay for treatment",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
-        "timestamp": 1643354369,
-        "sentiment": -2,
-        "published": "January 28, 2022 7:19 AM"
     },
     {
         "title": "Top Weapons Companies Boast Ukraine-Russia Tensions Are a Boon for Business",
