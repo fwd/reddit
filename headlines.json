@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nydailynews.com/new-york/ny-palin-covid-restaurant-visits-20220127-qznporya3rdqdbjm5newlp5rnq-story.html",
         "timestamp": 1643331362,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 28, 2022 12:56 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
         "timestamp": 1643335146,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 28, 2022 1:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
         "timestamp": 1643336342,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "January 28, 2022 2:19 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "January 28, 2022 2:29 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "January 28, 2022 3:27 AM"
     },
     {
@@ -99,6 +99,15 @@
         "published": "January 28, 2022 3:29 AM"
     },
     {
+        "title": "San Jose becomes 1st in US to require gun liability insurance",
+        "domain": "abc7news.com",
+        "category": "politics",
+        "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
+        "timestamp": 1643342415,
+        "sentiment": 4,
+        "published": "January 28, 2022 4:00 AM"
+    },
+    {
         "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
         "domain": "bookriot.com",
         "category": "news",
@@ -106,6 +115,15 @@
         "timestamp": 1643343781,
         "sentiment": -2,
         "published": "January 28, 2022 4:23 AM"
+    },
+    {
+        "title": "Paris hospitals chief sparks debate suggesting unvaccinated patients should pay for treatment",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
+        "timestamp": 1643354369,
+        "sentiment": -2,
+        "published": "January 28, 2022 7:19 AM"
     },
     {
         "title": "Top Weapons Companies Boast Ukraine-Russia Tensions Are a Boon for Business",
