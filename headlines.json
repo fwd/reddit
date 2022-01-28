@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -14,17 +14,17 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-queens-gambit-nona-gaprindashvili-1235165706/",
         "timestamp": 1643332673,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "January 28, 2022 1:17 AM"
     },
     {
-        "title": "'When You Don't Change People's Lives, People Get Upset,' Says AOC | To reverse slump in Democratic approval ratings, the congresswoman said Biden should start by cancelling student loan debt.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
-        "timestamp": 1643335146,
-        "sentiment": -1,
-        "published": "January 28, 2022 1:59 AM"
+        "title": "Six Russian Landing Ships That Left The Baltic Sea Have Entered The Mediterranean",
+        "domain": "thedrive.com",
+        "category": "worldnews",
+        "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
+        "timestamp": 1643332740,
+        "sentiment": 0,
+        "published": "January 28, 2022 1:19 AM"
     },
     {
         "title": "Netflix Left Off HRC Foundation’s LGBTQ+ Corporate Equality Report Because Of Handling Of Dave Chappelle Special, \"The Closer\"",
@@ -32,17 +32,8 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/netflix-dave-chappelle-special-lgbtq-index-1234921568/",
         "timestamp": 1643335179,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "January 28, 2022 1:59 AM"
-    },
-    {
-        "title": "Judge throws out Biden administration’s massive Gulf of Mexico oil and gas lease sale, in win for environmentalists",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
-        "timestamp": 1643336342,
-        "sentiment": -1,
-        "published": "January 28, 2022 2:19 AM"
     },
     {
         "title": "Malaysia plans to ban sale of tobacco and other smoking products to those born after 2005",
@@ -54,31 +45,13 @@
         "published": "January 28, 2022 3:27 AM"
     },
     {
-        "title": "San Jose becomes 1st in US to require gun liability insurance",
-        "domain": "abc7news.com",
-        "category": "politics",
-        "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
-        "timestamp": 1643342415,
-        "sentiment": -1,
-        "published": "January 28, 2022 4:00 AM"
-    },
-    {
         "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
         "domain": "bookriot.com",
         "category": "news",
         "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
         "timestamp": 1643343781,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 4:23 AM"
-    },
-    {
-        "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
-        "domain": "laist.com",
-        "category": "news",
-        "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
-        "timestamp": 1643347756,
-        "sentiment": 0,
-        "published": "January 28, 2022 5:29 AM"
     },
     {
         "title": "‘I’ve never missed a vote’: 95-year-old World War II Veteran says his mail-in ballot application has been denied twice due to new requirements",
@@ -86,17 +59,8 @@
         "category": "politics",
         "link": "https://www.click2houston.com/news/local/2022/01/26/ive-never-missed-a-vote-95-year-old-world-war-ii-veteran-says-his-mail-in-ballot-application-has-been-denied-twice-due-to-new-requirements/",
         "timestamp": 1643351258,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 6:27 AM"
-    },
-    {
-        "title": "Paris hospitals chief sparks debate suggesting unvaccinated patients should pay for treatment",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
-        "timestamp": 1643354369,
-        "sentiment": 0,
-        "published": "January 28, 2022 7:19 AM"
     },
     {
         "title": "China includes lab-grown meats in its agricultural five-year plan",
@@ -113,7 +77,7 @@
         "category": "news",
         "link": "https://www.inlander.com/spokane/lesley-haskell-wife-of-spokane-county-prosecutor-calls-herself-white-nationalist-uses-n-word-as-slur/Content?oid=23162154",
         "timestamp": 1643363468,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 9:51 AM"
     },
     {
@@ -131,7 +95,7 @@
         "category": "news",
         "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
         "timestamp": 1643367835,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 11:03 AM"
     },
     {
@@ -140,8 +104,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/28/leaked-online-chats-white-nationalist-patriot-front",
         "timestamp": 1643368867,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 11:21 AM"
+    },
+    {
+        "title": "Canada truckers’ vaccine protest spirals into calls to repeal all public health rules",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/28/canada-truckers-covid-vaccine-mandate-protest-government",
+        "timestamp": 1643370164,
+        "sentiment": 0,
+        "published": "January 28, 2022 11:42 AM"
     },
     {
         "title": "BBC Buys Nordic Crime Drama ‘Trom’ Set in the Faroe Islands",
@@ -149,7 +122,7 @@
         "category": "television",
         "link": "https://variety.com/2022/film/global/bbc-nordic-crime-drama-trom-1235164296/",
         "timestamp": 1643370316,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "January 28, 2022 11:45 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.esquire.com/news-politics/a38914282/biden-black-woman-supreme-court-nominee/",
         "timestamp": 1643370456,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 11:47 AM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/arizona-republican-democracy-overthrow-eleciton-overhaul-1291352/",
         "timestamp": 1643371124,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 11:58 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/elon-musk-calls-biden-sock-puppet-omits-tesla-ev-discussion-2022-1",
         "timestamp": 1643371669,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 12:07 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
         "timestamp": 1643373977,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 12:46 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://www.wpxi.com/news/top-stories/bridge-collapses-pittsburgh-neighborhood/PMIN3FZOK5CCFGDMW6OENSVBYI/",
         "timestamp": 1643374654,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 12:57 PM"
     },
     {
@@ -230,8 +203,17 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/nation/2022/01/28/pittsburgh-bridge-collapse/",
         "timestamp": 1643376079,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 1:21 PM"
+    },
+    {
+        "title": "Clarence Thomas faces calls to recuse himself from affirmative action case",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/law/2022/jan/28/clarence-thomas-supreme-court-affirmative-action-case-ginni-thomas",
+        "timestamp": 1643376848,
+        "sentiment": 1,
+        "published": "January 28, 2022 1:34 PM"
     },
     {
         "title": "Ahead of Holocaust Remembrance Day, banning the book 'Maus' is a modern-day tragedy",
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/ahead-holocaust-remembrance-day-banning-book-maus-modern-day-tragedy-ncna1288133",
         "timestamp": 1643376922,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "January 28, 2022 1:35 PM"
     },
     {
@@ -248,8 +230,80 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/27/word-salad-of-nonsense-scientists-denounce-jordan-petersons-comments-on-climate-models",
         "timestamp": 1643378508,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "January 28, 2022 2:01 PM"
+    },
+    {
+        "title": "‘Word salad of nonsense’: scientists denounce Jordan Peterson’s comments on climate models",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/environment/2022/jan/27/word-salad-of-nonsense-scientists-denounce-jordan-petersons-comments-on-climate-models",
+        "timestamp": 1643381256,
+        "sentiment": 1,
+        "published": "January 28, 2022 2:47 PM"
+    },
+    {
+        "title": "Most Americans want Biden to prioritize student loan forgiveness, CNBC survey says",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2022/01/28/most-americans-want-biden-to-prioritize-student-loan-forgiveness-survey.html",
+        "timestamp": 1643382259,
+        "sentiment": 1,
+        "published": "January 28, 2022 3:04 PM"
+    },
+    {
+        "title": "More people died in Michigan in 2020 than were born. That could mean future economic problems",
+        "domain": "denvergazette.com",
+        "category": "news",
+        "link": "https://denvergazette.com/ap/business/more-people-died-in-michigan-in-2020-than-were-born-that-could-mean-future-economic/article_aeb46e99-8e5c-56fb-a26a-fd0e8211d8ca.html",
+        "timestamp": 1643382808,
+        "sentiment": -5,
+        "published": "January 28, 2022 3:13 PM"
+    },
+    {
+        "title": "'When You Don't Change People's Lives, People Get Upset,' Says AOC | To reverse slump in Democratic approval ratings, the congresswoman said Biden should start by cancelling student loan debt.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
+        "timestamp": 1643335146,
+        "sentiment": -1,
+        "published": "January 28, 2022 1:59 AM"
+    },
+    {
+        "title": "Judge throws out Biden administration’s massive Gulf of Mexico oil and gas lease sale, in win for environmentalists",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
+        "timestamp": 1643336342,
+        "sentiment": -1,
+        "published": "January 28, 2022 2:19 AM"
+    },
+    {
+        "title": "San Jose becomes 1st in US to require gun liability insurance",
+        "domain": "abc7news.com",
+        "category": "politics",
+        "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
+        "timestamp": 1643342415,
+        "sentiment": -1,
+        "published": "January 28, 2022 4:00 AM"
+    },
+    {
+        "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
+        "domain": "laist.com",
+        "category": "news",
+        "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
+        "timestamp": 1643347756,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:29 AM"
+    },
+    {
+        "title": "Paris hospitals chief sparks debate suggesting unvaccinated patients should pay for treatment",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
+        "timestamp": 1643354369,
+        "sentiment": 0,
+        "published": "January 28, 2022 7:19 AM"
     },
     {
         "title": "Father in China tried to kill himself because his son was still single at 29",
@@ -277,15 +331,6 @@
         "timestamp": 1643331362,
         "sentiment": 0,
         "published": "January 28, 2022 12:56 AM"
-    },
-    {
-        "title": "Six Russian Landing Ships That Left The Baltic Sea Have Entered The Mediterranean",
-        "domain": "thedrive.com",
-        "category": "worldnews",
-        "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
-        "timestamp": 1643332740,
-        "sentiment": -3,
-        "published": "January 28, 2022 1:19 AM"
     },
     {
         "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
