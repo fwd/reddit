@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nydailynews.com/new-york/ny-palin-covid-restaurant-visits-20220127-qznporya3rdqdbjm5newlp5rnq-story.html",
         "timestamp": 1643331362,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 12:56 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
         "timestamp": 1643335146,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 1:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
         "timestamp": 1643336342,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 2:19 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 2:29 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 3:27 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "politics",
         "link": "https://abc7news.com/san-jose-gun-law-control-laws-sam-liccardo/11508623/",
         "timestamp": 1643342415,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 4:00 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/world-news/russia-us-imposing-sanctions-on-vladimir-putin-would-be-destructive-kremlin-2730868",
         "timestamp": 1643347693,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 5:28 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://www.click2houston.com/news/local/2022/01/26/ive-never-missed-a-vote-95-year-old-world-war-ii-veteran-says-his-mail-in-ballot-application-has-been-denied-twice-due-to-new-requirements/",
         "timestamp": 1643351258,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "January 28, 2022 6:27 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
         "timestamp": 1643354369,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 7:19 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "worldnews",
         "link": "https://china-underground.com/2022/01/28/china-lab-grown-meat/",
         "timestamp": 1643360163,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 8:56 AM"
     },
     {
@@ -167,8 +167,53 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-joe-biden-united-states-europe-moscow-8593998c182f17caafeb57fe93f7578c",
         "timestamp": 1643366880,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 10:48 AM"
+    },
+    {
+        "title": "Denmark Decides COVID-19 Is No Longer a Threat to General Public",
+        "domain": "interestingengineering.com",
+        "category": "news",
+        "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
+        "timestamp": 1643367835,
+        "sentiment": 0,
+        "published": "January 28, 2022 11:03 AM"
+    },
+    {
+        "title": "BBC Buys Nordic Crime Drama ‘Trom’ Set in the Faroe Islands",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/film/global/bbc-nordic-crime-drama-trom-1235164296/",
+        "timestamp": 1643370316,
+        "sentiment": 0,
+        "published": "January 28, 2022 11:45 AM"
+    },
+    {
+        "title": "Conservatives Are Pre-Mad at Biden's Supreme Court Pick Before the Pick Has Been Made",
+        "domain": "esquire.com",
+        "category": "politics",
+        "link": "https://www.esquire.com/news-politics/a38914282/biden-black-woman-supreme-court-nominee/",
+        "timestamp": 1643370456,
+        "sentiment": 0,
+        "published": "January 28, 2022 11:47 AM"
+    },
+    {
+        "title": "Russia says it wants peace but has 'gun on the table' - U.S. envoy",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russia-says-it-wants-peace-has-gun-table-us-envoy-2022-01-28/",
+        "timestamp": 1643371422,
+        "sentiment": 2,
+        "published": "January 28, 2022 12:03 PM"
+    },
+    {
+        "title": "Kid Rock threatens to cancel any concert on his tour if there’s COVID-19 protocols",
+        "domain": "mlive.com",
+        "category": "news",
+        "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
+        "timestamp": 1643373977,
+        "sentiment": 0,
+        "published": "January 28, 2022 12:46 PM"
     },
     {
         "title": "All-Muslim City Council in metro Detroit condemns antisemitism",
