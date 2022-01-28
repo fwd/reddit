@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "news",
         "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
         "timestamp": 1643343781,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 4:23 AM"
-    },
-    {
-        "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
-        "domain": "laist.com",
-        "category": "news",
-        "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
-        "timestamp": 1643347756,
-        "sentiment": 0,
-        "published": "January 28, 2022 5:29 AM"
     },
     {
         "title": "‘I’ve never missed a vote’: 95-year-old World War II Veteran says his mail-in ballot application has been denied twice due to new requirements",
@@ -45,21 +36,12 @@
         "published": "January 28, 2022 6:27 AM"
     },
     {
-        "title": "China includes lab-grown meats in its agricultural five-year plan",
-        "domain": "china-underground.com",
-        "category": "worldnews",
-        "link": "https://china-underground.com/2022/01/28/china-lab-grown-meat/",
-        "timestamp": 1643360163,
-        "sentiment": 0,
-        "published": "January 28, 2022 8:56 AM"
-    },
-    {
         "title": "Lesley Haskell, wife of Spokane County Prosecutor, calls herself 'White nationalist,' uses N-word as slur",
         "domain": "inlander.com",
         "category": "news",
         "link": "https://www.inlander.com/spokane/lesley-haskell-wife-of-spokane-county-prosecutor-calls-herself-white-nationalist-uses-n-word-as-slur/Content?oid=23162154",
         "timestamp": 1643363468,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 9:51 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
         "timestamp": 1643367835,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 11:03 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/28/leaked-online-chats-white-nationalist-patriot-front",
         "timestamp": 1643368867,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 11:21 AM"
     },
     {
@@ -144,21 +126,12 @@
         "published": "January 28, 2022 12:07 PM"
     },
     {
-        "title": "FCC revokes China Unicom's authorization to operate in U.S.",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/media-telecom/us-regulator-revokes-china-unicoms-authorization-operate-us-2022-01-27/",
-        "timestamp": 1643372318,
-        "sentiment": 0,
-        "published": "January 28, 2022 12:18 PM"
-    },
-    {
         "title": "Kid Rock threatens to cancel any concert on his tour if there’s COVID-19 protocols",
         "domain": "mlive.com",
         "category": "news",
         "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
         "timestamp": 1643373977,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 12:46 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "news",
         "link": "https://www.wpxi.com/news/top-stories/bridge-collapses-pittsburgh-neighborhood/PMIN3FZOK5CCFGDMW6OENSVBYI/",
         "timestamp": 1643374654,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 12:57 PM"
     },
     {
@@ -252,12 +225,12 @@
         "published": "January 28, 2022 4:04 PM"
     },
     {
-        "title": "‘Law and Order: SVU’: Beverly D’Angelo Cast as Carisi’s Mother",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/01/28/law-and-order-svu-beverly-dangelo-cast-carisi-mother-season-23/",
-        "timestamp": 1643385863,
-        "sentiment": 0,
+        "title": "Boy, 11, charged in armed carjacking in Chicago neighborhood",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/arrests-chicago-carjacking-305492a5536fc01b7537e04d5ea2ec22",
+        "timestamp": 1643385880,
+        "sentiment": -2,
         "published": "January 28, 2022 4:04 PM"
     },
     {
@@ -268,6 +241,87 @@
         "timestamp": 1643386612,
         "sentiment": 0,
         "published": "January 28, 2022 4:16 PM"
+    },
+    {
+        "title": "Shell’s Massive Carbon Capture Plant Is Emitting More Than It’s Capturing: A new Global Witness report found that it has the same carbon footprint per year as 1.2 million gas-powered cars.",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
+        "timestamp": 1643388085,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:41 PM"
+    },
+    {
+        "title": "Rep. Dan Crenshaw of Texas invested in electric cars after bashing Democrats for being 'obsessed' with them",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/dan-crenshaw-stocks-texas-tesla-rivian-investments-2022-1",
+        "timestamp": 1643388575,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:49 PM"
+    },
+    {
+        "title": "Ukraine's president told Biden to 'calm down' Russian invasion warnings, saying he was creating unwanted panic: report",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/ukraines-president-told-biden-calm-104928095.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_cT1hc2tlZCtjYWxtK2Rvd24rdWtyYWluZSZpZT11dGYtOCZvZT11dGYtOA&guce_referrer_sig=AQAAAAK7InvlfVij0wuuEHY5y_kCVjyrQ8eGlfWZHC5e_pSrryYywLt-z-wXWbcLn64kHCf_oArQ7nDSSmSjITVqTa45NAwVwRjwIKlqS-DTg6O2Wx1rN9ipX1FVXW9RiTKxYRyN-1xL3ufmjOaNcLyHrpm5E-7ySTBff6SnPBb4gBWb",
+        "timestamp": 1643388707,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:51 PM"
+    },
+    {
+        "title": "Chicago man released from prison 20 years later after twin brother confesses to murder",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chicago-man-released-prison-20-years-later-twin-brother-confesses-murd-rcna13924",
+        "timestamp": 1643389415,
+        "sentiment": -2,
+        "published": "January 28, 2022 5:03 PM"
+    },
+    {
+        "title": "‘Tiger King’ Joe Exotic resentenced to 21 years in prison",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/812b9b2b759e8d84f2e3192766f1efec",
+        "timestamp": 1643392175,
+        "sentiment": -2,
+        "published": "January 28, 2022 5:49 PM"
+    },
+    {
+        "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
+        "domain": "laist.com",
+        "category": "news",
+        "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
+        "timestamp": 1643347756,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:29 AM"
+    },
+    {
+        "title": "China includes lab-grown meats in its agricultural five-year plan",
+        "domain": "china-underground.com",
+        "category": "worldnews",
+        "link": "https://china-underground.com/2022/01/28/china-lab-grown-meat/",
+        "timestamp": 1643360163,
+        "sentiment": 0,
+        "published": "January 28, 2022 8:56 AM"
+    },
+    {
+        "title": "FCC revokes China Unicom's authorization to operate in U.S.",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/media-telecom/us-regulator-revokes-china-unicoms-authorization-operate-us-2022-01-27/",
+        "timestamp": 1643372318,
+        "sentiment": 0,
+        "published": "January 28, 2022 12:18 PM"
+    },
+    {
+        "title": "‘Law and Order: SVU’: Beverly D’Angelo Cast as Carisi’s Mother",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/01/28/law-and-order-svu-beverly-dangelo-cast-carisi-mother-season-23/",
+        "timestamp": 1643385863,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:04 PM"
     },
     {
         "title": "Six Russian Landing Ships That Left The Baltic Sea Have Entered The Mediterranean",
