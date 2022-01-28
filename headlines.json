@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
         "timestamp": 1643343781,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 4:23 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.inlander.com/spokane/lesley-haskell-wife-of-spokane-county-prosecutor-calls-herself-white-nationalist-uses-n-word-as-slur/Content?oid=23162154",
         "timestamp": 1643363468,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 9:51 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-joe-biden-united-states-europe-moscow-8593998c182f17caafeb57fe93f7578c",
         "timestamp": 1643366880,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 10:48 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
         "timestamp": 1643367835,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 11:03 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/28/leaked-online-chats-white-nationalist-patriot-front",
         "timestamp": 1643368867,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 11:21 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/28/canada-truckers-covid-vaccine-mandate-protest-government",
         "timestamp": 1643370164,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 11:42 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/russia-says-it-wants-peace-has-gun-table-us-envoy-2022-01-28/",
         "timestamp": 1643371422,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 12:03 PM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "news",
         "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
         "timestamp": 1643373977,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 12:46 PM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/china-jails-almost-50-steel-040109819.html",
         "timestamp": 1643374380,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 12:53 PM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "news",
         "link": "https://www.wpxi.com/news/top-stories/bridge-collapses-pittsburgh-neighborhood/PMIN3FZOK5CCFGDMW6OENSVBYI/",
         "timestamp": 1643374654,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 28, 2022 12:57 PM"
     },
     {
@@ -158,17 +158,8 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/latvia-germany-immoral-relationship-russia-china/",
         "timestamp": 1643375014,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 1:03 PM"
-    },
-    {
-        "title": "Pittsburgh bridge collapses on day Biden to visit city to talk infrastructure",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/nation/2022/01/28/pittsburgh-bridge-collapse/",
-        "timestamp": 1643376079,
-        "sentiment": 0,
-        "published": "January 28, 2022 1:21 PM"
     },
     {
         "title": "Clarence Thomas faces calls to recuse himself from affirmative action case",
@@ -189,13 +180,13 @@
         "published": "January 28, 2022 1:35 PM"
     },
     {
-        "title": "Scholar who called Biden election a 'literal coup' advising Texas social studies curriculum review",
-        "domain": "statesman.com",
+        "title": "DeSantis embraces ‘free state’ of Florida, but that doesn’t include recreational marijuana",
+        "domain": "orlandosentinel.com",
         "category": "politics",
-        "link": "https://www.statesman.com/story/news/2022/01/25/stephen-balch-appointed-review-texas-social-studies-curriculum/9204721002/",
-        "timestamp": 1643379214,
+        "link": "https://www.orlandosentinel.com/politics/os-ne-marijuana-legalization-efforts-20220127-awhrg6zzkjcdxpjky3rd4c4fmy-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-5~AWHRG6ZZKJCDXPJKY3RD4C4FMY~1~1~5~8~art%20yes",
+        "timestamp": 1643381543,
         "sentiment": 0,
-        "published": "January 28, 2022 2:13 PM"
+        "published": "January 28, 2022 2:52 PM"
     },
     {
         "title": "Most Americans want Biden to prioritize student loan forgiveness, CNBC survey says",
@@ -212,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/global-development/2022/jan/28/west-accused-of-climate-hypocrisy-as-emissions-dwarf-those-of-poor-countries",
         "timestamp": 1643383191,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 28, 2022 3:19 PM"
     },
     {
@@ -223,6 +214,87 @@
         "timestamp": 1643385851,
         "sentiment": 0,
         "published": "January 28, 2022 4:04 PM"
+    },
+    {
+        "title": "Economic growth so strong, the GOP is literally at a loss for words",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/economic-growth-so-strong-gop-literally-loss-words-n1288163",
+        "timestamp": 1643386478,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:14 PM"
+    },
+    {
+        "title": "Rep. Dan Crenshaw of Texas invested in electric cars after bashing Democrats for being 'obsessed' with them",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/dan-crenshaw-stocks-texas-tesla-rivian-investments-2022-1",
+        "timestamp": 1643388575,
+        "sentiment": 0,
+        "published": "January 28, 2022 4:49 PM"
+    },
+    {
+        "title": "Ukraine's president told Biden to 'calm down' Russian invasion warnings, saying he was creating unwanted panic: report",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/ukraines-president-told-biden-calm-104928095.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_cT1hc2tlZCtjYWxtK2Rvd24rdWtyYWluZSZpZT11dGYtOCZvZT11dGYtOA&guce_referrer_sig=AQAAAAK7InvlfVij0wuuEHY5y_kCVjyrQ8eGlfWZHC5e_pSrryYywLt-z-wXWbcLn64kHCf_oArQ7nDSSmSjITVqTa45NAwVwRjwIKlqS-DTg6O2Wx1rN9ipX1FVXW9RiTKxYRyN-1xL3ufmjOaNcLyHrpm5E-7ySTBff6SnPBb4gBWb",
+        "timestamp": 1643388707,
+        "sentiment": -3,
+        "published": "January 28, 2022 4:51 PM"
+    },
+    {
+        "title": "Chicago man released from prison 20 years later after twin brother confesses to murder",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chicago-man-released-prison-20-years-later-twin-brother-confesses-murd-rcna13924",
+        "timestamp": 1643389415,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:03 PM"
+    },
+    {
+        "title": "20,000 Coconuts Filled With Liquid Cocaine Seized by Shocked Officials",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/jgmdd7/20000-coconuts-filled-with-liquid-cocaine-seized-by-shocked-officials",
+        "timestamp": 1643391530,
+        "sentiment": -3,
+        "published": "January 28, 2022 5:38 PM"
+    },
+    {
+        "title": "‘Tiger King’ Joe Exotic resentenced to 21 years in prison",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/812b9b2b759e8d84f2e3192766f1efec",
+        "timestamp": 1643392175,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:49 PM"
+    },
+    {
+        "title": "Judge OKs agreement to destroy gun used by Kyle Rittenhouse",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/kyle-rittenhouse-crime-wisconsin-shootings-homicide-d18eebe0419fbb90b0496e4a638bd1e2",
+        "timestamp": 1643392521,
+        "sentiment": 0,
+        "published": "January 28, 2022 5:55 PM"
+    },
+    {
+        "title": "Pittsburgh bridge collapses on day Biden to visit city to talk infrastructure",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/01/28/pittsburgh-bridge-collapse/",
+        "timestamp": 1643376079,
+        "sentiment": 0,
+        "published": "January 28, 2022 1:21 PM"
+    },
+    {
+        "title": "Scholar who called Biden election a 'literal coup' advising Texas social studies curriculum review",
+        "domain": "statesman.com",
+        "category": "politics",
+        "link": "https://www.statesman.com/story/news/2022/01/25/stephen-balch-appointed-review-texas-social-studies-curriculum/9204721002/",
+        "timestamp": 1643379214,
+        "sentiment": 0,
+        "published": "January 28, 2022 2:13 PM"
     },
     {
         "title": "Boy, 11, charged in armed carjacking in Chicago neighborhood",
@@ -250,42 +322,6 @@
         "timestamp": 1643388085,
         "sentiment": 0,
         "published": "January 28, 2022 4:41 PM"
-    },
-    {
-        "title": "Rep. Dan Crenshaw of Texas invested in electric cars after bashing Democrats for being 'obsessed' with them",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/dan-crenshaw-stocks-texas-tesla-rivian-investments-2022-1",
-        "timestamp": 1643388575,
-        "sentiment": 0,
-        "published": "January 28, 2022 4:49 PM"
-    },
-    {
-        "title": "Ukraine's president told Biden to 'calm down' Russian invasion warnings, saying he was creating unwanted panic: report",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/ukraines-president-told-biden-calm-104928095.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_cT1hc2tlZCtjYWxtK2Rvd24rdWtyYWluZSZpZT11dGYtOCZvZT11dGYtOA&guce_referrer_sig=AQAAAAK7InvlfVij0wuuEHY5y_kCVjyrQ8eGlfWZHC5e_pSrryYywLt-z-wXWbcLn64kHCf_oArQ7nDSSmSjITVqTa45NAwVwRjwIKlqS-DTg6O2Wx1rN9ipX1FVXW9RiTKxYRyN-1xL3ufmjOaNcLyHrpm5E-7ySTBff6SnPBb4gBWb",
-        "timestamp": 1643388707,
-        "sentiment": 0,
-        "published": "January 28, 2022 4:51 PM"
-    },
-    {
-        "title": "Chicago man released from prison 20 years later after twin brother confesses to murder",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/chicago-man-released-prison-20-years-later-twin-brother-confesses-murd-rcna13924",
-        "timestamp": 1643389415,
-        "sentiment": -2,
-        "published": "January 28, 2022 5:03 PM"
-    },
-    {
-        "title": "‘Tiger King’ Joe Exotic resentenced to 21 years in prison",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/812b9b2b759e8d84f2e3192766f1efec",
-        "timestamp": 1643392175,
-        "sentiment": -2,
-        "published": "January 28, 2022 5:49 PM"
     },
     {
         "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
