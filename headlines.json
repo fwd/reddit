@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-queens-gambit-nona-gaprindashvili-1235165706/",
         "timestamp": 1643332673,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 28, 2022 1:17 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "January 28, 2022 1:19 AM"
+    },
+    {
+        "title": "'When You Don't Change People's Lives, People Get Upset,' Says AOC | To reverse slump in Democratic approval ratings, the congresswoman said Biden should start by cancelling student loan debt.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
+        "timestamp": 1643335146,
+        "sentiment": -6,
+        "published": "January 28, 2022 1:59 AM"
     },
     {
         "title": "Netflix Left Off HRC Foundation’s LGBTQ+ Corporate Equality Report Because Of Handling Of Dave Chappelle Special, \"The Closer\"",
@@ -41,8 +50,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/netflix-dave-chappelle-special-lgbtq-index-1234921568/",
         "timestamp": 1643335179,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 28, 2022 1:59 AM"
+    },
+    {
+        "title": "Judge throws out Biden administration’s massive Gulf of Mexico oil and gas lease sale, in win for environmentalists",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
+        "timestamp": 1643336342,
+        "sentiment": -6,
+        "published": "January 28, 2022 2:19 AM"
     },
     {
         "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
@@ -50,8 +68,35 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "January 28, 2022 2:29 AM"
+    },
+    {
+        "title": "Malaysia plans to ban sale of tobacco and other smoking products to those born after 2005",
+        "domain": "malaymail.com",
+        "category": "worldnews",
+        "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
+        "timestamp": 1643340476,
+        "sentiment": -2,
+        "published": "January 28, 2022 3:27 AM"
+    },
+    {
+        "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
+        "domain": "bookriot.com",
+        "category": "news",
+        "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
+        "timestamp": 1643343781,
+        "sentiment": -6,
+        "published": "January 28, 2022 4:23 AM"
+    },
+    {
+        "title": "Playboy 'Strongly Supports' Women Accusing Hugh Hefner",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-60132760",
+        "timestamp": 1643346948,
+        "sentiment": -2,
+        "published": "January 28, 2022 5:15 AM"
     },
     {
         "title": "Palestinian Authority President Abbas praises mother of six terrorists: \"You are our pride and glory\"",
