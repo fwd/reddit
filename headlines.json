@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -72,21 +72,12 @@
         "published": "January 28, 2022 2:19 AM"
     },
     {
-        "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
-        "timestamp": 1643336967,
-        "sentiment": 2,
-        "published": "January 28, 2022 2:29 AM"
-    },
-    {
         "title": "Malaysia plans to ban sale of tobacco and other smoking products to those born after 2005",
         "domain": "malaymail.com",
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 3:27 AM"
     },
     {
@@ -104,17 +95,8 @@
         "category": "news",
         "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
         "timestamp": 1643343781,
-        "sentiment": 0,
-        "published": "January 28, 2022 4:23 AM"
-    },
-    {
-        "title": "Russia says imposing sanctions on Vladimir Putin would be 'destructive'.",
-        "domain": "ndtv.com",
-        "category": "worldnews",
-        "link": "https://www.ndtv.com/world-news/russia-us-imposing-sanctions-on-vladimir-putin-would-be-destructive-kremlin-2730868",
-        "timestamp": 1643347693,
         "sentiment": 2,
-        "published": "January 28, 2022 5:28 AM"
+        "published": "January 28, 2022 4:23 AM"
     },
     {
         "title": "In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs",
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://laist.com/news/criminal-justice/los-angeles-sheriff-deputies-twin-towers-vaccines-covid-19",
         "timestamp": 1643347756,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 5:29 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220128-paris-hospitals-chief-sparks-debate-suggesting-unvaccinated-patients-should-pay-for-treatment",
         "timestamp": 1643354369,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 7:19 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://china-underground.com/2022/01/28/china-lab-grown-meat/",
         "timestamp": 1643360163,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 8:56 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.inlander.com/spokane/lesley-haskell-wife-of-spokane-county-prosecutor-calls-herself-white-nationalist-uses-n-word-as-slur/Content?oid=23162154",
         "timestamp": 1643363468,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 9:51 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-joe-biden-united-states-europe-moscow-8593998c182f17caafeb57fe93f7578c",
         "timestamp": 1643366880,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 10:48 AM"
     },
     {
@@ -176,8 +158,17 @@
         "category": "news",
         "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
         "timestamp": 1643367835,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 11:03 AM"
+    },
+    {
+        "title": "‘We are desperate for new people’: inside a hate group’s leaked online chats",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/28/leaked-online-chats-white-nationalist-patriot-front",
+        "timestamp": 1643368867,
+        "sentiment": 2,
+        "published": "January 28, 2022 11:21 AM"
     },
     {
         "title": "BBC Buys Nordic Crime Drama ‘Trom’ Set in the Faroe Islands",
@@ -198,12 +189,21 @@
         "published": "January 28, 2022 11:47 AM"
     },
     {
+        "title": "GOP Lawmaker Pushes Bill to Let Him and His Pals Overturn Elections",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/arizona-republican-democracy-overthrow-eleciton-overhaul-1291352/",
+        "timestamp": 1643371124,
+        "sentiment": 0,
+        "published": "January 28, 2022 11:58 AM"
+    },
+    {
         "title": "Russia says it wants peace but has 'gun on the table' - U.S. envoy",
         "domain": "reuters.com",
         "category": "worldnews",
         "link": "https://www.reuters.com/world/russia-says-it-wants-peace-has-gun-table-us-envoy-2022-01-28/",
         "timestamp": 1643371422,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "January 28, 2022 12:03 PM"
     },
     {
@@ -212,8 +212,53 @@
         "category": "news",
         "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
         "timestamp": 1643373977,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 28, 2022 12:46 PM"
+    },
+    {
+        "title": "China Jails Almost 50 Steel Executives for Faking Emissions Data",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/finance/news/china-jails-almost-50-steel-040109819.html",
+        "timestamp": 1643374380,
+        "sentiment": -3,
+        "published": "January 28, 2022 12:53 PM"
+    },
+    {
+        "title": "Bridge collapses near Pittsburgh’s Frick Park",
+        "domain": "wpxi.com",
+        "category": "news",
+        "link": "https://www.wpxi.com/news/top-stories/bridge-collapses-pittsburgh-neighborhood/PMIN3FZOK5CCFGDMW6OENSVBYI/",
+        "timestamp": 1643374654,
+        "sentiment": 2,
+        "published": "January 28, 2022 12:57 PM"
+    },
+    {
+        "title": "Latvia blasts Germany’s ‘immoral and hypocritical’ relationship with Russia and China",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/latvia-germany-immoral-relationship-russia-china/",
+        "timestamp": 1643375014,
+        "sentiment": -3,
+        "published": "January 28, 2022 1:03 PM"
+    },
+    {
+        "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
+        "timestamp": 1643336967,
+        "sentiment": 2,
+        "published": "January 28, 2022 2:29 AM"
+    },
+    {
+        "title": "Russia says imposing sanctions on Vladimir Putin would be 'destructive'.",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/russia-us-imposing-sanctions-on-vladimir-putin-would-be-destructive-kremlin-2730868",
+        "timestamp": 1643347693,
+        "sentiment": 2,
+        "published": "January 28, 2022 5:28 AM"
     },
     {
         "title": "All-Muslim City Council in metro Detroit condemns antisemitism",
