@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -43,6 +43,15 @@
         "timestamp": 1643335179,
         "sentiment": 0,
         "published": "January 28, 2022 1:59 AM"
+    },
+    {
+        "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
+        "timestamp": 1643336967,
+        "sentiment": -5,
+        "published": "January 28, 2022 2:29 AM"
     },
     {
         "title": "Palestinian Authority President Abbas praises mother of six terrorists: \"You are our pride and glory\"",
