@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
         "timestamp": 1643330221,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 28, 2022 12:37 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "January 28, 2022 12:40 AM"
+    },
+    {
+        "title": "Mayor Adams’ spokesman advises New Yorkers to get a COVID test if they cross paths with Sarah Palin",
+        "domain": "nydailynews.com",
+        "category": "politics",
+        "link": "https://www.nydailynews.com/new-york/ny-palin-covid-restaurant-visits-20220127-qznporya3rdqdbjm5newlp5rnq-story.html",
+        "timestamp": 1643331362,
+        "sentiment": 0,
+        "published": "January 28, 2022 12:56 AM"
     },
     {
         "title": "Netflix Must Face ‘Queen’s Gambit’ Lawsuit From Russian Chess Great, Judge Says",
@@ -32,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/27/when-you-dont-change-peoples-lives-people-get-upset-says-aoc",
         "timestamp": 1643335146,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 28, 2022 1:59 AM"
     },
     {
@@ -59,8 +68,17 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/climate-environment/2022/01/27/biden-gulf-of-mexico-lease-sale/",
         "timestamp": 1643336342,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "January 28, 2022 2:19 AM"
+    },
+    {
+        "title": "Top Weapons Companies Boast Ukraine-Russia Tensions Are a Boon for Business",
+        "domain": "inthesetimes.com",
+        "category": "worldnews",
+        "link": "https://inthesetimes.com/article/ukraine-russia-raytheon-lockheed-martin-general-dynamics-weapons-industry",
+        "timestamp": 1643336629,
+        "sentiment": 2,
+        "published": "January 28, 2022 2:23 AM"
     },
     {
         "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
@@ -68,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 28, 2022 2:29 AM"
     },
     {
@@ -77,8 +95,17 @@
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 28, 2022 3:27 AM"
+    },
+    {
+        "title": "All-Muslim City Council in metro Detroit condemns antisemitism",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/wayne/2022/01/27/hamtramck-council-anti-semitism-texas-synagogue-hostage-crisis/9234996002/",
+        "timestamp": 1643340559,
+        "sentiment": -2,
+        "published": "January 28, 2022 3:29 AM"
     },
     {
         "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
@@ -86,7 +113,7 @@
         "category": "news",
         "link": "https://bookriot.com/lgbtq-books-quietly-pulled-from-washington-state-middle-school/?fbclid=IwAR0DlhyLY6iiP1PgSi6wLhHdo0VK8fJTadW-YXYJpMgikP3v4YgBbybd9k4",
         "timestamp": 1643343781,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "January 28, 2022 4:23 AM"
     },
     {
@@ -95,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-us-canada-60132760",
         "timestamp": 1643346948,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 28, 2022 5:15 AM"
     },
     {
