@@ -9,21 +9,12 @@
         "published": "January 28, 2022 1:17 AM"
     },
     {
-        "title": "‘I’ve never missed a vote’: 95-year-old World War II Veteran says his mail-in ballot application has been denied twice due to new requirements",
-        "domain": "click2houston.com",
-        "category": "politics",
-        "link": "https://www.click2houston.com/news/local/2022/01/26/ive-never-missed-a-vote-95-year-old-world-war-ii-veteran-says-his-mail-in-ballot-application-has-been-denied-twice-due-to-new-requirements/",
-        "timestamp": 1643351258,
-        "sentiment": 0,
-        "published": "January 28, 2022 6:27 AM"
-    },
-    {
         "title": "Lesley Haskell, wife of Spokane County Prosecutor, calls herself 'White nationalist,' uses N-word as slur",
         "domain": "inlander.com",
         "category": "news",
         "link": "https://www.inlander.com/spokane/lesley-haskell-wife-of-spokane-county-prosecutor-calls-herself-white-nationalist-uses-n-word-as-slur/Content?oid=23162154",
         "timestamp": 1643363468,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 9:51 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-joe-biden-united-states-europe-moscow-8593998c182f17caafeb57fe93f7578c",
         "timestamp": 1643366880,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 10:48 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://interestingengineering.com/denmark-decides-covid-19-is-no-longer-a-threat-to-general-public",
         "timestamp": 1643367835,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 11:03 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/28/canada-truckers-covid-vaccine-mandate-protest-government",
         "timestamp": 1643370164,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 11:42 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.mlive.com/coronavirus/2022/01/kid-rock-threatens-to-cancel-any-concert-on-his-tour-if-theres-covid-19-protocols.html",
         "timestamp": 1643373977,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 12:46 PM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/china-jails-almost-50-steel-040109819.html",
         "timestamp": 1643374380,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 12:53 PM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.wpxi.com/news/top-stories/bridge-collapses-pittsburgh-neighborhood/PMIN3FZOK5CCFGDMW6OENSVBYI/",
         "timestamp": 1643374654,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 12:57 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/latvia-germany-immoral-relationship-russia-china/",
         "timestamp": 1643375014,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 1:03 PM"
     },
     {
@@ -126,15 +117,6 @@
         "published": "January 28, 2022 1:35 PM"
     },
     {
-        "title": "Ukraine plans to employ sleeper agents behind Russian lines if Moscow invades",
-        "domain": "theglobeandmail.com",
-        "category": "worldnews",
-        "link": "https://www.theglobeandmail.com/world/article-ukraine-prepares-resistance-plan-in-case-the-country-becomes-occupied/",
-        "timestamp": 1643378232,
-        "sentiment": 0,
-        "published": "January 28, 2022 1:57 PM"
-    },
-    {
         "title": "Most Americans want Biden to prioritize student loan forgiveness, CNBC survey says",
         "domain": "cnbc.com",
         "category": "politics",
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/global-development/2022/jan/28/west-accused-of-climate-hypocrisy-as-emissions-dwarf-those-of-poor-countries",
         "timestamp": 1643383191,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 3:19 PM"
     },
     {
@@ -159,15 +141,6 @@
         "link": "https://tvline.com/2022/01/17/yellowjackets-season-2-premiere-date-2022/",
         "timestamp": 1643385851,
         "sentiment": 0,
-        "published": "January 28, 2022 4:04 PM"
-    },
-    {
-        "title": "Boy, 11, charged in armed carjacking in Chicago neighborhood",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/arrests-chicago-carjacking-305492a5536fc01b7537e04d5ea2ec22",
-        "timestamp": 1643385880,
-        "sentiment": -3,
         "published": "January 28, 2022 4:04 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/ukraines-president-told-biden-calm-104928095.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_cT1hc2tlZCtjYWxtK2Rvd24rdWtyYWluZSZpZT11dGYtOCZvZT11dGYtOA&guce_referrer_sig=AQAAAAK7InvlfVij0wuuEHY5y_kCVjyrQ8eGlfWZHC5e_pSrryYywLt-z-wXWbcLn64kHCf_oArQ7nDSSmSjITVqTa45NAwVwRjwIKlqS-DTg6O2Wx1rN9ipX1FVXW9RiTKxYRyN-1xL3ufmjOaNcLyHrpm5E-7ySTBff6SnPBb4gBWb",
         "timestamp": 1643388707,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 4:51 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-man-released-prison-20-years-later-twin-brother-confesses-murd-rcna13924",
         "timestamp": 1643389415,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 5:03 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/exclusive-russia-moves-blood-supplies-near-ukraine-adding-us-concern-officials-2022-01-28/",
         "timestamp": 1643392097,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 5:48 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://apnews.com/article/812b9b2b759e8d84f2e3192766f1efec",
         "timestamp": 1643392175,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 5:49 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "news",
         "link": "https://apnews.com/article/kyle-rittenhouse-crime-wisconsin-shootings-homicide-d18eebe0419fbb90b0496e4a638bd1e2",
         "timestamp": 1643392521,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 5:55 PM"
     },
     {
@@ -243,12 +216,21 @@
         "published": "January 28, 2022 6:01 PM"
     },
     {
+        "title": "Elizabeth Mitchell To Return For Disney+’s ‘The Santa Clause’ Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/the-santa-clause-elizabeth-mitchell-disney-series-mrs-clause-1234921373/",
+        "timestamp": 1643392934,
+        "sentiment": 0,
+        "published": "January 28, 2022 6:02 PM"
+    },
+    {
         "title": "Prince Andrew gives up St. Andrews golf club membership amid Jeffrey Epstein victim sex lawsuit",
         "domain": "cnbc.com",
         "category": "news",
         "link": "https://www.cnbc.com/amp/2022/01/28/jeffrey-epstein-case-prince-andrew-ends-st-andrews-golf-membership.html",
         "timestamp": 1643393345,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 6:09 PM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "worldnews",
         "link": "https://sentientmedia.org/european-union-to-ban-the-routine-use-of-antibiotics-on-farmed-animals/",
         "timestamp": 1643393670,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 6:14 PM"
     },
     {
@@ -270,12 +252,21 @@
         "published": "January 28, 2022 6:24 PM"
     },
     {
+        "title": "We Uncovered How Many Georgians Were Disenfranchised by GOP Voting Restrictions. It’s Staggering.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/01/gop-voting-law-disenfranshised-georgia-voters/",
+        "timestamp": 1643396132,
+        "sentiment": 0,
+        "published": "January 28, 2022 6:55 PM"
+    },
+    {
         "title": "Moderna launches clinical trial for HIV vaccine that uses mRNA technology used in Covid shot",
         "domain": "abc7.com",
         "category": "news",
         "link": "https://abc7.com/hiv-vaccine-moderna-mrna-clinal-trial/11517581/",
         "timestamp": 1643396626,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 28, 2022 7:03 PM"
     },
     {
@@ -288,13 +279,13 @@
         "published": "January 28, 2022 7:16 PM"
     },
     {
-        "title": "‘Daily Show’ Host Trevor Noah Explains Blackness To Joe Rogan",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/trevor-noah-black-joe-rogan-1234922006/",
-        "timestamp": 1643401007,
-        "sentiment": 0,
-        "published": "January 28, 2022 8:16 PM"
+        "title": "Russia's Covid deaths pass 700,000.",
+        "domain": "gdnonline.com",
+        "category": "worldnews",
+        "link": "https://www.gdnonline.com/Details/1021099/Russias-Covid-deaths-pass-700,000",
+        "timestamp": 1643399408,
+        "sentiment": -2,
+        "published": "January 28, 2022 7:50 PM"
     },
     {
         "title": "Ukraine crisis: Belarus 'will fight alongside Russia' if Putin goes to war, says Lukashenko | Euronews",
@@ -302,8 +293,53 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/01/28/ukraine-crisis-belarus-will-fight-alongside-russia-if-putin-goes-to-war-says-lukashenko",
         "timestamp": 1643401910,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 28, 2022 8:31 PM"
+    },
+    {
+        "title": "Mississippi mayor withholds library funds over LGBTQ books",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/0dc9696d18bf2b2989b5d316042861bc",
+        "timestamp": 1643402105,
+        "sentiment": 0,
+        "published": "January 28, 2022 8:35 PM"
+    },
+    {
+        "title": "‘I’ve never missed a vote’: 95-year-old World War II Veteran says his mail-in ballot application has been denied twice due to new requirements",
+        "domain": "click2houston.com",
+        "category": "politics",
+        "link": "https://www.click2houston.com/news/local/2022/01/26/ive-never-missed-a-vote-95-year-old-world-war-ii-veteran-says-his-mail-in-ballot-application-has-been-denied-twice-due-to-new-requirements/",
+        "timestamp": 1643351258,
+        "sentiment": 0,
+        "published": "January 28, 2022 6:27 AM"
+    },
+    {
+        "title": "Ukraine plans to employ sleeper agents behind Russian lines if Moscow invades",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/world/article-ukraine-prepares-resistance-plan-in-case-the-country-becomes-occupied/",
+        "timestamp": 1643378232,
+        "sentiment": 0,
+        "published": "January 28, 2022 1:57 PM"
+    },
+    {
+        "title": "Boy, 11, charged in armed carjacking in Chicago neighborhood",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/arrests-chicago-carjacking-305492a5536fc01b7537e04d5ea2ec22",
+        "timestamp": 1643385880,
+        "sentiment": -3,
+        "published": "January 28, 2022 4:04 PM"
+    },
+    {
+        "title": "‘Daily Show’ Host Trevor Noah Explains Blackness To Joe Rogan",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/trevor-noah-black-joe-rogan-1234922006/",
+        "timestamp": 1643401007,
+        "sentiment": 0,
+        "published": "January 28, 2022 8:16 PM"
     },
     {
         "title": "Texas dog walker permanently disfigured in 'bloodthirsty' attack by 2 dogs, lawsuit says",
@@ -349,15 +385,6 @@
         "timestamp": 1643391530,
         "sentiment": -2,
         "published": "January 28, 2022 5:38 PM"
-    },
-    {
-        "title": "Elizabeth Mitchell To Return For Disney+’s ‘The Santa Clause’ Series",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/the-santa-clause-elizabeth-mitchell-disney-series-mrs-clause-1234921373/",
-        "timestamp": 1643392934,
-        "sentiment": 0,
-        "published": "January 28, 2022 6:02 PM"
     },
     {
         "title": "LGBTQ+ Books Quietly Pulled From Washington State Middle School",
