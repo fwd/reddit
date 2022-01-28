@@ -1,11 +1,20 @@
 [
     {
+        "title": "The Right Has Mastered Cancel Culture",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/01/glenn-youngkin-maus-ban-show-mastery-of-cancel-culture.html",
+        "timestamp": 1643330221,
+        "sentiment": -1,
+        "published": "January 28, 2022 12:37 AM"
+    },
+    {
         "title": "Texas dog walker permanently disfigured in 'bloodthirsty' attack by 2 dogs, lawsuit says",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/texas-dog-walker-permanently-disfigured-bloodthirsty-attack-2-dogs-law-rcna13852",
         "timestamp": 1643330437,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "January 28, 2022 12:40 AM"
     },
     {
@@ -16,6 +25,24 @@
         "timestamp": 1643332673,
         "sentiment": 0,
         "published": "January 28, 2022 1:17 AM"
+    },
+    {
+        "title": "Six Russian Landing Ships That Left The Baltic Sea Have Entered The Mediterranean",
+        "domain": "thedrive.com",
+        "category": "worldnews",
+        "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
+        "timestamp": 1643332740,
+        "sentiment": 1,
+        "published": "January 28, 2022 1:19 AM"
+    },
+    {
+        "title": "Netflix Left Off HRC Foundation’s LGBTQ+ Corporate Equality Report Because Of Handling Of Dave Chappelle Special, \"The Closer\"",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/netflix-dave-chappelle-special-lgbtq-index-1234921568/",
+        "timestamp": 1643335179,
+        "sentiment": 0,
+        "published": "January 28, 2022 1:59 AM"
     },
     {
         "title": "Palestinian Authority President Abbas praises mother of six terrorists: \"You are our pride and glory\"",
