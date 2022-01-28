@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.thedrive.com/the-war-zone/44049/six-russian-landing-ships-that-left-the-baltic-sea-have-entered-the-mediterranean",
         "timestamp": 1643332740,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "January 28, 2022 1:19 AM"
     },
     {
@@ -72,21 +72,12 @@
         "published": "January 28, 2022 2:19 AM"
     },
     {
-        "title": "Top Weapons Companies Boast Ukraine-Russia Tensions Are a Boon for Business",
-        "domain": "inthesetimes.com",
-        "category": "worldnews",
-        "link": "https://inthesetimes.com/article/ukraine-russia-raytheon-lockheed-martin-general-dynamics-weapons-industry",
-        "timestamp": 1643336629,
-        "sentiment": 2,
-        "published": "January 28, 2022 2:23 AM"
-    },
-    {
         "title": "WTO authorizes China to impose $645 million of tariffs against the U.S.",
         "domain": "reuters.com",
         "category": "worldnews",
         "link": "https://www.reuters.com/business/wto-gives-china-right-impose-tariffs-645-mln-us-goods-2022-01-26/",
         "timestamp": 1643336967,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "January 28, 2022 2:29 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.malaymail.com/news/malaysia/2022/01/27/khairy-malaysia-plans-to-ban-sale-of-tobacco-and-other-smoking-products-to/2038061",
         "timestamp": 1643340476,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "January 28, 2022 3:27 AM"
     },
     {
@@ -115,6 +106,15 @@
         "timestamp": 1643343781,
         "sentiment": -2,
         "published": "January 28, 2022 4:23 AM"
+    },
+    {
+        "title": "Top Weapons Companies Boast Ukraine-Russia Tensions Are a Boon for Business",
+        "domain": "inthesetimes.com",
+        "category": "worldnews",
+        "link": "https://inthesetimes.com/article/ukraine-russia-raytheon-lockheed-martin-general-dynamics-weapons-industry",
+        "timestamp": 1643336629,
+        "sentiment": 2,
+        "published": "January 28, 2022 2:23 AM"
     },
     {
         "title": "Playboy 'Strongly Supports' Women Accusing Hugh Hefner",
