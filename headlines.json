@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/28/americas/peru-oil-spill-travel-ban-intl/index.html",
         "timestamp": 1643420751,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 1:45 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
         "timestamp": 1643428483,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 3:54 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/29/sport/university-of-michigan-robert-anderson-victims-intl-spt/index.html",
         "timestamp": 1643452925,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 10:42 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
         "timestamp": 1643456058,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 11:34 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
         "timestamp": 1643458407,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 12:13 PM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://mesonstars.com/space/1069/",
         "timestamp": 1643461335,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 1:02 PM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60180507",
         "timestamp": 1643461881,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 1:11 PM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/29/great-barrier-reef-on-verge-of-another-mass-bleaching-after-highest-temperatures-on-record",
         "timestamp": 1643464030,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 1:47 PM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "news",
         "link": "https://www.macon.com/news/local/crime/article257818618.html",
         "timestamp": 1643465141,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 2:05 PM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-middle-east-60173481",
         "timestamp": 1643469213,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 3:13 PM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/putin-orders-apparent-new-system-banning-internet-content-2022-01-29/",
         "timestamp": 1643469544,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 3:19 PM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220129-turkey-s-erdogan-fires-statistics-chief-after-inflation-data-shows-19-year-high",
         "timestamp": 1643470767,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 3:39 PM"
     },
     {
@@ -212,17 +212,8 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/28/putin-west-has-not-addressed-main-concerns-in-ukraine-standoff",
         "timestamp": 1643470921,
-        "sentiment": 0,
-        "published": "January 29, 2022 3:42 PM"
-    },
-    {
-        "title": "Texas Butterfly Sanctuary Closes Due To 'Credible Threats' From Pro-Trump Event",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/national-butterfly-center-closes-border-rally_n_61f34067e4b01d3f299902f7",
-        "timestamp": 1643474201,
         "sentiment": -2,
-        "published": "January 29, 2022 4:36 PM"
+        "published": "January 29, 2022 3:42 PM"
     },
     {
         "title": "Manchin Gets Thousands From GOP Megadonor After Tanking BBB",
@@ -243,13 +234,13 @@
         "published": "January 29, 2022 4:56 PM"
     },
     {
-        "title": "Russia to move drills outside of Ireland's EEZ",
-        "domain": "rte.ie",
-        "category": "worldnews",
-        "link": "http://www.rte.ie/news/ireland/2022/0129/1276645-russia-ireland/",
-        "timestamp": 1643476989,
-        "sentiment": 0,
-        "published": "January 29, 2022 5:23 PM"
+        "title": "Texas Newspaper Slams GOP AG Paxton After He Urges Mike Lindell Followers to 'Harass' Judges",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-newspaper-slams-gop-ag-paxton-after-he-urges-mike-lindell-followers-harass-judges-1674292",
+        "timestamp": 1643478333,
+        "sentiment": -2,
+        "published": "January 29, 2022 5:45 PM"
     },
     {
         "title": "Russia says its planned naval exercises have been moved away from Irish-patrolled waters",
@@ -257,7 +248,7 @@
         "category": "worldnews",
         "link": "https://jrnl.ie/5668245",
         "timestamp": 1643479385,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 6:03 PM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/mukilteo-school-district-votes-to-remove-to-kill-a-mockingbird-from-required-reading",
         "timestamp": 1643480201,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 6:16 PM"
     },
     {
@@ -284,8 +275,17 @@
         "category": "news",
         "link": "https://www.thestreet.com/technology/spotify-drops-customer-service-keeps-joe-rogan",
         "timestamp": 1643481134,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 6:32 PM"
+    },
+    {
+        "title": "Lawsuit accuses Chris Brown of raping unnamed woman on Florida yacht",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/lawsuit-accuses-chris-brown-raping-unnamed-woman-florida-yacht-2022-01-28/",
+        "timestamp": 1643482523,
+        "sentiment": -3,
+        "published": "January 29, 2022 6:55 PM"
     },
     {
         "title": "Donald Trump should not lead the country again, says the Republican leader of the National Governors Association",
@@ -297,13 +297,49 @@
         "published": "January 29, 2022 7:00 PM"
     },
     {
+        "title": "'The Fall of the House of Usher' Adds Willa Fitzgerald as Production Begins on the Series",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/fall-of-the-house-of-usher-cast-willa-fitzgerald-production-start-netflix/",
+        "timestamp": 1643483775,
+        "sentiment": 0,
+        "published": "January 29, 2022 7:16 PM"
+    },
+    {
         "title": "‘I will die free’: Unvaccinated Burke County man denied kidney transplant by hospital",
         "domain": "wsoctv.com",
         "category": "news",
         "link": "https://www.wsoctv.com/news/local/i-will-die-free-unvaccinated-burke-county-man-denied-kidney-transplant-by-hospital/OJGAFURR4FGERJB7VT24P5RED4/",
         "timestamp": 1643485191,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 7:39 PM"
+    },
+    {
+        "title": "Trudeau moved to undisclosed location as trucker protest descends on Ottawa",
+        "domain": "upi.com",
+        "category": "worldnews",
+        "link": "https://www.upi.com/amp/Top_News/World-News/2022/01/29/canada-trudeau-moved-undisclosed-location-trucker-covid-protest-ottawa/3121643481386/",
+        "timestamp": 1643487585,
+        "sentiment": -2,
+        "published": "January 29, 2022 8:19 PM"
+    },
+    {
+        "title": "Texas Butterfly Sanctuary Closes Due To 'Credible Threats' From Pro-Trump Event",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/national-butterfly-center-closes-border-rally_n_61f34067e4b01d3f299902f7",
+        "timestamp": 1643474201,
+        "sentiment": -2,
+        "published": "January 29, 2022 4:36 PM"
+    },
+    {
+        "title": "Russia to move drills outside of Ireland's EEZ",
+        "domain": "rte.ie",
+        "category": "worldnews",
+        "link": "http://www.rte.ie/news/ireland/2022/0129/1276645-russia-ireland/",
+        "timestamp": 1643476989,
+        "sentiment": 0,
+        "published": "January 29, 2022 5:23 PM"
     },
     {
         "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
