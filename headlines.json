@@ -32,26 +32,8 @@
         "category": "news",
         "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
         "timestamp": 1643428483,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 3:54 AM"
-    },
-    {
-        "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
-        "domain": "nbcnewyork.com",
-        "category": "news",
-        "link": "https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-nurses-make-1-5-million-in-fake-vaccine-card-scam-da/3521791/",
-        "timestamp": 1643436451,
-        "sentiment": 0,
-        "published": "January 29, 2022 6:07 AM"
-    },
-    {
-        "title": "After 32 Years on the Job, Mark Schwarz, SportsCenter’s Longest-Tenured Reporter, Retiring On Monday",
-        "domain": "espnfrontrow.com",
-        "category": "television",
-        "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
-        "timestamp": 1643440671,
-        "sentiment": 0,
-        "published": "January 29, 2022 7:17 AM"
     },
     {
         "title": "The National Butterfly Center along the Texas-Mexico border is shutting down for 3 days, citing threats and a nearby MAGA rally",
@@ -59,7 +41,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-butterfly-sanctuary-says-forced-to-close-far-right-threats-2022-1?amp",
         "timestamp": 1643449379,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 9:42 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/29/sport/university-of-michigan-robert-anderson-victims-intl-spt/index.html",
         "timestamp": 1643452925,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 10:42 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
         "timestamp": 1643456058,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 11:34 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/28/analysis-finds-staggering-rise-voter-suppression-after-gop-restrictions-georgia",
         "timestamp": 1643456442,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 11:40 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
         "timestamp": 1643458407,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 12:13 PM"
     },
     {
@@ -104,26 +86,8 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/white-house/farmers-flourish-under-biden-see-recovery-trump-era-trade-wars-n1288044",
         "timestamp": 1643458530,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 12:15 PM"
-    },
-    {
-        "title": "US East Coast hunkers down as \"bombogenesis\" snowstorm hits",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-60177979",
-        "timestamp": 1643460333,
-        "sentiment": 0,
-        "published": "January 29, 2022 12:45 PM"
-    },
-    {
-        "title": "NRA board member subpoenaed by Jan. 6 committee over role in fake Trump elector scheme | The Jan. 6 committee on Friday targeted 14 people accused of submitting falsified Electoral College paperwork",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/01/28/nra-board-member-subpoenaed-by-jan-6-committee-over-role-in-fake-elector-scheme/",
-        "timestamp": 1643460538,
-        "sentiment": -8,
-        "published": "January 29, 2022 12:48 PM"
     },
     {
         "title": "James Webb Space Telescope has turned on it's high-gain antenna",
@@ -140,7 +104,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/01/28/the-critics-were-right-critical-race-theory-is-just-a-cover-for-silencing-educators/",
         "timestamp": 1643461443,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 1:04 PM"
     },
     {
@@ -158,7 +122,7 @@
         "category": "politics",
         "link": "https://www.axios.com/teachers-substitutes-principals-ae3caedb-96b2-4a1b-aff3-ffb8c8edc429.html",
         "timestamp": 1643462633,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 1:23 PM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/29/great-barrier-reef-on-verge-of-another-mass-bleaching-after-highest-temperatures-on-record",
         "timestamp": 1643464030,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 1:47 PM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "news",
         "link": "https://www.macon.com/news/local/crime/article257818618.html",
         "timestamp": 1643465141,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 2:05 PM"
     },
     {
@@ -203,17 +167,8 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/29/veteran-denied-absentee-ballot-texas-voting-law-beto-o-rourke",
         "timestamp": 1643468839,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 3:07 PM"
-    },
-    {
-        "title": "Man beaten with metal skillet after declining an offer of potatoes, police say",
-        "domain": "wkyt.com",
-        "category": "news",
-        "link": "https://www.wkyt.com/2022/01/27/man-beaten-with-metal-skillet-after-declining-an-offer-potatoes-police-say/",
-        "timestamp": 1643469001,
-        "sentiment": 0,
-        "published": "January 29, 2022 3:10 PM"
     },
     {
         "title": "Palestinians vent against Hamas in rare online event",
@@ -239,7 +194,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/the-jan-6-committee-members-are-patriots-making-sure-treason-is-fully-documented?ref=wrap",
         "timestamp": 1643470602,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 29, 2022 3:36 PM"
     },
     {
@@ -261,6 +216,141 @@
         "published": "January 29, 2022 3:42 PM"
     },
     {
+        "title": "Texas Butterfly Sanctuary Closes Due To 'Credible Threats' From Pro-Trump Event",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/national-butterfly-center-closes-border-rally_n_61f34067e4b01d3f299902f7",
+        "timestamp": 1643474201,
+        "sentiment": -2,
+        "published": "January 29, 2022 4:36 PM"
+    },
+    {
+        "title": "Manchin Gets Thousands From GOP Megadonor After Tanking BBB",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/29/manchin-gets-thousands-gop-megadonor-after-tanking-bbb",
+        "timestamp": 1643475140,
+        "sentiment": -2,
+        "published": "January 29, 2022 4:52 PM"
+    },
+    {
+        "title": "From the Alt-Cabaret Stage to HBO, Bridget Everett Is Still Singing",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2022/1/19/22890394/bridget-everett-somebody-somewhere-hb0-cabaret-comedian",
+        "timestamp": 1643475364,
+        "sentiment": 0,
+        "published": "January 29, 2022 4:56 PM"
+    },
+    {
+        "title": "Russia to move drills outside of Ireland's EEZ",
+        "domain": "rte.ie",
+        "category": "worldnews",
+        "link": "http://www.rte.ie/news/ireland/2022/0129/1276645-russia-ireland/",
+        "timestamp": 1643476989,
+        "sentiment": 0,
+        "published": "January 29, 2022 5:23 PM"
+    },
+    {
+        "title": "Russia says its planned naval exercises have been moved away from Irish-patrolled waters",
+        "domain": "jrnl.ie",
+        "category": "worldnews",
+        "link": "https://jrnl.ie/5668245",
+        "timestamp": 1643479385,
+        "sentiment": 0,
+        "published": "January 29, 2022 6:03 PM"
+    },
+    {
+        "title": "Action, Murder, Musical and Romance: The Afterparty Cast and Creator on the Art of Genre-Bending",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/2022/01/the-afterparty-cast-chris-miller-phil-lord-interview/",
+        "timestamp": 1643479779,
+        "sentiment": 0,
+        "published": "January 29, 2022 6:09 PM"
+    },
+    {
+        "title": "School District votes to remove 'To Kill a Mockingbird' from required reading",
+        "domain": "komonews.com",
+        "category": "news",
+        "link": "https://komonews.com/news/local/mukilteo-school-district-votes-to-remove-to-kill-a-mockingbird-from-required-reading",
+        "timestamp": 1643480201,
+        "sentiment": -2,
+        "published": "January 29, 2022 6:16 PM"
+    },
+    {
+        "title": "Spotify Drops Customer Service After Keeping Rogan",
+        "domain": "thestreet.com",
+        "category": "news",
+        "link": "https://www.thestreet.com/technology/spotify-drops-customer-service-keeps-joe-rogan",
+        "timestamp": 1643481134,
+        "sentiment": -2,
+        "published": "January 29, 2022 6:32 PM"
+    },
+    {
+        "title": "Donald Trump should not lead the country again, says the Republican leader of the National Governors Association",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/donald-trump-shouldnt-run-in-2024-national-governors-asa-hutchinson-2022-1?_ga=2.152798329.1949972548.1643392916-1868150949.1",
+        "timestamp": 1643482856,
+        "sentiment": -2,
+        "published": "January 29, 2022 7:00 PM"
+    },
+    {
+        "title": "‘I will die free’: Unvaccinated Burke County man denied kidney transplant by hospital",
+        "domain": "wsoctv.com",
+        "category": "news",
+        "link": "https://www.wsoctv.com/news/local/i-will-die-free-unvaccinated-burke-county-man-denied-kidney-transplant-by-hospital/OJGAFURR4FGERJB7VT24P5RED4/",
+        "timestamp": 1643485191,
+        "sentiment": -2,
+        "published": "January 29, 2022 7:39 PM"
+    },
+    {
+        "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-nurses-make-1-5-million-in-fake-vaccine-card-scam-da/3521791/",
+        "timestamp": 1643436451,
+        "sentiment": 0,
+        "published": "January 29, 2022 6:07 AM"
+    },
+    {
+        "title": "After 32 Years on the Job, Mark Schwarz, SportsCenter’s Longest-Tenured Reporter, Retiring On Monday",
+        "domain": "espnfrontrow.com",
+        "category": "television",
+        "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
+        "timestamp": 1643440671,
+        "sentiment": 0,
+        "published": "January 29, 2022 7:17 AM"
+    },
+    {
+        "title": "US East Coast hunkers down as \"bombogenesis\" snowstorm hits",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-60177979",
+        "timestamp": 1643460333,
+        "sentiment": 0,
+        "published": "January 29, 2022 12:45 PM"
+    },
+    {
+        "title": "NRA board member subpoenaed by Jan. 6 committee over role in fake Trump elector scheme | The Jan. 6 committee on Friday targeted 14 people accused of submitting falsified Electoral College paperwork",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/28/nra-board-member-subpoenaed-by-jan-6-committee-over-role-in-fake-elector-scheme/",
+        "timestamp": 1643460538,
+        "sentiment": -8,
+        "published": "January 29, 2022 12:48 PM"
+    },
+    {
+        "title": "Man beaten with metal skillet after declining an offer of potatoes, police say",
+        "domain": "wkyt.com",
+        "category": "news",
+        "link": "https://www.wkyt.com/2022/01/27/man-beaten-with-metal-skillet-after-declining-an-offer-potatoes-police-say/",
+        "timestamp": 1643469001,
+        "sentiment": 0,
+        "published": "January 29, 2022 3:10 PM"
+    },
+    {
         "title": "Moderna Launches Clinical Trial of Its mRNA HIV Vaccine",
         "domain": "nbcwashington.com",
         "category": "worldnews",
@@ -277,33 +367,6 @@
         "timestamp": 1643472738,
         "sentiment": 0,
         "published": "January 29, 2022 4:12 PM"
-    },
-    {
-        "title": "Texas Butterfly Sanctuary Closes Due To 'Credible Threats' From Pro-Trump Event",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/national-butterfly-center-closes-border-rally_n_61f34067e4b01d3f299902f7",
-        "timestamp": 1643474201,
-        "sentiment": -8,
-        "published": "January 29, 2022 4:36 PM"
-    },
-    {
-        "title": "Manchin Gets Thousands From GOP Megadonor After Tanking BBB",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/29/manchin-gets-thousands-gop-megadonor-after-tanking-bbb",
-        "timestamp": 1643475140,
-        "sentiment": -8,
-        "published": "January 29, 2022 4:52 PM"
-    },
-    {
-        "title": "From the Alt-Cabaret Stage to HBO, Bridget Everett Is Still Singing",
-        "domain": "theringer.com",
-        "category": "television",
-        "link": "https://www.theringer.com/tv/2022/1/19/22890394/bridget-everett-somebody-somewhere-hb0-cabaret-comedian",
-        "timestamp": 1643475364,
-        "sentiment": 0,
-        "published": "January 29, 2022 4:56 PM"
     },
     {
         "title": "Tennessee lawmakers file bill targeting ‘obscene’ books in school libraries",
