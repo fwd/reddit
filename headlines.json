@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.billboard.com/music/rock/wig-wam-peacemaker-credit-dance-do-ya-wanna-taste-it-1235021489/",
         "timestamp": 1643419617,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "January 29, 2022 1:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/28/americas/peru-oil-spill-travel-ban-intl/index.html",
         "timestamp": 1643420751,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 29, 2022 1:45 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435761/Girl-seven-mauled-death-pack-stray-dogs-Russia.html",
         "timestamp": 1643423956,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 29, 2022 2:39 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://www.animationmagazine.net/streaming/creating-a-rubber-hose-wonderland-for-the-cuphead-show/",
         "timestamp": 1643427565,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "January 29, 2022 3:39 AM"
     },
     {
@@ -52,6 +52,15 @@
         "timestamp": 1643428483,
         "sentiment": -3,
         "published": "January 29, 2022 3:54 AM"
+    },
+    {
+        "title": "Joni Mitchell to remove songs from Spotify in solidarity with Neil Young's stance against COVID 'misinformation'",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-01-29/joni-mitchell-take-songs-off-spotify-solidarity-with-neil-young/100790200",
+        "timestamp": 1643432319,
+        "sentiment": 0,
+        "published": "January 29, 2022 4:58 AM"
     },
     {
         "title": "'Mighty Ducks' star Shaun Weiss celebrates two years sober",
