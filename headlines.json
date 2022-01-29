@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.billboard.com/music/rock/wig-wam-peacemaker-credit-dance-do-ya-wanna-taste-it-1235021489/",
         "timestamp": 1643419617,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 29, 2022 1:26 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alabama-towns-traffic-ticketing-scandal-leads-police-chiefs-resignatio-rcna13801",
         "timestamp": 1643420927,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 29, 2022 1:48 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.animationmagazine.net/streaming/creating-a-rubber-hose-wonderland-for-the-cuphead-show/",
         "timestamp": 1643427565,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 29, 2022 3:39 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
         "timestamp": 1643428483,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "January 29, 2022 3:54 AM"
     },
     {
@@ -70,6 +70,15 @@
         "timestamp": 1643432319,
         "sentiment": -3,
         "published": "January 29, 2022 4:58 AM"
+    },
+    {
+        "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-nurses-make-1-5-million-in-fake-vaccine-card-scam-da/3521791/",
+        "timestamp": 1643436451,
+        "sentiment": -5,
+        "published": "January 29, 2022 6:07 AM"
     },
     {
         "title": "Spotify support buckles under complaints from angry Neil Young fans.",
@@ -86,7 +95,7 @@
         "category": "television",
         "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
         "timestamp": 1643440671,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "January 29, 2022 7:17 AM"
     },
     {
