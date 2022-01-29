@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
         "timestamp": 1643428483,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 3:54 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
         "timestamp": 1643456058,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 11:34 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
         "timestamp": 1643458407,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 12:13 PM"
     },
     {
@@ -61,15 +61,6 @@
         "timestamp": 1643458530,
         "sentiment": 0,
         "published": "January 29, 2022 12:15 PM"
-    },
-    {
-        "title": "James Webb Space Telescope has turned on it's high-gain antenna",
-        "domain": "mesonstars.com",
-        "category": "worldnews",
-        "link": "https://mesonstars.com/space/1069/",
-        "timestamp": 1643461335,
-        "sentiment": -11,
-        "published": "January 29, 2022 1:02 PM"
     },
     {
         "title": "The critics were right: \"Critical race theory\" panic is just a cover for silencing educators",
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60180507",
         "timestamp": 1643461881,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 1:11 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jan/29/great-barrier-reef-on-verge-of-another-mass-bleaching-after-highest-temperatures-on-record",
         "timestamp": 1643464030,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 1:47 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://www.macon.com/news/local/crime/article257818618.html",
         "timestamp": 1643465141,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 2:05 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-middle-east-60173481",
         "timestamp": 1643469213,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 3:13 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/putin-orders-apparent-new-system-banning-internet-content-2022-01-29/",
         "timestamp": 1643469544,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 3:19 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220129-turkey-s-erdogan-fires-statistics-chief-after-inflation-data-shows-19-year-high",
         "timestamp": 1643470767,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 3:39 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/1/28/putin-west-has-not-addressed-main-concerns-in-ukraine-standoff",
         "timestamp": 1643470921,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 3:42 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://timesofindia.indiatimes.com/world/europe/france-to-send-several-hundred-troops-to-romania/articleshow/89207822.cms",
         "timestamp": 1643472986,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 4:16 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "worldnews",
         "link": "https://jrnl.ie/5668245",
         "timestamp": 1643479385,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 6:03 PM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/mukilteo-school-district-votes-to-remove-to-kill-a-mockingbird-from-required-reading",
         "timestamp": 1643480201,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 6:16 PM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/lawsuit-accuses-chris-brown-raping-unnamed-woman-florida-yacht-2022-01-28/",
         "timestamp": 1643482523,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 6:55 PM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "news",
         "link": "https://es.pn/32GQ5K3",
         "timestamp": 1643485046,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 7:37 PM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "news",
         "link": "https://www.wsoctv.com/news/local/i-will-die-free-unvaccinated-burke-county-man-denied-kidney-transplant-by-hospital/OJGAFURR4FGERJB7VT24P5RED4/",
         "timestamp": 1643485191,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 7:39 PM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/business/majority-of-nfts-made-with-free-tool-are-plagiarized-or-fake-marketplace-says-1.5759653",
         "timestamp": 1643486362,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "January 29, 2022 7:59 PM"
     },
     {
@@ -311,8 +302,35 @@
         "category": "worldnews",
         "link": "https://www.upi.com/amp/Top_News/World-News/2022/01/29/canada-trudeau-moved-undisclosed-location-trucker-covid-protest-ottawa/3121643481386/",
         "timestamp": 1643487585,
-        "sentiment": -11,
+        "sentiment": 0,
         "published": "January 29, 2022 8:19 PM"
+    },
+    {
+        "title": "Freedom Convoy: Why Canadian truckers are protesting in Ottawa",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-60164561",
+        "timestamp": 1643491497,
+        "sentiment": 0,
+        "published": "January 29, 2022 9:24 PM"
+    },
+    {
+        "title": "Russians back off after Irish fishermen vow to disrupt war games",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/videos/world/2022/01/29/russia-naval-games-irish-fisherman-osullivan-nrwknd-vpx.cnn",
+        "timestamp": 1643492154,
+        "sentiment": 0,
+        "published": "January 29, 2022 9:35 PM"
+    },
+    {
+        "title": "James Webb Space Telescope has turned on it's high-gain antenna",
+        "domain": "mesonstars.com",
+        "category": "worldnews",
+        "link": "https://mesonstars.com/space/1069/",
+        "timestamp": 1643461335,
+        "sentiment": -11,
+        "published": "January 29, 2022 1:02 PM"
     },
     {
         "title": "11 arrested after woman allegedly gang raped, tortured and paraded through streets in India",
