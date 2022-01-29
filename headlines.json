@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.billboard.com/music/rock/wig-wam-peacemaker-credit-dance-do-ya-wanna-taste-it-1235021489/",
         "timestamp": 1643419617,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "January 29, 2022 1:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/28/americas/peru-oil-spill-travel-ban-intl/index.html",
         "timestamp": 1643420751,
-        "sentiment": -6,
+        "sentiment": -9,
         "published": "January 29, 2022 1:45 AM"
     },
     {
@@ -23,8 +23,179 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435761/Girl-seven-mauled-death-pack-stray-dogs-Russia.html",
         "timestamp": 1643423956,
-        "sentiment": -6,
+        "sentiment": -9,
         "published": "January 29, 2022 2:39 AM"
+    },
+    {
+        "title": "Cuphead Interview Quietly Reveals the Show Got a 36 Episode Order, with a 12 Episode First Season on Netflix",
+        "domain": "animationmagazine.net",
+        "category": "television",
+        "link": "https://www.animationmagazine.net/streaming/creating-a-rubber-hose-wonderland-for-the-cuphead-show/",
+        "timestamp": 1643427565,
+        "sentiment": 2,
+        "published": "January 29, 2022 3:39 AM"
+    },
+    {
+        "title": "Joni Mitchell Says She’s Removing Her Music From Spotify in Solidarity With Neil Young",
+        "domain": "pitchfork.com",
+        "category": "news",
+        "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
+        "timestamp": 1643428483,
+        "sentiment": -1,
+        "published": "January 29, 2022 3:54 AM"
+    },
+    {
+        "title": "Joni Mitchell to remove songs from Spotify in solidarity with Neil Young's stance against COVID 'misinformation'",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-01-29/joni-mitchell-take-songs-off-spotify-solidarity-with-neil-young/100790200",
+        "timestamp": 1643432319,
+        "sentiment": -9,
+        "published": "January 29, 2022 4:58 AM"
+    },
+    {
+        "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-nurses-make-1-5-million-in-fake-vaccine-card-scam-da/3521791/",
+        "timestamp": 1643436451,
+        "sentiment": -1,
+        "published": "January 29, 2022 6:07 AM"
+    },
+    {
+        "title": "Spotify support buckles under complaints from angry Neil Young fans.",
+        "domain": "arstechnica.com",
+        "category": "worldnews",
+        "link": "https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/",
+        "timestamp": 1643439633,
+        "sentiment": -9,
+        "published": "January 29, 2022 7:00 AM"
+    },
+    {
+        "title": "After 32 Years on the Job, Mark Schwarz, SportsCenter’s Longest-Tenured Reporter, Retiring On Monday",
+        "domain": "espnfrontrow.com",
+        "category": "television",
+        "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
+        "timestamp": 1643440671,
+        "sentiment": 2,
+        "published": "January 29, 2022 7:17 AM"
+    },
+    {
+        "title": "Spotify loses $4 billion in market value following Neil Young controversy",
+        "domain": "datebook.sfchronicle.com",
+        "category": "worldnews",
+        "link": "https://datebook.sfchronicle.com/music/spotify-loses-4-billion-in-market-value-following-neil-young-controversy",
+        "timestamp": 1643444217,
+        "sentiment": -9,
+        "published": "January 29, 2022 8:16 AM"
+    },
+    {
+        "title": "The National Butterfly Center along the Texas-Mexico border is shutting down for 3 days, citing threats and a nearby MAGA rally",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/texas-butterfly-sanctuary-says-forced-to-close-far-right-threats-2022-1?amp",
+        "timestamp": 1643449379,
+        "sentiment": -1,
+        "published": "January 29, 2022 9:42 AM"
+    },
+    {
+        "title": "Anti-aging vaccine clears out dysfunctional cells that cause disease",
+        "domain": "newatlas.com",
+        "category": "worldnews",
+        "link": "https://newatlas.com/medical/anti-aging-vaccine-senolytics-senescent-cells/",
+        "timestamp": 1643452238,
+        "sentiment": -9,
+        "published": "January 29, 2022 10:30 AM"
+    },
+    {
+        "title": "‘Killed by indifference’: France shocked by death on busy Paris street | Swiss photographer René Robert died from hypothermia after falling and being ignored for nine hours",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/28/swiss-photographer-rene-robert-killed-indifference-france-shocked-hypothermia-death-busy-paris-street",
+        "timestamp": 1643455620,
+        "sentiment": -9,
+        "published": "January 29, 2022 11:27 AM"
+    },
+    {
+        "title": "Omicron drives US deaths higher than in fall's delta wave",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
+        "timestamp": 1643456058,
+        "sentiment": -1,
+        "published": "January 29, 2022 11:34 AM"
+    },
+    {
+        "title": "Analysis Finds 'Staggering' Rise in Voter Suppression After GOP Restrictions in Georgia | \"This is why we are fighting this new law in court,\" said one voting rights advocate.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/28/analysis-finds-staggering-rise-voter-suppression-after-gop-restrictions-georgia",
+        "timestamp": 1643456442,
+        "sentiment": -1,
+        "published": "January 29, 2022 11:40 AM"
+    },
+    {
+        "title": "Montana curbs wolf hunt after 23 from Yellowstone killed",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
+        "timestamp": 1643458407,
+        "sentiment": -1,
+        "published": "January 29, 2022 12:13 PM"
+    },
+    {
+        "title": "Farmers flourish under Biden, see recovery from Trump-era trade wars",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/white-house/farmers-flourish-under-biden-see-recovery-trump-era-trade-wars-n1288044",
+        "timestamp": 1643458530,
+        "sentiment": -1,
+        "published": "January 29, 2022 12:15 PM"
+    },
+    {
+        "title": "NRA board member subpoenaed by Jan. 6 committee over role in fake Trump elector scheme | The Jan. 6 committee on Friday targeted 14 people accused of submitting falsified Electoral College paperwork",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/28/nra-board-member-subpoenaed-by-jan-6-committee-over-role-in-fake-elector-scheme/",
+        "timestamp": 1643460538,
+        "sentiment": -1,
+        "published": "January 29, 2022 12:48 PM"
+    },
+    {
+        "title": "James Webb Space Telescope has turned on it's high-gain antenna",
+        "domain": "mesonstars.com",
+        "category": "worldnews",
+        "link": "https://mesonstars.com/space/1069/",
+        "timestamp": 1643461335,
+        "sentiment": -9,
+        "published": "January 29, 2022 1:02 PM"
+    },
+    {
+        "title": "The critics were right: \"Critical race theory\" panic is just a cover for silencing educators",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/28/the-critics-were-right-critical-race-theory-is-just-a-cover-for-silencing-educators/",
+        "timestamp": 1643461443,
+        "sentiment": -1,
+        "published": "January 29, 2022 1:04 PM"
+    },
+    {
+        "title": "Nurse at scene of lotto mart robbery allegedly stole tickets as clerk lay dead or dying",
+        "domain": "macon.com",
+        "category": "news",
+        "link": "https://www.macon.com/news/local/crime/article257818618.html",
+        "timestamp": 1643465141,
+        "sentiment": -1,
+        "published": "January 29, 2022 2:05 PM"
+    },
+    {
+        "title": "Netflix begins production on The Witcher season 3",
+        "domain": "pcgamer.com",
+        "category": "television",
+        "link": "https://www.pcgamer.com/uk/netflix-begins-production-on-the-witcher-season-3/",
+        "timestamp": 1643467769,
+        "sentiment": 2,
+        "published": "January 29, 2022 2:49 PM"
     },
     {
         "title": "Senator Romney tests positive for COVID-19",
@@ -34,141 +205,6 @@
         "timestamp": 1643426051,
         "sentiment": 2,
         "published": "January 29, 2022 3:14 AM"
-    },
-    {
-        "title": "Cuphead Interview Quietly Reveals the Show Got a 36 Episode Order, with a 12 Episode First Season on Netflix",
-        "domain": "animationmagazine.net",
-        "category": "television",
-        "link": "https://www.animationmagazine.net/streaming/creating-a-rubber-hose-wonderland-for-the-cuphead-show/",
-        "timestamp": 1643427565,
-        "sentiment": 1,
-        "published": "January 29, 2022 3:39 AM"
-    },
-    {
-        "title": "Joni Mitchell Says She’s Removing Her Music From Spotify in Solidarity With Neil Young",
-        "domain": "pitchfork.com",
-        "category": "news",
-        "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
-        "timestamp": 1643428483,
-        "sentiment": -2,
-        "published": "January 29, 2022 3:54 AM"
-    },
-    {
-        "title": "Joni Mitchell to remove songs from Spotify in solidarity with Neil Young's stance against COVID 'misinformation'",
-        "domain": "abc.net.au",
-        "category": "worldnews",
-        "link": "https://www.abc.net.au/news/2022-01-29/joni-mitchell-take-songs-off-spotify-solidarity-with-neil-young/100790200",
-        "timestamp": 1643432319,
-        "sentiment": -6,
-        "published": "January 29, 2022 4:58 AM"
-    },
-    {
-        "title": "Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA",
-        "domain": "nbcnewyork.com",
-        "category": "news",
-        "link": "https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-nurses-make-1-5-million-in-fake-vaccine-card-scam-da/3521791/",
-        "timestamp": 1643436451,
-        "sentiment": -2,
-        "published": "January 29, 2022 6:07 AM"
-    },
-    {
-        "title": "Spotify support buckles under complaints from angry Neil Young fans.",
-        "domain": "arstechnica.com",
-        "category": "worldnews",
-        "link": "https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/",
-        "timestamp": 1643439633,
-        "sentiment": -6,
-        "published": "January 29, 2022 7:00 AM"
-    },
-    {
-        "title": "After 32 Years on the Job, Mark Schwarz, SportsCenter’s Longest-Tenured Reporter, Retiring On Monday",
-        "domain": "espnfrontrow.com",
-        "category": "television",
-        "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
-        "timestamp": 1643440671,
-        "sentiment": 1,
-        "published": "January 29, 2022 7:17 AM"
-    },
-    {
-        "title": "Spotify loses $4 billion in market value following Neil Young controversy",
-        "domain": "datebook.sfchronicle.com",
-        "category": "worldnews",
-        "link": "https://datebook.sfchronicle.com/music/spotify-loses-4-billion-in-market-value-following-neil-young-controversy",
-        "timestamp": 1643444217,
-        "sentiment": -6,
-        "published": "January 29, 2022 8:16 AM"
-    },
-    {
-        "title": "The National Butterfly Center along the Texas-Mexico border is shutting down for 3 days, citing threats and a nearby MAGA rally",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/texas-butterfly-sanctuary-says-forced-to-close-far-right-threats-2022-1?amp",
-        "timestamp": 1643449379,
-        "sentiment": 2,
-        "published": "January 29, 2022 9:42 AM"
-    },
-    {
-        "title": "Anti-aging vaccine clears out dysfunctional cells that cause disease",
-        "domain": "newatlas.com",
-        "category": "worldnews",
-        "link": "https://newatlas.com/medical/anti-aging-vaccine-senolytics-senescent-cells/",
-        "timestamp": 1643452238,
-        "sentiment": -6,
-        "published": "January 29, 2022 10:30 AM"
-    },
-    {
-        "title": "‘Killed by indifference’: France shocked by death on busy Paris street | Swiss photographer René Robert died from hypothermia after falling and being ignored for nine hours",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/28/swiss-photographer-rene-robert-killed-indifference-france-shocked-hypothermia-death-busy-paris-street",
-        "timestamp": 1643455620,
-        "sentiment": -6,
-        "published": "January 29, 2022 11:27 AM"
-    },
-    {
-        "title": "Omicron drives US deaths higher than in fall's delta wave",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
-        "timestamp": 1643456058,
-        "sentiment": -2,
-        "published": "January 29, 2022 11:34 AM"
-    },
-    {
-        "title": "Analysis Finds 'Staggering' Rise in Voter Suppression After GOP Restrictions in Georgia | \"This is why we are fighting this new law in court,\" said one voting rights advocate.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/01/28/analysis-finds-staggering-rise-voter-suppression-after-gop-restrictions-georgia",
-        "timestamp": 1643456442,
-        "sentiment": 2,
-        "published": "January 29, 2022 11:40 AM"
-    },
-    {
-        "title": "Montana curbs wolf hunt after 23 from Yellowstone killed",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
-        "timestamp": 1643458407,
-        "sentiment": -2,
-        "published": "January 29, 2022 12:13 PM"
-    },
-    {
-        "title": "Farmers flourish under Biden, see recovery from Trump-era trade wars",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/white-house/farmers-flourish-under-biden-see-recovery-trump-era-trade-wars-n1288044",
-        "timestamp": 1643458530,
-        "sentiment": 2,
-        "published": "January 29, 2022 12:15 PM"
-    },
-    {
-        "title": "The critics were right: \"Critical race theory\" panic is just a cover for silencing educators",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/01/28/the-critics-were-right-critical-race-theory-is-just-a-cover-for-silencing-educators/",
-        "timestamp": 1643461443,
-        "sentiment": 2,
-        "published": "January 29, 2022 1:04 PM"
     },
     {
         "title": "Supreme Court Joins Other Institutions Facing Dwindling Public Confidence",
