@@ -1,5 +1,14 @@
 [
     {
+        "title": "Supreme Court Joins Other Institutions Facing Dwindling Public Confidence",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/supreme-court-joins-other-institutions-facing-dwindling-public-confidence-1673801",
+        "timestamp": 1643418100,
+        "sentiment": 6,
+        "published": "January 29, 2022 1:01 AM"
+    },
+    {
         "title": "Wig Wam Were Washed Out Until Insane ‘Peacemaker’ Credits Danced Them Back to Life",
         "domain": "billboard.com",
         "category": "television",
@@ -14,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/28/americas/peru-oil-spill-travel-ban-intl/index.html",
         "timestamp": 1643420751,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 1:45 AM"
     },
     {
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alabama-towns-traffic-ticketing-scandal-leads-police-chiefs-resignatio-rcna13801",
         "timestamp": 1643420927,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 1:48 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435761/Girl-seven-mauled-death-pack-stray-dogs-Russia.html",
         "timestamp": 1643423956,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 2:39 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://pitchfork.com/news/joni-mitchell-says-shes-removing-her-music-from-spotify-in-solidarity-with-neil-young/",
         "timestamp": 1643428483,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 3:54 AM"
     },
     {
@@ -59,8 +68,26 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-01-29/joni-mitchell-take-songs-off-spotify-solidarity-with-neil-young/100790200",
         "timestamp": 1643432319,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 29, 2022 4:58 AM"
+    },
+    {
+        "title": "Spotify support buckles under complaints from angry Neil Young fans.",
+        "domain": "arstechnica.com",
+        "category": "worldnews",
+        "link": "https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/",
+        "timestamp": 1643439633,
+        "sentiment": -2,
+        "published": "January 29, 2022 7:00 AM"
+    },
+    {
+        "title": "Spotify loses $4 billion in market value following Neil Young controversy",
+        "domain": "datebook.sfchronicle.com",
+        "category": "worldnews",
+        "link": "https://datebook.sfchronicle.com/music/spotify-loses-4-billion-in-market-value-following-neil-young-controversy",
+        "timestamp": 1643444217,
+        "sentiment": -2,
+        "published": "January 29, 2022 8:16 AM"
     },
     {
         "title": "'Mighty Ducks' star Shaun Weiss celebrates two years sober",
