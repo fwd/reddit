@@ -1,14 +1,5 @@
 [
     {
-        "title": "Supreme Court Joins Other Institutions Facing Dwindling Public Confidence",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/supreme-court-joins-other-institutions-facing-dwindling-public-confidence-1673801",
-        "timestamp": 1643418100,
-        "sentiment": 0,
-        "published": "January 29, 2022 1:01 AM"
-    },
-    {
         "title": "Wig Wam Were Washed Out Until Insane ‘Peacemaker’ Credits Danced Them Back to Life",
         "domain": "billboard.com",
         "category": "television",
@@ -27,15 +18,6 @@
         "published": "January 29, 2022 1:45 AM"
     },
     {
-        "title": "Alabama town's traffic ticketing scandal leads to police chief's resignation",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/alabama-towns-traffic-ticketing-scandal-leads-police-chiefs-resignatio-rcna13801",
-        "timestamp": 1643420927,
-        "sentiment": -2,
-        "published": "January 29, 2022 1:48 AM"
-    },
-    {
         "title": "Girl, seven, is mauled to death by pack of stray dogs who ripped off her leg as she walked home from a music lesson in Russia",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
@@ -50,7 +32,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/01/28/nation/senator-romney-tests-positive-covid-19/",
         "timestamp": 1643426051,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 29, 2022 3:14 AM"
     },
     {
@@ -117,6 +99,15 @@
         "published": "January 29, 2022 8:16 AM"
     },
     {
+        "title": "The National Butterfly Center along the Texas-Mexico border is shutting down for 3 days, citing threats and a nearby MAGA rally",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/texas-butterfly-sanctuary-says-forced-to-close-far-right-threats-2022-1?amp",
+        "timestamp": 1643449379,
+        "sentiment": 2,
+        "published": "January 29, 2022 9:42 AM"
+    },
+    {
         "title": "Anti-aging vaccine clears out dysfunctional cells that cause disease",
         "domain": "newatlas.com",
         "category": "worldnews",
@@ -133,6 +124,69 @@
         "timestamp": 1643455620,
         "sentiment": -6,
         "published": "January 29, 2022 11:27 AM"
+    },
+    {
+        "title": "Omicron drives US deaths higher than in fall's delta wave",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-business-health-california-public-health-83c0a053bfdd615b5ae7170007c2f1f9",
+        "timestamp": 1643456058,
+        "sentiment": -2,
+        "published": "January 29, 2022 11:34 AM"
+    },
+    {
+        "title": "Analysis Finds 'Staggering' Rise in Voter Suppression After GOP Restrictions in Georgia | \"This is why we are fighting this new law in court,\" said one voting rights advocate.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/28/analysis-finds-staggering-rise-voter-suppression-after-gop-restrictions-georgia",
+        "timestamp": 1643456442,
+        "sentiment": 2,
+        "published": "January 29, 2022 11:40 AM"
+    },
+    {
+        "title": "Montana curbs wolf hunt after 23 from Yellowstone killed",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Technology/wireStory/montana-weighs-wolf-hunt-limits-23-yellowstone-killed-82537107",
+        "timestamp": 1643458407,
+        "sentiment": -2,
+        "published": "January 29, 2022 12:13 PM"
+    },
+    {
+        "title": "Farmers flourish under Biden, see recovery from Trump-era trade wars",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/white-house/farmers-flourish-under-biden-see-recovery-trump-era-trade-wars-n1288044",
+        "timestamp": 1643458530,
+        "sentiment": 2,
+        "published": "January 29, 2022 12:15 PM"
+    },
+    {
+        "title": "The critics were right: \"Critical race theory\" panic is just a cover for silencing educators",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/01/28/the-critics-were-right-critical-race-theory-is-just-a-cover-for-silencing-educators/",
+        "timestamp": 1643461443,
+        "sentiment": 2,
+        "published": "January 29, 2022 1:04 PM"
+    },
+    {
+        "title": "Supreme Court Joins Other Institutions Facing Dwindling Public Confidence",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/supreme-court-joins-other-institutions-facing-dwindling-public-confidence-1673801",
+        "timestamp": 1643418100,
+        "sentiment": 0,
+        "published": "January 29, 2022 1:01 AM"
+    },
+    {
+        "title": "Alabama town's traffic ticketing scandal leads to police chief's resignation",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/alabama-towns-traffic-ticketing-scandal-leads-police-chiefs-resignatio-rcna13801",
+        "timestamp": 1643420927,
+        "sentiment": -2,
+        "published": "January 29, 2022 1:48 AM"
     },
     {
         "title": "'Mighty Ducks' star Shaun Weiss celebrates two years sober",
