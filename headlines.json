@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/supreme-court-joins-other-institutions-facing-dwindling-public-confidence-1673801",
         "timestamp": 1643418100,
-        "sentiment": 6,
+        "sentiment": 0,
         "published": "January 29, 2022 1:01 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.billboard.com/music/rock/wig-wam-peacemaker-credit-dance-do-ya-wanna-taste-it-1235021489/",
         "timestamp": 1643419617,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 29, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/28/americas/peru-oil-spill-travel-ban-intl/index.html",
         "timestamp": 1643420751,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 1:45 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10435761/Girl-seven-mauled-death-pack-stray-dogs-Russia.html",
         "timestamp": 1643423956,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 2:39 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.animationmagazine.net/streaming/creating-a-rubber-hose-wonderland-for-the-cuphead-show/",
         "timestamp": 1643427565,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "January 29, 2022 3:39 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-01-29/joni-mitchell-take-songs-off-spotify-solidarity-with-neil-young/100790200",
         "timestamp": 1643432319,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 4:58 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "worldnews",
         "link": "https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/",
         "timestamp": 1643439633,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 7:00 AM"
+    },
+    {
+        "title": "After 32 Years on the Job, Mark Schwarz, SportsCenter’s Longest-Tenured Reporter, Retiring On Monday",
+        "domain": "espnfrontrow.com",
+        "category": "television",
+        "link": "https://www.espnfrontrow.com/2022/01/after-32-years-on-the-job-mark-schwarz-sportscenters-longest-tenured-reporter-retiring-on-monday/",
+        "timestamp": 1643440671,
+        "sentiment": 0,
+        "published": "January 29, 2022 7:17 AM"
     },
     {
         "title": "Spotify loses $4 billion in market value following Neil Young controversy",
@@ -86,7 +95,7 @@
         "category": "worldnews",
         "link": "https://datebook.sfchronicle.com/music/spotify-loses-4-billion-in-market-value-following-neil-young-controversy",
         "timestamp": 1643444217,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 29, 2022 8:16 AM"
     },
     {
