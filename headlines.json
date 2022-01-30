@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/top-canadian-defence-officials-condemn-protesters-dancing-on-tomb-of-the-unknown-soldier-1.5760168",
         "timestamp": 1643502090,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 12:21 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://ew.com/tv/the-offer-first-look-photos-the-godfather-series-paramount-plus/",
         "timestamp": 1643507143,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 30, 2022 1:45 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-dangles-pardons-for-jan-6-rioters-if-he-wins-in-2024?source=articles&via=rss",
         "timestamp": 1643513495,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 3:31 AM"
-    },
-    {
-        "title": "'Maus' is an Amazon bestseller after Tennessee school ban – author Art Spiegelman compares board to Putin",
-        "domain": "cnbc.com",
-        "category": "politics",
-        "link": "https://www.cnbc.com/amp/2022/01/28/maus-amazon-bestseller-after-tennessee-school-ban.html?fbclid=IwAR1ocDfgt1gRns5yZa2EhCIWa4mhAzLIZWvAQqPgq3MeOusT62IOw44ZpB4",
-        "timestamp": 1643515217,
-        "sentiment": -2,
-        "published": "January 30, 2022 4:00 AM"
     },
     {
         "title": "Orcas recorded for first time killing and eating world's largest animal, the blue whale",
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://vancouversun.com/news/orcas-recorded-killing-and-eating-worlds-largest-animal-the-blue-whale-for-the-first-time/wcm/9c6c9871-f6b0-41d7-8656-84cc9be84f64",
         "timestamp": 1643516650,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 4:24 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-protests-prosecution_n_61f60c9ee4b02de5f51a0c4a",
         "timestamp": 1643516951,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 4:29 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "television",
         "link": "https://www.newbusinessherald.com/entertainment-industry/john-mulaney-to-join-five-timers-club-in-february-newbusinessherald/21703/",
         "timestamp": 1643519025,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 30, 2022 5:03 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/chinese-satellite-grappling-pulling-another-orbit",
         "timestamp": 1643519505,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 5:11 AM"
     },
     {
@@ -104,17 +95,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/snl-michael-che-passes-seth-meyers-weekend-update-1234922613/",
         "timestamp": 1643520712,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "January 30, 2022 5:31 AM"
     },
     {
-        "title": "Thailand beach declared a disaster area as oil leaking from an underwater pipeline continued to wash ashore and blacken the sand",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/asia-pacific/thai-beach-declared-disaster-area-after-oil-spill-2022-01-29/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
-        "timestamp": 1643527587,
-        "sentiment": -2,
-        "published": "January 30, 2022 7:26 AM"
+        "title": "Georgia county purges Democrats from election board and cancels Sunday voting",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/30/georgia-county-purges-democrats-from-election-board-and-cancels-sunday-voting",
+        "timestamp": 1643534590,
+        "sentiment": -1,
+        "published": "January 30, 2022 9:23 AM"
     },
     {
         "title": "‘We pray for rain’: Ethiopia faces catastrophic hunger as cattle perish in severe drought",
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/global-development/2022/jan/30/we-pray-for-rain-ethiopia-faces-catastrophic-hunger-as-cattle-perish-in-severe-drought",
         "timestamp": 1643534759,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 9:25 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://www.esquire.com/news-politics/a38924592/josh-mandel-separation-of-church-and-state-constitution/",
         "timestamp": 1643541816,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 11:23 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/putins-oligarchs-will-have-nowhere-to-hide-with-widened-sanctions-if-russia-invades-ukraine-as-uk-rules-nothing-out-12528608",
         "timestamp": 1643541911,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 11:25 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60187564",
         "timestamp": 1643544112,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 12:01 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/26/politics/sexual-harassment-military-justice/index.html",
         "timestamp": 1643544887,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 12:14 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trumps-cheerleaders-forget-how-weak-he-was-with-putin",
         "timestamp": 1643546418,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 12:40 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
         "timestamp": 1643548188,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 1:09 PM"
     },
     {
@@ -203,17 +194,8 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/international/russia/591978-russia-claims-nato-wants-to-pull-ukraine-into-alliance",
         "timestamp": 1643548825,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "January 30, 2022 1:20 PM"
-    },
-    {
-        "title": "Sales soar for ‘Maus’ after its banning in Tennessee",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453",
-        "timestamp": 1643549227,
-        "sentiment": -2,
-        "published": "January 30, 2022 1:27 PM"
     },
     {
         "title": "UK urged to suspend ‘golden visas’ after fast tracking of Russian millionaires",
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-calls-for-mass-nationwide-protests-prosecutors-investigating-him-2022-1",
         "timestamp": 1643551700,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 2:08 PM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.vox.com/22889417/supreme-court-religious-liberty-christian-right-revolution-amy-coney-barrett",
         "timestamp": 1643552944,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 30, 2022 2:29 PM"
     },
     {
@@ -268,6 +250,60 @@
         "timestamp": 1643556298,
         "sentiment": -5,
         "published": "January 30, 2022 3:24 PM"
+    },
+    {
+        "title": "Ottawa homeless shelter staff harassed by convoy protesters demanding food",
+        "domain": "ottawa.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://ottawa.ctvnews.ca/ottawa-homeless-shelter-staff-harassed-by-convoy-protesters-demanding-food-1.5760423",
+        "timestamp": 1643558663,
+        "sentiment": 0,
+        "published": "January 30, 2022 4:04 PM"
+    },
+    {
+        "title": "John Legend urges people to overwhelm a tip line set up by Virginia's new GOP governor to report teachers over critical race theory",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/john-legend-urges-people-flood-youngkin-hotline-2022-1",
+        "timestamp": 1643559365,
+        "sentiment": -1,
+        "published": "January 30, 2022 4:16 PM"
+    },
+    {
+        "title": "'Peacemaker' declares war on self-serious superheroes. Writer-director James Gunn’s take on the bucket-headed hero is a gloriously goofy sendup and a sincere character study rolled into one.",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv/tv-reviews/peacemaker-review-hbo-max-1276435/",
+        "timestamp": 1643559902,
+        "sentiment": -2,
+        "published": "January 30, 2022 4:25 PM"
+    },
+    {
+        "title": "'Maus' is an Amazon bestseller after Tennessee school ban – author Art Spiegelman compares board to Putin",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/amp/2022/01/28/maus-amazon-bestseller-after-tennessee-school-ban.html?fbclid=IwAR1ocDfgt1gRns5yZa2EhCIWa4mhAzLIZWvAQqPgq3MeOusT62IOw44ZpB4",
+        "timestamp": 1643515217,
+        "sentiment": -2,
+        "published": "January 30, 2022 4:00 AM"
+    },
+    {
+        "title": "Thailand beach declared a disaster area as oil leaking from an underwater pipeline continued to wash ashore and blacken the sand",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/thai-beach-declared-disaster-area-after-oil-spill-2022-01-29/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "timestamp": 1643527587,
+        "sentiment": -2,
+        "published": "January 30, 2022 7:26 AM"
+    },
+    {
+        "title": "Sales soar for ‘Maus’ after its banning in Tennessee",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453",
+        "timestamp": 1643549227,
+        "sentiment": -2,
+        "published": "January 30, 2022 1:27 PM"
     },
     {
         "title": "By retiring, Breyer avoids Ruth Bader Ginsburg’s mistake",
@@ -313,15 +349,6 @@
         "timestamp": 1643517938,
         "sentiment": 0,
         "published": "January 30, 2022 4:45 AM"
-    },
-    {
-        "title": "Georgia county purges Democrats from election board and cancels Sunday voting",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/30/georgia-county-purges-democrats-from-election-board-and-cancels-sunday-voting",
-        "timestamp": 1643534590,
-        "sentiment": -1,
-        "published": "January 30, 2022 9:23 AM"
     },
     {
         "title": "Rabbi leader in Kiev: Jews will take up arms against Putin",
