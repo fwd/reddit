@@ -5,8 +5,17 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/top-canadian-defence-officials-condemn-protesters-dancing-on-tomb-of-the-unknown-soldier-1.5760168",
         "timestamp": 1643502090,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "January 30, 2022 12:21 AM"
+    },
+    {
+        "title": "Rabbi leader in Kiev: Jews will take up arms against Putin",
+        "domain": "thejc.com",
+        "category": "worldnews",
+        "link": "https://www.thejc.com/news/world/rabbi-leader-in-kiev-jews-will-take-up-arms-against-putin-1ibdPnpwbyItdId4FHfbjD",
+        "timestamp": 1643503422,
+        "sentiment": -8,
+        "published": "January 30, 2022 12:43 AM"
     },
     {
         "title": "Russians back off after Irish fishermen vow to disrupt war games - CNN Video",
@@ -32,7 +41,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/republican-wicker-biden-supreme-court-black-woman_n_61f57815e4b04f9a12bde42d",
         "timestamp": 1643508175,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 30, 2022 2:02 AM"
     },
     {
@@ -45,21 +54,12 @@
         "published": "January 30, 2022 3:14 AM"
     },
     {
-        "title": "Omicron is beginning to break the resolve of the unvaccinated",
-        "domain": "fortune.com",
-        "category": "worldnews",
-        "link": "https://fortune.com/2022/01/28/omicron-covid-unvaccinated-poll-vax-mandates-ipsos/",
-        "timestamp": 1643512714,
-        "sentiment": 0,
-        "published": "January 30, 2022 3:18 AM"
-    },
-    {
         "title": "Trump Dangles Pardons for Jan. 6 Rioters if He Wins in 2024",
         "domain": "thedailybeast.com",
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-dangles-pardons-for-jan-6-rioters-if-he-wins-in-2024?source=articles&via=rss",
         "timestamp": 1643513495,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 30, 2022 3:31 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/outlook/2022/01/27/breyer-retirement-ginsburg-politics/",
         "timestamp": 1643514570,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 30, 2022 3:49 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/amp/2022/01/28/maus-amazon-bestseller-after-tennessee-school-ban.html?fbclid=IwAR1ocDfgt1gRns5yZa2EhCIWa4mhAzLIZWvAQqPgq3MeOusT62IOw44ZpB4",
         "timestamp": 1643515217,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 30, 2022 4:00 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://vancouversun.com/news/orcas-recorded-killing-and-eating-worlds-largest-animal-the-blue-whale-for-the-first-time/wcm/9c6c9871-f6b0-41d7-8656-84cc9be84f64",
         "timestamp": 1643516650,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "January 30, 2022 4:24 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-protests-prosecution_n_61f60c9ee4b02de5f51a0c4a",
         "timestamp": 1643516951,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "January 30, 2022 4:29 AM"
     },
     {
@@ -117,6 +117,15 @@
         "published": "January 30, 2022 4:50 AM"
     },
     {
+        "title": "Trump Dangles Pardons for Jan. 6 Rioters in Texas Rally Speech",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-texas-rally-2024-campaign-biden-1292508/",
+        "timestamp": 1643518380,
+        "sentiment": 2,
+        "published": "January 30, 2022 4:53 AM"
+    },
+    {
         "title": "John Mulaney To Host 'Saturday Night Live' February 26th With Musical Guest LCD Soundsystem",
         "domain": "newbusinessherald.com",
         "category": "television",
@@ -131,17 +140,8 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/chinese-satellite-grappling-pulling-another-orbit",
         "timestamp": 1643519505,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "January 30, 2022 5:11 AM"
-    },
-    {
-        "title": "Canada PM Trudeau moved to secret location as protests flare-up:",
-        "domain": "hindustantimes.com",
-        "category": "worldnews",
-        "link": "https://www.hindustantimes.com/world-news/canada-pm-trudeau-moved-to-secret-location-as-protests-flare-up-reports-101643517143393.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
-        "timestamp": 1643519963,
-        "sentiment": 0,
-        "published": "January 30, 2022 5:19 AM"
     },
     {
         "title": "‘SNL’: Michael Che Passes Seth Meyers In Weekend Update Appearances",
@@ -151,6 +151,42 @@
         "timestamp": 1643520712,
         "sentiment": 0,
         "published": "January 30, 2022 5:31 AM"
+    },
+    {
+        "title": "BBC: Trilateral Alliance to be announced soon - UK, Poland and Ukraine",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/ukrainian/features-60173211?at_medium=RSS&at_campaign=KARANGA",
+        "timestamp": 1643529513,
+        "sentiment": -8,
+        "published": "January 30, 2022 7:58 AM"
+    },
+    {
+        "title": "Alexa factory conditions whistleblower demands Amazon apology after being jailed and tortured in mainland China",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/technology/2022/jan/30/alexa-factory-whistleblower-i-was-tortured-and-jailed-now-amazon-should-apologise",
+        "timestamp": 1643536057,
+        "sentiment": -8,
+        "published": "January 30, 2022 9:47 AM"
+    },
+    {
+        "title": "Omicron is beginning to break the resolve of the unvaccinated",
+        "domain": "fortune.com",
+        "category": "worldnews",
+        "link": "https://fortune.com/2022/01/28/omicron-covid-unvaccinated-poll-vax-mandates-ipsos/",
+        "timestamp": 1643512714,
+        "sentiment": 0,
+        "published": "January 30, 2022 3:18 AM"
+    },
+    {
+        "title": "Canada PM Trudeau moved to secret location as protests flare-up:",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/canada-pm-trudeau-moved-to-secret-location-as-protests-flare-up-reports-101643517143393.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
+        "timestamp": 1643519963,
+        "sentiment": 0,
+        "published": "January 30, 2022 5:19 AM"
     },
     {
         "title": "Parents whose 8-week-old died with 60 broken bones jailed",
@@ -169,15 +205,6 @@
         "timestamp": 1643529685,
         "sentiment": 3,
         "published": "January 30, 2022 8:01 AM"
-    },
-    {
-        "title": "Rabbi leader in Kiev: Jews will take up arms against Putin",
-        "domain": "thejc.com",
-        "category": "worldnews",
-        "link": "https://www.thejc.com/news/world/rabbi-leader-in-kiev-jews-will-take-up-arms-against-putin-1ibdPnpwbyItdId4FHfbjD",
-        "timestamp": 1643503422,
-        "sentiment": 0,
-        "published": "January 30, 2022 12:43 AM"
     },
     {
         "title": "11 arrested after woman allegedly gang raped, tortured and paraded through streets in India",
