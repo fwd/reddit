@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/top-canadian-defence-officials-condemn-protesters-dancing-on-tomb-of-the-unknown-soldier-1.5760168",
         "timestamp": 1643502090,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 30, 2022 12:21 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/videos/world/2022/01/29/russia-naval-games-irish-fisherman-osullivan-nrwknd-vpx.cnn",
         "timestamp": 1643504015,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "January 30, 2022 12:53 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.newsonyx.com/16-year-old-teen-found-shot-to-death-on-the-side-of-los-angeles-highway-family-and-community-leaders-demand-action/",
         "timestamp": 1643512480,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "January 30, 2022 3:14 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-dangles-pardons-for-jan-6-rioters-if-he-wins-in-2024?source=articles&via=rss",
         "timestamp": 1643513495,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 30, 2022 3:31 AM"
-    },
-    {
-        "title": "By retiring, Breyer avoids Ruth Bader Ginsburg’s mistake",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/outlook/2022/01/27/breyer-retirement-ginsburg-politics/",
-        "timestamp": 1643514570,
-        "sentiment": -3,
-        "published": "January 30, 2022 3:49 AM"
     },
     {
         "title": "'Maus' is an Amazon bestseller after Tennessee school ban – author Art Spiegelman compares board to Putin",
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/amp/2022/01/28/maus-amazon-bestseller-after-tennessee-school-ban.html?fbclid=IwAR1ocDfgt1gRns5yZa2EhCIWa4mhAzLIZWvAQqPgq3MeOusT62IOw44ZpB4",
         "timestamp": 1643515217,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 30, 2022 4:00 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://vancouversun.com/news/orcas-recorded-killing-and-eating-worlds-largest-animal-the-blue-whale-for-the-first-time/wcm/9c6c9871-f6b0-41d7-8656-84cc9be84f64",
         "timestamp": 1643516650,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 30, 2022 4:24 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-protests-prosecution_n_61f60c9ee4b02de5f51a0c4a",
         "timestamp": 1643516951,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "January 30, 2022 4:29 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Business/control-buyers-paying-thousands-sticker-price-cars/story?id=82489039",
         "timestamp": 1643518247,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "January 30, 2022 4:50 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/chinese-satellite-grappling-pulling-another-orbit",
         "timestamp": 1643519505,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 30, 2022 5:11 AM"
     },
     {
@@ -117,13 +108,13 @@
         "published": "January 30, 2022 5:31 AM"
     },
     {
-        "title": "BBC: Trilateral Alliance to be announced soon - UK, Poland and Ukraine",
-        "domain": "bbc.com",
+        "title": "Thailand beach declared a disaster area as oil leaking from an underwater pipeline continued to wash ashore and blacken the sand",
+        "domain": "reuters.com",
         "category": "worldnews",
-        "link": "https://www.bbc.com/ukrainian/features-60173211?at_medium=RSS&at_campaign=KARANGA",
-        "timestamp": 1643529513,
-        "sentiment": 0,
-        "published": "January 30, 2022 7:58 AM"
+        "link": "https://www.reuters.com/world/asia-pacific/thai-beach-declared-disaster-area-after-oil-spill-2022-01-29/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "timestamp": 1643527587,
+        "sentiment": -2,
+        "published": "January 30, 2022 7:26 AM"
     },
     {
         "title": "‘We pray for rain’: Ethiopia faces catastrophic hunger as cattle perish in severe drought",
@@ -131,8 +122,170 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/global-development/2022/jan/30/we-pray-for-rain-ethiopia-faces-catastrophic-hunger-as-cattle-perish-in-severe-drought",
         "timestamp": 1643534759,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 30, 2022 9:25 AM"
+    },
+    {
+        "title": "Nobody Cares Whether You 'Believe' in the Separation of Church and State. That's the Law, Champ.",
+        "domain": "esquire.com",
+        "category": "politics",
+        "link": "https://www.esquire.com/news-politics/a38924592/josh-mandel-separation-of-church-and-state-constitution/",
+        "timestamp": 1643541816,
+        "sentiment": -2,
+        "published": "January 30, 2022 11:23 AM"
+    },
+    {
+        "title": "Putin's oligarchs will have 'nowhere to hide' with widened sanctions if Russia invades Ukraine - as UK 'rules nothing out'",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/putins-oligarchs-will-have-nowhere-to-hide-with-widened-sanctions-if-russia-invades-ukraine-as-uk-rules-nothing-out-12528608",
+        "timestamp": 1643541911,
+        "sentiment": -2,
+        "published": "January 30, 2022 11:25 AM"
+    },
+    {
+        "title": "Dublin Port: Cocaine worth €3.1m found by customs sniffer dog",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60187564",
+        "timestamp": 1643544112,
+        "sentiment": -2,
+        "published": "January 30, 2022 12:01 PM"
+    },
+    {
+        "title": "U.S. agency finds Taiwan's fishing boat used forced labor",
+        "domain": "focustaiwan.tw",
+        "category": "news",
+        "link": "https://focustaiwan.tw/society/202201290003",
+        "timestamp": 1643544510,
+        "sentiment": -5,
+        "published": "January 30, 2022 12:08 PM"
+    },
+    {
+        "title": "Biden signs executive order making sexual harassment an offense in military's judicial code",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/26/politics/sexual-harassment-military-justice/index.html",
+        "timestamp": 1643544887,
+        "sentiment": -2,
+        "published": "January 30, 2022 12:14 PM"
+    },
+    {
+        "title": "Trump’s Cheerleaders Forget How Weak He Was With Putin: They can’t defend their records as part of the worst administration in history, so they’re pathetically lashing out at Biden.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trumps-cheerleaders-forget-how-weak-he-was-with-putin",
+        "timestamp": 1643546418,
+        "sentiment": -2,
+        "published": "January 30, 2022 12:40 PM"
+    },
+    {
+        "title": "Officials decry ‘desecration’ of monuments during Ottawa protest",
+        "domain": "thestar.com",
+        "category": "news",
+        "link": "https://www.thestar.com/news/canada/2022/01/29/officials-decry-desecration-of-monuments-during-ottawa-protest.html",
+        "timestamp": 1643546685,
+        "sentiment": -5,
+        "published": "January 30, 2022 12:44 PM"
+    },
+    {
+        "title": "Start the Steal: New MAGA Emails Reveal Plot to Hand Arizona to Trump",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
+        "timestamp": 1643548188,
+        "sentiment": -2,
+        "published": "January 30, 2022 1:09 PM"
+    },
+    {
+        "title": "Russia claims NATO wants to 'pull' Ukraine into alliance",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/russia/591978-russia-claims-nato-wants-to-pull-ukraine-into-alliance",
+        "timestamp": 1643548825,
+        "sentiment": -2,
+        "published": "January 30, 2022 1:20 PM"
+    },
+    {
+        "title": "Sales soar for ‘Maus’ after its banning in Tennessee",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453",
+        "timestamp": 1643549227,
+        "sentiment": -2,
+        "published": "January 30, 2022 1:27 PM"
+    },
+    {
+        "title": "UK urged to suspend ‘golden visas’ after fast tracking of Russian millionaires",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/30/calls-for-uk-to-suspend-golden-visas-after-fast-tracking-of-russian-millionaires",
+        "timestamp": 1643549737,
+        "sentiment": -5,
+        "published": "January 30, 2022 1:35 PM"
+    },
+    {
+        "title": "Trump calls for 'the biggest protest we have ever had' in DC and other cities if prosecutors investigating him 'do anything illegal'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-calls-for-mass-nationwide-protests-prosecutors-investigating-him-2022-1",
+        "timestamp": 1643551700,
+        "sentiment": -2,
+        "published": "January 30, 2022 2:08 PM"
+    },
+    {
+        "title": "The Supreme Court is leading a Christian conservative revolution",
+        "domain": "vox.com",
+        "category": "politics",
+        "link": "https://www.vox.com/22889417/supreme-court-religious-liberty-christian-right-revolution-amy-coney-barrett",
+        "timestamp": 1643552944,
+        "sentiment": -2,
+        "published": "January 30, 2022 2:29 PM"
+    },
+    {
+        "title": "Thousands in Ottawa protest COVID mandates, many rebuked",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-business-justin-trudeau-canada-45778ef0bdca45501411fb21066c46a0",
+        "timestamp": 1643553541,
+        "sentiment": -5,
+        "published": "January 30, 2022 2:39 PM"
+    },
+    {
+        "title": "Alexa whistleblower demands Amazon apology after being jailed and tortured",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jan/30/alexa-factory-whistleblower-i-was-tortured-and-jailed-now-amazon-should-apologise?CMP=Share_iOSApp_Other",
+        "timestamp": 1643555241,
+        "sentiment": -5,
+        "published": "January 30, 2022 3:07 PM"
+    },
+    {
+        "title": "Bruce Springsteen guitarist Nils Lofgren joins protest of Spotify over Covid misinformation",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/30/bruce-springsteen-guitarist-nils-lofgren-joins-spotify-boycott-.html",
+        "timestamp": 1643556298,
+        "sentiment": -5,
+        "published": "January 30, 2022 3:24 PM"
+    },
+    {
+        "title": "By retiring, Breyer avoids Ruth Bader Ginsburg’s mistake",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/outlook/2022/01/27/breyer-retirement-ginsburg-politics/",
+        "timestamp": 1643514570,
+        "sentiment": -3,
+        "published": "January 30, 2022 3:49 AM"
+    },
+    {
+        "title": "BBC: Trilateral Alliance to be announced soon - UK, Poland and Ukraine",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/ukrainian/features-60173211?at_medium=RSS&at_campaign=KARANGA",
+        "timestamp": 1643529513,
+        "sentiment": 0,
+        "published": "January 30, 2022 7:58 AM"
     },
     {
         "title": "Alexa factory conditions whistleblower demands Amazon apology after being jailed and tortured in mainland China",
@@ -151,114 +304,6 @@
         "timestamp": 1643540479,
         "sentiment": -4,
         "published": "January 30, 2022 11:01 AM"
-    },
-    {
-        "title": "Nobody Cares Whether You 'Believe' in the Separation of Church and State. That's the Law, Champ.",
-        "domain": "esquire.com",
-        "category": "politics",
-        "link": "https://www.esquire.com/news-politics/a38924592/josh-mandel-separation-of-church-and-state-constitution/",
-        "timestamp": 1643541816,
-        "sentiment": -3,
-        "published": "January 30, 2022 11:23 AM"
-    },
-    {
-        "title": "Putin's oligarchs will have 'nowhere to hide' with widened sanctions if Russia invades Ukraine - as UK 'rules nothing out'",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/putins-oligarchs-will-have-nowhere-to-hide-with-widened-sanctions-if-russia-invades-ukraine-as-uk-rules-nothing-out-12528608",
-        "timestamp": 1643541911,
-        "sentiment": 0,
-        "published": "January 30, 2022 11:25 AM"
-    },
-    {
-        "title": "Dublin Port: Cocaine worth €3.1m found by customs sniffer dog",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-60187564",
-        "timestamp": 1643544112,
-        "sentiment": 0,
-        "published": "January 30, 2022 12:01 PM"
-    },
-    {
-        "title": "U.S. agency finds Taiwan's fishing boat used forced labor",
-        "domain": "focustaiwan.tw",
-        "category": "news",
-        "link": "https://focustaiwan.tw/society/202201290003",
-        "timestamp": 1643544510,
-        "sentiment": -4,
-        "published": "January 30, 2022 12:08 PM"
-    },
-    {
-        "title": "Biden signs executive order making sexual harassment an offense in military's judicial code",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/26/politics/sexual-harassment-military-justice/index.html",
-        "timestamp": 1643544887,
-        "sentiment": -3,
-        "published": "January 30, 2022 12:14 PM"
-    },
-    {
-        "title": "Trump’s Cheerleaders Forget How Weak He Was With Putin: They can’t defend their records as part of the worst administration in history, so they’re pathetically lashing out at Biden.",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/trumps-cheerleaders-forget-how-weak-he-was-with-putin",
-        "timestamp": 1643546418,
-        "sentiment": -3,
-        "published": "January 30, 2022 12:40 PM"
-    },
-    {
-        "title": "Officials decry ‘desecration’ of monuments during Ottawa protest",
-        "domain": "thestar.com",
-        "category": "news",
-        "link": "https://www.thestar.com/news/canada/2022/01/29/officials-decry-desecration-of-monuments-during-ottawa-protest.html",
-        "timestamp": 1643546685,
-        "sentiment": -4,
-        "published": "January 30, 2022 12:44 PM"
-    },
-    {
-        "title": "Start the Steal: New MAGA Emails Reveal Plot to Hand Arizona to Trump",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-features/maga-emails-arizona-trump-2020-election-1287447/",
-        "timestamp": 1643548188,
-        "sentiment": -3,
-        "published": "January 30, 2022 1:09 PM"
-    },
-    {
-        "title": "Russia claims NATO wants to 'pull' Ukraine into alliance",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/international/russia/591978-russia-claims-nato-wants-to-pull-ukraine-into-alliance",
-        "timestamp": 1643548825,
-        "sentiment": 0,
-        "published": "January 30, 2022 1:20 PM"
-    },
-    {
-        "title": "Sales soar for ‘Maus’ after its banning in Tennessee",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/01/30/maus-tennessee-sales-books-00003453",
-        "timestamp": 1643549227,
-        "sentiment": -3,
-        "published": "January 30, 2022 1:27 PM"
-    },
-    {
-        "title": "UK urged to suspend ‘golden visas’ after fast tracking of Russian millionaires",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jan/30/calls-for-uk-to-suspend-golden-visas-after-fast-tracking-of-russian-millionaires",
-        "timestamp": 1643549737,
-        "sentiment": -4,
-        "published": "January 30, 2022 1:35 PM"
-    },
-    {
-        "title": "Trump calls for 'the biggest protest we have ever had' in DC and other cities if prosecutors investigating him 'do anything illegal'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-calls-for-mass-nationwide-protests-prosecutors-investigating-him-2022-1",
-        "timestamp": 1643551700,
-        "sentiment": -3,
-        "published": "January 30, 2022 2:08 PM"
     },
     {
         "title": "North Korea fires intermediate-range ballistic missile toward East Sea: S. Korean military",
