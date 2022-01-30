@@ -9,21 +9,12 @@
         "published": "January 30, 2022 12:21 AM"
     },
     {
-        "title": "Rabbi leader in Kiev: Jews will take up arms against Putin",
-        "domain": "thejc.com",
-        "category": "worldnews",
-        "link": "https://www.thejc.com/news/world/rabbi-leader-in-kiev-jews-will-take-up-arms-against-putin-1ibdPnpwbyItdId4FHfbjD",
-        "timestamp": 1643503422,
-        "sentiment": 0,
-        "published": "January 30, 2022 12:43 AM"
-    },
-    {
         "title": "Russians back off after Irish fishermen vow to disrupt war games - CNN Video",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/videos/world/2022/01/29/russia-naval-games-irish-fisherman-osullivan-nrwknd-vpx.cnn",
         "timestamp": 1643504015,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "January 30, 2022 12:53 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://ew.com/tv/the-offer-first-look-photos-the-godfather-series-paramount-plus/",
         "timestamp": 1643507143,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 30, 2022 1:45 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.newsonyx.com/16-year-old-teen-found-shot-to-death-on-the-side-of-los-angeles-highway-family-and-community-leaders-demand-action/",
         "timestamp": 1643512480,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "January 30, 2022 3:14 AM"
     },
     {
@@ -99,12 +90,21 @@
         "published": "January 30, 2022 4:29 AM"
     },
     {
+        "title": "North Korea fires intermediate-range ballistic missile toward East Sea: S. Korean military",
+        "domain": "m-en.yna.co.kr",
+        "category": "news",
+        "link": "https://m-en.yna.co.kr/view/AEN20220130000352325",
+        "timestamp": 1643517938,
+        "sentiment": 0,
+        "published": "January 30, 2022 4:45 AM"
+    },
+    {
         "title": "'Out of control': Buyers paying thousands over sticker price for new cars",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/Business/control-buyers-paying-thousands-sticker-price-cars/story?id=82489039",
         "timestamp": 1643518247,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "January 30, 2022 4:50 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "television",
         "link": "https://www.newbusinessherald.com/entertainment-industry/john-mulaney-to-join-five-timers-club-in-february-newbusinessherald/21703/",
         "timestamp": 1643519025,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 30, 2022 5:03 AM"
     },
     {
@@ -140,8 +140,35 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/snl-michael-che-passes-seth-meyers-weekend-update-1234922613/",
         "timestamp": 1643520712,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "January 30, 2022 5:31 AM"
+    },
+    {
+        "title": "Parents whose 8-week-old died with 60 broken bones jailed",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/parents-whose-8-week-old-died-with-60-broken-bones-jailed-150954705.html",
+        "timestamp": 1643527320,
+        "sentiment": 0,
+        "published": "January 30, 2022 7:22 AM"
+    },
+    {
+        "title": "Jimmy Kimmel Is Under Fire For Seemingly Making A Xenophobic Joke About BTS, And People Are Bringing Up His Past Anti-Asian Comments",
+        "domain": "yahoo.com",
+        "category": "television",
+        "link": "https://www.yahoo.com/lifestyle/jimmy-kimmel-receiving-backlash-allegedly-233321691.html",
+        "timestamp": 1643529685,
+        "sentiment": 3,
+        "published": "January 30, 2022 8:01 AM"
+    },
+    {
+        "title": "Rabbi leader in Kiev: Jews will take up arms against Putin",
+        "domain": "thejc.com",
+        "category": "worldnews",
+        "link": "https://www.thejc.com/news/world/rabbi-leader-in-kiev-jews-will-take-up-arms-against-putin-1ibdPnpwbyItdId4FHfbjD",
+        "timestamp": 1643503422,
+        "sentiment": 0,
+        "published": "January 30, 2022 12:43 AM"
     },
     {
         "title": "11 arrested after woman allegedly gang raped, tortured and paraded through streets in India",
