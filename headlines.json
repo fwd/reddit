@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/top-canadian-defence-officials-condemn-protesters-dancing-on-tomb-of-the-unknown-soldier-1.5760168",
         "timestamp": 1643502090,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 30, 2022 12:21 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.thejc.com/news/world/rabbi-leader-in-kiev-jews-will-take-up-arms-against-putin-1ibdPnpwbyItdId4FHfbjD",
         "timestamp": 1643503422,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 30, 2022 12:43 AM"
     },
     {
@@ -27,21 +27,12 @@
         "published": "January 30, 2022 12:53 AM"
     },
     {
-        "title": "11 arrested after woman allegedly gang raped, tortured and paraded through streets in India",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/india-alleged-gang-rape-torture-woman-paraded-in-streets-delhi-arrests/",
-        "timestamp": 1643504799,
-        "sentiment": -8,
-        "published": "January 30, 2022 1:06 AM"
-    },
-    {
         "title": "See first-look photos from The Offer, the Paramount+ series about the making of The Godfather",
         "domain": "ew.com",
         "category": "television",
         "link": "https://ew.com/tv/the-offer-first-look-photos-the-godfather-series-paramount-plus/",
         "timestamp": 1643507143,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 30, 2022 1:45 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://fortune.com/2022/01/28/omicron-covid-unvaccinated-poll-vax-mandates-ipsos/",
         "timestamp": 1643512714,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 30, 2022 3:18 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://vancouversun.com/news/orcas-recorded-killing-and-eating-worlds-largest-animal-the-blue-whale-for-the-first-time/wcm/9c6c9871-f6b0-41d7-8656-84cc9be84f64",
         "timestamp": 1643516650,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "January 30, 2022 4:24 AM"
     },
     {
@@ -122,8 +113,17 @@
         "category": "television",
         "link": "https://www.newbusinessherald.com/entertainment-industry/john-mulaney-to-join-five-timers-club-in-february-newbusinessherald/21703/",
         "timestamp": 1643519025,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 30, 2022 5:03 AM"
+    },
+    {
+        "title": "Canada PM Trudeau moved to secret location as protests flare-up:",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/canada-pm-trudeau-moved-to-secret-location-as-protests-flare-up-reports-101643517143393.html?utm_source=ht_site_copyURL&utm_medium=social&utm_campaign=ht_site",
+        "timestamp": 1643519963,
+        "sentiment": 0,
+        "published": "January 30, 2022 5:19 AM"
     },
     {
         "title": "‘SNL’: Michael Che Passes Seth Meyers In Weekend Update Appearances",
@@ -131,8 +131,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/snl-michael-che-passes-seth-meyers-weekend-update-1234922613/",
         "timestamp": 1643520712,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "January 30, 2022 5:31 AM"
+    },
+    {
+        "title": "11 arrested after woman allegedly gang raped, tortured and paraded through streets in India",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/india-alleged-gang-rape-torture-woman-paraded-in-streets-delhi-arrests/",
+        "timestamp": 1643504799,
+        "sentiment": -8,
+        "published": "January 30, 2022 1:06 AM"
     },
     {
         "title": "Wig Wam Were Washed Out Until Insane ‘Peacemaker’ Credits Danced Them Back to Life",
