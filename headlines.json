@@ -5,7 +5,16 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": 0,
+        "sentiment": -2,
+        "published": "January 31, 2022 12:16 AM"
+    },
+    {
+        "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/politics/article/3165313/hong-kong-transformed-chaos-governance-last-year-xi-jinping",
+        "timestamp": 1643588201,
+        "sentiment": -2,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,8 +32,17 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 1:53 AM"
+    },
+    {
+        "title": "Conservatives Are Banning Books From Schools While Whining About 'Cancel Culture'",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/conservatives-ban-books-schools_n_61f40a19e4b04f9a12bcb247",
+        "timestamp": 1643594684,
+        "sentiment": 0,
+        "published": "January 31, 2022 2:04 AM"
     },
     {
         "title": "John Mulaney To Host 'Saturday Night Live' February 26th With Musical Guest LCD Soundsystem",
