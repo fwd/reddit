@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.vice.com/amp/en/article/3abpdk/93-unmarked-graves-found-at-residential-school-that-targeted-indigenous-children",
         "timestamp": 1643598106,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 31, 2022 3:01 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
         "timestamp": 1643602247,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "January 31, 2022 4:10 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "television",
         "link": "https://www.nytimes.com/2022/01/30/sports/afc-championship-halftime-show.html",
         "timestamp": 1643603907,
-        "sentiment": 9,
+        "sentiment": -5,
         "published": "January 31, 2022 4:38 AM"
+    },
+    {
+        "title": "Former Miss USA and 'Extra' Correspondent Cheslie Kryst Identified as Woman Who Died After Jumping From New York Building",
+        "domain": "complex.com",
+        "category": "television",
+        "link": "https://www.complex.com/life/chelsie-kryst-dies-jumping-new-york-building",
+        "timestamp": 1643611188,
+        "sentiment": -5,
+        "published": "January 31, 2022 6:39 AM"
     },
     {
         "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
