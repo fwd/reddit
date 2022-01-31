@@ -36,15 +36,6 @@
         "published": "January 31, 2022 2:04 AM"
     },
     {
-        "title": "93 Unmarked Graves Found at Residential School That Targeted Indigenous Children",
-        "domain": "vice.com",
-        "category": "worldnews",
-        "link": "https://www.vice.com/amp/en/article/3abpdk/93-unmarked-graves-found-at-residential-school-that-targeted-indigenous-children",
-        "timestamp": 1643598106,
-        "sentiment": -3,
-        "published": "January 31, 2022 3:01 AM"
-    },
-    {
         "title": "Trump Ridiculed For Stunning Admission About What He Wanted From Pence On Jan. 6",
         "domain": "huffpost.com",
         "category": "politics",
@@ -77,7 +68,7 @@
         "category": "television",
         "link": "https://www.nytimes.com/2022/01/30/sports/afc-championship-halftime-show.html",
         "timestamp": 1643603907,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 31, 2022 4:38 AM"
     },
     {
@@ -86,8 +77,26 @@
         "category": "television",
         "link": "https://www.complex.com/life/chelsie-kryst-dies-jumping-new-york-building",
         "timestamp": 1643611188,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "January 31, 2022 6:39 AM"
+    },
+    {
+        "title": "Former Boris Johnson advisor calls Bojo a \"complete fuckwit.\"",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/politics/2022/jan/30/dominic-cummings-says-it-is-his-duty-to-get-rid-of-boris-johnson?CMP=Share_AndroidApp_Other",
+        "timestamp": 1643611630,
+        "sentiment": -3,
+        "published": "January 31, 2022 6:47 AM"
+    },
+    {
+        "title": "93 Unmarked Graves Found at Residential School That Targeted Indigenous Children",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/amp/en/article/3abpdk/93-unmarked-graves-found-at-residential-school-that-targeted-indigenous-children",
+        "timestamp": 1643598106,
+        "sentiment": -3,
+        "published": "January 31, 2022 3:01 AM"
     },
     {
         "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
