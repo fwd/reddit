@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
         "timestamp": 1643602247,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 4:10 AM"
     },
     {
@@ -61,15 +61,6 @@
         "timestamp": 1643603907,
         "sentiment": 0,
         "published": "January 31, 2022 4:38 AM"
-    },
-    {
-        "title": "2 male penguins at zoo become foster parents to hatchling",
-        "domain": "romesentinel.com",
-        "category": "news",
-        "link": "https://romesentinel.com/stories/2-male-penguins-at-zoo-become-foster-parents-to-hatchling,128462",
-        "timestamp": 1643607742,
-        "sentiment": -8,
-        "published": "January 31, 2022 5:42 AM"
     },
     {
         "title": "Former Miss USA and 'Extra' Correspondent Cheslie Kryst Identified as Woman Who Died After Jumping From New York Building",
@@ -86,8 +77,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/us/travis-and-greg-mcmichael-plea-deal-ahmaud-arbery-federal-hate-crime-charges/index.html",
         "timestamp": 1643613918,
-        "sentiment": -8,
+        "sentiment": -4,
         "published": "January 31, 2022 7:25 AM"
+    },
+    {
+        "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
+        "domain": "irishcentral.com",
+        "category": "worldnews",
+        "link": "https://www.irishcentral.com/news/irish-fishermen-defeat-russian-navy",
+        "timestamp": 1643616083,
+        "sentiment": -2,
+        "published": "January 31, 2022 8:01 AM"
     },
     {
         "title": "Police officers shot dead on patrol in western Germany",
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/31/police-officers-shot-dead-on-patrol-in-western-germany",
         "timestamp": 1643619224,
-        "sentiment": -8,
+        "sentiment": -4,
         "published": "January 31, 2022 8:53 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
         "timestamp": 1643621271,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 9:27 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
         "timestamp": 1643626884,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 11:01 AM"
     },
     {
@@ -122,8 +122,17 @@
         "category": "worldnews",
         "link": "https://www.thefpsreview.com/2022/01/30/austin-samsung-facility-spills-763000-gallons-of-acidic-waste-into-local-tributary-no-surviving-aquatic-life/",
         "timestamp": 1643628750,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "January 31, 2022 11:32 AM"
+    },
+    {
+        "title": "School Boards Have Long Been a Tool of White Supremacy—Our history of letting white Americans veto racial progress in schools.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/01/school-boards-have-long-been-a-tool-of-white-supremacy/",
+        "timestamp": 1643629695,
+        "sentiment": 0,
+        "published": "January 31, 2022 11:48 AM"
     },
     {
         "title": "UK Audiences Spent Triple The Time Watching BBC Than Netflix Last Year",
@@ -135,6 +144,60 @@
         "published": "January 31, 2022 12:04 PM"
     },
     {
+        "title": "While Lobbying to Kill Build Back Better, Pharma Hikes Costs of 866 Drugs",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/31/while-lobbying-kill-build-back-better-pharma-hikes-costs-866-drugs",
+        "timestamp": 1643631408,
+        "sentiment": 0,
+        "published": "January 31, 2022 12:16 PM"
+    },
+    {
+        "title": "Donald Trump attacks “racist” Black prosecutors investigating his potential crimes | Abandoning the dogwhistle, Trump implored the MAGA crowd to return him to \"that beautiful, beautiful house that happens to be white.\"",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/01/donald-trump-attacks-racist-prosecutors-investigating-front-texas-faithful/",
+        "timestamp": 1643633150,
+        "sentiment": 0,
+        "published": "January 31, 2022 12:45 PM"
+    },
+    {
+        "title": "NBC: Joe Rogan responds to growing protest over COVID-19 misinformation on Spotify",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "http://www.nbcnews.com/news/amp/rcna14158",
+        "timestamp": 1643633564,
+        "sentiment": -4,
+        "published": "January 31, 2022 12:52 PM"
+    },
+    {
+        "title": "Florida district will no longer allow excused absences for kids staying home due to Covid concerns",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/florida-district-will-no-longer-allow-excused-absences-kids-staying-ho-rcna13747?cid=sm_npd_nn_tw_ma&s=09",
+        "timestamp": 1643634331,
+        "sentiment": -4,
+        "published": "January 31, 2022 1:05 PM"
+    },
+    {
+        "title": "'The Jew is the devil' — Neo-Nazis rally in Florida",
+        "domain": "m.jpost.com",
+        "category": "news",
+        "link": "https://m.jpost.com/diaspora/antisemitism/article-694960",
+        "timestamp": 1643635825,
+        "sentiment": -4,
+        "published": "January 31, 2022 1:30 PM"
+    },
+    {
+        "title": "2 male penguins at zoo become foster parents to hatchling",
+        "domain": "romesentinel.com",
+        "category": "news",
+        "link": "https://romesentinel.com/stories/2-male-penguins-at-zoo-become-foster-parents-to-hatchling,128462",
+        "timestamp": 1643607742,
+        "sentiment": -8,
+        "published": "January 31, 2022 5:42 AM"
+    },
+    {
         "title": "Toronto’s first-ever non-police mental health crisis response teams to launch in March",
         "domain": "posinewz.com",
         "category": "news",
@@ -142,15 +205,6 @@
         "timestamp": 1643603115,
         "sentiment": 0,
         "published": "January 31, 2022 4:25 AM"
-    },
-    {
-        "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
-        "domain": "irishcentral.com",
-        "category": "worldnews",
-        "link": "https://www.irishcentral.com/news/irish-fishermen-defeat-russian-navy",
-        "timestamp": 1643616083,
-        "sentiment": -1,
-        "published": "January 31, 2022 8:01 AM"
     },
     {
         "title": "Joe Rogan pledges to ‘try harder’ after Spotify misinformation controversy | Joe Rogan",
