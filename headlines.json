@@ -9,30 +9,12 @@
         "published": "January 31, 2022 1:26 AM"
     },
     {
-        "title": "Taiwan president expresses empathy for Ukraine’s situation",
-        "domain": "newsinfo.inquirer.net",
-        "category": "worldnews",
-        "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
-        "timestamp": 1643593988,
-        "sentiment": -1,
-        "published": "January 31, 2022 1:53 AM"
-    },
-    {
-        "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
-        "domain": "nytimes.com",
-        "category": "television",
-        "link": "https://www.nytimes.com/2022/01/30/sports/afc-championship-halftime-show.html",
-        "timestamp": 1643603907,
-        "sentiment": -3,
-        "published": "January 31, 2022 4:38 AM"
-    },
-    {
         "title": "Former Miss USA and 'Extra' Correspondent Cheslie Kryst Identified as Woman Who Died After Jumping From New York Building",
         "domain": "complex.com",
         "category": "television",
         "link": "https://www.complex.com/life/chelsie-kryst-dies-jumping-new-york-building",
         "timestamp": 1643611188,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 31, 2022 6:39 AM"
     },
     {
@@ -50,7 +32,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/01/school-boards-have-long-been-a-tool-of-white-supremacy/",
         "timestamp": 1643629695,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 11:48 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/report-uk-audiences-spent-triple-the-time-watching-bbc-than-netflix-last-year-1234921696/",
         "timestamp": 1643630689,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 31, 2022 12:04 PM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/31/while-lobbying-kill-build-back-better-pharma-hikes-costs-866-drugs",
         "timestamp": 1643631408,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 12:16 PM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jan/31/donald-trump-mike-pence-overturn-election",
         "timestamp": 1643632539,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 12:35 PM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/donald-trump-attacks-racist-prosecutors-investigating-front-texas-faithful/",
         "timestamp": 1643633150,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 12:45 PM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "news",
         "link": "http://www.nbcnews.com/news/amp/rcna14158",
         "timestamp": 1643633564,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 12:52 PM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/florida-district-will-no-longer-allow-excused-absences-kids-staying-ho-rcna13747?cid=sm_npd_nn_tw_ma&s=09",
         "timestamp": 1643634331,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 1:05 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/01/31/russia-willing-to-go-to-war-and-incur-sanctions-over-ukraine-analysts.html",
         "timestamp": 1643636080,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 1:34 PM"
     },
     {
@@ -131,17 +113,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-mike-pence-overturn-election-1674410",
         "timestamp": 1643636779,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 1:46 PM"
-    },
-    {
-        "title": "Critics say Ginni Thomas’s activism is a Supreme Court conflict. Under court rules, only her husband can decide if that’s true.",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/politics/2022/01/31/ginni-thomas-clarence-thomas-conflict-jan6-committee/",
-        "timestamp": 1643636885,
-        "sentiment": 2,
-        "published": "January 31, 2022 1:48 PM"
     },
     {
         "title": "X-Men’ Scribe David Hayter Boards TV Adaptation of EA’s ‘American McGee’s Alice’ Game",
@@ -149,17 +122,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/x-men-scribe-david-hayter-boards-tv-adaptation-of-eas-american-mcgees-alice-game-exclusive-1235083248/",
         "timestamp": 1643637837,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 31, 2022 2:03 PM"
-    },
-    {
-        "title": "Norway’s wolves ‘saved for this year’ as animal rights groups fight cull",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/31/norway-wolves-saved-for-this-year-as-animal-rights-groups-fight-cull",
-        "timestamp": 1643637986,
-        "sentiment": -1,
-        "published": "January 31, 2022 2:06 PM"
     },
     {
         "title": "Georgia prosecutors ask FBI for security help after Trump protest remarks: report",
@@ -167,7 +131,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/592044-georgia-prosecutors-ask-fbi-for-security-help-one-day-after-trump",
         "timestamp": 1643639570,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 2:32 PM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8582616/justin-trudeau-tests-positive-covid/",
         "timestamp": 1643641706,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 3:08 PM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/party-down-jennifer-garner-tyrel-jackson-williams-zoe-chao-james-marsden-cast-revival-starz-1234922327/",
         "timestamp": 1643643960,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 31, 2022 3:46 PM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/trump-admits-wanted-pence-overturn-2020-election-results?utm_source=feedly&utm_medium=rss&utm_campaign=trump-admits-wanted-pence-overturn-2020-election-results",
         "timestamp": 1643644228,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 3:50 PM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/health/moderna-mrna-hiv-vaccine/index.html",
         "timestamp": 1643644546,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 3:55 PM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/world/us/some-republicans-warn-trumps-latest-jan-6-speech-shows-he-would-do-it-all-again-2022-01-31/",
         "timestamp": 1643645369,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 4:09 PM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "news",
         "link": "https://apnews.com/article/ahmaud-arbery-crime-race-and-ethnicity-hate-crimes-savannah-4843bf04cf74034b2f396a844599f899?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter",
         "timestamp": 1643646347,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 4:25 PM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "news",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-695001",
         "timestamp": 1643646362,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 4:26 PM"
     },
     {
@@ -257,8 +221,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/health/moderna-covid-vaccine-fda-approval/index.html",
         "timestamp": 1643647082,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 4:38 PM"
+    },
+    {
+        "title": "US citizen, Current finance minister of Sri Lanka admits to buying weapons from North Korea",
+        "domain": "newsfirst.lk",
+        "category": "worldnews",
+        "link": "https://www.newsfirst.lk/2022/01/31/we-purchased-weapons-from-north-korea-using-black-market-dollars-minister-basil-r/",
+        "timestamp": 1643648088,
+        "sentiment": -1,
+        "published": "January 31, 2022 4:54 PM"
     },
     {
         "title": "‘It Takes Two’ Developer Hazelight Studios Teams With dj2 Entertainment to Adapt Game for Film, TV",
@@ -266,17 +239,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/it-takes-two-series-film-dj2-entertainment-1235167573/",
         "timestamp": 1643648491,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "January 31, 2022 5:01 PM"
-    },
-    {
-        "title": "4.0-magnitude earthquake shakes parts of Hawaii Island",
-        "domain": "hawaiinewsnow.com",
-        "category": "news",
-        "link": "https://www.hawaiinewsnow.com/2022/01/31/40-magnitude-earthquake-shakes-parts-hawaii-island/",
-        "timestamp": 1643650597,
-        "sentiment": 0,
-        "published": "January 31, 2022 5:36 PM"
     },
     {
         "title": "Rocks hurled at Ottawa ambulance at downtown truck convoy",
@@ -293,7 +257,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/3abpw3/trump-pence-steal-election",
         "timestamp": 1643651279,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 5:47 PM"
     },
     {
@@ -320,8 +284,80 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
         "timestamp": 1643655429,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "January 31, 2022 6:57 PM"
+    },
+    {
+        "title": "Exclusive: U.S. diabetes deaths top 100,000 for second straight year",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/exclusive-us-diabetes-deaths-top-100000-second-straight-year-federal-panel-urges-2022-01-31/",
+        "timestamp": 1643656475,
+        "sentiment": -4,
+        "published": "January 31, 2022 7:14 PM"
+    },
+    {
+        "title": "Psaki: Trump raising Jan. 6 pardons, overturning election a reminder he's unfit",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/592115-psaki-trump-raising-jan-6-pardons-overturning-election-a-reminder-hes",
+        "timestamp": 1643656620,
+        "sentiment": 0,
+        "published": "January 31, 2022 7:17 PM"
+    },
+    {
+        "title": "Amnesty to release report calling Israel apartheid; Israel criticizes report",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/israel-calls-amnesty-release-apartheid-report-82579313",
+        "timestamp": 1643656666,
+        "sentiment": -1,
+        "published": "January 31, 2022 7:17 PM"
+    },
+    {
+        "title": "Taiwan president expresses empathy for Ukraine’s situation",
+        "domain": "newsinfo.inquirer.net",
+        "category": "worldnews",
+        "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
+        "timestamp": 1643593988,
+        "sentiment": -1,
+        "published": "January 31, 2022 1:53 AM"
+    },
+    {
+        "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2022/01/30/sports/afc-championship-halftime-show.html",
+        "timestamp": 1643603907,
+        "sentiment": -3,
+        "published": "January 31, 2022 4:38 AM"
+    },
+    {
+        "title": "Critics say Ginni Thomas’s activism is a Supreme Court conflict. Under court rules, only her husband can decide if that’s true.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/01/31/ginni-thomas-clarence-thomas-conflict-jan6-committee/",
+        "timestamp": 1643636885,
+        "sentiment": 2,
+        "published": "January 31, 2022 1:48 PM"
+    },
+    {
+        "title": "Norway’s wolves ‘saved for this year’ as animal rights groups fight cull",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/31/norway-wolves-saved-for-this-year-as-animal-rights-groups-fight-cull",
+        "timestamp": 1643637986,
+        "sentiment": -1,
+        "published": "January 31, 2022 2:06 PM"
+    },
+    {
+        "title": "4.0-magnitude earthquake shakes parts of Hawaii Island",
+        "domain": "hawaiinewsnow.com",
+        "category": "news",
+        "link": "https://www.hawaiinewsnow.com/2022/01/31/40-magnitude-earthquake-shakes-parts-hawaii-island/",
+        "timestamp": 1643650597,
+        "sentiment": 0,
+        "published": "January 31, 2022 5:36 PM"
     },
     {
         "title": "Britain warns Russia of sanctions on oligarchs if Ukraine is invaded",
