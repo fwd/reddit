@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.scmp.com/news/china/politics/article/3165313/hong-kong-transformed-chaos-governance-last-year-xi-jinping",
         "timestamp": 1643588201,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -43,6 +43,33 @@
         "timestamp": 1643594684,
         "sentiment": 0,
         "published": "January 31, 2022 2:04 AM"
+    },
+    {
+        "title": "Trump Ridiculed For Stunning Admission About What He Wanted From Pence On Jan. 6",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-admits-wanting-overturn-the-election_n_61f73f76e4b04f9a12beebdb",
+        "timestamp": 1643600492,
+        "sentiment": 0,
+        "published": "January 31, 2022 3:41 AM"
+    },
+    {
+        "title": "Toronto’s first-ever non-police mental health crisis response teams to launch in March",
+        "domain": "posinewz.com",
+        "category": "news",
+        "link": "http://posinewz.com/stories/Torontos-first-ever-non-police-mental-health-crisis-response-teams-to-launch-in-March/512/",
+        "timestamp": 1643603115,
+        "sentiment": -3,
+        "published": "January 31, 2022 4:25 AM"
+    },
+    {
+        "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2022/01/30/sports/afc-championship-halftime-show.html",
+        "timestamp": 1643603907,
+        "sentiment": 0,
+        "published": "January 31, 2022 4:38 AM"
     },
     {
         "title": "Israel labels Amnesty International 'antisemitic' over 'apartheid' report",
