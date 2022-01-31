@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/conservatives-ban-books-schools_n_61f40a19e4b04f9a12bcb247",
         "timestamp": 1643594684,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 2:04 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-admits-wanting-overturn-the-election_n_61f73f76e4b04f9a12beebdb",
         "timestamp": 1643600492,
-        "sentiment": 0,
-        "published": "January 31, 2022 3:41 AM"
-    },
-    {
-        "title": "Scientists Find Giant Pristine Coral Reef Undiscovered Near Tahiti, With Clues There Are More",
-        "domain": "goodnewsnetwork.org",
-        "category": "worldnews",
-        "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
-        "timestamp": 1643602247,
         "sentiment": -2,
-        "published": "January 31, 2022 4:10 AM"
+        "published": "January 31, 2022 3:41 AM"
     },
     {
         "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
@@ -77,17 +68,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/us/travis-and-greg-mcmichael-plea-deal-ahmaud-arbery-federal-hate-crime-charges/index.html",
         "timestamp": 1643613918,
-        "sentiment": -4,
-        "published": "January 31, 2022 7:25 AM"
-    },
-    {
-        "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
-        "domain": "irishcentral.com",
-        "category": "worldnews",
-        "link": "https://www.irishcentral.com/news/irish-fishermen-defeat-russian-navy",
-        "timestamp": 1643616083,
         "sentiment": -2,
-        "published": "January 31, 2022 8:01 AM"
+        "published": "January 31, 2022 7:25 AM"
     },
     {
         "title": "Police officers shot dead on patrol in western Germany",
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/31/police-officers-shot-dead-on-patrol-in-western-germany",
         "timestamp": 1643619224,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 31, 2022 8:53 AM"
     },
     {
@@ -104,8 +86,17 @@
         "category": "worldnews",
         "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
         "timestamp": 1643621271,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 9:27 AM"
+    },
+    {
+        "title": "Bill to outlaw eating dog meat proposed in South Korean capital, with vote expected next month",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/01/26/eating-dog-meat-could-be-banned-in-seoul-in-move-that-may-end-brutal-industry-15993891/",
+        "timestamp": 1643622923,
+        "sentiment": -1,
+        "published": "January 31, 2022 9:55 AM"
     },
     {
         "title": "Kremlin says UK economic sanctions are attack on Russian businesses",
@@ -113,17 +104,8 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
         "timestamp": 1643626884,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 11:01 AM"
-    },
-    {
-        "title": "Austin Samsung Facility Spills 763,000 Gallons of Acidic Waste into Local Tributary, \"No Surviving Aquatic Life\"",
-        "domain": "thefpsreview.com",
-        "category": "worldnews",
-        "link": "https://www.thefpsreview.com/2022/01/30/austin-samsung-facility-spills-763000-gallons-of-acidic-waste-into-local-tributary-no-surviving-aquatic-life/",
-        "timestamp": 1643628750,
-        "sentiment": -2,
-        "published": "January 31, 2022 11:32 AM"
     },
     {
         "title": "School Boards Have Long Been a Tool of White Supremacy—Our history of letting white Americans veto racial progress in schools.",
@@ -131,8 +113,17 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/01/school-boards-have-long-been-a-tool-of-white-supremacy/",
         "timestamp": 1643629695,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 11:48 AM"
+    },
+    {
+        "title": "Opinion: Trump's rally in Texas shows exactly why he's so dangerous",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/01/30/opinions/trump-rally-dangerous-obeidallah/index.html",
+        "timestamp": 1643630575,
+        "sentiment": -2,
+        "published": "January 31, 2022 12:02 PM"
     },
     {
         "title": "UK Audiences Spent Triple The Time Watching BBC Than Netflix Last Year",
@@ -149,8 +140,26 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/01/31/while-lobbying-kill-build-back-better-pharma-hikes-costs-866-drugs",
         "timestamp": 1643631408,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 12:16 PM"
+    },
+    {
+        "title": "Quiet part loud: Trump says Pence 'could have overturned the election'",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/31/donald-trump-mike-pence-overturn-election",
+        "timestamp": 1643632539,
+        "sentiment": -2,
+        "published": "January 31, 2022 12:35 PM"
+    },
+    {
+        "title": "US to target Putin’s inner circle with sanctions in event of Ukraine invasion",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/31/us-to-target-putins-inner-circle-with-sanctions-in-event-of-ukraine-invasion",
+        "timestamp": 1643633131,
+        "sentiment": -1,
+        "published": "January 31, 2022 12:45 PM"
     },
     {
         "title": "Donald Trump attacks “racist” Black prosecutors investigating his potential crimes | Abandoning the dogwhistle, Trump implored the MAGA crowd to return him to \"that beautiful, beautiful house that happens to be white.\"",
@@ -158,8 +167,17 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/01/donald-trump-attacks-racist-prosecutors-investigating-front-texas-faithful/",
         "timestamp": 1643633150,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "January 31, 2022 12:45 PM"
+    },
+    {
+        "title": "Dolce & Gabbana announces it will drop use of animal fur starting this year",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/dolcegabbana-announces-will-drop-use-animal-fur-starting-year-rcna14168",
+        "timestamp": 1643633373,
+        "sentiment": -2,
+        "published": "January 31, 2022 12:49 PM"
     },
     {
         "title": "NBC: Joe Rogan responds to growing protest over COVID-19 misinformation on Spotify",
@@ -167,7 +185,7 @@
         "category": "news",
         "link": "http://www.nbcnews.com/news/amp/rcna14158",
         "timestamp": 1643633564,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 31, 2022 12:52 PM"
     },
     {
@@ -176,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/florida-district-will-no-longer-allow-excused-absences-kids-staying-ho-rcna13747?cid=sm_npd_nn_tw_ma&s=09",
         "timestamp": 1643634331,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 31, 2022 1:05 PM"
     },
     {
@@ -185,8 +203,71 @@
         "category": "news",
         "link": "https://m.jpost.com/diaspora/antisemitism/article-694960",
         "timestamp": 1643635825,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "January 31, 2022 1:30 PM"
+    },
+    {
+        "title": "Donald Trump Says He Wanted Mike Pence to Overturn the Election for First Time",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-mike-pence-overturn-election-1674410",
+        "timestamp": 1643636779,
+        "sentiment": -2,
+        "published": "January 31, 2022 1:46 PM"
+    },
+    {
+        "title": "X-Men’ Scribe David Hayter Boards TV Adaptation of EA’s ‘American McGee’s Alice’ Game",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/x-men-scribe-david-hayter-boards-tv-adaptation-of-eas-american-mcgees-alice-game-exclusive-1235083248/",
+        "timestamp": 1643637837,
+        "sentiment": 0,
+        "published": "January 31, 2022 2:03 PM"
+    },
+    {
+        "title": "Sales soar for 'Maus' after its banning in Tennessee",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/entertainment-arts-and-entertainment-tennessee-19f53b70e4a82f6ead481351fe098052",
+        "timestamp": 1643638214,
+        "sentiment": -2,
+        "published": "January 31, 2022 2:10 PM"
+    },
+    {
+        "title": "IRAN EXECUTES TWO GAY MEN ON SODOMY CHARGES. Mehrdad Karimpou and Farid Mohammadi have reportedly been put to death after first being arrested six years ago.",
+        "domain": "attitude.co.uk",
+        "category": "worldnews",
+        "link": "https://attitude.co.uk/article/iran-executes-two-gay-men-on-sodomy-charges/26537/",
+        "timestamp": 1643638331,
+        "sentiment": -1,
+        "published": "January 31, 2022 2:12 PM"
+    },
+    {
+        "title": "Scientists Find Giant Pristine Coral Reef Undiscovered Near Tahiti, With Clues There Are More",
+        "domain": "goodnewsnetwork.org",
+        "category": "worldnews",
+        "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
+        "timestamp": 1643602247,
+        "sentiment": -2,
+        "published": "January 31, 2022 4:10 AM"
+    },
+    {
+        "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
+        "domain": "irishcentral.com",
+        "category": "worldnews",
+        "link": "https://www.irishcentral.com/news/irish-fishermen-defeat-russian-navy",
+        "timestamp": 1643616083,
+        "sentiment": -2,
+        "published": "January 31, 2022 8:01 AM"
+    },
+    {
+        "title": "Austin Samsung Facility Spills 763,000 Gallons of Acidic Waste into Local Tributary, \"No Surviving Aquatic Life\"",
+        "domain": "thefpsreview.com",
+        "category": "worldnews",
+        "link": "https://www.thefpsreview.com/2022/01/30/austin-samsung-facility-spills-763000-gallons-of-acidic-waste-into-local-tributary-no-surviving-aquatic-life/",
+        "timestamp": 1643628750,
+        "sentiment": -2,
+        "published": "January 31, 2022 11:32 AM"
     },
     {
         "title": "2 male penguins at zoo become foster parents to hatchling",
