@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "worldnews",
         "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
         "timestamp": 1643602247,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 4:10 AM"
-    },
-    {
-        "title": "Toronto’s first-ever non-police mental health crisis response teams to launch in March",
-        "domain": "posinewz.com",
-        "category": "news",
-        "link": "http://posinewz.com/stories/Torontos-first-ever-non-police-mental-health-crisis-response-teams-to-launch-in-March/512/",
-        "timestamp": 1643603115,
-        "sentiment": 0,
-        "published": "January 31, 2022 4:25 AM"
     },
     {
         "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://romesentinel.com/stories/2-male-penguins-at-zoo-become-foster-parents-to-hatchling,128462",
         "timestamp": 1643607742,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "January 31, 2022 5:42 AM"
     },
     {
@@ -95,8 +86,62 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/us/travis-and-greg-mcmichael-plea-deal-ahmaud-arbery-federal-hate-crime-charges/index.html",
         "timestamp": 1643613918,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "January 31, 2022 7:25 AM"
+    },
+    {
+        "title": "Police officers shot dead on patrol in western Germany",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jan/31/police-officers-shot-dead-on-patrol-in-western-germany",
+        "timestamp": 1643619224,
+        "sentiment": -8,
+        "published": "January 31, 2022 8:53 AM"
+    },
+    {
+        "title": "Anti-vaxxer ‘truck driver convoy’ with almost no trucks descends on Parliament House",
+        "domain": "thenewdaily.com.au",
+        "category": "worldnews",
+        "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
+        "timestamp": 1643621271,
+        "sentiment": -8,
+        "published": "January 31, 2022 9:27 AM"
+    },
+    {
+        "title": "Kremlin says UK economic sanctions are attack on Russian businesses",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
+        "timestamp": 1643626884,
+        "sentiment": -8,
+        "published": "January 31, 2022 11:01 AM"
+    },
+    {
+        "title": "Austin Samsung Facility Spills 763,000 Gallons of Acidic Waste into Local Tributary, \"No Surviving Aquatic Life\"",
+        "domain": "thefpsreview.com",
+        "category": "worldnews",
+        "link": "https://www.thefpsreview.com/2022/01/30/austin-samsung-facility-spills-763000-gallons-of-acidic-waste-into-local-tributary-no-surviving-aquatic-life/",
+        "timestamp": 1643628750,
+        "sentiment": -8,
+        "published": "January 31, 2022 11:32 AM"
+    },
+    {
+        "title": "UK Audiences Spent Triple The Time Watching BBC Than Netflix Last Year",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/report-uk-audiences-spent-triple-the-time-watching-bbc-than-netflix-last-year-1234921696/",
+        "timestamp": 1643630689,
+        "sentiment": 0,
+        "published": "January 31, 2022 12:04 PM"
+    },
+    {
+        "title": "Toronto’s first-ever non-police mental health crisis response teams to launch in March",
+        "domain": "posinewz.com",
+        "category": "news",
+        "link": "http://posinewz.com/stories/Torontos-first-ever-non-police-mental-health-crisis-response-teams-to-launch-in-March/512/",
+        "timestamp": 1643603115,
+        "sentiment": 0,
+        "published": "January 31, 2022 4:25 AM"
     },
     {
         "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
@@ -108,15 +153,6 @@
         "published": "January 31, 2022 8:01 AM"
     },
     {
-        "title": "Anti-vaxxer ‘truck driver convoy’ with almost no trucks descends on Parliament House",
-        "domain": "thenewdaily.com.au",
-        "category": "worldnews",
-        "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
-        "timestamp": 1643621271,
-        "sentiment": -1,
-        "published": "January 31, 2022 9:27 AM"
-    },
-    {
         "title": "Joe Rogan pledges to ‘try harder’ after Spotify misinformation controversy | Joe Rogan",
         "domain": "theguardian.com",
         "category": "news",
@@ -124,15 +160,6 @@
         "timestamp": 1643623141,
         "sentiment": 0,
         "published": "January 31, 2022 9:59 AM"
-    },
-    {
-        "title": "Kremlin says UK economic sanctions are attack on Russian businesses",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
-        "timestamp": 1643626884,
-        "sentiment": -1,
-        "published": "January 31, 2022 11:01 AM"
     },
     {
         "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
