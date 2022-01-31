@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.complex.com/life/chelsie-kryst-dies-jumping-new-york-building",
         "timestamp": 1643611188,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 6:39 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
         "timestamp": 1643626884,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 11:01 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/report-uk-audiences-spent-triple-the-time-watching-bbc-than-netflix-last-year-1234921696/",
         "timestamp": 1643630689,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 12:04 PM"
     },
     {
@@ -54,21 +54,12 @@
         "published": "January 31, 2022 12:16 PM"
     },
     {
-        "title": "Quiet part loud: Trump says Pence 'could have overturned the election'",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jan/31/donald-trump-mike-pence-overturn-election",
-        "timestamp": 1643632539,
-        "sentiment": 0,
-        "published": "January 31, 2022 12:35 PM"
-    },
-    {
         "title": "US to target Putin’s inner circle with sanctions in event of Ukraine invasion",
         "domain": "theguardian.com",
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/us-to-target-putins-inner-circle-with-sanctions-in-event-of-ukraine-invasion",
         "timestamp": 1643633131,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 12:45 PM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "news",
         "link": "http://www.nbcnews.com/news/amp/rcna14158",
         "timestamp": 1643633564,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 12:52 PM"
     },
     {
@@ -95,17 +86,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/florida-district-will-no-longer-allow-excused-absences-kids-staying-ho-rcna13747?cid=sm_npd_nn_tw_ma&s=09",
         "timestamp": 1643634331,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 1:05 PM"
-    },
-    {
-        "title": "Russia is willing to go to war and incur sanctions over Ukraine, analysts warn",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/01/31/russia-willing-to-go-to-war-and-incur-sanctions-over-ukraine-analysts.html",
-        "timestamp": 1643636080,
-        "sentiment": -4,
-        "published": "January 31, 2022 1:34 PM"
     },
     {
         "title": "Donald Trump Says He Wanted Mike Pence to Overturn the Election for First Time",
@@ -122,17 +104,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/x-men-scribe-david-hayter-boards-tv-adaptation-of-eas-american-mcgees-alice-game-exclusive-1235083248/",
         "timestamp": 1643637837,
-        "sentiment": 2,
-        "published": "January 31, 2022 2:03 PM"
-    },
-    {
-        "title": "Georgia prosecutors ask FBI for security help after Trump protest remarks: report",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/policy/national-security/592044-georgia-prosecutors-ask-fbi-for-security-help-one-day-after-trump",
-        "timestamp": 1643639570,
         "sentiment": 0,
-        "published": "January 31, 2022 2:32 PM"
+        "published": "January 31, 2022 2:03 PM"
     },
     {
         "title": "Prime Minister Trudeau tests positive for COVID-19",
@@ -140,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/politics/prime-minister-trudeau-tests-positive-for-covid-19-1.5761198",
         "timestamp": 1643641338,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 3:02 PM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8582616/justin-trudeau-tests-positive-covid/",
         "timestamp": 1643641706,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 3:08 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.portsmouth.co.uk/news/defence/royal-navy-carrier-hms-prince-of-wales-on-standby-to-be-deployed-if-ukraine-situation-escalates-3547495",
         "timestamp": 1643643921,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 3:45 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/01/party-down-jennifer-garner-tyrel-jackson-williams-zoe-chao-james-marsden-cast-revival-starz-1234922327/",
         "timestamp": 1643643960,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 3:46 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/health/moderna-mrna-hiv-vaccine/index.html",
         "timestamp": 1643644546,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 3:55 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://apnews.com/article/ahmaud-arbery-crime-race-and-ethnicity-hate-crimes-savannah-4843bf04cf74034b2f396a844599f899?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter",
         "timestamp": 1643646347,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 4:25 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-695001",
         "timestamp": 1643646362,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 4:26 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/health/moderna-covid-vaccine-fda-approval/index.html",
         "timestamp": 1643647082,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 4:38 PM"
     },
     {
@@ -230,8 +203,17 @@
         "category": "worldnews",
         "link": "https://www.newsfirst.lk/2022/01/31/we-purchased-weapons-from-north-korea-using-black-market-dollars-minister-basil-r/",
         "timestamp": 1643648088,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 4:54 PM"
+    },
+    {
+        "title": "A push to ban members of Congress from trading individual stocks gains momentum",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/01/19/1073865837/a-push-to-ban-members-of-congress-from-trading-individual-stocks-gains-momentum",
+        "timestamp": 1643648296,
+        "sentiment": 0,
+        "published": "January 31, 2022 4:58 PM"
     },
     {
         "title": "‘It Takes Two’ Developer Hazelight Studios Teams With dj2 Entertainment to Adapt Game for Film, TV",
@@ -239,7 +221,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/it-takes-two-series-film-dj2-entertainment-1235167573/",
         "timestamp": 1643648491,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "January 31, 2022 5:01 PM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "worldnews",
         "link": "https://ottawa.citynews.ca/local-news/rocks-hurled-at-ottawa-ambulance-at-downtown-truck-convoy-5011107",
         "timestamp": 1643651211,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 5:46 PM"
     },
     {
@@ -266,8 +248,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-us-canada-60202050",
         "timestamp": 1643653510,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 6:25 PM"
+    },
+    {
+        "title": "Iran has reportedly executed two gay men, Mehrdad Karimpour and Farid Mohammadi, on sodomy charges following six years in prison.",
+        "domain": "english.alaraby.co.uk",
+        "category": "worldnews",
+        "link": "https://english.alaraby.co.uk/news/iran-executes-two-men-charges-related-homosexuality",
+        "timestamp": 1643654558,
+        "sentiment": -4,
+        "published": "January 31, 2022 6:42 PM"
     },
     {
         "title": "Survivors Say Russians Slaughtered 70 in Gold Mine Massacre",
@@ -275,7 +266,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/wagner-group-accused-of-killing-70-at-mine-in-aigbado-central-african-republic?source=articles&amp;via=rss",
         "timestamp": 1643655400,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "January 31, 2022 6:56 PM"
     },
     {
@@ -284,8 +275,17 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
         "timestamp": 1643655429,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 6:57 PM"
+    },
+    {
+        "title": "Critics Say Trump Threat to Unleash Supporters on US Cities 'Should Ring Alarm Bells' |\"We can act forcefully to stop his new insurrection and punish his past crimes—or we can sit back and let the comet of autocracy strike,\" said one critic.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/01/31/critics-say-trump-threat-unleash-supporters-us-cities-should-ring-alarm-bells",
+        "timestamp": 1643655939,
+        "sentiment": 0,
+        "published": "January 31, 2022 7:05 PM"
     },
     {
         "title": "Exclusive: U.S. diabetes deaths top 100,000 for second straight year",
@@ -293,7 +293,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/exclusive-us-diabetes-deaths-top-100000-second-straight-year-federal-panel-urges-2022-01-31/",
         "timestamp": 1643656475,
-        "sentiment": -4,
+        "sentiment": 3,
         "published": "January 31, 2022 7:14 PM"
     },
     {
@@ -304,6 +304,42 @@
         "timestamp": 1643656620,
         "sentiment": 0,
         "published": "January 31, 2022 7:17 PM"
+    },
+    {
+        "title": "Judge rejects plea deal for man who killed Ahmaud Arbery",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/ahmaud-arbery-crime-race-and-ethnicity-hate-crimes-savannah-4843bf04cf74034b2f396a844599f899?utm_campaign=SocialFlow&utm_medium=AP&utm_source=Twitter&s=09",
+        "timestamp": 1643662949,
+        "sentiment": 3,
+        "published": "January 31, 2022 9:02 PM"
+    },
+    {
+        "title": "Quiet part loud: Trump says Pence 'could have overturned the election'",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jan/31/donald-trump-mike-pence-overturn-election",
+        "timestamp": 1643632539,
+        "sentiment": 0,
+        "published": "January 31, 2022 12:35 PM"
+    },
+    {
+        "title": "Russia is willing to go to war and incur sanctions over Ukraine, analysts warn",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/01/31/russia-willing-to-go-to-war-and-incur-sanctions-over-ukraine-analysts.html",
+        "timestamp": 1643636080,
+        "sentiment": -4,
+        "published": "January 31, 2022 1:34 PM"
+    },
+    {
+        "title": "Georgia prosecutors ask FBI for security help after Trump protest remarks: report",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/592044-georgia-prosecutors-ask-fbi-for-security-help-one-day-after-trump",
+        "timestamp": 1643639570,
+        "sentiment": 0,
+        "published": "January 31, 2022 2:32 PM"
     },
     {
         "title": "Amnesty to release report calling Israel apartheid; Israel criticizes report",
