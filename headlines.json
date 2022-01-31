@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 1:53 AM"
     },
     {
@@ -43,6 +43,15 @@
         "timestamp": 1643600492,
         "sentiment": -2,
         "published": "January 31, 2022 3:41 AM"
+    },
+    {
+        "title": "Ecuador: leak of an oil pipeline in the Amazon jungle",
+        "domain": "turnednews.com",
+        "category": "news",
+        "link": "https://turnednews.com/ecuador-leak-of-an-oil-pipeline-in-the-amazon-jungle/?amp=1",
+        "timestamp": 1643603479,
+        "sentiment": -1,
+        "published": "January 31, 2022 4:31 AM"
     },
     {
         "title": "‘I Have No Idea What You Just Said’: Concert Drowns Out A.F.C. Halftime Analysis",
@@ -68,7 +77,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/us/travis-and-greg-mcmichael-plea-deal-ahmaud-arbery-federal-hate-crime-charges/index.html",
         "timestamp": 1643613918,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 7:25 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jan/31/police-officers-shot-dead-on-patrol-in-western-germany",
         "timestamp": 1643619224,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 8:53 AM"
     },
     {
@@ -86,17 +95,8 @@
         "category": "worldnews",
         "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
         "timestamp": 1643621271,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 9:27 AM"
-    },
-    {
-        "title": "Bill to outlaw eating dog meat proposed in South Korean capital, with vote expected next month",
-        "domain": "metro.co.uk",
-        "category": "worldnews",
-        "link": "https://metro.co.uk/2022/01/26/eating-dog-meat-could-be-banned-in-seoul-in-move-that-may-end-brutal-industry-15993891/",
-        "timestamp": 1643622923,
-        "sentiment": -1,
-        "published": "January 31, 2022 9:55 AM"
     },
     {
         "title": "Kremlin says UK economic sanctions are attack on Russian businesses",
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
         "timestamp": 1643626884,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 11:01 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/us-to-target-putins-inner-circle-with-sanctions-in-event-of-ukraine-invasion",
         "timestamp": 1643633131,
-        "sentiment": -1,
+        "sentiment": -8,
         "published": "January 31, 2022 12:45 PM"
     },
     {
@@ -171,21 +171,12 @@
         "published": "January 31, 2022 12:45 PM"
     },
     {
-        "title": "Dolce & Gabbana announces it will drop use of animal fur starting this year",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/world/dolcegabbana-announces-will-drop-use-animal-fur-starting-year-rcna14168",
-        "timestamp": 1643633373,
-        "sentiment": -2,
-        "published": "January 31, 2022 12:49 PM"
-    },
-    {
         "title": "NBC: Joe Rogan responds to growing protest over COVID-19 misinformation on Spotify",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "http://www.nbcnews.com/news/amp/rcna14158",
         "timestamp": 1643633564,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 12:52 PM"
     },
     {
@@ -194,17 +185,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/florida-district-will-no-longer-allow-excused-absences-kids-staying-ho-rcna13747?cid=sm_npd_nn_tw_ma&s=09",
         "timestamp": 1643634331,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "January 31, 2022 1:05 PM"
     },
     {
-        "title": "'The Jew is the devil' — Neo-Nazis rally in Florida",
-        "domain": "m.jpost.com",
+        "title": "Russia is willing to go to war and incur sanctions over Ukraine, analysts warn",
+        "domain": "cnbc.com",
         "category": "news",
-        "link": "https://m.jpost.com/diaspora/antisemitism/article-694960",
-        "timestamp": 1643635825,
-        "sentiment": -2,
-        "published": "January 31, 2022 1:30 PM"
+        "link": "https://www.cnbc.com/2022/01/31/russia-willing-to-go-to-war-and-incur-sanctions-over-ukraine-analysts.html",
+        "timestamp": 1643636080,
+        "sentiment": -1,
+        "published": "January 31, 2022 1:34 PM"
     },
     {
         "title": "Donald Trump Says He Wanted Mike Pence to Overturn the Election for First Time",
@@ -214,6 +205,15 @@
         "timestamp": 1643636779,
         "sentiment": -2,
         "published": "January 31, 2022 1:46 PM"
+    },
+    {
+        "title": "Critics say Ginni Thomas’s activism is a Supreme Court conflict. Under court rules, only her husband can decide if that’s true.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/01/31/ginni-thomas-clarence-thomas-conflict-jan6-committee/",
+        "timestamp": 1643636885,
+        "sentiment": -2,
+        "published": "January 31, 2022 1:48 PM"
     },
     {
         "title": "X-Men’ Scribe David Hayter Boards TV Adaptation of EA’s ‘American McGee’s Alice’ Game",
@@ -232,6 +232,42 @@
         "timestamp": 1643638214,
         "sentiment": -2,
         "published": "January 31, 2022 2:10 PM"
+    },
+    {
+        "title": "Prime Minister Trudeau tests positive for COVID-19",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/politics/prime-minister-trudeau-tests-positive-for-covid-19-1.5761198",
+        "timestamp": 1643641338,
+        "sentiment": -8,
+        "published": "January 31, 2022 3:02 PM"
+    },
+    {
+        "title": "Bill to outlaw eating dog meat proposed in South Korean capital, with vote expected next month",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/01/26/eating-dog-meat-could-be-banned-in-seoul-in-move-that-may-end-brutal-industry-15993891/",
+        "timestamp": 1643622923,
+        "sentiment": -1,
+        "published": "January 31, 2022 9:55 AM"
+    },
+    {
+        "title": "Dolce & Gabbana announces it will drop use of animal fur starting this year",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/dolcegabbana-announces-will-drop-use-animal-fur-starting-year-rcna14168",
+        "timestamp": 1643633373,
+        "sentiment": -2,
+        "published": "January 31, 2022 12:49 PM"
+    },
+    {
+        "title": "'The Jew is the devil' — Neo-Nazis rally in Florida",
+        "domain": "m.jpost.com",
+        "category": "news",
+        "link": "https://m.jpost.com/diaspora/antisemitism/article-694960",
+        "timestamp": 1643635825,
+        "sentiment": -2,
+        "published": "January 31, 2022 1:30 PM"
     },
     {
         "title": "IRAN EXECUTES TWO GAY MEN ON SODOMY CHARGES. Mehrdad Karimpou and Farid Mohammadi have reportedly been put to death after first being arrested six years ago.",
