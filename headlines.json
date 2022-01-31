@@ -5,16 +5,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/01/30/americas/ottawa-canada-convoy-protests/index.html",
         "timestamp": 1643588190,
-        "sentiment": -3,
-        "published": "January 31, 2022 12:16 AM"
-    },
-    {
-        "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
-        "domain": "scmp.com",
-        "category": "worldnews",
-        "link": "https://www.scmp.com/news/china/politics/article/3165313/hong-kong-transformed-chaos-governance-last-year-xi-jinping",
-        "timestamp": 1643588201,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 31, 2022 12:16 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
         "timestamp": 1643592392,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 31, 2022 1:26 AM"
     },
     {
@@ -32,17 +23,8 @@
         "category": "worldnews",
         "link": "https://newsinfo.inquirer.net/1546618/taiwan-president-expresses-empathy-for-ukraines-situation",
         "timestamp": 1643593988,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 31, 2022 1:53 AM"
-    },
-    {
-        "title": "Amid scarce supplies, some unvaccinated patients prioritized for COVID treatments",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Health/amid-scarce-supplies-unvaccinated-patients-prioritized-covid-treatments/story?id=82543502",
-        "timestamp": 1643594447,
-        "sentiment": 0,
-        "published": "January 31, 2022 2:00 AM"
     },
     {
         "title": "Conservatives Are Banning Books From Schools While Whining About 'Cancel Culture'",
@@ -68,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.goodnewsnetwork.org/scientists-find-giant-pristine-coral-reef-undiscovered-near-tahiti/#.YfdhJMKAqDU.reddit",
         "timestamp": 1643602247,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 31, 2022 4:10 AM"
     },
     {
@@ -108,13 +90,67 @@
         "published": "January 31, 2022 6:39 AM"
     },
     {
+        "title": "Federal prosecutors reach plea agreement with Travis and Gregory McMichael on hate crime charges in Ahmaud Arbery's death",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/01/31/us/travis-and-greg-mcmichael-plea-deal-ahmaud-arbery-federal-hate-crime-charges/index.html",
+        "timestamp": 1643613918,
+        "sentiment": 0,
+        "published": "January 31, 2022 7:25 AM"
+    },
+    {
+        "title": "Irish fishermen defeat the Russian Navy: Russia will relocate its scheduled military drills so that they take place outside the Irish Exclusive Economic Zone following pressure from Irish fishermen and the Irish Government",
+        "domain": "irishcentral.com",
+        "category": "worldnews",
+        "link": "https://www.irishcentral.com/news/irish-fishermen-defeat-russian-navy",
+        "timestamp": 1643616083,
+        "sentiment": -1,
+        "published": "January 31, 2022 8:01 AM"
+    },
+    {
         "title": "Anti-vaxxer ‘truck driver convoy’ with almost no trucks descends on Parliament House",
         "domain": "thenewdaily.com.au",
         "category": "worldnews",
         "link": "https://thenewdaily.com.au/news/national/2022/01/31/canberra-convoy-anti-vax-parliament/",
         "timestamp": 1643621271,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "January 31, 2022 9:27 AM"
+    },
+    {
+        "title": "Joe Rogan pledges to ‘try harder’ after Spotify misinformation controversy | Joe Rogan",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/culture/2022/jan/31/joe-rogan-pledges-to-try-harder-after-spotify-misinformation-controversy",
+        "timestamp": 1643623141,
+        "sentiment": 0,
+        "published": "January 31, 2022 9:59 AM"
+    },
+    {
+        "title": "Kremlin says UK economic sanctions are attack on Russian businesses",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/kremlin-says-uk-economic-sanctions-are-attack-on-russian-businesses-12529379",
+        "timestamp": 1643626884,
+        "sentiment": -1,
+        "published": "January 31, 2022 11:01 AM"
+    },
+    {
+        "title": "Hong Kong ‘transformed from chaos to governance’ in the last year, Xi Jinping says",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/politics/article/3165313/hong-kong-transformed-chaos-governance-last-year-xi-jinping",
+        "timestamp": 1643588201,
+        "sentiment": -3,
+        "published": "January 31, 2022 12:16 AM"
+    },
+    {
+        "title": "Amid scarce supplies, some unvaccinated patients prioritized for COVID treatments",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/amid-scarce-supplies-unvaccinated-patients-prioritized-covid-treatments/story?id=82543502",
+        "timestamp": 1643594447,
+        "sentiment": 0,
+        "published": "January 31, 2022 2:00 AM"
     },
     {
         "title": "Former Boris Johnson advisor calls Bojo a \"complete fuckwit.\"",
