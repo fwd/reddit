@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/31/politics/ron-desantis-anti-semitic-protests/index.html",
         "timestamp": 1643675832,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 1, 2022 12:37 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 1, 2022 12:38 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/business-food/dominos-pizza-carryout-reward/index.html",
         "timestamp": 1643678236,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 1, 2022 1:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
         "timestamp": 1643678341,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 1, 2022 1:19 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
         "timestamp": 1643678865,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 1, 2022 1:27 AM"
-    },
-    {
-        "title": "‘Titans’ Sets Season 4 Villains: Joseph Morgan As Brother Blood, Franka Potente As Mother Mayhem, Lisa Ambalavanar As Jinx",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/titans-season-4-villains-joseph-morgan-brother-blood-franka-potente-mother-mayhem-lisa-ambalavanar-jinx-1234923540/",
-        "timestamp": 1643679055,
-        "sentiment": 0,
-        "published": "February 1, 2022 1:30 AM"
     },
     {
         "title": "Kiefer Sutherland addresses '24' revival series rumours",
@@ -86,7 +77,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60209527",
         "timestamp": 1643684036,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 1, 2022 2:53 AM"
     },
     {
@@ -95,8 +86,17 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/01/31/us/politics/trump-election-fraud.html?referringSource=articleShare",
         "timestamp": 1643687138,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 1, 2022 3:45 AM"
+    },
+    {
+        "title": "Trump Makes It Clear He’d Be an Out and Out Dictator If Reelected in 2024",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-mike-pence-2020-overturned",
+        "timestamp": 1643693290,
+        "sentiment": -2,
+        "published": "February 1, 2022 5:28 AM"
     },
     {
         "title": "Tampa teen wins right to abortion without parental consent",
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
         "timestamp": 1643697802,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 1, 2022 6:43 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
         "timestamp": 1643702273,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 1, 2022 7:57 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theage.com.au/world/north-america/i-was-born-free-i-ll-die-free-man-turns-down-vaccine-at-expense-of-a-lifesaving-transplant-20220201-p59svm.html",
         "timestamp": 1643706743,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 1, 2022 9:12 AM"
     },
     {
@@ -131,8 +131,35 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/kremlin-freaks-at-plan-to-seize-russian-oligarchs-london-properties-over-ukraine",
         "timestamp": 1643708689,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 1, 2022 9:44 AM"
+    },
+    {
+        "title": "Israel’s apartheid against Palestinians: a cruel system of domination and a crime against humanity",
+        "domain": "amnesty.org",
+        "category": "worldnews",
+        "link": "https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/",
+        "timestamp": 1643709021,
+        "sentiment": 2,
+        "published": "February 1, 2022 9:50 AM"
+    },
+    {
+        "title": "Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
+        "timestamp": 1643713127,
+        "sentiment": 0,
+        "published": "February 1, 2022 10:58 AM"
+    },
+    {
+        "title": "‘Titans’ Sets Season 4 Villains: Joseph Morgan As Brother Blood, Franka Potente As Mother Mayhem, Lisa Ambalavanar As Jinx",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/titans-season-4-villains-joseph-morgan-brother-blood-franka-potente-mother-mayhem-lisa-ambalavanar-jinx-1234923540/",
+        "timestamp": 1643679055,
+        "sentiment": 0,
+        "published": "February 1, 2022 1:30 AM"
     },
     {
         "title": "'All options are on the table' to end truckers' protest: Ottawa police chief",
