@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": -3,
-        "published": "February 1, 2022 12:38 AM"
-    },
-    {
-        "title": "Universal health care bill fails to pass in California",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
-        "timestamp": 1643678341,
         "sentiment": 0,
-        "published": "February 1, 2022 1:19 AM"
+        "published": "February 1, 2022 12:38 AM"
     },
     {
         "title": "Kiefer Sutherland addresses '24' revival series rumours",
@@ -50,17 +41,8 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60209527",
         "timestamp": 1643684036,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 1, 2022 2:53 AM"
-    },
-    {
-        "title": "Trump Makes It Clear He’d Be an Out and Out Dictator If Reelected in 2024",
-        "domain": "vanityfair.com",
-        "category": "politics",
-        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-mike-pence-2020-overturned",
-        "timestamp": 1643693290,
-        "sentiment": -1,
-        "published": "February 1, 2022 5:28 AM"
     },
     {
         "title": "Tampa teen wins right to abortion without parental consent",
@@ -68,7 +50,7 @@
         "category": "news",
         "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
         "timestamp": 1643697802,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 1, 2022 6:43 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
         "timestamp": 1643702273,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 1, 2022 7:57 AM"
     },
     {
@@ -95,8 +77,242 @@
         "category": "worldnews",
         "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
         "timestamp": 1643706068,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 1, 2022 9:01 AM"
+    },
+    {
+        "title": "First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/sport/2022/jan/28/first-female-chess-grandmaster-sues-netflix-queens-gambit",
+        "timestamp": 1643709974,
+        "sentiment": -4,
+        "published": "February 1, 2022 10:06 AM"
+    },
+    {
+        "title": "Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
+        "timestamp": 1643713127,
+        "sentiment": 0,
+        "published": "February 1, 2022 10:58 AM"
+    },
+    {
+        "title": "Trump Reportedly More Directly Involved In Proposal To 'Seize' Voting Machines",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
+        "timestamp": 1643714510,
+        "sentiment": -7,
+        "published": "February 1, 2022 11:21 AM"
+    },
+    {
+        "title": "Trump advisors convinced him to stop promoting vaccines, fearing backlash from his base, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
+        "timestamp": 1643715353,
+        "sentiment": -7,
+        "published": "February 1, 2022 11:35 AM"
+    },
+    {
+        "title": "NASA plans to take International Space Station out of orbit in January 2031 by crashing it into 'spacecraft cemetery'",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/nasa-plans-to-take-international-space-station-out-of-orbit-in-january-2031-by-crashing-it-into-spacecraft-cemetery-12530194",
+        "timestamp": 1643716183,
+        "sentiment": -4,
+        "published": "February 1, 2022 11:49 AM"
+    },
+    {
+        "title": "Trump’s Press Secretary McEnany Handed Over Texts to Capitol Riot Investigators, Report Says",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trumps-press-secretary-kayleigh-mcenany-handed-over-texts-to-capitol-riot-investigators-report-says",
+        "timestamp": 1643716281,
+        "sentiment": -7,
+        "published": "February 1, 2022 11:51 AM"
+    },
+    {
+        "title": "Winter Olympians warned to be careful what they say during Beijing Games",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/feb/01/winter-olympics-warned-careful-what-they-say-beijing-games-2022",
+        "timestamp": 1643718081,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:21 PM"
+    },
+    {
+        "title": "Trump gave $1M to Meadows nonprofit weeks after Jan. 6 panel's creation",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/trump-gave-1m-meadows-nonprofit-weeks-after-jan-6-panel-n1288334",
+        "timestamp": 1643718413,
+        "sentiment": -7,
+        "published": "February 1, 2022 12:26 PM"
+    },
+    {
+        "title": "Russian mercenaries are being pulled from Africa to Eastern Europe as troops amass near Ukraine",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russia-wagner-group-mercenaries-leave-africa-eastern-europe-report-2022-2",
+        "timestamp": 1643718758,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:32 PM"
+    },
+    {
+        "title": "Texas law barring state contractors from boycotting Israel violates firm’s free speech, federal judge rules",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/31/texas-boycott-israel-lawsuit/",
+        "timestamp": 1643719059,
+        "sentiment": -7,
+        "published": "February 1, 2022 12:37 PM"
+    },
+    {
+        "title": "Kyrsten Sinema’s New Republican Friends Aren’t Going to Vote for Her",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/01/sinemas-new-republican-friends-arent-going-to-vote-for-her.html",
+        "timestamp": 1643719399,
+        "sentiment": -7,
+        "published": "February 1, 2022 12:43 PM"
+    },
+    {
+        "title": "Firefighter in California fatally shot while putting out dumpster fire, officials say",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/firefighter-california-fatally-shot-putting-dumpster-fire-officials-sa-rcna14285",
+        "timestamp": 1643719490,
+        "sentiment": -4,
+        "published": "February 1, 2022 12:44 PM"
+    },
+    {
+        "title": "China more ‘brazen and damaging’ than ever, says FBI director",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/01/china-more-brazen-and-damaging-than-ever-says-fbi-director",
+        "timestamp": 1643719914,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:51 PM"
+    },
+    {
+        "title": "Tesla recall: \"Full Self-Driving\" software runs stop signs",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/tesla-recall-full-self-driving-software-e23d252ac5164cb0e7af776625b15180",
+        "timestamp": 1643720298,
+        "sentiment": -4,
+        "published": "February 1, 2022 12:58 PM"
+    },
+    {
+        "title": "Little of the Paycheck Protection Program’s $800 Billion Protected Paychecks - Only about a quarter of the funding went to jobs that would have been lost, new research found. A big chunk lined bosses’ pockets.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/01/business/paycheck-protection-program-costs.html",
+        "timestamp": 1643720695,
+        "sentiment": -7,
+        "published": "February 1, 2022 1:04 PM"
+    },
+    {
+        "title": "New Financial Disclosures Show Kyrsten Sinema Is Raking in Cash from Big GOP Donors",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/kyrsten-sinema-fundraising-republican-donors-1293087/",
+        "timestamp": 1643721090,
+        "sentiment": -7,
+        "published": "February 1, 2022 1:11 PM"
+    },
+    {
+        "title": "AT&T Sets Plan to Spin Off WarnerMedia in $43 Billion Deal",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
+        "timestamp": 1643722882,
+        "sentiment": 0,
+        "published": "February 1, 2022 1:41 PM"
+    },
+    {
+        "title": "Whoopi Goldberg apologizes for saying the Holocaust was not about race",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/rcna14340",
+        "timestamp": 1643724592,
+        "sentiment": -4,
+        "published": "February 1, 2022 2:09 PM"
+    },
+    {
+        "title": "Mich. GOP governor candidate said rape victims shouldn’t have abortions: ‘Baby inside them may be the next president’",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/02/01/garrett-soldano-abortion-michigan-republican-governor/",
+        "timestamp": 1643724833,
+        "sentiment": -7,
+        "published": "February 1, 2022 2:13 PM"
+    },
+    {
+        "title": "Britain, Poland and Ukraine Preparing Trilateral Security Pact, Kyiv Says",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-02-01/britain-poland-and-ukraine-preparing-trilateral-security-pact-kyiv-says",
+        "timestamp": 1643725184,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:19 PM"
+    },
+    {
+        "title": "Donald Trump is in ‘burn it all down mode’ as investigations close in around him",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-investigations-6-january-b2005011.html",
+        "timestamp": 1643727124,
+        "sentiment": -7,
+        "published": "February 1, 2022 2:52 PM"
+    },
+    {
+        "title": "At least 12 HBCUs get bomb threats on the first day of Black History Month",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/01/us/hbcu-bomb-threats-tuesday/index.html",
+        "timestamp": 1643727745,
+        "sentiment": -4,
+        "published": "February 1, 2022 3:02 PM"
+    },
+    {
+        "title": "TV Ratings: Rams-49ers Game Scores 50 Million Viewers, Most-Watched NFC Championship in 8 Years",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
+        "timestamp": 1643729889,
+        "sentiment": 0,
+        "published": "February 1, 2022 3:38 PM"
+    },
+    {
+        "title": "Rhone Talsma, the man who ended Amy Schneider's historic 'Jeopardy!' streak, joins her growing call to hire Ken Jennings as permanent host",
+        "domain": "theweek.com",
+        "category": "television",
+        "link": "https://theweek.com/jeopardy/1009607/jeopardy-champion-amy-schneider-wants-ken-jennings-to-be-named-permanent-host",
+        "timestamp": 1643733841,
+        "sentiment": 0,
+        "published": "February 1, 2022 4:44 PM"
+    },
+    {
+        "title": "Universal health care bill fails to pass in California",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
+        "timestamp": 1643678341,
+        "sentiment": 0,
+        "published": "February 1, 2022 1:19 AM"
+    },
+    {
+        "title": "Trump Makes It Clear He’d Be an Out and Out Dictator If Reelected in 2024",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-mike-pence-2020-overturned",
+        "timestamp": 1643693290,
+        "sentiment": -1,
+        "published": "February 1, 2022 5:28 AM"
     },
     {
         "title": "Palestinians treated as ‘inferior racial group and systematically deprived of their rights’",
@@ -117,150 +333,6 @@
         "published": "February 1, 2022 9:50 AM"
     },
     {
-        "title": "First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/sport/2022/jan/28/first-female-chess-grandmaster-sues-netflix-queens-gambit",
-        "timestamp": 1643709974,
-        "sentiment": 0,
-        "published": "February 1, 2022 10:06 AM"
-    },
-    {
-        "title": "Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
-        "timestamp": 1643713127,
-        "sentiment": 0,
-        "published": "February 1, 2022 10:58 AM"
-    },
-    {
-        "title": "Trump Reportedly More Directly Involved In Proposal To 'Seize' Voting Machines",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
-        "timestamp": 1643714510,
-        "sentiment": -1,
-        "published": "February 1, 2022 11:21 AM"
-    },
-    {
-        "title": "Trump advisors convinced him to stop promoting vaccines, fearing backlash from his base, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
-        "timestamp": 1643715353,
-        "sentiment": -1,
-        "published": "February 1, 2022 11:35 AM"
-    },
-    {
-        "title": "NASA plans to take International Space Station out of orbit in January 2031 by crashing it into 'spacecraft cemetery'",
-        "domain": "news.sky.com",
-        "category": "news",
-        "link": "https://news.sky.com/story/nasa-plans-to-take-international-space-station-out-of-orbit-in-january-2031-by-crashing-it-into-spacecraft-cemetery-12530194",
-        "timestamp": 1643716183,
-        "sentiment": 0,
-        "published": "February 1, 2022 11:49 AM"
-    },
-    {
-        "title": "Trump’s Press Secretary McEnany Handed Over Texts to Capitol Riot Investigators, Report Says",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/trumps-press-secretary-kayleigh-mcenany-handed-over-texts-to-capitol-riot-investigators-report-says",
-        "timestamp": 1643716281,
-        "sentiment": -1,
-        "published": "February 1, 2022 11:51 AM"
-    },
-    {
-        "title": "Winter Olympians warned to be careful what they say during Beijing Games",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/sport/2022/feb/01/winter-olympics-warned-careful-what-they-say-beijing-games-2022",
-        "timestamp": 1643718081,
-        "sentiment": -3,
-        "published": "February 1, 2022 12:21 PM"
-    },
-    {
-        "title": "Trump gave $1M to Meadows nonprofit weeks after Jan. 6 panel's creation",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/politics-news/trump-gave-1m-meadows-nonprofit-weeks-after-jan-6-panel-n1288334",
-        "timestamp": 1643718413,
-        "sentiment": -1,
-        "published": "February 1, 2022 12:26 PM"
-    },
-    {
-        "title": "Texas law barring state contractors from boycotting Israel violates firm’s free speech, federal judge rules",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/01/31/texas-boycott-israel-lawsuit/",
-        "timestamp": 1643719059,
-        "sentiment": -1,
-        "published": "February 1, 2022 12:37 PM"
-    },
-    {
-        "title": "Kyrsten Sinema’s New Republican Friends Aren’t Going to Vote for Her",
-        "domain": "nymag.com",
-        "category": "politics",
-        "link": "https://nymag.com/intelligencer/2022/01/sinemas-new-republican-friends-arent-going-to-vote-for-her.html",
-        "timestamp": 1643719399,
-        "sentiment": -1,
-        "published": "February 1, 2022 12:43 PM"
-    },
-    {
-        "title": "Firefighter in California fatally shot while putting out dumpster fire, officials say",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/firefighter-california-fatally-shot-putting-dumpster-fire-officials-sa-rcna14285",
-        "timestamp": 1643719490,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:44 PM"
-    },
-    {
-        "title": "Tesla recall: \"Full Self-Driving\" software runs stop signs",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/tesla-recall-full-self-driving-software-e23d252ac5164cb0e7af776625b15180",
-        "timestamp": 1643720298,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:58 PM"
-    },
-    {
-        "title": "Little of the Paycheck Protection Program’s $800 Billion Protected Paychecks - Only about a quarter of the funding went to jobs that would have been lost, new research found. A big chunk lined bosses’ pockets.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/02/01/business/paycheck-protection-program-costs.html",
-        "timestamp": 1643720695,
-        "sentiment": -1,
-        "published": "February 1, 2022 1:04 PM"
-    },
-    {
-        "title": "New Financial Disclosures Show Kyrsten Sinema Is Raking in Cash from Big GOP Donors",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/kyrsten-sinema-fundraising-republican-donors-1293087/",
-        "timestamp": 1643721090,
-        "sentiment": -1,
-        "published": "February 1, 2022 1:11 PM"
-    },
-    {
-        "title": "AT&T Sets Plan to Spin Off WarnerMedia in $43 Billion Deal",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
-        "timestamp": 1643722882,
-        "sentiment": 0,
-        "published": "February 1, 2022 1:41 PM"
-    },
-    {
-        "title": "Whoopi Goldberg apologizes for saying the Holocaust was not about race",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/rcna14340",
-        "timestamp": 1643724592,
-        "sentiment": 0,
-        "published": "February 1, 2022 2:09 PM"
-    },
-    {
         "title": "Anger in China as Keanu Reeves joins benefit concert for Tibet",
         "domain": "news.com.au",
         "category": "worldnews",
@@ -277,15 +349,6 @@
         "timestamp": 1643728263,
         "sentiment": 0,
         "published": "February 1, 2022 3:11 PM"
-    },
-    {
-        "title": "TV Ratings: Rams-49ers Game Scores 50 Million Viewers, Most-Watched NFC Championship in 8 Years",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
-        "timestamp": 1643729889,
-        "sentiment": 0,
-        "published": "February 1, 2022 3:38 PM"
     },
     {
         "title": "DeSantis says people calling for him to condemn Nazis are trying to 'smear' him",
