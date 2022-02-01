@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 1, 2022 12:38 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/business-food/dominos-pizza-carryout-reward/index.html",
         "timestamp": 1643678236,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 1:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
         "timestamp": 1643678341,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 1:19 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60209527",
         "timestamp": 1643684036,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 2:53 AM"
+    },
+    {
+        "title": "Trump Had Role in Weighing Proposals to Seize Voting Machines",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/31/us/politics/trump-election-fraud.html?referringSource=articleShare",
+        "timestamp": 1643687138,
+        "sentiment": 0,
+        "published": "February 1, 2022 3:45 AM"
     },
     {
         "title": "Soul Train Creator Don Cornelius Accused of Tying Up, Sexually Assaulting Playboy Bunnies in New Docuseries",
