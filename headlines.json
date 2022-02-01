@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "February 1, 2022 12:38 AM"
     },
     {
@@ -36,6 +36,15 @@
         "published": "February 1, 2022 1:17 AM"
     },
     {
+        "title": "Universal health care bill fails to pass in California",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
+        "timestamp": 1643678341,
+        "sentiment": -1,
+        "published": "February 1, 2022 1:19 AM"
+    },
+    {
         "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
         "domain": "cnn.com",
         "category": "politics",
@@ -43,15 +52,6 @@
         "timestamp": 1643678865,
         "sentiment": 0,
         "published": "February 1, 2022 1:27 AM"
-    },
-    {
-        "title": "Soros Warns: China is Facing Economic Crisis",
-        "domain": "amp.cnn.com",
-        "category": "worldnews",
-        "link": "https://amp.cnn.com/cnn/2022/01/31/investing/george-soros-china-real-estate/index.html",
-        "timestamp": 1643680270,
-        "sentiment": -4,
-        "published": "February 1, 2022 1:51 AM"
     },
     {
         "title": "Kiefer Sutherland addresses '24' revival series rumours",
@@ -79,6 +79,24 @@
         "timestamp": 1643684036,
         "sentiment": -1,
         "published": "February 1, 2022 2:53 AM"
+    },
+    {
+        "title": "Soul Train Creator Don Cornelius Accused of Tying Up, Sexually Assaulting Playboy Bunnies in New Docuseries",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/crime/don-cornelius-former-soul-train-host-accused-of-sexual-assault-in-secrets-of-playboy-docuseries/",
+        "timestamp": 1643689748,
+        "sentiment": 0,
+        "published": "February 1, 2022 4:29 AM"
+    },
+    {
+        "title": "Soros Warns: China is Facing Economic Crisis",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2022/01/31/investing/george-soros-china-real-estate/index.html",
+        "timestamp": 1643680270,
+        "sentiment": -4,
+        "published": "February 1, 2022 1:51 AM"
     },
     {
         "title": "Amnesty to release ‘apartheid’ report despite Israeli call not to",
