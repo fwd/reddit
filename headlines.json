@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/brett-goldstein-warner-bros-ted-lasso-1235167707/",
         "timestamp": 1643674619,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
         "timestamp": 1643681996,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 2:19 AM"
     },
     {
@@ -45,15 +45,6 @@
         "published": "February 1, 2022 7:57 AM"
     },
     {
-        "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
-        "domain": "kommunikasjon.ntb.no",
-        "category": "worldnews",
-        "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
-        "timestamp": 1643706068,
-        "sentiment": 0,
-        "published": "February 1, 2022 9:01 AM"
-    },
-    {
         "title": "First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess",
         "domain": "theguardian.com",
         "category": "news",
@@ -68,7 +59,7 @@
         "category": "television",
         "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
         "timestamp": 1643713127,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 10:58 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
         "timestamp": 1643722882,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 1:41 PM"
     },
     {
@@ -257,17 +248,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
         "timestamp": 1643729889,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 3:38 PM"
-    },
-    {
-        "title": "'The Responder': Martin Freeman is magnificent in tour de police force. The drama written by an ex-cop is as riveting as a thriller and as profound as a documentary.",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/the-responder-review-martin-freeman-is-magnificent-in-tour-de-police-force",
-        "timestamp": 1643730235,
-        "sentiment": 0,
-        "published": "February 1, 2022 3:43 PM"
     },
     {
         "title": "[Irish] Defence Forces admit they cannot meaningfully defend Ireland",
@@ -284,7 +266,7 @@
         "category": "television",
         "link": "https://collider.com/abbott-elementary-why-its-good/",
         "timestamp": 1643732711,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 4:25 PM"
     },
     {
@@ -329,8 +311,62 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/mayor-of-kingstown-renewe-season-2-paramount-1234923651/",
         "timestamp": 1643737166,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 1, 2022 5:39 PM"
+    },
+    {
+        "title": "4-year-old shoots self in car while mom smokes weed in front seat, Louisiana cops say",
+        "domain": "sunherald.com",
+        "category": "news",
+        "link": "https://www.sunherald.com/news/nation-world/national/article257918983.html",
+        "timestamp": 1643737661,
+        "sentiment": 0,
+        "published": "February 1, 2022 5:47 PM"
+    },
+    {
+        "title": "Illegal overfishing by Chinese trawlers leaves Sierra Leone locals ‘starving’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/feb/01/sierra-leone-families-starving-chinese-trawlers-industrial-overfishing-destroying-lives",
+        "timestamp": 1643739121,
+        "sentiment": 0,
+        "published": "February 1, 2022 6:12 PM"
+    },
+    {
+        "title": "‘Foundation’ Season 2 Releases First Photo, 10 Cast Additions",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/02/01/foundation-season-2-first-photo-cast-additions-ben-daniels/",
+        "timestamp": 1643739218,
+        "sentiment": 4,
+        "published": "February 1, 2022 6:13 PM"
+    },
+    {
+        "title": "'Loki' Season 2 Set to Begin Filming in Summer 2022",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/753509/loki-season-2-reportedly-set-to-begin-filming-this-summer/",
+        "timestamp": 1643741095,
+        "sentiment": 4,
+        "published": "February 1, 2022 6:44 PM"
+    },
+    {
+        "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
+        "domain": "kommunikasjon.ntb.no",
+        "category": "worldnews",
+        "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
+        "timestamp": 1643706068,
+        "sentiment": 0,
+        "published": "February 1, 2022 9:01 AM"
+    },
+    {
+        "title": "'The Responder': Martin Freeman is magnificent in tour de police force. The drama written by an ex-cop is as riveting as a thriller and as profound as a documentary.",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/the-responder-review-martin-freeman-is-magnificent-in-tour-de-police-force",
+        "timestamp": 1643730235,
+        "sentiment": 0,
+        "published": "February 1, 2022 3:43 PM"
     },
     {
         "title": "Rhone Talsma, the man who ended Amy Schneider's historic 'Jeopardy!' streak, joins her growing call to hire Ken Jennings as permanent host",
