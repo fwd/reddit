@@ -5,26 +5,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/brett-goldstein-warner-bros-ted-lasso-1235167707/",
         "timestamp": 1643674619,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 12:16 AM"
-    },
-    {
-        "title": "‘We only have a pen’: fury as fourth journalist killed in Mexico this year | Mexico | The Guardian",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
-        "timestamp": 1643675906,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:38 AM"
-    },
-    {
-        "title": "Kiefer Sutherland addresses '24' revival series rumours",
-        "domain": "nme.com",
-        "category": "television",
-        "link": "https://www.nme.com/news/tv/kiefer-sutherland-addresses-24-revival-series-rumours-3150831",
-        "timestamp": 1643681272,
-        "sentiment": 0,
-        "published": "February 1, 2022 2:07 AM"
     },
     {
         "title": "'Walking Dead' Actor Moses J. Moseley Dead At 31",
@@ -32,7 +14,7 @@
         "category": "television",
         "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
         "timestamp": 1643681996,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 2:19 AM"
     },
     {
@@ -59,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
         "timestamp": 1643702273,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 7:57 AM"
-    },
-    {
-        "title": "HBO Max to Launch in 15 More European Markets in March (including Portugal &Netherlands)",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/business/digital/hbo-max-europe-launch-netherlands-portugal-markets-1235082529/",
-        "timestamp": 1643705250,
-        "sentiment": 0,
-        "published": "February 1, 2022 8:47 AM"
     },
     {
         "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
@@ -77,7 +50,7 @@
         "category": "worldnews",
         "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
         "timestamp": 1643706068,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 9:01 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "television",
         "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
         "timestamp": 1643713127,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 10:58 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
         "timestamp": 1643714510,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 11:21 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
         "timestamp": 1643715353,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 11:35 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trumps-press-secretary-kayleigh-mcenany-handed-over-texts-to-capitol-riot-investigators-report-says",
         "timestamp": 1643716281,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 11:51 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/sport/2022/feb/01/winter-olympics-warned-careful-what-they-say-beijing-games-2022",
         "timestamp": 1643718081,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 12:21 PM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/politics-news/trump-gave-1m-meadows-nonprofit-weeks-after-jan-6-panel-n1288334",
         "timestamp": 1643718413,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 12:26 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-wagner-group-mercenaries-leave-africa-eastern-europe-report-2022-2",
         "timestamp": 1643718758,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 12:32 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/01/31/texas-boycott-israel-lawsuit/",
         "timestamp": 1643719059,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 12:37 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/01/sinemas-new-republican-friends-arent-going-to-vote-for-her.html",
         "timestamp": 1643719399,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 12:43 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/01/china-more-brazen-and-damaging-than-ever-says-fbi-director",
         "timestamp": 1643719914,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 12:51 PM"
     },
     {
@@ -207,21 +180,12 @@
         "published": "February 1, 2022 12:58 PM"
     },
     {
-        "title": "Little of the Paycheck Protection Program’s $800 Billion Protected Paychecks - Only about a quarter of the funding went to jobs that would have been lost, new research found. A big chunk lined bosses’ pockets.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/02/01/business/paycheck-protection-program-costs.html",
-        "timestamp": 1643720695,
-        "sentiment": -7,
-        "published": "February 1, 2022 1:04 PM"
-    },
-    {
         "title": "New Financial Disclosures Show Kyrsten Sinema Is Raking in Cash from Big GOP Donors",
         "domain": "rollingstone.com",
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/kyrsten-sinema-fundraising-republican-donors-1293087/",
         "timestamp": 1643721090,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 1:11 PM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
         "timestamp": 1643722882,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 1:41 PM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/nation/2022/02/01/garrett-soldano-abortion-michigan-republican-governor/",
         "timestamp": 1643724833,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 2:13 PM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/world/articles/2022-02-01/britain-poland-and-ukraine-preparing-trilateral-security-pact-kyiv-says",
         "timestamp": 1643725184,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 1, 2022 2:19 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-investigations-6-january-b2005011.html",
         "timestamp": 1643727124,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 1, 2022 2:52 PM"
     },
     {
@@ -279,13 +243,49 @@
         "published": "February 1, 2022 3:02 PM"
     },
     {
+        "title": "Phase I trial begins for Moderna's mRNA HIV vaccine.",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/breaking-news/article-695008",
+        "timestamp": 1643728725,
+        "sentiment": -1,
+        "published": "February 1, 2022 3:18 PM"
+    },
+    {
         "title": "TV Ratings: Rams-49ers Game Scores 50 Million Viewers, Most-Watched NFC Championship in 8 Years",
         "domain": "variety.com",
         "category": "television",
         "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
         "timestamp": 1643729889,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 3:38 PM"
+    },
+    {
+        "title": "'The Responder': Martin Freeman is magnificent in tour de police force. The drama written by an ex-cop is as riveting as a thriller and as profound as a documentary.",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jan/24/the-responder-review-martin-freeman-is-magnificent-in-tour-de-police-force",
+        "timestamp": 1643730235,
+        "sentiment": 6,
+        "published": "February 1, 2022 3:43 PM"
+    },
+    {
+        "title": "[Irish] Defence Forces admit they cannot meaningfully defend Ireland",
+        "domain": "independent.ie",
+        "category": "worldnews",
+        "link": "https://www.independent.ie/irish-news/defence-forces-admit-they-cannot-meaningfully-defend-ireland-41292277.html",
+        "timestamp": 1643730886,
+        "sentiment": -1,
+        "published": "February 1, 2022 3:54 PM"
+    },
+    {
+        "title": "How 'Abbott Elementary' Evolves the Mockumentary Sitcom",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/abbott-elementary-why-its-good/",
+        "timestamp": 1643732711,
+        "sentiment": 6,
+        "published": "February 1, 2022 4:25 PM"
     },
     {
         "title": "Rhone Talsma, the man who ended Amy Schneider's historic 'Jeopardy!' streak, joins her growing call to hire Ken Jennings as permanent host",
@@ -293,8 +293,62 @@
         "category": "television",
         "link": "https://theweek.com/jeopardy/1009607/jeopardy-champion-amy-schneider-wants-ken-jennings-to-be-named-permanent-host",
         "timestamp": 1643733841,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 4:44 PM"
+    },
+    {
+        "title": "Putin: US and allies have ignored Russia's security demands | AP News",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-putin-nato-87d17dd0c1943ac40b3903b54f31939a",
+        "timestamp": 1643735345,
+        "sentiment": -1,
+        "published": "February 1, 2022 5:09 PM"
+    },
+    {
+        "title": "George W. Bush maxes out political donations to Trump impeachment supporters Liz Cheney and Lisa Murkowski",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/george-bush-maximum-donation-liz-cheney-lisa-murkowski-trump-impeachment-2022-2",
+        "timestamp": 1643735473,
+        "sentiment": 0,
+        "published": "February 1, 2022 5:11 PM"
+    },
+    {
+        "title": "‘We only have a pen’: fury as fourth journalist killed in Mexico this year | Mexico | The Guardian",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
+        "timestamp": 1643675906,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:38 AM"
+    },
+    {
+        "title": "Kiefer Sutherland addresses '24' revival series rumours",
+        "domain": "nme.com",
+        "category": "television",
+        "link": "https://www.nme.com/news/tv/kiefer-sutherland-addresses-24-revival-series-rumours-3150831",
+        "timestamp": 1643681272,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:07 AM"
+    },
+    {
+        "title": "HBO Max to Launch in 15 More European Markets in March (including Portugal &Netherlands)",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/digital/hbo-max-europe-launch-netherlands-portugal-markets-1235082529/",
+        "timestamp": 1643705250,
+        "sentiment": 0,
+        "published": "February 1, 2022 8:47 AM"
+    },
+    {
+        "title": "Little of the Paycheck Protection Program’s $800 Billion Protected Paychecks - Only about a quarter of the funding went to jobs that would have been lost, new research found. A big chunk lined bosses’ pockets.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/01/business/paycheck-protection-program-costs.html",
+        "timestamp": 1643720695,
+        "sentiment": -7,
+        "published": "February 1, 2022 1:04 PM"
     },
     {
         "title": "Universal health care bill fails to pass in California",
