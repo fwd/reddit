@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/brett-goldstein-warner-bros-ted-lasso-1235167707/",
         "timestamp": 1643674619,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
         "timestamp": 1643681996,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 2:19 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
         "timestamp": 1643713127,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 10:58 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
         "timestamp": 1643714510,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 11:21 AM"
-    },
-    {
-        "title": "Trump advisors convinced him to stop promoting vaccines, fearing backlash from his base, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
-        "timestamp": 1643715353,
-        "sentiment": -1,
-        "published": "February 1, 2022 11:35 AM"
     },
     {
         "title": "NASA plans to take International Space Station out of orbit in January 2031 by crashing it into 'spacecraft cemetery'",
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trumps-press-secretary-kayleigh-mcenany-handed-over-texts-to-capitol-riot-investigators-report-says",
         "timestamp": 1643716281,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 11:51 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/kyrsten-sinema-fundraising-republican-donors-1293087/",
         "timestamp": 1643721090,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 1:11 PM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "television",
         "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
         "timestamp": 1643722882,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 1:41 PM"
     },
     {
@@ -149,17 +140,8 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/nation/2022/02/01/garrett-soldano-abortion-michigan-republican-governor/",
         "timestamp": 1643724833,
-        "sentiment": -1,
-        "published": "February 1, 2022 2:13 PM"
-    },
-    {
-        "title": "Britain, Poland and Ukraine Preparing Trilateral Security Pact, Kyiv Says",
-        "domain": "usnews.com",
-        "category": "worldnews",
-        "link": "https://www.usnews.com/news/world/articles/2022-02-01/britain-poland-and-ukraine-preparing-trilateral-security-pact-kyiv-says",
-        "timestamp": 1643725184,
         "sentiment": 0,
-        "published": "February 1, 2022 2:19 PM"
+        "published": "February 1, 2022 2:13 PM"
     },
     {
         "title": "Donald Trump is in ‘burn it all down mode’ as investigations close in around him",
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-investigations-6-january-b2005011.html",
         "timestamp": 1643727124,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 2:52 PM"
     },
     {
@@ -194,17 +176,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
         "timestamp": 1643729889,
-        "sentiment": 3,
-        "published": "February 1, 2022 3:38 PM"
-    },
-    {
-        "title": "[Irish] Defence Forces admit they cannot meaningfully defend Ireland",
-        "domain": "independent.ie",
-        "category": "worldnews",
-        "link": "https://www.independent.ie/irish-news/defence-forces-admit-they-cannot-meaningfully-defend-ireland-41292277.html",
-        "timestamp": 1643730886,
         "sentiment": 0,
-        "published": "February 1, 2022 3:54 PM"
+        "published": "February 1, 2022 3:38 PM"
     },
     {
         "title": "Court rejects Norwegian mass killer Breivik's parole application",
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://www.miamiherald.com/opinion/editorials/article257906108.html",
         "timestamp": 1643733859,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 4:44 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/george-bush-maximum-donation-liz-cheney-lisa-murkowski-trump-impeachment-2022-2",
         "timestamp": 1643735473,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 5:11 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-says-pence-should-be-investigated-for-not-reversing-his-election-loss?via=twitter_page",
         "timestamp": 1643735589,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 5:13 PM"
     },
     {
@@ -277,15 +250,6 @@
         "timestamp": 1643736142,
         "sentiment": 0,
         "published": "February 1, 2022 5:22 PM"
-    },
-    {
-        "title": "‘Mayor Of Kingstown’ Renewed For Season 2 At Paramount+",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/mayor-of-kingstown-renewe-season-2-paramount-1234923651/",
-        "timestamp": 1643737166,
-        "sentiment": 3,
-        "published": "February 1, 2022 5:39 PM"
     },
     {
         "title": "4-year-old shoots self in car while mom smokes weed in front seat, Louisiana cops say",
@@ -302,7 +266,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/02/01/foundation-season-2-first-photo-cast-additions-ben-daniels/",
         "timestamp": 1643739218,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 6:13 PM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "politics",
         "link": "https://www.newsobserver.com/news/politics-government/article257917708.html",
         "timestamp": 1643739984,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 1, 2022 6:26 PM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/753509/loki-season-2-reportedly-set-to-begin-filming-this-summer/",
         "timestamp": 1643741095,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 6:44 PM"
     },
     {
@@ -338,8 +302,26 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/hells-kitchen-renewed-two-more-seasons-fox-gordon-ramsay-1234924136/",
         "timestamp": 1643743880,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 7:31 PM"
+    },
+    {
+        "title": "Video: Republican candidate Mike Detmer tells voters to 'show up armed' to polls",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2022/02/01/gop-candidate-tells-voters-to-show-up-armed-to-polls-detmer-michigan-sot-jarrett-newday-vpx.cnn",
+        "timestamp": 1643743935,
+        "sentiment": 0,
+        "published": "February 1, 2022 7:32 PM"
+    },
+    {
+        "title": "Vice Media secretly organized $20m Saudi government festival",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/media/2022/feb/01/vice-media-secretly-organised-20m-saudi-government-festival",
+        "timestamp": 1643744481,
+        "sentiment": 0,
+        "published": "February 1, 2022 7:41 PM"
     },
     {
         "title": "‘In Living Color’ Producer Donates Show Archive to National Comedy Center",
@@ -347,7 +329,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/in-living-color-tv-series-archive-national-comedy-museum-1235082963/",
         "timestamp": 1643745506,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 1, 2022 7:58 PM"
     },
     {
@@ -358,6 +340,60 @@
         "timestamp": 1643745915,
         "sentiment": 0,
         "published": "February 1, 2022 8:05 PM"
+    },
+    {
+        "title": "Anti-Vax Trucker Convoy Has Shut Down a Chunk of the Canada-US Border",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/dypxnz/anti-vax-trucker-convoy-blocks-canada-us-border",
+        "timestamp": 1643752063,
+        "sentiment": 0,
+        "published": "February 1, 2022 9:47 PM"
+    },
+    {
+        "title": "Ricky Gervais Says He’s Going To Try And Get Cancelled With Next Stand Up Show",
+        "domain": "ladbible.com",
+        "category": "television",
+        "link": "https://www.ladbible.com/entertainment/ricky-gervais-wants-cancelled-new-show-20220201",
+        "timestamp": 1643754245,
+        "sentiment": 0,
+        "published": "February 1, 2022 10:24 PM"
+    },
+    {
+        "title": "Trump advisors convinced him to stop promoting vaccines, fearing backlash from his base, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
+        "timestamp": 1643715353,
+        "sentiment": -1,
+        "published": "February 1, 2022 11:35 AM"
+    },
+    {
+        "title": "Britain, Poland and Ukraine Preparing Trilateral Security Pact, Kyiv Says",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-02-01/britain-poland-and-ukraine-preparing-trilateral-security-pact-kyiv-says",
+        "timestamp": 1643725184,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:19 PM"
+    },
+    {
+        "title": "[Irish] Defence Forces admit they cannot meaningfully defend Ireland",
+        "domain": "independent.ie",
+        "category": "worldnews",
+        "link": "https://www.independent.ie/irish-news/defence-forces-admit-they-cannot-meaningfully-defend-ireland-41292277.html",
+        "timestamp": 1643730886,
+        "sentiment": 0,
+        "published": "February 1, 2022 3:54 PM"
+    },
+    {
+        "title": "‘Mayor Of Kingstown’ Renewed For Season 2 At Paramount+",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/mayor-of-kingstown-renewe-season-2-paramount-1234923651/",
+        "timestamp": 1643737166,
+        "sentiment": 3,
+        "published": "February 1, 2022 5:39 PM"
     },
     {
         "title": "Trump gave $1M to Meadows nonprofit weeks after Jan. 6 panel's creation",
