@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 1, 2022 12:38 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/business-food/dominos-pizza-carryout-reward/index.html",
         "timestamp": 1643678236,
-        "sentiment": 6,
+        "sentiment": -1,
         "published": "February 1, 2022 1:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
         "timestamp": 1643678341,
-        "sentiment": 6,
+        "sentiment": -1,
         "published": "February 1, 2022 1:19 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60209527",
         "timestamp": 1643684036,
-        "sentiment": 6,
+        "sentiment": -1,
         "published": "February 1, 2022 2:53 AM"
     },
     {
@@ -99,13 +99,31 @@
         "published": "February 1, 2022 4:29 AM"
     },
     {
+        "title": "'All options are on the table' to end truckers' protest: Ottawa police chief",
+        "domain": "ottawa.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://ottawa.ctvnews.ca/all-options-are-on-the-table-to-end-truckers-protest-ottawa-police-chief-1.5760880",
+        "timestamp": 1643692632,
+        "sentiment": -4,
+        "published": "February 1, 2022 5:17 AM"
+    },
+    {
         "title": "Tampa teen wins right to abortion without parental consent",
         "domain": "fox13news.com",
         "category": "news",
         "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
         "timestamp": 1643697802,
-        "sentiment": 6,
+        "sentiment": -1,
         "published": "February 1, 2022 6:43 AM"
+    },
+    {
+        "title": "New Zealand’s Catholic church admits 14% of clergy have been accused of abuse since 1950",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
+        "timestamp": 1643702273,
+        "sentiment": -4,
+        "published": "February 1, 2022 7:57 AM"
     },
     {
         "title": "Soros Warns: China is Facing Economic Crisis",
