@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/brett-goldstein-warner-bros-ted-lasso-1235167707/",
         "timestamp": 1643674619,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 1, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/01/31/politics/ron-desantis-anti-semitic-protests/index.html",
         "timestamp": 1643675832,
-        "sentiment": -11,
+        "sentiment": 1,
         "published": "February 1, 2022 12:37 AM"
     },
     {
@@ -23,8 +23,206 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo",
         "timestamp": 1643675906,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 1, 2022 12:38 AM"
+    },
+    {
+        "title": "Universal health care bill fails to pass in California",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
+        "timestamp": 1643678341,
+        "sentiment": 2,
+        "published": "February 1, 2022 1:19 AM"
+    },
+    {
+        "title": "‘Titans’ Sets Season 4 Villains: Joseph Morgan As Brother Blood, Franka Potente As Mother Mayhem, Lisa Ambalavanar As Jinx",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/01/titans-season-4-villains-joseph-morgan-brother-blood-franka-potente-mother-mayhem-lisa-ambalavanar-jinx-1234923540/",
+        "timestamp": 1643679055,
+        "sentiment": 0,
+        "published": "February 1, 2022 1:30 AM"
+    },
+    {
+        "title": "Kiefer Sutherland addresses '24' revival series rumours",
+        "domain": "nme.com",
+        "category": "television",
+        "link": "https://www.nme.com/news/tv/kiefer-sutherland-addresses-24-revival-series-rumours-3150831",
+        "timestamp": 1643681272,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:07 AM"
+    },
+    {
+        "title": "'Walking Dead' Actor Moses J. Moseley Dead At 31",
+        "domain": "huffpost.com",
+        "category": "television",
+        "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
+        "timestamp": 1643681996,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:19 AM"
+    },
+    {
+        "title": "Whoopi Goldberg slammed for saying Holocaust not about race",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-60209527",
+        "timestamp": 1643684036,
+        "sentiment": 2,
+        "published": "February 1, 2022 2:53 AM"
+    },
+    {
+        "title": "Trump Had Role in Weighing Proposals to Seize Voting Machines",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/01/31/us/politics/trump-election-fraud.html?referringSource=articleShare",
+        "timestamp": 1643687138,
+        "sentiment": 1,
+        "published": "February 1, 2022 3:45 AM"
+    },
+    {
+        "title": "Trump Makes It Clear He’d Be an Out and Out Dictator If Reelected in 2024",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-mike-pence-2020-overturned",
+        "timestamp": 1643693290,
+        "sentiment": 1,
+        "published": "February 1, 2022 5:28 AM"
+    },
+    {
+        "title": "Tampa teen wins right to abortion without parental consent",
+        "domain": "fox13news.com",
+        "category": "news",
+        "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
+        "timestamp": 1643697802,
+        "sentiment": 2,
+        "published": "February 1, 2022 6:43 AM"
+    },
+    {
+        "title": "New Zealand’s Catholic church admits 14% of clergy have been accused of abuse since 1950",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
+        "timestamp": 1643702273,
+        "sentiment": 0,
+        "published": "February 1, 2022 7:57 AM"
+    },
+    {
+        "title": "HBO Max to Launch in 15 More European Markets in March (including Portugal &Netherlands)",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/digital/hbo-max-europe-launch-netherlands-portugal-markets-1235082529/",
+        "timestamp": 1643705250,
+        "sentiment": 0,
+        "published": "February 1, 2022 8:47 AM"
+    },
+    {
+        "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
+        "domain": "kommunikasjon.ntb.no",
+        "category": "worldnews",
+        "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
+        "timestamp": 1643706068,
+        "sentiment": 0,
+        "published": "February 1, 2022 9:01 AM"
+    },
+    {
+        "title": "Kremlin Freaks at Plan to Seize Russian Oligarchs’ London Properties Over Ukraine",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/kremlin-freaks-at-plan-to-seize-russian-oligarchs-london-properties-over-ukraine",
+        "timestamp": 1643708689,
+        "sentiment": 0,
+        "published": "February 1, 2022 9:44 AM"
+    },
+    {
+        "title": "Israel’s apartheid against Palestinians: a cruel system of domination and a crime against humanity",
+        "domain": "amnesty.org",
+        "category": "worldnews",
+        "link": "https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/",
+        "timestamp": 1643709021,
+        "sentiment": 0,
+        "published": "February 1, 2022 9:50 AM"
+    },
+    {
+        "title": "First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/sport/2022/jan/28/first-female-chess-grandmaster-sues-netflix-queens-gambit",
+        "timestamp": 1643709974,
+        "sentiment": 2,
+        "published": "February 1, 2022 10:06 AM"
+    },
+    {
+        "title": "Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
+        "timestamp": 1643713127,
+        "sentiment": 0,
+        "published": "February 1, 2022 10:58 AM"
+    },
+    {
+        "title": "Trump Reportedly More Directly Involved In Proposal To 'Seize' Voting Machines",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
+        "timestamp": 1643714510,
+        "sentiment": 1,
+        "published": "February 1, 2022 11:21 AM"
+    },
+    {
+        "title": "Trump advisors convinced him to stop promoting vaccines, fearing backlash from his base, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-stops-vaccine-promotion-for-fear-of-base-backlash-politico-2022-2",
+        "timestamp": 1643715353,
+        "sentiment": 1,
+        "published": "February 1, 2022 11:35 AM"
+    },
+    {
+        "title": "NASA plans to take International Space Station out of orbit in January 2031 by crashing it into 'spacecraft cemetery'",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/nasa-plans-to-take-international-space-station-out-of-orbit-in-january-2031-by-crashing-it-into-spacecraft-cemetery-12530194",
+        "timestamp": 1643716183,
+        "sentiment": 2,
+        "published": "February 1, 2022 11:49 AM"
+    },
+    {
+        "title": "Trump’s Press Secretary McEnany Handed Over Texts to Capitol Riot Investigators, Report Says",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trumps-press-secretary-kayleigh-mcenany-handed-over-texts-to-capitol-riot-investigators-report-says",
+        "timestamp": 1643716281,
+        "sentiment": 1,
+        "published": "February 1, 2022 11:51 AM"
+    },
+    {
+        "title": "Winter Olympians warned to be careful what they say during Beijing Games",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/feb/01/winter-olympics-warned-careful-what-they-say-beijing-games-2022",
+        "timestamp": 1643718081,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:21 PM"
+    },
+    {
+        "title": "Tesla recall: \"Full Self-Driving\" software runs stop signs",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/tesla-recall-full-self-driving-software-e23d252ac5164cb0e7af776625b15180",
+        "timestamp": 1643720298,
+        "sentiment": 2,
+        "published": "February 1, 2022 12:58 PM"
+    },
+    {
+        "title": "New Financial Disclosures Show Kyrsten Sinema Is Raking in Cash from Big GOP Donors",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/kyrsten-sinema-fundraising-republican-donors-1293087/",
+        "timestamp": 1643721090,
+        "sentiment": 1,
+        "published": "February 1, 2022 1:11 PM"
     },
     {
         "title": "Longest lightning bolt record: 477 miles over 3 states",
@@ -36,15 +234,6 @@
         "published": "February 1, 2022 12:57 AM"
     },
     {
-        "title": "Universal health care bill fails to pass in California",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
-        "timestamp": 1643678341,
-        "sentiment": 3,
-        "published": "February 1, 2022 1:19 AM"
-    },
-    {
         "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
         "domain": "cnn.com",
         "category": "politics",
@@ -52,87 +241,6 @@
         "timestamp": 1643678865,
         "sentiment": -11,
         "published": "February 1, 2022 1:27 AM"
-    },
-    {
-        "title": "Kiefer Sutherland addresses '24' revival series rumours",
-        "domain": "nme.com",
-        "category": "television",
-        "link": "https://www.nme.com/news/tv/kiefer-sutherland-addresses-24-revival-series-rumours-3150831",
-        "timestamp": 1643681272,
-        "sentiment": -5,
-        "published": "February 1, 2022 2:07 AM"
-    },
-    {
-        "title": "'Walking Dead' Actor Moses J. Moseley Dead At 31",
-        "domain": "huffpost.com",
-        "category": "television",
-        "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
-        "timestamp": 1643681996,
-        "sentiment": -5,
-        "published": "February 1, 2022 2:19 AM"
-    },
-    {
-        "title": "Whoopi Goldberg slammed for saying Holocaust not about race",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-60209527",
-        "timestamp": 1643684036,
-        "sentiment": 3,
-        "published": "February 1, 2022 2:53 AM"
-    },
-    {
-        "title": "Trump Had Role in Weighing Proposals to Seize Voting Machines",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/01/31/us/politics/trump-election-fraud.html?referringSource=articleShare",
-        "timestamp": 1643687138,
-        "sentiment": -11,
-        "published": "February 1, 2022 3:45 AM"
-    },
-    {
-        "title": "Trump Makes It Clear He’d Be an Out and Out Dictator If Reelected in 2024",
-        "domain": "vanityfair.com",
-        "category": "politics",
-        "link": "https://www.vanityfair.com/news/2022/01/donald-trump-mike-pence-2020-overturned",
-        "timestamp": 1643693290,
-        "sentiment": -11,
-        "published": "February 1, 2022 5:28 AM"
-    },
-    {
-        "title": "Tampa teen wins right to abortion without parental consent",
-        "domain": "fox13news.com",
-        "category": "news",
-        "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
-        "timestamp": 1643697802,
-        "sentiment": 3,
-        "published": "February 1, 2022 6:43 AM"
-    },
-    {
-        "title": "New Zealand’s Catholic church admits 14% of clergy have been accused of abuse since 1950",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/feb/01/new-zealands-catholic-church-admits-14-of-clergy-have-been-accused-of-abuse-since-1950",
-        "timestamp": 1643702273,
-        "sentiment": -2,
-        "published": "February 1, 2022 7:57 AM"
-    },
-    {
-        "title": "HBO Max to Launch in 15 More European Markets in March (including Portugal &Netherlands)",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/business/digital/hbo-max-europe-launch-netherlands-portugal-markets-1235082529/",
-        "timestamp": 1643705250,
-        "sentiment": -5,
-        "published": "February 1, 2022 8:47 AM"
-    },
-    {
-        "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
-        "domain": "kommunikasjon.ntb.no",
-        "category": "worldnews",
-        "link": "https://kommunikasjon.ntb.no/pressemelding/full-victory-for-the-dogs?publisherId=16958427&releaseId=17925382",
-        "timestamp": 1643706068,
-        "sentiment": -2,
-        "published": "February 1, 2022 9:01 AM"
     },
     {
         "title": "‘I was born free, I’ll die free’: Man turns down vaccine at expense of a lifesaving transplant",
@@ -144,51 +252,6 @@
         "published": "February 1, 2022 9:12 AM"
     },
     {
-        "title": "Kremlin Freaks at Plan to Seize Russian Oligarchs’ London Properties Over Ukraine",
-        "domain": "thedailybeast.com",
-        "category": "worldnews",
-        "link": "https://www.thedailybeast.com/kremlin-freaks-at-plan-to-seize-russian-oligarchs-london-properties-over-ukraine",
-        "timestamp": 1643708689,
-        "sentiment": -2,
-        "published": "February 1, 2022 9:44 AM"
-    },
-    {
-        "title": "Israel’s apartheid against Palestinians: a cruel system of domination and a crime against humanity",
-        "domain": "amnesty.org",
-        "category": "worldnews",
-        "link": "https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/",
-        "timestamp": 1643709021,
-        "sentiment": -2,
-        "published": "February 1, 2022 9:50 AM"
-    },
-    {
-        "title": "First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/sport/2022/jan/28/first-female-chess-grandmaster-sues-netflix-queens-gambit",
-        "timestamp": 1643709974,
-        "sentiment": 3,
-        "published": "February 1, 2022 10:06 AM"
-    },
-    {
-        "title": "Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
-        "timestamp": 1643713127,
-        "sentiment": -5,
-        "published": "February 1, 2022 10:58 AM"
-    },
-    {
-        "title": "Trump Reportedly More Directly Involved In Proposal To 'Seize' Voting Machines",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-voting-machines-new-york-times-report_n_61f8bd6ee4b094ce54aeefb5",
-        "timestamp": 1643714510,
-        "sentiment": -11,
-        "published": "February 1, 2022 11:21 AM"
-    },
-    {
         "title": "Domino's will pay you $3 to not get your pizza delivered",
         "domain": "cnn.com",
         "category": "news",
@@ -196,15 +259,6 @@
         "timestamp": 1643678236,
         "sentiment": -2,
         "published": "February 1, 2022 1:17 AM"
-    },
-    {
-        "title": "‘Titans’ Sets Season 4 Villains: Joseph Morgan As Brother Blood, Franka Potente As Mother Mayhem, Lisa Ambalavanar As Jinx",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/01/titans-season-4-villains-joseph-morgan-brother-blood-franka-potente-mother-mayhem-lisa-ambalavanar-jinx-1234923540/",
-        "timestamp": 1643679055,
-        "sentiment": 0,
-        "published": "February 1, 2022 1:30 AM"
     },
     {
         "title": "'All options are on the table' to end truckers' protest: Ottawa police chief",
