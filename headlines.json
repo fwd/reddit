@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/01/31/business-food/dominos-pizza-carryout-reward/index.html",
         "timestamp": 1643678236,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 1:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/universal-health-care-bill-faces-deadline-california-82573398",
         "timestamp": 1643678341,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 1:19 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-60209527",
         "timestamp": 1643684036,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "February 1, 2022 2:53 AM"
     },
     {
@@ -97,6 +97,15 @@
         "timestamp": 1643689748,
         "sentiment": 0,
         "published": "February 1, 2022 4:29 AM"
+    },
+    {
+        "title": "Tampa teen wins right to abortion without parental consent",
+        "domain": "fox13news.com",
+        "category": "news",
+        "link": "https://www.fox13news.com/news/tampa-teen-wins-right-to-abortion-without-parental-consent",
+        "timestamp": 1643697802,
+        "sentiment": 6,
+        "published": "February 1, 2022 6:43 AM"
     },
     {
         "title": "Soros Warns: China is Facing Economic Crisis",
