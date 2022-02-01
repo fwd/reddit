@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/brett-goldstein-warner-bros-ted-lasso-1235167707/",
         "timestamp": 1643674619,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 12:16 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "television",
         "link": "https://www.huffpost.com/entry/moses-j-moseley-dead-at-31_n_61f8789ce4b04f9a12c15721",
         "timestamp": 1643681996,
-        "sentiment": 4,
-        "published": "February 1, 2022 2:19 AM"
-    },
-    {
-        "title": "Whoopi Goldberg slammed for saying Holocaust not about race",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-60209527",
-        "timestamp": 1643684036,
         "sentiment": 0,
-        "published": "February 1, 2022 2:53 AM"
+        "published": "February 1, 2022 2:19 AM"
     },
     {
         "title": "Tampa teen wins right to abortion without parental consent",
@@ -59,7 +50,7 @@
         "category": "television",
         "link": "https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/",
         "timestamp": 1643713127,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 10:58 AM"
     },
     {
@@ -126,24 +117,6 @@
         "published": "February 1, 2022 12:32 PM"
     },
     {
-        "title": "Texas law barring state contractors from boycotting Israel violates firm’s free speech, federal judge rules",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/01/31/texas-boycott-israel-lawsuit/",
-        "timestamp": 1643719059,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:37 PM"
-    },
-    {
-        "title": "Kyrsten Sinema’s New Republican Friends Aren’t Going to Vote for Her",
-        "domain": "nymag.com",
-        "category": "politics",
-        "link": "https://nymag.com/intelligencer/2022/01/sinemas-new-republican-friends-arent-going-to-vote-for-her.html",
-        "timestamp": 1643719399,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:43 PM"
-    },
-    {
         "title": "Firefighter in California fatally shot while putting out dumpster fire, officials say",
         "domain": "nbcnews.com",
         "category": "news",
@@ -162,15 +135,6 @@
         "published": "February 1, 2022 12:51 PM"
     },
     {
-        "title": "Tesla recall: \"Full Self-Driving\" software runs stop signs",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/tesla-recall-full-self-driving-software-e23d252ac5164cb0e7af776625b15180",
-        "timestamp": 1643720298,
-        "sentiment": 0,
-        "published": "February 1, 2022 12:58 PM"
-    },
-    {
         "title": "New Financial Disclosures Show Kyrsten Sinema Is Raking in Cash from Big GOP Donors",
         "domain": "rollingstone.com",
         "category": "politics",
@@ -185,7 +149,7 @@
         "category": "television",
         "link": "https://variety.com/2022/biz/news/att-spin-off-warnermedia-43-billion-deal-1235168480/",
         "timestamp": 1643722882,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 1:41 PM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/rams-49ers-nfc-championship-ratings-bengals-chiefs-1235167525/",
         "timestamp": 1643729889,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 3:38 PM"
     },
     {
@@ -266,8 +230,17 @@
         "category": "television",
         "link": "https://collider.com/abbott-elementary-why-its-good/",
         "timestamp": 1643732711,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 4:25 PM"
+    },
+    {
+        "title": "Court rejects Norwegian mass killer Breivik's parole application",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/court-rejects-mass-killer-breiviks-parole-application-2022-02-01/",
+        "timestamp": 1643732831,
+        "sentiment": 0,
+        "published": "February 1, 2022 4:27 PM"
     },
     {
         "title": "Boris Johnson arrives in Ukraine to seal trilateral pact against Russia threat",
@@ -288,6 +261,15 @@
         "published": "February 1, 2022 4:41 PM"
     },
     {
+        "title": "Despite all his manufactured anger, truth is, DeSantis failed to condemn Nazi demonstrators | Editorial",
+        "domain": "miamiherald.com",
+        "category": "politics",
+        "link": "https://www.miamiherald.com/opinion/editorials/article257906108.html",
+        "timestamp": 1643733859,
+        "sentiment": 0,
+        "published": "February 1, 2022 4:44 PM"
+    },
+    {
         "title": "Putin: US and allies have ignored Russia's security demands | AP News",
         "domain": "apnews.com",
         "category": "worldnews",
@@ -306,12 +288,30 @@
         "published": "February 1, 2022 5:11 PM"
     },
     {
+        "title": "Trump: Pence Should Be Investigated for Not Reversing My Election Loss",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trump-says-pence-should-be-investigated-for-not-reversing-his-election-loss?via=twitter_page",
+        "timestamp": 1643735589,
+        "sentiment": 0,
+        "published": "February 1, 2022 5:13 PM"
+    },
+    {
+        "title": "A record number of Americans quit their jobs in 2021",
+        "domain": "amp.cnn.com",
+        "category": "news",
+        "link": "https://amp.cnn.com/cnn/2022/02/01/economy/us-job-openings-quite-december/index.html",
+        "timestamp": 1643736142,
+        "sentiment": 0,
+        "published": "February 1, 2022 5:22 PM"
+    },
+    {
         "title": "‘Mayor Of Kingstown’ Renewed For Season 2 At Paramount+",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/02/mayor-of-kingstown-renewe-season-2-paramount-1234923651/",
         "timestamp": 1643737166,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 5:39 PM"
     },
     {
@@ -324,21 +324,12 @@
         "published": "February 1, 2022 5:47 PM"
     },
     {
-        "title": "Illegal overfishing by Chinese trawlers leaves Sierra Leone locals ‘starving’",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/environment/2022/feb/01/sierra-leone-families-starving-chinese-trawlers-industrial-overfishing-destroying-lives",
-        "timestamp": 1643739121,
-        "sentiment": 0,
-        "published": "February 1, 2022 6:12 PM"
-    },
-    {
         "title": "‘Foundation’ Season 2 Releases First Photo, 10 Cast Additions",
         "domain": "tvline.com",
         "category": "television",
         "link": "https://tvline.com/2022/02/01/foundation-season-2-first-photo-cast-additions-ben-daniels/",
         "timestamp": 1643739218,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 6:13 PM"
     },
     {
@@ -347,8 +338,71 @@
         "category": "television",
         "link": "https://www.slashfilm.com/753509/loki-season-2-reportedly-set-to-begin-filming-this-summer/",
         "timestamp": 1643741095,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "February 1, 2022 6:44 PM"
+    },
+    {
+        "title": "Active shooter reported on Bridgewater College campus",
+        "domain": "whsv.com",
+        "category": "news",
+        "link": "https://www.whsv.com/2022/02/01/reports-active-shooter-bridgewater-college-campus/",
+        "timestamp": 1643741992,
+        "sentiment": 0,
+        "published": "February 1, 2022 6:59 PM"
+    },
+    {
+        "title": "‘Hell’s Kitchen’ Renewed For Seasons 21 & 22 at Fox",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/hells-kitchen-renewed-two-more-seasons-fox-gordon-ramsay-1234924136/",
+        "timestamp": 1643743880,
+        "sentiment": 0,
+        "published": "February 1, 2022 7:31 PM"
+    },
+    {
+        "title": "Whoopi Goldberg slammed for saying Holocaust not about race",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-60209527",
+        "timestamp": 1643684036,
+        "sentiment": 0,
+        "published": "February 1, 2022 2:53 AM"
+    },
+    {
+        "title": "Texas law barring state contractors from boycotting Israel violates firm’s free speech, federal judge rules",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/01/31/texas-boycott-israel-lawsuit/",
+        "timestamp": 1643719059,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:37 PM"
+    },
+    {
+        "title": "Kyrsten Sinema’s New Republican Friends Aren’t Going to Vote for Her",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/01/sinemas-new-republican-friends-arent-going-to-vote-for-her.html",
+        "timestamp": 1643719399,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:43 PM"
+    },
+    {
+        "title": "Tesla recall: \"Full Self-Driving\" software runs stop signs",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/tesla-recall-full-self-driving-software-e23d252ac5164cb0e7af776625b15180",
+        "timestamp": 1643720298,
+        "sentiment": 0,
+        "published": "February 1, 2022 12:58 PM"
+    },
+    {
+        "title": "Illegal overfishing by Chinese trawlers leaves Sierra Leone locals ‘starving’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/feb/01/sierra-leone-families-starving-chinese-trawlers-industrial-overfishing-destroying-lives",
+        "timestamp": 1643739121,
+        "sentiment": 0,
+        "published": "February 1, 2022 6:12 PM"
     },
     {
         "title": "Norway adds English Bulldog and Cavalier king Charles to list over banned dog breeds.",
