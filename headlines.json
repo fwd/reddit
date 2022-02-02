@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-01-26/denmark-to-end-covid-curbs-as-premier-deems-critical-phase-over",
         "timestamp": 1643791948,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 8:52 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/International/wireStory/china-lashes-japans-concern-human-rights-82598613",
         "timestamp": 1643803684,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 12:08 PM"
     },
     {
@@ -90,21 +90,12 @@
         "published": "February 2, 2022 1:07 PM"
     },
     {
-        "title": "Britain scrambles jets after detecting unidentified aircraft",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/uk/britain-scrambles-jets-after-detecting-unidentfied-aircraft-2022-02-02/",
-        "timestamp": 1643807381,
-        "sentiment": -2,
-        "published": "February 2, 2022 1:09 PM"
-    },
-    {
         "title": "Rotterdam bridge to be dismantled so Jeff Bezos’ yacht can pass through",
         "domain": "dutchnews.nl",
         "category": "worldnews",
         "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
         "timestamp": 1643807744,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 1:15 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/business/cannabis-has-contributed-43-5-billion-to-canada-s-gdp-since-legalization-report-1.5762954",
         "timestamp": 1643808419,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 1:26 PM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html",
         "timestamp": 1643810384,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 1:59 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/02/europe/russia-troops-ukraine-buildup-satellite-images-intl/index.html",
         "timestamp": 1643818468,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 4:14 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/russian-broadcaster-rt-ordered-stop-germany-program/",
         "timestamp": 1643818972,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 4:22 PM"
     },
     {
@@ -288,6 +279,15 @@
         "published": "February 2, 2022 6:36 PM"
     },
     {
+        "title": "Erin O'Toole ousted as leader of Canada's Conservative Party",
+        "domain": "theweek.com",
+        "category": "worldnews",
+        "link": "https://theweek.com/election/1009707/erin-otoole-ousted-as-leader-of-canadas-conservative-party",
+        "timestamp": 1643827950,
+        "sentiment": 0,
+        "published": "February 2, 2022 6:52 PM"
+    },
+    {
         "title": "‘Tales Of The Walking Dead’: Anthony Edwards, Parker Posey, Terry Crews, Poppy Liu, Jillian Bell To Star In ‘TWD’ Spinoff",
         "domain": "deadline.com",
         "category": "television",
@@ -297,21 +297,12 @@
         "published": "February 2, 2022 7:02 PM"
     },
     {
-        "title": "White House says it's no longer calling potential Russian invasion of Ukraine 'imminent'",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/02/politics/white-house-ukraine-messaging/index.html",
-        "timestamp": 1643829154,
-        "sentiment": -2,
-        "published": "February 2, 2022 7:12 PM"
-    },
-    {
         "title": "UN accused of collaborating with China to delay Xinjiang human rights report until after Olympics",
         "domain": "scmp.com",
         "category": "worldnews",
         "link": "https://www.scmp.com/news/china/article/3165629/un-accused-collaborating-china-delay-xinjiang-human-rights-report-until?utm_source=rss_feed",
         "timestamp": 1643830243,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 7:30 PM"
     },
     {
@@ -340,6 +331,24 @@
         "timestamp": 1643832726,
         "sentiment": 0,
         "published": "February 2, 2022 8:12 PM"
+    },
+    {
+        "title": "White House says it's no longer calling potential Russian invasion of Ukraine 'imminent'",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/02/02/politics/white-house-ukraine-messaging/index.html",
+        "timestamp": 1643833688,
+        "sentiment": 0,
+        "published": "February 2, 2022 8:28 PM"
+    },
+    {
+        "title": "Britain scrambles jets after detecting unidentified aircraft",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/britain-scrambles-jets-after-detecting-unidentfied-aircraft-2022-02-02/",
+        "timestamp": 1643807381,
+        "sentiment": -2,
+        "published": "February 2, 2022 1:09 PM"
     },
     {
         "title": "In heated meeting, India seeks tougher action from U.S. tech giants on fake news",
