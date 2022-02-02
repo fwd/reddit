@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-public-housing-manchin-warmth-yacht-houseboat-bbb-dead-2022-2",
         "timestamp": 1643762844,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 12:47 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/02/donald-trump-mike-pence-january-6-investigation",
         "timestamp": 1643767817,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 2:10 AM"
-    },
-    {
-        "title": "Media barred from Justice Gorsuch talk to Federalist Society",
-        "domain": "apnews.com",
-        "category": "politics",
-        "link": "https://apnews.com/article/coronavirus-pandemic-us-supreme-court-travel-health-ron-desantis-615d109c686464cbbd22b602ce58b27f",
-        "timestamp": 1643769071,
-        "sentiment": 2,
-        "published": "February 2, 2022 2:31 AM"
     },
     {
         "title": "‘The Gilded Age’ Viewership Grows 15% In Week 2, Surpasses ‘The White Lotus’",
@@ -50,17 +41,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html",
         "timestamp": 1643770325,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 2, 2022 2:52 AM"
-    },
-    {
-        "title": "Beijing Olympics’ COVID cases mounting at faster pace than Tokyo",
-        "domain": "nationalpost.com",
-        "category": "worldnews",
-        "link": "https://nationalpost.com/sports/olympics/beijing-olympics-covid-cases-mounting-at-faster-pace-than-tokyo",
-        "timestamp": 1643775620,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:20 AM"
     },
     {
         "title": "Comic book store owners are offering to ship banned Holocaust novel 'Maus' to Tennessee students for free",
@@ -68,7 +50,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/02/01/us/comic-store-owners-shipping-maus-trnd/index.html",
         "timestamp": 1643777336,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 2, 2022 4:48 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/state-watch/592408-abbott-warns-of-possible-power-outages-as-texas-braces-for-winter-storm",
         "timestamp": 1643777867,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 4:57 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/us/robert-e-lee-anti-racism-descendant/index.html",
         "timestamp": 1643782336,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 2, 2022 6:12 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/donald-trump-burn-it-down-maggie-haberman-pardons-protests_n_61f8680ae4b04f9a12c14830",
         "timestamp": 1643797933,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 10:32 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/world/2022/feb/02/republicans-100-far-right-candidates-2022",
         "timestamp": 1643800176,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 11:09 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/january-6-committee-investigating-trumps-role-plans-seize-voting-machines-2022-2",
         "timestamp": 1643801909,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 11:38 AM"
     },
     {
@@ -149,17 +131,26 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/feb/02/joe-biden-supreme-court-nominee-right-reaction-black-female-nominee",
         "timestamp": 1643802711,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 11:51 AM"
     },
     {
-        "title": "Big Pharma emits more greenhouse gases than the automotive industry",
-        "domain": "brighterworld.mcmaster.ca",
+        "title": "China lashes out at Japan's 'concern' over human rights",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/china-lashes-japans-concern-human-rights-82598613",
+        "timestamp": 1643803684,
+        "sentiment": 0,
+        "published": "February 2, 2022 12:08 PM"
+    },
+    {
+        "title": "Native American tribes reach $590 million opioid settlement",
+        "domain": "nbcnews.com",
         "category": "news",
-        "link": "https://brighterworld.mcmaster.ca/articles/big-pharma-emits-more-greenhouse-gases-than-the-automotive-industry/",
-        "timestamp": 1643804293,
-        "sentiment": 1,
-        "published": "February 2, 2022 12:18 PM"
+        "link": "https://www.nbcnews.com/news/us-news/native-american-tribes-reach-590-million-opioid-settlement-rcna14508",
+        "timestamp": 1643804858,
+        "sentiment": 2,
+        "published": "February 2, 2022 12:27 PM"
     },
     {
         "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter",
@@ -167,7 +158,7 @@
         "category": "news",
         "link": "https://www.fox5dc.com/news/groundhog-day-2022-punxsutawney-phil-sees-shadow-predicts-6-more-weeks-of-winter",
         "timestamp": 1643805176,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 2, 2022 12:32 PM"
     },
     {
@@ -176,8 +167,17 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/02/02/politics/pete-aguilar-trump-january-6-pardons-cnntv/index.html",
         "timestamp": 1643806018,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 2, 2022 12:46 PM"
+    },
+    {
+        "title": "Conspiracy charges possible for filing bogus Trump election slates, experts say",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/conspiracy-charges-possible-filing-bogus-election-slates-legal-experts-rcna14286",
+        "timestamp": 1643806504,
+        "sentiment": -4,
+        "published": "February 2, 2022 12:55 PM"
     },
     {
         "title": "Bezos dismantling and reassembling historic landmark for super-yacht",
@@ -185,8 +185,17 @@
         "category": "news",
         "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
         "timestamp": 1643806999,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 2, 2022 1:03 PM"
+    },
+    {
+        "title": "Miami Herald Shreds GOP Florida Gov. Ron DeSantis’ Failure To Condemn Nazi Rally",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/miami-herald-ron-desantis-nazis_n_61f8e0efe4b04f9a12c1bc7e",
+        "timestamp": 1643807266,
+        "sentiment": -4,
+        "published": "February 2, 2022 1:07 PM"
     },
     {
         "title": "Rotterdam bridge to be dismantled so Jeff Bezos’ yacht can pass through",
@@ -196,6 +205,51 @@
         "timestamp": 1643807744,
         "sentiment": 0,
         "published": "February 2, 2022 1:15 PM"
+    },
+    {
+        "title": "‘Pam & Tommy’ Star Lily James: ‘We’re All Complicit’ in Pamela Anderson Mistreatment",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/02/pam-and-tommy-lily-james-performance-society-fault-1234694359/",
+        "timestamp": 1643809687,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:48 PM"
+    },
+    {
+        "title": "Houston doctor suing Chase bank for denying service: 'They didn't respect my credentials'",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/houston-news-doctor-suing-bank-malika-mitchell-stewart-jpmorgan-chase-lawsuit/11530333/#:~:text=HOUSTON%2C%20Texas%20(KTRK)%20%2D%2D,had%20just%20finished%20her%20residency",
+        "timestamp": 1643810973,
+        "sentiment": 2,
+        "published": "February 2, 2022 2:09 PM"
+    },
+    {
+        "title": "Media barred from Justice Gorsuch talk to Federalist Society",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/coronavirus-pandemic-us-supreme-court-travel-health-ron-desantis-615d109c686464cbbd22b602ce58b27f",
+        "timestamp": 1643769071,
+        "sentiment": 2,
+        "published": "February 2, 2022 2:31 AM"
+    },
+    {
+        "title": "Beijing Olympics’ COVID cases mounting at faster pace than Tokyo",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/sports/olympics/beijing-olympics-covid-cases-mounting-at-faster-pace-than-tokyo",
+        "timestamp": 1643775620,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:20 AM"
+    },
+    {
+        "title": "Big Pharma emits more greenhouse gases than the automotive industry",
+        "domain": "brighterworld.mcmaster.ca",
+        "category": "news",
+        "link": "https://brighterworld.mcmaster.ca/articles/big-pharma-emits-more-greenhouse-gases-than-the-automotive-industry/",
+        "timestamp": 1643804293,
+        "sentiment": 1,
+        "published": "February 2, 2022 12:18 PM"
     },
     {
         "title": "House January 6 committee member Jamie Raskin says Trump \"said the criminal part out loud\"",
