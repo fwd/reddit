@@ -1,20 +1,11 @@
 [
     {
-        "title": "AOC asks whether public-housing residents should seek warmth on Sen. Joe Manchin's 'yacht' after the senator declared Biden's spending plan 'dead'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/aoc-public-housing-manchin-warmth-yacht-houseboat-bbb-dead-2022-2",
-        "timestamp": 1643762844,
-        "sentiment": 0,
-        "published": "February 2, 2022 12:47 AM"
-    },
-    {
         "title": "Trump Officially Loses It, Demands Mike Pence Be Investigated for Not Overturning the Election",
         "domain": "vanityfair.com",
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/02/donald-trump-mike-pence-january-6-investigation",
         "timestamp": 1643767817,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 2, 2022 2:10 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/whoopi-goldberg-suspended-the-view-1235085574/",
         "timestamp": 1643769842,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 2:44 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html",
         "timestamp": 1643770325,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "February 2, 2022 2:52 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://nationalpost.com/sports/olympics/beijing-olympics-covid-cases-mounting-at-faster-pace-than-tokyo",
         "timestamp": 1643775620,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 4:20 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/02/01/us/comic-store-owners-shipping-maus-trnd/index.html",
         "timestamp": 1643777336,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "February 2, 2022 4:48 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/us/robert-e-lee-anti-racism-descendant/index.html",
         "timestamp": 1643782336,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "February 2, 2022 6:12 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://georgianjournal.ge/usa-news/37757-boris-johnson-says-russia-threatens-not-only-ukraine-but-georgia-moldova-too.html",
         "timestamp": 1643790806,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 8:33 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-01-26/denmark-to-end-covid-curbs-as-premier-deems-critical-phase-over",
         "timestamp": 1643791948,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 8:52 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/world/2022/feb/02/republicans-100-far-right-candidates-2022",
         "timestamp": 1643800176,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 2, 2022 11:09 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/january-6-committee-investigating-trumps-role-plans-seize-voting-machines-2022-2",
         "timestamp": 1643801909,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 2, 2022 11:38 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/feb/02/joe-biden-supreme-court-nominee-right-reaction-black-female-nominee",
         "timestamp": 1643802711,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 2, 2022 11:51 AM"
     },
     {
@@ -113,8 +104,224 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/International/wireStory/china-lashes-japans-concern-human-rights-82598613",
         "timestamp": 1643803684,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 2, 2022 12:08 PM"
+    },
+    {
+        "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter",
+        "domain": "fox5dc.com",
+        "category": "news",
+        "link": "https://www.fox5dc.com/news/groundhog-day-2022-punxsutawney-phil-sees-shadow-predicts-6-more-weeks-of-winter",
+        "timestamp": 1643805176,
+        "sentiment": -1,
+        "published": "February 2, 2022 12:32 PM"
+    },
+    {
+        "title": "January 6 committee member says Trump 'absolutely' tampering with witnesses",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/02/politics/pete-aguilar-trump-january-6-pardons-cnntv/index.html",
+        "timestamp": 1643806018,
+        "sentiment": -1,
+        "published": "February 2, 2022 12:46 PM"
+    },
+    {
+        "title": "Conspiracy charges possible for filing bogus Trump election slates, experts say",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/conspiracy-charges-possible-filing-bogus-election-slates-legal-experts-rcna14286",
+        "timestamp": 1643806504,
+        "sentiment": -1,
+        "published": "February 2, 2022 12:55 PM"
+    },
+    {
+        "title": "Bezos dismantling and reassembling historic landmark for super-yacht",
+        "domain": "dutchnews.nl",
+        "category": "news",
+        "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
+        "timestamp": 1643806999,
+        "sentiment": -1,
+        "published": "February 2, 2022 1:03 PM"
+    },
+    {
+        "title": "Miami Herald Shreds GOP Florida Gov. Ron DeSantis’ Failure To Condemn Nazi Rally",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/miami-herald-ron-desantis-nazis_n_61f8e0efe4b04f9a12c1bc7e",
+        "timestamp": 1643807266,
+        "sentiment": -1,
+        "published": "February 2, 2022 1:07 PM"
+    },
+    {
+        "title": "Britain scrambles jets after detecting unidentified aircraft",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/britain-scrambles-jets-after-detecting-unidentfied-aircraft-2022-02-02/",
+        "timestamp": 1643807381,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:09 PM"
+    },
+    {
+        "title": "Rotterdam bridge to be dismantled so Jeff Bezos’ yacht can pass through",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
+        "timestamp": 1643807744,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:15 PM"
+    },
+    {
+        "title": "Report says cannabis has contributed $43.5 billion to Canada's GDP since recreational pot was legalized in October 2018. The report by Deloitte and provincial pot distributor, Ontario Cannabis Store, said for every dollar in revenue or capital expenditures, the industry adds $1.09 to Canada's GDP",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/business/cannabis-has-contributed-43-5-billion-to-canada-s-gdp-since-legalization-report-1.5762954",
+        "timestamp": 1643808419,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:26 PM"
+    },
+    {
+        "title": "Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559",
+        "timestamp": 1643808829,
+        "sentiment": -1,
+        "published": "February 2, 2022 1:33 PM"
+    },
+    {
+        "title": "‘Pam & Tommy’ Star Lily James: ‘We’re All Complicit’ in Pamela Anderson Mistreatment",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/02/pam-and-tommy-lily-james-performance-society-fault-1234694359/",
+        "timestamp": 1643809687,
+        "sentiment": 2,
+        "published": "February 2, 2022 1:48 PM"
+    },
+    {
+        "title": "Extreme heat in oceans ‘passed point of no return’ in 2014",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/feb/01/extreme-heat-oceans-passed-point-of-no-return-high-temperatures-wildlife-seas",
+        "timestamp": 1643809808,
+        "sentiment": -1,
+        "published": "February 2, 2022 1:50 PM"
+    },
+    {
+        "title": "Biden formally approves new US troops to Europe amid Russia threat, deployments expected in 'coming days'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html",
+        "timestamp": 1643810384,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:59 PM"
+    },
+    {
+        "title": "Houston doctor suing Chase bank for denying service: 'They didn't respect my credentials'",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/houston-news-doctor-suing-bank-malika-mitchell-stewart-jpmorgan-chase-lawsuit/11530333/#:~:text=HOUSTON%2C%20Texas%20(KTRK)%20%2D%2D,had%20just%20finished%20her%20residency",
+        "timestamp": 1643810973,
+        "sentiment": -1,
+        "published": "February 2, 2022 2:09 PM"
+    },
+    {
+        "title": "Mitch McConnell ridiculed as he admits he ‘doesn’t know’ if any Black women work for him: ‘I haven’t checked’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mitch-mcconnell-office-racial-quota-b2005684.html",
+        "timestamp": 1643812806,
+        "sentiment": -1,
+        "published": "February 2, 2022 2:40 PM"
+    },
+    {
+        "title": "Oklahoma bill would fire teachers for offending Christian morals by teaching biology",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/02/oklahoma-bill-fire-teachers-offending-christian-morals-teaching-biology/",
+        "timestamp": 1643813017,
+        "sentiment": -1,
+        "published": "February 2, 2022 2:43 PM"
+    },
+    {
+        "title": "‘Lucifer’ Star Tom Ellis Joins ‘Washington Black’ Hulu Adventure Series",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/02/02/tom-ellis-cast-washington-black-hulu-series-sterling-k-brown/",
+        "timestamp": 1643814244,
+        "sentiment": 2,
+        "published": "February 2, 2022 3:04 PM"
+    },
+    {
+        "title": "‘Dodger’: Oliver Twist given new spin in BBC prequel to Charles Dickens novel",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/books/2022/feb/02/oliver-twist-given-new-spin-in-bbc-prequel-to-charles-dickens-novel-dodger?CMP=twt_books_b-gdnbooks",
+        "timestamp": 1643814704,
+        "sentiment": 2,
+        "published": "February 2, 2022 3:11 PM"
+    },
+    {
+        "title": "Jeff Zucker Resigns From CNN",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/jeff-zucker-cnn-resignation/",
+        "timestamp": 1643818055,
+        "sentiment": 2,
+        "published": "February 2, 2022 4:07 PM"
+    },
+    {
+        "title": "'Jeopardy!' episodes with superchampion Amy Schneider and hosted by Ken Jennings post ratings record once more, highest in the post-Trebek era",
+        "domain": "nexttv.com",
+        "category": "television",
+        "link": "https://www.nexttv.com/news/syndication-ratings-jeopardy-stays-on-top-in-final-week-of-amy-schneiders-streak",
+        "timestamp": 1643818377,
+        "sentiment": 2,
+        "published": "February 2, 2022 4:12 PM"
+    },
+    {
+        "title": "Jeff Zucker resigns from CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/02/media/jeff-zucker-cnn/index.html",
+        "timestamp": 1643818421,
+        "sentiment": -1,
+        "published": "February 2, 2022 4:13 PM"
+    },
+    {
+        "title": "New satellite images show buildup of Russian military around Ukraine",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/02/02/europe/russia-troops-ukraine-buildup-satellite-images-intl/index.html",
+        "timestamp": 1643818468,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:14 PM"
+    },
+    {
+        "title": "Germany bans Russian broadcaster RT’s German-language channel",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/russian-broadcaster-rt-ordered-stop-germany-program/",
+        "timestamp": 1643818972,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:22 PM"
+    },
+    {
+        "title": "Star witness in Ukraine impeachment saga sues Trump allies and alleges conspiracy to intimidate him",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/02/politics/alexander-vindman-donald-trump-rudy-giuliani-ukraine-impeachment/index.html",
+        "timestamp": 1643820731,
+        "sentiment": -1,
+        "published": "February 2, 2022 4:52 PM"
+    },
+    {
+        "title": "AOC asks whether public-housing residents should seek warmth on Sen. Joe Manchin's 'yacht' after the senator declared Biden's spending plan 'dead'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-public-housing-manchin-warmth-yacht-houseboat-bbb-dead-2022-2",
+        "timestamp": 1643762844,
+        "sentiment": 0,
+        "published": "February 2, 2022 12:47 AM"
     },
     {
         "title": "Native American tribes reach $590 million opioid settlement",
@@ -126,114 +333,6 @@
         "published": "February 2, 2022 12:27 PM"
     },
     {
-        "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter",
-        "domain": "fox5dc.com",
-        "category": "news",
-        "link": "https://www.fox5dc.com/news/groundhog-day-2022-punxsutawney-phil-sees-shadow-predicts-6-more-weeks-of-winter",
-        "timestamp": 1643805176,
-        "sentiment": 2,
-        "published": "February 2, 2022 12:32 PM"
-    },
-    {
-        "title": "January 6 committee member says Trump 'absolutely' tampering with witnesses",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/02/politics/pete-aguilar-trump-january-6-pardons-cnntv/index.html",
-        "timestamp": 1643806018,
-        "sentiment": 0,
-        "published": "February 2, 2022 12:46 PM"
-    },
-    {
-        "title": "Conspiracy charges possible for filing bogus Trump election slates, experts say",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/conspiracy-charges-possible-filing-bogus-election-slates-legal-experts-rcna14286",
-        "timestamp": 1643806504,
-        "sentiment": 0,
-        "published": "February 2, 2022 12:55 PM"
-    },
-    {
-        "title": "Bezos dismantling and reassembling historic landmark for super-yacht",
-        "domain": "dutchnews.nl",
-        "category": "news",
-        "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
-        "timestamp": 1643806999,
-        "sentiment": 2,
-        "published": "February 2, 2022 1:03 PM"
-    },
-    {
-        "title": "Miami Herald Shreds GOP Florida Gov. Ron DeSantis’ Failure To Condemn Nazi Rally",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/miami-herald-ron-desantis-nazis_n_61f8e0efe4b04f9a12c1bc7e",
-        "timestamp": 1643807266,
-        "sentiment": 0,
-        "published": "February 2, 2022 1:07 PM"
-    },
-    {
-        "title": "Rotterdam bridge to be dismantled so Jeff Bezos’ yacht can pass through",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
-        "timestamp": 1643807744,
-        "sentiment": -2,
-        "published": "February 2, 2022 1:15 PM"
-    },
-    {
-        "title": "Report says cannabis has contributed $43.5 billion to Canada's GDP since recreational pot was legalized in October 2018. The report by Deloitte and provincial pot distributor, Ontario Cannabis Store, said for every dollar in revenue or capital expenditures, the industry adds $1.09 to Canada's GDP",
-        "domain": "ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://www.ctvnews.ca/business/cannabis-has-contributed-43-5-billion-to-canada-s-gdp-since-legalization-report-1.5762954",
-        "timestamp": 1643808419,
-        "sentiment": -2,
-        "published": "February 2, 2022 1:26 PM"
-    },
-    {
-        "title": "Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559",
-        "timestamp": 1643808829,
-        "sentiment": 0,
-        "published": "February 2, 2022 1:33 PM"
-    },
-    {
-        "title": "‘Pam & Tommy’ Star Lily James: ‘We’re All Complicit’ in Pamela Anderson Mistreatment",
-        "domain": "indiewire.com",
-        "category": "television",
-        "link": "https://www.indiewire.com/2022/02/pam-and-tommy-lily-james-performance-society-fault-1234694359/",
-        "timestamp": 1643809687,
-        "sentiment": 0,
-        "published": "February 2, 2022 1:48 PM"
-    },
-    {
-        "title": "Extreme heat in oceans ‘passed point of no return’ in 2014",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/environment/2022/feb/01/extreme-heat-oceans-passed-point-of-no-return-high-temperatures-wildlife-seas",
-        "timestamp": 1643809808,
-        "sentiment": 2,
-        "published": "February 2, 2022 1:50 PM"
-    },
-    {
-        "title": "Biden formally approves new US troops to Europe amid Russia threat, deployments expected in 'coming days'",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html",
-        "timestamp": 1643810384,
-        "sentiment": -2,
-        "published": "February 2, 2022 1:59 PM"
-    },
-    {
-        "title": "Houston doctor suing Chase bank for denying service: 'They didn't respect my credentials'",
-        "domain": "abc13.com",
-        "category": "news",
-        "link": "https://abc13.com/houston-news-doctor-suing-bank-malika-mitchell-stewart-jpmorgan-chase-lawsuit/11530333/#:~:text=HOUSTON%2C%20Texas%20(KTRK)%20%2D%2D,had%20just%20finished%20her%20residency",
-        "timestamp": 1643810973,
-        "sentiment": 2,
-        "published": "February 2, 2022 2:09 PM"
-    },
-    {
         "title": "Omicron subvariant BA.2 likely to have same severity as 'original' -WHO",
         "domain": "reuters.com",
         "category": "news",
@@ -241,51 +340,6 @@
         "timestamp": 1643811959,
         "sentiment": 2,
         "published": "February 2, 2022 2:25 PM"
-    },
-    {
-        "title": "Oklahoma bill would fire teachers for offending Christian morals by teaching biology",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/02/oklahoma-bill-fire-teachers-offending-christian-morals-teaching-biology/",
-        "timestamp": 1643813017,
-        "sentiment": 0,
-        "published": "February 2, 2022 2:43 PM"
-    },
-    {
-        "title": "‘Lucifer’ Star Tom Ellis Joins ‘Washington Black’ Hulu Adventure Series",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/02/02/tom-ellis-cast-washington-black-hulu-series-sterling-k-brown/",
-        "timestamp": 1643814244,
-        "sentiment": 0,
-        "published": "February 2, 2022 3:04 PM"
-    },
-    {
-        "title": "Jeff Zucker Resigns From CNN",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/jeff-zucker-cnn-resignation/",
-        "timestamp": 1643818055,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:07 PM"
-    },
-    {
-        "title": "'Jeopardy!' episodes with superchampion Amy Schneider and hosted by Ken Jennings post ratings record once more, highest in the post-Trebek era",
-        "domain": "nexttv.com",
-        "category": "television",
-        "link": "https://www.nexttv.com/news/syndication-ratings-jeopardy-stays-on-top-in-final-week-of-amy-schneiders-streak",
-        "timestamp": 1643818377,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:12 PM"
-    },
-    {
-        "title": "Germany bans Russian broadcaster RT’s German-language channel",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/russian-broadcaster-rt-ordered-stop-germany-program/",
-        "timestamp": 1643818972,
-        "sentiment": -2,
-        "published": "February 2, 2022 4:22 PM"
     },
     {
         "title": "Abbott warns of possible power outages as Texas braces for winter storm",
@@ -331,15 +385,6 @@
         "timestamp": 1643811907,
         "sentiment": -3,
         "published": "February 2, 2022 2:25 PM"
-    },
-    {
-        "title": "‘Dodger’: Oliver Twist given new spin in BBC prequel to Charles Dickens novel",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/books/2022/feb/02/oliver-twist-given-new-spin-in-bbc-prequel-to-charles-dickens-novel-dodger?CMP=twt_books_b-gdnbooks",
-        "timestamp": 1643814704,
-        "sentiment": 2,
-        "published": "February 2, 2022 3:11 PM"
     },
     {
         "title": "‘The Gilded Age’ Viewership Grows 15% In Week 2, Surpasses ‘The White Lotus’",
