@@ -1,14 +1,5 @@
 [
     {
-        "title": "Uyghurs reveal what it's like in a Chinese prison",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/lifestyle/thought-reports-propaganda-exams-suicide-122618524.html",
-        "timestamp": 1643762553,
-        "sentiment": -4,
-        "published": "February 2, 2022 12:42 AM"
-    },
-    {
         "title": "AOC asks whether public-housing residents should seek warmth on Sen. Joe Manchin's 'yacht' after the senator declared Biden's spending plan 'dead'",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -27,6 +18,24 @@
         "published": "February 2, 2022 1:55 AM"
     },
     {
+        "title": "Trump Officially Loses It, Demands Mike Pence Be Investigated for Not Overturning the Election",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/02/donald-trump-mike-pence-january-6-investigation",
+        "timestamp": 1643767817,
+        "sentiment": 0,
+        "published": "February 2, 2022 2:10 AM"
+    },
+    {
+        "title": "‘The Gilded Age’ Viewership Grows 15% In Week 2, Surpasses ‘The White Lotus’",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/the-gilded-age-ratings-viewership-grows-15-week-2-surpasses-white-lotus-1234924598/",
+        "timestamp": 1643769081,
+        "sentiment": 0,
+        "published": "February 2, 2022 2:31 AM"
+    },
+    {
         "title": "Whoopi Goldberg Suspended at ‘The View’ Over “Hurtful” Holocaust Comments",
         "domain": "hollywoodreporter.com",
         "category": "television",
@@ -34,6 +43,24 @@
         "timestamp": 1643769842,
         "sentiment": 0,
         "published": "February 2, 2022 2:44 AM"
+    },
+    {
+        "title": "ABC News suspends 'The View' host Whoopi Goldberg",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html",
+        "timestamp": 1643770325,
+        "sentiment": 0,
+        "published": "February 2, 2022 2:52 AM"
+    },
+    {
+        "title": "Uyghurs reveal what it's like in a Chinese prison",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/lifestyle/thought-reports-propaganda-exams-suicide-122618524.html",
+        "timestamp": 1643762553,
+        "sentiment": -4,
+        "published": "February 2, 2022 12:42 AM"
     },
     {
         "title": "'Ted Lasso' Star Brett Goldstein Signs Warner Bros. TV Deal",
