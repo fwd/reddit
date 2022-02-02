@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/whoopi-goldberg-suspended-the-view-1235085574/",
         "timestamp": 1643769842,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 2, 2022 2:44 AM"
     },
     {
@@ -36,6 +36,15 @@
         "published": "February 2, 2022 2:52 AM"
     },
     {
+        "title": "Beijing Olympics’ COVID cases mounting at faster pace than Tokyo",
+        "domain": "nationalpost.com",
+        "category": "worldnews",
+        "link": "https://nationalpost.com/sports/olympics/beijing-olympics-covid-cases-mounting-at-faster-pace-than-tokyo",
+        "timestamp": 1643775620,
+        "sentiment": -2,
+        "published": "February 2, 2022 4:20 AM"
+    },
+    {
         "title": "Comic book store owners are offering to ship banned Holocaust novel 'Maus' to Tennessee students for free",
         "domain": "edition.cnn.com",
         "category": "news",
@@ -43,15 +52,6 @@
         "timestamp": 1643777336,
         "sentiment": 2,
         "published": "February 2, 2022 4:48 AM"
-    },
-    {
-        "title": "Abbott warns of possible power outages as Texas braces for winter storm",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/state-watch/592408-abbott-warns-of-possible-power-outages-as-texas-braces-for-winter-storm",
-        "timestamp": 1643777867,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:57 AM"
     },
     {
         "title": "Robert E. Lee's descendant proves his lineage and pushes for 'honest' history of racism",
@@ -63,31 +63,22 @@
         "published": "February 2, 2022 6:12 AM"
     },
     {
+        "title": "Boris Johnson Says Russia Threatens Not Only Ukraine, But Georgia & Moldova Too",
+        "domain": "georgianjournal.ge",
+        "category": "worldnews",
+        "link": "https://georgianjournal.ge/usa-news/37757-boris-johnson-says-russia-threatens-not-only-ukraine-but-georgia-moldova-too.html",
+        "timestamp": 1643790806,
+        "sentiment": -2,
+        "published": "February 2, 2022 8:33 AM"
+    },
+    {
         "title": "Denmark Declares Covid No Longer Poses Threat to Society",
         "domain": "bloomberg.com",
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-01-26/denmark-to-end-covid-curbs-as-premier-deems-critical-phase-over",
         "timestamp": 1643791948,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 2, 2022 8:52 AM"
-    },
-    {
-        "title": "Teen monitoring Elon Musk’s jet ‘tracking Gates, Bezos and Drake too’",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/technology/2022/feb/02/teen-tracking-elon-musk-jet-bill-gates-jeff-bezos-drake-jack-sweeney-tesla-flight-tracker-bot",
-        "timestamp": 1643795679,
-        "sentiment": -3,
-        "published": "February 2, 2022 9:54 AM"
-    },
-    {
-        "title": "Putin accuses U.S. of trying to lure Russia into war",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/ukraine-announces-plan-boost-army-foreign-leaders-rally-2022-02-01/",
-        "timestamp": 1643799681,
-        "sentiment": -3,
-        "published": "February 2, 2022 11:01 AM"
     },
     {
         "title": "Republicans to field more than 100 far-right candidates this year | Anti-Defamation League list includes at least a dozen with links to white supremacists, anti-government extremists and Proud Boys",
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/International/wireStory/china-lashes-japans-concern-human-rights-82598613",
         "timestamp": 1643803684,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 2, 2022 12:08 PM"
     },
     {
@@ -185,8 +176,17 @@
         "category": "worldnews",
         "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
         "timestamp": 1643807744,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 2, 2022 1:15 PM"
+    },
+    {
+        "title": "Report says cannabis has contributed $43.5 billion to Canada's GDP since recreational pot was legalized in October 2018. The report by Deloitte and provincial pot distributor, Ontario Cannabis Store, said for every dollar in revenue or capital expenditures, the industry adds $1.09 to Canada's GDP",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/business/cannabis-has-contributed-43-5-billion-to-canada-s-gdp-since-legalization-report-1.5762954",
+        "timestamp": 1643808419,
+        "sentiment": -2,
+        "published": "February 2, 2022 1:26 PM"
     },
     {
         "title": "Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses",
@@ -198,21 +198,12 @@
         "published": "February 2, 2022 1:33 PM"
     },
     {
-        "title": "Ukraine President criticized U.S. of hurting economy by stoking panic over war",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/amp/economy/2022/1/28/ukraine-accuses-us-of-hurting-economy-by-stoking-panic-over-war",
-        "timestamp": 1643809460,
-        "sentiment": -3,
-        "published": "February 2, 2022 1:44 PM"
-    },
-    {
         "title": "‘Pam & Tommy’ Star Lily James: ‘We’re All Complicit’ in Pamela Anderson Mistreatment",
         "domain": "indiewire.com",
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/pam-and-tommy-lily-james-performance-society-fault-1234694359/",
         "timestamp": 1643809687,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 2, 2022 1:48 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html",
         "timestamp": 1643810384,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 2, 2022 1:59 PM"
     },
     {
@@ -243,15 +234,6 @@
         "published": "February 2, 2022 2:09 PM"
     },
     {
-        "title": "U.S. Has Far Higher Covid Death Rate Than Other Wealthy Countries",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "https://www.nytimes.com/interactive/2022/02/01/science/covid-deaths-united-states.html?smid=tw-nytimes&smtyp=cur",
-        "timestamp": 1643811907,
-        "sentiment": -3,
-        "published": "February 2, 2022 2:25 PM"
-    },
-    {
         "title": "Omicron subvariant BA.2 likely to have same severity as 'original' -WHO",
         "domain": "reuters.com",
         "category": "news",
@@ -261,13 +243,94 @@
         "published": "February 2, 2022 2:25 PM"
     },
     {
+        "title": "Oklahoma bill would fire teachers for offending Christian morals by teaching biology",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/02/oklahoma-bill-fire-teachers-offending-christian-morals-teaching-biology/",
+        "timestamp": 1643813017,
+        "sentiment": 0,
+        "published": "February 2, 2022 2:43 PM"
+    },
+    {
         "title": "‘Lucifer’ Star Tom Ellis Joins ‘Washington Black’ Hulu Adventure Series",
         "domain": "tvline.com",
         "category": "television",
         "link": "https://tvline.com/2022/02/02/tom-ellis-cast-washington-black-hulu-series-sterling-k-brown/",
         "timestamp": 1643814244,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 2, 2022 3:04 PM"
+    },
+    {
+        "title": "Jeff Zucker Resigns From CNN",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/jeff-zucker-cnn-resignation/",
+        "timestamp": 1643818055,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:07 PM"
+    },
+    {
+        "title": "'Jeopardy!' episodes with superchampion Amy Schneider and hosted by Ken Jennings post ratings record once more, highest in the post-Trebek era",
+        "domain": "nexttv.com",
+        "category": "television",
+        "link": "https://www.nexttv.com/news/syndication-ratings-jeopardy-stays-on-top-in-final-week-of-amy-schneiders-streak",
+        "timestamp": 1643818377,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:12 PM"
+    },
+    {
+        "title": "Germany bans Russian broadcaster RT’s German-language channel",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/russian-broadcaster-rt-ordered-stop-germany-program/",
+        "timestamp": 1643818972,
+        "sentiment": -2,
+        "published": "February 2, 2022 4:22 PM"
+    },
+    {
+        "title": "Abbott warns of possible power outages as Texas braces for winter storm",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/592408-abbott-warns-of-possible-power-outages-as-texas-braces-for-winter-storm",
+        "timestamp": 1643777867,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:57 AM"
+    },
+    {
+        "title": "Teen monitoring Elon Musk’s jet ‘tracking Gates, Bezos and Drake too’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/technology/2022/feb/02/teen-tracking-elon-musk-jet-bill-gates-jeff-bezos-drake-jack-sweeney-tesla-flight-tracker-bot",
+        "timestamp": 1643795679,
+        "sentiment": -3,
+        "published": "February 2, 2022 9:54 AM"
+    },
+    {
+        "title": "Putin accuses U.S. of trying to lure Russia into war",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-announces-plan-boost-army-foreign-leaders-rally-2022-02-01/",
+        "timestamp": 1643799681,
+        "sentiment": -3,
+        "published": "February 2, 2022 11:01 AM"
+    },
+    {
+        "title": "Ukraine President criticized U.S. of hurting economy by stoking panic over war",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/amp/economy/2022/1/28/ukraine-accuses-us-of-hurting-economy-by-stoking-panic-over-war",
+        "timestamp": 1643809460,
+        "sentiment": -3,
+        "published": "February 2, 2022 1:44 PM"
+    },
+    {
+        "title": "U.S. Has Far Higher Covid Death Rate Than Other Wealthy Countries",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/interactive/2022/02/01/science/covid-deaths-united-states.html?smid=tw-nytimes&smtyp=cur",
+        "timestamp": 1643811907,
+        "sentiment": -3,
+        "published": "February 2, 2022 2:25 PM"
     },
     {
         "title": "‘Dodger’: Oliver Twist given new spin in BBC prequel to Charles Dickens novel",
@@ -304,15 +367,6 @@
         "timestamp": 1643769071,
         "sentiment": 2,
         "published": "February 2, 2022 2:31 AM"
-    },
-    {
-        "title": "Beijing Olympics’ COVID cases mounting at faster pace than Tokyo",
-        "domain": "nationalpost.com",
-        "category": "worldnews",
-        "link": "https://nationalpost.com/sports/olympics/beijing-olympics-covid-cases-mounting-at-faster-pace-than-tokyo",
-        "timestamp": 1643775620,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:20 AM"
     },
     {
         "title": "Big Pharma emits more greenhouse gases than the automotive industry",
