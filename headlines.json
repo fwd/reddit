@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-public-housing-manchin-warmth-yacht-houseboat-bbb-dead-2022-2",
         "timestamp": 1643762844,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "February 2, 2022 12:47 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/02/donald-trump-mike-pence-january-6-investigation",
         "timestamp": 1643767817,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "February 2, 2022 2:10 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://apnews.com/article/coronavirus-pandemic-us-supreme-court-travel-health-ron-desantis-615d109c686464cbbd22b602ce58b27f",
         "timestamp": 1643769071,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "February 2, 2022 2:31 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html",
         "timestamp": 1643770325,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 2:52 AM"
     },
     {
@@ -59,8 +59,26 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/02/01/us/comic-store-owners-shipping-maus-trnd/index.html",
         "timestamp": 1643777336,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 4:48 AM"
+    },
+    {
+        "title": "Abbott warns of possible power outages as Texas braces for winter storm",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/592408-abbott-warns-of-possible-power-outages-as-texas-braces-for-winter-storm",
+        "timestamp": 1643777867,
+        "sentiment": 1,
+        "published": "February 2, 2022 4:57 AM"
+    },
+    {
+        "title": "Robert E. Lee's descendant proves his lineage and pushes for 'honest' history of racism",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/01/us/robert-e-lee-anti-racism-descendant/index.html",
+        "timestamp": 1643782336,
+        "sentiment": -3,
+        "published": "February 2, 2022 6:12 AM"
     },
     {
         "title": "New metric shows how severe global warming is getting\" “heat extremes could become 14 to 30 times more frequent” ”How much more evidence do we need to see that it's going to be bad if we don't bend the emissions curve [downward]?\"",
