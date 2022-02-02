@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html",
         "timestamp": 1643770325,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 2:52 AM"
     },
     {
@@ -23,26 +23,8 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/02/01/us/comic-store-owners-shipping-maus-trnd/index.html",
         "timestamp": 1643777336,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 4:48 AM"
-    },
-    {
-        "title": "Robert E. Lee's descendant proves his lineage and pushes for 'honest' history of racism",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/01/us/robert-e-lee-anti-racism-descendant/index.html",
-        "timestamp": 1643782336,
-        "sentiment": 0,
-        "published": "February 2, 2022 6:12 AM"
-    },
-    {
-        "title": "Boris Johnson Says Russia Threatens Not Only Ukraine, But Georgia & Moldova Too",
-        "domain": "georgianjournal.ge",
-        "category": "worldnews",
-        "link": "https://georgianjournal.ge/usa-news/37757-boris-johnson-says-russia-threatens-not-only-ukraine-but-georgia-moldova-too.html",
-        "timestamp": 1643790806,
-        "sentiment": 0,
-        "published": "February 2, 2022 8:33 AM"
     },
     {
         "title": "Denmark Declares Covid No Longer Poses Threat to Society",
@@ -50,26 +32,17 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-01-26/denmark-to-end-covid-curbs-as-premier-deems-critical-phase-over",
         "timestamp": 1643791948,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 8:52 AM"
     },
     {
-        "title": "Republicans to field more than 100 far-right candidates this year | Anti-Defamation League list includes at least a dozen with links to white supremacists, anti-government extremists and Proud Boys",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/world/2022/feb/02/republicans-100-far-right-candidates-2022",
-        "timestamp": 1643800176,
-        "sentiment": 0,
-        "published": "February 2, 2022 11:09 AM"
-    },
-    {
-        "title": "The January 6 committee is looking into Trump's involvement in proposals to use federal agencies to seize voting machines: NYT",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/january-6-committee-investigating-trumps-role-plans-seize-voting-machines-2022-2",
-        "timestamp": 1643801909,
-        "sentiment": 0,
-        "published": "February 2, 2022 11:38 AM"
+        "title": "In heated meeting, India seeks tougher action from U.S. tech giants on fake news",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/india/exclusive-heated-meeting-india-seeks-tougher-action-us-tech-giants-fake-news-2022-02-02",
+        "timestamp": 1643800853,
+        "sentiment": -3,
+        "published": "February 2, 2022 11:20 AM"
     },
     {
         "title": "Why are US rightwingers so opposed to a Black female supreme court nominee?",
@@ -77,7 +50,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/feb/02/joe-biden-supreme-court-nominee-right-reaction-black-female-nominee",
         "timestamp": 1643802711,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 11:51 AM"
     },
     {
@@ -86,7 +59,7 @@
         "category": "worldnews",
         "link": "https://abcnews.go.com/International/wireStory/china-lashes-japans-concern-human-rights-82598613",
         "timestamp": 1643803684,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 12:08 PM"
     },
     {
@@ -95,17 +68,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/native-american-tribes-reach-590-million-opioid-settlement-rcna14508",
         "timestamp": 1643804858,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 12:27 PM"
-    },
-    {
-        "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter",
-        "domain": "fox5dc.com",
-        "category": "news",
-        "link": "https://www.fox5dc.com/news/groundhog-day-2022-punxsutawney-phil-sees-shadow-predicts-6-more-weeks-of-winter",
-        "timestamp": 1643805176,
-        "sentiment": 0,
-        "published": "February 2, 2022 12:32 PM"
     },
     {
         "title": "January 6 committee member says Trump 'absolutely' tampering with witnesses",
@@ -113,7 +77,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/02/02/politics/pete-aguilar-trump-january-6-pardons-cnntv/index.html",
         "timestamp": 1643806018,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 12:46 PM"
     },
     {
@@ -122,7 +86,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/conspiracy-charges-possible-filing-bogus-election-slates-legal-experts-rcna14286",
         "timestamp": 1643806504,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 12:55 PM"
     },
     {
@@ -131,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/miami-herald-ron-desantis-nazis_n_61f8e0efe4b04f9a12c1bc7e",
         "timestamp": 1643807266,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 1:07 PM"
     },
     {
@@ -140,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/uk/britain-scrambles-jets-after-detecting-unidentfied-aircraft-2022-02-02/",
         "timestamp": 1643807381,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 1:09 PM"
     },
     {
@@ -149,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.dutchnews.nl/news/2022/02/rotterdam-bridge-to-be-dismantled-so-jeff-bezos-yacht-can-pass-through/",
         "timestamp": 1643807744,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 1:15 PM"
     },
     {
@@ -158,17 +122,8 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/business/cannabis-has-contributed-43-5-billion-to-canada-s-gdp-since-legalization-report-1.5762954",
         "timestamp": 1643808419,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 1:26 PM"
-    },
-    {
-        "title": "Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559",
-        "timestamp": 1643808829,
-        "sentiment": 0,
-        "published": "February 2, 2022 1:33 PM"
     },
     {
         "title": "‘Pam & Tommy’ Star Lily James: ‘We’re All Complicit’ in Pamela Anderson Mistreatment",
@@ -185,7 +140,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/feb/01/extreme-heat-oceans-passed-point-of-no-return-high-temperatures-wildlife-seas",
         "timestamp": 1643809808,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 1:50 PM"
     },
     {
@@ -194,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html",
         "timestamp": 1643810384,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 1:59 PM"
     },
     {
@@ -203,7 +158,7 @@
         "category": "news",
         "link": "https://abc13.com/houston-news-doctor-suing-bank-malika-mitchell-stewart-jpmorgan-chase-lawsuit/11530333/#:~:text=HOUSTON%2C%20Texas%20(KTRK)%20%2D%2D,had%20just%20finished%20her%20residency",
         "timestamp": 1643810973,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 2:09 PM"
     },
     {
@@ -212,7 +167,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/mitch-mcconnell-office-racial-quota-b2005684.html",
         "timestamp": 1643812806,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 2:40 PM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/02/oklahoma-bill-fire-teachers-offending-christian-morals-teaching-biology/",
         "timestamp": 1643813017,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 2:43 PM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/02/europe/russia-troops-ukraine-buildup-satellite-images-intl/index.html",
         "timestamp": 1643818468,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 4:14 PM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/russian-broadcaster-rt-ordered-stop-germany-program/",
         "timestamp": 1643818972,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 2, 2022 4:22 PM"
     },
     {
@@ -275,8 +230,17 @@
         "category": "politics",
         "link": "https://arstechnica.com/science/2022/02/a-deep-freeze-is-coming-to-texas-and-no-one-knows-if-the-power-grid-is-ready/",
         "timestamp": 1643819126,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 2, 2022 4:25 PM"
+    },
+    {
+        "title": "Vindman lawsuit accuses Trump Jr., Giuliani of witness intimidation, retaliation",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/592438-vindman-lawsuit-accuses-trump-jr-giuliani-of-witness-intimidation",
+        "timestamp": 1643819274,
+        "sentiment": -6,
+        "published": "February 2, 2022 4:27 PM"
     },
     {
         "title": "Neo-Nazis target anti-racist doctors at Brigham and Women's Hospital, calling them 'anti-white'",
@@ -284,17 +248,17 @@
         "category": "news",
         "link": "https://www.wgbh.org/news/local-news/2022/02/02/neo-nazis-target-anti-racist-doctors-at-brigham-and-womens-hospital-calling-them-anti-white",
         "timestamp": 1643819389,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 4:29 PM"
     },
     {
-        "title": "Britain intercepted and escorted four Russian bombers - Royal Air Force",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/uk/britain-intercepted-escorted-four-russian-bombers-royal-air-force-2022-02-02/",
-        "timestamp": 1643820696,
-        "sentiment": 0,
-        "published": "February 2, 2022 4:51 PM"
+        "title": "Arkansas jail sued over ivermectin treatments has alleged history of leaving ailing inmates \"harmed and worse off\"",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/arkansas-jail-sued-ivermectin-treatments-history-lawsuits/?ftag=CNM-00-10aab7e&linkId=150575377&s=09",
+        "timestamp": 1643819794,
+        "sentiment": 2,
+        "published": "February 2, 2022 4:36 PM"
     },
     {
         "title": "Star witness in Ukraine impeachment saga sues Trump allies and alleges conspiracy to intimidate him",
@@ -302,7 +266,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/02/politics/alexander-vindman-donald-trump-rudy-giuliani-ukraine-impeachment/index.html",
         "timestamp": 1643820731,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 2, 2022 4:52 PM"
     },
     {
@@ -313,6 +277,114 @@
         "timestamp": 1643824072,
         "sentiment": 0,
         "published": "February 2, 2022 5:47 PM"
+    },
+    {
+        "title": "Fox News could be in big trouble: Dominion's huge defamation lawsuit makes a strong case Dominion's lawsuit accuses Fox of propagating false election propaganda. My research suggests that's clearly true",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/02/fox-news-could-be-in-big-trouble-dominions-huge-defamation-makes-a-strong-case/",
+        "timestamp": 1643824389,
+        "sentiment": -6,
+        "published": "February 2, 2022 5:53 PM"
+    },
+    {
+        "title": "Retired Lt. Col. Alexander Vindman files federal lawsuit accusing Trump and Rudy Giuliani of violating the Ku Klux Klan Act",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/alexander-vindman-files-federal-civil-lawsuit-trump-giuliani-2022-2",
+        "timestamp": 1643824838,
+        "sentiment": -6,
+        "published": "February 2, 2022 6:00 PM"
+    },
+    {
+        "title": "New Jersey plow driver who sprayed Orthodox Jews with snow during storm facing criminal probe",
+        "domain": "phillyvoice.com",
+        "category": "news",
+        "link": "https://www.phillyvoice.com/lakewood-snow-plow-video-orthodox-jews-new-jersey-hate-crime/",
+        "timestamp": 1643826997,
+        "sentiment": 2,
+        "published": "February 2, 2022 6:36 PM"
+    },
+    {
+        "title": "All four members of Crosby, Stills, Nash & Young have pulled their respective solo catalogs as well as the music they made together from Spotify",
+        "domain": "consequence.net",
+        "category": "news",
+        "link": "https://consequence.net/2022/02/david-crosby-stephen-stills-graham-nash-neil-young-spotify/",
+        "timestamp": 1643829157,
+        "sentiment": 2,
+        "published": "February 2, 2022 7:12 PM"
+    },
+    {
+        "title": "UN accused of collaborating with China to delay Xinjiang human rights report until after Olympics",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/article/3165629/un-accused-collaborating-china-delay-xinjiang-human-rights-report-until?utm_source=rss_feed",
+        "timestamp": 1643830243,
+        "sentiment": -3,
+        "published": "February 2, 2022 7:30 PM"
+    },
+    {
+        "title": "Robert E. Lee's descendant proves his lineage and pushes for 'honest' history of racism",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/01/us/robert-e-lee-anti-racism-descendant/index.html",
+        "timestamp": 1643782336,
+        "sentiment": 0,
+        "published": "February 2, 2022 6:12 AM"
+    },
+    {
+        "title": "Boris Johnson Says Russia Threatens Not Only Ukraine, But Georgia & Moldova Too",
+        "domain": "georgianjournal.ge",
+        "category": "worldnews",
+        "link": "https://georgianjournal.ge/usa-news/37757-boris-johnson-says-russia-threatens-not-only-ukraine-but-georgia-moldova-too.html",
+        "timestamp": 1643790806,
+        "sentiment": 0,
+        "published": "February 2, 2022 8:33 AM"
+    },
+    {
+        "title": "Republicans to field more than 100 far-right candidates this year | Anti-Defamation League list includes at least a dozen with links to white supremacists, anti-government extremists and Proud Boys",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/world/2022/feb/02/republicans-100-far-right-candidates-2022",
+        "timestamp": 1643800176,
+        "sentiment": 0,
+        "published": "February 2, 2022 11:09 AM"
+    },
+    {
+        "title": "The January 6 committee is looking into Trump's involvement in proposals to use federal agencies to seize voting machines: NYT",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/january-6-committee-investigating-trumps-role-plans-seize-voting-machines-2022-2",
+        "timestamp": 1643801909,
+        "sentiment": 0,
+        "published": "February 2, 2022 11:38 AM"
+    },
+    {
+        "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter",
+        "domain": "fox5dc.com",
+        "category": "news",
+        "link": "https://www.fox5dc.com/news/groundhog-day-2022-punxsutawney-phil-sees-shadow-predicts-6-more-weeks-of-winter",
+        "timestamp": 1643805176,
+        "sentiment": 0,
+        "published": "February 2, 2022 12:32 PM"
+    },
+    {
+        "title": "Jan. 6 committee member: Trump ‘absolutely’ tampering with witnesses",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/02/02/jan-6-committee-trump-witnesses-00004559",
+        "timestamp": 1643808829,
+        "sentiment": 0,
+        "published": "February 2, 2022 1:33 PM"
+    },
+    {
+        "title": "Britain intercepted and escorted four Russian bombers - Royal Air Force",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/britain-intercepted-escorted-four-russian-bombers-royal-air-force-2022-02-02/",
+        "timestamp": 1643820696,
+        "sentiment": 0,
+        "published": "February 2, 2022 4:51 PM"
     },
     {
         "title": "Trump Officially Loses It, Demands Mike Pence Be Investigated for Not Overturning the Election",
