@@ -1,20 +1,11 @@
 [
     {
-        "title": "Unmasking Of Contestant On Fox’s ‘The Masked Singer’ Prompts Judges Ken Jeong & Robin Thicke To Walk Off In Protest",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/rudy-giuliani-the-masked-singer-contestant-judge-ken-jeong-robin-thicke-walk-off-in-protest-1234925291",
-        "timestamp": 1643847995,
-        "sentiment": -2,
-        "published": "February 3, 2022 12:26 AM"
-    },
-    {
         "title": "‘Significant element’ from U.S. involved in self-described ‘Freedom Convoy’ in Canada, official says",
         "domain": "washingtonpost.com",
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
         "timestamp": 1643852055,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 3, 2022 1:34 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/tucker-carlson-liberal-viewership-fox-news/",
         "timestamp": 1643854750,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 2:19 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
         "timestamp": 1643866811,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 5:40 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60238565",
         "timestamp": 1643884404,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 10:33 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60238869",
         "timestamp": 1643885634,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 3, 2022 10:53 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.thejournal.ie/brazil-deforestation-amazon-record-level-5671868-Feb2022/",
         "timestamp": 1643888084,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 11:34 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
         "timestamp": 1643889243,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "February 3, 2022 11:54 AM"
     },
     {
@@ -77,8 +68,287 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
         "timestamp": 1643889463,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 3, 2022 11:57 AM"
+    },
+    {
+        "title": "Trucker convoy GoFundMe suspended after reaching $10.1 million",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
+        "timestamp": 1643892843,
+        "sentiment": -3,
+        "published": "February 3, 2022 12:54 PM"
+    },
+    {
+        "title": "US conducts counterterrorism raid in Syria killing ISIS leader",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
+        "timestamp": 1643893733,
+        "sentiment": -3,
+        "published": "February 3, 2022 1:08 PM"
+    },
+    {
+        "title": "Trinity Spirit Oil Tanker That Can Carry 2 Million Barrels Explodes at Sea",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/trinity-spirit-oil-tanker-explodes-nigeria-sea-million-barrels-video-1675743",
+        "timestamp": 1643898519,
+        "sentiment": -4,
+        "published": "February 3, 2022 2:28 PM"
+    },
+    {
+        "title": "Susan Collins says it may be difficult for Republicans to reject a Black, female Supreme Court nominee because Democrats have painted the GOP as 'anti-Black'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/collins-tough-for-republicans-reject-black-female-supreme-court-nominee-2022-2",
+        "timestamp": 1643899063,
+        "sentiment": -1,
+        "published": "February 3, 2022 2:37 PM"
+    },
+    {
+        "title": "No, Democrats and Republicans Aren’t Equally Anti-Democratic",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/02/no-democrats-and-republicans-arent-equally-anti-democratic.html",
+        "timestamp": 1643900057,
+        "sentiment": -1,
+        "published": "February 3, 2022 2:54 PM"
+    },
+    {
+        "title": "Lord of the Rings: The Rings of Power receives character posters",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters",
+        "timestamp": 1643901256,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:14 PM"
+    },
+    {
+        "title": "How 'Russian Doll' still encourages us to keep searching for personal connections",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/netflix/russian-doll-anniversary-connections/",
+        "timestamp": 1643901301,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:15 PM"
+    },
+    {
+        "title": "‘South Park’ Returns With Regular Season Episodes, Skewering Matt Damon and Cryptocurrency",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-returns-matt-damon-cryptocurrency-1235086421/",
+        "timestamp": 1643901549,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:19 PM"
+    },
+    {
+        "title": "Rejected Mail Ballots Are Showing Racial Disparities Auditors in Washington State found that the mail ballots of Black voters were being rejected at four times the rate of white voters. Similar trends have been seen in other states",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/02/us/mail-voting-black-latino.html",
+        "timestamp": 1643903139,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:45 PM"
+    },
+    {
+        "title": "‘Yellowstone’ Renewed for Season 5 at Paramount Network",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/yellowstone-renewed-for-season-5-at-paramount-network-1235086318",
+        "timestamp": 1643904017,
+        "sentiment": -1,
+        "published": "February 3, 2022 4:00 PM"
+    },
+    {
+        "title": "A Fight Over the Right to Repair Cars Turns Ugly",
+        "domain": "wired.com",
+        "category": "news",
+        "link": "https://www.wired.com/story/fight-right-repair-cars-turns-ugly/",
+        "timestamp": 1643905724,
+        "sentiment": -3,
+        "published": "February 3, 2022 4:28 PM"
+    },
+    {
+        "title": "EPA, White House warn Louis DeJoy to halt plan to replace USPS fleet with gas-powered trucks",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/03/politics/epa-postal-service-gas-electric-trucks/index.html",
+        "timestamp": 1643906303,
+        "sentiment": -1,
+        "published": "February 3, 2022 4:38 PM"
+    },
+    {
+        "title": "Ted Cruz tweets about rising Cancun flight costs ahead of another Texas winter storm",
+        "domain": "kxan.com",
+        "category": "politics",
+        "link": "https://www.kxan.com/news/texas-politics/ted-cruz-tweets-about-rising-cancun-flight-costs-ahead-of-another-texas-winter-storm/amp/",
+        "timestamp": 1643908816,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:20 PM"
+    },
+    {
+        "title": "Putin heads to China to bolster ties amid Ukraine tensions",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-sports-business-china-russia-b92f4d266b4d8d2e7711ab930c6e9fd1",
+        "timestamp": 1643908947,
+        "sentiment": -4,
+        "published": "February 3, 2022 5:22 PM"
+    },
+    {
+        "title": "Netflix’s ‘That ’90s Show’ Reveals Its Next Generation Cast",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/that-90s-show-cast-netflix-1235086553/",
+        "timestamp": 1643909461,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:31 PM"
+    },
+    {
+        "title": "'DeJoy Has to Go Right Now': Fury Over Postal Service Failure to Electrify Truck Fleet | Rep. Gerry Connolly warned that DeJoy is aiming to \"spend billions on gas-powered vehicles despite clear goals set by President Biden and Congress to electrify the federal fleet.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/03/dejoy-has-go-right-now-fury-over-postal-service-failure-electrify-truck-fleet",
+        "timestamp": 1643911132,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:58 PM"
+    },
+    {
+        "title": "Trudeau rules out negotiating with protesters, says military deployment 'not in the cards'",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/trudeau-protest-1.6335086",
+        "timestamp": 1643911666,
+        "sentiment": -4,
+        "published": "February 3, 2022 6:07 PM"
+    },
+    {
+        "title": "Tesla owners complain about 'phantom braking.' Federal safety regulator considers a probe",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/03/business/tesla-phantom-braking/index.html",
+        "timestamp": 1643911747,
+        "sentiment": -3,
+        "published": "February 3, 2022 6:09 PM"
+    },
+    {
+        "title": "We can stop the white-collar insurrectionists from doing it again: Here's how The Capital mob isn't the real problem .Those in power who inspired them must barred from holding office .",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/03/we-can-stop-the-collar-insurrectionists-from-doing-it-again-heres-how/",
+        "timestamp": 1643915789,
+        "sentiment": -1,
+        "published": "February 3, 2022 7:16 PM"
+    },
+    {
+        "title": "Police watchdog finds misogynistic, racist, discriminatory behavior among London police",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/592634-watchdog-finds-misogynistic-racist-discriminatory-behavior-among-london",
+        "timestamp": 1643915797,
+        "sentiment": -4,
+        "published": "February 3, 2022 7:16 PM"
+    },
+    {
+        "title": "U.S. accuses Russia of planning \"staged\" video as pretext for Ukraine attack",
+        "domain": "axios.com",
+        "category": "news",
+        "link": "https://www.axios.com/russia-invasion-ukraine-pretext-video-false-flag-96067bed-551c-4b28-aa8b-778a645bc9e0.html",
+        "timestamp": 1643916685,
+        "sentiment": -3,
+        "published": "February 3, 2022 7:31 PM"
+    },
+    {
+        "title": "Norway bans breeding of Cavalier King Charles Spaniels and bulldogs",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/02/02/norway-bans-breeding-cavalier-king-charles-spaniels-bulldogs/amp/",
+        "timestamp": 1643918767,
+        "sentiment": -4,
+        "published": "February 3, 2022 8:06 PM"
+    },
+    {
+        "title": "Oscar Isaac Says Moon Knight Is 'A Limited Series' And It Gets 'Very Weird'",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/756448/oscar-isaac-says-moon-knight-is-a-limited-series-and-it-gets-very-weird/",
+        "timestamp": 1643919013,
+        "sentiment": -1,
+        "published": "February 3, 2022 8:10 PM"
+    },
+    {
+        "title": "American hacker says he took down North Korean internet, Wired reports",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/technology/american-hacker-says-he-took-down-north-korean-internet-wired-reports/ar-AATrIvx?ocid=BingNewsSearch",
+        "timestamp": 1643920380,
+        "sentiment": -4,
+        "published": "February 3, 2022 8:33 PM"
+    },
+    {
+        "title": "‘Ghosts’ Has Become Such a Big Hit That Even CBS Execs Are Surprised: ‘TikTok Is Blowing Up!’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/ghosts-cbs-comedy-hit-1235170357/",
+        "timestamp": 1643920463,
+        "sentiment": -1,
+        "published": "February 3, 2022 8:34 PM"
+    },
+    {
+        "title": "Next-gen USPS mail trucks are only capable of 8.6 mpg, EPA says | It's claimed the USPS did not consider environmental impacts as required by law.",
+        "domain": "arstechnica.com",
+        "category": "politics",
+        "link": "https://arstechnica.com/cars/2022/02/the-epa-and-white-house-take-fire-at-inefficient-new-mail-trucks/",
+        "timestamp": 1643920631,
+        "sentiment": -1,
+        "published": "February 3, 2022 8:37 PM"
+    },
+    {
+        "title": "A Colorado school district was forced to cancel classes after teachers called out sick to protest the new conservative school board",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/colorado-school-district-cancels-class-teachers-protest-conservative-school-board-2022-2",
+        "timestamp": 1643921391,
+        "sentiment": -1,
+        "published": "February 3, 2022 8:49 PM"
+    },
+    {
+        "title": "Canadian MPs vote to call GoFundMe to testify at Commons committee on convoy protest",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/convoy-protest-mps-gofundme-1.6338433",
+        "timestamp": 1643921745,
+        "sentiment": -4,
+        "published": "February 3, 2022 8:55 PM"
+    },
+    {
+        "title": "Amazon increases the price of Prime nearly 17% to $139 per year",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/03/amazon-increases-the-price-of-prime-nearly-17percent-to-139-per-year.html",
+        "timestamp": 1643922855,
+        "sentiment": -3,
+        "published": "February 3, 2022 9:14 PM"
+    },
+    {
+        "title": "Facebook's $237.6 billion fall sets record for largest one-day value drop in stock market history",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/03/facebooks-237point6-billion-drop-in-value-sets-all-time-record.html",
+        "timestamp": 1643925474,
+        "sentiment": -3,
+        "published": "February 3, 2022 9:57 PM"
+    },
+    {
+        "title": "Unmasking Of Contestant On Fox’s ‘The Masked Singer’ Prompts Judges Ken Jeong & Robin Thicke To Walk Off In Protest",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/rudy-giuliani-the-masked-singer-contestant-judge-ken-jeong-robin-thicke-walk-off-in-protest-1234925291",
+        "timestamp": 1643847995,
+        "sentiment": -2,
+        "published": "February 3, 2022 12:26 AM"
     },
     {
         "title": "Jan. 6 committee subpoenas fake Trump electors in 7 states",
@@ -90,87 +360,6 @@
         "published": "February 3, 2022 12:21 PM"
     },
     {
-        "title": "Trucker convoy GoFundMe suspended after reaching $10.1 million",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
-        "timestamp": 1643892843,
-        "sentiment": -1,
-        "published": "February 3, 2022 12:54 PM"
-    },
-    {
-        "title": "US conducts counterterrorism raid in Syria killing ISIS leader",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
-        "timestamp": 1643893733,
-        "sentiment": -1,
-        "published": "February 3, 2022 1:08 PM"
-    },
-    {
-        "title": "Trinity Spirit Oil Tanker That Can Carry 2 Million Barrels Explodes at Sea",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/trinity-spirit-oil-tanker-explodes-nigeria-sea-million-barrels-video-1675743",
-        "timestamp": 1643898519,
-        "sentiment": -2,
-        "published": "February 3, 2022 2:28 PM"
-    },
-    {
-        "title": "Susan Collins says it may be difficult for Republicans to reject a Black, female Supreme Court nominee because Democrats have painted the GOP as 'anti-Black'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/collins-tough-for-republicans-reject-black-female-supreme-court-nominee-2022-2",
-        "timestamp": 1643899063,
-        "sentiment": -6,
-        "published": "February 3, 2022 2:37 PM"
-    },
-    {
-        "title": "No, Democrats and Republicans Aren’t Equally Anti-Democratic",
-        "domain": "nymag.com",
-        "category": "politics",
-        "link": "https://nymag.com/intelligencer/2022/02/no-democrats-and-republicans-arent-equally-anti-democratic.html",
-        "timestamp": 1643900057,
-        "sentiment": -6,
-        "published": "February 3, 2022 2:54 PM"
-    },
-    {
-        "title": "Lord of the Rings: The Rings of Power receives character posters",
-        "domain": "polygon.com",
-        "category": "television",
-        "link": "https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters",
-        "timestamp": 1643901256,
-        "sentiment": -2,
-        "published": "February 3, 2022 3:14 PM"
-    },
-    {
-        "title": "How 'Russian Doll' still encourages us to keep searching for personal connections",
-        "domain": "pastemagazine.com",
-        "category": "television",
-        "link": "https://www.pastemagazine.com/tv/netflix/russian-doll-anniversary-connections/",
-        "timestamp": 1643901301,
-        "sentiment": -2,
-        "published": "February 3, 2022 3:15 PM"
-    },
-    {
-        "title": "‘South Park’ Returns With Regular Season Episodes, Skewering Matt Damon and Cryptocurrency",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-returns-matt-damon-cryptocurrency-1235086421/",
-        "timestamp": 1643901549,
-        "sentiment": -2,
-        "published": "February 3, 2022 3:19 PM"
-    },
-    {
-        "title": "Rejected Mail Ballots Are Showing Racial Disparities Auditors in Washington State found that the mail ballots of Black voters were being rejected at four times the rate of white voters. Similar trends have been seen in other states",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/02/02/us/mail-voting-black-latino.html",
-        "timestamp": 1643903139,
-        "sentiment": -6,
-        "published": "February 3, 2022 3:45 PM"
-    },
-    {
         "title": "Texas winter storm: Over 70,000 Texans are without power as arctic cold front hits state",
         "domain": "abc13.com",
         "category": "news",
@@ -180,87 +369,6 @@
         "published": "February 3, 2022 3:48 PM"
     },
     {
-        "title": "‘Yellowstone’ Renewed for Season 5 at Paramount Network",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/yellowstone-renewed-for-season-5-at-paramount-network-1235086318",
-        "timestamp": 1643904017,
-        "sentiment": -2,
-        "published": "February 3, 2022 4:00 PM"
-    },
-    {
-        "title": "A Fight Over the Right to Repair Cars Turns Ugly",
-        "domain": "wired.com",
-        "category": "news",
-        "link": "https://www.wired.com/story/fight-right-repair-cars-turns-ugly/",
-        "timestamp": 1643905724,
-        "sentiment": -1,
-        "published": "February 3, 2022 4:28 PM"
-    },
-    {
-        "title": "EPA, White House warn Louis DeJoy to halt plan to replace USPS fleet with gas-powered trucks",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/03/politics/epa-postal-service-gas-electric-trucks/index.html",
-        "timestamp": 1643906303,
-        "sentiment": -6,
-        "published": "February 3, 2022 4:38 PM"
-    },
-    {
-        "title": "Ted Cruz tweets about rising Cancun flight costs ahead of another Texas winter storm",
-        "domain": "kxan.com",
-        "category": "politics",
-        "link": "https://www.kxan.com/news/texas-politics/ted-cruz-tweets-about-rising-cancun-flight-costs-ahead-of-another-texas-winter-storm/amp/",
-        "timestamp": 1643908816,
-        "sentiment": -6,
-        "published": "February 3, 2022 5:20 PM"
-    },
-    {
-        "title": "Putin heads to China to bolster ties amid Ukraine tensions",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-sports-business-china-russia-b92f4d266b4d8d2e7711ab930c6e9fd1",
-        "timestamp": 1643908947,
-        "sentiment": -2,
-        "published": "February 3, 2022 5:22 PM"
-    },
-    {
-        "title": "Netflix’s ‘That ’90s Show’ Reveals Its Next Generation Cast",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/that-90s-show-cast-netflix-1235086553/",
-        "timestamp": 1643909461,
-        "sentiment": -2,
-        "published": "February 3, 2022 5:31 PM"
-    },
-    {
-        "title": "'DeJoy Has to Go Right Now': Fury Over Postal Service Failure to Electrify Truck Fleet | Rep. Gerry Connolly warned that DeJoy is aiming to \"spend billions on gas-powered vehicles despite clear goals set by President Biden and Congress to electrify the federal fleet.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/02/03/dejoy-has-go-right-now-fury-over-postal-service-failure-electrify-truck-fleet",
-        "timestamp": 1643911132,
-        "sentiment": -6,
-        "published": "February 3, 2022 5:58 PM"
-    },
-    {
-        "title": "Trudeau rules out negotiating with protesters, says military deployment 'not in the cards'",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/politics/trudeau-protest-1.6335086",
-        "timestamp": 1643911666,
-        "sentiment": -2,
-        "published": "February 3, 2022 6:07 PM"
-    },
-    {
-        "title": "Tesla owners complain about 'phantom braking.' Federal safety regulator considers a probe",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/03/business/tesla-phantom-braking/index.html",
-        "timestamp": 1643911747,
-        "sentiment": -1,
-        "published": "February 3, 2022 6:09 PM"
-    },
-    {
         "title": "U.S. says new intel shows Russia plotting false flag attack",
         "domain": "apnews.com",
         "category": "worldnews",
@@ -268,87 +376,6 @@
         "timestamp": 1643913313,
         "sentiment": -2,
         "published": "February 3, 2022 6:35 PM"
-    },
-    {
-        "title": "We can stop the white-collar insurrectionists from doing it again: Here's how The Capital mob isn't the real problem .Those in power who inspired them must barred from holding office .",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/02/03/we-can-stop-the-collar-insurrectionists-from-doing-it-again-heres-how/",
-        "timestamp": 1643915789,
-        "sentiment": -6,
-        "published": "February 3, 2022 7:16 PM"
-    },
-    {
-        "title": "Police watchdog finds misogynistic, racist, discriminatory behavior among London police",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/international/592634-watchdog-finds-misogynistic-racist-discriminatory-behavior-among-london",
-        "timestamp": 1643915797,
-        "sentiment": -2,
-        "published": "February 3, 2022 7:16 PM"
-    },
-    {
-        "title": "U.S. accuses Russia of planning \"staged\" video as pretext for Ukraine attack",
-        "domain": "axios.com",
-        "category": "news",
-        "link": "https://www.axios.com/russia-invasion-ukraine-pretext-video-false-flag-96067bed-551c-4b28-aa8b-778a645bc9e0.html",
-        "timestamp": 1643916685,
-        "sentiment": -1,
-        "published": "February 3, 2022 7:31 PM"
-    },
-    {
-        "title": "Norway bans breeding of Cavalier King Charles Spaniels and bulldogs",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/02/02/norway-bans-breeding-cavalier-king-charles-spaniels-bulldogs/amp/",
-        "timestamp": 1643918767,
-        "sentiment": -2,
-        "published": "February 3, 2022 8:06 PM"
-    },
-    {
-        "title": "Oscar Isaac Says Moon Knight Is 'A Limited Series' And It Gets 'Very Weird'",
-        "domain": "slashfilm.com",
-        "category": "television",
-        "link": "https://www.slashfilm.com/756448/oscar-isaac-says-moon-knight-is-a-limited-series-and-it-gets-very-weird/",
-        "timestamp": 1643919013,
-        "sentiment": -2,
-        "published": "February 3, 2022 8:10 PM"
-    },
-    {
-        "title": "‘Ghosts’ Has Become Such a Big Hit That Even CBS Execs Are Surprised: ‘TikTok Is Blowing Up!’",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/ghosts-cbs-comedy-hit-1235170357/",
-        "timestamp": 1643920463,
-        "sentiment": -2,
-        "published": "February 3, 2022 8:34 PM"
-    },
-    {
-        "title": "A Colorado school district was forced to cancel classes after teachers called out sick to protest the new conservative school board",
-        "domain": "insider.com",
-        "category": "politics",
-        "link": "https://www.insider.com/colorado-school-district-cancels-class-teachers-protest-conservative-school-board-2022-2",
-        "timestamp": 1643921391,
-        "sentiment": -6,
-        "published": "February 3, 2022 8:49 PM"
-    },
-    {
-        "title": "Canadian MPs vote to call GoFundMe to testify at Commons committee on convoy protest",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/politics/convoy-protest-mps-gofundme-1.6338433",
-        "timestamp": 1643921745,
-        "sentiment": -2,
-        "published": "February 3, 2022 8:55 PM"
-    },
-    {
-        "title": "Amazon increases the price of Prime nearly 17% to $139 per year",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/03/amazon-increases-the-price-of-prime-nearly-17percent-to-139-per-year.html",
-        "timestamp": 1643922855,
-        "sentiment": -1,
-        "published": "February 3, 2022 9:14 PM"
     },
     {
         "title": "A church is suing after a town says it can only give away free meals twice per week",
