@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://knpr.org/npr/2022-02/church-suing-after-town-says-it-can-only-give-away-free-meals-twice-week",
         "timestamp": 1643846693,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 3, 2022 12:04 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/rudy-giuliani-the-masked-singer-contestant-judge-ken-jeong-robin-thicke-walk-off-in-protest-1234925291",
         "timestamp": 1643847995,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 3, 2022 12:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/elections/republicans-impeached-trump-outpace-challengers-latest-fundraising-hau-rcna14496",
         "timestamp": 1643849967,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 12:59 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.cbsnews.com/news/national-archives-mike-pence-records-house-january-6-committee/",
         "timestamp": 1643850095,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 1:01 AM"
     },
     {
@@ -45,12 +45,21 @@
         "published": "February 3, 2022 1:07 AM"
     },
     {
+        "title": "Arizona GOP Chair Kelli Ward, spouse, sue to block Jan. 6 panel from accessing phone records",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2022/02/02/arizona-gop-chair-kelli-ward-sues-jan-6-committee-over-phone-records/6641029001/",
+        "timestamp": 1643850861,
+        "sentiment": -3,
+        "published": "February 3, 2022 1:14 AM"
+    },
+    {
         "title": "Netflix just got a big upgrade for Continue Watching — and you can try it now",
         "domain": "tomsguide.com",
         "category": "television",
         "link": "https://www.tomsguide.com/how-to/netflix-is-finally-letting-you-clean-up-your-continue-watching-row-heres-how-you-do-it",
         "timestamp": 1643851612,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 3, 2022 1:26 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "politics",
         "link": "https://theweek.com/joe-biden/1009716/on-student-debt-biden-supporters-are-growing-impatient?amp",
         "timestamp": 1643852106,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 1:35 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "politics",
         "link": "https://fortune.com/education/business/articles/2022/01/28/biden-can-cancel-up-to-50k-in-student-loan-debt-says-group-of-85-democratic-lawmakers/",
         "timestamp": 1643852312,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 3, 2022 1:38 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "news",
         "link": "https://abcnews4.com/news/nation-world/black-lives-matter-delinquent-on-finances-calif-ag-warns-blm-risks-tax-exempt-status-california-department-justice-attorney-general-patrisse-cullors-influence-watch-rob-bunta-washington-examiner-doj",
         "timestamp": 1643853503,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 3, 2022 1:58 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/tucker-carlson-liberal-viewership-fox-news/",
         "timestamp": 1643854750,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 3, 2022 2:19 AM"
     },
     {
@@ -108,22 +117,22 @@
         "published": "February 3, 2022 2:32 AM"
     },
     {
-        "title": "International Space Station will plummet to a watery grave in 2030",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/science/2022/feb/02/international-space-station-will-plummet-to-a-watery-grave-in-2030",
-        "timestamp": 1643860802,
-        "sentiment": -2,
-        "published": "February 3, 2022 4:00 AM"
-    },
-    {
         "title": "Mark Zuckerberg’s ‘metaverse’ business lost more than $10 billion last year, and the losses keep growing",
         "domain": "cnbc.com",
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
         "timestamp": 1643866811,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 3, 2022 5:40 AM"
+    },
+    {
+        "title": "Mississippi becomes 37th U.S. state to legalize medical marijuana",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
+        "timestamp": 1643871345,
+        "sentiment": 1,
+        "published": "February 3, 2022 6:55 AM"
     },
     {
         "title": "Mark Zuckerberg risks losing $34 billion in a day after Meta shocker",
@@ -142,6 +151,24 @@
         "timestamp": 1643875865,
         "sentiment": 0,
         "published": "February 3, 2022 8:11 AM"
+    },
+    {
+        "title": "Facebook: Daily active users fall for first time in 18-year history",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/business-60238565",
+        "timestamp": 1643884404,
+        "sentiment": 1,
+        "published": "February 3, 2022 10:33 AM"
+    },
+    {
+        "title": "International Space Station will plummet to a watery grave in 2030",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/science/2022/feb/02/international-space-station-will-plummet-to-a-watery-grave-in-2030",
+        "timestamp": 1643860802,
+        "sentiment": -2,
+        "published": "February 3, 2022 4:00 AM"
     },
     {
         "title": "Unmasking Of Rudy Giuliani On Fox’s ‘The Masked Singer’ Prompts Judges Ken Jeong & Robin Thicke To Walk Off In Protest",
