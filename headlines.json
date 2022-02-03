@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
         "timestamp": 1643852055,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 1:34 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-02-03/omicron-90-million-cases-who-covid-pandemic/100800492",
         "timestamp": 1643855565,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 2:32 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60238869",
         "timestamp": 1643885634,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 10:53 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
         "timestamp": 1643889243,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 11:54 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
         "timestamp": 1643889463,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 11:57 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-washington-congress-joe-biden-georgia-b2003152.html",
         "timestamp": 1643890873,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 12:21 PM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/trinity-spirit-oil-tanker-explodes-nigeria-sea-million-barrels-video-1675743",
         "timestamp": 1643898519,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 2:28 PM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/collins-tough-for-republicans-reject-black-female-supreme-court-nominee-2022-2",
         "timestamp": 1643899063,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 2:37 PM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/02/no-democrats-and-republicans-arent-equally-anti-democratic.html",
         "timestamp": 1643900057,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 2:54 PM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/magazine/2022/02/03/john-roberts-scotus-justices-00005051",
         "timestamp": 1643901274,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 3:14 PM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/02/us/mail-voting-black-latino.html",
         "timestamp": 1643903139,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 3:45 PM"
     },
     {
@@ -239,7 +239,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/02/03/politics/epa-postal-service-gas-electric-trucks/index.html",
         "timestamp": 1643906303,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 4:38 PM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "politics",
         "link": "https://www.kxan.com/news/texas-politics/ted-cruz-tweets-about-rising-cancun-flight-costs-ahead-of-another-texas-winter-storm/amp/",
         "timestamp": 1643908816,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 5:20 PM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-sports-business-china-russia-b92f4d266b4d8d2e7711ab930c6e9fd1",
         "timestamp": 1643908947,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 5:22 PM"
     },
     {
@@ -270,31 +270,13 @@
         "published": "February 3, 2022 5:31 PM"
     },
     {
-        "title": "Republican Arizona woman pleads guilty to voter fraud; another Republican indicted on illegal voting charge",
-        "domain": "kjzz.org",
-        "category": "politics",
-        "link": "https://kjzz.org/content/1752650/arizona-woman-pleads-guilty-voter-fraud-another-indicted-illegal-voting-charge",
-        "timestamp": 1643910828,
-        "sentiment": -12,
-        "published": "February 3, 2022 5:53 PM"
-    },
-    {
         "title": "'DeJoy Has to Go Right Now': Fury Over Postal Service Failure to Electrify Truck Fleet | Rep. Gerry Connolly warned that DeJoy is aiming to \"spend billions on gas-powered vehicles despite clear goals set by President Biden and Congress to electrify the federal fleet.\"",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/03/dejoy-has-go-right-now-fury-over-postal-service-failure-electrify-truck-fleet",
         "timestamp": 1643911132,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "February 3, 2022 5:58 PM"
-    },
-    {
-        "title": "US alleges Russia planning false flag operation against Ukraine using 'graphic' video",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/03/politics/us-alleges-russian-false-flag-ukraine/index.html",
-        "timestamp": 1643911167,
-        "sentiment": -3,
-        "published": "February 3, 2022 5:59 PM"
     },
     {
         "title": "Trudeau rules out negotiating with protesters, says military deployment 'not in the cards'",
@@ -302,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/trudeau-protest-1.6335086",
         "timestamp": 1643911666,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 6:07 PM"
     },
     {
@@ -311,8 +293,26 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/43c9151532de706a2edec5684dfcf07d",
         "timestamp": 1643913313,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 3, 2022 6:35 PM"
+    },
+    {
+        "title": "We can stop the white-collar insurrectionists from doing it again: Here's how The Capital mob isn't the real problem .Those in power who inspired them must barred from holding office .",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/03/we-can-stop-the-collar-insurrectionists-from-doing-it-again-heres-how/",
+        "timestamp": 1643915789,
+        "sentiment": -1,
+        "published": "February 3, 2022 7:16 PM"
+    },
+    {
+        "title": "Police watchdog finds misogynistic, racist, discriminatory behavior among London police",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/592634-watchdog-finds-misogynistic-racist-discriminatory-behavior-among-london",
+        "timestamp": 1643915797,
+        "sentiment": 0,
+        "published": "February 3, 2022 7:16 PM"
     },
     {
         "title": "U.S. accuses Russia of planning \"staged\" video as pretext for Ukraine attack",
@@ -322,6 +322,42 @@
         "timestamp": 1643916685,
         "sentiment": 0,
         "published": "February 3, 2022 7:31 PM"
+    },
+    {
+        "title": "Norway bans breeding of Cavalier King Charles Spaniels and bulldogs",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/02/02/norway-bans-breeding-cavalier-king-charles-spaniels-bulldogs/amp/",
+        "timestamp": 1643918767,
+        "sentiment": 0,
+        "published": "February 3, 2022 8:06 PM"
+    },
+    {
+        "title": "Oscar Isaac Says Moon Knight Is 'A Limited Series' And It Gets 'Very Weird'",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/756448/oscar-isaac-says-moon-knight-is-a-limited-series-and-it-gets-very-weird/",
+        "timestamp": 1643919013,
+        "sentiment": 0,
+        "published": "February 3, 2022 8:10 PM"
+    },
+    {
+        "title": "Republican Arizona woman pleads guilty to voter fraud; another Republican indicted on illegal voting charge",
+        "domain": "kjzz.org",
+        "category": "politics",
+        "link": "https://kjzz.org/content/1752650/arizona-woman-pleads-guilty-voter-fraud-another-indicted-illegal-voting-charge",
+        "timestamp": 1643910828,
+        "sentiment": -12,
+        "published": "February 3, 2022 5:53 PM"
+    },
+    {
+        "title": "US alleges Russia planning false flag operation against Ukraine using 'graphic' video",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/03/politics/us-alleges-russian-false-flag-ukraine/index.html",
+        "timestamp": 1643911167,
+        "sentiment": -3,
+        "published": "February 3, 2022 5:59 PM"
     },
     {
         "title": "America’s covid job-saving programme gave most of its cash to the rich",
