@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://knpr.org/npr/2022-02/church-suing-after-town-says-it-can-only-give-away-free-meals-twice-week",
         "timestamp": 1643846693,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 3, 2022 12:04 AM"
     },
     {
@@ -14,8 +14,242 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/rudy-giuliani-the-masked-singer-contestant-judge-ken-jeong-robin-thicke-walk-off-in-protest-1234925291",
         "timestamp": 1643847995,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 3, 2022 12:26 AM"
+    },
+    {
+        "title": "National Archives says it will turn over Mike Pence's records to January 6 panel",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/national-archives-mike-pence-records-house-january-6-committee/",
+        "timestamp": 1643850095,
+        "sentiment": -2,
+        "published": "February 3, 2022 1:01 AM"
+    },
+    {
+        "title": "‘Significant element’ from U.S. involved in self-described ‘Freedom Convoy’ in Canada, official says",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
+        "timestamp": 1643852055,
+        "sentiment": -2,
+        "published": "February 3, 2022 1:34 AM"
+    },
+    {
+        "title": "On student debt, Biden supporters are 'growing impatient'",
+        "domain": "theweek.com",
+        "category": "politics",
+        "link": "https://theweek.com/joe-biden/1009716/on-student-debt-biden-supporters-are-growing-impatient?amp",
+        "timestamp": 1643852106,
+        "sentiment": -2,
+        "published": "February 3, 2022 1:35 AM"
+    },
+    {
+        "title": "Biden can cancel up to $50K in student loan debt, says group of 85 Democratic lawmakers",
+        "domain": "fortune.com",
+        "category": "politics",
+        "link": "https://fortune.com/education/business/articles/2022/01/28/biden-can-cancel-up-to-50k-in-student-loan-debt-says-group-of-85-democratic-lawmakers/",
+        "timestamp": 1643852312,
+        "sentiment": -2,
+        "published": "February 3, 2022 1:38 AM"
+    },
+    {
+        "title": "Black Lives Matter 'delinquent' on finances, Calif. AG warns BLM risks tax-exempt status",
+        "domain": "abcnews4.com",
+        "category": "news",
+        "link": "https://abcnews4.com/news/nation-world/black-lives-matter-delinquent-on-finances-calif-ag-warns-blm-risks-tax-exempt-status-california-department-justice-attorney-general-patrisse-cullors-influence-watch-rob-bunta-washington-examiner-doj",
+        "timestamp": 1643853503,
+        "sentiment": -3,
+        "published": "February 3, 2022 1:58 AM"
+    },
+    {
+        "title": "Surprise! Tucker Carlson Draws the Most Democratic Viewers in Key Demo, Even Topping Rachel Maddow",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/tucker-carlson-liberal-viewership-fox-news/",
+        "timestamp": 1643854750,
+        "sentiment": -1,
+        "published": "February 3, 2022 2:19 AM"
+    },
+    {
+        "title": "More COVID cases have been reported in the past 10 weeks than all of 2020, says World Health Organization",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-02-03/omicron-90-million-cases-who-covid-pandemic/100800492",
+        "timestamp": 1643855565,
+        "sentiment": -2,
+        "published": "February 3, 2022 2:32 AM"
+    },
+    {
+        "title": "Mark Zuckerberg’s ‘metaverse’ business lost more than $10 billion last year, and the losses keep growing",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
+        "timestamp": 1643866811,
+        "sentiment": -3,
+        "published": "February 3, 2022 5:40 AM"
+    },
+    {
+        "title": "U.S. Conducts 'Successful' Raid in Syria, Civilian Casualties Feared",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/us-conducts-successful-raid-syria-civilian-casualties-feared-1675669",
+        "timestamp": 1643870021,
+        "sentiment": -2,
+        "published": "February 3, 2022 6:33 AM"
+    },
+    {
+        "title": "Mississippi becomes 37th U.S. state to legalize medical marijuana",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
+        "timestamp": 1643871345,
+        "sentiment": -3,
+        "published": "February 3, 2022 6:55 AM"
+    },
+    {
+        "title": "America’s covid job-saving programme gave most of its cash to the rich",
+        "domain": "economist.com",
+        "category": "news",
+        "link": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
+        "timestamp": 1643875588,
+        "sentiment": -3,
+        "published": "February 3, 2022 8:06 AM"
+    },
+    {
+        "title": "Scandinavia to become almost entirely free of COVID restrictions - with Sweden to join Denmark and Norway in scrapping rules",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/amp/scandinavia-to-become-almost-entirely-free-of-covid-restrictions-with-sweden-to-join-denmark-and-norway-in-scrapping-rules-12531449",
+        "timestamp": 1643875891,
+        "sentiment": -2,
+        "published": "February 3, 2022 8:11 AM"
+    },
+    {
+        "title": "Facebook: Daily active users fall for first time in 18-year history",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/business-60238565",
+        "timestamp": 1643884404,
+        "sentiment": -3,
+        "published": "February 3, 2022 10:33 AM"
+    },
+    {
+        "title": "South Dakota Is Launching a Full-Scale Attack on Transgender Kids",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/y3v5zm/south-dakota-anti-trans-bill-bans-sports-bathrooms",
+        "timestamp": 1643885509,
+        "sentiment": -2,
+        "published": "February 3, 2022 10:51 AM"
+    },
+    {
+        "title": "Ukraine tensions: Russia condemns destructive US troop increase in Europe",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60238869",
+        "timestamp": 1643885634,
+        "sentiment": -2,
+        "published": "February 3, 2022 10:53 AM"
+    },
+    {
+        "title": "National Butterfly Center on Texas border closing indefinitely after attacks from right-wing conspiracy theorists",
+        "domain": "expressnews.com",
+        "category": "news",
+        "link": "https://www.expressnews.com/news/legislature/article/National-Butterfly-Center-closing-indefinitely-16826463.php",
+        "timestamp": 1643887811,
+        "sentiment": -3,
+        "published": "February 3, 2022 11:30 AM"
+    },
+    {
+        "title": "National Butterfly Center in Texas shuts down amid right-wing harassment",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment",
+        "timestamp": 1643887993,
+        "sentiment": -2,
+        "published": "February 3, 2022 11:33 AM"
+    },
+    {
+        "title": "Area more than six times the size of Manhattan destroyed in Brazilian Amazon in January",
+        "domain": "thejournal.ie",
+        "category": "news",
+        "link": "https://www.thejournal.ie/brazil-deforestation-amazon-record-level-5671868-Feb2022/",
+        "timestamp": 1643888084,
+        "sentiment": -3,
+        "published": "February 3, 2022 11:34 AM"
+    },
+    {
+        "title": "Adam Schiff Explains Why Trump’s Pardon Promise Is ‘Very Important Evidence’",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
+        "timestamp": 1643889243,
+        "sentiment": -2,
+        "published": "February 3, 2022 11:54 AM"
+    },
+    {
+        "title": "Jan. 6 committee subpoenas fake Trump electors in 7 states",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-washington-congress-joe-biden-georgia-b2003152.html",
+        "timestamp": 1643890873,
+        "sentiment": -2,
+        "published": "February 3, 2022 12:21 PM"
+    },
+    {
+        "title": "Trucker convoy GoFundMe suspended after reaching $10.1 million",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
+        "timestamp": 1643892843,
+        "sentiment": -3,
+        "published": "February 3, 2022 12:54 PM"
+    },
+    {
+        "title": "Rotterdam protesters to throw eggs at Bezos yacht over bridge dismantling",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/02/03/rotterdam-protesters-throw-eggs-bezos-yacht-bridge-dismantling",
+        "timestamp": 1643897745,
+        "sentiment": -2,
+        "published": "February 3, 2022 2:15 PM"
+    },
+    {
+        "title": "Susan Collins says it may be difficult for Republicans to reject a Black, female Supreme Court nominee because Democrats have painted the GOP as 'anti-Black'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/collins-tough-for-republicans-reject-black-female-supreme-court-nominee-2022-2",
+        "timestamp": 1643899063,
+        "sentiment": -2,
+        "published": "February 3, 2022 2:37 PM"
+    },
+    {
+        "title": "Lord of the Rings: The Rings of Power receives character posters",
+        "domain": "polygon.com",
+        "category": "television",
+        "link": "https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters",
+        "timestamp": 1643901256,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:14 PM"
+    },
+    {
+        "title": "How 'Russian Doll' still encourages us to keep searching for personal connections",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/netflix/russian-doll-anniversary-connections/",
+        "timestamp": 1643901301,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:15 PM"
+    },
+    {
+        "title": "‘South Park’ Returns With Regular Season Episodes, Skewering Matt Damon and Cryptocurrency",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/south-park-returns-matt-damon-cryptocurrency-1235086421/",
+        "timestamp": 1643901549,
+        "sentiment": -1,
+        "published": "February 3, 2022 3:19 PM"
     },
     {
         "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
@@ -27,15 +261,6 @@
         "published": "February 3, 2022 12:59 AM"
     },
     {
-        "title": "National Archives says it will turn over Mike Pence's records to January 6 panel",
-        "domain": "cbsnews.com",
-        "category": "politics",
-        "link": "https://www.cbsnews.com/news/national-archives-mike-pence-records-house-january-6-committee/",
-        "timestamp": 1643850095,
-        "sentiment": -3,
-        "published": "February 3, 2022 1:01 AM"
-    },
-    {
         "title": "Netflix just got a big upgrade for Continue Watching — and you can try it now",
         "domain": "tomsguide.com",
         "category": "television",
@@ -45,78 +270,6 @@
         "published": "February 3, 2022 1:26 AM"
     },
     {
-        "title": "‘Significant element’ from U.S. involved in self-described ‘Freedom Convoy’ in Canada, official says",
-        "domain": "washingtonpost.com",
-        "category": "worldnews",
-        "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
-        "timestamp": 1643852055,
-        "sentiment": 0,
-        "published": "February 3, 2022 1:34 AM"
-    },
-    {
-        "title": "On student debt, Biden supporters are 'growing impatient'",
-        "domain": "theweek.com",
-        "category": "politics",
-        "link": "https://theweek.com/joe-biden/1009716/on-student-debt-biden-supporters-are-growing-impatient?amp",
-        "timestamp": 1643852106,
-        "sentiment": -3,
-        "published": "February 3, 2022 1:35 AM"
-    },
-    {
-        "title": "Biden can cancel up to $50K in student loan debt, says group of 85 Democratic lawmakers",
-        "domain": "fortune.com",
-        "category": "politics",
-        "link": "https://fortune.com/education/business/articles/2022/01/28/biden-can-cancel-up-to-50k-in-student-loan-debt-says-group-of-85-democratic-lawmakers/",
-        "timestamp": 1643852312,
-        "sentiment": -3,
-        "published": "February 3, 2022 1:38 AM"
-    },
-    {
-        "title": "Black Lives Matter 'delinquent' on finances, Calif. AG warns BLM risks tax-exempt status",
-        "domain": "abcnews4.com",
-        "category": "news",
-        "link": "https://abcnews4.com/news/nation-world/black-lives-matter-delinquent-on-finances-calif-ag-warns-blm-risks-tax-exempt-status-california-department-justice-attorney-general-patrisse-cullors-influence-watch-rob-bunta-washington-examiner-doj",
-        "timestamp": 1643853503,
-        "sentiment": 2,
-        "published": "February 3, 2022 1:58 AM"
-    },
-    {
-        "title": "Surprise! Tucker Carlson Draws the Most Democratic Viewers in Key Demo, Even Topping Rachel Maddow",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/tucker-carlson-liberal-viewership-fox-news/",
-        "timestamp": 1643854750,
-        "sentiment": 1,
-        "published": "February 3, 2022 2:19 AM"
-    },
-    {
-        "title": "More COVID cases have been reported in the past 10 weeks than all of 2020, says World Health Organization",
-        "domain": "abc.net.au",
-        "category": "worldnews",
-        "link": "https://www.abc.net.au/news/2022-02-03/omicron-90-million-cases-who-covid-pandemic/100800492",
-        "timestamp": 1643855565,
-        "sentiment": 0,
-        "published": "February 3, 2022 2:32 AM"
-    },
-    {
-        "title": "Mark Zuckerberg’s ‘metaverse’ business lost more than $10 billion last year, and the losses keep growing",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
-        "timestamp": 1643866811,
-        "sentiment": 2,
-        "published": "February 3, 2022 5:40 AM"
-    },
-    {
-        "title": "Mississippi becomes 37th U.S. state to legalize medical marijuana",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
-        "timestamp": 1643871345,
-        "sentiment": 2,
-        "published": "February 3, 2022 6:55 AM"
-    },
-    {
         "title": "Mark Zuckerberg risks losing $34 billion in a day after Meta shocker",
         "domain": "theage.com.au",
         "category": "worldnews",
@@ -124,15 +277,6 @@
         "timestamp": 1643872445,
         "sentiment": 0,
         "published": "February 3, 2022 7:14 AM"
-    },
-    {
-        "title": "America’s covid job-saving programme gave most of its cash to the rich",
-        "domain": "economist.com",
-        "category": "news",
-        "link": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
-        "timestamp": 1643875588,
-        "sentiment": 2,
-        "published": "February 3, 2022 8:06 AM"
     },
     {
         "title": "Facebook sees daily users fall for first time ever",
@@ -153,51 +297,6 @@
         "published": "February 3, 2022 10:09 AM"
     },
     {
-        "title": "Facebook: Daily active users fall for first time in 18-year history",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/business-60238565",
-        "timestamp": 1643884404,
-        "sentiment": 2,
-        "published": "February 3, 2022 10:33 AM"
-    },
-    {
-        "title": "South Dakota Is Launching a Full-Scale Attack on Transgender Kids",
-        "domain": "vice.com",
-        "category": "politics",
-        "link": "https://www.vice.com/en/article/y3v5zm/south-dakota-anti-trans-bill-bans-sports-bathrooms",
-        "timestamp": 1643885509,
-        "sentiment": -3,
-        "published": "February 3, 2022 10:51 AM"
-    },
-    {
-        "title": "National Butterfly Center on Texas border closing indefinitely after attacks from right-wing conspiracy theorists",
-        "domain": "expressnews.com",
-        "category": "news",
-        "link": "https://www.expressnews.com/news/legislature/article/National-Butterfly-Center-closing-indefinitely-16826463.php",
-        "timestamp": 1643887811,
-        "sentiment": 2,
-        "published": "February 3, 2022 11:30 AM"
-    },
-    {
-        "title": "National Butterfly Center in Texas shuts down amid right-wing harassment",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment",
-        "timestamp": 1643887993,
-        "sentiment": -3,
-        "published": "February 3, 2022 11:33 AM"
-    },
-    {
-        "title": "Adam Schiff Explains Why Trump’s Pardon Promise Is ‘Very Important Evidence’",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
-        "timestamp": 1643889243,
-        "sentiment": -3,
-        "published": "February 3, 2022 11:54 AM"
-    },
-    {
         "title": "Civilians reported dead after US conducts counterterrorism raid in Syria",
         "domain": "cnn.com",
         "category": "worldnews",
@@ -205,15 +304,6 @@
         "timestamp": 1643889463,
         "sentiment": 0,
         "published": "February 3, 2022 11:57 AM"
-    },
-    {
-        "title": "Jan. 6 committee subpoenas fake Trump electors in 7 states",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-washington-congress-joe-biden-georgia-b2003152.html",
-        "timestamp": 1643890873,
-        "sentiment": -3,
-        "published": "February 3, 2022 12:21 PM"
     },
     {
         "title": "Anti-Vax Priest Who Claimed Vaccines Contain ‘Aborted Embryos’ Dies of COVID",
@@ -225,15 +315,6 @@
         "published": "February 3, 2022 12:48 PM"
     },
     {
-        "title": "Trucker convoy GoFundMe suspended after reaching $10.1 million",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
-        "timestamp": 1643892843,
-        "sentiment": 2,
-        "published": "February 3, 2022 12:54 PM"
-    },
-    {
         "title": "US military successfully kills ISIS’s leader in military operation in North-West Syria",
         "domain": "whitehouse.gov",
         "category": "worldnews",
@@ -243,15 +324,6 @@
         "published": "February 3, 2022 12:55 PM"
     },
     {
-        "title": "Rotterdam protesters to throw eggs at Bezos yacht over bridge dismantling",
-        "domain": "nltimes.nl",
-        "category": "worldnews",
-        "link": "https://nltimes.nl/2022/02/03/rotterdam-protesters-throw-eggs-bezos-yacht-bridge-dismantling",
-        "timestamp": 1643897745,
-        "sentiment": 0,
-        "published": "February 3, 2022 2:15 PM"
-    },
-    {
         "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
         "domain": "theguardian.com",
         "category": "news",
@@ -259,15 +331,6 @@
         "timestamp": 1643866828,
         "sentiment": -1,
         "published": "February 3, 2022 5:40 AM"
-    },
-    {
-        "title": "Scandinavia to become almost entirely free of COVID restrictions - with Sweden to join Denmark and Norway in scrapping rules",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/amp/scandinavia-to-become-almost-entirely-free-of-covid-restrictions-with-sweden-to-join-denmark-and-norway-in-scrapping-rules-12531449",
-        "timestamp": 1643875891,
-        "sentiment": 2,
-        "published": "February 3, 2022 8:11 AM"
     },
     {
         "title": "63% of Britons want Boris Johnson to resign following Sue Gray report",
@@ -286,15 +349,6 @@
         "timestamp": 1643850861,
         "sentiment": -3,
         "published": "February 3, 2022 1:14 AM"
-    },
-    {
-        "title": "U.S. Conducts 'Successful' Raid in Syria, Civilian Casualties Feared",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/us-conducts-successful-raid-syria-civilian-casualties-feared-1675669",
-        "timestamp": 1643870021,
-        "sentiment": 2,
-        "published": "February 3, 2022 6:33 AM"
     },
     {
         "title": "International Space Station will plummet to a watery grave in 2030",
