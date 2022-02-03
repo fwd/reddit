@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://knpr.org/npr/2022-02/church-suing-after-town-says-it-can-only-give-away-free-meals-twice-week",
         "timestamp": 1643846693,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 12:04 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/rudy-giuliani-the-masked-singer-contestant-judge-ken-jeong-robin-thicke-walk-off-in-protest-1234925291",
         "timestamp": 1643847995,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 3, 2022 12:26 AM"
     },
     {
@@ -36,30 +36,12 @@
         "published": "February 3, 2022 1:01 AM"
     },
     {
-        "title": "63% of Britons want Boris Johnson to resign following Sue Gray report",
-        "domain": "yougov.co.uk",
-        "category": "worldnews",
-        "link": "https://yougov.co.uk/topics/politics/articles-reports/2022/01/31/snap-poll-63-britons-still-want-boris-johnson-resi",
-        "timestamp": 1643850475,
-        "sentiment": 2,
-        "published": "February 3, 2022 1:07 AM"
-    },
-    {
-        "title": "Arizona GOP Chair Kelli Ward, spouse, sue to block Jan. 6 panel from accessing phone records",
-        "domain": "usatoday.com",
-        "category": "politics",
-        "link": "https://www.usatoday.com/story/news/politics/2022/02/02/arizona-gop-chair-kelli-ward-sues-jan-6-committee-over-phone-records/6641029001/",
-        "timestamp": 1643850861,
-        "sentiment": -3,
-        "published": "February 3, 2022 1:14 AM"
-    },
-    {
         "title": "Netflix just got a big upgrade for Continue Watching — and you can try it now",
         "domain": "tomsguide.com",
         "category": "television",
         "link": "https://www.tomsguide.com/how-to/netflix-is-finally-letting-you-clean-up-your-continue-watching-row-heres-how-you-do-it",
         "timestamp": 1643851612,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 3, 2022 1:26 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews4.com/news/nation-world/black-lives-matter-delinquent-on-finances-calif-ag-warns-blm-risks-tax-exempt-status-california-department-justice-attorney-general-patrisse-cullors-influence-watch-rob-bunta-washington-examiner-doj",
         "timestamp": 1643853503,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 1:58 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/tucker-carlson-liberal-viewership-fox-news/",
         "timestamp": 1643854750,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 3, 2022 2:19 AM"
     },
     {
@@ -122,17 +104,17 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
         "timestamp": 1643866811,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 5:40 AM"
     },
     {
-        "title": "U.S. Conducts 'Successful' Raid in Syria, Civilian Casualties Feared",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/us-conducts-successful-raid-syria-civilian-casualties-feared-1675669",
-        "timestamp": 1643870021,
-        "sentiment": 2,
-        "published": "February 3, 2022 6:33 AM"
+        "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy",
+        "timestamp": 1643866828,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:40 AM"
     },
     {
         "title": "Mississippi becomes 37th U.S. state to legalize medical marijuana",
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
         "timestamp": 1643871345,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 6:55 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60238565",
         "timestamp": 1643884404,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 10:33 AM"
     },
     {
@@ -185,8 +167,89 @@
         "category": "news",
         "link": "https://www.expressnews.com/news/legislature/article/National-Butterfly-Center-closing-indefinitely-16826463.php",
         "timestamp": 1643887811,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 3, 2022 11:30 AM"
+    },
+    {
+        "title": "Adam Schiff Explains Why Trump’s Pardon Promise Is ‘Very Important Evidence’",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
+        "timestamp": 1643889243,
+        "sentiment": -3,
+        "published": "February 3, 2022 11:54 AM"
+    },
+    {
+        "title": "Civilians reported dead after US conducts counterterrorism raid in Syria",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
+        "timestamp": 1643889463,
+        "sentiment": 2,
+        "published": "February 3, 2022 11:57 AM"
+    },
+    {
+        "title": "Jan. 6 committee subpoenas fake Trump electors in 7 states",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-washington-congress-joe-biden-georgia-b2003152.html",
+        "timestamp": 1643890873,
+        "sentiment": -3,
+        "published": "February 3, 2022 12:21 PM"
+    },
+    {
+        "title": "Anti-Vax Priest Who Claimed Vaccines Contain ‘Aborted Embryos’ Dies of COVID",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/anti-vax-priest-don-paolo-romeo-who-claimed-vaccines-contain-aborted-embryos-dies-of-covid",
+        "timestamp": 1643892530,
+        "sentiment": 2,
+        "published": "February 3, 2022 12:48 PM"
+    },
+    {
+        "title": "Trucker convoy GoFundMe suspended after reaching $10.1 million",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
+        "timestamp": 1643892843,
+        "sentiment": -1,
+        "published": "February 3, 2022 12:54 PM"
+    },
+    {
+        "title": "US military successfully kills ISIS’s leader in military operation in North-West Syria",
+        "domain": "whitehouse.gov",
+        "category": "worldnews",
+        "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/statement-by-president-joe-biden-3/",
+        "timestamp": 1643892920,
+        "sentiment": 2,
+        "published": "February 3, 2022 12:55 PM"
+    },
+    {
+        "title": "63% of Britons want Boris Johnson to resign following Sue Gray report",
+        "domain": "yougov.co.uk",
+        "category": "worldnews",
+        "link": "https://yougov.co.uk/topics/politics/articles-reports/2022/01/31/snap-poll-63-britons-still-want-boris-johnson-resi",
+        "timestamp": 1643850475,
+        "sentiment": 2,
+        "published": "February 3, 2022 1:07 AM"
+    },
+    {
+        "title": "Arizona GOP Chair Kelli Ward, spouse, sue to block Jan. 6 panel from accessing phone records",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2022/02/02/arizona-gop-chair-kelli-ward-sues-jan-6-committee-over-phone-records/6641029001/",
+        "timestamp": 1643850861,
+        "sentiment": -3,
+        "published": "February 3, 2022 1:14 AM"
+    },
+    {
+        "title": "U.S. Conducts 'Successful' Raid in Syria, Civilian Casualties Feared",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/us-conducts-successful-raid-syria-civilian-casualties-feared-1675669",
+        "timestamp": 1643870021,
+        "sentiment": 2,
+        "published": "February 3, 2022 6:33 AM"
     },
     {
         "title": "International Space Station will plummet to a watery grave in 2030",
