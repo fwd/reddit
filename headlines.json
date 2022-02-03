@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://knpr.org/npr/2022-02/church-suing-after-town-says-it-can-only-give-away-free-meals-twice-week",
         "timestamp": 1643846693,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 12:04 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://yougov.co.uk/topics/politics/articles-reports/2022/01/31/snap-poll-63-britons-still-want-boris-johnson-resi",
         "timestamp": 1643850475,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 1:07 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
         "timestamp": 1643852055,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 1:34 AM"
-    },
-    {
-        "title": "On student debt, Biden supporters are 'growing impatient'",
-        "domain": "theweek.com",
-        "category": "politics",
-        "link": "https://theweek.com/joe-biden/1009716/on-student-debt-biden-supporters-are-growing-impatient?amp",
-        "timestamp": 1643852106,
-        "sentiment": -1,
-        "published": "February 3, 2022 1:35 AM"
     },
     {
         "title": "Surprise! Tucker Carlson Draws the Most Democratic Viewers in Key Demo, Even Topping Rachel Maddow",
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-02-03/omicron-90-million-cases-who-covid-pandemic/100800492",
         "timestamp": 1643855565,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 2:32 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.rfi.fr/en/france/20220202-victims-of-domestic-abuse-to-be-told-when-perpetrators-leave-prison-arnaud-b",
         "timestamp": 1643858412,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 3:20 AM"
     },
     {
@@ -77,16 +68,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
         "timestamp": 1643866811,
-        "sentiment": -1,
-        "published": "February 3, 2022 5:40 AM"
-    },
-    {
-        "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy",
-        "timestamp": 1643866828,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 5:40 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
         "timestamp": 1643871345,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 6:55 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "news",
         "link": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
         "timestamp": 1643875588,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 8:06 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60238565",
         "timestamp": 1643884404,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 10:33 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/y3v5zm/south-dakota-anti-trans-bill-bans-sports-bathrooms",
         "timestamp": 1643885509,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 10:51 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-60238869",
         "timestamp": 1643885634,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 10:53 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.scientificamerican.com/article/spring-in-the-u-k-arrives-a-month-earlier-than-in-the-1980s/",
         "timestamp": 1643887098,
-        "sentiment": 0,
+        "sentiment": -11,
         "published": "February 3, 2022 11:18 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment",
         "timestamp": 1643887993,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 11:33 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.thejournal.ie/brazil-deforestation-amazon-record-level-5671868-Feb2022/",
         "timestamp": 1643888084,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 11:34 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/adam-schiff-donald-trump-pardons-prospect_n_61fb94f5e4b084213da3e57d",
         "timestamp": 1643889243,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 11:54 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-washington-congress-joe-biden-georgia-b2003152.html",
         "timestamp": 1643890873,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 12:21 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
         "timestamp": 1643892843,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 12:54 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
         "timestamp": 1643893733,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 1:08 PM"
     },
     {
@@ -203,8 +185,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/03/warren-warns-corporate-vultures-are-circling-medicare-bidens-watch",
         "timestamp": 1643896215,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 1:50 PM"
+    },
+    {
+        "title": "Trinity Spirit Oil Tanker That Can Carry 2 Million Barrels Explodes at Sea",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/trinity-spirit-oil-tanker-explodes-nigeria-sea-million-barrels-video-1675743",
+        "timestamp": 1643898519,
+        "sentiment": -11,
+        "published": "February 3, 2022 2:28 PM"
     },
     {
         "title": "Susan Collins says it may be difficult for Republicans to reject a Black, female Supreme Court nominee because Democrats have painted the GOP as 'anti-Black'",
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/collins-tough-for-republicans-reject-black-female-supreme-court-nominee-2022-2",
         "timestamp": 1643899063,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 2:37 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/02/no-democrats-and-republicans-arent-equally-anti-democratic.html",
         "timestamp": 1643900057,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 2:54 PM"
     },
     {
@@ -231,6 +222,15 @@
         "link": "https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters",
         "timestamp": 1643901256,
         "sentiment": 0,
+        "published": "February 3, 2022 3:14 PM"
+    },
+    {
+        "title": "Take The Hint, John Roberts — It’s Time For You To Retire, Too",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2022/02/03/john-roberts-scotus-justices-00005051",
+        "timestamp": 1643901274,
+        "sentiment": -4,
         "published": "February 3, 2022 3:14 PM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/02/us/mail-voting-black-latino.html",
         "timestamp": 1643903139,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 3:45 PM"
     },
     {
@@ -266,8 +266,53 @@
         "category": "news",
         "link": "https://abc13.com/texas-power-outages-why-is-out-winter-storm-arctic-cold-front/11535009/",
         "timestamp": 1643903304,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 3, 2022 3:48 PM"
+    },
+    {
+        "title": "‘Yellowstone’ Renewed for Season 5 at Paramount Network",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/yellowstone-renewed-for-season-5-at-paramount-network-1235086318",
+        "timestamp": 1643904017,
+        "sentiment": 0,
+        "published": "February 3, 2022 4:00 PM"
+    },
+    {
+        "title": "A Fight Over the Right to Repair Cars Turns Ugly",
+        "domain": "wired.com",
+        "category": "news",
+        "link": "https://www.wired.com/story/fight-right-repair-cars-turns-ugly/",
+        "timestamp": 1643905724,
+        "sentiment": -4,
+        "published": "February 3, 2022 4:28 PM"
+    },
+    {
+        "title": "Netflix’s ‘That ’90s Show’ Reveals Its Next Generation Cast",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/that-90s-show-cast-netflix-1235086553/",
+        "timestamp": 1643909461,
+        "sentiment": 0,
+        "published": "February 3, 2022 5:31 PM"
+    },
+    {
+        "title": "On student debt, Biden supporters are 'growing impatient'",
+        "domain": "theweek.com",
+        "category": "politics",
+        "link": "https://theweek.com/joe-biden/1009716/on-student-debt-biden-supporters-are-growing-impatient?amp",
+        "timestamp": 1643852106,
+        "sentiment": -1,
+        "published": "February 3, 2022 1:35 AM"
+    },
+    {
+        "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy",
+        "timestamp": 1643866828,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:40 AM"
     },
     {
         "title": "National Archives says it will turn over Mike Pence's records to January 6 panel",
