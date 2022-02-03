@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://knpr.org/npr/2022-02/church-suing-after-town-says-it-can-only-give-away-free-meals-twice-week",
         "timestamp": 1643846693,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 12:04 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/02/02/freedom-convoy-alberta-blockade-vaccine-mandate-protests/",
         "timestamp": 1643852055,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 1:34 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://abcnews4.com/news/nation-world/black-lives-matter-delinquent-on-finances-calif-ag-warns-blm-risks-tax-exempt-status-california-department-justice-attorney-general-patrisse-cullors-influence-watch-rob-bunta-washington-examiner-doj",
         "timestamp": 1643853503,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 1:58 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-02-03/omicron-90-million-cases-who-covid-pandemic/100800492",
         "timestamp": 1643855565,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 2:32 AM"
     },
     {
@@ -104,16 +104,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
         "timestamp": 1643866811,
-        "sentiment": -1,
-        "published": "February 3, 2022 5:40 AM"
-    },
-    {
-        "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy",
-        "timestamp": 1643866828,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 5:40 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/mississippi-becomes-37th-us-state-legalize-medical-marijuana-2022-02-03/",
         "timestamp": 1643871345,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 6:55 AM"
     },
     {
@@ -131,8 +122,17 @@
         "category": "worldnews",
         "link": "https://www.theage.com.au/business/companies/mark-zuckerberg-risks-losing-34-billion-in-a-day-after-meta-miss-20220203-p59til.html",
         "timestamp": 1643872445,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 7:14 AM"
+    },
+    {
+        "title": "America’s covid job-saving programme gave most of its cash to the rich",
+        "domain": "economist.com",
+        "category": "news",
+        "link": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
+        "timestamp": 1643875588,
+        "sentiment": 2,
+        "published": "February 3, 2022 8:06 AM"
     },
     {
         "title": "Facebook sees daily users fall for first time ever",
@@ -140,17 +140,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/business-60238565",
         "timestamp": 1643875865,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 8:11 AM"
     },
     {
-        "title": "Scandinavia to become almost entirely free of COVID restrictions - with Sweden to join Denmark and Norway in scrapping rules",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/amp/scandinavia-to-become-almost-entirely-free-of-covid-restrictions-with-sweden-to-join-denmark-and-norway-in-scrapping-rules-12531449",
-        "timestamp": 1643875891,
-        "sentiment": 2,
-        "published": "February 3, 2022 8:11 AM"
+        "title": "Sara Ramirez Responds to Criticism of ‘And Just Like That’ Character: “I Don’t Recognize Myself in Che”",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/sara-ramirez-and-just-like-that-che-diaz-1235086293/",
+        "timestamp": 1643882967,
+        "sentiment": 1,
+        "published": "February 3, 2022 10:09 AM"
     },
     {
         "title": "Facebook: Daily active users fall for first time in 18-year history",
@@ -158,8 +158,17 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/business-60238565",
         "timestamp": 1643884404,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 10:33 AM"
+    },
+    {
+        "title": "South Dakota Is Launching a Full-Scale Attack on Transgender Kids",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/y3v5zm/south-dakota-anti-trans-bill-bans-sports-bathrooms",
+        "timestamp": 1643885509,
+        "sentiment": -3,
+        "published": "February 3, 2022 10:51 AM"
     },
     {
         "title": "National Butterfly Center on Texas border closing indefinitely after attacks from right-wing conspiracy theorists",
@@ -167,8 +176,17 @@
         "category": "news",
         "link": "https://www.expressnews.com/news/legislature/article/National-Butterfly-Center-closing-indefinitely-16826463.php",
         "timestamp": 1643887811,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 11:30 AM"
+    },
+    {
+        "title": "National Butterfly Center in Texas shuts down amid right-wing harassment",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/02/02/1077692533/national-butterfly-center-harassment",
+        "timestamp": 1643887993,
+        "sentiment": -3,
+        "published": "February 3, 2022 11:33 AM"
     },
     {
         "title": "Adam Schiff Explains Why Trump’s Pardon Promise Is ‘Very Important Evidence’",
@@ -185,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/03/world/syria-us-special-forces-raid-intl-hnk/index.html",
         "timestamp": 1643889463,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 11:57 AM"
     },
     {
@@ -203,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/anti-vax-priest-don-paolo-romeo-who-claimed-vaccines-contain-aborted-embryos-dies-of-covid",
         "timestamp": 1643892530,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 12:48 PM"
     },
     {
@@ -212,7 +230,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/canada/trucker-convoy-gofundme-suspended-after-reaching-10-1-million-1.5765794",
         "timestamp": 1643892843,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 3, 2022 12:54 PM"
     },
     {
@@ -221,8 +239,35 @@
         "category": "worldnews",
         "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/03/statement-by-president-joe-biden-3/",
         "timestamp": 1643892920,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 3, 2022 12:55 PM"
+    },
+    {
+        "title": "Rotterdam protesters to throw eggs at Bezos yacht over bridge dismantling",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/02/03/rotterdam-protesters-throw-eggs-bezos-yacht-bridge-dismantling",
+        "timestamp": 1643897745,
+        "sentiment": 0,
+        "published": "February 3, 2022 2:15 PM"
+    },
+    {
+        "title": "Spotify stocks fall as executives seek to reassure amid Rogan controversy",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy",
+        "timestamp": 1643866828,
+        "sentiment": -1,
+        "published": "February 3, 2022 5:40 AM"
+    },
+    {
+        "title": "Scandinavia to become almost entirely free of COVID restrictions - with Sweden to join Denmark and Norway in scrapping rules",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/amp/scandinavia-to-become-almost-entirely-free-of-covid-restrictions-with-sweden-to-join-denmark-and-norway-in-scrapping-rules-12531449",
+        "timestamp": 1643875891,
+        "sentiment": 2,
+        "published": "February 3, 2022 8:11 AM"
     },
     {
         "title": "63% of Britons want Boris Johnson to resign following Sue Gray report",
@@ -943,15 +988,6 @@
         "timestamp": 1643770133,
         "sentiment": 0,
         "published": "February 2, 2022 2:48 AM"
-    },
-    {
-        "title": "America’s covid job-saving programme gave most of its cash to the rich",
-        "domain": "economist.com",
-        "category": "worldnews",
-        "link": "https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich",
-        "timestamp": 1643780219,
-        "sentiment": 0,
-        "published": "February 2, 2022 5:36 AM"
     },
     {
         "title": "Pastor Greg Locke to Fight ‘Demonic Influences’ by Burning ‘Harry Potter’ and ‘Twilight’. Claims autism is demonic possession.",
