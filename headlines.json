@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/student-loan-debt-forgiveness-bankruptcy-biden-education-overturn-epileptic-man-2022-2?utm_source=reddit.com",
         "timestamp": 1643932866,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 4, 2022 12:01 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/01/31/austria-vaccine-mandate-coronavirus/",
         "timestamp": 1643933654,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": -7,
+        "sentiment": -4,
         "published": "February 4, 2022 12:33 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/fedex-driver-fired-upon-chased-mississippi-father-son-custody-police-say/LKRK3RQW35E6LLMEWQMBV75XWI/",
         "timestamp": 1643935218,
-        "sentiment": -7,
+        "sentiment": -4,
         "published": "February 4, 2022 12:40 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/us-intelligence-alleges-russia-has-plan-fabricate-pretext-attack-ukraine-reports-2022-02-03/",
         "timestamp": 1643936160,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 12:56 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-60242199",
         "timestamp": 1643938518,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -59,8 +59,170 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-book-ban-advocate-faces-felony-child-molestation-charge-missouri-rcna14763",
         "timestamp": 1643938538,
-        "sentiment": -7,
+        "sentiment": -4,
         "published": "February 4, 2022 1:35 AM"
+    },
+    {
+        "title": "The wreck of Captain Cook's ship famed vessel, the Endeavour, has been found off the coast of the Rhode Island after a 22 year search",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
+        "timestamp": 1643945609,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:33 AM"
+    },
+    {
+        "title": "Amazon to Raise Price of Prime Video Membership, Citing NFL Deal and Expanded Entertainment Offerings",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/amazon-q4-2021-earnings-1235086750/",
+        "timestamp": 1643946399,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:46 AM"
+    },
+    {
+        "title": "Arizona Republican House speaker effectively dooms GOP bill to allow state legislature to reject election results",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
+        "timestamp": 1643946710,
+        "sentiment": 2,
+        "published": "February 4, 2022 3:51 AM"
+    },
+    {
+        "title": "Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,' 'Ctrl Salt Delete' top the list",
+        "domain": "mprnews.org",
+        "category": "news",
+        "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
+        "timestamp": 1643947108,
+        "sentiment": -4,
+        "published": "February 4, 2022 3:58 AM"
+    },
+    {
+        "title": "Donald Trump is done pretending. He is now openly celebrating the Capitol riot",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/03/donald-is-done-pretending-he-is-now-openly-celebrating-the-capitol-riot/",
+        "timestamp": 1643949963,
+        "sentiment": 2,
+        "published": "February 4, 2022 4:46 AM"
+    },
+    {
+        "title": "Raised by Wolves Season 2: TV's Most Uniquely Bizarre Series Remains a Glorious Sci-Fi Journey",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hbo-max/raised-by-wolves-season-2-review/",
+        "timestamp": 1643953929,
+        "sentiment": 0,
+        "published": "February 4, 2022 5:52 AM"
+    },
+    {
+        "title": "Satellites have detected massive gas leaks : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
+        "timestamp": 1643955267,
+        "sentiment": 0,
+        "published": "February 4, 2022 6:14 AM"
+    },
+    {
+        "title": "Argentinians urged to throw out cocaine after tainted batches kill at least 23",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/feb/03/argentina-tainted-cocaine-deaths-officials",
+        "timestamp": 1643963757,
+        "sentiment": -4,
+        "published": "February 4, 2022 8:35 AM"
+    },
+    {
+        "title": "Noam Chomsky: ‘Republican Party has drifted off the spectrum’ | Renowned scholar says GOP is more akin to ‘a radical insurgency’ with ‘no interest in democracy’ than a political party.",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
+        "timestamp": 1643963804,
+        "sentiment": 2,
+        "published": "February 4, 2022 8:36 AM"
+    },
+    {
+        "title": "Trump is facing criminal investigations into his conduct. Court buildings are bracing for violence and chaos.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
+        "timestamp": 1643971310,
+        "sentiment": 2,
+        "published": "February 4, 2022 10:41 AM"
+    },
+    {
+        "title": "Cuba has been under US embargo for 60 years. It’s time for that to end",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/03/cuba-us-embargo-must-end",
+        "timestamp": 1643974817,
+        "sentiment": 2,
+        "published": "February 4, 2022 11:40 AM"
+    },
+    {
+        "title": "China joins Russia in opposing Nato expansion",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-60257080",
+        "timestamp": 1643975660,
+        "sentiment": 0,
+        "published": "February 4, 2022 11:54 AM"
+    },
+    {
+        "title": "Russia and China tell NATO to stop expansion, Moscow backs Beijing on Taiwan",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-china-tell-nato-stop-expansion-moscow-backs-beijing-taiwan-2022-02-04/",
+        "timestamp": 1643978708,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:45 PM"
+    },
+    {
+        "title": "Trump ‘absolutely’ tampering with witnesses by dangling pardons, Capitol riot committee member says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-jan-6-witness-aguilar-b2006240.html",
+        "timestamp": 1643978995,
+        "sentiment": 2,
+        "published": "February 4, 2022 12:49 PM"
+    },
+    {
+        "title": "Jonathan the blind, gay, sex-crazed tortoise is now the oldest to have ever lived",
+        "domain": "pinknews.co.uk",
+        "category": "worldnews",
+        "link": "https://www.pinknews.co.uk/2022/01/28/jonathan-giant-tortoise-gay-birthday/?utm_source=Bustle&utm_medium=social&utm_campaign=swap_BSL&fbclid=IwAR2t3msDIZfu2_BF0jEkLQWOIlJ2dejnemvvYBo7GBn2aY6mYTL6h6q0ZEw",
+        "timestamp": 1643979031,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:50 PM"
+    },
+    {
+        "title": "Mom sues social media giants for allegedly driving her 11-year-old daughter to suicide",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/mom-sues-social-media-giants-allegedly-driving-11/story?id=82652830",
+        "timestamp": 1643979470,
+        "sentiment": -4,
+        "published": "February 4, 2022 12:57 PM"
+    },
+    {
+        "title": "Rep. Alexandria Ocasio-Cortez said Capitol Hill 'sounds like a perfect place for a union,' saying many congressional staffers 'don't make a living wage'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-said-congress-sounds-like-a-perfect-place-for-union-2022-2",
+        "timestamp": 1643980810,
+        "sentiment": 2,
+        "published": "February 4, 2022 1:20 PM"
+    },
+    {
+        "title": "Body camera video shows Minneapolis officers shooting Black man during no-knock warrant. Attorneys say he wasn't the target",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/us/minneapolis-police-shooting-no-knock-warrant-amir-locke/index.html",
+        "timestamp": 1643981546,
+        "sentiment": -4,
+        "published": "February 4, 2022 1:32 PM"
     },
     {
         "title": "Woman killed and four others injured after man opens fire on bus in California",
@@ -88,105 +250,6 @@
         "timestamp": 1643944764,
         "sentiment": -2,
         "published": "February 4, 2022 3:19 AM"
-    },
-    {
-        "title": "The wreck of Captain Cook's ship famed vessel, the Endeavour, has been found off the coast of the Rhode Island after a 22 year search",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
-        "timestamp": 1643945609,
-        "sentiment": -2,
-        "published": "February 4, 2022 3:33 AM"
-    },
-    {
-        "title": "Amazon to Raise Price of Prime Video Membership, Citing NFL Deal and Expanded Entertainment Offerings",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/business/business-news/amazon-q4-2021-earnings-1235086750/",
-        "timestamp": 1643946399,
-        "sentiment": 0,
-        "published": "February 4, 2022 3:46 AM"
-    },
-    {
-        "title": "Arizona Republican House speaker effectively dooms GOP bill to allow state legislature to reject election results",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
-        "timestamp": 1643946710,
-        "sentiment": 0,
-        "published": "February 4, 2022 3:51 AM"
-    },
-    {
-        "title": "Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,' 'Ctrl Salt Delete' top the list",
-        "domain": "mprnews.org",
-        "category": "news",
-        "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
-        "timestamp": 1643947108,
-        "sentiment": -7,
-        "published": "February 4, 2022 3:58 AM"
-    },
-    {
-        "title": "Donald Trump is done pretending. He is now openly celebrating the Capitol riot",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/02/03/donald-is-done-pretending-he-is-now-openly-celebrating-the-capitol-riot/",
-        "timestamp": 1643949963,
-        "sentiment": 0,
-        "published": "February 4, 2022 4:46 AM"
-    },
-    {
-        "title": "Raised by Wolves Season 2: TV's Most Uniquely Bizarre Series Remains a Glorious Sci-Fi Journey",
-        "domain": "pastemagazine.com",
-        "category": "television",
-        "link": "https://www.pastemagazine.com/tv/hbo-max/raised-by-wolves-season-2-review/",
-        "timestamp": 1643953929,
-        "sentiment": 0,
-        "published": "February 4, 2022 5:52 AM"
-    },
-    {
-        "title": "Satellites have detected massive gas leaks : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
-        "timestamp": 1643955267,
-        "sentiment": -2,
-        "published": "February 4, 2022 6:14 AM"
-    },
-    {
-        "title": "Argentinians urged to throw out cocaine after tainted batches kill at least 23",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/feb/03/argentina-tainted-cocaine-deaths-officials",
-        "timestamp": 1643963757,
-        "sentiment": -7,
-        "published": "February 4, 2022 8:35 AM"
-    },
-    {
-        "title": "Noam Chomsky: ‘Republican Party has drifted off the spectrum’ | Renowned scholar says GOP is more akin to ‘a radical insurgency’ with ‘no interest in democracy’ than a political party.",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
-        "timestamp": 1643963804,
-        "sentiment": 0,
-        "published": "February 4, 2022 8:36 AM"
-    },
-    {
-        "title": "Trump is facing criminal investigations into his conduct. Court buildings are bracing for violence and chaos.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
-        "timestamp": 1643971310,
-        "sentiment": 0,
-        "published": "February 4, 2022 10:41 AM"
-    },
-    {
-        "title": "China joins Russia in opposing Nato expansion",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-60257080",
-        "timestamp": 1643975660,
-        "sentiment": -2,
-        "published": "February 4, 2022 11:54 AM"
     },
     {
         "title": "They're Burning Books in Tennessee",
