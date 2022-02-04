@@ -1,11 +1,29 @@
 [
     {
+        "title": "Austria requires all adults to vaccinate",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/2022/01/31/austria-vaccine-mandate-coronavirus/",
+        "timestamp": 1643933654,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:14 AM"
+    },
+    {
+        "title": "The University of Alabama will rename Graves Hall to Lucy-Graves Hall. Autherine Lucy Foster, the first African American student to enroll in the University, will share the building name with Bibb Graves, the former governor and a former officer of the Ku Klux Klan.",
+        "domain": "cw.ua.edu",
+        "category": "news",
+        "link": "https://cw.ua.edu/93048/news/lucy-graves-hall-ua-building-named-for-autherine-lucy-foster-on-anniversary-of-enrollment/",
+        "timestamp": 1643933695,
+        "sentiment": -5,
+        "published": "February 4, 2022 12:14 AM"
+    },
+    {
         "title": "South Dakota governor signs 2022’s first trans athlete ban into law",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 4, 2022 12:33 AM"
     },
     {
