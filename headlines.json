@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-60242199",
         "timestamp": 1643938518,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
         "timestamp": 1643947108,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 3:58 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
         "timestamp": 1643963804,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 4, 2022 8:36 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
         "timestamp": 1643971310,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 4, 2022 10:41 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-60257080",
         "timestamp": 1643975660,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 11:54 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/mom-sues-social-media-giants-allegedly-driving-11/story?id=82652830",
         "timestamp": 1643979470,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 12:57 PM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-said-congress-sounds-like-a-perfect-place-for-union-2022-2",
         "timestamp": 1643980810,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 4, 2022 1:20 PM"
     },
     {
@@ -68,8 +68,251 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/04/us/minneapolis-police-shooting-no-knock-warrant-amir-locke/index.html",
         "timestamp": 1643981546,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 1:32 PM"
+    },
+    {
+        "title": "Argentinians urged to throw out cocaine after tainted batches kill at least 23",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/03/argentina-tainted-cocaine-deaths-officials",
+        "timestamp": 1643983624,
+        "sentiment": -5,
+        "published": "February 4, 2022 2:07 PM"
+    },
+    {
+        "title": "'Fed up' GM workers in Mexico pick new union in historic vote",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/autos-transportation/gm-workers-mexico-elect-independent-union-historic-labor-vote-2022-02-03/",
+        "timestamp": 1643984444,
+        "sentiment": -5,
+        "published": "February 4, 2022 2:20 PM"
+    },
+    {
+        "title": "Ontario spent $133,866 trying to fire employee over alleged $2.99 theft",
+        "domain": "dailybulletin.com",
+        "category": "news",
+        "link": "https://www.dailybulletin.com/2022/02/03/ontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft/?utm_email=1406C4FFE54353F4E3E5F344EF&g2i_eui=51x36g%2b0vsk0mftuh42JFP5CC3uK0aNI&g2i_source=newsletter&lctg=1406C4FFE54353F4E3E5F344EF&active=no&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.dailybulletin.com%2f2022%2f02%2f03%2fontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft%2f&utm_campaign=scng-ivdb-localist&utm_content=curated",
+        "timestamp": 1643984663,
+        "sentiment": -2,
+        "published": "February 4, 2022 2:24 PM"
+    },
+    {
+        "title": "School District Declines to Remove Michelle Obama Biography After Parent Complaint",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/school-district-refuses-to-remove-michelle-obamas-biography-after-parent-complaint/",
+        "timestamp": 1643985856,
+        "sentiment": 1,
+        "published": "February 4, 2022 2:44 PM"
+    },
+    {
+        "title": "Ice that took roughly 2,000 years to form on Mt. Everest has melted in around 25",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/03/asia/mount-everest-climate-ice-glacier-melt-intl/index.html",
+        "timestamp": 1643986011,
+        "sentiment": -5,
+        "published": "February 4, 2022 2:46 PM"
+    },
+    {
+        "title": "Republicans in Congress were in on Trump's coup plot",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/04/in-congress-were-in-on-coup-plot/",
+        "timestamp": 1643988707,
+        "sentiment": 1,
+        "published": "February 4, 2022 3:31 PM"
+    },
+    {
+        "title": "TV’s buzziest shows aren’t trying to trick viewers anymore. Succession, Yellowjackets, and other critically acclaimed shows are leaving the mystery box behind. That’s a good thing.",
+        "domain": "vox.com",
+        "category": "television",
+        "link": "https://www.vox.com/culture/22882797/yellowjackets-finale-succession-mystery-box",
+        "timestamp": 1643988792,
+        "sentiment": -1,
+        "published": "February 4, 2022 3:33 PM"
+    },
+    {
+        "title": "16 UPenn swimmers ask school not to challenge transgender policy that could block teammate Lia Thomas from competing",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/us/lia-thomas-ncaa-transgender-policy-letter/index.html",
+        "timestamp": 1643990799,
+        "sentiment": -2,
+        "published": "February 4, 2022 4:06 PM"
+    },
+    {
+        "title": "Uyghur athlete delivers Olympic flame in opening ceremony after global criticism of China",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/winter-olympics-opening-ceremony-beijing-china-rcna14511",
+        "timestamp": 1643991331,
+        "sentiment": -5,
+        "published": "February 4, 2022 4:15 PM"
+    },
+    {
+        "title": "Iceland to end whaling in 2024 as demand dwindles",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/feb/04/iceland-to-end-whaling-in-2024-demand-dwindles",
+        "timestamp": 1643992288,
+        "sentiment": -5,
+        "published": "February 4, 2022 4:31 PM"
+    },
+    {
+        "title": "‘Euphoria’ Renewed for Season 3 at HBO",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-renews-euphoria-season-3-1235087262/",
+        "timestamp": 1643994158,
+        "sentiment": -1,
+        "published": "February 4, 2022 5:02 PM"
+    },
+    {
+        "title": "Meijer theft suspect was a white man in his 30s. Police detained 60-year-old Black man",
+        "domain": "cincinnati.com",
+        "category": "news",
+        "link": "https://www.cincinnati.com/story/news/2022/02/04/lawsuit-illegally-detained-west-chester-meijer-black-man-arrested/9290772002/",
+        "timestamp": 1643995061,
+        "sentiment": -2,
+        "published": "February 4, 2022 5:17 PM"
+    },
+    {
+        "title": "$1.5 Trillion in Student Loan Debt Is Sabotaging the Nation's Future | Reagan's policy of starving education and cranking up student debt has made U.S. banks piles of money, but stopped generations of young people from starting businesses, having families, and buying homes.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2022/02/03/15-trillion-student-loan-debt-sabotaging-nations-future",
+        "timestamp": 1643995104,
+        "sentiment": 1,
+        "published": "February 4, 2022 5:18 PM"
+    },
+    {
+        "title": "‘Orphan Black’ Sequel Series at AMC Sets Anna Fishko to Write",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/orphan-black-sequel-series-amc-anna-fishko-writer-1235171825/",
+        "timestamp": 1643997939,
+        "sentiment": -1,
+        "published": "February 4, 2022 6:05 PM"
+    },
+    {
+        "title": "Mississippi ambulance providers fear a system collapse is near",
+        "domain": "mississippitoday.org",
+        "category": "news",
+        "link": "https://mississippitoday.org/2022/02/03/mississippi-ambulance-providers-fear-system-collapse/",
+        "timestamp": 1643999461,
+        "sentiment": -2,
+        "published": "February 4, 2022 6:31 PM"
+    },
+    {
+        "title": "G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html?referringSource=articleShare",
+        "timestamp": 1643999789,
+        "sentiment": 1,
+        "published": "February 4, 2022 6:36 PM"
+    },
+    {
+        "title": "US couple sue clinic after DNA kit reveals fertility mix-up",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-60265083",
+        "timestamp": 1644002816,
+        "sentiment": -2,
+        "published": "February 4, 2022 7:26 PM"
+    },
+    {
+        "title": "RNC Chairwoman Ronna McDaniel says January 6 committee is a 'Democrat-led persecution of ordinary citizens who engaged in legitimate political discourse'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/rnc-ronna-mcdaniel-january-6-persecution-ordinary-citizens-legitimate-discourse-2022-2",
+        "timestamp": 1644004037,
+        "sentiment": 1,
+        "published": "February 4, 2022 7:47 PM"
+    },
+    {
+        "title": "'Goosebumps': New Live-Action TV Series Lands at Disney Plus",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/goosebumps-new-live-action-tv-series-lands-at-disney-plus-exclusive-1235172324/",
+        "timestamp": 1644004909,
+        "sentiment": -1,
+        "published": "February 4, 2022 8:01 PM"
+    },
+    {
+        "title": "Michael Avenatti Found Guilty of Stealing $300k from Stormy Daniels",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/04/verdict-reached-in-michael-avenatti-fraud-trial-over-stormy-daniels-book-money.html",
+        "timestamp": 1644005179,
+        "sentiment": -2,
+        "published": "February 4, 2022 8:06 PM"
+    },
+    {
+        "title": "Gerhard Schröder, a former German chancellor with close ties to Russia, has been tapped to join the, Russian gas company, Gazprom supervisory board. Schröder has come under fire in Germany for working in the Russian energy sector",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germanys-former-chancellor-gerhard-schr%C3%B6der-to-join-gazprom-board/a-60664273",
+        "timestamp": 1644006281,
+        "sentiment": -5,
+        "published": "February 4, 2022 8:24 PM"
+    },
+    {
+        "title": "New Emails Suggest Supreme Court Justice Clarence Thomas Was -- for Some Strange Reason -- Communicating With Ron DeSantis",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/clarence-thomas-ron-desantis-communication-new-emails-1295354/",
+        "timestamp": 1644007089,
+        "sentiment": 1,
+        "published": "February 4, 2022 8:38 PM"
+    },
+    {
+        "title": "Pence breaks with Trump: 'I had no right to overturn the election'",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/592878-pence-breaks-with-trump-i-had-no-right-to-overturn-the-election",
+        "timestamp": 1644007577,
+        "sentiment": 1,
+        "published": "February 4, 2022 8:46 PM"
+    },
+    {
+        "title": "Russian Troops in Final Stages of Readiness Add to Worries for Ukraine",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/02/04/world/europe/russian-troops-ukraine-crimean-peninsula.html",
+        "timestamp": 1644009453,
+        "sentiment": -5,
+        "published": "February 4, 2022 9:17 PM"
+    },
+    {
+        "title": "Jimmy Carr sparks fury with Holocaust routine in Netflix special",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-60261876",
+        "timestamp": 1644009582,
+        "sentiment": -1,
+        "published": "February 4, 2022 9:19 PM"
+    },
+    {
+        "title": "Protesters enter southern Alberta school, demand end of mask rules",
+        "domain": "calgary.ctvnews.ca",
+        "category": "news",
+        "link": "https://calgary.ctvnews.ca/protesters-enter-southern-alberta-school-demand-end-of-mask-rules-1.5768456",
+        "timestamp": 1644009777,
+        "sentiment": -2,
+        "published": "February 4, 2022 9:22 PM"
+    },
+    {
+        "title": "Republican Party calls Jan. 6 attack 'legitimate political discourse'",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/republican-party-calls-jan-6-attack-legitimate-political-discourse-1.6339875",
+        "timestamp": 1644012372,
+        "sentiment": -5,
+        "published": "February 4, 2022 10:06 PM"
     },
     {
         "title": "US anti-vaccine mandate campaigners aim to mimic Canadian convoy tactic",
@@ -81,69 +324,6 @@
         "published": "February 4, 2022 1:54 PM"
     },
     {
-        "title": "Argentinians urged to throw out cocaine after tainted batches kill at least 23",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/feb/03/argentina-tainted-cocaine-deaths-officials",
-        "timestamp": 1643983624,
-        "sentiment": 0,
-        "published": "February 4, 2022 2:07 PM"
-    },
-    {
-        "title": "'Fed up' GM workers in Mexico pick new union in historic vote",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/business/autos-transportation/gm-workers-mexico-elect-independent-union-historic-labor-vote-2022-02-03/",
-        "timestamp": 1643984444,
-        "sentiment": 0,
-        "published": "February 4, 2022 2:20 PM"
-    },
-    {
-        "title": "Ontario spent $133,866 trying to fire employee over alleged $2.99 theft",
-        "domain": "dailybulletin.com",
-        "category": "news",
-        "link": "https://www.dailybulletin.com/2022/02/03/ontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft/?utm_email=1406C4FFE54353F4E3E5F344EF&g2i_eui=51x36g%2b0vsk0mftuh42JFP5CC3uK0aNI&g2i_source=newsletter&lctg=1406C4FFE54353F4E3E5F344EF&active=no&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.dailybulletin.com%2f2022%2f02%2f03%2fontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft%2f&utm_campaign=scng-ivdb-localist&utm_content=curated",
-        "timestamp": 1643984663,
-        "sentiment": 0,
-        "published": "February 4, 2022 2:24 PM"
-    },
-    {
-        "title": "School District Declines to Remove Michelle Obama Biography After Parent Complaint",
-        "domain": "people.com",
-        "category": "politics",
-        "link": "https://people.com/politics/school-district-refuses-to-remove-michelle-obamas-biography-after-parent-complaint/",
-        "timestamp": 1643985856,
-        "sentiment": -3,
-        "published": "February 4, 2022 2:44 PM"
-    },
-    {
-        "title": "Ice that took roughly 2,000 years to form on Mt. Everest has melted in around 25",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/03/asia/mount-everest-climate-ice-glacier-melt-intl/index.html",
-        "timestamp": 1643986011,
-        "sentiment": 0,
-        "published": "February 4, 2022 2:46 PM"
-    },
-    {
-        "title": "Republicans in Congress were in on Trump's coup plot",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/02/04/in-congress-were-in-on-coup-plot/",
-        "timestamp": 1643988707,
-        "sentiment": -3,
-        "published": "February 4, 2022 3:31 PM"
-    },
-    {
-        "title": "TV’s buzziest shows aren’t trying to trick viewers anymore. Succession, Yellowjackets, and other critically acclaimed shows are leaving the mystery box behind. That’s a good thing.",
-        "domain": "vox.com",
-        "category": "television",
-        "link": "https://www.vox.com/culture/22882797/yellowjackets-finale-succession-mystery-box",
-        "timestamp": 1643988792,
-        "sentiment": 0,
-        "published": "February 4, 2022 3:33 PM"
-    },
-    {
         "title": "‘Carbon footprint gap’ between rich and poor expanding, study finds",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -151,33 +331,6 @@
         "timestamp": 1643989917,
         "sentiment": 0,
         "published": "February 4, 2022 3:51 PM"
-    },
-    {
-        "title": "16 UPenn swimmers ask school not to challenge transgender policy that could block teammate Lia Thomas from competing",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/us/lia-thomas-ncaa-transgender-policy-letter/index.html",
-        "timestamp": 1643990799,
-        "sentiment": 0,
-        "published": "February 4, 2022 4:06 PM"
-    },
-    {
-        "title": "Uyghur athlete delivers Olympic flame in opening ceremony after global criticism of China",
-        "domain": "nbcnews.com",
-        "category": "worldnews",
-        "link": "https://www.nbcnews.com/news/world/winter-olympics-opening-ceremony-beijing-china-rcna14511",
-        "timestamp": 1643991331,
-        "sentiment": 0,
-        "published": "February 4, 2022 4:15 PM"
-    },
-    {
-        "title": "Iceland to end whaling in 2024 as demand dwindles",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/environment/2022/feb/04/iceland-to-end-whaling-in-2024-demand-dwindles",
-        "timestamp": 1643992288,
-        "sentiment": 0,
-        "published": "February 4, 2022 4:31 PM"
     },
     {
         "title": "Poland receives US army equipment in effort to bolster eastern flank against Russia | Reuters",
@@ -196,114 +349,6 @@
         "timestamp": 1643993906,
         "sentiment": -3,
         "published": "February 4, 2022 4:58 PM"
-    },
-    {
-        "title": "‘Euphoria’ Renewed for Season 3 at HBO",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-renews-euphoria-season-3-1235087262/",
-        "timestamp": 1643994158,
-        "sentiment": 0,
-        "published": "February 4, 2022 5:02 PM"
-    },
-    {
-        "title": "Meijer theft suspect was a white man in his 30s. Police detained 60-year-old Black man",
-        "domain": "cincinnati.com",
-        "category": "news",
-        "link": "https://www.cincinnati.com/story/news/2022/02/04/lawsuit-illegally-detained-west-chester-meijer-black-man-arrested/9290772002/",
-        "timestamp": 1643995061,
-        "sentiment": 0,
-        "published": "February 4, 2022 5:17 PM"
-    },
-    {
-        "title": "$1.5 Trillion in Student Loan Debt Is Sabotaging the Nation's Future | Reagan's policy of starving education and cranking up student debt has made U.S. banks piles of money, but stopped generations of young people from starting businesses, having families, and buying homes.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/views/2022/02/03/15-trillion-student-loan-debt-sabotaging-nations-future",
-        "timestamp": 1643995104,
-        "sentiment": -3,
-        "published": "February 4, 2022 5:18 PM"
-    },
-    {
-        "title": "‘Orphan Black’ Sequel Series at AMC Sets Anna Fishko to Write",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/orphan-black-sequel-series-amc-anna-fishko-writer-1235171825/",
-        "timestamp": 1643997939,
-        "sentiment": 0,
-        "published": "February 4, 2022 6:05 PM"
-    },
-    {
-        "title": "Mississippi ambulance providers fear a system collapse is near",
-        "domain": "mississippitoday.org",
-        "category": "news",
-        "link": "https://mississippitoday.org/2022/02/03/mississippi-ambulance-providers-fear-system-collapse/",
-        "timestamp": 1643999461,
-        "sentiment": 0,
-        "published": "February 4, 2022 6:31 PM"
-    },
-    {
-        "title": "G.O.P. Declares Jan. 6 Attack ‘Legitimate Political Discourse’",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html?referringSource=articleShare",
-        "timestamp": 1643999789,
-        "sentiment": -3,
-        "published": "February 4, 2022 6:36 PM"
-    },
-    {
-        "title": "US couple sue clinic after DNA kit reveals fertility mix-up",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-60265083",
-        "timestamp": 1644002816,
-        "sentiment": 0,
-        "published": "February 4, 2022 7:26 PM"
-    },
-    {
-        "title": "'Goosebumps': New Live-Action TV Series Lands at Disney Plus",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/goosebumps-new-live-action-tv-series-lands-at-disney-plus-exclusive-1235172324/",
-        "timestamp": 1644004909,
-        "sentiment": 0,
-        "published": "February 4, 2022 8:01 PM"
-    },
-    {
-        "title": "Michael Avenatti Found Guilty of Stealing $300k from Stormy Daniels",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/04/verdict-reached-in-michael-avenatti-fraud-trial-over-stormy-daniels-book-money.html",
-        "timestamp": 1644005179,
-        "sentiment": 0,
-        "published": "February 4, 2022 8:06 PM"
-    },
-    {
-        "title": "Gerhard Schröder, a former German chancellor with close ties to Russia, has been tapped to join the, Russian gas company, Gazprom supervisory board. Schröder has come under fire in Germany for working in the Russian energy sector",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/germanys-former-chancellor-gerhard-schr%C3%B6der-to-join-gazprom-board/a-60664273",
-        "timestamp": 1644006281,
-        "sentiment": 0,
-        "published": "February 4, 2022 8:24 PM"
-    },
-    {
-        "title": "New Emails Suggest Supreme Court Justice Clarence Thomas Was -- for Some Strange Reason -- Communicating With Ron DeSantis",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/clarence-thomas-ron-desantis-communication-new-emails-1295354/",
-        "timestamp": 1644007089,
-        "sentiment": -3,
-        "published": "February 4, 2022 8:38 PM"
-    },
-    {
-        "title": "Pence breaks with Trump: 'I had no right to overturn the election'",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/administration/592878-pence-breaks-with-trump-i-had-no-right-to-overturn-the-election",
-        "timestamp": 1644007577,
-        "sentiment": -3,
-        "published": "February 4, 2022 8:46 PM"
     },
     {
         "title": "South Dakota governor signs 2022’s first trans athlete ban into law",
