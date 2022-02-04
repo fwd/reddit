@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 12:33 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-book-ban-advocate-faces-felony-child-molestation-charge-missouri-rcna14763",
         "timestamp": 1643938538,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -50,8 +50,215 @@
         "category": "news",
         "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
         "timestamp": 1643947108,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 4, 2022 3:58 AM"
+    },
+    {
+        "title": "Satellites have detected massive gas leaks : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
+        "timestamp": 1643955267,
+        "sentiment": 0,
+        "published": "February 4, 2022 6:14 AM"
+    },
+    {
+        "title": "Noam Chomsky: ‘Republican Party has drifted off the spectrum’ | Renowned scholar says GOP is more akin to ‘a radical insurgency’ with ‘no interest in democracy’ than a political party.",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
+        "timestamp": 1643963804,
+        "sentiment": -2,
+        "published": "February 4, 2022 8:36 AM"
+    },
+    {
+        "title": "Trump is facing criminal investigations into his conduct. Court buildings are bracing for violence and chaos.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
+        "timestamp": 1643971310,
+        "sentiment": -2,
+        "published": "February 4, 2022 10:41 AM"
+    },
+    {
+        "title": "Cuba has been under US embargo for 60 years. It’s time for that to end",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/03/cuba-us-embargo-must-end",
+        "timestamp": 1643974817,
+        "sentiment": -2,
+        "published": "February 4, 2022 11:40 AM"
+    },
+    {
+        "title": "China joins Russia in opposing Nato expansion",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-60257080",
+        "timestamp": 1643975660,
+        "sentiment": 0,
+        "published": "February 4, 2022 11:54 AM"
+    },
+    {
+        "title": "Virginia Black caucus votes not to accept Black GOP member",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/local/black-gop-house-member-criticizes-black-caucus-rejection/2022/02/03/a1df46d4-853b-11ec-951c-1e0cc3723e53_story.html",
+        "timestamp": 1643977589,
+        "sentiment": -2,
+        "published": "February 4, 2022 12:26 PM"
+    },
+    {
+        "title": "Trump ‘absolutely’ tampering with witnesses by dangling pardons, Capitol riot committee member says",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-jan-6-witness-aguilar-b2006240.html",
+        "timestamp": 1643978995,
+        "sentiment": -2,
+        "published": "February 4, 2022 12:49 PM"
+    },
+    {
+        "title": "Mom sues social media giants for allegedly driving her 11-year-old daughter to suicide",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Health/mom-sues-social-media-giants-allegedly-driving-11/story?id=82652830",
+        "timestamp": 1643979470,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:57 PM"
+    },
+    {
+        "title": "‘He’s a RINO’: Trump turns on Lindsey Graham after senator suggests Capitol rioters should be punished",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-lindsey-graham-rino-b2006000.html",
+        "timestamp": 1643980684,
+        "sentiment": -2,
+        "published": "February 4, 2022 1:18 PM"
+    },
+    {
+        "title": "Rep. Alexandria Ocasio-Cortez said Capitol Hill 'sounds like a perfect place for a union,' saying many congressional staffers 'don't make a living wage'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-said-congress-sounds-like-a-perfect-place-for-union-2022-2",
+        "timestamp": 1643980810,
+        "sentiment": -2,
+        "published": "February 4, 2022 1:20 PM"
+    },
+    {
+        "title": "Body camera video shows Minneapolis officers shooting Black man during no-knock warrant. Attorneys say he wasn't the target",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/us/minneapolis-police-shooting-no-knock-warrant-amir-locke/index.html",
+        "timestamp": 1643981546,
+        "sentiment": 0,
+        "published": "February 4, 2022 1:32 PM"
+    },
+    {
+        "title": "US anti-vaccine mandate campaigners aim to mimic Canadian convoy tactic",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/04/us-anti-vaccine-mandate-convoy-canada",
+        "timestamp": 1643982878,
+        "sentiment": 0,
+        "published": "February 4, 2022 1:54 PM"
+    },
+    {
+        "title": "'Fed up' GM workers in Mexico pick new union in historic vote",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/autos-transportation/gm-workers-mexico-elect-independent-union-historic-labor-vote-2022-02-03/",
+        "timestamp": 1643984444,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:20 PM"
+    },
+    {
+        "title": "Ontario spent $133,866 trying to fire employee over alleged $2.99 theft",
+        "domain": "dailybulletin.com",
+        "category": "news",
+        "link": "https://www.dailybulletin.com/2022/02/03/ontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft/?utm_email=1406C4FFE54353F4E3E5F344EF&g2i_eui=51x36g%2b0vsk0mftuh42JFP5CC3uK0aNI&g2i_source=newsletter&lctg=1406C4FFE54353F4E3E5F344EF&active=no&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.dailybulletin.com%2f2022%2f02%2f03%2fontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft%2f&utm_campaign=scng-ivdb-localist&utm_content=curated",
+        "timestamp": 1643984663,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:24 PM"
+    },
+    {
+        "title": "A court caught Republicans discriminating against Black voters – here’s how",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/04/alabama-gerrymandering-republicans-black-voters-map",
+        "timestamp": 1643985266,
+        "sentiment": -2,
+        "published": "February 4, 2022 2:34 PM"
+    },
+    {
+        "title": "School District Declines to Remove Michelle Obama Biography After Parent Complaint",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/school-district-refuses-to-remove-michelle-obamas-biography-after-parent-complaint/",
+        "timestamp": 1643985856,
+        "sentiment": -2,
+        "published": "February 4, 2022 2:44 PM"
+    },
+    {
+        "title": "Republicans in Congress were in on Trump's coup plot",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/04/in-congress-were-in-on-coup-plot/",
+        "timestamp": 1643988707,
+        "sentiment": -2,
+        "published": "February 4, 2022 3:31 PM"
+    },
+    {
+        "title": "TV’s buzziest shows aren’t trying to trick viewers anymore. Succession, Yellowjackets, and other critically acclaimed shows are leaving the mystery box behind. That’s a good thing.",
+        "domain": "vox.com",
+        "category": "television",
+        "link": "https://www.vox.com/culture/22882797/yellowjackets-finale-succession-mystery-box",
+        "timestamp": 1643988792,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:33 PM"
+    },
+    {
+        "title": "Russian Embassy in Philippines is on fire",
+        "domain": "rappler.com",
+        "category": "worldnews",
+        "link": "https://www.rappler.com/nation/russian-embassy-dasmarinas-village-fire-february-2022/",
+        "timestamp": 1643989649,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:47 PM"
+    },
+    {
+        "title": "Farmer cleared of criminal damage and dangerous driving after removing trespasser's car with forklift. He quoted \"an Englishman's home is his castle\" 1604 defence",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/uk-england-tees-60260155",
+        "timestamp": 1643990651,
+        "sentiment": 0,
+        "published": "February 4, 2022 4:04 PM"
+    },
+    {
+        "title": "16 UPenn swimmers ask school not to challenge transgender policy that could block teammate Lia Thomas from competing",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/us/lia-thomas-ncaa-transgender-policy-letter/index.html",
+        "timestamp": 1643990799,
+        "sentiment": 0,
+        "published": "February 4, 2022 4:06 PM"
+    },
+    {
+        "title": "Iceland to end whaling in 2024 as demand dwindles",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/feb/04/iceland-to-end-whaling-in-2024-demand-dwindles",
+        "timestamp": 1643992288,
+        "sentiment": 0,
+        "published": "February 4, 2022 4:31 PM"
+    },
+    {
+        "title": "‘Euphoria’ Renewed for Season 3 at HBO",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-renews-euphoria-season-3-1235087262/",
+        "timestamp": 1643994158,
+        "sentiment": 0,
+        "published": "February 4, 2022 5:02 PM"
     },
     {
         "title": "In World First, South Africa's Afrigen Makes mRNA COVID Vaccine Using Moderna Data",
@@ -70,177 +277,6 @@
         "timestamp": 1643953929,
         "sentiment": 0,
         "published": "February 4, 2022 5:52 AM"
-    },
-    {
-        "title": "Satellites have detected massive gas leaks : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
-        "timestamp": 1643955267,
-        "sentiment": 0,
-        "published": "February 4, 2022 6:14 AM"
-    },
-    {
-        "title": "Noam Chomsky: ‘Republican Party has drifted off the spectrum’ | Renowned scholar says GOP is more akin to ‘a radical insurgency’ with ‘no interest in democracy’ than a political party.",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
-        "timestamp": 1643963804,
-        "sentiment": 2,
-        "published": "February 4, 2022 8:36 AM"
-    },
-    {
-        "title": "Trump is facing criminal investigations into his conduct. Court buildings are bracing for violence and chaos.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
-        "timestamp": 1643971310,
-        "sentiment": 2,
-        "published": "February 4, 2022 10:41 AM"
-    },
-    {
-        "title": "Cuba has been under US embargo for 60 years. It’s time for that to end",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/feb/03/cuba-us-embargo-must-end",
-        "timestamp": 1643974817,
-        "sentiment": 2,
-        "published": "February 4, 2022 11:40 AM"
-    },
-    {
-        "title": "China joins Russia in opposing Nato expansion",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-60257080",
-        "timestamp": 1643975660,
-        "sentiment": 0,
-        "published": "February 4, 2022 11:54 AM"
-    },
-    {
-        "title": "Virginia Black caucus votes not to accept Black GOP member",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/local/black-gop-house-member-criticizes-black-caucus-rejection/2022/02/03/a1df46d4-853b-11ec-951c-1e0cc3723e53_story.html",
-        "timestamp": 1643977589,
-        "sentiment": 2,
-        "published": "February 4, 2022 12:26 PM"
-    },
-    {
-        "title": "Trump ‘absolutely’ tampering with witnesses by dangling pardons, Capitol riot committee member says",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-jan-6-witness-aguilar-b2006240.html",
-        "timestamp": 1643978995,
-        "sentiment": 2,
-        "published": "February 4, 2022 12:49 PM"
-    },
-    {
-        "title": "Mom sues social media giants for allegedly driving her 11-year-old daughter to suicide",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Health/mom-sues-social-media-giants-allegedly-driving-11/story?id=82652830",
-        "timestamp": 1643979470,
-        "sentiment": -2,
-        "published": "February 4, 2022 12:57 PM"
-    },
-    {
-        "title": "‘He’s a RINO’: Trump turns on Lindsey Graham after senator suggests Capitol rioters should be punished",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-lindsey-graham-rino-b2006000.html",
-        "timestamp": 1643980684,
-        "sentiment": 2,
-        "published": "February 4, 2022 1:18 PM"
-    },
-    {
-        "title": "Rep. Alexandria Ocasio-Cortez said Capitol Hill 'sounds like a perfect place for a union,' saying many congressional staffers 'don't make a living wage'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/aoc-said-congress-sounds-like-a-perfect-place-for-union-2022-2",
-        "timestamp": 1643980810,
-        "sentiment": 2,
-        "published": "February 4, 2022 1:20 PM"
-    },
-    {
-        "title": "Body camera video shows Minneapolis officers shooting Black man during no-knock warrant. Attorneys say he wasn't the target",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/us/minneapolis-police-shooting-no-knock-warrant-amir-locke/index.html",
-        "timestamp": 1643981546,
-        "sentiment": -2,
-        "published": "February 4, 2022 1:32 PM"
-    },
-    {
-        "title": "US anti-vaccine mandate campaigners aim to mimic Canadian convoy tactic",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/feb/04/us-anti-vaccine-mandate-convoy-canada",
-        "timestamp": 1643982878,
-        "sentiment": -2,
-        "published": "February 4, 2022 1:54 PM"
-    },
-    {
-        "title": "'Fed up' GM workers in Mexico pick new union in historic vote",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/business/autos-transportation/gm-workers-mexico-elect-independent-union-historic-labor-vote-2022-02-03/",
-        "timestamp": 1643984444,
-        "sentiment": 0,
-        "published": "February 4, 2022 2:20 PM"
-    },
-    {
-        "title": "Ontario spent $133,866 trying to fire employee over alleged $2.99 theft",
-        "domain": "dailybulletin.com",
-        "category": "news",
-        "link": "https://www.dailybulletin.com/2022/02/03/ontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft/?utm_email=1406C4FFE54353F4E3E5F344EF&g2i_eui=51x36g%2b0vsk0mftuh42JFP5CC3uK0aNI&g2i_source=newsletter&lctg=1406C4FFE54353F4E3E5F344EF&active=no&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.dailybulletin.com%2f2022%2f02%2f03%2fontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft%2f&utm_campaign=scng-ivdb-localist&utm_content=curated",
-        "timestamp": 1643984663,
-        "sentiment": -2,
-        "published": "February 4, 2022 2:24 PM"
-    },
-    {
-        "title": "School District Declines to Remove Michelle Obama Biography After Parent Complaint",
-        "domain": "people.com",
-        "category": "politics",
-        "link": "https://people.com/politics/school-district-refuses-to-remove-michelle-obamas-biography-after-parent-complaint/",
-        "timestamp": 1643985856,
-        "sentiment": 2,
-        "published": "February 4, 2022 2:44 PM"
-    },
-    {
-        "title": "Republicans in Congress were in on Trump's coup plot",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/02/04/in-congress-were-in-on-coup-plot/",
-        "timestamp": 1643988707,
-        "sentiment": 2,
-        "published": "February 4, 2022 3:31 PM"
-    },
-    {
-        "title": "TV’s buzziest shows aren’t trying to trick viewers anymore. Succession, Yellowjackets, and other critically acclaimed shows are leaving the mystery box behind. That’s a good thing.",
-        "domain": "vox.com",
-        "category": "television",
-        "link": "https://www.vox.com/culture/22882797/yellowjackets-finale-succession-mystery-box",
-        "timestamp": 1643988792,
-        "sentiment": 0,
-        "published": "February 4, 2022 3:33 PM"
-    },
-    {
-        "title": "16 UPenn swimmers ask school not to challenge transgender policy that could block teammate Lia Thomas from competing",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/us/lia-thomas-ncaa-transgender-policy-letter/index.html",
-        "timestamp": 1643990799,
-        "sentiment": -2,
-        "published": "February 4, 2022 4:06 PM"
-    },
-    {
-        "title": "Iceland to end whaling in 2024 as demand dwindles",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/environment/2022/feb/04/iceland-to-end-whaling-in-2024-demand-dwindles",
-        "timestamp": 1643992288,
-        "sentiment": 0,
-        "published": "February 4, 2022 4:31 PM"
     },
     {
         "title": "The wreck of Captain Cook's ship famed vessel, the Endeavour, has been found off the coast of the Rhode Island after a 22 year search",
