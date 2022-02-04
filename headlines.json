@@ -1,5 +1,14 @@
 [
     {
+        "title": "A judge approved $100,000 in student-loan forgiveness for a 35-year-old man who filed for bankruptcy. Biden's education secretary just took the first step to block that decision.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/student-loan-debt-forgiveness-bankruptcy-biden-education-overturn-epileptic-man-2022-2?utm_source=reddit.com",
+        "timestamp": 1643932866,
+        "sentiment": -2,
+        "published": "February 4, 2022 12:01 AM"
+    },
+    {
         "title": "Austria requires all adults to vaccinate",
         "domain": "washingtonpost.com",
         "category": "worldnews",
@@ -9,21 +18,12 @@
         "published": "February 4, 2022 12:14 AM"
     },
     {
-        "title": "The University of Alabama will rename Graves Hall to Lucy-Graves Hall. Autherine Lucy Foster, the first African American student to enroll in the University, will share the building name with Bibb Graves, the former governor and a former officer of the Ku Klux Klan.",
-        "domain": "cw.ua.edu",
-        "category": "news",
-        "link": "https://cw.ua.edu/93048/news/lucy-graves-hall-ua-building-named-for-autherine-lucy-foster-on-anniversary-of-enrollment/",
-        "timestamp": 1643933695,
-        "sentiment": -2,
-        "published": "February 4, 2022 12:14 AM"
-    },
-    {
         "title": "South Dakota governor signs 2022’s first trans athlete ban into law",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 4, 2022 12:33 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/fedex-driver-fired-upon-chased-mississippi-father-son-custody-police-say/LKRK3RQW35E6LLMEWQMBV75XWI/",
         "timestamp": 1643935218,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 4, 2022 12:40 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://tnn-online.com/alberta-towing-companies-reject-requests-to-supply-trucks-to-rcmp/",
         "timestamp": 1643938147,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 4, 2022 1:29 AM"
     },
     {
@@ -68,8 +68,44 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-book-ban-advocate-faces-felony-child-molestation-charge-missouri-rcna14763",
         "timestamp": 1643938538,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 4, 2022 1:35 AM"
+    },
+    {
+        "title": "‘Law & Order’: Jesse L. Martin Hints At Possible Return To NBC Revival",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/law-order-jesse-l-martin-possible-return-nbc-revival-1234926478/",
+        "timestamp": 1643942601,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:43 AM"
+    },
+    {
+        "title": "The wreck of Captain Cook's ship famed vessel, the Endeavour, has been found off the coast of the Rhode Island after a 22 year search",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
+        "timestamp": 1643945609,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:33 AM"
+    },
+    {
+        "title": "Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,' 'Ctrl Salt Delete' top the list",
+        "domain": "mprnews.org",
+        "category": "news",
+        "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
+        "timestamp": 1643947108,
+        "sentiment": -5,
+        "published": "February 4, 2022 3:58 AM"
+    },
+    {
+        "title": "The University of Alabama will rename Graves Hall to Lucy-Graves Hall. Autherine Lucy Foster, the first African American student to enroll in the University, will share the building name with Bibb Graves, the former governor and a former officer of the Ku Klux Klan.",
+        "domain": "cw.ua.edu",
+        "category": "news",
+        "link": "https://cw.ua.edu/93048/news/lucy-graves-hall-ua-building-named-for-autherine-lucy-foster-on-anniversary-of-enrollment/",
+        "timestamp": 1643933695,
+        "sentiment": -2,
+        "published": "February 4, 2022 12:14 AM"
     },
     {
         "title": "Amazon Prime Raises Price as Jeff Bezos’ Yacht Attracts Unexpected Costs",
