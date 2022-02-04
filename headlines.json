@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://cw.ua.edu/93048/news/lucy-graves-hall-ua-building-named-for-autherine-lucy-foster-on-anniversary-of-enrollment/",
         "timestamp": 1643933695,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 4, 2022 12:14 AM"
     },
     {
@@ -23,8 +23,62 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 4, 2022 12:33 AM"
+    },
+    {
+        "title": "FedEx driver fired upon, chased in Mississippi; father, son in custody, police say",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/trending/fedex-driver-fired-upon-chased-mississippi-father-son-custody-police-say/LKRK3RQW35E6LLMEWQMBV75XWI/",
+        "timestamp": 1643935218,
+        "sentiment": -2,
+        "published": "February 4, 2022 12:40 AM"
+    },
+    {
+        "title": "U.S. intelligence: Russia may stage video to create pretext for Ukraine war",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/us-intelligence-alleges-russia-has-plan-fabricate-pretext-attack-ukraine-reports-2022-02-03/",
+        "timestamp": 1643936160,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:56 AM"
+    },
+    {
+        "title": "Alberta towing companies reject requests to supply trucks to RCMP",
+        "domain": "tnn-online.com",
+        "category": "news",
+        "link": "https://tnn-online.com/alberta-towing-companies-reject-requests-to-supply-trucks-to-rcmp/",
+        "timestamp": 1643938147,
+        "sentiment": -2,
+        "published": "February 4, 2022 1:29 AM"
+    },
+    {
+        "title": "Billion-year-old mysterious black diamond \"The Enigma\" goes up for auction",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-60242199",
+        "timestamp": 1643938518,
+        "sentiment": 0,
+        "published": "February 4, 2022 1:35 AM"
+    },
+    {
+        "title": "LGBTQ book ban proponent faces felony child molestation charge in Missouri",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-book-ban-advocate-faces-felony-child-molestation-charge-missouri-rcna14763",
+        "timestamp": 1643938538,
+        "sentiment": -2,
+        "published": "February 4, 2022 1:35 AM"
+    },
+    {
+        "title": "Amazon Prime Raises Price as Jeff Bezos’ Yacht Attracts Unexpected Costs",
+        "domain": "gizmodo.com",
+        "category": "worldnews",
+        "link": "https://gizmodo.com/amazon-prime-price-increase-details-1848477626",
+        "timestamp": 1643940777,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:12 AM"
     },
     {
         "title": "‘Significant element’ from U.S. involved in self-described ‘Freedom Convoy’ in Canada, official says",
