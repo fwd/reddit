@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/student-loan-debt-forgiveness-bankruptcy-biden-education-overturn-epileptic-man-2022-2?utm_source=reddit.com",
         "timestamp": 1643932866,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 4, 2022 12:01 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/01/31/austria-vaccine-mandate-coronavirus/",
         "timestamp": 1643933654,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 12:14 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/us-intelligence-alleges-russia-has-plan-fabricate-pretext-attack-ukraine-reports-2022-02-03/",
         "timestamp": 1643936160,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 12:56 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-60242199",
         "timestamp": 1643938518,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/03/uk/boris-johnson-aides-quit-intl/index.html",
         "timestamp": 1643944764,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 3:19 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
         "timestamp": 1643945609,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 4, 2022 3:33 AM"
     },
     {
@@ -115,6 +115,15 @@
         "timestamp": 1643946399,
         "sentiment": 0,
         "published": "February 4, 2022 3:46 AM"
+    },
+    {
+        "title": "Arizona Republican House speaker effectively dooms GOP bill to allow state legislature to reject election results",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
+        "timestamp": 1643946710,
+        "sentiment": 2,
+        "published": "February 4, 2022 3:51 AM"
     },
     {
         "title": "Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,' 'Ctrl Salt Delete' top the list",
