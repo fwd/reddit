@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/us-intelligence-alleges-russia-has-plan-fabricate-pretext-attack-ukraine-reports-2022-02-03/",
         "timestamp": 1643936160,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 12:56 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-60242199",
         "timestamp": 1643938518,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
         "timestamp": 1643945609,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 3:33 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/business/business-news/amazon-q4-2021-earnings-1235086750/",
         "timestamp": 1643946399,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "February 4, 2022 3:46 AM"
-    },
-    {
-        "title": "Arizona Republican House speaker effectively dooms GOP bill to allow state legislature to reject election results",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
-        "timestamp": 1643946710,
-        "sentiment": 2,
-        "published": "February 4, 2022 3:51 AM"
     },
     {
         "title": "Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,' 'Ctrl Salt Delete' top the list",
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/03/donald-is-done-pretending-he-is-now-openly-celebrating-the-capitol-riot/",
         "timestamp": 1643949963,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 4:46 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/hbo-max/raised-by-wolves-season-2-review/",
         "timestamp": 1643953929,
-        "sentiment": 5,
-        "published": "February 4, 2022 5:52 AM"
-    },
-    {
-        "title": "Satellites have detected massive gas leaks : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
-        "timestamp": 1643955267,
         "sentiment": 0,
-        "published": "February 4, 2022 6:14 AM"
+        "published": "February 4, 2022 5:52 AM"
     },
     {
         "title": "Argentinians urged to throw out cocaine after tainted batches kill at least 23",
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://www.aljazeera.com/program/upfront/2022/2/4/noam-chomsky-republican-party-has-drifted-off-the-spectrum",
         "timestamp": 1643963804,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 8:36 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-protests-investigation-courts-nyc-dc-atlanta-criminal-2022-2",
         "timestamp": 1643971310,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 10:41 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/feb/03/cuba-us-embargo-must-end",
         "timestamp": 1643974817,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 11:40 AM"
     },
     {
@@ -140,17 +122,8 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-60257080",
         "timestamp": 1643975660,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 11:54 AM"
-    },
-    {
-        "title": "Austria signs into law strict Covid-19 vaccine mandate",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/europe/austria-covid-vaccine-mandate-intl/index.html",
-        "timestamp": 1643976850,
-        "sentiment": 0,
-        "published": "February 4, 2022 12:14 PM"
     },
     {
         "title": "Virginia Black caucus votes not to accept Black GOP member",
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/local/black-gop-house-member-criticizes-black-caucus-rejection/2022/02/03/a1df46d4-853b-11ec-951c-1e0cc3723e53_story.html",
         "timestamp": 1643977589,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 12:26 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-china-tell-nato-stop-expansion-moscow-backs-beijing-taiwan-2022-02-04/",
         "timestamp": 1643978708,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 12:45 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-jan-6-witness-aguilar-b2006240.html",
         "timestamp": 1643978995,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 12:49 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.pinknews.co.uk/2022/01/28/jonathan-giant-tortoise-gay-birthday/?utm_source=Bustle&utm_medium=social&utm_campaign=swap_BSL&fbclid=IwAR2t3msDIZfu2_BF0jEkLQWOIlJ2dejnemvvYBo7GBn2aY6mYTL6h6q0ZEw",
         "timestamp": 1643979031,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 12:50 PM"
     },
     {
@@ -198,12 +171,21 @@
         "published": "February 4, 2022 12:57 PM"
     },
     {
+        "title": "‘He’s a RINO’: Trump turns on Lindsey Graham after senator suggests Capitol rioters should be punished",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-lindsey-graham-rino-b2006000.html",
+        "timestamp": 1643980684,
+        "sentiment": 0,
+        "published": "February 4, 2022 1:18 PM"
+    },
+    {
         "title": "Rep. Alexandria Ocasio-Cortez said Capitol Hill 'sounds like a perfect place for a union,' saying many congressional staffers 'don't make a living wage'",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-said-congress-sounds-like-a-perfect-place-for-union-2022-2",
         "timestamp": 1643980810,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 4, 2022 1:20 PM"
     },
     {
@@ -221,8 +203,71 @@
         "category": "worldnews",
         "link": "https://nypost.com/2022/02/03/reporters-push-feds-for-evidence-of-russian-false-flag-plan/",
         "timestamp": 1643982173,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 4, 2022 1:42 PM"
+    },
+    {
+        "title": "US anti-vaccine mandate campaigners aim to mimic Canadian convoy tactic",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/04/us-anti-vaccine-mandate-convoy-canada",
+        "timestamp": 1643982878,
+        "sentiment": 0,
+        "published": "February 4, 2022 1:54 PM"
+    },
+    {
+        "title": "Goons Drag Reporter Away on Live TV at Beijing Games Opening Ceremony",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/reporter-sjoerd-den-daas-dragged-away-by-goons-at-beijing-games-opener",
+        "timestamp": 1643984230,
+        "sentiment": -2,
+        "published": "February 4, 2022 2:17 PM"
+    },
+    {
+        "title": "Ontario spent $133,866 trying to fire employee over alleged $2.99 theft",
+        "domain": "dailybulletin.com",
+        "category": "news",
+        "link": "https://www.dailybulletin.com/2022/02/03/ontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft/?utm_email=1406C4FFE54353F4E3E5F344EF&g2i_eui=51x36g%2b0vsk0mftuh42JFP5CC3uK0aNI&g2i_source=newsletter&lctg=1406C4FFE54353F4E3E5F344EF&active=no&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2fwww.dailybulletin.com%2f2022%2f02%2f03%2fontario-spent-133866-trying-to-fire-employee-over-alleged-2-99-theft%2f&utm_campaign=scng-ivdb-localist&utm_content=curated",
+        "timestamp": 1643984663,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:24 PM"
+    },
+    {
+        "title": "School District Declines to Remove Michelle Obama Biography After Parent Complaint",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/school-district-refuses-to-remove-michelle-obamas-biography-after-parent-complaint/",
+        "timestamp": 1643985856,
+        "sentiment": 0,
+        "published": "February 4, 2022 2:44 PM"
+    },
+    {
+        "title": "Arizona Republican House speaker effectively dooms GOP bill to allow state legislature to reject election results",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
+        "timestamp": 1643946710,
+        "sentiment": 2,
+        "published": "February 4, 2022 3:51 AM"
+    },
+    {
+        "title": "Satellites have detected massive gas leaks : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines",
+        "timestamp": 1643955267,
+        "sentiment": 0,
+        "published": "February 4, 2022 6:14 AM"
+    },
+    {
+        "title": "Austria signs into law strict Covid-19 vaccine mandate",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/europe/austria-covid-vaccine-mandate-intl/index.html",
+        "timestamp": 1643976850,
+        "sentiment": 0,
+        "published": "February 4, 2022 12:14 PM"
     },
     {
         "title": "A judge approved $100,000 in student-loan forgiveness for a 35-year-old man who filed for bankruptcy. Biden's education secretary just took the first step to block that decision.",
