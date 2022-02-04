@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/01/31/austria-vaccine-mandate-coronavirus/",
         "timestamp": 1643933654,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 4, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-dakota-governor-signs-2022s-first-trans-athlete-ban-law-rcna14725",
         "timestamp": 1643934790,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 12:33 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/fedex-driver-fired-upon-chased-mississippi-father-son-custody-police-say/LKRK3RQW35E6LLMEWQMBV75XWI/",
         "timestamp": 1643935218,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 12:40 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/us-intelligence-alleges-russia-has-plan-fabricate-pretext-attack-ukraine-reports-2022-02-03/",
         "timestamp": 1643936160,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 4, 2022 12:56 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://tnn-online.com/alberta-towing-companies-reject-requests-to-supply-trucks-to-rcmp/",
         "timestamp": 1643938147,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 1:29 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-60242199",
         "timestamp": 1643938518,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 4, 2022 1:35 AM"
     },
     {
@@ -68,8 +68,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/lgbtq-book-ban-advocate-faces-felony-child-molestation-charge-missouri-rcna14763",
         "timestamp": 1643938538,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 1:35 AM"
+    },
+    {
+        "title": "Woman killed and four others injured after man opens fire on bus in California",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/03/greyhound-bus-shooting-oroville-woman-killed",
+        "timestamp": 1643939342,
+        "sentiment": -7,
+        "published": "February 4, 2022 1:49 AM"
     },
     {
         "title": "‘Law & Order’: Jesse L. Martin Hints At Possible Return To NBC Revival",
@@ -81,12 +90,21 @@
         "published": "February 4, 2022 2:43 AM"
     },
     {
+        "title": "4 of Boris Johnson's key aides quit, marking latest blow for the UK PM",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/03/uk/boris-johnson-aides-quit-intl/index.html",
+        "timestamp": 1643944764,
+        "sentiment": 0,
+        "published": "February 4, 2022 3:19 AM"
+    },
+    {
         "title": "The wreck of Captain Cook's ship famed vessel, the Endeavour, has been found off the coast of the Rhode Island after a 22 year search",
         "domain": "dw.com",
         "category": "worldnews",
         "link": "https://www.dw.com/en/captain-cooks-famed-endeavour-found-off-rhode-island-say-australian-researchers/a-60642746",
         "timestamp": 1643945609,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 4, 2022 3:33 AM"
     },
     {
@@ -104,7 +122,7 @@
         "category": "news",
         "link": "https://www.mprnews.org/story/2022/02/03/betty-whiteout-ctrl-salt-delete-top-winners-in-mndot-nameasnowplow-contest?fbclid=IwAR2VYaZz940-1lZu8waeUpEFCqonTT6SDjme8CfYC-eR9oMGX-f-aPjeuns",
         "timestamp": 1643947108,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 3:58 AM"
     },
     {
@@ -113,17 +131,8 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-us-canada-60254327",
         "timestamp": 1643952577,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 4, 2022 5:29 AM"
-    },
-    {
-        "title": "Facebook owner Meta sees biggest ever stock market loss",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/business-60255088",
-        "timestamp": 1643952685,
-        "sentiment": -5,
-        "published": "February 4, 2022 5:31 AM"
     },
     {
         "title": "Raised by Wolves Season 2: TV's Most Uniquely Bizarre Series Remains a Glorious Sci-Fi Journey",
@@ -135,13 +144,13 @@
         "published": "February 4, 2022 5:52 AM"
     },
     {
-        "title": "Woman killed and four others injured after man opens fire on bus in California",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/feb/03/greyhound-bus-shooting-oroville-woman-killed",
-        "timestamp": 1643939342,
-        "sentiment": -7,
-        "published": "February 4, 2022 1:49 AM"
+        "title": "Facebook owner Meta sees biggest ever stock market loss",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/business-60255088",
+        "timestamp": 1643952685,
+        "sentiment": -5,
+        "published": "February 4, 2022 5:31 AM"
     },
     {
         "title": "The University of Alabama will rename Graves Hall to Lucy-Graves Hall. Autherine Lucy Foster, the first African American student to enroll in the University, will share the building name with Bibb Graves, the former governor and a former officer of the Ku Klux Klan.",
