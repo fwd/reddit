@@ -1,14 +1,5 @@
 [
     {
-        "title": "‘President Trump is wrong’: Pence defends certification of Biden victory",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-trump-biden-victory-b2008113.html",
-        "timestamp": 1644019990,
-        "sentiment": 3,
-        "published": "February 5, 2022 12:13 AM"
-    },
-    {
         "title": "Lawsuit filed against convoy organizers, seeking damages on behalf of downtown Ottawa residents",
         "domain": "ctvnews.ca",
         "category": "worldnews",
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://apnews.com/article/shootings-tennessee-nashville-james-shaw-jr-travis-reinking-e431e11a2bd977f21f5a82b9c551045e",
         "timestamp": 1644022450,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 12:54 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/592945-jan-6-defendant-asks-to-subpoena-trump-as-trial-witness",
         "timestamp": 1644025570,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 5, 2022 1:46 AM"
     },
     {
@@ -63,12 +54,21 @@
         "published": "February 5, 2022 2:43 AM"
     },
     {
+        "title": "Black FedEx Driver Says White Men Chased, Shot At Him",
+        "domain": "mississippifreepress.org",
+        "category": "news",
+        "link": "https://www.mississippifreepress.org/20519/black-fedex-driver-says-white-men-chased-shot-at-him-during-deliveries/",
+        "timestamp": 1644031764,
+        "sentiment": 0,
+        "published": "February 5, 2022 3:29 AM"
+    },
+    {
         "title": "GoFundMe shuts down funding to 'Freedom Convoy'",
         "domain": "thestar.com",
         "category": "news",
         "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
         "timestamp": 1644032113,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 3:35 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 3:38 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
         "timestamp": 1644033379,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 3:56 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
         "timestamp": 1644036775,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 4:52 AM"
     },
     {
@@ -113,8 +113,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
         "timestamp": 1644037680,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 5, 2022 5:08 AM"
+    },
+    {
+        "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-slams-old-crow-mitch-mcconnell-pence-he-was-wrong-2022-2",
+        "timestamp": 1644038034,
+        "sentiment": 0,
+        "published": "February 5, 2022 5:13 AM"
     },
     {
         "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
@@ -142,6 +151,15 @@
         "timestamp": 1644055572,
         "sentiment": 0,
         "published": "February 5, 2022 10:06 AM"
+    },
+    {
+        "title": "‘President Trump is wrong’: Pence defends certification of Biden victory",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-trump-biden-victory-b2008113.html",
+        "timestamp": 1644019990,
+        "sentiment": 3,
+        "published": "February 5, 2022 12:13 AM"
     },
     {
         "title": "Billion-year-old mysterious black diamond \"The Enigma\" goes up for auction",
