@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
         "timestamp": 1644032113,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 3:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 3:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
         "timestamp": 1644033379,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 3:56 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
         "timestamp": 1644036775,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 4:52 AM"
     },
     {
@@ -72,21 +72,12 @@
         "published": "February 5, 2022 5:13 AM"
     },
     {
-        "title": "A Capitol riot defendant wants to subpoena Trump to testify as a witness in his trial, arguing he acted on the direction of the former president",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/capitol-riot-defendant-wants-subpoena-trump-as-a-trial-witness-2022-2",
-        "timestamp": 1644044558,
-        "sentiment": 0,
-        "published": "February 5, 2022 7:02 AM"
-    },
-    {
         "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
         "domain": "reuters.com",
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/dutch-reporter-on-air-incident-was-isolated-case-says-ioc-2022-02-05/",
         "timestamp": 1644046613,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 5, 2022 7:36 AM"
     },
     {
@@ -95,17 +86,26 @@
         "category": "worldnews",
         "link": "http://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html",
         "timestamp": 1644055572,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 5, 2022 10:06 AM"
     },
     {
-        "title": "Canadian Teen Killed by British Man She Flew to Meet After Falling for Him on Dating App",
-        "domain": "ibtimes.sg",
+        "title": "Bank of England boss criticised for asking workers not to demand pay rise | Andrew Bailey",
+        "domain": "theguardian.com",
         "category": "worldnews",
-        "link": "https://www.ibtimes.sg/canadian-teen-killed-after-flying-england-meet-man-she-fell-love-dating-app-62597",
-        "timestamp": 1644056691,
-        "sentiment": 1,
-        "published": "February 5, 2022 10:24 AM"
+        "link": "https://www.theguardian.com/business/2022/feb/04/bank-of-england-boss-calls-for-wage-restraint-to-help-control-inflation",
+        "timestamp": 1644056350,
+        "sentiment": 2,
+        "published": "February 5, 2022 10:19 AM"
+    },
+    {
+        "title": "Police have photo of Boris Johnson with beer at lockdown party, say reports.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/politics/2022/feb/04/police-have-photo-of-boris-johnson-with-beer-at-lockdown-party-say-reports",
+        "timestamp": 1644059077,
+        "sentiment": 2,
+        "published": "February 5, 2022 11:04 AM"
     },
     {
         "title": "Mayor denies Dutch city will dismantle bridge for Bezos' yacht",
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/jeff-bezos-yacht-rotterdam-koninginnebrug-bridge-netherlands-dismantle/",
         "timestamp": 1644059828,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 5, 2022 11:17 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html",
         "timestamp": 1644064092,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 12:28 PM"
     },
     {
@@ -158,17 +158,8 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/world/articles/2022-02-05/turkeys-president-erdogan-tests-positive-for-covid-19",
         "timestamp": 1644065208,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 5, 2022 12:46 PM"
-    },
-    {
-        "title": "Man, 56, who kept a 'slave' locked in a 6ft SHED for 40 years and 'used and exploited' the vulnerable victim is spared jail after blaming his late father",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10477055/Man-56-kept-vulnerable-victim-horse-box-6ft-shed-spared-prison-sentence.html",
-        "timestamp": 1644065273,
-        "sentiment": 1,
-        "published": "February 5, 2022 12:47 PM"
     },
     {
         "title": "GOP candidate says rape survivors shouldn’t have abortions since rape was God’s plan / LGBTQ Nation",
@@ -189,12 +180,21 @@
         "published": "February 5, 2022 1:44 PM"
     },
     {
+        "title": "Turkey's President Erdogan tests positive for COVID-19.",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/turkeys-president-erdogan-tests-positive-covid-19-2022-02-05/",
+        "timestamp": 1644070241,
+        "sentiment": 2,
+        "published": "February 5, 2022 2:10 PM"
+    },
+    {
         "title": "Chip shortage forces Ford to cut production of F-150, Bronco and other important vehicles",
         "domain": "cnbc.com",
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/04/chip-shortage-forces-ford-to-cut-production-of-f-150-bronco-suv.html",
         "timestamp": 1644070468,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 2:14 PM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/04/us/home-depot-counterfeit-arrest/index.html",
         "timestamp": 1644070750,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 2:19 PM"
     },
     {
@@ -212,17 +212,17 @@
         "category": "news",
         "link": "https://www.theledger.com/story/news/education/2022/01/26/county-citizens-defending-freedom-complained-polk-schools-superintendent-frederick-heid-novels-graph/9224745002/",
         "timestamp": 1644072185,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 2:43 PM"
     },
     {
-        "title": "Greenland permanently bans all oil and gas exploration",
-        "domain": "optimistdaily.com",
-        "category": "worldnews",
-        "link": "https://www.optimistdaily.com/2021/12/greenland-permanently-bans-all-oil-and-gas-exploration/",
-        "timestamp": 1644073772,
-        "sentiment": 1,
-        "published": "February 5, 2022 3:09 PM"
+        "title": "Opponents seek to block Cawthorn from ballot for his actions on Jan. 6",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/592967-opponents-seek-to-block-cawthorn-from-ballot-for-his-actions-on-jan-6",
+        "timestamp": 1644072485,
+        "sentiment": 0,
+        "published": "February 5, 2022 2:48 PM"
     },
     {
         "title": "Opinion: The Republican Party formally declares that truth is fiction and patriots are traitors",
@@ -248,17 +248,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/culture/2022/feb/05/joe-rogan-apologises-for-using-n-word-and-racist-planet-of-the-apes-story",
         "timestamp": 1644074588,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 5, 2022 3:23 PM"
     },
     {
-        "title": "Olympics Ratings Plummet To All-Time Low On Opening Night",
-        "domain": "outkick.com",
+        "title": "\"Lawlessness must end\": Canada police pledge tougher action on truck protests",
+        "domain": "theguardian.com",
         "category": "worldnews",
-        "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
-        "timestamp": 1644074721,
-        "sentiment": 1,
-        "published": "February 5, 2022 3:25 PM"
+        "link": "https://www.theguardian.com/world/2022/feb/04/canada-ottawa-protests-trucks-police",
+        "timestamp": 1644076510,
+        "sentiment": 2,
+        "published": "February 5, 2022 3:55 PM"
     },
     {
         "title": "Olympics ratings plummet to all-time low on opening night",
@@ -270,6 +270,60 @@
         "published": "February 5, 2022 4:13 PM"
     },
     {
+        "title": "Historical Low-Rated Winter Olympics Opening Ceremony",
+        "domain": "programminginsider.com",
+        "category": "news",
+        "link": "https://programminginsider.com/thursday-ratings-historical-low-rated-winter-olympics-opening-ceremony/",
+        "timestamp": 1644078834,
+        "sentiment": -2,
+        "published": "February 5, 2022 4:33 PM"
+    },
+    {
+        "title": "A Capitol riot defendant wants to subpoena Trump to testify as a witness in his trial, arguing he acted on the direction of the former president",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/capitol-riot-defendant-wants-subpoena-trump-as-a-trial-witness-2022-2",
+        "timestamp": 1644044558,
+        "sentiment": 0,
+        "published": "February 5, 2022 7:02 AM"
+    },
+    {
+        "title": "Canadian Teen Killed by British Man She Flew to Meet After Falling for Him on Dating App",
+        "domain": "ibtimes.sg",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.sg/canadian-teen-killed-after-flying-england-meet-man-she-fell-love-dating-app-62597",
+        "timestamp": 1644056691,
+        "sentiment": 1,
+        "published": "February 5, 2022 10:24 AM"
+    },
+    {
+        "title": "Man, 56, who kept a 'slave' locked in a 6ft SHED for 40 years and 'used and exploited' the vulnerable victim is spared jail after blaming his late father",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10477055/Man-56-kept-vulnerable-victim-horse-box-6ft-shed-spared-prison-sentence.html",
+        "timestamp": 1644065273,
+        "sentiment": 1,
+        "published": "February 5, 2022 12:47 PM"
+    },
+    {
+        "title": "Greenland permanently bans all oil and gas exploration",
+        "domain": "optimistdaily.com",
+        "category": "worldnews",
+        "link": "https://www.optimistdaily.com/2021/12/greenland-permanently-bans-all-oil-and-gas-exploration/",
+        "timestamp": 1644073772,
+        "sentiment": 1,
+        "published": "February 5, 2022 3:09 PM"
+    },
+    {
+        "title": "Olympics Ratings Plummet To All-Time Low On Opening Night",
+        "domain": "outkick.com",
+        "category": "worldnews",
+        "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
+        "timestamp": 1644074721,
+        "sentiment": 1,
+        "published": "February 5, 2022 3:25 PM"
+    },
+    {
         "title": "Dutch Olympics Reporter Pulled Away by Guard During Broadcast",
         "domain": "variety.com",
         "category": "television",
@@ -277,15 +331,6 @@
         "timestamp": 1644036077,
         "sentiment": -2,
         "published": "February 5, 2022 4:41 AM"
-    },
-    {
-        "title": "Bank of England boss criticised for asking workers not to demand pay rise | Andrew Bailey",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/business/2022/feb/04/bank-of-england-boss-calls-for-wage-restraint-to-help-control-inflation",
-        "timestamp": 1644056350,
-        "sentiment": -3,
-        "published": "February 5, 2022 10:19 AM"
     },
     {
         "title": "Waffle House shooter found guilty on 4 counts of murder",
