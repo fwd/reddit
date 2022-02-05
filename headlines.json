@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/politics/lawsuit-filed-against-convoy-organizers-seeking-damages-on-behalf-of-downtown-ottawa-residents-1.5768731",
         "timestamp": 1644020234,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 5, 2022 12:17 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.science.org/content/article/insect-ranchers-pour-5-million-world-s-first-large-scale-genetic-breeding-facility",
         "timestamp": 1644021497,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 5, 2022 12:38 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/592945-jan-6-defendant-asks-to-subpoena-trump-as-trial-witness",
         "timestamp": 1644025570,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "February 5, 2022 1:46 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -70,6 +70,15 @@
         "timestamp": 1644032327,
         "sentiment": -5,
         "published": "February 5, 2022 3:38 AM"
+    },
+    {
+        "title": "Vets call for end to use of flat-faced dogs on greeting cards. Concerns frequent images of ‘cute’ breeds such as pugs maintains their popularity despite animal cruelty warnings",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
+        "timestamp": 1644033379,
+        "sentiment": -5,
+        "published": "February 5, 2022 3:56 AM"
     },
     {
         "title": "Dutch Olympics Reporter Pulled Away by Guard During Broadcast",
