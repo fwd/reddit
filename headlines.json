@@ -5,8 +5,17 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/politics/lawsuit-filed-against-convoy-organizers-seeking-damages-on-behalf-of-downtown-ottawa-residents-1.5768731",
         "timestamp": 1644020234,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 5, 2022 12:17 AM"
+    },
+    {
+        "title": "Insect ranchers pour $5 million into world’s first large-scale genetic breeding facility - Genetically engineered mealworms could provide food for millions",
+        "domain": "science.org",
+        "category": "worldnews",
+        "link": "https://www.science.org/content/article/insect-ranchers-pour-5-million-world-s-first-large-scale-genetic-breeding-facility",
+        "timestamp": 1644021497,
+        "sentiment": 0,
+        "published": "February 5, 2022 12:38 AM"
     },
     {
         "title": "Waffle House shooter found guilty on 4 counts of murder",
@@ -14,8 +23,17 @@
         "category": "news",
         "link": "https://apnews.com/article/shootings-tennessee-nashville-james-shaw-jr-travis-reinking-e431e11a2bd977f21f5a82b9c551045e",
         "timestamp": 1644022450,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "February 5, 2022 12:54 AM"
+    },
+    {
+        "title": "Jan. 6 defendant asks to subpoena Trump as trial witness | TheHill",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/592945-jan-6-defendant-asks-to-subpoena-trump-as-trial-witness",
+        "timestamp": 1644025570,
+        "sentiment": -2,
+        "published": "February 5, 2022 1:46 AM"
     },
     {
         "title": "GoFundMe scuttles campaign for trucker convoy, stops release of $10-million in donations",
@@ -23,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -34,6 +52,15 @@
         "timestamp": 1644029032,
         "sentiment": 0,
         "published": "February 5, 2022 2:43 AM"
+    },
+    {
+        "title": "Deputies: 3 arrested following violent outbreak at Neo-Nazi rally in Orlando",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
+        "timestamp": 1644032327,
+        "sentiment": -2,
+        "published": "February 5, 2022 3:38 AM"
     },
     {
         "title": "Billion-year-old mysterious black diamond \"The Enigma\" goes up for auction",
