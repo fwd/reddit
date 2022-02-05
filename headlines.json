@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/politics/lawsuit-filed-against-convoy-organizers-seeking-damages-on-behalf-of-downtown-ottawa-residents-1.5768731",
         "timestamp": 1644020234,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 12:17 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.science.org/content/article/insect-ranchers-pour-5-million-world-s-first-large-scale-genetic-breeding-facility",
         "timestamp": 1644021497,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 12:38 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/all-of-us-are-dead-no-1-on-netflix-viewership-milestone-korean-drama-1234926926/",
         "timestamp": 1644029032,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 2:43 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "television",
         "link": "https://variety.com/2022/global/news/dutch-journalist-beijing-olympics-guard-1235172805/",
         "timestamp": 1644036077,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 4:41 AM"
     },
     {
@@ -122,8 +122,17 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/lifestyle/sports/dutch-reporter-on-air-incident-was-isolated-case-says-ioc-2022-02-05/",
         "timestamp": 1644046613,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 7:36 AM"
+    },
+    {
+        "title": "Jimmy Kimmel Goes Off on Fox Over Rudy Giuliani ‘Masked Singer’ Debacle",
+        "domain": "thedailybeast.com",
+        "category": "television",
+        "link": "https://www.thedailybeast.com/jimmy-kimmel-goes-off-on-fox-over-rudy-giuliani-masked-singer-debacle",
+        "timestamp": 1644048226,
+        "sentiment": 0,
+        "published": "February 5, 2022 8:03 AM"
     },
     {
         "title": "Billion-year-old mysterious black diamond \"The Enigma\" goes up for auction",
