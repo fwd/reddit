@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
         "timestamp": 1644032113,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 3:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 3:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
         "timestamp": 1644033379,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 3:56 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
         "timestamp": 1644036775,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 4:52 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
         "timestamp": 1644037680,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 5:08 AM"
-    },
-    {
-        "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-slams-old-crow-mitch-mcconnell-pence-he-was-wrong-2022-2",
-        "timestamp": 1644038034,
-        "sentiment": 0,
-        "published": "February 5, 2022 5:13 AM"
     },
     {
         "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
@@ -79,15 +70,6 @@
         "timestamp": 1644046613,
         "sentiment": 2,
         "published": "February 5, 2022 7:36 AM"
-    },
-    {
-        "title": "Ukraine Gave Up a Giant Nuclear Arsenal 30 Years Ago. Today There Are Regrets.",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "http://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html",
-        "timestamp": 1644055572,
-        "sentiment": 2,
-        "published": "February 5, 2022 10:06 AM"
     },
     {
         "title": "Bank of England boss criticised for asking workers not to demand pay rise | Andrew Bailey",
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/all-in/watch/raskin-pence-should-tell-the-full-truth-and-join-the-party-of-democracy-132490821636",
         "timestamp": 1644062072,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 11:54 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo",
         "timestamp": 1644062826,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 12:07 PM"
     },
     {
@@ -140,17 +122,8 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867",
         "timestamp": 1644063660,
-        "sentiment": 0,
-        "published": "February 5, 2022 12:21 PM"
-    },
-    {
-        "title": "Some people in a cheering crowd called for her to be raped. Many were women",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html",
-        "timestamp": 1644064092,
         "sentiment": -2,
-        "published": "February 5, 2022 12:28 PM"
+        "published": "February 5, 2022 12:21 PM"
     },
     {
         "title": "Turkey's President Erdogan Tests Positive for COVID-19",
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/02/michigan-gop-governor-candidate-says-rape-victims-shouldnt-abortion-since-gods-plan/",
         "timestamp": 1644066911,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 1:15 PM"
     },
     {
@@ -176,8 +149,17 @@
         "category": "politics",
         "link": "https://truthout.org/articles/democrats-are-so-fed-up-with-kyrsten-sinema-they-are-funding-a-primary-challenge/",
         "timestamp": 1644068668,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 1:44 PM"
+    },
+    {
+        "title": "Why does Sen. Ron Johnson traffic in misinformation?",
+        "domain": "madison.com",
+        "category": "politics",
+        "link": "https://madison.com/news/local/govt-and-politics/elections/why-does-sen-ron-johnson-traffic-in-misinformation/article_84e18951-7047-5130-9a82-03bc1aa8b1cb.html",
+        "timestamp": 1644068824,
+        "sentiment": -2,
+        "published": "February 5, 2022 1:47 PM"
     },
     {
         "title": "Turkey's President Erdogan tests positive for COVID-19.",
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/04/chip-shortage-forces-ford-to-cut-production-of-f-150-bronco-suv.html",
         "timestamp": 1644070468,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 2:14 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/04/us/home-depot-counterfeit-arrest/index.html",
         "timestamp": 1644070750,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 2:19 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.theledger.com/story/news/education/2022/01/26/county-citizens-defending-freedom-complained-polk-schools-superintendent-frederick-heid-novels-graph/9224745002/",
         "timestamp": 1644072185,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 2:43 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/592967-opponents-seek-to-block-cawthorn-from-ballot-for-his-actions-on-jan-6",
         "timestamp": 1644072485,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 2:48 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/02/04/liz-cheney-republicans-censure-orwellian/",
         "timestamp": 1644073945,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 5, 2022 3:12 PM"
     },
     {
@@ -248,8 +230,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/culture/2022/feb/05/joe-rogan-apologises-for-using-n-word-and-racist-planet-of-the-apes-story",
         "timestamp": 1644074588,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 5, 2022 3:23 PM"
+    },
+    {
+        "title": "Villager who wrecked golf cart after drinking at Christmas Parade wants statements suppressed",
+        "domain": "villages-news.com",
+        "category": "news",
+        "link": "https://www.villages-news.com/2022/02/03/villager-who-wrecked-golf-cart-after-drinking-at-christmas-parade-wants-statements-suppressed/",
+        "timestamp": 1644075987,
+        "sentiment": 0,
+        "published": "February 5, 2022 3:46 PM"
     },
     {
         "title": "\"Lawlessness must end\": Canada police pledge tougher action on truck protests",
@@ -268,6 +259,51 @@
         "timestamp": 1644077635,
         "sentiment": -3,
         "published": "February 5, 2022 4:13 PM"
+    },
+    {
+        "title": "Florida governor to investigate GoFundMe over Canada trucker donations",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/florida-governor-investigate-gofundme-over-canada-trucker-donations-2022-02-05/",
+        "timestamp": 1644080429,
+        "sentiment": 0,
+        "published": "February 5, 2022 5:00 PM"
+    },
+    {
+        "title": "Andrew Forrest: Australian billionaire launches criminal case against Facebook",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-australia-60238985",
+        "timestamp": 1644082284,
+        "sentiment": 2,
+        "published": "February 5, 2022 5:31 PM"
+    },
+    {
+        "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-slams-old-crow-mitch-mcconnell-pence-he-was-wrong-2022-2",
+        "timestamp": 1644038034,
+        "sentiment": 0,
+        "published": "February 5, 2022 5:13 AM"
+    },
+    {
+        "title": "Ukraine Gave Up a Giant Nuclear Arsenal 30 Years Ago. Today There Are Regrets.",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "http://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html",
+        "timestamp": 1644055572,
+        "sentiment": 2,
+        "published": "February 5, 2022 10:06 AM"
+    },
+    {
+        "title": "Some people in a cheering crowd called for her to be raped. Many were women",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html",
+        "timestamp": 1644064092,
+        "sentiment": -2,
+        "published": "February 5, 2022 12:28 PM"
     },
     {
         "title": "Historical Low-Rated Winter Olympics Opening Ceremony",
