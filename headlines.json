@@ -14,17 +14,8 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/all-of-us-are-dead-no-1-on-netflix-viewership-milestone-korean-drama-1234926926/",
         "timestamp": 1644029032,
-        "sentiment": -3,
-        "published": "February 5, 2022 2:43 AM"
-    },
-    {
-        "title": "GoFundMe shuts down funding to 'Freedom Convoy'",
-        "domain": "thestar.com",
-        "category": "news",
-        "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
-        "timestamp": 1644032113,
         "sentiment": 0,
-        "published": "February 5, 2022 3:35 AM"
+        "published": "February 5, 2022 2:43 AM"
     },
     {
         "title": "Deputies: 3 arrested following violent outbreak at Neo-Nazi rally in Orlando",
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
         "timestamp": 1644037680,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 5:08 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/all-in/watch/raskin-pence-should-tell-the-full-truth-and-join-the-party-of-democracy-132490821636",
         "timestamp": 1644062072,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 11:54 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo",
         "timestamp": 1644062826,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 12:07 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867",
         "timestamp": 1644063660,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 12:21 PM"
     },
     {
@@ -135,21 +126,12 @@
         "published": "February 5, 2022 12:46 PM"
     },
     {
-        "title": "GOP candidate says rape survivors shouldn’t have abortions since rape was God’s plan / LGBTQ Nation",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/02/michigan-gop-governor-candidate-says-rape-victims-shouldnt-abortion-since-gods-plan/",
-        "timestamp": 1644066911,
-        "sentiment": -2,
-        "published": "February 5, 2022 1:15 PM"
-    },
-    {
         "title": "Democrats Are So Fed Up With Kyrsten Sinema They Are Funding a Primary Challenge",
         "domain": "truthout.org",
         "category": "politics",
         "link": "https://truthout.org/articles/democrats-are-so-fed-up-with-kyrsten-sinema-they-are-funding-a-primary-challenge/",
         "timestamp": 1644068668,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 1:44 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://madison.com/news/local/govt-and-politics/elections/why-does-sen-ron-johnson-traffic-in-misinformation/article_84e18951-7047-5130-9a82-03bc1aa8b1cb.html",
         "timestamp": 1644068824,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 1:47 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/592967-opponents-seek-to-block-cawthorn-from-ballot-for-his-actions-on-jan-6",
         "timestamp": 1644072485,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 2:48 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/02/04/liz-cheney-republicans-censure-orwellian/",
         "timestamp": 1644073945,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 3:12 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/tvs-top-5-inside-mayim-bialiks-jeopardy-journey-jason-katims-as-we-see-it-1235087050/",
         "timestamp": 1644074357,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 3:19 PM"
     },
     {
@@ -243,6 +225,15 @@
         "published": "February 5, 2022 3:46 PM"
     },
     {
+        "title": "Oklahoma National Guard members can’t sue anonymously over COVID-19 vaccine mandate, judge rules",
+        "domain": "oklahoman.com",
+        "category": "news",
+        "link": "https://www.oklahoman.com/story/news/2022/02/05/oklahoma-national-guard-members-cant-challenge-covid-vaccine-mandates-anonymously/6663067001/",
+        "timestamp": 1644076154,
+        "sentiment": 0,
+        "published": "February 5, 2022 3:49 PM"
+    },
+    {
         "title": "\"Lawlessness must end\": Canada police pledge tougher action on truck protests",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -257,8 +248,17 @@
         "category": "television",
         "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
         "timestamp": 1644077635,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 5, 2022 4:13 PM"
+    },
+    {
+        "title": "The Emerging Plot to Defend Trump’s Next Coup - The former president is acting more brazen than ever, and he’s adding reinforcements to his corrupt cause.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165284/trump-next-coup-emerging-plot",
+        "timestamp": 1644078691,
+        "sentiment": -3,
+        "published": "February 5, 2022 4:31 PM"
     },
     {
         "title": "Florida governor to investigate GoFundMe over Canada trucker donations",
@@ -277,6 +277,33 @@
         "timestamp": 1644082284,
         "sentiment": 2,
         "published": "February 5, 2022 5:31 PM"
+    },
+    {
+        "title": "The biggest streaming TV shows last month, from Netflix's 'Cobra Kai' to Disney+'s 'The Book of Boba Fett'",
+        "domain": "businessinsider.com",
+        "category": "television",
+        "link": "https://www.businessinsider.com/top-streaming-tv-shows-of-month-cobra-kai-boba-fett-2022-2",
+        "timestamp": 1644086133,
+        "sentiment": 0,
+        "published": "February 5, 2022 6:35 PM"
+    },
+    {
+        "title": "GoFundMe shuts down funding to 'Freedom Convoy'",
+        "domain": "thestar.com",
+        "category": "news",
+        "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
+        "timestamp": 1644032113,
+        "sentiment": 0,
+        "published": "February 5, 2022 3:35 AM"
+    },
+    {
+        "title": "GOP candidate says rape survivors shouldn’t have abortions since rape was God’s plan / LGBTQ Nation",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/02/michigan-gop-governor-candidate-says-rape-victims-shouldnt-abortion-since-gods-plan/",
+        "timestamp": 1644066911,
+        "sentiment": -2,
+        "published": "February 5, 2022 1:15 PM"
     },
     {
         "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
