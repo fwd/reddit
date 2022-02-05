@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/all-of-us-are-dead-no-1-on-netflix-viewership-milestone-korean-drama-1234926926/",
         "timestamp": 1644029032,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 2:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
         "timestamp": 1644032113,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 5, 2022 3:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 5, 2022 3:38 AM"
     },
     {
@@ -41,8 +41,233 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
         "timestamp": 1644033379,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "February 5, 2022 3:56 AM"
+    },
+    {
+        "title": "Minneapolis mayor suspends no-knock warrants after police killing of Black man",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
+        "timestamp": 1644036775,
+        "sentiment": -5,
+        "published": "February 5, 2022 4:52 AM"
+    },
+    {
+        "title": "GOP Rep. Adam Kinzinger said the RNC's vote to censure him and fellow GOP Rep. Liz Cheney shows how 'frigging crazy the Republican Party has become'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
+        "timestamp": 1644037680,
+        "sentiment": 0,
+        "published": "February 5, 2022 5:08 AM"
+    },
+    {
+        "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-slams-old-crow-mitch-mcconnell-pence-he-was-wrong-2022-2",
+        "timestamp": 1644038034,
+        "sentiment": 0,
+        "published": "February 5, 2022 5:13 AM"
+    },
+    {
+        "title": "A Capitol riot defendant wants to subpoena Trump to testify as a witness in his trial, arguing he acted on the direction of the former president",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/capitol-riot-defendant-wants-subpoena-trump-as-a-trial-witness-2022-2",
+        "timestamp": 1644044558,
+        "sentiment": 0,
+        "published": "February 5, 2022 7:02 AM"
+    },
+    {
+        "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/dutch-reporter-on-air-incident-was-isolated-case-says-ioc-2022-02-05/",
+        "timestamp": 1644046613,
+        "sentiment": 1,
+        "published": "February 5, 2022 7:36 AM"
+    },
+    {
+        "title": "Ukraine Gave Up a Giant Nuclear Arsenal 30 Years Ago. Today There Are Regrets.",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "http://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html",
+        "timestamp": 1644055572,
+        "sentiment": 1,
+        "published": "February 5, 2022 10:06 AM"
+    },
+    {
+        "title": "Canadian Teen Killed by British Man She Flew to Meet After Falling for Him on Dating App",
+        "domain": "ibtimes.sg",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.sg/canadian-teen-killed-after-flying-england-meet-man-she-fell-love-dating-app-62597",
+        "timestamp": 1644056691,
+        "sentiment": 1,
+        "published": "February 5, 2022 10:24 AM"
+    },
+    {
+        "title": "Mayor denies Dutch city will dismantle bridge for Bezos' yacht",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/jeff-bezos-yacht-rotterdam-koninginnebrug-bridge-netherlands-dismantle/",
+        "timestamp": 1644059828,
+        "sentiment": 1,
+        "published": "February 5, 2022 11:17 AM"
+    },
+    {
+        "title": "Raskin: Pence should tell the full truth and join the ‘party of democracy’",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/all-in/watch/raskin-pence-should-tell-the-full-truth-and-join-the-party-of-democracy-132490821636",
+        "timestamp": 1644062072,
+        "sentiment": 0,
+        "published": "February 5, 2022 11:54 AM"
+    },
+    {
+        "title": "Saying he's an insurrectionist, challengers aim to keep Rep. Cawthorn off the ballot",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo",
+        "timestamp": 1644062826,
+        "sentiment": 0,
+        "published": "February 5, 2022 12:07 PM"
+    },
+    {
+        "title": "Trump’s ‘circular firing squad’ threatens GOP midterm gains",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867",
+        "timestamp": 1644063660,
+        "sentiment": 0,
+        "published": "February 5, 2022 12:21 PM"
+    },
+    {
+        "title": "Some people in a cheering crowd called for her to be raped. Many were women",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html",
+        "timestamp": 1644064092,
+        "sentiment": -5,
+        "published": "February 5, 2022 12:28 PM"
+    },
+    {
+        "title": "Turkey's President Erdogan Tests Positive for COVID-19",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-02-05/turkeys-president-erdogan-tests-positive-for-covid-19",
+        "timestamp": 1644065208,
+        "sentiment": 1,
+        "published": "February 5, 2022 12:46 PM"
+    },
+    {
+        "title": "Man, 56, who kept a 'slave' locked in a 6ft SHED for 40 years and 'used and exploited' the vulnerable victim is spared jail after blaming his late father",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10477055/Man-56-kept-vulnerable-victim-horse-box-6ft-shed-spared-prison-sentence.html",
+        "timestamp": 1644065273,
+        "sentiment": 1,
+        "published": "February 5, 2022 12:47 PM"
+    },
+    {
+        "title": "GOP candidate says rape survivors shouldn’t have abortions since rape was God’s plan / LGBTQ Nation",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/02/michigan-gop-governor-candidate-says-rape-victims-shouldnt-abortion-since-gods-plan/",
+        "timestamp": 1644066911,
+        "sentiment": 0,
+        "published": "February 5, 2022 1:15 PM"
+    },
+    {
+        "title": "Democrats Are So Fed Up With Kyrsten Sinema They Are Funding a Primary Challenge",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/democrats-are-so-fed-up-with-kyrsten-sinema-they-are-funding-a-primary-challenge/",
+        "timestamp": 1644068668,
+        "sentiment": 0,
+        "published": "February 5, 2022 1:44 PM"
+    },
+    {
+        "title": "Chip shortage forces Ford to cut production of F-150, Bronco and other important vehicles",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/04/chip-shortage-forces-ford-to-cut-production-of-f-150-bronco-suv.html",
+        "timestamp": 1644070468,
+        "sentiment": -5,
+        "published": "February 5, 2022 2:14 PM"
+    },
+    {
+        "title": "Home Depot employee arrested for swapping store cash with counterfeit bills for years, authorities say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/04/us/home-depot-counterfeit-arrest/index.html",
+        "timestamp": 1644070750,
+        "sentiment": -5,
+        "published": "February 5, 2022 2:19 PM"
+    },
+    {
+        "title": "Conservative group trying to ban 16 books from Polk Schools, calling them pornographic",
+        "domain": "theledger.com",
+        "category": "news",
+        "link": "https://www.theledger.com/story/news/education/2022/01/26/county-citizens-defending-freedom-complained-polk-schools-superintendent-frederick-heid-novels-graph/9224745002/",
+        "timestamp": 1644072185,
+        "sentiment": -5,
+        "published": "February 5, 2022 2:43 PM"
+    },
+    {
+        "title": "Greenland permanently bans all oil and gas exploration",
+        "domain": "optimistdaily.com",
+        "category": "worldnews",
+        "link": "https://www.optimistdaily.com/2021/12/greenland-permanently-bans-all-oil-and-gas-exploration/",
+        "timestamp": 1644073772,
+        "sentiment": 1,
+        "published": "February 5, 2022 3:09 PM"
+    },
+    {
+        "title": "Opinion: The Republican Party formally declares that truth is fiction and patriots are traitors",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/02/04/liz-cheney-republicans-censure-orwellian/",
+        "timestamp": 1644073945,
+        "sentiment": 0,
+        "published": "February 5, 2022 3:12 PM"
+    },
+    {
+        "title": "Speaking with The Hollywood Reporter, Mayim Bialik defiant against her critics: \"[I was] raked over for literally things that I said and have spoken about... My goal is to blend into the podium as much as I can and have it not be about all of that other stuff.\"",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tvs-top-5-inside-mayim-bialiks-jeopardy-journey-jason-katims-as-we-see-it-1235087050/",
+        "timestamp": 1644074357,
+        "sentiment": -3,
+        "published": "February 5, 2022 3:19 PM"
+    },
+    {
+        "title": "Joe Rogan apologises for using N-word and racist Planet of the Apes story",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/culture/2022/feb/05/joe-rogan-apologises-for-using-n-word-and-racist-planet-of-the-apes-story",
+        "timestamp": 1644074588,
+        "sentiment": -5,
+        "published": "February 5, 2022 3:23 PM"
+    },
+    {
+        "title": "Olympics Ratings Plummet To All-Time Low On Opening Night",
+        "domain": "outkick.com",
+        "category": "worldnews",
+        "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
+        "timestamp": 1644074721,
+        "sentiment": 1,
+        "published": "February 5, 2022 3:25 PM"
+    },
+    {
+        "title": "Olympics ratings plummet to all-time low on opening night",
+        "domain": "outkick.com",
+        "category": "television",
+        "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
+        "timestamp": 1644077635,
+        "sentiment": -3,
+        "published": "February 5, 2022 4:13 PM"
     },
     {
         "title": "Dutch Olympics Reporter Pulled Away by Guard During Broadcast",
@@ -54,60 +279,6 @@
         "published": "February 5, 2022 4:41 AM"
     },
     {
-        "title": "Minneapolis mayor suspends no-knock warrants after police killing of Black man",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
-        "timestamp": 1644036775,
-        "sentiment": -2,
-        "published": "February 5, 2022 4:52 AM"
-    },
-    {
-        "title": "GOP Rep. Adam Kinzinger said the RNC's vote to censure him and fellow GOP Rep. Liz Cheney shows how 'frigging crazy the Republican Party has become'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
-        "timestamp": 1644037680,
-        "sentiment": 1,
-        "published": "February 5, 2022 5:08 AM"
-    },
-    {
-        "title": "Trump went after 'Old Crow Mitch McConnell' in a statement issued after Pence said the former president was 'wrong'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-slams-old-crow-mitch-mcconnell-pence-he-was-wrong-2022-2",
-        "timestamp": 1644038034,
-        "sentiment": 1,
-        "published": "February 5, 2022 5:13 AM"
-    },
-    {
-        "title": "A Capitol riot defendant wants to subpoena Trump to testify as a witness in his trial, arguing he acted on the direction of the former president",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/capitol-riot-defendant-wants-subpoena-trump-as-a-trial-witness-2022-2",
-        "timestamp": 1644044558,
-        "sentiment": 1,
-        "published": "February 5, 2022 7:02 AM"
-    },
-    {
-        "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/lifestyle/sports/dutch-reporter-on-air-incident-was-isolated-case-says-ioc-2022-02-05/",
-        "timestamp": 1644046613,
-        "sentiment": -3,
-        "published": "February 5, 2022 7:36 AM"
-    },
-    {
-        "title": "Ukraine Gave Up a Giant Nuclear Arsenal 30 Years Ago. Today There Are Regrets.",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "http://www.nytimes.com/2022/02/05/science/ukraine-nuclear-weapons.html",
-        "timestamp": 1644055572,
-        "sentiment": -3,
-        "published": "February 5, 2022 10:06 AM"
-    },
-    {
         "title": "Bank of England boss criticised for asking workers not to demand pay rise | Andrew Bailey",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -115,141 +286,6 @@
         "timestamp": 1644056350,
         "sentiment": -3,
         "published": "February 5, 2022 10:19 AM"
-    },
-    {
-        "title": "Canadian Teen Killed by British Man She Flew to Meet After Falling for Him on Dating App",
-        "domain": "ibtimes.sg",
-        "category": "worldnews",
-        "link": "https://www.ibtimes.sg/canadian-teen-killed-after-flying-england-meet-man-she-fell-love-dating-app-62597",
-        "timestamp": 1644056691,
-        "sentiment": -3,
-        "published": "February 5, 2022 10:24 AM"
-    },
-    {
-        "title": "Mayor denies Dutch city will dismantle bridge for Bezos' yacht",
-        "domain": "cbsnews.com",
-        "category": "worldnews",
-        "link": "https://www.cbsnews.com/news/jeff-bezos-yacht-rotterdam-koninginnebrug-bridge-netherlands-dismantle/",
-        "timestamp": 1644059828,
-        "sentiment": -3,
-        "published": "February 5, 2022 11:17 AM"
-    },
-    {
-        "title": "Raskin: Pence should tell the full truth and join the ‘party of democracy’",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/all-in/watch/raskin-pence-should-tell-the-full-truth-and-join-the-party-of-democracy-132490821636",
-        "timestamp": 1644062072,
-        "sentiment": 1,
-        "published": "February 5, 2022 11:54 AM"
-    },
-    {
-        "title": "Saying he's an insurrectionist, challengers aim to keep Rep. Cawthorn off the ballot",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo",
-        "timestamp": 1644062826,
-        "sentiment": 1,
-        "published": "February 5, 2022 12:07 PM"
-    },
-    {
-        "title": "Trump’s ‘circular firing squad’ threatens GOP midterm gains",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867",
-        "timestamp": 1644063660,
-        "sentiment": 1,
-        "published": "February 5, 2022 12:21 PM"
-    },
-    {
-        "title": "Turkey's President Erdogan Tests Positive for COVID-19",
-        "domain": "usnews.com",
-        "category": "worldnews",
-        "link": "https://www.usnews.com/news/world/articles/2022-02-05/turkeys-president-erdogan-tests-positive-for-covid-19",
-        "timestamp": 1644065208,
-        "sentiment": -3,
-        "published": "February 5, 2022 12:46 PM"
-    },
-    {
-        "title": "Man, 56, who kept a 'slave' locked in a 6ft SHED for 40 years and 'used and exploited' the vulnerable victim is spared jail after blaming his late father",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10477055/Man-56-kept-vulnerable-victim-horse-box-6ft-shed-spared-prison-sentence.html",
-        "timestamp": 1644065273,
-        "sentiment": -3,
-        "published": "February 5, 2022 12:47 PM"
-    },
-    {
-        "title": "GOP candidate says rape survivors shouldn’t have abortions since rape was God’s plan / LGBTQ Nation",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/02/michigan-gop-governor-candidate-says-rape-victims-shouldnt-abortion-since-gods-plan/",
-        "timestamp": 1644066911,
-        "sentiment": 1,
-        "published": "February 5, 2022 1:15 PM"
-    },
-    {
-        "title": "Democrats Are So Fed Up With Kyrsten Sinema They Are Funding a Primary Challenge",
-        "domain": "truthout.org",
-        "category": "politics",
-        "link": "https://truthout.org/articles/democrats-are-so-fed-up-with-kyrsten-sinema-they-are-funding-a-primary-challenge/",
-        "timestamp": 1644068668,
-        "sentiment": 1,
-        "published": "February 5, 2022 1:44 PM"
-    },
-    {
-        "title": "Chip shortage forces Ford to cut production of F-150, Bronco and other important vehicles",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/04/chip-shortage-forces-ford-to-cut-production-of-f-150-bronco-suv.html",
-        "timestamp": 1644070468,
-        "sentiment": -2,
-        "published": "February 5, 2022 2:14 PM"
-    },
-    {
-        "title": "Home Depot employee arrested for swapping store cash with counterfeit bills for years, authorities say",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/us/home-depot-counterfeit-arrest/index.html",
-        "timestamp": 1644070750,
-        "sentiment": -2,
-        "published": "February 5, 2022 2:19 PM"
-    },
-    {
-        "title": "Conservative group trying to ban 16 books from Polk Schools, calling them pornographic",
-        "domain": "theledger.com",
-        "category": "news",
-        "link": "https://www.theledger.com/story/news/education/2022/01/26/county-citizens-defending-freedom-complained-polk-schools-superintendent-frederick-heid-novels-graph/9224745002/",
-        "timestamp": 1644072185,
-        "sentiment": -2,
-        "published": "February 5, 2022 2:43 PM"
-    },
-    {
-        "title": "Greenland permanently bans all oil and gas exploration",
-        "domain": "optimistdaily.com",
-        "category": "worldnews",
-        "link": "https://www.optimistdaily.com/2021/12/greenland-permanently-bans-all-oil-and-gas-exploration/",
-        "timestamp": 1644073772,
-        "sentiment": -3,
-        "published": "February 5, 2022 3:09 PM"
-    },
-    {
-        "title": "Speaking with The Hollywood Reporter, Mayim Bialik defiant against her critics: \"[I was] raked over for literally things that I said and have spoken about... My goal is to blend into the podium as much as I can and have it not be about all of that other stuff.\"",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/tvs-top-5-inside-mayim-bialiks-jeopardy-journey-jason-katims-as-we-see-it-1235087050/",
-        "timestamp": 1644074357,
-        "sentiment": -2,
-        "published": "February 5, 2022 3:19 PM"
-    },
-    {
-        "title": "Joe Rogan apologises for using N-word and racist Planet of the Apes story",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/culture/2022/feb/05/joe-rogan-apologises-for-using-n-word-and-racist-planet-of-the-apes-story",
-        "timestamp": 1644074588,
-        "sentiment": -2,
-        "published": "February 5, 2022 3:23 PM"
     },
     {
         "title": "Waffle House shooter found guilty on 4 counts of murder",
@@ -277,15 +313,6 @@
         "timestamp": 1644048226,
         "sentiment": -2,
         "published": "February 5, 2022 8:03 AM"
-    },
-    {
-        "title": "Some people in a cheering crowd called for her to be raped. Many were women",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html",
-        "timestamp": 1644064092,
-        "sentiment": -3,
-        "published": "February 5, 2022 12:28 PM"
     },
     {
         "title": "Lawsuit filed against convoy organizers, seeking damages on behalf of downtown Ottawa residents",
