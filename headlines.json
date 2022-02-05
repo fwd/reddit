@@ -1,11 +1,20 @@
 [
     {
+        "title": "‘President Trump is wrong’: Pence defends certification of Biden victory",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-trump-biden-victory-b2008113.html",
+        "timestamp": 1644019990,
+        "sentiment": 3,
+        "published": "February 5, 2022 12:13 AM"
+    },
+    {
         "title": "Lawsuit filed against convoy organizers, seeking damages on behalf of downtown Ottawa residents",
         "domain": "ctvnews.ca",
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/politics/lawsuit-filed-against-convoy-organizers-seeking-damages-on-behalf-of-downtown-ottawa-residents-1.5768731",
         "timestamp": 1644020234,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 5, 2022 12:17 AM"
     },
     {
@@ -14,8 +23,17 @@
         "category": "worldnews",
         "link": "https://www.science.org/content/article/insect-ranchers-pour-5-million-world-s-first-large-scale-genetic-breeding-facility",
         "timestamp": 1644021497,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 5, 2022 12:38 AM"
+    },
+    {
+        "title": "Waffle House shooter found guilty on 4 counts of murder",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/shootings-tennessee-nashville-james-shaw-jr-travis-reinking-e431e11a2bd977f21f5a82b9c551045e",
+        "timestamp": 1644022450,
+        "sentiment": -3,
+        "published": "February 5, 2022 12:54 AM"
     },
     {
         "title": "Jan. 6 defendant asks to subpoena Trump as trial witness | TheHill",
@@ -23,7 +41,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/592945-jan-6-defendant-asks-to-subpoena-trump-as-trial-witness",
         "timestamp": 1644025570,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "February 5, 2022 1:46 AM"
     },
     {
@@ -32,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
         "timestamp": 1644027754,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 5, 2022 2:22 AM"
     },
     {
@@ -50,7 +68,7 @@
         "category": "news",
         "link": "https://www.thestar.com/news/canada/2022/02/04/gofundme-closes-freedom-convoy-fundraiser-after-reports-from-police.html",
         "timestamp": 1644032113,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 5, 2022 3:35 AM"
     },
     {
@@ -59,7 +77,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 5, 2022 3:38 AM"
     },
     {
@@ -68,7 +86,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
         "timestamp": 1644033379,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 5, 2022 3:56 AM"
     },
     {
@@ -86,7 +104,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
         "timestamp": 1644036775,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 5, 2022 4:52 AM"
     },
     {
@@ -95,17 +113,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
         "timestamp": 1644037680,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "February 5, 2022 5:08 AM"
     },
     {
-        "title": "Waffle House shooter found guilty on 4 counts of murder",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/shootings-tennessee-nashville-james-shaw-jr-travis-reinking-e431e11a2bd977f21f5a82b9c551045e",
-        "timestamp": 1644022450,
-        "sentiment": -5,
-        "published": "February 5, 2022 12:54 AM"
+        "title": "Incident involving a Dutch reporter in the middle of a live broadcast who was dragged away by Chinese security officials was an isolated event, says IOC",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/lifestyle/sports/dutch-reporter-on-air-incident-was-isolated-case-says-ioc-2022-02-05/",
+        "timestamp": 1644046613,
+        "sentiment": 0,
+        "published": "February 5, 2022 7:36 AM"
     },
     {
         "title": "Billion-year-old mysterious black diamond \"The Enigma\" goes up for auction",
