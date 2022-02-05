@@ -1,20 +1,11 @@
 [
     {
-        "title": "GoFundMe scuttles campaign for trucker convoy, stops release of $10-million in donations",
-        "domain": "theglobeandmail.com",
-        "category": "worldnews",
-        "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
-        "timestamp": 1644027754,
-        "sentiment": -2,
-        "published": "February 5, 2022 2:22 AM"
-    },
-    {
         "title": "‘All Of Us Are Dead’ Hits #1 On Netflix In Milestone For Korean Series",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/02/all-of-us-are-dead-no-1-on-netflix-viewership-milestone-korean-drama-1234926926/",
         "timestamp": 1644029032,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 5, 2022 2:43 AM"
     },
     {
@@ -23,17 +14,8 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/3-arrested-following-violent-outbreak-at-neo-nazi-rally-in-orlando",
         "timestamp": 1644032327,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 3:38 AM"
-    },
-    {
-        "title": "Vets call for end to use of flat-faced dogs on greeting cards. Concerns frequent images of ‘cute’ breeds such as pugs maintains their popularity despite animal cruelty warnings",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
-        "timestamp": 1644033379,
-        "sentiment": -2,
-        "published": "February 5, 2022 3:56 AM"
     },
     {
         "title": "Minneapolis mayor suspends no-knock warrants after police killing of Black man",
@@ -41,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/minneapolis-police-releases-video-swat-team-shooting-dead-armed-black-man-2022-02-04/",
         "timestamp": 1644036775,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 4:52 AM"
     },
     {
@@ -50,7 +32,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-rnc-censure-vote-shows-frigging-crazy-gop-become-2022-2",
         "timestamp": 1644037680,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 5:08 AM"
     },
     {
@@ -72,15 +54,6 @@
         "published": "February 5, 2022 10:19 AM"
     },
     {
-        "title": "Police have photo of Boris Johnson with beer at lockdown party, say reports.",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/politics/2022/feb/04/police-have-photo-of-boris-johnson-with-beer-at-lockdown-party-say-reports",
-        "timestamp": 1644059077,
-        "sentiment": -2,
-        "published": "February 5, 2022 11:04 AM"
-    },
-    {
         "title": "Mayor denies Dutch city will dismantle bridge for Bezos' yacht",
         "domain": "cbsnews.com",
         "category": "worldnews",
@@ -95,7 +68,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/all-in/watch/raskin-pence-should-tell-the-full-truth-and-join-the-party-of-democracy-132490821636",
         "timestamp": 1644062072,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 11:54 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/02/05/1078416631/saying-hes-an-insurrectionist-challengers-aim-to-keep-rep-cawthorn-off-the-ballo",
         "timestamp": 1644062826,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 12:07 PM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/02/05/trump-midterms-republicans-salt-lake-00005867",
         "timestamp": 1644063660,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 12:21 PM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "politics",
         "link": "https://truthout.org/articles/democrats-are-so-fed-up-with-kyrsten-sinema-they-are-funding-a-primary-challenge/",
         "timestamp": 1644068668,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 1:44 PM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/04/chip-shortage-forces-ford-to-cut-production-of-f-150-bronco-suv.html",
         "timestamp": 1644070468,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 2:14 PM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/04/us/home-depot-counterfeit-arrest/index.html",
         "timestamp": 1644070750,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 2:19 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://www.theledger.com/story/news/education/2022/01/26/county-citizens-defending-freedom-complained-polk-schools-superintendent-frederick-heid-novels-graph/9224745002/",
         "timestamp": 1644072185,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 2:43 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/592967-opponents-seek-to-block-cawthorn-from-ballot-for-his-actions-on-jan-6",
         "timestamp": 1644072485,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 2:48 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/02/04/liz-cheney-republicans-censure-orwellian/",
         "timestamp": 1644073945,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 3:12 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/tvs-top-5-inside-mayim-bialiks-jeopardy-journey-jason-katims-as-we-see-it-1235087050/",
         "timestamp": 1644074357,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 5, 2022 3:19 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/culture/2022/feb/05/joe-rogan-apologises-for-using-n-word-and-racist-planet-of-the-apes-story",
         "timestamp": 1644074588,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 3:23 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.oklahoman.com/story/news/2022/02/05/oklahoma-national-guard-members-cant-challenge-covid-vaccine-mandates-anonymously/6663067001/",
         "timestamp": 1644076154,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 3:49 PM"
     },
     {
@@ -230,17 +203,8 @@
         "category": "television",
         "link": "https://www.outkick.com/olympics-ratings-plummet-to-all-time-low-on-opening-night/",
         "timestamp": 1644077635,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 5, 2022 4:13 PM"
-    },
-    {
-        "title": "The Emerging Plot to Defend Trump’s Next Coup - The former president is acting more brazen than ever, and he’s adding reinforcements to his corrupt cause.",
-        "domain": "newrepublic.com",
-        "category": "politics",
-        "link": "https://newrepublic.com/article/165284/trump-next-coup-emerging-plot",
-        "timestamp": 1644078691,
-        "sentiment": -3,
-        "published": "February 5, 2022 4:31 PM"
     },
     {
         "title": "Florida governor to investigate GoFundMe over Canada trucker donations",
@@ -248,7 +212,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/florida-governor-investigate-gofundme-over-canada-trucker-donations-2022-02-05/",
         "timestamp": 1644080429,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 5:00 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "television",
         "link": "https://www.businessinsider.com/top-streaming-tv-shows-of-month-cobra-kai-boba-fett-2022-2",
         "timestamp": 1644086133,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 5, 2022 6:35 PM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com.au/north-carolina-supreme-court-rejects-republican-redistricting-maps-congress-legislature-2022-2",
         "timestamp": 1644087349,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 6:55 PM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/jim-jordan-trying-hide-something-1-6-trump-call-suggests-mcgovern-1676551",
         "timestamp": 1644088254,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 5, 2022 7:10 PM"
     },
     {
@@ -297,13 +261,85 @@
         "published": "February 5, 2022 7:16 PM"
     },
     {
+        "title": "Ukraine crisis: first US troops land in Poland as Xi backs Putin",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/02/05/ukraine-crisis-xi-backs-putin-as-von-der-leyen-pledges-robust-sanctions",
+        "timestamp": 1644092016,
+        "sentiment": -2,
+        "published": "February 5, 2022 8:13 PM"
+    },
+    {
         "title": "Delta CEO repeats call for a 'no-fly' list for unruly passengers in letter to US attorney general",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/travel/article/delta-ceo-unruly-passenger-no-fly-list/index.html",
         "timestamp": 1644093338,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 5, 2022 8:35 PM"
+    },
+    {
+        "title": "Moroccan rescuers succeed in extracting five-year-old boy stuck in well for five days",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/north-africa/2022/02/05/Rescuers-enter-tunnel-to-extract-Moroccan-boy-stuck-in-well-Reports",
+        "timestamp": 1644093706,
+        "sentiment": -2,
+        "published": "February 5, 2022 8:41 PM"
+    },
+    {
+        "title": "Waffle House shooter who killed four people sentenced to life in prison without parole",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/05/us/waffle-house-shooter-travis-reinking-sentence/index.html",
+        "timestamp": 1644094276,
+        "sentiment": -3,
+        "published": "February 5, 2022 8:51 PM"
+    },
+    {
+        "title": "Sen. Schumer plans to pass legislation that decriminalizes marijuana on a federal level",
+        "domain": "nydailynews.com",
+        "category": "politics",
+        "link": "https://www.nydailynews.com/news/politics/us-elections-government/ny-sen-schumer-plans-to-decriminalize-marijuana-on-a-federal-level-20220204-r4xlnnndlfhtdcd64257gjxita-story.html",
+        "timestamp": 1644095540,
+        "sentiment": 1,
+        "published": "February 5, 2022 9:12 PM"
+    },
+    {
+        "title": "GoFundMe scuttles campaign for trucker convoy, stops release of $10-million in donations",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/canada/article-gofundme-scuttles-campaign-for-trucker-convoy-stops-release-of-10/",
+        "timestamp": 1644027754,
+        "sentiment": -2,
+        "published": "February 5, 2022 2:22 AM"
+    },
+    {
+        "title": "Vets call for end to use of flat-faced dogs on greeting cards. Concerns frequent images of ‘cute’ breeds such as pugs maintains their popularity despite animal cruelty warnings",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2022/feb/04/vets-call-for-end-to-use-of-flat-faced-dogs-on-greeting-cards",
+        "timestamp": 1644033379,
+        "sentiment": -2,
+        "published": "February 5, 2022 3:56 AM"
+    },
+    {
+        "title": "Police have photo of Boris Johnson with beer at lockdown party, say reports.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/politics/2022/feb/04/police-have-photo-of-boris-johnson-with-beer-at-lockdown-party-say-reports",
+        "timestamp": 1644059077,
+        "sentiment": -2,
+        "published": "February 5, 2022 11:04 AM"
+    },
+    {
+        "title": "The Emerging Plot to Defend Trump’s Next Coup - The former president is acting more brazen than ever, and he’s adding reinforcements to his corrupt cause.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165284/trump-next-coup-emerging-plot",
+        "timestamp": 1644078691,
+        "sentiment": -3,
+        "published": "February 5, 2022 4:31 PM"
     },
     {
         "title": "Why does Sen. Ron Johnson traffic in misinformation?",
