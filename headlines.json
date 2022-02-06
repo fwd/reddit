@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://denver.cbslocal.com/2022/02/05/denver-human-services-food-stamps-ebt/",
         "timestamp": 1644112603,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 1:56 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/exiled-russian-oligarch-mikhail-khodorkovsky-claims-vladimir-putin-is-putting-illegal-pressure-on-britains-political-system-12532783",
         "timestamp": 1644128217,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 6:16 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.in/tech/news/more-than-1000-dutch-residents-plan-to-throw-rotten-eggs-at-jeff-bezos-superyacht-if-it-ends-up-forcing-a-historic-bridge-be-dismantled-for-it-to-pass-through/articleshow/89356031.cms",
         "timestamp": 1644128775,
-        "sentiment": -2,
+        "sentiment": -8,
         "published": "February 6, 2022 6:26 AM"
     },
     {
@@ -50,8 +50,17 @@
         "category": "worldnews",
         "link": "https://www.express.co.uk/news/science/1561042/egypt-archarology-news-time-capsule-athribis-notes-from-past-ostrica",
         "timestamp": 1644129939,
-        "sentiment": -2,
+        "sentiment": -8,
         "published": "February 6, 2022 6:45 AM"
+    },
+    {
+        "title": "Russia will be able to overrun Ukraine in two days and an invasion would kill 50,000 civilians, warns US intelligence - and Putin is planning a nuclear exercise to warn off the West",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10481291/Russia-able-overrun-Ukraine-two-days-warns-intelligence.html",
+        "timestamp": 1644131239,
+        "sentiment": -8,
+        "published": "February 6, 2022 7:07 AM"
     },
     {
         "title": "Israel's Mossad suspected of high level Iranian penetration",
