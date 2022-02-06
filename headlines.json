@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://tulsaworld.com/entertainment/television/actors-take-advantage-of-resident-aliens-improv-policy/article_4a3c60f2-747a-5748-bc76-793ad66671ef.html",
         "timestamp": 1644109295,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 6, 2022 1:01 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/exiled-russian-oligarch-mikhail-khodorkovsky-claims-vladimir-putin-is-putting-illegal-pressure-on-britains-political-system-12532783",
         "timestamp": 1644128217,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 6, 2022 6:16 AM"
     },
     {
@@ -23,8 +23,314 @@
         "category": "worldnews",
         "link": "https://www.express.co.uk/news/science/1561042/egypt-archarology-news-time-capsule-athribis-notes-from-past-ostrica",
         "timestamp": 1644129939,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 6:45 AM"
+    },
+    {
+        "title": "Neighbours under threat after Channel 5 drops show",
+        "domain": "bbc.co.uk",
+        "category": "television",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-60277939",
+        "timestamp": 1644145874,
+        "sentiment": 0,
+        "published": "February 6, 2022 11:11 AM"
+    },
+    {
+        "title": "Florida Gov. Ron DeSantis threatened to investigate GoFundMe after they said they'd work with Canadian trucker vaccine protest fundraiser organizers to redistribute funds",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/desantis-says-gofundme-handling-of-canada-protest-campaign-is-fraud-2022-2",
+        "timestamp": 1644147430,
+        "sentiment": 0,
+        "published": "February 6, 2022 11:37 AM"
+    },
+    {
+        "title": "“Star Wars: Andor” To Get A Second Season",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/star-wars-andor-to-get-a-second-season/",
+        "timestamp": 1644148070,
+        "sentiment": 0,
+        "published": "February 6, 2022 11:47 AM"
+    },
+    {
+        "title": "Trucker convoy: Ottawa ‘under siege’ amid ‘nation-wide insurrection,’ officials say",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8597478/ottawa-trucker-convoy-risk-of-violence/",
+        "timestamp": 1644149482,
+        "sentiment": 1,
+        "published": "February 6, 2022 12:11 PM"
+    },
+    {
+        "title": "Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans' data on US servers",
+        "domain": "cityam.com",
+        "category": "worldnews",
+        "link": "https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/",
+        "timestamp": 1644149681,
+        "sentiment": 0,
+        "published": "February 6, 2022 12:14 PM"
+    },
+    {
+        "title": "Steve Bannon Ominously Warns Mike Pence He'll Take Refusal To Toss 2020 Vote 'To Your Grave'",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/steve-bannon-pence-trump-to-your-grave-vote_n_61ff216fe4b0f8a1b8454c08",
+        "timestamp": 1644150558,
+        "sentiment": 0,
+        "published": "February 6, 2022 12:29 PM"
+    },
+    {
+        "title": "'Tsunami' of woes: U.S. school shootings spike amid pandemic stress",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/tsunami-woes-us-school-shootings-spike-amid-pandemic-stress-2022-02-06/",
+        "timestamp": 1644151196,
+        "sentiment": 1,
+        "published": "February 6, 2022 12:39 PM"
+    },
+    {
+        "title": "New satellite images show advanced Russian military deployments in Belarus",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/06/europe/russia-military-images-intl/index.html",
+        "timestamp": 1644153194,
+        "sentiment": 0,
+        "published": "February 6, 2022 1:13 PM"
+    },
+    {
+        "title": "She was told she could vote again after felony convictions. Now she’s in prison for trying.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/02/04/tennessee-pamela-moses-voting-fraud-prison/",
+        "timestamp": 1644154767,
+        "sentiment": 0,
+        "published": "February 6, 2022 1:39 PM"
+    },
+    {
+        "title": "Sources: Judge Peter Cahill Signed ‘No-Knock’ Warrant That Ended In Police Shooting Of Amir Locke",
+        "domain": "valleynewslive.com",
+        "category": "news",
+        "link": "https://www.valleynewslive.com/2022/02/06/sources-judge-peter-cahill-signed-no-knock-warrant-that-ended-police-shooting-amir-locke/",
+        "timestamp": 1644155689,
+        "sentiment": 1,
+        "published": "February 6, 2022 1:54 PM"
+    },
+    {
+        "title": "13 states have backed the Mexican government's lawsuit against a group of US gun manufacturers",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/06/us/mexico-lawsuit-us-gun-manufacturers/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2022-02-06T13%3A45%3A08",
+        "timestamp": 1644156021,
+        "sentiment": 1,
+        "published": "February 6, 2022 2:00 PM"
+    },
+    {
+        "title": "Opinion: The IRS should not make you scan your face to see your tax returns",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/02/06/irs-selfie-tax-return/",
+        "timestamp": 1644156749,
+        "sentiment": 0,
+        "published": "February 6, 2022 2:12 PM"
+    },
+    {
+        "title": "Macron vows ‘de-escalation,’ but hints at concessions to Putin",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/emmanuel-macron-vows-for-de-escalation-and-dialogue-ahead-of-russian-trip-putin-ukraine/",
+        "timestamp": 1644156928,
+        "sentiment": 0,
+        "published": "February 6, 2022 2:15 PM"
+    },
+    {
+        "title": "Trump White House staffers frequently put important documents into 'burn bags' and sent them to the Pentagon for incineration, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-aides-put-documents-burn-bags-to-be-destroyed-wapo-2022-2",
+        "timestamp": 1644157044,
+        "sentiment": 0,
+        "published": "February 6, 2022 2:17 PM"
+    },
+    {
+        "title": "Wisconsin Is Ground Zero for the MAGA Effort to Steal the Next Election",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-features/trump-wisconsin-eastman-election-decertification-1295191/",
+        "timestamp": 1644158483,
+        "sentiment": 0,
+        "published": "February 6, 2022 2:41 PM"
+    },
+    {
+        "title": "US-born figure skater Zhu Yi under attack after fall on Olympic debut for China",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/06/sport/us-born-figure-skater-beverly-zhu-yi-china-olympic-intl-hnk/index.html",
+        "timestamp": 1644158670,
+        "sentiment": 1,
+        "published": "February 6, 2022 2:44 PM"
+    },
+    {
+        "title": "‘Fake Accounts’ Series Adaptation In The Works From Ben Sinclair, Jen Silverman, Julia Garner & AC Studios",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/fake-accounts-series-adaptation-ben-sinclair-jen-silverman-julia-garner-1234925638/",
+        "timestamp": 1644160415,
+        "sentiment": 0,
+        "published": "February 6, 2022 3:13 PM"
+    },
+    {
+        "title": "‘There’s not much hope’: Mediterranean corals collapse under relentless heat",
+        "domain": "news.mongabay.com",
+        "category": "worldnews",
+        "link": "https://news.mongabay.com/2022/02/theres-not-much-hope-mediterranean-corals-collapse-under-relentless-heat/",
+        "timestamp": 1644160547,
+        "sentiment": 0,
+        "published": "February 6, 2022 3:15 PM"
+    },
+    {
+        "title": "Conservative National Review Calls GOP 'Morally Repellent' For Latest Jan. 6 Response",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/national-review-jan-6-political-discourse-capitol-riot_n_61ff2c3de4b06abdc4312393",
+        "timestamp": 1644162114,
+        "sentiment": 0,
+        "published": "February 6, 2022 3:41 PM"
+    },
+    {
+        "title": "US states have introduced 137 bills limiting what schools can teach on race, history, sexual orientation, and gender",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/schools-teach-race-history-gender-b2008438.html",
+        "timestamp": 1644163260,
+        "sentiment": 0,
+        "published": "February 6, 2022 4:01 PM"
+    },
+    {
+        "title": "Reacher review: Binge-worthy take on your favorite airport novel hero",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/reacher-review-prime-video-alan-ritchson-1848427282",
+        "timestamp": 1644166002,
+        "sentiment": 0,
+        "published": "February 6, 2022 4:46 PM"
+    },
+    {
+        "title": "North Korea: Missile programme funded through stolen crypto, UN report says",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-asia-60281129",
+        "timestamp": 1644166649,
+        "sentiment": 1,
+        "published": "February 6, 2022 4:57 PM"
+    },
+    {
+        "title": "Trump Reportedly 'Never Stopped Ripping' Up White House Documents And Breaking The Law",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-national-archives-ripped-up-white-house-documents_n_61ff4de4e4b09170e9d1d18b",
+        "timestamp": 1644167593,
+        "sentiment": 0,
+        "published": "February 6, 2022 5:13 PM"
+    },
+    {
+        "title": "Pence Aide: ‘I Did Not See’ Much ‘Legitimate Political Discourse’ on Jan. 6",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/pence-aide-marc-shorts-says-i-did-not-see-much-legitimate-political-discourse-on-jan-6?source=articles&via=rss",
+        "timestamp": 1644167850,
+        "sentiment": 0,
+        "published": "February 6, 2022 5:17 PM"
+    },
+    {
+        "title": "Amir Locke shooting: hundreds protest in Minneapolis after police killing of Black man",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/06/amir-locke-police-shooting-hundreds-protest-minneapolis",
+        "timestamp": 1644168234,
+        "sentiment": 1,
+        "published": "February 6, 2022 5:23 PM"
+    },
+    {
+        "title": "Truck convoy: Protest supporters move quickly to new fundraising website",
+        "domain": "ottawacitizen.com",
+        "category": "worldnews",
+        "link": "https://ottawacitizen.com/news/local-news/truck-convoy-protest-supporters-move-quickly-to-new-fundraising-website",
+        "timestamp": 1644170809,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:06 PM"
+    },
+    {
+        "title": "At least 28 assisted deaths in first three months of new law in New Zealand.",
+        "domain": "stuff.co.nz",
+        "category": "worldnews",
+        "link": "https://www.stuff.co.nz/national/health/300511045/at-least-28-assisted-deaths-in-first-three-months-of-new-law",
+        "timestamp": 1644171388,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:16 PM"
+    },
+    {
+        "title": "Argument leads to fatal shooting in checkout line of grocery",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/argument-leads-fatal-shooting-checkout-line-grocery-82708061",
+        "timestamp": 1644172947,
+        "sentiment": 1,
+        "published": "February 6, 2022 6:42 PM"
+    },
+    {
+        "title": "Israel to use anti-boycott law against Ben & Jerry's",
+        "domain": "i24news.tv",
+        "category": "worldnews",
+        "link": "https://www.i24news.tv/en/news/israel/politics/1644094144-israel-to-use-anti-boycott-law-against-ben-jerry-s",
+        "timestamp": 1644173522,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:52 PM"
+    },
+    {
+        "title": "Ukraine crisis: Macron says a deal to avoid war is within reach",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-60281863",
+        "timestamp": 1644178283,
+        "sentiment": 0,
+        "published": "February 6, 2022 8:11 PM"
+    },
+    {
+        "title": "Woman takes legal action after Met officer who called her ‘hot’ keeps job",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2022/feb/06/woman-takes-legal-action-after-met-officer-who-called-her-hot-keeps-job",
+        "timestamp": 1644178960,
+        "sentiment": 1,
+        "published": "February 6, 2022 8:22 PM"
+    },
+    {
+        "title": "Unscripted Disney+ Is A Mess",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/disney-unscripted-content-considered-a-mess/",
+        "timestamp": 1644179694,
+        "sentiment": 0,
+        "published": "February 6, 2022 8:34 PM"
+    },
+    {
+        "title": "Ottawa police begin increased enforcement, choking off protesters' fuel supplies, issuing tickets",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/convoy-protest-ottawa-sunday-impasse-1.6341548",
+        "timestamp": 1644179997,
+        "sentiment": 0,
+        "published": "February 6, 2022 8:39 PM"
+    },
+    {
+        "title": "We Need to Give 'Ozark' the Recognition It Deserves",
+        "domain": "esquire.com",
+        "category": "television",
+        "link": "https://www.esquire.com/entertainment/tv/a38760612/ozark-tribute-retrospective-essay/",
+        "timestamp": 1644182418,
+        "sentiment": 0,
+        "published": "February 6, 2022 9:20 PM"
     },
     {
         "title": "Olympic chiefs say Putin walking around opening ceremony without a mask 'isn't their responsibility'",
@@ -36,15 +342,6 @@
         "published": "February 6, 2022 10:23 AM"
     },
     {
-        "title": "Neighbours under threat after Channel 5 drops show",
-        "domain": "bbc.co.uk",
-        "category": "television",
-        "link": "https://www.bbc.co.uk/news/entertainment-arts-60277939",
-        "timestamp": 1644145874,
-        "sentiment": -1,
-        "published": "February 6, 2022 11:11 AM"
-    },
-    {
         "title": "Indicted Attorney General Ken Paxton Epitomizes Texas’ Exceptionalism On Corruption",
         "domain": "texasobserver.org",
         "category": "politics",
@@ -54,240 +351,6 @@
         "published": "February 6, 2022 11:25 AM"
     },
     {
-        "title": "Florida Gov. Ron DeSantis threatened to investigate GoFundMe after they said they'd work with Canadian trucker vaccine protest fundraiser organizers to redistribute funds",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/desantis-says-gofundme-handling-of-canada-protest-campaign-is-fraud-2022-2",
-        "timestamp": 1644147430,
-        "sentiment": -1,
-        "published": "February 6, 2022 11:37 AM"
-    },
-    {
-        "title": "“Star Wars: Andor” To Get A Second Season",
-        "domain": "whatsondisneyplus.com",
-        "category": "television",
-        "link": "https://whatsondisneyplus.com/star-wars-andor-to-get-a-second-season/",
-        "timestamp": 1644148070,
-        "sentiment": -1,
-        "published": "February 6, 2022 11:47 AM"
-    },
-    {
-        "title": "Trucker convoy: Ottawa ‘under siege’ amid ‘nation-wide insurrection,’ officials say",
-        "domain": "globalnews.ca",
-        "category": "news",
-        "link": "https://globalnews.ca/news/8597478/ottawa-trucker-convoy-risk-of-violence/",
-        "timestamp": 1644149482,
-        "sentiment": -2,
-        "published": "February 6, 2022 12:11 PM"
-    },
-    {
-        "title": "Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans' data on US servers",
-        "domain": "cityam.com",
-        "category": "worldnews",
-        "link": "https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/",
-        "timestamp": 1644149681,
-        "sentiment": -2,
-        "published": "February 6, 2022 12:14 PM"
-    },
-    {
-        "title": "Steve Bannon Ominously Warns Mike Pence He'll Take Refusal To Toss 2020 Vote 'To Your Grave'",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/steve-bannon-pence-trump-to-your-grave-vote_n_61ff216fe4b0f8a1b8454c08",
-        "timestamp": 1644150558,
-        "sentiment": -1,
-        "published": "February 6, 2022 12:29 PM"
-    },
-    {
-        "title": "'Tsunami' of woes: U.S. school shootings spike amid pandemic stress",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/tsunami-woes-us-school-shootings-spike-amid-pandemic-stress-2022-02-06/",
-        "timestamp": 1644151196,
-        "sentiment": -2,
-        "published": "February 6, 2022 12:39 PM"
-    },
-    {
-        "title": "New satellite images show advanced Russian military deployments in Belarus",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/06/europe/russia-military-images-intl/index.html",
-        "timestamp": 1644153194,
-        "sentiment": -2,
-        "published": "February 6, 2022 1:13 PM"
-    },
-    {
-        "title": "She was told she could vote again after felony convictions. Now she’s in prison for trying.",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/nation/2022/02/04/tennessee-pamela-moses-voting-fraud-prison/",
-        "timestamp": 1644154767,
-        "sentiment": -1,
-        "published": "February 6, 2022 1:39 PM"
-    },
-    {
-        "title": "Sources: Judge Peter Cahill Signed ‘No-Knock’ Warrant That Ended In Police Shooting Of Amir Locke",
-        "domain": "valleynewslive.com",
-        "category": "news",
-        "link": "https://www.valleynewslive.com/2022/02/06/sources-judge-peter-cahill-signed-no-knock-warrant-that-ended-police-shooting-amir-locke/",
-        "timestamp": 1644155689,
-        "sentiment": -2,
-        "published": "February 6, 2022 1:54 PM"
-    },
-    {
-        "title": "13 states have backed the Mexican government's lawsuit against a group of US gun manufacturers",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/06/us/mexico-lawsuit-us-gun-manufacturers/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2022-02-06T13%3A45%3A08",
-        "timestamp": 1644156021,
-        "sentiment": -2,
-        "published": "February 6, 2022 2:00 PM"
-    },
-    {
-        "title": "Opinion: The IRS should not make you scan your face to see your tax returns",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/opinions/2022/02/06/irs-selfie-tax-return/",
-        "timestamp": 1644156749,
-        "sentiment": -1,
-        "published": "February 6, 2022 2:12 PM"
-    },
-    {
-        "title": "Macron vows ‘de-escalation,’ but hints at concessions to Putin",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/emmanuel-macron-vows-for-de-escalation-and-dialogue-ahead-of-russian-trip-putin-ukraine/",
-        "timestamp": 1644156928,
-        "sentiment": -2,
-        "published": "February 6, 2022 2:15 PM"
-    },
-    {
-        "title": "Trump White House staffers frequently put important documents into 'burn bags' and sent them to the Pentagon for incineration, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-aides-put-documents-burn-bags-to-be-destroyed-wapo-2022-2",
-        "timestamp": 1644157044,
-        "sentiment": -1,
-        "published": "February 6, 2022 2:17 PM"
-    },
-    {
-        "title": "Wisconsin Is Ground Zero for the MAGA Effort to Steal the Next Election",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-features/trump-wisconsin-eastman-election-decertification-1295191/",
-        "timestamp": 1644158483,
-        "sentiment": -1,
-        "published": "February 6, 2022 2:41 PM"
-    },
-    {
-        "title": "US-born figure skater Zhu Yi under attack after fall on Olympic debut for China",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/06/sport/us-born-figure-skater-beverly-zhu-yi-china-olympic-intl-hnk/index.html",
-        "timestamp": 1644158670,
-        "sentiment": -2,
-        "published": "February 6, 2022 2:44 PM"
-    },
-    {
-        "title": "‘Fake Accounts’ Series Adaptation In The Works From Ben Sinclair, Jen Silverman, Julia Garner & AC Studios",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/fake-accounts-series-adaptation-ben-sinclair-jen-silverman-julia-garner-1234925638/",
-        "timestamp": 1644160415,
-        "sentiment": -1,
-        "published": "February 6, 2022 3:13 PM"
-    },
-    {
-        "title": "‘There’s not much hope’: Mediterranean corals collapse under relentless heat",
-        "domain": "news.mongabay.com",
-        "category": "worldnews",
-        "link": "https://news.mongabay.com/2022/02/theres-not-much-hope-mediterranean-corals-collapse-under-relentless-heat/",
-        "timestamp": 1644160547,
-        "sentiment": -2,
-        "published": "February 6, 2022 3:15 PM"
-    },
-    {
-        "title": "Conservative National Review Calls GOP 'Morally Repellent' For Latest Jan. 6 Response",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/national-review-jan-6-political-discourse-capitol-riot_n_61ff2c3de4b06abdc4312393",
-        "timestamp": 1644162114,
-        "sentiment": -1,
-        "published": "February 6, 2022 3:41 PM"
-    },
-    {
-        "title": "Reacher review: Binge-worthy take on your favorite airport novel hero",
-        "domain": "avclub.com",
-        "category": "television",
-        "link": "https://www.avclub.com/reacher-review-prime-video-alan-ritchson-1848427282",
-        "timestamp": 1644166002,
-        "sentiment": -1,
-        "published": "February 6, 2022 4:46 PM"
-    },
-    {
-        "title": "North Korea: Missile programme funded through stolen crypto, UN report says",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-asia-60281129",
-        "timestamp": 1644166649,
-        "sentiment": -2,
-        "published": "February 6, 2022 4:57 PM"
-    },
-    {
-        "title": "Trump Reportedly 'Never Stopped Ripping' Up White House Documents And Breaking The Law",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-national-archives-ripped-up-white-house-documents_n_61ff4de4e4b09170e9d1d18b",
-        "timestamp": 1644167593,
-        "sentiment": -1,
-        "published": "February 6, 2022 5:13 PM"
-    },
-    {
-        "title": "Pence Aide: ‘I Did Not See’ Much ‘Legitimate Political Discourse’ on Jan. 6",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/pence-aide-marc-shorts-says-i-did-not-see-much-legitimate-political-discourse-on-jan-6?source=articles&via=rss",
-        "timestamp": 1644167850,
-        "sentiment": -1,
-        "published": "February 6, 2022 5:17 PM"
-    },
-    {
-        "title": "Amir Locke shooting: hundreds protest in Minneapolis after police killing of Black man",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/feb/06/amir-locke-police-shooting-hundreds-protest-minneapolis",
-        "timestamp": 1644168234,
-        "sentiment": -2,
-        "published": "February 6, 2022 5:23 PM"
-    },
-    {
-        "title": "Truck convoy: Protest supporters move quickly to new fundraising website",
-        "domain": "ottawacitizen.com",
-        "category": "worldnews",
-        "link": "https://ottawacitizen.com/news/local-news/truck-convoy-protest-supporters-move-quickly-to-new-fundraising-website",
-        "timestamp": 1644170809,
-        "sentiment": -2,
-        "published": "February 6, 2022 6:06 PM"
-    },
-    {
-        "title": "At least 28 assisted deaths in first three months of new law in New Zealand.",
-        "domain": "stuff.co.nz",
-        "category": "worldnews",
-        "link": "https://www.stuff.co.nz/national/health/300511045/at-least-28-assisted-deaths-in-first-three-months-of-new-law",
-        "timestamp": 1644171388,
-        "sentiment": -2,
-        "published": "February 6, 2022 6:16 PM"
-    },
-    {
-        "title": "Argument leads to fatal shooting in checkout line of grocery",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/argument-leads-fatal-shooting-checkout-line-grocery-82708061",
-        "timestamp": 1644172947,
-        "sentiment": -2,
-        "published": "February 6, 2022 6:42 PM"
-    },
-    {
         "title": "Philadelphia toddler shot in dispute between tow-truck drivers",
         "domain": "nbcnews.com",
         "category": "news",
@@ -295,33 +358,6 @@
         "timestamp": 1644174302,
         "sentiment": -2,
         "published": "February 6, 2022 7:05 PM"
-    },
-    {
-        "title": "Ukraine crisis: Macron says a deal to avoid war is within reach",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-60281863",
-        "timestamp": 1644178283,
-        "sentiment": -2,
-        "published": "February 6, 2022 8:11 PM"
-    },
-    {
-        "title": "Unscripted Disney+ Is A Mess",
-        "domain": "whatsondisneyplus.com",
-        "category": "television",
-        "link": "https://whatsondisneyplus.com/disney-unscripted-content-considered-a-mess/",
-        "timestamp": 1644179694,
-        "sentiment": -1,
-        "published": "February 6, 2022 8:34 PM"
-    },
-    {
-        "title": "Ottawa police begin increased enforcement, choking off protesters' fuel supplies, issuing tickets",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/politics/convoy-protest-ottawa-sunday-impasse-1.6341548",
-        "timestamp": 1644179997,
-        "sentiment": -2,
-        "published": "February 6, 2022 8:39 PM"
     },
     {
         "title": "French and Chinese oil giants launch mega project in Uganda: Critics have warned of the damage to biodiversity and local rights, as well as the global climate.",
@@ -340,15 +376,6 @@
         "timestamp": 1644162949,
         "sentiment": 0,
         "published": "February 6, 2022 3:55 PM"
-    },
-    {
-        "title": "US states have introduced 137 bills limiting what schools can teach on race, history, sexual orientation, and gender",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/schools-teach-race-history-gender-b2008438.html",
-        "timestamp": 1644163260,
-        "sentiment": 0,
-        "published": "February 6, 2022 4:01 PM"
     },
     {
         "title": "US parent wanted Michelle Obama biography out of schools calling it 'leftist indoctrination'",
