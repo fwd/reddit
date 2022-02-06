@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://tulsaworld.com/entertainment/television/actors-take-advantage-of-resident-aliens-improv-policy/article_4a3c60f2-747a-5748-bc76-793ad66671ef.html",
         "timestamp": 1644109295,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 1:01 AM"
     },
     {
@@ -25,6 +25,15 @@
         "timestamp": 1644112603,
         "sentiment": -3,
         "published": "February 6, 2022 1:56 AM"
+    },
+    {
+        "title": "Vancouver health authorities warn staff to shelter and hide medical credentials during anti-vaxx convoy",
+        "domain": "bc.ctvnews.ca",
+        "category": "news",
+        "link": "https://bc.ctvnews.ca/vancouver-health-authorities-warn-staff-to-shelter-and-hide-medical-credentials-during-anti-vaxx-convoy-1.5769041",
+        "timestamp": 1644113329,
+        "sentiment": -3,
+        "published": "February 6, 2022 2:08 AM"
     },
     {
         "title": "Exiled Russian oligarch Mikhail Khodorkovsky claims Vladimir Putin is putting illegal pressure on Britain's political system",
@@ -41,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.in/tech/news/more-than-1000-dutch-residents-plan-to-throw-rotten-eggs-at-jeff-bezos-superyacht-if-it-ends-up-forcing-a-historic-bridge-be-dismantled-for-it-to-pass-through/articleshow/89356031.cms",
         "timestamp": 1644128775,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 6, 2022 6:26 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.express.co.uk/news/science/1561042/egypt-archarology-news-time-capsule-athribis-notes-from-past-ostrica",
         "timestamp": 1644129939,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 6, 2022 6:45 AM"
     },
     {
@@ -59,8 +68,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/05/rescue-workers-in-morocco-edge-closer-to-boy-trapped-in-well?CMP=Share_iOSApp_Other",
         "timestamp": 1644137714,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 6, 2022 8:55 AM"
+    },
+    {
+        "title": "Olympic chiefs say Putin walking around opening ceremony without a mask 'isn't their responsibility'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10480027/Olympic-chiefs-say-Putin-walking-opening-ceremony-without-mask-isnt-responsibility.html",
+        "timestamp": 1644143028,
+        "sentiment": 0,
+        "published": "February 6, 2022 10:23 AM"
     },
     {
         "title": "Neighbours under threat after Channel 5 drops show",
@@ -68,8 +86,17 @@
         "category": "television",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-60277939",
         "timestamp": 1644145874,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 11:11 AM"
+    },
+    {
+        "title": "“Star Wars: Andor” To Get A Second Season",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/star-wars-andor-to-get-a-second-season/",
+        "timestamp": 1644148070,
+        "sentiment": 0,
+        "published": "February 6, 2022 11:47 AM"
     },
     {
         "title": "Russia will be able to overrun Ukraine in two days and an invasion would kill 50,000 civilians, warns US intelligence - and Putin is planning a nuclear exercise to warn off the West",
