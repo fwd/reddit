@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://tulsaworld.com/entertainment/television/actors-take-advantage-of-resident-aliens-improv-policy/article_4a3c60f2-747a-5748-bc76-793ad66671ef.html",
         "timestamp": 1644109295,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "February 6, 2022 1:01 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/exiled-russian-oligarch-mikhail-khodorkovsky-claims-vladimir-putin-is-putting-illegal-pressure-on-britains-political-system-12532783",
         "timestamp": 1644128217,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 6:16 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.express.co.uk/news/science/1561042/egypt-archarology-news-time-capsule-athribis-notes-from-past-ostrica",
         "timestamp": 1644129939,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 6:45 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10480027/Olympic-chiefs-say-Putin-walking-opening-ceremony-without-mask-isnt-responsibility.html",
         "timestamp": 1644143028,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 10:23 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-60277939",
         "timestamp": 1644145874,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "February 6, 2022 11:11 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "television",
         "link": "https://whatsondisneyplus.com/star-wars-andor-to-get-a-second-season/",
         "timestamp": 1644148070,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "February 6, 2022 11:47 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "worldnews",
         "link": "https://m.dw.com/en/uganda-french-and-chinese-oil-giants-launch-megaproject/a-60627764",
         "timestamp": 1644148338,
-        "sentiment": -7,
-        "published": "February 6, 2022 11:52 AM"
-    },
-    {
-        "title": "‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html",
-        "timestamp": 1644149383,
         "sentiment": 0,
-        "published": "February 6, 2022 12:09 PM"
+        "published": "February 6, 2022 11:52 AM"
     },
     {
         "title": "Trucker convoy: Ottawa ‘under siege’ amid ‘nation-wide insurrection,’ officials say",
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8597478/ottawa-trucker-convoy-risk-of-violence/",
         "timestamp": 1644149482,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 12:11 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/",
         "timestamp": 1644149681,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 12:14 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/tsunami-woes-us-school-shootings-spike-amid-pandemic-stress-2022-02-06/",
         "timestamp": 1644151196,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 12:39 PM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/06/europe/russia-military-images-intl/index.html",
         "timestamp": 1644153194,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 1:13 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "news",
         "link": "https://www.valleynewslive.com/2022/02/06/sources-judge-peter-cahill-signed-no-knock-warrant-that-ended-police-shooting-amir-locke/",
         "timestamp": 1644155689,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 1:54 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/mexico-lawsuit-us-gun-manufacturers/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2022-02-06T13%3A45%3A08",
         "timestamp": 1644156021,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 2:00 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/emmanuel-macron-vows-for-de-escalation-and-dialogue-ahead-of-russian-trip-putin-ukraine/",
         "timestamp": 1644156928,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 2:15 PM"
     },
     {
@@ -203,17 +194,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/sport/us-born-figure-skater-beverly-zhu-yi-china-olympic-intl-hnk/index.html",
         "timestamp": 1644158670,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 2:44 PM"
-    },
-    {
-        "title": "Secrets of Playboy Alleges 'Clean-Up Crew' Concealed Dozens of Sexual Assaults: 'I Think Hefner Knew'",
-        "domain": "people.com",
-        "category": "worldnews",
-        "link": "https://people.com/tv/secrets-of-playboy-episode-3-bunnies-and-the-cleanup-crew/",
-        "timestamp": 1644158942,
-        "sentiment": -7,
-        "published": "February 6, 2022 2:49 PM"
     },
     {
         "title": "‘Fake Accounts’ Series Adaptation In The Works From Ben Sinclair, Jen Silverman, Julia Garner & AC Studios",
@@ -221,7 +203,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/fake-accounts-series-adaptation-ben-sinclair-jen-silverman-julia-garner-1234925638/",
         "timestamp": 1644160415,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "February 6, 2022 3:13 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "worldnews",
         "link": "https://news.mongabay.com/2022/02/theres-not-much-hope-mediterranean-corals-collapse-under-relentless-heat/",
         "timestamp": 1644160547,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "February 6, 2022 3:15 PM"
     },
     {
@@ -241,6 +223,15 @@
         "timestamp": 1644162114,
         "sentiment": 0,
         "published": "February 6, 2022 3:41 PM"
+    },
+    {
+        "title": "Italy's former royal family demands return of crown jewels, confiscated since WWII",
+        "domain": "rfi.fr",
+        "category": "worldnews",
+        "link": "https://www.rfi.fr/en/europe/20220205-italy-s-former-royal-family-demands-return-of-crown-jewels-house-of-savoy-world-war-two",
+        "timestamp": 1644162949,
+        "sentiment": 0,
+        "published": "February 6, 2022 3:55 PM"
     },
     {
         "title": "US states have introduced 137 bills limiting what schools can teach on race, history, sexual orientation, and gender",
@@ -257,7 +248,7 @@
         "category": "television",
         "link": "https://www.avclub.com/reacher-review-prime-video-alan-ritchson-1848427282",
         "timestamp": 1644166002,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "February 6, 2022 4:46 PM"
     },
     {
@@ -266,8 +257,17 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-asia-60281129",
         "timestamp": 1644166649,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 4:57 PM"
+    },
+    {
+        "title": "Pence Aide: ‘I Did Not See’ Much ‘Legitimate Political Discourse’ on Jan. 6",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/pence-aide-marc-shorts-says-i-did-not-see-much-legitimate-political-discourse-on-jan-6?source=articles&via=rss",
+        "timestamp": 1644167850,
+        "sentiment": 0,
+        "published": "February 6, 2022 5:17 PM"
     },
     {
         "title": "Amir Locke shooting: hundreds protest in Minneapolis after police killing of Black man",
@@ -275,8 +275,53 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/feb/06/amir-locke-police-shooting-hundreds-protest-minneapolis",
         "timestamp": 1644168234,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 6, 2022 5:23 PM"
+    },
+    {
+        "title": "Truck convoy: Protest supporters move quickly to new fundraising website",
+        "domain": "ottawacitizen.com",
+        "category": "worldnews",
+        "link": "https://ottawacitizen.com/news/local-news/truck-convoy-protest-supporters-move-quickly-to-new-fundraising-website",
+        "timestamp": 1644170809,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:06 PM"
+    },
+    {
+        "title": "Argument leads to fatal shooting in checkout line of grocery",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/argument-leads-fatal-shooting-checkout-line-grocery-82708061",
+        "timestamp": 1644172947,
+        "sentiment": -3,
+        "published": "February 6, 2022 6:42 PM"
+    },
+    {
+        "title": "US parent wanted Michelle Obama biography out of schools calling it 'leftist indoctrination'",
+        "domain": "businessinsider.co.za",
+        "category": "news",
+        "link": "https://www.businessinsider.co.za/document-texas-parent-removal-michelle-obama-biography-leftist-indoctrination-2022-2",
+        "timestamp": 1644176027,
+        "sentiment": -3,
+        "published": "February 6, 2022 7:33 PM"
+    },
+    {
+        "title": "‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html",
+        "timestamp": 1644149383,
+        "sentiment": 0,
+        "published": "February 6, 2022 12:09 PM"
+    },
+    {
+        "title": "Secrets of Playboy Alleges 'Clean-Up Crew' Concealed Dozens of Sexual Assaults: 'I Think Hefner Knew'",
+        "domain": "people.com",
+        "category": "worldnews",
+        "link": "https://people.com/tv/secrets-of-playboy-episode-3-bunnies-and-the-cleanup-crew/",
+        "timestamp": 1644158942,
+        "sentiment": -7,
+        "published": "February 6, 2022 2:49 PM"
     },
     {
         "title": "US groups need to stop interfering in Canada: US ex-envoy",
