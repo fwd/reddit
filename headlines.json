@@ -1,14 +1,5 @@
 [
     {
-        "title": "AOC Headed to Texas Rally for Progressives Casar and Cisneros",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/02/04/aoc-headed-texas-rally-progressives-casar-and-cisneros",
-        "timestamp": 1644106492,
-        "sentiment": 0,
-        "published": "February 6, 2022 12:14 AM"
-    },
-    {
         "title": "‘Resident Alien’ Creator Has A Policy That Allows The Cast To Improv Lines As Much As They Want To Give Actors Influence Over Their Character’s Voices",
         "domain": "tulsaworld.com",
         "category": "television",
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://denver.cbslocal.com/2022/02/05/denver-human-services-food-stamps-ebt/",
         "timestamp": 1644112603,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 1:56 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/exiled-russian-oligarch-mikhail-khodorkovsky-claims-vladimir-putin-is-putting-illegal-pressure-on-britains-political-system-12532783",
         "timestamp": 1644128217,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 6:16 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.in/tech/news/more-than-1000-dutch-residents-plan-to-throw-rotten-eggs-at-jeff-bezos-superyacht-if-it-ends-up-forcing-a-historic-bridge-be-dismantled-for-it-to-pass-through/articleshow/89356031.cms",
         "timestamp": 1644128775,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 6:26 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.express.co.uk/news/science/1561042/egypt-archarology-news-time-capsule-athribis-notes-from-past-ostrica",
         "timestamp": 1644129939,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 6:45 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/amp/2022/02/05/delta-asks-the-justice-department-to-put-unruly-travelers-on-a-no-fly-list.html",
         "timestamp": 1644133791,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 6, 2022 7:49 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/05/rescue-workers-in-morocco-edge-closer-to-boy-trapped-in-well?CMP=Share_iOSApp_Other",
         "timestamp": 1644137714,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 8:55 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10480027/Olympic-chiefs-say-Putin-walking-opening-ceremony-without-mask-isnt-responsibility.html",
         "timestamp": 1644143028,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 10:23 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.texasobserver.org/indicted-attorney-general-ken-paxton-epitomizes-texas-exceptionalism-on-corruption/",
         "timestamp": 1644146728,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 6, 2022 11:25 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/desantis-says-gofundme-handling-of-canada-protest-campaign-is-fraud-2022-2",
         "timestamp": 1644147430,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 6, 2022 11:37 AM"
     },
     {
@@ -117,12 +108,21 @@
         "published": "February 6, 2022 11:47 AM"
     },
     {
+        "title": "‘Taking the Voters Out of the Equation’: How the Parties Are Killing Competition",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/06/us/politics/redistricting-competition-midterms.html",
+        "timestamp": 1644149383,
+        "sentiment": -5,
+        "published": "February 6, 2022 12:09 PM"
+    },
+    {
         "title": "Trucker convoy: Ottawa ‘under siege’ amid ‘nation-wide insurrection,’ officials say",
         "domain": "globalnews.ca",
         "category": "news",
         "link": "https://globalnews.ca/news/8597478/ottawa-trucker-convoy-risk-of-violence/",
         "timestamp": 1644149482,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 12:11 PM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/",
         "timestamp": 1644149681,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 12:14 PM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/steve-bannon-pence-trump-to-your-grave-vote_n_61ff216fe4b0f8a1b8454c08",
         "timestamp": 1644150558,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 6, 2022 12:29 PM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.npr.org/2022/02/06/1078570937/olympic-athletes-covid-isolation",
         "timestamp": 1644150618,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 6, 2022 12:30 PM"
     },
     {
@@ -158,8 +158,71 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/tsunami-woes-us-school-shootings-spike-amid-pandemic-stress-2022-02-06/",
         "timestamp": 1644151196,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 6, 2022 12:39 PM"
+    },
+    {
+        "title": "Amsterdam's sex workers face financial stress as the pandemic continues",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/amsterdams-sex-workers-face-financial-stress-pandemic-continues/story?id=82436137",
+        "timestamp": 1644153376,
+        "sentiment": -1,
+        "published": "February 6, 2022 1:16 PM"
+    },
+    {
+        "title": "She was told she could vote again after felony convictions. Now she’s in prison for trying.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/02/04/tennessee-pamela-moses-voting-fraud-prison/",
+        "timestamp": 1644154767,
+        "sentiment": -5,
+        "published": "February 6, 2022 1:39 PM"
+    },
+    {
+        "title": "US-born Beverly Zhu Yi, now skating for China, is under online attack after falling during her Olympic debut",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/world/live-news/beijing-winter-olympics-02-06-22-spt/h_9ea8f35e81be7378303d35cd0fb4a616",
+        "timestamp": 1644155343,
+        "sentiment": -1,
+        "published": "February 6, 2022 1:49 PM"
+    },
+    {
+        "title": "Sources: Judge Peter Cahill Signed ‘No-Knock’ Warrant That Ended In Police Shooting Of Amir Locke",
+        "domain": "valleynewslive.com",
+        "category": "news",
+        "link": "https://www.valleynewslive.com/2022/02/06/sources-judge-peter-cahill-signed-no-knock-warrant-that-ended-police-shooting-amir-locke/",
+        "timestamp": 1644155689,
+        "sentiment": 0,
+        "published": "February 6, 2022 1:54 PM"
+    },
+    {
+        "title": "13 states have backed the Mexican government's lawsuit against a group of US gun manufacturers",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/06/us/mexico-lawsuit-us-gun-manufacturers/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2022-02-06T13%3A45%3A08",
+        "timestamp": 1644156021,
+        "sentiment": 0,
+        "published": "February 6, 2022 2:00 PM"
+    },
+    {
+        "title": "Trump White House staffers frequently put important documents into 'burn bags' and sent them to the Pentagon for incineration, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-aides-put-documents-burn-bags-to-be-destroyed-wapo-2022-2",
+        "timestamp": 1644157044,
+        "sentiment": -5,
+        "published": "February 6, 2022 2:17 PM"
+    },
+    {
+        "title": "AOC Headed to Texas Rally for Progressives Casar and Cisneros",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/04/aoc-headed-texas-rally-progressives-casar-and-cisneros",
+        "timestamp": 1644106492,
+        "sentiment": 0,
+        "published": "February 6, 2022 12:14 AM"
     },
     {
         "title": "Vancouver health authorities warn staff to shelter and hide medical credentials during anti-vaxx convoy",
