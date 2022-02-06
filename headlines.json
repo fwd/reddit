@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/04/aoc-headed-texas-rally-progressives-casar-and-cisneros",
         "timestamp": 1644106492,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 6, 2022 12:14 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://tulsaworld.com/entertainment/television/actors-take-advantage-of-resident-aliens-improv-policy/article_4a3c60f2-747a-5748-bc76-793ad66671ef.html",
         "timestamp": 1644109295,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 6, 2022 1:01 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "news",
         "link": "https://denver.cbslocal.com/2022/02/05/denver-human-services-food-stamps-ebt/",
         "timestamp": 1644112603,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 6, 2022 1:56 AM"
-    },
-    {
-        "title": "Vancouver health authorities warn staff to shelter and hide medical credentials during anti-vaxx convoy",
-        "domain": "bc.ctvnews.ca",
-        "category": "news",
-        "link": "https://bc.ctvnews.ca/vancouver-health-authorities-warn-staff-to-shelter-and-hide-medical-credentials-during-anti-vaxx-convoy-1.5769041",
-        "timestamp": 1644113329,
-        "sentiment": -3,
-        "published": "February 6, 2022 2:08 AM"
     },
     {
         "title": "Exiled Russian oligarch Mikhail Khodorkovsky claims Vladimir Putin is putting illegal pressure on Britain's political system",
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/exiled-russian-oligarch-mikhail-khodorkovsky-claims-vladimir-putin-is-putting-illegal-pressure-on-britains-political-system-12532783",
         "timestamp": 1644128217,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 6, 2022 6:16 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/amp/2022/02/05/delta-asks-the-justice-department-to-put-unruly-travelers-on-a-no-fly-list.html",
         "timestamp": 1644133791,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 6, 2022 7:49 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "television",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-60277939",
         "timestamp": 1644145874,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 6, 2022 11:11 AM"
     },
     {
@@ -104,8 +95,17 @@
         "category": "politics",
         "link": "https://www.texasobserver.org/indicted-attorney-general-ken-paxton-epitomizes-texas-exceptionalism-on-corruption/",
         "timestamp": 1644146728,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 6, 2022 11:25 AM"
+    },
+    {
+        "title": "Florida Gov. Ron DeSantis threatened to investigate GoFundMe after they said they'd work with Canadian trucker vaccine protest fundraiser organizers to redistribute funds",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/desantis-says-gofundme-handling-of-canada-protest-campaign-is-fraud-2022-2",
+        "timestamp": 1644147430,
+        "sentiment": 0,
+        "published": "February 6, 2022 11:37 AM"
     },
     {
         "title": "“Star Wars: Andor” To Get A Second Season",
@@ -113,7 +113,7 @@
         "category": "television",
         "link": "https://whatsondisneyplus.com/star-wars-andor-to-get-a-second-season/",
         "timestamp": 1644148070,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 6, 2022 11:47 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8597478/ottawa-trucker-convoy-risk-of-violence/",
         "timestamp": 1644149482,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 6, 2022 12:11 PM"
     },
     {
@@ -133,6 +133,42 @@
         "timestamp": 1644149681,
         "sentiment": -2,
         "published": "February 6, 2022 12:14 PM"
+    },
+    {
+        "title": "Steve Bannon Ominously Warns Mike Pence He'll Take Refusal To Toss 2020 Vote 'To Your Grave'",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/steve-bannon-pence-trump-to-your-grave-vote_n_61ff216fe4b0f8a1b8454c08",
+        "timestamp": 1644150558,
+        "sentiment": 0,
+        "published": "February 6, 2022 12:29 PM"
+    },
+    {
+        "title": "No internet, bad food and dirty rooms: Olympic athletes struggle in quarantine : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/02/06/1078570937/olympic-athletes-covid-isolation",
+        "timestamp": 1644150618,
+        "sentiment": -2,
+        "published": "February 6, 2022 12:30 PM"
+    },
+    {
+        "title": "'Tsunami' of woes: U.S. school shootings spike amid pandemic stress",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/tsunami-woes-us-school-shootings-spike-amid-pandemic-stress-2022-02-06/",
+        "timestamp": 1644151196,
+        "sentiment": -2,
+        "published": "February 6, 2022 12:39 PM"
+    },
+    {
+        "title": "Vancouver health authorities warn staff to shelter and hide medical credentials during anti-vaxx convoy",
+        "domain": "bc.ctvnews.ca",
+        "category": "news",
+        "link": "https://bc.ctvnews.ca/vancouver-health-authorities-warn-staff-to-shelter-and-hide-medical-credentials-during-anti-vaxx-convoy-1.5769041",
+        "timestamp": 1644113329,
+        "sentiment": -3,
+        "published": "February 6, 2022 2:08 AM"
     },
     {
         "title": "Russia will be able to overrun Ukraine in two days and an invasion would kill 50,000 civilians, warns US intelligence - and Putin is planning a nuclear exercise to warn off the West",
