@@ -198,15 +198,6 @@
         "published": "February 6, 2022 3:41 PM"
     },
     {
-        "title": "US states have introduced 137 bills limiting what schools can teach on race, history, sexual orientation, and gender",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/schools-teach-race-history-gender-b2008438.html",
-        "timestamp": 1644163260,
-        "sentiment": 0,
-        "published": "February 6, 2022 4:01 PM"
-    },
-    {
         "title": "Reacher review: Binge-worthy take on your favorite airport novel hero",
         "domain": "avclub.com",
         "category": "television",
@@ -261,13 +252,13 @@
         "published": "February 6, 2022 6:06 PM"
     },
     {
-        "title": "At least 28 assisted deaths in first three months of new law in New Zealand.",
-        "domain": "stuff.co.nz",
-        "category": "worldnews",
-        "link": "https://www.stuff.co.nz/national/health/300511045/at-least-28-assisted-deaths-in-first-three-months-of-new-law",
-        "timestamp": 1644171388,
+        "title": "Election-denying Trump loyalists are running for obscure offices to influence future elections in battleground states",
+        "domain": "businessinsider.com.au",
+        "category": "politics",
+        "link": "https://www.businessinsider.com.au/election-denying-trump-loyalists-want-to-oversee-elections-in-key-states-2022-2?_ga=2.90119251.911682079.1644086090-1632976",
+        "timestamp": 1644171724,
         "sentiment": 0,
-        "published": "February 6, 2022 6:16 PM"
+        "published": "February 6, 2022 6:22 PM"
     },
     {
         "title": "Argument leads to fatal shooting in checkout line of grocery",
@@ -279,13 +270,13 @@
         "published": "February 6, 2022 6:42 PM"
     },
     {
-        "title": "Israel to use anti-boycott law against Ben & Jerry's",
-        "domain": "i24news.tv",
+        "title": "Belgium’s data watchdog rules that Europe's most used consent system violates several GDPR provisions, requests advertisers including Google, Amazon and Microsoft to delete the collected data.",
+        "domain": "euractiv.com",
         "category": "worldnews",
-        "link": "https://www.i24news.tv/en/news/israel/politics/1644094144-israel-to-use-anti-boycott-law-against-ben-jerry-s",
-        "timestamp": 1644173522,
+        "link": "https://www.euractiv.com/section/digital/news/europes-most-used-consent-system-deemed-incompatible-with-eu-privacy-rules/",
+        "timestamp": 1644174934,
         "sentiment": 0,
-        "published": "February 6, 2022 6:52 PM"
+        "published": "February 6, 2022 7:15 PM"
     },
     {
         "title": "Ukraine crisis: Macron says a deal to avoid war is within reach",
@@ -331,6 +322,42 @@
         "timestamp": 1644182418,
         "sentiment": 0,
         "published": "February 6, 2022 9:20 PM"
+    },
+    {
+        "title": "Ottawa mayor declares state of emergency amid 'Freedom Convoy' protest",
+        "domain": "ottawa.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://ottawa.ctvnews.ca/ottawa-mayor-declares-state-of-emergency-amid-freedom-convoy-protest-1.5769811",
+        "timestamp": 1644183733,
+        "sentiment": 0,
+        "published": "February 6, 2022 9:42 PM"
+    },
+    {
+        "title": "US states have introduced 137 bills limiting what schools can teach on race, history, sexual orientation, and gender",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/schools-teach-race-history-gender-b2008438.html",
+        "timestamp": 1644163260,
+        "sentiment": 0,
+        "published": "February 6, 2022 4:01 PM"
+    },
+    {
+        "title": "At least 28 assisted deaths in first three months of new law in New Zealand.",
+        "domain": "stuff.co.nz",
+        "category": "worldnews",
+        "link": "https://www.stuff.co.nz/national/health/300511045/at-least-28-assisted-deaths-in-first-three-months-of-new-law",
+        "timestamp": 1644171388,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:16 PM"
+    },
+    {
+        "title": "Israel to use anti-boycott law against Ben & Jerry's",
+        "domain": "i24news.tv",
+        "category": "worldnews",
+        "link": "https://www.i24news.tv/en/news/israel/politics/1644094144-israel-to-use-anti-boycott-law-against-ben-jerry-s",
+        "timestamp": 1644173522,
+        "sentiment": 0,
+        "published": "February 6, 2022 6:52 PM"
     },
     {
         "title": "Olympic chiefs say Putin walking around opening ceremony without a mask 'isn't their responsibility'",
