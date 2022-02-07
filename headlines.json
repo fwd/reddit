@@ -68,7 +68,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
         "timestamp": 1644231177,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 10:52 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
         "timestamp": 1644232551,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 11:15 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "television",
         "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
         "timestamp": 1644234158,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 11:42 AM"
     },
     {
@@ -113,17 +113,8 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/07/keep-pushing-momentum-grows-behind-effort-ban-stock-trading",
         "timestamp": 1644236367,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:19 PM"
-    },
-    {
-        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
-        "timestamp": 1644236920,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:28 PM"
     },
     {
         "title": "Boxes improperly removed from White House recovered at Trump's Mar-a-Lago: report",
@@ -131,17 +122,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/593065-boxes-improperly-removed-from-white-house-recovered-at-trumps-mar-a",
         "timestamp": 1644238370,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:52 PM"
-    },
-    {
-        "title": "Ukraine to unleash ‘bloody hell’ on Russia if it invades: Expert | Ukraine-Russia crisis News",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/2/7/ukraine-to-unleash-bloody-hell-on-russia-if-it-invades-expert",
-        "timestamp": 1644241823,
-        "sentiment": -5,
-        "published": "February 7, 2022 1:50 PM"
     },
     {
         "title": "‘Giant obstacle course’: call to reroute major shipping lanes to protect blue whales | The Guardian",
@@ -162,21 +144,12 @@
         "published": "February 7, 2022 2:03 PM"
     },
     {
-        "title": "Biden Will Press German Chancellor on Russia Sanctions and Pipeline",
-        "domain": "nytimes.com",
-        "category": "worldnews",
-        "link": "https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html",
-        "timestamp": 1644243833,
-        "sentiment": -5,
-        "published": "February 7, 2022 2:23 PM"
-    },
-    {
         "title": "‘This is a scam.’ Miami residents say voter registration switched from Democrat to GOP",
         "domain": "orlandosentinel.com",
         "category": "politics",
         "link": "https://www.orlandosentinel.com/politics/os-ne-voter-registration-little-havana-scam-20220207-qenoeqpcdrbadgam4a643ip6xy-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-1~QENOEQPCDRBADGAM4A643IP6XY~1~1~1~8~art%20yes",
         "timestamp": 1644244420,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 2:33 PM"
     },
     {
@@ -185,17 +158,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-confused-by-staffers-not-liking-rewatch-capitol-riot-report-2022-2",
         "timestamp": 1644245046,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 2:44 PM"
-    },
-    {
-        "title": "NJ to Lift School Masking Mandate in March",
-        "domain": "nbcnewyork.com",
-        "category": "news",
-        "link": "https://www.nbcnewyork.com/news/coronavirus/new-jersey-to-end-mask-requirement-in-schools-as-covid-cases-wane/3538199/",
-        "timestamp": 1644245541,
-        "sentiment": 0,
-        "published": "February 7, 2022 2:52 PM"
     },
     {
         "title": "Zendaya Responds After D.A.R.E. Slams ‘Euphoria’ for ‘Glorifying’ Drugs: Show Is Not a ‘Moral Tale’",
@@ -203,7 +167,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/zendaya-reacts-dare-euphoria-glorifying-drugs-1234696961/",
         "timestamp": 1644246142,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 3:02 PM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/02/07/kinzinger-censure-gop-trump-jan-6-newday-vpx.cnn",
         "timestamp": 1644246583,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 3:09 PM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jill-biden-free-community-college-bbb-2022-2",
         "timestamp": 1644248546,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 3:42 PM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-lord-of-the-rings-trailer-date-super-bowl-1235088033/",
         "timestamp": 1644249690,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 4:01 PM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/catherine-zeta-jones-star-national-treasure-disney-plus-series-1234927537/",
         "timestamp": 1644249720,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 4:02 PM"
     },
     {
@@ -249,6 +213,15 @@
         "link": "https://www.bbc.co.uk/news/science-environment-60258620",
         "timestamp": 1644250730,
         "sentiment": 0,
+        "published": "February 7, 2022 4:18 PM"
+    },
+    {
+        "title": "1,800-Year-Old Buddhist Stupa and Relics Unearthed in Pakistan",
+        "domain": "buddhistdoor.net",
+        "category": "worldnews",
+        "link": "https://www.buddhistdoor.net/news/1800-year-old-buddhist-stupa-and-relics-unearthed-in-pakistan/",
+        "timestamp": 1644250735,
+        "sentiment": -5,
         "published": "February 7, 2022 4:18 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/feb/07/banned-book-club-pennsylvania-animal-farm",
         "timestamp": 1644253395,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 5:03 PM"
     },
     {
@@ -288,12 +261,21 @@
         "published": "February 7, 2022 5:13 PM"
     },
     {
+        "title": "Russian authorities discuss country's preparedness for sanctions for invasion of Ukraine",
+        "domain": "112.international",
+        "category": "worldnews",
+        "link": "https://112.international/politics/russian-authorities-discuss-countrys-preparedness-for-sanctions-for-invasion-of-ukraine-69405.html",
+        "timestamp": 1644254081,
+        "sentiment": -5,
+        "published": "February 7, 2022 5:14 PM"
+    },
+    {
         "title": "TV, Interrupted: Why Swamp Thing Should Be Resurrected",
         "domain": "slashfilm.com",
         "category": "television",
         "link": "https://www.slashfilm.com/758726/tv-interrupted-why-swamp-thing-should-be-resurrected/",
         "timestamp": 1644255704,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 5:41 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-national-archives-kim-jong-un-mar-a-lago-1295991/",
         "timestamp": 1644256092,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 5:48 PM"
     },
     {
@@ -311,8 +293,80 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/mayim-bialik-jeopardy-host-1235168705",
         "timestamp": 1644257910,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "February 7, 2022 6:18 PM"
+    },
+    {
+        "title": "Amazon more than doubles salary caps to $350,000 for US white-collar employees",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/07/tech/amazon-doubles-salary/index.html",
+        "timestamp": 1644262219,
+        "sentiment": 0,
+        "published": "February 7, 2022 7:30 PM"
+    },
+    {
+        "title": "Fox News shows demographic saying 10 most unhealthy cities are democratic, turns out they are actually the 10 healthiest cities in the us",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/fox-news-host-dan-bongino-faceplants-in-attempt-to-own-unhealthy-libs-with-fake-graphic",
+        "timestamp": 1644262898,
+        "sentiment": -2,
+        "published": "February 7, 2022 7:41 PM"
+    },
+    {
+        "title": "Court grants injunction to silence honking in downtown Ottawa for 10 days",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/injunction-ottawa-granted-1.6342468",
+        "timestamp": 1644263506,
+        "sentiment": -5,
+        "published": "February 7, 2022 7:51 PM"
+    },
+    {
+        "title": "Vince Gilligan was offered $75m to make 3 more episodes of ‘Breaking Bad’ after the finale. He refused.",
+        "domain": "vanityfair.com",
+        "category": "television",
+        "link": "https://www.vanityfair.com/hollywood/2013/10/breaking-bad-finale-more-episodes",
+        "timestamp": 1644267099,
+        "sentiment": -2,
+        "published": "February 7, 2022 8:51 PM"
+    },
+    {
+        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
+        "timestamp": 1644236920,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:28 PM"
+    },
+    {
+        "title": "Ukraine to unleash ‘bloody hell’ on Russia if it invades: Expert | Ukraine-Russia crisis News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/2/7/ukraine-to-unleash-bloody-hell-on-russia-if-it-invades-expert",
+        "timestamp": 1644241823,
+        "sentiment": -5,
+        "published": "February 7, 2022 1:50 PM"
+    },
+    {
+        "title": "Biden Will Press German Chancellor on Russia Sanctions and Pipeline",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/02/07/us/politics/biden-olaf-scholz-russia.html",
+        "timestamp": 1644243833,
+        "sentiment": -5,
+        "published": "February 7, 2022 2:23 PM"
+    },
+    {
+        "title": "NJ to Lift School Masking Mandate in March",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/coronavirus/new-jersey-to-end-mask-requirement-in-schools-as-covid-cases-wane/3538199/",
+        "timestamp": 1644245541,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:52 PM"
     },
     {
         "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
