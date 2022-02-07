@@ -1,20 +1,11 @@
 [
     {
-        "title": "Evers vetoes bills banning critical race theory, extending teen work hours",
-        "domain": "nbc15.com",
-        "category": "politics",
-        "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
-        "timestamp": 1644192369,
-        "sentiment": -2,
-        "published": "February 7, 2022 12:06 AM"
-    },
-    {
         "title": "Foreign Secretary Truss says Falklands part of ‘British family’ after China backs Argentina’s claim to Falklands, Argentina backs Chinese claim to Taiwan",
         "domain": "theguardian.com",
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:14 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
         "timestamp": 1644194529,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 12:42 AM"
     },
     {
@@ -41,8 +32,17 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
         "timestamp": 1644195109,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:51 AM"
+    },
+    {
+        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
+        "domain": "uk.sports.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
+        "timestamp": 1644195822,
+        "sentiment": -2,
+        "published": "February 7, 2022 1:03 AM"
     },
     {
         "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
         "timestamp": 1644196395,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 1:13 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
         "timestamp": 1644202518,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 2:55 AM"
     },
     {
@@ -68,8 +68,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
         "timestamp": 1644204156,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 3:22 AM"
+    },
+    {
+        "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
+        "domain": "southafricatoday.net",
+        "category": "news",
+        "link": "https://southafricatoday.net/environment/community-in-ecuador-punished-for-trying-to-stop-alleged-palm-oil-pollution/",
+        "timestamp": 1644206133,
+        "sentiment": -5,
+        "published": "February 7, 2022 3:55 AM"
     },
     {
         "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
@@ -86,17 +95,8 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
         "timestamp": 1644206633,
-        "sentiment": 0,
-        "published": "February 7, 2022 4:03 AM"
-    },
-    {
-        "title": "Capitol rioter wants to subpoena Donald Trump to testify in his defense",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
-        "timestamp": 1644206815,
         "sentiment": -2,
-        "published": "February 7, 2022 4:06 AM"
+        "published": "February 7, 2022 4:03 AM"
     },
     {
         "title": "Spotify CEO condemns Rogan's use of racial slurs, but says company won't be 'silencing' him",
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
         "timestamp": 1644210344,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 5:05 AM"
     },
     {
@@ -113,17 +113,8 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
         "timestamp": 1644215651,
-        "sentiment": 0,
-        "published": "February 7, 2022 6:34 AM"
-    },
-    {
-        "title": "Senate Democratic leaders are now open to a congressional stock trading ban after initial reluctance",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
-        "timestamp": 1644222023,
         "sentiment": -2,
-        "published": "February 7, 2022 8:20 AM"
+        "published": "February 7, 2022 6:34 AM"
     },
     {
         "title": "Russia accelerates movement of military hardware towards Ukraine, satellite images show",
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/07/europe/yelnya-russian-hardware-ukraine-border-intl/index.html",
         "timestamp": 1644230721,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 10:45 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "news",
         "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
         "timestamp": 1644235067,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 11:57 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60285068",
         "timestamp": 1644236227,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:17 PM"
     },
     {
@@ -225,6 +216,78 @@
         "published": "February 7, 2022 12:52 PM"
     },
     {
+        "title": "Woman falls to death after Florida draw bridge she was crossing opens",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/investigation-underway-bicyclist-dies-draw-bridge-opens-florida-rcna15118",
+        "timestamp": 1644242614,
+        "sentiment": -5,
+        "published": "February 7, 2022 2:03 PM"
+    },
+    {
+        "title": "‘This is a scam.’ Miami residents say voter registration switched from Democrat to GOP",
+        "domain": "orlandosentinel.com",
+        "category": "politics",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-voter-registration-little-havana-scam-20220207-qenoeqpcdrbadgam4a643ip6xy-story.html#nt=pf-triple%20chain~politics-top-stories~feed-driven%20flex%20feature~automated~story-1~QENOEQPCDRBADGAM4A643IP6XY~1~1~1~8~art%20yes",
+        "timestamp": 1644244420,
+        "sentiment": -2,
+        "published": "February 7, 2022 2:33 PM"
+    },
+    {
+        "title": "Trump was confused when White House staffers didn't like him rewinding Capitol riot highlights on TV, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-confused-by-staffers-not-liking-rewatch-capitol-riot-report-2022-2",
+        "timestamp": 1644245046,
+        "sentiment": -2,
+        "published": "February 7, 2022 2:44 PM"
+    },
+    {
+        "title": "Zendaya Responds After D.A.R.E. Slams ‘Euphoria’ for ‘Glorifying’ Drugs: Show Is Not a ‘Moral Tale’",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/02/zendaya-reacts-dare-euphoria-glorifying-drugs-1234696961/",
+        "timestamp": 1644246142,
+        "sentiment": 0,
+        "published": "February 7, 2022 3:02 PM"
+    },
+    {
+        "title": "Kinzinger: Trump was the 'worst president America has ever had'",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2022/02/07/kinzinger-censure-gop-trump-jan-6-newday-vpx.cnn",
+        "timestamp": 1644246583,
+        "sentiment": -2,
+        "published": "February 7, 2022 3:09 PM"
+    },
+    {
+        "title": "Evers vetoes bills banning critical race theory, extending teen work hours",
+        "domain": "nbc15.com",
+        "category": "politics",
+        "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
+        "timestamp": 1644192369,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:06 AM"
+    },
+    {
+        "title": "Capitol rioter wants to subpoena Donald Trump to testify in his defense",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
+        "timestamp": 1644206815,
+        "sentiment": -2,
+        "published": "February 7, 2022 4:06 AM"
+    },
+    {
+        "title": "Senate Democratic leaders are now open to a congressional stock trading ban after initial reluctance",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
+        "timestamp": 1644222023,
+        "sentiment": -2,
+        "published": "February 7, 2022 8:20 AM"
+    },
+    {
         "title": "Neo-Nazi student Connor Burke jailed for sharing bomb-making handbook in Minecraft guides",
         "domain": "uk.news.yahoo.com",
         "category": "worldnews",
@@ -241,24 +304,6 @@
         "timestamp": 1644241495,
         "sentiment": 0,
         "published": "February 7, 2022 1:44 PM"
-    },
-    {
-        "title": "Woman falls to death after Florida draw bridge she was crossing opens",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/investigation-underway-bicyclist-dies-draw-bridge-opens-florida-rcna15118",
-        "timestamp": 1644242614,
-        "sentiment": 0,
-        "published": "February 7, 2022 2:03 PM"
-    },
-    {
-        "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
-        "domain": "southafricatoday.net",
-        "category": "news",
-        "link": "https://southafricatoday.net/environment/community-in-ecuador-punished-for-trying-to-stop-alleged-palm-oil-pollution/",
-        "timestamp": 1644206133,
-        "sentiment": -5,
-        "published": "February 7, 2022 3:55 AM"
     },
     {
         "title": "Surveillance video appears to show anti-vaccine protesters trying to set apartment building on fire",
@@ -313,15 +358,6 @@
         "timestamp": 1644231097,
         "sentiment": 0,
         "published": "February 7, 2022 10:51 AM"
-    },
-    {
-        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
-        "domain": "uk.sports.yahoo.com",
-        "category": "worldnews",
-        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
-        "timestamp": 1644195822,
-        "sentiment": -2,
-        "published": "February 7, 2022 1:03 AM"
     },
     {
         "title": "An Olympic question that won't go away: Where is \"vanished\" Chinese tennis star, Peng Shuai?",
