@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
         "timestamp": 1644204156,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 7, 2022 3:22 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
         "timestamp": 1644210344,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 7, 2022 5:05 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
         "timestamp": 1644215651,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 7, 2022 6:34 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/07/europe/yelnya-russian-hardware-ukraine-border-intl/index.html",
         "timestamp": 1644230721,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 7, 2022 10:45 AM"
-    },
-    {
-        "title": "Israeli engineers develop implants to help paralyzed people walk again",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/health-and-wellness/article-695725",
-        "timestamp": 1644231119,
-        "sentiment": 0,
-        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
         "timestamp": 1644231177,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "February 7, 2022 10:52 AM"
     },
     {
@@ -68,17 +59,8 @@
         "category": "television",
         "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
         "timestamp": 1644234158,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "February 7, 2022 11:42 AM"
-    },
-    {
-        "title": "Frontier Airlines buying Spirit in $3B budget carrier deal",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
-        "timestamp": 1644235067,
-        "sentiment": 3,
-        "published": "February 7, 2022 11:57 AM"
     },
     {
         "title": "China restores Fight Club ending after backlash",
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60285068",
         "timestamp": 1644236227,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 7, 2022 12:17 PM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/feb/07/change-lane-whales-ahead-sri-lanka-urged-to-reroute-shipping-traffic",
         "timestamp": 1644242263,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 7, 2022 1:57 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/investigation-underway-bicyclist-dies-draw-bridge-opens-florida-rcna15118",
         "timestamp": 1644242614,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 7, 2022 2:03 PM"
     },
     {
@@ -144,12 +126,21 @@
         "published": "February 7, 2022 2:44 PM"
     },
     {
+        "title": "NJ to Lift School Masking Mandate in March",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/coronavirus/new-jersey-to-end-mask-requirement-in-schools-as-covid-cases-wane/3538199/",
+        "timestamp": 1644245541,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:52 PM"
+    },
+    {
         "title": "Zendaya Responds After D.A.R.E. Slams ‘Euphoria’ for ‘Glorifying’ Drugs: Show Is Not a ‘Moral Tale’",
         "domain": "indiewire.com",
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/zendaya-reacts-dare-euphoria-glorifying-drugs-1234696961/",
         "timestamp": 1644246142,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "February 7, 2022 3:02 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-lord-of-the-rings-trailer-date-super-bowl-1235088033/",
         "timestamp": 1644249690,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "February 7, 2022 4:01 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/catherine-zeta-jones-star-national-treasure-disney-plus-series-1234927537/",
         "timestamp": 1644249720,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "February 7, 2022 4:02 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/science-environment-60258620",
         "timestamp": 1644250730,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 7, 2022 4:18 PM"
     },
     {
@@ -203,8 +194,152 @@
         "category": "worldnews",
         "link": "https://www.buddhistdoor.net/news/1800-year-old-buddhist-stupa-and-relics-unearthed-in-pakistan/",
         "timestamp": 1644250735,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 7, 2022 4:18 PM"
+    },
+    {
+        "title": "2nd guilty plea planned in alleged plot to kidnap Whitmer",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/michigan-gretchen-whitmer-77dbb0e98afb0f94774b692a68457aab",
+        "timestamp": 1644254016,
+        "sentiment": 0,
+        "published": "February 7, 2022 5:13 PM"
+    },
+    {
+        "title": "TV, Interrupted: Why Swamp Thing Should Be Resurrected",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/758726/tv-interrupted-why-swamp-thing-should-be-resurrected/",
+        "timestamp": 1644255704,
+        "sentiment": -2,
+        "published": "February 7, 2022 5:41 PM"
+    },
+    {
+        "title": "Trump Busted for Hoarding Kim Jong-un ‘Love Letters’ at Mar-a-Lago",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-national-archives-kim-jong-un-mar-a-lago-1295991/",
+        "timestamp": 1644256092,
+        "sentiment": -2,
+        "published": "February 7, 2022 5:48 PM"
+    },
+    {
+        "title": "The Republican Party Can’t Be Saved",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/165301/republicans-violence-normal-political-discourse",
+        "timestamp": 1644256882,
+        "sentiment": -2,
+        "published": "February 7, 2022 6:01 PM"
+    },
+    {
+        "title": "Mayim Bialik Doesn’t Know How ‘Jeopardy’s’ Hosting Succession Will Shake Out: \"I try not to pay attention [to hosting criticism]... I’m female, and as much as men and women can and should do the same things, women are perceived differently. I really try to be a neutral presence as much as possible.\"",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/mayim-bialik-jeopardy-host-1235168705",
+        "timestamp": 1644257910,
+        "sentiment": -2,
+        "published": "February 7, 2022 6:18 PM"
+    },
+    {
+        "title": "Israel to open first LGBT shelter for Arab youth",
+        "domain": "jpost.com",
+        "category": "news",
+        "link": "https://www.jpost.com/israel-news/article-695703",
+        "timestamp": 1644258749,
+        "sentiment": 0,
+        "published": "February 7, 2022 6:32 PM"
+    },
+    {
+        "title": "Amy Coney Barrett’s Long Game — The newest Supreme Court Justice isn’t just another conservative—she’s the product of a Christian legal movement that is intent on remaking America.",
+        "domain": "newyorker.com",
+        "category": "politics",
+        "link": "https://www.newyorker.com/magazine/2022/02/14/amy-coney-barretts-long-game",
+        "timestamp": 1644260426,
+        "sentiment": -2,
+        "published": "February 7, 2022 7:00 PM"
+    },
+    {
+        "title": "Amazon more than doubles salary caps to $350,000 for US white-collar employees",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/07/tech/amazon-doubles-salary/index.html",
+        "timestamp": 1644262219,
+        "sentiment": 0,
+        "published": "February 7, 2022 7:30 PM"
+    },
+    {
+        "title": "Court grants injunction to silence honking in downtown Ottawa for 10 days",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/injunction-ottawa-granted-1.6342468",
+        "timestamp": 1644263506,
+        "sentiment": -1,
+        "published": "February 7, 2022 7:51 PM"
+    },
+    {
+        "title": "Reports of active shooter at Richland Fred Meyer; injuries reported",
+        "domain": "nbc16.com",
+        "category": "news",
+        "link": "https://nbc16.com/news/local/reports-of-active-shooter-at-richland-fred-meyer-injuries-reported",
+        "timestamp": 1644263629,
+        "sentiment": 0,
+        "published": "February 7, 2022 7:53 PM"
+    },
+    {
+        "title": "Russia-Ukraine crisis: Vladimir Putin praises Emmanuel Macron as leaders meet in Moscow",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/02/07/russia-ukraine-crisis-news-war-invasion-macron-putin-talks/",
+        "timestamp": 1644264216,
+        "sentiment": -1,
+        "published": "February 7, 2022 8:03 PM"
+    },
+    {
+        "title": "Biden: It ‘would be wise’ for Americans to leave Ukraine",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/46f8be10fa71af16bae8f3a9bd82918d",
+        "timestamp": 1644269099,
+        "sentiment": -1,
+        "published": "February 7, 2022 9:24 PM"
+    },
+    {
+        "title": "Biden says there \"will be no Nord Stream 2 pipeline\" if Russia invades Ukraine.",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/administration/593153-biden-insists-nord-stream-2-will-be-halted-if-russia-invades-ukraine",
+        "timestamp": 1644269230,
+        "sentiment": -1,
+        "published": "February 7, 2022 9:27 PM"
+    },
+    {
+        "title": "Russian President Vladimir Putin warns Europe will be dragged into military conflict if Ukraine joins NATO",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/russian-president-vladimir-putin-warns-europe-will-be-dragged-into-military-conflict-if-ukraine-joins-nato-12535861",
+        "timestamp": 1644273098,
+        "sentiment": -1,
+        "published": "February 7, 2022 10:31 PM"
+    },
+    {
+        "title": "Israeli engineers develop implants to help paralyzed people walk again",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/health-and-wellness/article-695725",
+        "timestamp": 1644231119,
+        "sentiment": 0,
+        "published": "February 7, 2022 10:51 AM"
+    },
+    {
+        "title": "Frontier Airlines buying Spirit in $3B budget carrier deal",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
+        "timestamp": 1644235067,
+        "sentiment": 3,
+        "published": "February 7, 2022 11:57 AM"
     },
     {
         "title": "\"There Is A Right To Terminate Pregnancy On Ground Of Rape\": Uttarakhand High Court Allows Termination Of 28 Weeks Foetus\"",
@@ -243,15 +378,6 @@
         "published": "February 7, 2022 5:03 PM"
     },
     {
-        "title": "2nd guilty plea planned in alleged plot to kidnap Whitmer",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/michigan-gretchen-whitmer-77dbb0e98afb0f94774b692a68457aab",
-        "timestamp": 1644254016,
-        "sentiment": 3,
-        "published": "February 7, 2022 5:13 PM"
-    },
-    {
         "title": "Russian authorities discuss country's preparedness for sanctions for invasion of Ukraine",
         "domain": "112.international",
         "category": "worldnews",
@@ -261,42 +387,6 @@
         "published": "February 7, 2022 5:14 PM"
     },
     {
-        "title": "TV, Interrupted: Why Swamp Thing Should Be Resurrected",
-        "domain": "slashfilm.com",
-        "category": "television",
-        "link": "https://www.slashfilm.com/758726/tv-interrupted-why-swamp-thing-should-be-resurrected/",
-        "timestamp": 1644255704,
-        "sentiment": 3,
-        "published": "February 7, 2022 5:41 PM"
-    },
-    {
-        "title": "Trump Busted for Hoarding Kim Jong-un ‘Love Letters’ at Mar-a-Lago",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/trump-national-archives-kim-jong-un-mar-a-lago-1295991/",
-        "timestamp": 1644256092,
-        "sentiment": -2,
-        "published": "February 7, 2022 5:48 PM"
-    },
-    {
-        "title": "Mayim Bialik Doesn’t Know How ‘Jeopardy’s’ Hosting Succession Will Shake Out: \"I try not to pay attention [to hosting criticism]... I’m female, and as much as men and women can and should do the same things, women are perceived differently. I really try to be a neutral presence as much as possible.\"",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/mayim-bialik-jeopardy-host-1235168705",
-        "timestamp": 1644257910,
-        "sentiment": 3,
-        "published": "February 7, 2022 6:18 PM"
-    },
-    {
-        "title": "Amazon more than doubles salary caps to $350,000 for US white-collar employees",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/07/tech/amazon-doubles-salary/index.html",
-        "timestamp": 1644262219,
-        "sentiment": 3,
-        "published": "February 7, 2022 7:30 PM"
-    },
-    {
         "title": "Fox News shows demographic saying 10 most unhealthy cities are democratic, turns out they are actually the 10 healthiest cities in the us",
         "domain": "thedailybeast.com",
         "category": "politics",
@@ -304,24 +394,6 @@
         "timestamp": 1644262898,
         "sentiment": -2,
         "published": "February 7, 2022 7:41 PM"
-    },
-    {
-        "title": "Court grants injunction to silence honking in downtown Ottawa for 10 days",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/politics/injunction-ottawa-granted-1.6342468",
-        "timestamp": 1644263506,
-        "sentiment": 0,
-        "published": "February 7, 2022 7:51 PM"
-    },
-    {
-        "title": "Russia-Ukraine crisis: Vladimir Putin praises Emmanuel Macron as leaders meet in Moscow",
-        "domain": "telegraph.co.uk",
-        "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/world-news/2022/02/07/russia-ukraine-crisis-news-war-invasion-macron-putin-talks/",
-        "timestamp": 1644264216,
-        "sentiment": 0,
-        "published": "February 7, 2022 8:03 PM"
     },
     {
         "title": "Foreign Secretary Truss says Falklands part of ‘British family’ after China backs Argentina’s claim to Falklands, Argentina backs Chinese claim to Taiwan",
@@ -376,15 +448,6 @@
         "timestamp": 1644243833,
         "sentiment": -5,
         "published": "February 7, 2022 2:23 PM"
-    },
-    {
-        "title": "NJ to Lift School Masking Mandate in March",
-        "domain": "nbcnewyork.com",
-        "category": "news",
-        "link": "https://www.nbcnewyork.com/news/coronavirus/new-jersey-to-end-mask-requirement-in-schools-as-covid-cases-wane/3538199/",
-        "timestamp": 1644245541,
-        "sentiment": 0,
-        "published": "February 7, 2022 2:52 PM"
     },
     {
         "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
