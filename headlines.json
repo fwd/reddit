@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
         "timestamp": 1644192369,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 7, 2022 12:06 AM"
     },
     {
@@ -54,15 +54,6 @@
         "published": "February 7, 2022 1:13 AM"
     },
     {
-        "title": "NBC Releases Initial Beijing Olympics Viewership Data; Most-Streamed Winter Olympics Day Ever",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/nbc-releases-initial-beijing-olympics-viewership-data-most-streamed-winter-olympics-day-ever-1234927500/",
-        "timestamp": 1644199255,
-        "sentiment": 0,
-        "published": "February 7, 2022 2:00 AM"
-    },
-    {
         "title": "Ottawa shelter harassed by protesters receives over 10,000 donations",
         "domain": "dailyhive.com",
         "category": "worldnews",
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.insider.com/chris-christie-trump-told-truth-revealed-he-wanted-election-overturned-2022-2",
         "timestamp": 1644206493,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 7, 2022 4:01 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
         "timestamp": 1644206815,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 7, 2022 4:06 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
         "timestamp": 1644222023,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 7, 2022 8:20 AM"
     },
     {
@@ -171,15 +162,6 @@
         "published": "February 7, 2022 10:13 AM"
     },
     {
-        "title": "Ozark Showrunner Just Revealed the Real Reason Season 4 Has a Part 2.",
-        "domain": "goodhousekeeping.com",
-        "category": "television",
-        "link": "https://www.goodhousekeeping.com/life/entertainment/a38941888/ozark-season-4-part-2-details-netflix/",
-        "timestamp": 1644231097,
-        "sentiment": 0,
-        "published": "February 7, 2022 10:51 AM"
-    },
-    {
         "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
         "domain": "theguardian.com",
         "category": "television",
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
         "timestamp": 1644232551,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 7, 2022 11:15 AM"
     },
     {
@@ -205,6 +187,87 @@
         "timestamp": 1644234158,
         "sentiment": 0,
         "published": "February 7, 2022 11:42 AM"
+    },
+    {
+        "title": "Frontier Airlines buying Spirit in $3B budget carrier deal",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
+        "timestamp": 1644235067,
+        "sentiment": -5,
+        "published": "February 7, 2022 11:57 AM"
+    },
+    {
+        "title": "‘Sister Boniface’: Crime-Solving Nun Gets the Spotlight in ‘Father Brown’ Spinoff",
+        "domain": "tvinsider.com",
+        "category": "television",
+        "link": "https://www.tvinsider.com/1031291/sister-boniface-father-brown-spinoff-britbox/",
+        "timestamp": 1644235865,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:11 PM"
+    },
+    {
+        "title": "'Keep Pushing': Momentum Grows Behind Effort to Ban Stock Trading",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/07/keep-pushing-momentum-grows-behind-effort-ban-stock-trading",
+        "timestamp": 1644236367,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:19 PM"
+    },
+    {
+        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
+        "timestamp": 1644236920,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:28 PM"
+    },
+    {
+        "title": "Spotify CEO apologizes to staff for Joe Rogan controversy as episodes get removed",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/07/spotify-ceo-apologizes-to-staff-for-joe-rogan-issue-episodes-get-removed.html",
+        "timestamp": 1644236993,
+        "sentiment": -5,
+        "published": "February 7, 2022 12:29 PM"
+    },
+    {
+        "title": "Madison Cawthorn backed the Capitol attack. Will he be barred from office? | Jan-Werner Müller",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/07/madison-cawthorn-backed-the-capitol-attack-will-he-be-barred-from-office",
+        "timestamp": 1644237846,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:44 PM"
+    },
+    {
+        "title": "Boxes improperly removed from White House recovered at Trump's Mar-a-Lago: report",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/593065-boxes-improperly-removed-from-white-house-recovered-at-trumps-mar-a",
+        "timestamp": 1644238370,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:52 PM"
+    },
+    {
+        "title": "NBC Releases Initial Beijing Olympics Viewership Data; Most-Streamed Winter Olympics Day Ever",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/nbc-releases-initial-beijing-olympics-viewership-data-most-streamed-winter-olympics-day-ever-1234927500/",
+        "timestamp": 1644199255,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:00 AM"
+    },
+    {
+        "title": "Ozark Showrunner Just Revealed the Real Reason Season 4 Has a Part 2.",
+        "domain": "goodhousekeeping.com",
+        "category": "television",
+        "link": "https://www.goodhousekeeping.com/life/entertainment/a38941888/ozark-season-4-part-2-details-netflix/",
+        "timestamp": 1644231097,
+        "sentiment": 0,
+        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
@@ -4075,15 +4138,6 @@
         "timestamp": 1643677070,
         "sentiment": 3,
         "published": "February 1, 2022 12:57 AM"
-    },
-    {
-        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
-        "timestamp": 1643678865,
-        "sentiment": -11,
-        "published": "February 1, 2022 1:27 AM"
     },
     {
         "title": "‘I was born free, I’ll die free’: Man turns down vaccine at expense of a lifesaving transplant",
