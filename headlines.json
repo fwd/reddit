@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
         "timestamp": 1644192369,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 7, 2022 12:06 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-originals-lilyhammer-anniversary-1235173228/",
         "timestamp": 1644194646,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "February 7, 2022 12:44 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/nbc-releases-initial-beijing-olympics-viewership-data-most-streamed-winter-olympics-day-ever-1234927500/",
         "timestamp": 1644199255,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "February 7, 2022 2:00 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "politics",
         "link": "https://www.insider.com/chris-christie-trump-told-truth-revealed-he-wanted-election-overturned-2022-2",
         "timestamp": 1644206493,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 7, 2022 4:01 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
         "timestamp": 1644206815,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 7, 2022 4:06 AM"
     },
     {
@@ -144,6 +144,15 @@
         "published": "February 7, 2022 6:34 AM"
     },
     {
+        "title": "Senate Democratic leaders are now open to a congressional stock trading ban after initial reluctance",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
+        "timestamp": 1644222023,
+        "sentiment": 2,
+        "published": "February 7, 2022 8:20 AM"
+    },
+    {
         "title": "Italian Priest Who Refused to Get Vaccinated Because He Believed Vaccines were Made Using 'Aborted Embryos' Dies of Covid-19",
         "domain": "ibtimes.sg",
         "category": "worldnews",
@@ -167,7 +176,7 @@
         "category": "television",
         "link": "https://www.goodhousekeeping.com/life/entertainment/a38941888/ozark-season-4-part-2-details-netflix/",
         "timestamp": 1644231097,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "February 7, 2022 10:51 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
         "timestamp": 1644231177,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "February 7, 2022 10:52 AM"
     },
     {
@@ -185,8 +194,17 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
         "timestamp": 1644232551,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 7, 2022 11:15 AM"
+    },
+    {
+        "title": "Channel 4 announces 100% disabled presenting team for Winter Paralympics",
+        "domain": "channel4.com",
+        "category": "television",
+        "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
+        "timestamp": 1644234158,
+        "sentiment": 0,
+        "published": "February 7, 2022 11:42 AM"
     },
     {
         "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
