@@ -1,11 +1,20 @@
 [
     {
+        "title": "Evers vetoes bills banning critical race theory, extending teen work hours",
+        "domain": "nbc15.com",
+        "category": "politics",
+        "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
+        "timestamp": 1644192369,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:06 AM"
+    },
+    {
         "title": "Foreign Secretary Truss says Falklands part of ‘British family’ after China backs Argentina’s claim to Falklands, Argentina backs Chinese claim to Taiwan",
         "domain": "theguardian.com",
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:14 AM"
     },
     {
@@ -16,6 +25,33 @@
         "timestamp": 1644194646,
         "sentiment": 0,
         "published": "February 7, 2022 12:44 AM"
+    },
+    {
+        "title": "Ottawa mayor declares state of emergency to deal with trucking blockade",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
+        "timestamp": 1644195109,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:51 AM"
+    },
+    {
+        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
+        "domain": "uk.sports.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
+        "timestamp": 1644195822,
+        "sentiment": -2,
+        "published": "February 7, 2022 1:03 AM"
+    },
+    {
+        "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
+        "timestamp": 1644196395,
+        "sentiment": 0,
+        "published": "February 7, 2022 1:13 AM"
     },
     {
         "title": "An Olympic question that won't go away: Where is \"vanished\" Chinese tennis star, Peng Shuai?",
