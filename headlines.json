@@ -5,17 +5,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 12:14 AM"
-    },
-    {
-        "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
-        "timestamp": 1644196395,
-        "sentiment": -3,
-        "published": "February 7, 2022 1:13 AM"
     },
     {
         "title": "Ottawa shelter harassed by protesters receives over 10,000 donations",
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
         "timestamp": 1644202518,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 2:55 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
         "timestamp": 1644206633,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 4:03 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
         "timestamp": 1644215651,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 6:34 AM"
     },
     {
@@ -77,8 +68,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/07/europe/yelnya-russian-hardware-ukraine-border-intl/index.html",
         "timestamp": 1644230721,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 10:45 AM"
+    },
+    {
+        "title": "Israeli engineers develop implants to help paralyzed people walk again",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/health-and-wellness/article-695725",
+        "timestamp": 1644231119,
+        "sentiment": -5,
+        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
@@ -86,7 +86,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
         "timestamp": 1644231177,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 10:52 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "television",
         "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
         "timestamp": 1644234158,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 11:42 AM"
     },
     {
@@ -117,21 +117,12 @@
         "published": "February 7, 2022 11:57 AM"
     },
     {
-        "title": "‘Sister Boniface’: Crime-Solving Nun Gets the Spotlight in ‘Father Brown’ Spinoff",
-        "domain": "tvinsider.com",
-        "category": "television",
-        "link": "https://www.tvinsider.com/1031291/sister-boniface-father-brown-spinoff-britbox/",
-        "timestamp": 1644235865,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:11 PM"
-    },
-    {
         "title": "China restores Fight Club ending after backlash",
         "domain": "bbc.com",
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60285068",
         "timestamp": 1644236227,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 12:17 PM"
     },
     {
@@ -167,8 +158,17 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/2/7/ukraine-to-unleash-bloody-hell-on-russia-if-it-invades-expert",
         "timestamp": 1644241823,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 7, 2022 1:50 PM"
+    },
+    {
+        "title": "‘Giant obstacle course’: call to reroute major shipping lanes to protect blue whales | The Guardian",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/feb/07/change-lane-whales-ahead-sri-lanka-urged-to-reroute-shipping-traffic",
+        "timestamp": 1644242263,
+        "sentiment": -5,
+        "published": "February 7, 2022 1:57 PM"
     },
     {
         "title": "Woman falls to death after Florida draw bridge she was crossing opens",
@@ -212,7 +212,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/zendaya-reacts-dare-euphoria-glorifying-drugs-1234696961/",
         "timestamp": 1644246142,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 3:02 PM"
     },
     {
@@ -223,15 +223,6 @@
         "timestamp": 1644246583,
         "sentiment": 0,
         "published": "February 7, 2022 3:09 PM"
-    },
-    {
-        "title": "Opinion: The RNC turns into an Orwellian horror show",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/opinions/2022/02/07/rnc-censures-cheney/",
-        "timestamp": 1644247633,
-        "sentiment": 0,
-        "published": "February 7, 2022 3:27 PM"
     },
     {
         "title": "Jill Biden says she's 'disappointed' Democrats axed free community college from Biden's plan",
@@ -248,7 +239,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-lord-of-the-rings-trailer-date-super-bowl-1235088033/",
         "timestamp": 1644249690,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 4:01 PM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/catherine-zeta-jones-star-national-treasure-disney-plus-series-1234927537/",
         "timestamp": 1644249720,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 4:02 PM"
     },
     {
@@ -279,6 +270,78 @@
         "published": "February 7, 2022 4:18 PM"
     },
     {
+        "title": "\"There Is A Right To Terminate Pregnancy On Ground Of Rape\": Uttarakhand High Court Allows Termination Of 28 Weeks Foetus\"",
+        "domain": "livelaw.in",
+        "category": "news",
+        "link": "https://www.livelaw.in/news-updates/uttarakhand-high-court-allows-medical-termination-of-pregnancy-28-weeks-foetus-ground-of-rape-191297",
+        "timestamp": 1644252280,
+        "sentiment": -3,
+        "published": "February 7, 2022 4:44 PM"
+    },
+    {
+        "title": "2nd guilty plea planned in alleged plot to kidnap Whitmer",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/michigan-gretchen-whitmer-77dbb0e98afb0f94774b692a68457aab",
+        "timestamp": 1644254016,
+        "sentiment": -3,
+        "published": "February 7, 2022 5:13 PM"
+    },
+    {
+        "title": "TV, Interrupted: Why Swamp Thing Should Be Resurrected",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/758726/tv-interrupted-why-swamp-thing-should-be-resurrected/",
+        "timestamp": 1644255704,
+        "sentiment": -2,
+        "published": "February 7, 2022 5:41 PM"
+    },
+    {
+        "title": "Trump Busted for Hoarding Kim Jong-un ‘Love Letters’ at Mar-a-Lago",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-national-archives-kim-jong-un-mar-a-lago-1295991/",
+        "timestamp": 1644256092,
+        "sentiment": 0,
+        "published": "February 7, 2022 5:48 PM"
+    },
+    {
+        "title": "Mayim Bialik Doesn’t Know How ‘Jeopardy’s’ Hosting Succession Will Shake Out: \"I try not to pay attention [to hosting criticism]... I’m female, and as much as men and women can and should do the same things, women are perceived differently. I really try to be a neutral presence as much as possible.\"",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/mayim-bialik-jeopardy-host-1235168705",
+        "timestamp": 1644257910,
+        "sentiment": -2,
+        "published": "February 7, 2022 6:18 PM"
+    },
+    {
+        "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
+        "timestamp": 1644196395,
+        "sentiment": -3,
+        "published": "February 7, 2022 1:13 AM"
+    },
+    {
+        "title": "‘Sister Boniface’: Crime-Solving Nun Gets the Spotlight in ‘Father Brown’ Spinoff",
+        "domain": "tvinsider.com",
+        "category": "television",
+        "link": "https://www.tvinsider.com/1031291/sister-boniface-father-brown-spinoff-britbox/",
+        "timestamp": 1644235865,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:11 PM"
+    },
+    {
+        "title": "Opinion: The RNC turns into an Orwellian horror show",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/02/07/rnc-censures-cheney/",
+        "timestamp": 1644247633,
+        "sentiment": 0,
+        "published": "February 7, 2022 3:27 PM"
+    },
+    {
         "title": "Englands oldest pub, possibly 1,229 years old, shuts doors due to coronavirus hardships",
         "domain": "washingtonpost.com",
         "category": "worldnews",
@@ -297,15 +360,6 @@
         "published": "February 7, 2022 4:28 PM"
     },
     {
-        "title": "\"There Is A Right To Terminate Pregnancy On Ground Of Rape\": Uttarakhand High Court Allows Termination Of 28 Weeks Foetus\"",
-        "domain": "livelaw.in",
-        "category": "news",
-        "link": "https://www.livelaw.in/news-updates/uttarakhand-high-court-allows-medical-termination-of-pregnancy-28-weeks-foetus-ground-of-rape-191297",
-        "timestamp": 1644252280,
-        "sentiment": -3,
-        "published": "February 7, 2022 4:44 PM"
-    },
-    {
         "title": "Ottawa mayor declares state of emergency to deal with trucking blockade",
         "domain": "reuters.com",
         "category": "worldnews",
@@ -313,15 +367,6 @@
         "timestamp": 1644195109,
         "sentiment": 2,
         "published": "February 7, 2022 12:51 AM"
-    },
-    {
-        "title": "Israeli engineers develop implants to help paralyzed people walk again",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/health-and-wellness/article-695725",
-        "timestamp": 1644231119,
-        "sentiment": 2,
-        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "After two years of closed borders, Australia welcomes the world back",
