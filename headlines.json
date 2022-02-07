@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.nbc15.com/2022/02/04/evers-vetoes-bills-banning-critical-race-theory-extending-teen-work-hours/",
         "timestamp": 1644192369,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 7, 2022 12:06 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 7, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
         "timestamp": 1644194529,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 12:42 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
         "timestamp": 1644195109,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 7, 2022 12:51 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
         "timestamp": 1644196395,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 1:13 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
         "timestamp": 1644202518,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 7, 2022 2:55 AM"
     },
     {
@@ -68,8 +68,188 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
         "timestamp": 1644204156,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 3:22 AM"
+    },
+    {
+        "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/chris-christie-trump-told-truth-revealed-he-wanted-election-overturned-2022-2",
+        "timestamp": 1644206493,
+        "sentiment": -2,
+        "published": "February 7, 2022 4:01 AM"
+    },
+    {
+        "title": "Several people arrested for bringing gas to 'Freedom Convoy' demonstrators in Ottawa, police say",
+        "domain": "ottawa.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
+        "timestamp": 1644206633,
+        "sentiment": 0,
+        "published": "February 7, 2022 4:03 AM"
+    },
+    {
+        "title": "Capitol rioter wants to subpoena Donald Trump to testify in his defense",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
+        "timestamp": 1644206815,
+        "sentiment": -2,
+        "published": "February 7, 2022 4:06 AM"
+    },
+    {
+        "title": "Spotify CEO condemns Rogan's use of racial slurs, but says company won't be 'silencing' him",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
+        "timestamp": 1644210344,
+        "sentiment": 0,
+        "published": "February 7, 2022 5:05 AM"
+    },
+    {
+        "title": "Japan protests after Russia announces exercise near disputed island",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
+        "timestamp": 1644215651,
+        "sentiment": 0,
+        "published": "February 7, 2022 6:34 AM"
+    },
+    {
+        "title": "Senate Democratic leaders are now open to a congressional stock trading ban after initial reluctance",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
+        "timestamp": 1644222023,
+        "sentiment": -2,
+        "published": "February 7, 2022 8:20 AM"
+    },
+    {
+        "title": "Russia accelerates movement of military hardware towards Ukraine, satellite images show",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/07/europe/yelnya-russian-hardware-ukraine-border-intl/index.html",
+        "timestamp": 1644230721,
+        "sentiment": 0,
+        "published": "February 7, 2022 10:45 AM"
+    },
+    {
+        "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
+        "timestamp": 1644231177,
+        "sentiment": 0,
+        "published": "February 7, 2022 10:52 AM"
+    },
+    {
+        "title": "National Archives had to retrieve Trump White House records from Mar-a-Lago",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
+        "timestamp": 1644232551,
+        "sentiment": -2,
+        "published": "February 7, 2022 11:15 AM"
+    },
+    {
+        "title": "Channel 4 announces 100% disabled presenting team for Winter Paralympics",
+        "domain": "channel4.com",
+        "category": "television",
+        "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
+        "timestamp": 1644234158,
+        "sentiment": 0,
+        "published": "February 7, 2022 11:42 AM"
+    },
+    {
+        "title": "Frontier Airlines buying Spirit in $3B budget carrier deal",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
+        "timestamp": 1644235067,
+        "sentiment": 0,
+        "published": "February 7, 2022 11:57 AM"
+    },
+    {
+        "title": "‘Sister Boniface’: Crime-Solving Nun Gets the Spotlight in ‘Father Brown’ Spinoff",
+        "domain": "tvinsider.com",
+        "category": "television",
+        "link": "https://www.tvinsider.com/1031291/sister-boniface-father-brown-spinoff-britbox/",
+        "timestamp": 1644235865,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:11 PM"
+    },
+    {
+        "title": "China restores Fight Club ending after backlash",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-china-60285068",
+        "timestamp": 1644236227,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:17 PM"
+    },
+    {
+        "title": "'Keep Pushing': Momentum Grows Behind Effort to Ban Stock Trading",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/07/keep-pushing-momentum-grows-behind-effort-ban-stock-trading",
+        "timestamp": 1644236367,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:19 PM"
+    },
+    {
+        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
+        "timestamp": 1644236920,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:28 PM"
+    },
+    {
+        "title": "Madison Cawthorn backed the Capitol attack. Will he be barred from office? | Jan-Werner Müller",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/07/madison-cawthorn-backed-the-capitol-attack-will-he-be-barred-from-office",
+        "timestamp": 1644237846,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:44 PM"
+    },
+    {
+        "title": "Boxes improperly removed from White House recovered at Trump's Mar-a-Lago: report",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/593065-boxes-improperly-removed-from-white-house-recovered-at-trumps-mar-a",
+        "timestamp": 1644238370,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:52 PM"
+    },
+    {
+        "title": "Neo-Nazi student Connor Burke jailed for sharing bomb-making handbook in Minecraft guides",
+        "domain": "uk.news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.news.yahoo.com/neo-nazi-student-connor-burke-075342522.html",
+        "timestamp": 1644239123,
+        "sentiment": 0,
+        "published": "February 7, 2022 1:05 PM"
+    },
+    {
+        "title": "Youngkin account deletes Tweet attacking 17-year-old, but won’t apologize",
+        "domain": "vpm.org",
+        "category": "news",
+        "link": "https://vpm.org/news/articles/29506/youngkin-account-deletes-tweet-attacking-17-year-old-but-wont-apologize",
+        "timestamp": 1644241495,
+        "sentiment": 0,
+        "published": "February 7, 2022 1:44 PM"
+    },
+    {
+        "title": "Woman falls to death after Florida draw bridge she was crossing opens",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/investigation-underway-bicyclist-dies-draw-bridge-opens-florida-rcna15118",
+        "timestamp": 1644242614,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:03 PM"
     },
     {
         "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
@@ -81,42 +261,6 @@
         "published": "February 7, 2022 3:55 AM"
     },
     {
-        "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
-        "domain": "insider.com",
-        "category": "politics",
-        "link": "https://www.insider.com/chris-christie-trump-told-truth-revealed-he-wanted-election-overturned-2022-2",
-        "timestamp": 1644206493,
-        "sentiment": 0,
-        "published": "February 7, 2022 4:01 AM"
-    },
-    {
-        "title": "Several people arrested for bringing gas to 'Freedom Convoy' demonstrators in Ottawa, police say",
-        "domain": "ottawa.ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
-        "timestamp": 1644206633,
-        "sentiment": -4,
-        "published": "February 7, 2022 4:03 AM"
-    },
-    {
-        "title": "Capitol rioter wants to subpoena Donald Trump to testify in his defense",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-subpoena-capitol-riot-b2008928.html",
-        "timestamp": 1644206815,
-        "sentiment": 0,
-        "published": "February 7, 2022 4:06 AM"
-    },
-    {
-        "title": "Spotify CEO condemns Rogan's use of racial slurs, but says company won't be 'silencing' him",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
-        "timestamp": 1644210344,
-        "sentiment": -5,
-        "published": "February 7, 2022 5:05 AM"
-    },
-    {
         "title": "Surveillance video appears to show anti-vaccine protesters trying to set apartment building on fire",
         "domain": "rawstory.com",
         "category": "worldnews",
@@ -124,24 +268,6 @@
         "timestamp": 1644212908,
         "sentiment": -4,
         "published": "February 7, 2022 5:48 AM"
-    },
-    {
-        "title": "Japan protests after Russia announces exercise near disputed island",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
-        "timestamp": 1644215651,
-        "sentiment": -4,
-        "published": "February 7, 2022 6:34 AM"
-    },
-    {
-        "title": "Senate Democratic leaders are now open to a congressional stock trading ban after initial reluctance",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/senate-schumer-vote-banning-lawmakers-trading-stocks-ossoff-2022-2",
-        "timestamp": 1644222023,
-        "sentiment": 0,
-        "published": "February 7, 2022 8:20 AM"
     },
     {
         "title": "Italian Priest Who Refused to Get Vaccinated Because He Believed Vaccines were Made Using 'Aborted Embryos' Dies of Covid-19",
@@ -162,69 +288,6 @@
         "published": "February 7, 2022 10:13 AM"
     },
     {
-        "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/feb/07/the-cosby-show-docuseries-bill-cosby",
-        "timestamp": 1644231177,
-        "sentiment": 0,
-        "published": "February 7, 2022 10:52 AM"
-    },
-    {
-        "title": "National Archives had to retrieve Trump White House records from Mar-a-Lago",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
-        "timestamp": 1644232551,
-        "sentiment": 0,
-        "published": "February 7, 2022 11:15 AM"
-    },
-    {
-        "title": "Channel 4 announces 100% disabled presenting team for Winter Paralympics",
-        "domain": "channel4.com",
-        "category": "television",
-        "link": "https://www.channel4.com/press/news/channel-4-announces-100-disabled-presenting-team-winter-paralympics",
-        "timestamp": 1644234158,
-        "sentiment": 0,
-        "published": "February 7, 2022 11:42 AM"
-    },
-    {
-        "title": "Frontier Airlines buying Spirit in $3B budget carrier deal",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
-        "timestamp": 1644235067,
-        "sentiment": -5,
-        "published": "February 7, 2022 11:57 AM"
-    },
-    {
-        "title": "‘Sister Boniface’: Crime-Solving Nun Gets the Spotlight in ‘Father Brown’ Spinoff",
-        "domain": "tvinsider.com",
-        "category": "television",
-        "link": "https://www.tvinsider.com/1031291/sister-boniface-father-brown-spinoff-britbox/",
-        "timestamp": 1644235865,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:11 PM"
-    },
-    {
-        "title": "'Keep Pushing': Momentum Grows Behind Effort to Ban Stock Trading",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/02/07/keep-pushing-momentum-grows-behind-effort-ban-stock-trading",
-        "timestamp": 1644236367,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:19 PM"
-    },
-    {
-        "title": "Trump advisers drafted more than one executive order to seize voting machines, sources tell CNN",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/01/31/politics/trump-executive-orders-seize-voting-machines/index.html",
-        "timestamp": 1644236920,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:28 PM"
-    },
-    {
         "title": "Spotify CEO apologizes to staff for Joe Rogan controversy as episodes get removed",
         "domain": "cnbc.com",
         "category": "news",
@@ -232,24 +295,6 @@
         "timestamp": 1644236993,
         "sentiment": -5,
         "published": "February 7, 2022 12:29 PM"
-    },
-    {
-        "title": "Madison Cawthorn backed the Capitol attack. Will he be barred from office? | Jan-Werner Müller",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/feb/07/madison-cawthorn-backed-the-capitol-attack-will-he-be-barred-from-office",
-        "timestamp": 1644237846,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:44 PM"
-    },
-    {
-        "title": "Boxes improperly removed from White House recovered at Trump's Mar-a-Lago: report",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/administration/593065-boxes-improperly-removed-from-white-house-recovered-at-trumps-mar-a",
-        "timestamp": 1644238370,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:52 PM"
     },
     {
         "title": "NBC Releases Initial Beijing Olympics Viewership Data; Most-Streamed Winter Olympics Day Ever",
