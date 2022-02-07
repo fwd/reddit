@@ -14,8 +14,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 12:14 AM"
+    },
+    {
+        "title": "Mississippi soldier, missing in action in 1942, finally identified",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
+        "timestamp": 1644194529,
+        "sentiment": 3,
+        "published": "February 7, 2022 12:42 AM"
     },
     {
         "title": "Netflix Celebrates Decade of Originals on 'Lilyhammer' Anniversary",
@@ -32,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
         "timestamp": 1644195109,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 12:51 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "worldnews",
         "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
         "timestamp": 1644195822,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 1:03 AM"
     },
     {
@@ -50,8 +59,35 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
         "timestamp": 1644196395,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 7, 2022 1:13 AM"
+    },
+    {
+        "title": "NBC Releases Initial Beijing Olympics Viewership Data; Most-Streamed Winter Olympics Day Ever",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/nbc-releases-initial-beijing-olympics-viewership-data-most-streamed-winter-olympics-day-ever-1234927500/",
+        "timestamp": 1644199255,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:00 AM"
+    },
+    {
+        "title": "Ottawa shelter harassed by protesters receives over 10,000 donations",
+        "domain": "dailyhive.com",
+        "category": "worldnews",
+        "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
+        "timestamp": 1644202518,
+        "sentiment": -4,
+        "published": "February 7, 2022 2:55 AM"
+    },
+    {
+        "title": "A slot machine in Las Vegas malfunctioned and didn't tell a tourist they won. The gaming board tracked them down",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
+        "timestamp": 1644204156,
+        "sentiment": 3,
+        "published": "February 7, 2022 3:22 AM"
     },
     {
         "title": "An Olympic question that won't go away: Where is \"vanished\" Chinese tennis star, Peng Shuai?",
