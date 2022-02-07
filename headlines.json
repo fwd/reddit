@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
         "timestamp": 1644194529,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 12:42 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
         "timestamp": 1644195109,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 12:51 AM"
-    },
-    {
-        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
-        "domain": "uk.sports.yahoo.com",
-        "category": "worldnews",
-        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
-        "timestamp": 1644195822,
-        "sentiment": -2,
-        "published": "February 7, 2022 1:03 AM"
     },
     {
         "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
         "timestamp": 1644196395,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 1:13 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
         "timestamp": 1644202518,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 2:55 AM"
     },
     {
@@ -86,8 +77,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
         "timestamp": 1644204156,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 3:22 AM"
+    },
+    {
+        "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
+        "domain": "southafricatoday.net",
+        "category": "news",
+        "link": "https://southafricatoday.net/environment/community-in-ecuador-punished-for-trying-to-stop-alleged-palm-oil-pollution/",
+        "timestamp": 1644206133,
+        "sentiment": -5,
+        "published": "February 7, 2022 3:55 AM"
     },
     {
         "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
         "timestamp": 1644206633,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 4:03 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
         "timestamp": 1644210344,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 7, 2022 5:05 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.rawstory.com/truck-protest-apartment-fire-allegations/",
         "timestamp": 1644212908,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 5:48 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
         "timestamp": 1644215651,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 6:34 AM"
     },
     {
@@ -149,8 +149,26 @@
         "category": "worldnews",
         "link": "https://www.ibtimes.sg/italian-priest-who-refused-get-vaccinated-because-he-believed-vaccines-were-made-using-aborted-62617",
         "timestamp": 1644224200,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 7, 2022 8:56 AM"
+    },
+    {
+        "title": "Top hardline Russian general warns Putin NOT to invade Ukraine and accuses him of 'criminal policy'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10484417/Top-hardline-Russian-general-warns-Putin-NOT-invade-Ukraine-accuses-criminal-policy.html",
+        "timestamp": 1644228822,
+        "sentiment": -4,
+        "published": "February 7, 2022 10:13 AM"
+    },
+    {
+        "title": "Ozark Showrunner Just Revealed the Real Reason Season 4 Has a Part 2.",
+        "domain": "goodhousekeeping.com",
+        "category": "television",
+        "link": "https://www.goodhousekeeping.com/life/entertainment/a38941888/ozark-season-4-part-2-details-netflix/",
+        "timestamp": 1644231097,
+        "sentiment": 7,
+        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
@@ -160,6 +178,24 @@
         "timestamp": 1644231177,
         "sentiment": 7,
         "published": "February 7, 2022 10:52 AM"
+    },
+    {
+        "title": "National Archives had to retrieve Trump White House records from Mar-a-Lago",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
+        "timestamp": 1644232551,
+        "sentiment": 0,
+        "published": "February 7, 2022 11:15 AM"
+    },
+    {
+        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
+        "domain": "uk.sports.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
+        "timestamp": 1644195822,
+        "sentiment": -2,
+        "published": "February 7, 2022 1:03 AM"
     },
     {
         "title": "An Olympic question that won't go away: Where is \"vanished\" Chinese tennis star, Peng Shuai?",
