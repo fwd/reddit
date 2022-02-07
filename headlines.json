@@ -5,26 +5,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim",
         "timestamp": 1644192861,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 12:14 AM"
-    },
-    {
-        "title": "Mississippi soldier, missing in action in 1942, finally identified",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
-        "timestamp": 1644194529,
-        "sentiment": -5,
-        "published": "February 7, 2022 12:42 AM"
-    },
-    {
-        "title": "Netflix Celebrates Decade of Originals on 'Lilyhammer' Anniversary",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/netflix-originals-lilyhammer-anniversary-1235173228/",
-        "timestamp": 1644194646,
-        "sentiment": 0,
-        "published": "February 7, 2022 12:44 AM"
     },
     {
         "title": "Ottawa mayor declares state of emergency to deal with trucking blockade",
@@ -32,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/protest-against-vaccine-mandates-paralyzing-canada-capital-mayor-says-2022-02-06/",
         "timestamp": 1644195109,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 12:51 AM"
-    },
-    {
-        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
-        "domain": "uk.sports.yahoo.com",
-        "category": "worldnews",
-        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
-        "timestamp": 1644195822,
-        "sentiment": -2,
-        "published": "February 7, 2022 1:03 AM"
     },
     {
         "title": "Facebook appeal over Cambridge Analytica data rejected by Australian court as ‘divorced from reality’ | Facebook",
@@ -50,7 +23,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/feb/07/facebook-appeal-over-cambridge-analytica-data-rejected-by-australian-court-as-divorced-from-reality",
         "timestamp": 1644196395,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 1:13 AM"
     },
     {
@@ -59,7 +32,7 @@
         "category": "worldnews",
         "link": "https://dailyhive.com/vancouver/ottawa-shelter-sheperds-good-hope-donations",
         "timestamp": 1644202518,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 2:55 AM"
     },
     {
@@ -68,17 +41,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/us/missed-jackpot-malfunction-casino-game-trnd/index.html",
         "timestamp": 1644204156,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 3:22 AM"
-    },
-    {
-        "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
-        "domain": "southafricatoday.net",
-        "category": "news",
-        "link": "https://southafricatoday.net/environment/community-in-ecuador-punished-for-trying-to-stop-alleged-palm-oil-pollution/",
-        "timestamp": 1644206133,
-        "sentiment": -5,
-        "published": "February 7, 2022 3:55 AM"
     },
     {
         "title": "Chris Christie says Trump has accidentally 'told the truth' by revealing he incited the Capitol riot to intimidate Mike Pence into overturning the election",
@@ -95,7 +59,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/several-people-arrested-for-bringing-gas-to-freedom-convoy-demonstrators-in-ottawa-police-say-1.5770413",
         "timestamp": 1644206633,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 4:03 AM"
     },
     {
@@ -104,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/06/media/spotify-joe-rogan-daniel-ek/index.html",
         "timestamp": 1644210344,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 5:05 AM"
     },
     {
@@ -113,7 +77,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/02/0d36c64eacc5-japan-protests-after-russia-announces-exercise-near-disputed-island.html",
         "timestamp": 1644215651,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 6:34 AM"
     },
     {
@@ -122,8 +86,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/07/europe/yelnya-russian-hardware-ukraine-border-intl/index.html",
         "timestamp": 1644230721,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 10:45 AM"
+    },
+    {
+        "title": "Israeli engineers develop implants to help paralyzed people walk again",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/health-and-wellness/article-695725",
+        "timestamp": 1644231119,
+        "sentiment": 2,
+        "published": "February 7, 2022 10:51 AM"
     },
     {
         "title": "The Cosby Show was a groundbreaking show that will forever be tainted",
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://apnews.com/article/business-airlines-d3c52448e9fff3efb3cd82d99a84619c",
         "timestamp": 1644235067,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 11:57 AM"
     },
     {
@@ -171,12 +144,21 @@
         "published": "February 7, 2022 12:11 PM"
     },
     {
+        "title": "After two years of closed borders, Australia welcomes the world back",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/asia-pacific/australia-fully-reopen-borders-vaccinated-travellers-feb-21-2022-02-07/",
+        "timestamp": 1644235947,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:12 PM"
+    },
+    {
         "title": "China restores Fight Club ending after backlash",
         "domain": "bbc.com",
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-60285068",
         "timestamp": 1644236227,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 7, 2022 12:17 PM"
     },
     {
@@ -198,15 +180,6 @@
         "published": "February 7, 2022 12:28 PM"
     },
     {
-        "title": "Madison Cawthorn backed the Capitol attack. Will he be barred from office? | Jan-Werner Müller",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/feb/07/madison-cawthorn-backed-the-capitol-attack-will-he-be-barred-from-office",
-        "timestamp": 1644237846,
-        "sentiment": -2,
-        "published": "February 7, 2022 12:44 PM"
-    },
-    {
         "title": "Boxes improperly removed from White House recovered at Trump's Mar-a-Lago: report",
         "domain": "thehill.com",
         "category": "politics",
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/investigation-underway-bicyclist-dies-draw-bridge-opens-florida-rcna15118",
         "timestamp": 1644242614,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "February 7, 2022 2:03 PM"
     },
     {
@@ -243,6 +216,15 @@
         "published": "February 7, 2022 2:44 PM"
     },
     {
+        "title": "NJ to Lift School Masking Mandate in March",
+        "domain": "nbcnewyork.com",
+        "category": "news",
+        "link": "https://www.nbcnewyork.com/news/coronavirus/new-jersey-to-end-mask-requirement-in-schools-as-covid-cases-wane/3538199/",
+        "timestamp": 1644245541,
+        "sentiment": 0,
+        "published": "February 7, 2022 2:52 PM"
+    },
+    {
         "title": "Zendaya Responds After D.A.R.E. Slams ‘Euphoria’ for ‘Glorifying’ Drugs: Show Is Not a ‘Moral Tale’",
         "domain": "indiewire.com",
         "category": "television",
@@ -259,6 +241,87 @@
         "timestamp": 1644246583,
         "sentiment": -2,
         "published": "February 7, 2022 3:09 PM"
+    },
+    {
+        "title": "Jill Biden says she's 'disappointed' Democrats axed free community college from Biden's plan",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/jill-biden-free-community-college-bbb-2022-2",
+        "timestamp": 1644248546,
+        "sentiment": -2,
+        "published": "February 7, 2022 3:42 PM"
+    },
+    {
+        "title": "Amazon’s ‘Lord of the Rings’ Teaser Trailer to Air During Super Bowl",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-lord-of-the-rings-trailer-date-super-bowl-1235088033/",
+        "timestamp": 1644249690,
+        "sentiment": 0,
+        "published": "February 7, 2022 4:01 PM"
+    },
+    {
+        "title": "Catherine Zeta-Jones To Star In ‘National Treasure’ Disney+ Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/catherine-zeta-jones-star-national-treasure-disney-plus-series-1234927537/",
+        "timestamp": 1644249720,
+        "sentiment": 0,
+        "published": "February 7, 2022 4:02 PM"
+    },
+    {
+        "title": "Paralysed man with severed spine walks thanks to implant",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/science-environment-60258620",
+        "timestamp": 1644250730,
+        "sentiment": 0,
+        "published": "February 7, 2022 4:18 PM"
+    },
+    {
+        "title": "Mississippi soldier, missing in action in 1942, finally identified",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/mississippi-soldier-missing-action-1942-finally-identified-rcna15085",
+        "timestamp": 1644194529,
+        "sentiment": -5,
+        "published": "February 7, 2022 12:42 AM"
+    },
+    {
+        "title": "Netflix Celebrates Decade of Originals on 'Lilyhammer' Anniversary",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/netflix-originals-lilyhammer-anniversary-1235173228/",
+        "timestamp": 1644194646,
+        "sentiment": 0,
+        "published": "February 7, 2022 12:44 AM"
+    },
+    {
+        "title": "UN Ambassador: China Had Uyghur Athlete Be Olympic Torchbearer To Distract From Genocide",
+        "domain": "uk.sports.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.sports.yahoo.com/news/un-ambassador-china-had-uyghur-000543583.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALP-MF5MPV4-hwLpBGkmDjxBxY9dvjkK08Yoz-A1sIrq0KKpkT9YVa1UteYHN2Dr_frjHSUehQNGLiUMtHIiokJEoPoaaqrDMaMgzYm4F8r4RNTzoKOpVi6jQ3J-p8oVo94-iEQCInxl_HxYVt4-aGeVMMgrVa01sR1o4boiu-Pv",
+        "timestamp": 1644195822,
+        "sentiment": -2,
+        "published": "February 7, 2022 1:03 AM"
+    },
+    {
+        "title": "Community in Ecuador punished for trying to stop alleged palm oil pollution",
+        "domain": "southafricatoday.net",
+        "category": "news",
+        "link": "https://southafricatoday.net/environment/community-in-ecuador-punished-for-trying-to-stop-alleged-palm-oil-pollution/",
+        "timestamp": 1644206133,
+        "sentiment": -5,
+        "published": "February 7, 2022 3:55 AM"
+    },
+    {
+        "title": "Madison Cawthorn backed the Capitol attack. Will he be barred from office? | Jan-Werner Müller",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/07/madison-cawthorn-backed-the-capitol-attack-will-he-be-barred-from-office",
+        "timestamp": 1644237846,
+        "sentiment": -2,
+        "published": "February 7, 2022 12:44 PM"
     },
     {
         "title": "Evers vetoes bills banning critical race theory, extending teen work hours",
