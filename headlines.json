@@ -5,8 +5,17 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220208-world-must-work-together-to-tackle-plastic-ocean-threat-wwf",
         "timestamp": 1644279645,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 8, 2022 12:20 AM"
+    },
+    {
+        "title": "World's biggest companies accused of exaggerating their climate actions",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
+        "timestamp": 1644279933,
+        "sentiment": -1,
+        "published": "February 8, 2022 12:25 AM"
     },
     {
         "title": "California to lift indoor mask mandate for vaccinated people on Feb. 15, Newsom says",
@@ -14,7 +23,7 @@
         "category": "news",
         "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
         "timestamp": 1644280106,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 8, 2022 12:28 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644283011,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 8, 2022 1:16 AM"
     },
     {
@@ -41,8 +50,17 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644284856,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 8, 2022 1:47 AM"
+    },
+    {
+        "title": "Protesters for Amir Locke, a Black man killed by Minneapolis police, demand police chief's resignation",
+        "domain": "pbs.org",
+        "category": "news",
+        "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
+        "timestamp": 1644287608,
+        "sentiment": -3,
+        "published": "February 8, 2022 2:33 AM"
     },
     {
         "title": "A slot machine in Las Vegas malfunctioned and didn't tell a tourist they won. The gaming board tracked them down",
