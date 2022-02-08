@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220208-world-must-work-together-to-tackle-plastic-ocean-threat-wwf",
         "timestamp": 1644279645,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 12:20 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
         "timestamp": 1644280106,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 12:28 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644283011,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 1:16 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644284856,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 1:47 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "February 8, 2022 1:51 AM"
     },
     {
-        "title": "Surveillance footage shows 2 men trying to set an apartment building on fire near Ottawa trucker protests",
-        "domain": "dailydot.com",
-        "category": "worldnews",
-        "link": "https://www.dailydot.com/debug/trucker-protesters-burn-down-apartment-building-footage/",
-        "timestamp": 1644286400,
-        "sentiment": -1,
-        "published": "February 8, 2022 2:13 AM"
-    },
-    {
         "title": "Protesters for Amir Locke, a Black man killed by Minneapolis police, demand police chief's resignation",
         "domain": "pbs.org",
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
         "timestamp": 1644287608,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 2:33 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/07/macron-warns-dont-expect-miracles-in-talks-with-putin-over-ukraine",
         "timestamp": 1644288522,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 2:48 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/07/irs-to-end-use-of-facial-recognition-software-to-verify-online-account.html",
         "timestamp": 1644292295,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 3:51 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/canada-police-seen-getting-tough-trucker-protests-continue-2022-02-07/",
         "timestamp": 1644304286,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 7:11 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/business/2022/feb/08/bp-profits-gas-oil-prices-shell-energy-crisis-windfall-tax",
         "timestamp": 1644313245,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 9:40 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/technology-60293057",
         "timestamp": 1644318140,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 11:02 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/los-angeles-nun-80-prison-835000-school-theft-82733427",
         "timestamp": 1644319301,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 8, 2022 11:21 AM"
     },
     {
@@ -189,6 +180,24 @@
         "published": "February 8, 2022 11:29 AM"
     },
     {
+        "title": "Rightwing lobby group Alec driving laws to blacklist companies that boycott the oil industry",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/feb/08/rightwing-lobby-alec-blacklist-companies-boycott-oil-industry",
+        "timestamp": 1644321131,
+        "sentiment": 0,
+        "published": "February 8, 2022 11:52 AM"
+    },
+    {
+        "title": "Retired pope asks pardon for abuse, but admits no wrongdoing",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/europe-religion-germany-sexual-abuse-by-clergy-sexual-abuse-3461ba1b9adfcfb884027361263f1706",
+        "timestamp": 1644322761,
+        "sentiment": 0,
+        "published": "February 8, 2022 12:19 PM"
+    },
+    {
         "title": "Why You Should Watch 'Peacemaker' -- John Cena Is A Star",
         "domain": "uproxx.com",
         "category": "television",
@@ -196,6 +205,33 @@
         "timestamp": 1644323196,
         "sentiment": 1,
         "published": "February 8, 2022 12:26 PM"
+    },
+    {
+        "title": "Canada Denounces Republican Support for COVID Protests",
+        "domain": "time.com",
+        "category": "worldnews",
+        "link": "https://time.com/6146027/canada-republican-covid-protests/",
+        "timestamp": 1644325132,
+        "sentiment": 0,
+        "published": "February 8, 2022 12:58 PM"
+    },
+    {
+        "title": "Taliban elite educate daughters abroad while millions of girls are banned from classrooms",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10488953/Taliban-elite-educate-daughters-abroad-millions-girls-banned-classrooms.html",
+        "timestamp": 1644326041,
+        "sentiment": 0,
+        "published": "February 8, 2022 1:14 PM"
+    },
+    {
+        "title": "Surveillance footage shows 2 men trying to set an apartment building on fire near Ottawa trucker protests",
+        "domain": "dailydot.com",
+        "category": "worldnews",
+        "link": "https://www.dailydot.com/debug/trucker-protesters-burn-down-apartment-building-footage/",
+        "timestamp": 1644286400,
+        "sentiment": -1,
+        "published": "February 8, 2022 2:13 AM"
     },
     {
         "title": "'It has to stop': Trudeau accuses protesters of blockading 'democracy' during Commons debate",
