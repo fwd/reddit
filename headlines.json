@@ -9,15 +9,6 @@
         "published": "February 8, 2022 12:20 AM"
     },
     {
-        "title": "World's biggest companies accused of exaggerating their climate actions",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
-        "timestamp": 1644279933,
-        "sentiment": -4,
-        "published": "February 8, 2022 12:25 AM"
-    },
-    {
         "title": "California to lift indoor mask mandate for vaccinated people on Feb. 15, Newsom says",
         "domain": "abc7.com",
         "category": "news",
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/reacher-season-2-renewed-amazon-prime-video",
         "timestamp": 1644280295,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 8, 2022 12:31 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "politics",
         "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
         "timestamp": 1644281003,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 8, 2022 12:43 AM"
     },
     {
@@ -68,8 +59,17 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/chris-christie-trump-incite-capitol-riot_n_620173b9e4b0f8a1b8481d35",
         "timestamp": 1644285118,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "February 8, 2022 1:51 AM"
+    },
+    {
+        "title": "Surveillance footage shows 2 men trying to set an apartment building on fire near Ottawa trucker protests",
+        "domain": "dailydot.com",
+        "category": "worldnews",
+        "link": "https://www.dailydot.com/debug/trucker-protesters-burn-down-apartment-building-footage/",
+        "timestamp": 1644286400,
+        "sentiment": -4,
+        "published": "February 8, 2022 2:13 AM"
     },
     {
         "title": "Protesters for Amir Locke, a Black man killed by Minneapolis police, demand police chief's resignation",
@@ -88,6 +88,24 @@
         "timestamp": 1644288522,
         "sentiment": -4,
         "published": "February 8, 2022 2:48 AM"
+    },
+    {
+        "title": "Trevor Noah Rips Apart Joe Rogan’s Bullshit ‘Planet of the Apes’ Apology",
+        "domain": "thedailybeast.com",
+        "category": "television",
+        "link": "https://www.thedailybeast.com/trevor-noah-rips-apart-joe-rogans-bullshit-planet-of-the-apes-apology",
+        "timestamp": 1644299869,
+        "sentiment": 1,
+        "published": "February 8, 2022 5:57 AM"
+    },
+    {
+        "title": "World's biggest companies accused of exaggerating their climate actions",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
+        "timestamp": 1644279933,
+        "sentiment": -4,
+        "published": "February 8, 2022 12:25 AM"
     },
     {
         "title": "A slot machine in Las Vegas malfunctioned and didn't tell a tourist they won. The gaming board tracked them down",
