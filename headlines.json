@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/01/14/if-biden-doesnt-run-democrats-have-plenty-strong-candidates-2024/",
         "timestamp": 1644278895,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "February 8, 2022 12:08 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220208-world-must-work-together-to-tackle-plastic-ocean-threat-wwf",
         "timestamp": 1644279645,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 8, 2022 12:20 AM"
-    },
-    {
-        "title": "World's biggest companies accused of exaggerating their climate actions",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
-        "timestamp": 1644279933,
-        "sentiment": 0,
-        "published": "February 8, 2022 12:25 AM"
     },
     {
         "title": "California to lift indoor mask mandate for vaccinated people on Feb. 15, Newsom says",
@@ -41,7 +32,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/reacher-season-2-renewed-amazon-prime-video",
         "timestamp": 1644280295,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 8, 2022 12:31 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "politics",
         "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
         "timestamp": 1644281003,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "February 8, 2022 12:43 AM"
     },
     {
@@ -63,12 +54,21 @@
         "published": "February 8, 2022 1:16 AM"
     },
     {
+        "title": "'It has to stop': Trudeau accuses protesters of blockading 'democracy' during Commons debate",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/ottawa-protest-parliament-1.6342221",
+        "timestamp": 1644283100,
+        "sentiment": -4,
+        "published": "February 8, 2022 1:18 AM"
+    },
+    {
         "title": "Removing trucks could be almost 'impossible,' say heavy towing experts",
         "domain": "cbc.ca",
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644284856,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 8, 2022 1:47 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/07/us/pamela-moses-sentence-tennessee.html",
         "timestamp": 1644284862,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "February 8, 2022 1:47 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/chris-christie-trump-incite-capitol-riot_n_620173b9e4b0f8a1b8481d35",
         "timestamp": 1644285118,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "February 8, 2022 1:51 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.dailydot.com/debug/trucker-protesters-burn-down-apartment-building-footage/",
         "timestamp": 1644286400,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 8, 2022 2:13 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/07/macron-warns-dont-expect-miracles-in-talks-with-putin-over-ukraine",
         "timestamp": 1644288522,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 8, 2022 2:48 AM"
     },
     {
@@ -126,6 +126,51 @@
         "published": "February 8, 2022 3:51 AM"
     },
     {
+        "title": "Donald Trump illegally shredded documents by hand, used burn bags legal expert says",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/watch/trump-ripping-up-shredding-documents-by-hand-illegal-legal-expert-says-132655685640",
+        "timestamp": 1644297555,
+        "sentiment": 4,
+        "published": "February 8, 2022 5:19 AM"
+    },
+    {
+        "title": "Tennessee Black Lives Matter Activist Gets 6 Years in Prison for “Illegal Voting”",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2022/2/7/headlines/tennessee_black_lives_matter_activist_gets_6_years_in_prison_for_illegal_voting",
+        "timestamp": 1644314413,
+        "sentiment": 4,
+        "published": "February 8, 2022 10:00 AM"
+    },
+    {
+        "title": "Brie Larson & Jeremy Renner Set Non-Scripted Series ‘Growing Up’ & ‘Rennervations’ At Disney+",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/brie-larson-jeremy-renner-growing-up-rennervations-disney-plus-1234927812/",
+        "timestamp": 1644315633,
+        "sentiment": -1,
+        "published": "February 8, 2022 10:20 AM"
+    },
+    {
+        "title": "Porn sites will be legally required to verify users’ age",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/technology-60293057",
+        "timestamp": 1644318140,
+        "sentiment": -4,
+        "published": "February 8, 2022 11:02 AM"
+    },
+    {
+        "title": "World's biggest companies accused of exaggerating their climate actions",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
+        "timestamp": 1644279933,
+        "sentiment": 0,
+        "published": "February 8, 2022 12:25 AM"
+    },
+    {
         "title": "Leslie Jones free to post Olympics videos after 3rd-party error resolved",
         "domain": "apnews.com",
         "category": "television",
@@ -133,15 +178,6 @@
         "timestamp": 1644294809,
         "sentiment": 1,
         "published": "February 8, 2022 4:33 AM"
-    },
-    {
-        "title": "Donald Trump illegally shredded documents by hand, used burn bags legal expert says",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/the-reidout/watch/trump-ripping-up-shredding-documents-by-hand-illegal-legal-expert-says-132655685640",
-        "timestamp": 1644297555,
-        "sentiment": 2,
-        "published": "February 8, 2022 5:19 AM"
     },
     {
         "title": "Trevor Noah Rips Apart Joe Rogan’s Bullshit ‘Planet of the Apes’ Apology",
