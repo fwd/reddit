@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220208-world-must-work-together-to-tackle-plastic-ocean-threat-wwf",
         "timestamp": 1644279645,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 8, 2022 12:20 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/amp/2022/02/07/study-worlds-biggest-firms-seen-exaggerating-their-climate-actions.html",
         "timestamp": 1644279933,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 8, 2022 12:25 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/reacher-season-2-renewed-amazon-prime-video",
         "timestamp": 1644280295,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 8, 2022 12:31 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644284856,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "February 8, 2022 1:47 AM"
     },
     {
@@ -61,6 +61,15 @@
         "timestamp": 1644287608,
         "sentiment": -3,
         "published": "February 8, 2022 2:33 AM"
+    },
+    {
+        "title": "Talks between Macron and Putin fail to produce Ukraine breakthrough",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/07/macron-warns-dont-expect-miracles-in-talks-with-putin-over-ukraine",
+        "timestamp": 1644288522,
+        "sentiment": -4,
+        "published": "February 8, 2022 2:48 AM"
     },
     {
         "title": "A slot machine in Las Vegas malfunctioned and didn't tell a tourist they won. The gaming board tracked them down",
