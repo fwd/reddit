@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/01/14/if-biden-doesnt-run-democrats-have-plenty-strong-candidates-2024/",
         "timestamp": 1644278895,
-        "sentiment": -6,
+        "sentiment": -11,
         "published": "February 8, 2022 12:08 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
         "timestamp": 1644280106,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 8, 2022 12:28 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
         "timestamp": 1644281003,
-        "sentiment": -6,
+        "sentiment": -11,
         "published": "February 8, 2022 12:43 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644283011,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 8, 2022 1:16 AM"
     },
     {
@@ -63,12 +63,21 @@
         "published": "February 8, 2022 1:47 AM"
     },
     {
+        "title": "Black Woman’s Bid to Regain Voting Rights Ends With a 6-Year Prison Sentence | Missteps by various officials put a Tennessee woman on a collision course with the law. Supporters say the sentence underscores racial disparities in voter fraud cases",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/07/us/pamela-moses-sentence-tennessee.html",
+        "timestamp": 1644284862,
+        "sentiment": -11,
+        "published": "February 8, 2022 1:47 AM"
+    },
+    {
         "title": "Chris Christie: Trump Incited Jan. 6 Capitol Riot To 'Intimidate' Pence, Congress",
         "domain": "huffpost.com",
         "category": "politics",
         "link": "https://www.huffpost.com/entry/chris-christie-trump-incite-capitol-riot_n_620173b9e4b0f8a1b8481d35",
         "timestamp": 1644285118,
-        "sentiment": -6,
+        "sentiment": -11,
         "published": "February 8, 2022 1:51 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
         "timestamp": 1644287608,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 8, 2022 2:33 AM"
     },
     {
@@ -97,6 +106,15 @@
         "timestamp": 1644288522,
         "sentiment": -1,
         "published": "February 8, 2022 2:48 AM"
+    },
+    {
+        "title": "Leslie Jones free to post Olympics videos after 3rd-party error resolved",
+        "domain": "apnews.com",
+        "category": "television",
+        "link": "https://apnews.com/article/winter-olympics-leslie-jones-posts-b1cdf7983e8f9966014aeabc5f37ff20",
+        "timestamp": 1644294809,
+        "sentiment": 1,
+        "published": "February 8, 2022 4:33 AM"
     },
     {
         "title": "Trevor Noah Rips Apart Joe Rogan’s Bullshit ‘Planet of the Apes’ Apology",
