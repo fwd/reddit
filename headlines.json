@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
         "timestamp": 1644280106,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 12:28 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "television",
         "link": "https://www.thewrap.com/reacher-season-2-renewed-amazon-prime-video",
         "timestamp": 1644280295,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 8, 2022 12:31 AM"
-    },
-    {
-        "title": "More Miami voters report illegitimate party affiliation changes",
-        "domain": "local10.com",
-        "category": "politics",
-        "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
-        "timestamp": 1644281003,
-        "sentiment": -11,
-        "published": "February 8, 2022 12:43 AM"
     },
     {
         "title": "Removing trucks could be almost 'impossible,' say heavy towing experts | CBC News",
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644283011,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 1:16 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
         "timestamp": 1644287608,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 2:33 AM"
     },
     {
@@ -88,15 +79,6 @@
         "timestamp": 1644288522,
         "sentiment": 1,
         "published": "February 8, 2022 2:48 AM"
-    },
-    {
-        "title": "IRS will no longer use controversial facial recognition software to verify online accounts",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/07/irs-to-end-use-of-facial-recognition-software-to-verify-online-account.html",
-        "timestamp": 1644292295,
-        "sentiment": -1,
-        "published": "February 8, 2022 3:51 AM"
     },
     {
         "title": "Donald Trump illegally shredded documents by hand, used burn bags legal expert says",
@@ -113,17 +95,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/business/2022/feb/08/bp-profits-gas-oil-prices-shell-energy-crisis-windfall-tax",
         "timestamp": 1644313245,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 9:40 AM"
-    },
-    {
-        "title": "Tennessee Black Lives Matter Activist Gets 6 Years in Prison for “Illegal Voting”",
-        "domain": "democracynow.org",
-        "category": "politics",
-        "link": "https://www.democracynow.org/2022/2/7/headlines/tennessee_black_lives_matter_activist_gets_6_years_in_prison_for_illegal_voting",
-        "timestamp": 1644314413,
-        "sentiment": -11,
-        "published": "February 8, 2022 10:00 AM"
     },
     {
         "title": "Brie Larson & Jeremy Renner Set Non-Scripted Series ‘Growing Up’ & ‘Rennervations’ At Disney+",
@@ -131,7 +104,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/brie-larson-jeremy-renner-growing-up-rennervations-disney-plus-1234927812/",
         "timestamp": 1644315633,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 8, 2022 10:20 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/los-angeles-nun-80-prison-835000-school-theft-82733427",
         "timestamp": 1644319301,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 11:21 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://apnews.com/article/death-of-george-floyd-george-floyd-minneapolis-thomas-lane-tou-thao-f4b439de309f349ae9dc41ca84527145",
         "timestamp": 1644319759,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 11:29 AM"
     },
     {
@@ -171,12 +144,21 @@
         "published": "February 8, 2022 11:29 AM"
     },
     {
+        "title": "With Alabama Ruling, SCOTUS Delivers 'Another Major Blow' to Voting Rights Act | \"We must end the filibuster so the Senate can pass voting rights protections,\" declares the Congressional Progressive Caucus.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/07/alabama-ruling-scotus-delivers-another-major-blow-voting-rights-act",
+        "timestamp": 1644320683,
+        "sentiment": -11,
+        "published": "February 8, 2022 11:44 AM"
+    },
+    {
         "title": "Netflix Previews 19 Projects in Germany, Austria And Switzerland Including Wealth Of New Shows; Commits Big To The Region",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/02/netflix-19-series-germany-1234928380/",
         "timestamp": 1644322604,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 8, 2022 12:16 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://apnews.com/article/europe-religion-germany-sexual-abuse-by-clergy-sexual-abuse-3461ba1b9adfcfb884027361263f1706",
         "timestamp": 1644322761,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 12:19 PM"
     },
     {
@@ -194,8 +176,17 @@
         "category": "television",
         "link": "https://uproxx.com/tv/why-you-should-watch-peacemaker-john-cena-is-a-star/",
         "timestamp": 1644323196,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 8, 2022 12:26 PM"
+    },
+    {
+        "title": "Pfizer expects $54 billion in 2022 sales on Covid vaccine and treatment pill",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/08/covid-pfizer-pfe-earnings-q4-2021.html",
+        "timestamp": 1644324671,
+        "sentiment": 0,
+        "published": "February 8, 2022 12:51 PM"
     },
     {
         "title": "Canada Denounces Republican Support for COVID Protests",
@@ -216,22 +207,13 @@
         "published": "February 8, 2022 1:00 PM"
     },
     {
-        "title": "Angry Canada truckers block busiest bridge with U.S.; Trudeau faces grilling",
-        "domain": "reuters.com",
+        "title": "Winter Olympics hit by deluge of complaints from athletes",
+        "domain": "bbc.com",
         "category": "worldnews",
-        "link": "https://www.reuters.com/world/americas/angry-canada-truckers-block-busiest-bridge-with-us-trudeau-faces-grilling-2022-02-08/",
-        "timestamp": 1644325512,
+        "link": "https://www.bbc.com/news/world-asia-china-60298184",
+        "timestamp": 1644325755,
         "sentiment": 1,
-        "published": "February 8, 2022 1:05 PM"
-    },
-    {
-        "title": "Taliban elite educate daughters abroad while millions of girls are banned from classrooms",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10488953/Taliban-elite-educate-daughters-abroad-millions-girls-banned-classrooms.html",
-        "timestamp": 1644326041,
-        "sentiment": 1,
-        "published": "February 8, 2022 1:14 PM"
+        "published": "February 8, 2022 1:09 PM"
     },
     {
         "title": "Fox News host Brian Kilmeade says Trump's claim he won Arizona in 2020 is an 'outright lie'",
@@ -248,7 +230,7 @@
         "category": "television",
         "link": "https://whatsondisneyplus.com/marvels-moon-girl-and-devil-dinosaur-characters-revealed/",
         "timestamp": 1644328688,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 8, 2022 1:58 PM"
     },
     {
@@ -257,8 +239,71 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/ivermectin-arkansas-doctor-robert-karas-lawsuit/?ftag=CNM-00-10aab7e&linkId=151265104&s=09",
         "timestamp": 1644329069,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 8, 2022 2:04 PM"
+    },
+    {
+        "title": "Five Olympic skiers disqualified for baggy outfits: 'They destroyed women’s ski jumping'",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/sports/five-olympic-ski-jumpers-disqualified-for-outfits-they-destroyed-womens-ski-jumping-083036244.html",
+        "timestamp": 1644329293,
+        "sentiment": 1,
+        "published": "February 8, 2022 2:08 PM"
+    },
+    {
+        "title": "Hillary Clinton Touts 'but Her Emails' Merch amid Reports Trump Tore Up Important Files",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/hillary-clinton-donald-trump-touts-emails-merch-amid-reports/",
+        "timestamp": 1644330664,
+        "sentiment": -11,
+        "published": "February 8, 2022 2:31 PM"
+    },
+    {
+        "title": "More Miami voters report illegitimate party affiliation changes",
+        "domain": "local10.com",
+        "category": "politics",
+        "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
+        "timestamp": 1644281003,
+        "sentiment": -11,
+        "published": "February 8, 2022 12:43 AM"
+    },
+    {
+        "title": "IRS will no longer use controversial facial recognition software to verify online accounts",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/07/irs-to-end-use-of-facial-recognition-software-to-verify-online-account.html",
+        "timestamp": 1644292295,
+        "sentiment": -1,
+        "published": "February 8, 2022 3:51 AM"
+    },
+    {
+        "title": "Tennessee Black Lives Matter Activist Gets 6 Years in Prison for “Illegal Voting”",
+        "domain": "democracynow.org",
+        "category": "politics",
+        "link": "https://www.democracynow.org/2022/2/7/headlines/tennessee_black_lives_matter_activist_gets_6_years_in_prison_for_illegal_voting",
+        "timestamp": 1644314413,
+        "sentiment": -11,
+        "published": "February 8, 2022 10:00 AM"
+    },
+    {
+        "title": "Angry Canada truckers block busiest bridge with U.S.; Trudeau faces grilling",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/angry-canada-truckers-block-busiest-bridge-with-us-trudeau-faces-grilling-2022-02-08/",
+        "timestamp": 1644325512,
+        "sentiment": 1,
+        "published": "February 8, 2022 1:05 PM"
+    },
+    {
+        "title": "Taliban elite educate daughters abroad while millions of girls are banned from classrooms",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10488953/Taliban-elite-educate-daughters-abroad-millions-girls-banned-classrooms.html",
+        "timestamp": 1644326041,
+        "sentiment": 1,
+        "published": "February 8, 2022 1:14 PM"
     },
     {
         "title": "If Biden doesn’t run, Democrats have plenty of strong candidates for 2024",
