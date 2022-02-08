@@ -5,17 +5,8 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220208-world-must-work-together-to-tackle-plastic-ocean-threat-wwf",
         "timestamp": 1644279645,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 8, 2022 12:20 AM"
-    },
-    {
-        "title": "California to lift indoor mask mandate for vaccinated people on Feb. 15, Newsom says",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
-        "timestamp": 1644280106,
-        "sentiment": 0,
-        "published": "February 8, 2022 12:28 AM"
     },
     {
         "title": "‘Reacher’ Renewed for Season 2 by Amazon Prime Video",
@@ -32,8 +23,269 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-protest-truck-tow-remove-1.6339652",
         "timestamp": 1644283011,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 8, 2022 1:16 AM"
+    },
+    {
+        "title": "Protesters for Amir Locke, a Black man killed by Minneapolis police, demand police chief's resignation",
+        "domain": "pbs.org",
+        "category": "news",
+        "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
+        "timestamp": 1644287608,
+        "sentiment": 4,
+        "published": "February 8, 2022 2:33 AM"
+    },
+    {
+        "title": "Talks between Macron and Putin fail to produce Ukraine breakthrough",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/07/macron-warns-dont-expect-miracles-in-talks-with-putin-over-ukraine",
+        "timestamp": 1644288522,
+        "sentiment": -1,
+        "published": "February 8, 2022 2:48 AM"
+    },
+    {
+        "title": "Donald Trump illegally shredded documents by hand, used burn bags legal expert says",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/watch/trump-ripping-up-shredding-documents-by-hand-illegal-legal-expert-says-132655685640",
+        "timestamp": 1644297555,
+        "sentiment": 1,
+        "published": "February 8, 2022 5:19 AM"
+    },
+    {
+        "title": "Canadian police seize fuel, remove oil tanker; court silences protesters' horns",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/canada-police-seen-getting-tough-trucker-protests-continue-2022-02-07/",
+        "timestamp": 1644304286,
+        "sentiment": -1,
+        "published": "February 8, 2022 7:11 AM"
+    },
+    {
+        "title": "BP profits hit eight-year high thanks to soaring gas and oil prices",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/feb/08/bp-profits-gas-oil-prices-shell-energy-crisis-windfall-tax",
+        "timestamp": 1644313245,
+        "sentiment": 4,
+        "published": "February 8, 2022 9:40 AM"
+    },
+    {
+        "title": "Brie Larson & Jeremy Renner Set Non-Scripted Series ‘Growing Up’ & ‘Rennervations’ At Disney+",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/brie-larson-jeremy-renner-growing-up-rennervations-disney-plus-1234927812/",
+        "timestamp": 1644315633,
+        "sentiment": 2,
+        "published": "February 8, 2022 10:20 AM"
+    },
+    {
+        "title": "Turtles dying from eating trash show plastics scourge in UAE",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/science-business-united-arab-emirates-turtles-persian-gulf-tensions-c9a53f0466802dea0ee6c337f6280f8d",
+        "timestamp": 1644316275,
+        "sentiment": -1,
+        "published": "February 8, 2022 10:31 AM"
+    },
+    {
+        "title": "Los Angeles nun, 80, gets prison for $835,000 school theft",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/los-angeles-nun-80-prison-835000-school-theft-82733427",
+        "timestamp": 1644319301,
+        "sentiment": 4,
+        "published": "February 8, 2022 11:21 AM"
+    },
+    {
+        "title": "How Manchin used politics to protect his family coal company",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/02/08/manchin-family-coal-company-00003218",
+        "timestamp": 1644319569,
+        "sentiment": 1,
+        "published": "February 8, 2022 11:26 AM"
+    },
+    {
+        "title": "Police trainer testifies against officers in Floyd's death",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/death-of-george-floyd-george-floyd-minneapolis-thomas-lane-tou-thao-f4b439de309f349ae9dc41ca84527145",
+        "timestamp": 1644319759,
+        "sentiment": 4,
+        "published": "February 8, 2022 11:29 AM"
+    },
+    {
+        "title": "Noam Chomsky Says GOP 'Not a Political Party' but a 'Radical Insurgency'",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/noam-chomsky-says-gop-not-political-party-radical-insurgency-1677041",
+        "timestamp": 1644319763,
+        "sentiment": 1,
+        "published": "February 8, 2022 11:29 AM"
+    },
+    {
+        "title": "With Alabama Ruling, SCOTUS Delivers 'Another Major Blow' to Voting Rights Act | \"We must end the filibuster so the Senate can pass voting rights protections,\" declares the Congressional Progressive Caucus.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/07/alabama-ruling-scotus-delivers-another-major-blow-voting-rights-act",
+        "timestamp": 1644320683,
+        "sentiment": 1,
+        "published": "February 8, 2022 11:44 AM"
+    },
+    {
+        "title": "Netflix Previews 19 Projects in Germany, Austria And Switzerland Including Wealth Of New Shows; Commits Big To The Region",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/netflix-19-series-germany-1234928380/",
+        "timestamp": 1644322604,
+        "sentiment": 2,
+        "published": "February 8, 2022 12:16 PM"
+    },
+    {
+        "title": "Retired pope asks pardon for abuse, but admits no wrongdoing",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/europe-religion-germany-sexual-abuse-by-clergy-sexual-abuse-3461ba1b9adfcfb884027361263f1706",
+        "timestamp": 1644322761,
+        "sentiment": 4,
+        "published": "February 8, 2022 12:19 PM"
+    },
+    {
+        "title": "Why You Should Watch 'Peacemaker' -- John Cena Is A Star",
+        "domain": "uproxx.com",
+        "category": "television",
+        "link": "https://uproxx.com/tv/why-you-should-watch-peacemaker-john-cena-is-a-star/",
+        "timestamp": 1644323196,
+        "sentiment": 2,
+        "published": "February 8, 2022 12:26 PM"
+    },
+    {
+        "title": "Canada Denounces Republican Support for COVID Protests",
+        "domain": "time.com",
+        "category": "worldnews",
+        "link": "https://time.com/6146027/canada-republican-covid-protests/",
+        "timestamp": 1644325132,
+        "sentiment": -1,
+        "published": "February 8, 2022 12:58 PM"
+    },
+    {
+        "title": "Georgia prosecutor says presidential immunity won't protect Trump",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/593229-georgia-prosecutor-says-presidential-immunity-wont-protect-trump",
+        "timestamp": 1644325220,
+        "sentiment": 1,
+        "published": "February 8, 2022 1:00 PM"
+    },
+    {
+        "title": "Fox News host Brian Kilmeade says Trump's claim he won Arizona in 2020 is an 'outright lie'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fox-news-host-kilmeade-says-trump-arizona-claim-outright-lie-2022-2",
+        "timestamp": 1644327515,
+        "sentiment": 1,
+        "published": "February 8, 2022 1:38 PM"
+    },
+    {
+        "title": "‘Marvel’s Moon Girl and Devil Dinosaur’ Characters Revealed",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/marvels-moon-girl-and-devil-dinosaur-characters-revealed/",
+        "timestamp": 1644328688,
+        "sentiment": 2,
+        "published": "February 8, 2022 1:58 PM"
+    },
+    {
+        "title": "Arkansas doctor sued for allegedly giving inmates ivermectin without their consent recognized by local leaders for \"job well done\"",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/ivermectin-arkansas-doctor-robert-karas-lawsuit/?ftag=CNM-00-10aab7e&linkId=151265104&s=09",
+        "timestamp": 1644329069,
+        "sentiment": 4,
+        "published": "February 8, 2022 2:04 PM"
+    },
+    {
+        "title": "Hillary Clinton Touts 'but Her Emails' Merch amid Reports Trump Tore Up Important Files",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/hillary-clinton-donald-trump-touts-emails-merch-amid-reports/",
+        "timestamp": 1644330664,
+        "sentiment": 1,
+        "published": "February 8, 2022 2:31 PM"
+    },
+    {
+        "title": "Coffee Reserves Plunge to Lowest in More Than Two Decades",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-02-07/world-coffee-reserves-plunge-to-lowest-in-more-than-two-decades",
+        "timestamp": 1644331107,
+        "sentiment": -1,
+        "published": "February 8, 2022 2:38 PM"
+    },
+    {
+        "title": "SCOTUS Just Blew Up the Voting Rights Act’s Ban on Racial Gerrymandering - By greenlighting Alabama’s egregious map, five ultraconservative justices declared open season on racial minorities’ voting power",
+        "domain": "slate.com",
+        "category": "politics",
+        "link": "https://slate.com/news-and-politics/2022/02/supreme-court-alabama-racial-gerrymander-roberts-kavanaugh.html",
+        "timestamp": 1644332267,
+        "sentiment": 1,
+        "published": "February 8, 2022 2:57 PM"
+    },
+    {
+        "title": "More Miami voters report illegitimate party affiliation changes",
+        "domain": "local10.com",
+        "category": "news",
+        "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
+        "timestamp": 1644333370,
+        "sentiment": 4,
+        "published": "February 8, 2022 3:16 PM"
+    },
+    {
+        "title": "NATO Chief: Risk Of Russian Attack ‘Going Up’",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/dereksaul/2022/02/08/nato-chief-risk-of-russian-attack-going-up/?sh=200536264a44",
+        "timestamp": 1644333859,
+        "sentiment": -1,
+        "published": "February 8, 2022 3:24 PM"
+    },
+    {
+        "title": "Oversight Committee Will Probe How Trump Got Away With Taking WH Docs To Mar-A-Lago",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/oversight-committee-will-probe-how-trump-got-away-with-taking-wh-docs-to-mar-a-lago",
+        "timestamp": 1644334324,
+        "sentiment": 1,
+        "published": "February 8, 2022 3:32 PM"
+    },
+    {
+        "title": "Trump left the White House in a rush because he was so preoccupied with trying to overturn the 2020 election, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-was-obsessed-with-staying-in-power-left-white-house-in-a-rush-nyt-2022-2",
+        "timestamp": 1644334630,
+        "sentiment": 1,
+        "published": "February 8, 2022 3:37 PM"
+    },
+    {
+        "title": "Winter Olympics hit by deluge of complaints from athletes",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-asia-china-60298184",
+        "timestamp": 1644336843,
+        "sentiment": 4,
+        "published": "February 8, 2022 4:14 PM"
+    },
+    {
+        "title": "California to lift indoor mask mandate for vaccinated people on Feb. 15, Newsom says",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/ca-mask-mandate-california-gavin-newsom-indoor/11544606/",
+        "timestamp": 1644280106,
+        "sentiment": 0,
+        "published": "February 8, 2022 12:28 AM"
     },
     {
         "title": "Removing trucks could be almost 'impossible,' say heavy towing experts",
@@ -63,51 +315,6 @@
         "published": "February 8, 2022 1:51 AM"
     },
     {
-        "title": "Protesters for Amir Locke, a Black man killed by Minneapolis police, demand police chief's resignation",
-        "domain": "pbs.org",
-        "category": "news",
-        "link": "https://www.pbs.org/newshour/nation/protesters-for-amir-locke-a-black-man-killed-by-minneapolis-police-demand-police-chiefs-resignation",
-        "timestamp": 1644287608,
-        "sentiment": 0,
-        "published": "February 8, 2022 2:33 AM"
-    },
-    {
-        "title": "Talks between Macron and Putin fail to produce Ukraine breakthrough",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/feb/07/macron-warns-dont-expect-miracles-in-talks-with-putin-over-ukraine",
-        "timestamp": 1644288522,
-        "sentiment": 1,
-        "published": "February 8, 2022 2:48 AM"
-    },
-    {
-        "title": "Donald Trump illegally shredded documents by hand, used burn bags legal expert says",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/the-reidout/watch/trump-ripping-up-shredding-documents-by-hand-illegal-legal-expert-says-132655685640",
-        "timestamp": 1644297555,
-        "sentiment": -11,
-        "published": "February 8, 2022 5:19 AM"
-    },
-    {
-        "title": "BP profits hit eight-year high thanks to soaring gas and oil prices",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/business/2022/feb/08/bp-profits-gas-oil-prices-shell-energy-crisis-windfall-tax",
-        "timestamp": 1644313245,
-        "sentiment": 0,
-        "published": "February 8, 2022 9:40 AM"
-    },
-    {
-        "title": "Brie Larson & Jeremy Renner Set Non-Scripted Series ‘Growing Up’ & ‘Rennervations’ At Disney+",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/brie-larson-jeremy-renner-growing-up-rennervations-disney-plus-1234927812/",
-        "timestamp": 1644315633,
-        "sentiment": 2,
-        "published": "February 8, 2022 10:20 AM"
-    },
-    {
         "title": "Porn sites will be legally required to verify users’ age",
         "domain": "bbc.com",
         "category": "worldnews",
@@ -115,69 +322,6 @@
         "timestamp": 1644318140,
         "sentiment": 1,
         "published": "February 8, 2022 11:02 AM"
-    },
-    {
-        "title": "Los Angeles nun, 80, gets prison for $835,000 school theft",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/los-angeles-nun-80-prison-835000-school-theft-82733427",
-        "timestamp": 1644319301,
-        "sentiment": 0,
-        "published": "February 8, 2022 11:21 AM"
-    },
-    {
-        "title": "Police trainer testifies against officers in Floyd's death",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/death-of-george-floyd-george-floyd-minneapolis-thomas-lane-tou-thao-f4b439de309f349ae9dc41ca84527145",
-        "timestamp": 1644319759,
-        "sentiment": 0,
-        "published": "February 8, 2022 11:29 AM"
-    },
-    {
-        "title": "Noam Chomsky Says GOP 'Not a Political Party' but a 'Radical Insurgency'",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/noam-chomsky-says-gop-not-political-party-radical-insurgency-1677041",
-        "timestamp": 1644319763,
-        "sentiment": -11,
-        "published": "February 8, 2022 11:29 AM"
-    },
-    {
-        "title": "With Alabama Ruling, SCOTUS Delivers 'Another Major Blow' to Voting Rights Act | \"We must end the filibuster so the Senate can pass voting rights protections,\" declares the Congressional Progressive Caucus.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/02/07/alabama-ruling-scotus-delivers-another-major-blow-voting-rights-act",
-        "timestamp": 1644320683,
-        "sentiment": -11,
-        "published": "February 8, 2022 11:44 AM"
-    },
-    {
-        "title": "Netflix Previews 19 Projects in Germany, Austria And Switzerland Including Wealth Of New Shows; Commits Big To The Region",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/netflix-19-series-germany-1234928380/",
-        "timestamp": 1644322604,
-        "sentiment": 2,
-        "published": "February 8, 2022 12:16 PM"
-    },
-    {
-        "title": "Retired pope asks pardon for abuse, but admits no wrongdoing",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/europe-religion-germany-sexual-abuse-by-clergy-sexual-abuse-3461ba1b9adfcfb884027361263f1706",
-        "timestamp": 1644322761,
-        "sentiment": 0,
-        "published": "February 8, 2022 12:19 PM"
-    },
-    {
-        "title": "Why You Should Watch 'Peacemaker' -- John Cena Is A Star",
-        "domain": "uproxx.com",
-        "category": "television",
-        "link": "https://uproxx.com/tv/why-you-should-watch-peacemaker-john-cena-is-a-star/",
-        "timestamp": 1644323196,
-        "sentiment": 2,
-        "published": "February 8, 2022 12:26 PM"
     },
     {
         "title": "Pfizer expects $54 billion in 2022 sales on Covid vaccine and treatment pill",
@@ -189,60 +333,6 @@
         "published": "February 8, 2022 12:51 PM"
     },
     {
-        "title": "Canada Denounces Republican Support for COVID Protests",
-        "domain": "time.com",
-        "category": "worldnews",
-        "link": "https://time.com/6146027/canada-republican-covid-protests/",
-        "timestamp": 1644325132,
-        "sentiment": 1,
-        "published": "February 8, 2022 12:58 PM"
-    },
-    {
-        "title": "Georgia prosecutor says presidential immunity won't protect Trump",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/regulation/court-battles/593229-georgia-prosecutor-says-presidential-immunity-wont-protect-trump",
-        "timestamp": 1644325220,
-        "sentiment": -11,
-        "published": "February 8, 2022 1:00 PM"
-    },
-    {
-        "title": "Winter Olympics hit by deluge of complaints from athletes",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-china-60298184",
-        "timestamp": 1644325755,
-        "sentiment": 1,
-        "published": "February 8, 2022 1:09 PM"
-    },
-    {
-        "title": "Fox News host Brian Kilmeade says Trump's claim he won Arizona in 2020 is an 'outright lie'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/fox-news-host-kilmeade-says-trump-arizona-claim-outright-lie-2022-2",
-        "timestamp": 1644327515,
-        "sentiment": -11,
-        "published": "February 8, 2022 1:38 PM"
-    },
-    {
-        "title": "‘Marvel’s Moon Girl and Devil Dinosaur’ Characters Revealed",
-        "domain": "whatsondisneyplus.com",
-        "category": "television",
-        "link": "https://whatsondisneyplus.com/marvels-moon-girl-and-devil-dinosaur-characters-revealed/",
-        "timestamp": 1644328688,
-        "sentiment": 2,
-        "published": "February 8, 2022 1:58 PM"
-    },
-    {
-        "title": "Arkansas doctor sued for allegedly giving inmates ivermectin without their consent recognized by local leaders for \"job well done\"",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/ivermectin-arkansas-doctor-robert-karas-lawsuit/?ftag=CNM-00-10aab7e&linkId=151265104&s=09",
-        "timestamp": 1644329069,
-        "sentiment": 0,
-        "published": "February 8, 2022 2:04 PM"
-    },
-    {
         "title": "Five Olympic skiers disqualified for baggy outfits: 'They destroyed women’s ski jumping'",
         "domain": "yahoo.com",
         "category": "worldnews",
@@ -250,24 +340,6 @@
         "timestamp": 1644329293,
         "sentiment": 1,
         "published": "February 8, 2022 2:08 PM"
-    },
-    {
-        "title": "Hillary Clinton Touts 'but Her Emails' Merch amid Reports Trump Tore Up Important Files",
-        "domain": "people.com",
-        "category": "politics",
-        "link": "https://people.com/politics/hillary-clinton-donald-trump-touts-emails-merch-amid-reports/",
-        "timestamp": 1644330664,
-        "sentiment": -11,
-        "published": "February 8, 2022 2:31 PM"
-    },
-    {
-        "title": "More Miami voters report illegitimate party affiliation changes",
-        "domain": "local10.com",
-        "category": "politics",
-        "link": "https://www.local10.com/news/politics/2022/02/04/more-registered-voters-report-unauthorized-party-affiliation-changes/",
-        "timestamp": 1644281003,
-        "sentiment": -11,
-        "published": "February 8, 2022 12:43 AM"
     },
     {
         "title": "IRS will no longer use controversial facial recognition software to verify online accounts",
@@ -313,15 +385,6 @@
         "timestamp": 1644278895,
         "sentiment": 2,
         "published": "February 8, 2022 12:08 AM"
-    },
-    {
-        "title": "Canadian police seize fuel, remove oil tanker; court silences protesters' horns",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/americas/canada-police-seen-getting-tough-trucker-protests-continue-2022-02-07/",
-        "timestamp": 1644304286,
-        "sentiment": 0,
-        "published": "February 8, 2022 7:11 AM"
     },
     {
         "title": "Rightwing lobby group Alec driving laws to blacklist companies that boycott the oil industry",
