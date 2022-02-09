@@ -1,20 +1,11 @@
 [
     {
-        "title": "Man breaks into home, takes bath, eats shrimp leaves $200 for damages",
-        "domain": "fox13memphis.com",
-        "category": "news",
-        "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
-        "timestamp": 1644365364,
-        "sentiment": 2,
-        "published": "February 9, 2022 12:09 AM"
-    },
-    {
         "title": "Scientists raise alarm over ‘dangerously fast’ growth in atmospheric methane",
         "domain": "nature.com",
         "category": "worldnews",
         "link": "https://www.nature.com/articles/d41586-022-00312-2",
         "timestamp": 1644368515,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 1:01 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
         "timestamp": 1644371574,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 1:52 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/wait-see-china-vows-strong-response-us-prepares-arm-taiwan-missile-defense-1677148",
         "timestamp": 1644373179,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 2:19 AM"
-    },
-    {
-        "title": "North Carolina elections board says it has power to disqualify Rep. Cawthorn from running over January 6",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/08/politics/north-carolina-elections-board-madison-cawthorn-january-6/index.html?utm_content=2022-02-09T02%3A44%3A09&utm_term=link&utm_medium=social&utm_source=twCNN",
-        "timestamp": 1644375592,
-        "sentiment": -2,
-        "published": "February 9, 2022 2:59 AM"
     },
     {
         "title": "Starbucks fires 7 employees involved in Memphis union effort",
@@ -61,15 +43,6 @@
         "timestamp": 1644390913,
         "sentiment": 2,
         "published": "February 9, 2022 7:15 AM"
-    },
-    {
-        "title": "Trump sets off yet another GOP civil war, risking party's midterm strategy",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/09/politics/trump-mcconnell-mccarthy-republicans-2022-midterms/index.html",
-        "timestamp": 1644403680,
-        "sentiment": -2,
-        "published": "February 9, 2022 10:48 AM"
     },
     {
         "title": "Colorado Springs to pay nearly $3 mln to family of Black man shot dead by police",
@@ -86,7 +59,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/all-of-us-are-dead-netflix-top-10-ratings-1235174812/",
         "timestamp": 1644406902,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 11:41 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/09/most-europeans-want-to-stand-with-kyiv-against-moscow-poll-suggests",
         "timestamp": 1644409174,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 12:19 PM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/americas/20220207-the-embargo-is-a-virus-too-cuba-marks-six-decades-under-us-sanctions",
         "timestamp": 1644411000,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 12:50 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "television",
         "link": "https://collider.com/reno-911-defunded-trailer-release-date-roku-channel/",
         "timestamp": 1644414861,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 1:54 PM"
     },
     {
@@ -185,17 +158,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
         "timestamp": 1644416050,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 2:14 PM"
-    },
-    {
-        "title": "“The Itchy & Scratchy & Poochie Show” Turns 25: When ‘The Simpsons’ Mocked Studio Meddling and Addressed the Dawn of Toxic Fandom While Making Animated History",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/simpsons-itchy-scratchy-poochie-show-25-1235081217/",
-        "timestamp": 1644416232,
-        "sentiment": -7,
-        "published": "February 9, 2022 2:17 PM"
     },
     {
         "title": "Amazon Has Received $4.7 Billion in Subsidies Globally, Watchdog Says",
@@ -203,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.vice.com/en/article/jgmvk8/amazon-has-received-at-least-dollar47-billion-in-subsidies-globally-watchdog-says",
         "timestamp": 1644416323,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 2:18 PM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.commondreams.org/news/2022/02/09/scientists-fear-soaring-methane-levels-show-climate-feedback-loop-has-arrived",
         "timestamp": 1644416800,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 2:26 PM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/last-kingdom-season-5-trailer-newsupdate/",
         "timestamp": 1644417088,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 2:31 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "television",
         "link": "https://www.nytimes.com/2022/02/09/magazine/bob-odenkirk-better-call-saul.html",
         "timestamp": 1644421222,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 3:40 PM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv/tv-reviews/bel-air-review-1294283/",
         "timestamp": 1644422662,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 4:04 PM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/09/politics/white-house-plan-troops-help-americans-leave-ukraine/index.html",
         "timestamp": 1644423507,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 9, 2022 4:18 PM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/birdgirl-smiling-friends-renewed-season-2-adult-swim-1234929116/",
         "timestamp": 1644426079,
-        "sentiment": -7,
+        "sentiment": 3,
         "published": "February 9, 2022 5:01 PM"
     },
     {
@@ -322,6 +286,96 @@
         "timestamp": 1644426337,
         "sentiment": 2,
         "published": "February 9, 2022 5:05 PM"
+    },
+    {
+        "title": "Outside ethics watchdog calls for DOJ investigation into Trump’s Mar-a-Lago record dump scheme",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/crew-trump-documents-investigation-b2011507.html",
+        "timestamp": 1644427360,
+        "sentiment": -2,
+        "published": "February 9, 2022 5:22 PM"
+    },
+    {
+        "title": "North Korea Says It Has Missile That Can Hit US Mainland",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/north-korea-says-has-missile-can-hit-us-mainland-2022-2",
+        "timestamp": 1644427752,
+        "sentiment": 0,
+        "published": "February 9, 2022 5:29 PM"
+    },
+    {
+        "title": "The truck driver protest that started in Ottawa before spreading to shut Canada’s gateway to Detroit and its auto plants appears to be a bit short of one key element: truckers. Among the protesters blocking the roadway were just three semi trucks",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/economy/2022/2/9/canadas-bridge-blocking-trucker-protest-is-short-on-semis",
+        "timestamp": 1644429677,
+        "sentiment": 0,
+        "published": "February 9, 2022 6:01 PM"
+    },
+    {
+        "title": "The 'but Hillary’s emails' crowd goes silent about Trump’s document destruction",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/columnists/2022/02/08/trump-white-house-documents-hillary-emails/6706509001/",
+        "timestamp": 1644429906,
+        "sentiment": -2,
+        "published": "February 9, 2022 6:05 PM"
+    },
+    {
+        "title": "One in five applicants to white supremacist group tied to US military | The far right",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/feb/09/white-supremacist-group-patriot-front-one-in-five-applicants-tied-to-us-military",
+        "timestamp": 1644431202,
+        "sentiment": 2,
+        "published": "February 9, 2022 6:26 PM"
+    },
+    {
+        "title": "‘Ironheart’: Anthony Ramos Lands New Secret Role In Upcoming Marvel Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/ironheart-anthony-ramos-marvel-series-1234929548/",
+        "timestamp": 1644431589,
+        "sentiment": 3,
+        "published": "February 9, 2022 6:33 PM"
+    },
+    {
+        "title": "Man breaks into home, takes bath, eats shrimp leaves $200 for damages",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
+        "timestamp": 1644365364,
+        "sentiment": 2,
+        "published": "February 9, 2022 12:09 AM"
+    },
+    {
+        "title": "North Carolina elections board says it has power to disqualify Rep. Cawthorn from running over January 6",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/08/politics/north-carolina-elections-board-madison-cawthorn-january-6/index.html?utm_content=2022-02-09T02%3A44%3A09&utm_term=link&utm_medium=social&utm_source=twCNN",
+        "timestamp": 1644375592,
+        "sentiment": -2,
+        "published": "February 9, 2022 2:59 AM"
+    },
+    {
+        "title": "Trump sets off yet another GOP civil war, risking party's midterm strategy",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/09/politics/trump-mcconnell-mccarthy-republicans-2022-midterms/index.html",
+        "timestamp": 1644403680,
+        "sentiment": -2,
+        "published": "February 9, 2022 10:48 AM"
+    },
+    {
+        "title": "“The Itchy & Scratchy & Poochie Show” Turns 25: When ‘The Simpsons’ Mocked Studio Meddling and Addressed the Dawn of Toxic Fandom While Making Animated History",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/simpsons-itchy-scratchy-poochie-show-25-1235081217/",
+        "timestamp": 1644416232,
+        "sentiment": -7,
+        "published": "February 9, 2022 2:17 PM"
     },
     {
         "title": "After Crusade Against Hillary Clinton Emails, GOP Silent On Trump Ripping Up Documents",
