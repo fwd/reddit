@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/early-edition-reboot-pilot-order-cbs-1234929233/",
         "timestamp": 1644367658,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 9, 2022 12:47 AM"
     },
     {
@@ -59,8 +59,17 @@
         "category": "television",
         "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
         "timestamp": 1644371574,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 9, 2022 1:52 AM"
+    },
+    {
+        "title": "Solar eruptions expected to hit Earth today; geomagnetic storm to be triggered",
+        "domain": "hindustantimes.com",
+        "category": "worldnews",
+        "link": "https://www.hindustantimes.com/world-news/solar-eruptions-expected-to-hit-earth-today-geomagnetic-storms-to-be-triggered-101644370690008.html",
+        "timestamp": 1644371929,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:58 AM"
     },
     {
         "title": "Sen. Ron Johnson was one of 3 Republican senators to attend MyPillow CEO Mike Lindell's meeting to discuss delaying the election certification 2 days before the Jan 6 Capitol riot",
@@ -126,12 +135,21 @@
         "published": "February 9, 2022 5:04 AM"
     },
     {
+        "title": "Greece draws in the US — and edges out Russia | Greece is hosting more American troops and buying US energy, frustrating Russia.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/greece-us-russia-military-energy-relation/",
+        "timestamp": 1644383414,
+        "sentiment": 0,
+        "published": "February 9, 2022 5:10 AM"
+    },
+    {
         "title": "'All of Us Are Dead' remains atop Netflix's global chart for second week",
         "domain": "yna.kr",
         "category": "television",
         "link": "http://yna.kr/AEN20220209007000315?input=red",
         "timestamp": 1644385334,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 9, 2022 5:42 AM"
     },
     {
