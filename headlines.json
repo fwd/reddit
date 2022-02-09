@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nature.com/articles/d41586-022-00312-2",
         "timestamp": 1644368515,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 9, 2022 1:01 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/hillary-clinton-emails-gop-trump-ripping-documents_n_6202c78ae4b050042433bc2f",
         "timestamp": 1644369848,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 9, 2022 1:24 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
         "timestamp": 1644371574,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 1:52 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/ron-johnson-mike-lindell-meeting-delaying-election-certification-capitol-riot-2022-2",
         "timestamp": 1644372727,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 9, 2022 2:12 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/wait-see-china-vows-strong-response-us-prepares-arm-taiwan-missile-defense-1677148",
         "timestamp": 1644373179,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "February 9, 2022 2:19 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/02/08/politics/north-carolina-elections-board-madison-cawthorn-january-6/index.html?utm_content=2022-02-09T02%3A44%3A09&utm_term=link&utm_medium=social&utm_source=twCNN",
         "timestamp": 1644375592,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 9, 2022 2:59 AM"
     },
     {
@@ -68,8 +68,224 @@
         "category": "news",
         "link": "https://fox56.com/news/local/lawmakers-asking-for-a-federal-investigation-into-travel-nurse-salaries",
         "timestamp": 1644376794,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 3:19 AM"
+    },
+    {
+        "title": "Greece draws in the US — and edges out Russia | Greece is hosting more American troops and buying US energy, frustrating Russia.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/greece-us-russia-military-energy-relation/",
+        "timestamp": 1644383414,
+        "sentiment": -3,
+        "published": "February 9, 2022 5:10 AM"
+    },
+    {
+        "title": "Starbucks fires 7 employees involved in Memphis union effort",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/08/economy/starbucks-fires-workers-memphis-union/index.html",
+        "timestamp": 1644390913,
+        "sentiment": 2,
+        "published": "February 9, 2022 7:15 AM"
+    },
+    {
+        "title": "Our goal is to avoid a war in Europe,' says Germany's Scholz",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/ukraine-crisis-our-goal-is-to-avoid-a-war-in-europe-says-germanys-scholz/a-60705306",
+        "timestamp": 1644402320,
+        "sentiment": -3,
+        "published": "February 9, 2022 10:25 AM"
+    },
+    {
+        "title": "Trump sets off yet another GOP civil war, risking party's midterm strategy",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/09/politics/trump-mcconnell-mccarthy-republicans-2022-midterms/index.html",
+        "timestamp": 1644403680,
+        "sentiment": -2,
+        "published": "February 9, 2022 10:48 AM"
+    },
+    {
+        "title": "Colorado Springs to pay nearly $3 mln to family of Black man shot dead by police",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/colorado-springs-pay-nearly-3-mln-family-black-man-shot-dead-by-police-2022-02-09/",
+        "timestamp": 1644405766,
+        "sentiment": 2,
+        "published": "February 9, 2022 11:22 AM"
+    },
+    {
+        "title": "‘All of Us Are Dead’ Scores Netflix’s 5th Most Popular Non-English Series Debut (EXCLUSIVE)",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/all-of-us-are-dead-netflix-top-10-ratings-1235174812/",
+        "timestamp": 1644406902,
+        "sentiment": -7,
+        "published": "February 9, 2022 11:41 AM"
+    },
+    {
+        "title": "Most Europeans want to stand with Kyiv against Moscow, poll suggests",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/09/most-europeans-want-to-stand-with-kyiv-against-moscow-poll-suggests",
+        "timestamp": 1644409174,
+        "sentiment": -3,
+        "published": "February 9, 2022 12:19 PM"
+    },
+    {
+        "title": "SpaceX loses 40 satellites to geomagnetic storm a day after launch",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-60317806",
+        "timestamp": 1644410492,
+        "sentiment": 2,
+        "published": "February 9, 2022 12:41 PM"
+    },
+    {
+        "title": "'The embargo is a virus too': Cuba marks six decades under US sanctions",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/americas/20220207-the-embargo-is-a-virus-too-cuba-marks-six-decades-under-us-sanctions",
+        "timestamp": 1644411000,
+        "sentiment": -3,
+        "published": "February 9, 2022 12:50 PM"
+    },
+    {
+        "title": "House Passes Bill to Repeal 'Debilitating' USPS Prefunding Mandate|\"You deserve a working Post Office,\" said Rep. Bill Pascrell. \"The Senate should get off its rear and pass this now.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/09/house-passes-bill-repeal-debilitating-usps-prefunding-mandate",
+        "timestamp": 1644411574,
+        "sentiment": -2,
+        "published": "February 9, 2022 12:59 PM"
+    },
+    {
+        "title": "DOJ must investigate Donald Trump for destroying official records",
+        "domain": "citizensforethics.org",
+        "category": "politics",
+        "link": "https://www.citizensforethics.org/legal-action/legal-complaints/doj-must-investigate-donald-trump-for-destroying-official-records/",
+        "timestamp": 1644412368,
+        "sentiment": -2,
+        "published": "February 9, 2022 1:12 PM"
+    },
+    {
+        "title": "Yes or no on Mueller report criminal charges? Don’t let Trump just run out the clock.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/02/07/trump-garland-and-the-mueller-report/",
+        "timestamp": 1644413101,
+        "sentiment": -2,
+        "published": "February 9, 2022 1:25 PM"
+    },
+    {
+        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
+        "timestamp": 1644413474,
+        "sentiment": 2,
+        "published": "February 9, 2022 1:31 PM"
+    },
+    {
+        "title": "Fox Lost $85 Million Last Quarter",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/fox-lost-85-million-last-quarter/",
+        "timestamp": 1644414007,
+        "sentiment": -7,
+        "published": "February 9, 2022 1:40 PM"
+    },
+    {
+        "title": "'Reno 911! Defunded' (Season 8) Premieres February 25 on Roku",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/reno-911-defunded-trailer-release-date-roku-channel/",
+        "timestamp": 1644414861,
+        "sentiment": -7,
+        "published": "February 9, 2022 1:54 PM"
+    },
+    {
+        "title": "Twitter 2FA text service was secretly helping governments locate people, obtain call logs",
+        "domain": "9to5mac.com",
+        "category": "news",
+        "link": "https://9to5mac.com/2022/02/09/twitter-2fa-text-privacy/",
+        "timestamp": 1644414901,
+        "sentiment": 2,
+        "published": "February 9, 2022 1:55 PM"
+    },
+    {
+        "title": "Trumpy Colorado County Clerk Tina Peters Arrested After Resisting Search Warrant: Reports",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/trumpy-colorado-county-clerk-tina-peters-arrested-after-resisting-search-warrant-reports",
+        "timestamp": 1644415693,
+        "sentiment": -2,
+        "published": "February 9, 2022 2:08 PM"
+    },
+    {
+        "title": "Elon Musk's SpaceX says a geomagnetic storm wiped out 40 of the 49 Starlink satellites it launched into orbit last week",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
+        "timestamp": 1644416050,
+        "sentiment": -3,
+        "published": "February 9, 2022 2:14 PM"
+    },
+    {
+        "title": "“The Itchy & Scratchy & Poochie Show” Turns 25: When ‘The Simpsons’ Mocked Studio Meddling and Addressed the Dawn of Toxic Fandom While Making Animated History",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/simpsons-itchy-scratchy-poochie-show-25-1235081217/",
+        "timestamp": 1644416232,
+        "sentiment": -7,
+        "published": "February 9, 2022 2:17 PM"
+    },
+    {
+        "title": "The Last Kingdom season 5 trailer | Premieres March 9",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/drama/last-kingdom-season-5-trailer-newsupdate/",
+        "timestamp": 1644417088,
+        "sentiment": -7,
+        "published": "February 9, 2022 2:31 PM"
+    },
+    {
+        "title": "Louisiana Senate Candidate Literally Torches a Confederate Flag in New Campaign Ad",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/gary-chambers-jr-confederate-flag-louisiana-senate-1297202/",
+        "timestamp": 1644417434,
+        "sentiment": -2,
+        "published": "February 9, 2022 2:37 PM"
+    },
+    {
+        "title": "Candidate for U.S Senator burns Confederate flag in campaign ad",
+        "domain": "wtrf.com",
+        "category": "politics",
+        "link": "https://www.wtrf.com/news/candidate-for-u-s-senator-burns-confederate-flag-in-campaign-ad/",
+        "timestamp": 1644417733,
+        "sentiment": -2,
+        "published": "February 9, 2022 2:42 PM"
+    },
+    {
+        "title": "Pfizer accused of pandemic profiteering as profits double",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/feb/08/pfizer-covid-vaccine-pill-profits-sales",
+        "timestamp": 1644417868,
+        "sentiment": 2,
+        "published": "February 9, 2022 2:44 PM"
+    },
+    {
+        "title": "Christian revival at school prompts student walkout in W.Va.",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/christian-revival-school-prompts-student-walkout-wva-82765607",
+        "timestamp": 1644419905,
+        "sentiment": 2,
+        "published": "February 9, 2022 3:18 PM"
     },
     {
         "title": "Britain's oldest pub closes after 1,229 years",
@@ -81,15 +297,6 @@
         "published": "February 9, 2022 5:01 AM"
     },
     {
-        "title": "Greece draws in the US — and edges out Russia | Greece is hosting more American troops and buying US energy, frustrating Russia.",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/greece-us-russia-military-energy-relation/",
-        "timestamp": 1644383414,
-        "sentiment": -2,
-        "published": "February 9, 2022 5:10 AM"
-    },
-    {
         "title": "'All of Us Are Dead' remains atop Netflix's global chart for second week",
         "domain": "yna.kr",
         "category": "television",
@@ -97,15 +304,6 @@
         "timestamp": 1644385334,
         "sentiment": 0,
         "published": "February 9, 2022 5:42 AM"
-    },
-    {
-        "title": "Starbucks fires 7 employees involved in Memphis union effort",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/08/economy/starbucks-fires-workers-memphis-union/index.html",
-        "timestamp": 1644390913,
-        "sentiment": -2,
-        "published": "February 9, 2022 7:15 AM"
     },
     {
         "title": "TikTok shares your data more than any other social media app — and it's unclear where it goes, study says",
@@ -117,33 +315,6 @@
         "published": "February 9, 2022 9:43 AM"
     },
     {
-        "title": "Trump sets off yet another GOP civil war, risking party's midterm strategy",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/09/politics/trump-mcconnell-mccarthy-republicans-2022-midterms/index.html",
-        "timestamp": 1644403680,
-        "sentiment": -5,
-        "published": "February 9, 2022 10:48 AM"
-    },
-    {
-        "title": "Colorado Springs to pay nearly $3 mln to family of Black man shot dead by police",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/colorado-springs-pay-nearly-3-mln-family-black-man-shot-dead-by-police-2022-02-09/",
-        "timestamp": 1644405766,
-        "sentiment": -2,
-        "published": "February 9, 2022 11:22 AM"
-    },
-    {
-        "title": "‘All of Us Are Dead’ Scores Netflix’s 5th Most Popular Non-English Series Debut (EXCLUSIVE)",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/all-of-us-are-dead-netflix-top-10-ratings-1235174812/",
-        "timestamp": 1644406902,
-        "sentiment": 0,
-        "published": "February 9, 2022 11:41 AM"
-    },
-    {
         "title": "Oxford's JET lab smashes nuclear fusion energy output record",
         "domain": "bbc.co.uk",
         "category": "news",
@@ -151,114 +322,6 @@
         "timestamp": 1644408238,
         "sentiment": -2,
         "published": "February 9, 2022 12:03 PM"
-    },
-    {
-        "title": "Most Europeans want to stand with Kyiv against Moscow, poll suggests",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/feb/09/most-europeans-want-to-stand-with-kyiv-against-moscow-poll-suggests",
-        "timestamp": 1644409174,
-        "sentiment": -2,
-        "published": "February 9, 2022 12:19 PM"
-    },
-    {
-        "title": "SpaceX loses 40 satellites to geomagnetic storm a day after launch",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-60317806",
-        "timestamp": 1644410492,
-        "sentiment": -2,
-        "published": "February 9, 2022 12:41 PM"
-    },
-    {
-        "title": "House Passes Bill to Repeal 'Debilitating' USPS Prefunding Mandate|\"You deserve a working Post Office,\" said Rep. Bill Pascrell. \"The Senate should get off its rear and pass this now.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/02/09/house-passes-bill-repeal-debilitating-usps-prefunding-mandate",
-        "timestamp": 1644411574,
-        "sentiment": -5,
-        "published": "February 9, 2022 12:59 PM"
-    },
-    {
-        "title": "DOJ must investigate Donald Trump for destroying official records",
-        "domain": "citizensforethics.org",
-        "category": "politics",
-        "link": "https://www.citizensforethics.org/legal-action/legal-complaints/doj-must-investigate-donald-trump-for-destroying-official-records/",
-        "timestamp": 1644412368,
-        "sentiment": -5,
-        "published": "February 9, 2022 1:12 PM"
-    },
-    {
-        "title": "Yes or no on Mueller report criminal charges? Don’t let Trump just run out the clock.",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/opinions/2022/02/07/trump-garland-and-the-mueller-report/",
-        "timestamp": 1644413101,
-        "sentiment": -5,
-        "published": "February 9, 2022 1:25 PM"
-    },
-    {
-        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
-        "timestamp": 1644413474,
-        "sentiment": -2,
-        "published": "February 9, 2022 1:31 PM"
-    },
-    {
-        "title": "Fox Lost $85 Million Last Quarter",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/fox-lost-85-million-last-quarter/",
-        "timestamp": 1644414007,
-        "sentiment": 0,
-        "published": "February 9, 2022 1:40 PM"
-    },
-    {
-        "title": "'Reno 911! Defunded' (Season 8) Premieres February 25 on Roku",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/reno-911-defunded-trailer-release-date-roku-channel/",
-        "timestamp": 1644414861,
-        "sentiment": 0,
-        "published": "February 9, 2022 1:54 PM"
-    },
-    {
-        "title": "Twitter 2FA text service was secretly helping governments locate people, obtain call logs",
-        "domain": "9to5mac.com",
-        "category": "news",
-        "link": "https://9to5mac.com/2022/02/09/twitter-2fa-text-privacy/",
-        "timestamp": 1644414901,
-        "sentiment": -2,
-        "published": "February 9, 2022 1:55 PM"
-    },
-    {
-        "title": "Trumpy Colorado County Clerk Tina Peters Arrested After Resisting Search Warrant: Reports",
-        "domain": "talkingpointsmemo.com",
-        "category": "politics",
-        "link": "https://talkingpointsmemo.com/news/trumpy-colorado-county-clerk-tina-peters-arrested-after-resisting-search-warrant-reports",
-        "timestamp": 1644415693,
-        "sentiment": -5,
-        "published": "February 9, 2022 2:08 PM"
-    },
-    {
-        "title": "Elon Musk's SpaceX says a geomagnetic storm wiped out 40 of the 49 Starlink satellites it launched into orbit last week",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
-        "timestamp": 1644416050,
-        "sentiment": -2,
-        "published": "February 9, 2022 2:14 PM"
-    },
-    {
-        "title": "Louisiana Senate Candidate Literally Torches a Confederate Flag in New Campaign Ad",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/gary-chambers-jr-confederate-flag-louisiana-senate-1297202/",
-        "timestamp": 1644417434,
-        "sentiment": -5,
-        "published": "February 9, 2022 2:37 PM"
     },
     {
         "title": "‘Early Edition’ Reboot From Melissa Glenn Lands Pilot Order At CBS",
