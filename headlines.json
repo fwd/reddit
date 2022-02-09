@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 9, 2022 12:09 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/hillary-clinton-emails-gop-trump-ripping-documents_n_6202c78ae4b050042433bc2f",
         "timestamp": 1644369848,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 9, 2022 1:24 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/02/ron-desantis-dont-say-gay-bill/amp",
         "timestamp": 1644369912,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 9, 2022 1:25 AM"
-    },
-    {
-        "title": "Affidavit: Amir Locke’s cousin arrested in connection to St. Paul homicide, was target of search when Locke was shot",
-        "domain": "kstp.com",
-        "category": "news",
-        "link": "https://kstp.com/kstp-news/top-news/st-paul-homicide-suspect-arrested-minneapolis-shooting-amir-locke/",
-        "timestamp": 1644370174,
-        "sentiment": -3,
-        "published": "February 9, 2022 1:29 AM"
     },
     {
         "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/ron-johnson-mike-lindell-meeting-delaying-election-certification-capitol-riot-2022-2",
         "timestamp": 1644372727,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 9, 2022 2:12 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/02/08/politics/north-carolina-elections-board-madison-cawthorn-january-6/index.html?utm_content=2022-02-09T02%3A44%3A09&utm_term=link&utm_medium=social&utm_source=twCNN",
         "timestamp": 1644375592,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 9, 2022 2:59 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://fox56.com/news/local/lawmakers-asking-for-a-federal-investigation-into-travel-nurse-salaries",
         "timestamp": 1644376794,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 9, 2022 3:19 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/08/economy/starbucks-fires-workers-memphis-union/index.html",
         "timestamp": 1644390913,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 9, 2022 7:15 AM"
     },
     {
@@ -153,12 +144,21 @@
         "published": "February 9, 2022 9:43 AM"
     },
     {
+        "title": "Trump sets off yet another GOP civil war, risking party's midterm strategy",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/09/politics/trump-mcconnell-mccarthy-republicans-2022-midterms/index.html",
+        "timestamp": 1644403680,
+        "sentiment": -2,
+        "published": "February 9, 2022 10:48 AM"
+    },
+    {
         "title": "Colorado Springs to pay nearly $3 mln to family of Black man shot dead by police",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/world/us/colorado-springs-pay-nearly-3-mln-family-black-man-shot-dead-by-police-2022-02-09/",
         "timestamp": 1644405766,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 9, 2022 11:22 AM"
     },
     {
@@ -169,6 +169,69 @@
         "timestamp": 1644406902,
         "sentiment": 0,
         "published": "February 9, 2022 11:41 AM"
+    },
+    {
+        "title": "Oxford's JET lab smashes nuclear fusion energy output record",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/science-environment-60312633",
+        "timestamp": 1644408238,
+        "sentiment": 0,
+        "published": "February 9, 2022 12:03 PM"
+    },
+    {
+        "title": "The Supreme Court wages war on Black power — now The court's decision Monday in favor of Alabama’s gerrymandered maps show the conservatives justices are all-in on white, totalitarian rule.",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/reidout-blog/alabama-supreme-court-rcna15342",
+        "timestamp": 1644409004,
+        "sentiment": -2,
+        "published": "February 9, 2022 12:16 PM"
+    },
+    {
+        "title": "SpaceX loses 40 satellites to geomagnetic storm a day after launch",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-60317806",
+        "timestamp": 1644410492,
+        "sentiment": 0,
+        "published": "February 9, 2022 12:41 PM"
+    },
+    {
+        "title": "House Passes Bill to Repeal 'Debilitating' USPS Prefunding Mandate|\"You deserve a working Post Office,\" said Rep. Bill Pascrell. \"The Senate should get off its rear and pass this now.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/02/09/house-passes-bill-repeal-debilitating-usps-prefunding-mandate",
+        "timestamp": 1644411574,
+        "sentiment": -2,
+        "published": "February 9, 2022 12:59 PM"
+    },
+    {
+        "title": "DOJ must investigate Donald Trump for destroying official records",
+        "domain": "citizensforethics.org",
+        "category": "politics",
+        "link": "https://www.citizensforethics.org/legal-action/legal-complaints/doj-must-investigate-donald-trump-for-destroying-official-records/",
+        "timestamp": 1644412368,
+        "sentiment": -2,
+        "published": "February 9, 2022 1:12 PM"
+    },
+    {
+        "title": "Fox Lost $85 Million Last Quarter",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/fox-lost-85-million-last-quarter/",
+        "timestamp": 1644414007,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:40 PM"
+    },
+    {
+        "title": "Affidavit: Amir Locke’s cousin arrested in connection to St. Paul homicide, was target of search when Locke was shot",
+        "domain": "kstp.com",
+        "category": "news",
+        "link": "https://kstp.com/kstp-news/top-news/st-paul-homicide-suspect-arrested-minneapolis-shooting-amir-locke/",
+        "timestamp": 1644370174,
+        "sentiment": -3,
+        "published": "February 9, 2022 1:29 AM"
     },
     {
         "title": "Free heroin, cocaine and meth will be handed out in Vancouver (VIDEO)",
