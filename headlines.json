@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "February 9, 2022 12:09 AM"
     },
     {
@@ -23,8 +23,17 @@
         "category": "worldnews",
         "link": "https://ottawacitizen.com/news/local-news/trucker-protest-organizer-slips-on-icy-sidewalk-breaks-ankle-bones-criticizes-ottawa-for-unsafe-conditions",
         "timestamp": 1644369439,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "February 9, 2022 1:17 AM"
+    },
+    {
+        "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
+        "timestamp": 1644371574,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:52 AM"
     },
     {
         "title": "‘Reacher’ Renewed for Season 2 by Amazon Prime Video",
