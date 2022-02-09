@@ -5,8 +5,26 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "February 9, 2022 12:09 AM"
+    },
+    {
+        "title": "‘Early Edition’ Reboot From Melissa Glenn Lands Pilot Order At CBS",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/early-edition-reboot-pilot-order-cbs-1234929233/",
+        "timestamp": 1644367658,
+        "sentiment": 0,
+        "published": "February 9, 2022 12:47 AM"
+    },
+    {
+        "title": "Trucker protest organizer slips on icy sidewalk, breaks ankle bones, criticizes Ottawa for unsafe conditions",
+        "domain": "ottawacitizen.com",
+        "category": "worldnews",
+        "link": "https://ottawacitizen.com/news/local-news/trucker-protest-organizer-slips-on-icy-sidewalk-breaks-ankle-bones-criticizes-ottawa-for-unsafe-conditions",
+        "timestamp": 1644369439,
+        "sentiment": -4,
+        "published": "February 9, 2022 1:17 AM"
     },
     {
         "title": "‘Reacher’ Renewed for Season 2 by Amazon Prime Video",
