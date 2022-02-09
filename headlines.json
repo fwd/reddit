@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.nature.com/articles/d41586-022-00312-2",
         "timestamp": 1644368515,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 1:01 AM"
-    },
-    {
-        "title": "After Crusade Against Hillary Clinton Emails, GOP Silent On Trump Ripping Up Documents",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/hillary-clinton-emails-gop-trump-ripping-documents_n_6202c78ae4b050042433bc2f",
-        "timestamp": 1644369848,
-        "sentiment": -2,
-        "published": "February 9, 2022 1:24 AM"
     },
     {
         "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
         "timestamp": 1644371574,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 1:52 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/wait-see-china-vows-strong-response-us-prepares-arm-taiwan-missile-defense-1677148",
         "timestamp": 1644373179,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 2:19 AM"
     },
     {
@@ -61,24 +52,6 @@
         "timestamp": 1644375592,
         "sentiment": -2,
         "published": "February 9, 2022 2:59 AM"
-    },
-    {
-        "title": "Lawmakers asking for a federal investigation into travel nurse salaries",
-        "domain": "fox56.com",
-        "category": "news",
-        "link": "https://fox56.com/news/local/lawmakers-asking-for-a-federal-investigation-into-travel-nurse-salaries",
-        "timestamp": 1644376794,
-        "sentiment": 2,
-        "published": "February 9, 2022 3:19 AM"
-    },
-    {
-        "title": "Greece draws in the US — and edges out Russia | Greece is hosting more American troops and buying US energy, frustrating Russia.",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/greece-us-russia-military-energy-relation/",
-        "timestamp": 1644383414,
-        "sentiment": -2,
-        "published": "February 9, 2022 5:10 AM"
     },
     {
         "title": "Starbucks fires 7 employees involved in Memphis union effort",
@@ -113,7 +86,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/all-of-us-are-dead-netflix-top-10-ratings-1235174812/",
         "timestamp": 1644406902,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 11:41 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/09/most-europeans-want-to-stand-with-kyiv-against-moscow-poll-suggests",
         "timestamp": 1644409174,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 12:19 PM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/americas/20220207-the-embargo-is-a-virus-too-cuba-marks-six-decades-under-us-sanctions",
         "timestamp": 1644411000,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 12:50 PM"
     },
     {
@@ -180,21 +153,12 @@
         "published": "February 9, 2022 1:31 PM"
     },
     {
-        "title": "Fox Lost $85 Million Last Quarter",
-        "domain": "thewrap.com",
-        "category": "television",
-        "link": "https://www.thewrap.com/fox-lost-85-million-last-quarter/",
-        "timestamp": 1644414007,
-        "sentiment": 0,
-        "published": "February 9, 2022 1:40 PM"
-    },
-    {
         "title": "'Reno 911! Defunded' (Season 8) Premieres February 25 on Roku",
         "domain": "collider.com",
         "category": "television",
         "link": "https://collider.com/reno-911-defunded-trailer-release-date-roku-channel/",
         "timestamp": 1644414861,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 1:54 PM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
         "timestamp": 1644416050,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 2:14 PM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/simpsons-itchy-scratchy-poochie-show-25-1235081217/",
         "timestamp": 1644416232,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 2:17 PM"
     },
     {
@@ -239,8 +203,17 @@
         "category": "worldnews",
         "link": "https://www.vice.com/en/article/jgmvk8/amazon-has-received-at-least-dollar47-billion-in-subsidies-globally-watchdog-says",
         "timestamp": 1644416323,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 9, 2022 2:18 PM"
+    },
+    {
+        "title": "Scientists Fear Soaring Methane Levels Show Climate Feedback Loop Has Arrived",
+        "domain": "commondreams.org",
+        "category": "worldnews",
+        "link": "https://www.commondreams.org/news/2022/02/09/scientists-fear-soaring-methane-levels-show-climate-feedback-loop-has-arrived",
+        "timestamp": 1644416800,
+        "sentiment": 2,
+        "published": "February 9, 2022 2:26 PM"
     },
     {
         "title": "The Last Kingdom season 5 trailer | Premieres March 9",
@@ -248,7 +221,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/last-kingdom-season-5-trailer-newsupdate/",
         "timestamp": 1644417088,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 2:31 PM"
     },
     {
@@ -266,15 +239,6 @@
         "category": "politics",
         "link": "https://www.wtrf.com/news/candidate-for-u-s-senator-burns-confederate-flag-in-campaign-ad/",
         "timestamp": 1644417733,
-        "sentiment": -2,
-        "published": "February 9, 2022 2:42 PM"
-    },
-    {
-        "title": "Appalling video shows Iranian man carrying wife’s head after ‘honor killing’",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/02/08/iranian-man-carries-wifes-head-after-honor-killing/",
-        "timestamp": 1644417760,
         "sentiment": -2,
         "published": "February 9, 2022 2:42 PM"
     },
@@ -302,8 +266,107 @@
         "category": "television",
         "link": "https://www.nytimes.com/2022/02/09/magazine/bob-odenkirk-better-call-saul.html",
         "timestamp": 1644421222,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "February 9, 2022 3:40 PM"
+    },
+    {
+        "title": "Ron Johnson erupts at Biden’s Holocaust expert who accused him of ‘white supremacy’ over Jan 6",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/ron-johnson-biden-lipstadt-holocaust-b2011325.html",
+        "timestamp": 1644422478,
+        "sentiment": -2,
+        "published": "February 9, 2022 4:01 PM"
+    },
+    {
+        "title": "Bel-Air review: The dramatic reboot of Will Smith’s classic Nineties sitcom can’t live up to the promise of its viral fake trailer",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv/tv-reviews/bel-air-review-1294283/",
+        "timestamp": 1644422662,
+        "sentiment": -7,
+        "published": "February 9, 2022 4:04 PM"
+    },
+    {
+        "title": "White House approves plan for US troops to help Americans leave Ukraine if Russia invades",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/09/politics/white-house-plan-troops-help-americans-leave-ukraine/index.html",
+        "timestamp": 1644423507,
+        "sentiment": 2,
+        "published": "February 9, 2022 4:18 PM"
+    },
+    {
+        "title": "Dollywood offering to pay education tuition for all employees",
+        "domain": "newschannel5.com",
+        "category": "news",
+        "link": "https://www.newschannel5.com/news/dollywood-offering-to-pay-education-tuition-for-all-employees",
+        "timestamp": 1644425648,
+        "sentiment": 2,
+        "published": "February 9, 2022 4:54 PM"
+    },
+    {
+        "title": "‘Birdgirl’ & ‘Smiling Friends’ Renewed For Season 2 By Adult Swim",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/birdgirl-smiling-friends-renewed-season-2-adult-swim-1234929116/",
+        "timestamp": 1644426079,
+        "sentiment": -7,
+        "published": "February 9, 2022 5:01 PM"
+    },
+    {
+        "title": "Minnesota authorities can't arrest or threaten journalists after judge approves settlement arising from George Floyd protests",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/09/us/minnesota-settlement-police-journalists-protests/index.html",
+        "timestamp": 1644426337,
+        "sentiment": 2,
+        "published": "February 9, 2022 5:05 PM"
+    },
+    {
+        "title": "After Crusade Against Hillary Clinton Emails, GOP Silent On Trump Ripping Up Documents",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/hillary-clinton-emails-gop-trump-ripping-documents_n_6202c78ae4b050042433bc2f",
+        "timestamp": 1644369848,
+        "sentiment": -2,
+        "published": "February 9, 2022 1:24 AM"
+    },
+    {
+        "title": "Lawmakers asking for a federal investigation into travel nurse salaries",
+        "domain": "fox56.com",
+        "category": "news",
+        "link": "https://fox56.com/news/local/lawmakers-asking-for-a-federal-investigation-into-travel-nurse-salaries",
+        "timestamp": 1644376794,
+        "sentiment": 2,
+        "published": "February 9, 2022 3:19 AM"
+    },
+    {
+        "title": "Greece draws in the US — and edges out Russia | Greece is hosting more American troops and buying US energy, frustrating Russia.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/greece-us-russia-military-energy-relation/",
+        "timestamp": 1644383414,
+        "sentiment": -2,
+        "published": "February 9, 2022 5:10 AM"
+    },
+    {
+        "title": "Fox Lost $85 Million Last Quarter",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/fox-lost-85-million-last-quarter/",
+        "timestamp": 1644414007,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:40 PM"
+    },
+    {
+        "title": "Appalling video shows Iranian man carrying wife’s head after ‘honor killing’",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/02/08/iranian-man-carries-wifes-head-after-honor-killing/",
+        "timestamp": 1644417760,
+        "sentiment": -2,
+        "published": "February 9, 2022 2:42 PM"
     },
     {
         "title": "Our goal is to avoid a war in Europe,' says Germany's Scholz",
