@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://collider.com/its-always-sunny-in-philadelphia-dave-bautista-macs-dad/",
         "timestamp": 1644371574,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 1:52 AM"
     },
     {
@@ -54,21 +54,12 @@
         "published": "February 9, 2022 12:50 PM"
     },
     {
-        "title": "Pelosi buckles, pushes stock-trading ban",
-        "domain": "axios.com",
-        "category": "politics",
-        "link": "https://www.axios.com/pelosi-stock-trading-ban-congress-069dc627-71fd-490f-a005-510bbd18cce2.html",
-        "timestamp": 1644411543,
-        "sentiment": -2,
-        "published": "February 9, 2022 12:59 PM"
-    },
-    {
         "title": "House Passes Bill to Repeal 'Debilitating' USPS Prefunding Mandate|\"You deserve a working Post Office,\" said Rep. Bill Pascrell. \"The Senate should get off its rear and pass this now.\"",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/09/house-passes-bill-repeal-debilitating-usps-prefunding-mandate",
         "timestamp": 1644411574,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 12:59 PM"
     },
     {
@@ -77,17 +68,8 @@
         "category": "politics",
         "link": "https://www.citizensforethics.org/legal-action/legal-complaints/doj-must-investigate-donald-trump-for-destroying-official-records/",
         "timestamp": 1644412368,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 1:12 PM"
-    },
-    {
-        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
-        "timestamp": 1644413474,
-        "sentiment": 0,
-        "published": "February 9, 2022 1:31 PM"
     },
     {
         "title": "'Reno 911! Defunded' (Season 8) Premieres February 25 on Roku",
@@ -95,7 +77,7 @@
         "category": "television",
         "link": "https://collider.com/reno-911-defunded-trailer-release-date-roku-channel/",
         "timestamp": 1644414861,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 1:54 PM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/trumpy-colorado-county-clerk-tina-peters-arrested-after-resisting-search-warrant-reports",
         "timestamp": 1644415693,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 2:08 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/last-kingdom-season-5-trailer-newsupdate/",
         "timestamp": 1644417088,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 2:31 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/gary-chambers-jr-confederate-flag-louisiana-senate-1297202/",
         "timestamp": 1644417434,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 2:37 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.wtrf.com/news/candidate-for-u-s-senator-burns-confederate-flag-in-campaign-ad/",
         "timestamp": 1644417733,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 2:42 PM"
     },
     {
@@ -185,17 +167,8 @@
         "category": "television",
         "link": "https://www.nytimes.com/2022/02/09/magazine/bob-odenkirk-better-call-saul.html",
         "timestamp": 1644421222,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 3:40 PM"
-    },
-    {
-        "title": "Chinese 'space cleaner' spotted grabbing and throwing away old satellite: Last month, a private satellite tracking company spotted a Chinese spacecraft apparently grabbing and throwing a dead satellite away into a \"graveyard\" orbit.",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/chinese-space-cleaner-spotted-grabbing-and-throwing-away-old-satellite/a-60658574",
-        "timestamp": 1644422324,
-        "sentiment": -3,
-        "published": "February 9, 2022 3:58 PM"
     },
     {
         "title": "Ron Johnson erupts at Biden’s Holocaust expert who accused him of ‘white supremacy’ over Jan 6",
@@ -203,7 +176,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/ron-johnson-biden-lipstadt-holocaust-b2011325.html",
         "timestamp": 1644422478,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 4:01 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv/tv-reviews/bel-air-review-1294283/",
         "timestamp": 1644422662,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 4:04 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/birdgirl-smiling-friends-renewed-season-2-adult-swim-1234929116/",
         "timestamp": 1644426079,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 5:01 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/crew-trump-documents-investigation-b2011507.html",
         "timestamp": 1644427360,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 5:22 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/opinion/columnists/2022/02/08/trump-white-house-documents-hillary-emails/6706509001/",
         "timestamp": 1644429906,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 6:05 PM"
     },
     {
@@ -297,12 +270,21 @@
         "published": "February 9, 2022 6:26 PM"
     },
     {
+        "title": "‘Ironheart’: Anthony Ramos Lands New Secret Role In Upcoming Marvel Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/ironheart-anthony-ramos-marvel-series-1234929548/",
+        "timestamp": 1644431589,
+        "sentiment": 3,
+        "published": "February 9, 2022 6:33 PM"
+    },
+    {
         "title": "Trump Attack on Biden’s Competence Misspells ‘Incompetent’",
         "domain": "nymag.com",
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/02/trump-attack-on-bidens-competence-misspells-incompetent.html",
         "timestamp": 1644431797,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 9, 2022 6:36 PM"
     },
     {
@@ -315,6 +297,15 @@
         "published": "February 9, 2022 6:37 PM"
     },
     {
+        "title": "U.S. VP Harris to attend Munich Conference, rally allies to defuse Ukraine crisis",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://reuters.com/article/idUSKBN2KE1O7",
+        "timestamp": 1644436195,
+        "sentiment": -3,
+        "published": "February 9, 2022 7:49 PM"
+    },
+    {
         "title": "Gun-waving St. Louis couple placed on probation as lawyers",
         "domain": "apnews.com",
         "category": "news",
@@ -324,13 +315,67 @@
         "published": "February 9, 2022 8:01 PM"
     },
     {
+        "title": "Sen. Tommy Tuberville, who violated stock-trading rules 132 times last year, says it's 'ridiculous' to ban lawmakers from trading stocks",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/tommy-tuberville-ridiculous-to-ban-lawmakers-from-trading-stocks-2022-2",
+        "timestamp": 1644437551,
+        "sentiment": -1,
+        "published": "February 9, 2022 8:12 PM"
+    },
+    {
         "title": "‘Futurama’ Revival Ordered at Hulu With Multiple Original Cast Members Returning",
         "domain": "variety.com",
         "category": "television",
         "link": "https://variety.com/2022/tv/news/futurama-revival-hulu-1235176203/",
         "timestamp": 1644438632,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 9, 2022 8:30 PM"
+    },
+    {
+        "title": "A 12-year-old Black girl made a 'Black Lives Matter' swimsuit for a competition and refused to change when an official said she'd be disqualified",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/02/09/us/wisconsin-black-student-athlete-disqualified-blm-swimsuit/index.html",
+        "timestamp": 1644439401,
+        "sentiment": 0,
+        "published": "February 9, 2022 8:43 PM"
+    },
+    {
+        "title": "'Obi-Wan Kenobi' Will Debut on May 25, 2022 on Disney+",
+        "domain": "starwars.com",
+        "category": "television",
+        "link": "https://www.starwars.com/news/obi-wan-kenobi-premiere-date",
+        "timestamp": 1644443216,
+        "sentiment": 3,
+        "published": "February 9, 2022 9:46 PM"
+    },
+    {
+        "title": "Pelosi buckles, pushes stock-trading ban",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/pelosi-stock-trading-ban-congress-069dc627-71fd-490f-a005-510bbd18cce2.html",
+        "timestamp": 1644411543,
+        "sentiment": -2,
+        "published": "February 9, 2022 12:59 PM"
+    },
+    {
+        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
+        "timestamp": 1644413474,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:31 PM"
+    },
+    {
+        "title": "Chinese 'space cleaner' spotted grabbing and throwing away old satellite: Last month, a private satellite tracking company spotted a Chinese spacecraft apparently grabbing and throwing a dead satellite away into a \"graveyard\" orbit.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/chinese-space-cleaner-spotted-grabbing-and-throwing-away-old-satellite/a-60658574",
+        "timestamp": 1644422324,
+        "sentiment": -3,
+        "published": "February 9, 2022 3:58 PM"
     },
     {
         "title": "'Futurama' Revival Ordered at Hulu With Original Cast Returning",
@@ -385,15 +430,6 @@
         "timestamp": 1644414901,
         "sentiment": 2,
         "published": "February 9, 2022 1:55 PM"
-    },
-    {
-        "title": "‘Ironheart’: Anthony Ramos Lands New Secret Role In Upcoming Marvel Series",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/ironheart-anthony-ramos-marvel-series-1234929548/",
-        "timestamp": 1644431589,
-        "sentiment": 3,
-        "published": "February 9, 2022 6:33 PM"
     },
     {
         "title": "Man breaks into home, takes bath, eats shrimp leaves $200 for damages",
