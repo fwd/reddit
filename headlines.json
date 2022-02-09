@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "February 9, 2022 12:09 AM"
     },
     {
@@ -18,13 +18,31 @@
         "published": "February 9, 2022 12:47 AM"
     },
     {
-        "title": "Trucker protest organizer slips on icy sidewalk, breaks ankle bones, criticizes Ottawa for unsafe conditions",
-        "domain": "ottawacitizen.com",
+        "title": "Scientists raise alarm over ‘dangerously fast’ growth in atmospheric methane",
+        "domain": "nature.com",
         "category": "worldnews",
-        "link": "https://ottawacitizen.com/news/local-news/trucker-protest-organizer-slips-on-icy-sidewalk-breaks-ankle-bones-criticizes-ottawa-for-unsafe-conditions",
-        "timestamp": 1644369439,
+        "link": "https://www.nature.com/articles/d41586-022-00312-2",
+        "timestamp": 1644368515,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:01 AM"
+    },
+    {
+        "title": "After Crusade Against Hillary Clinton Emails, GOP Silent On Trump Ripping Up Documents",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/hillary-clinton-emails-gop-trump-ripping-documents_n_6202c78ae4b050042433bc2f",
+        "timestamp": 1644369848,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:24 AM"
+    },
+    {
+        "title": "Affidavit: Amir Locke’s cousin arrested in connection to St. Paul homicide, was target of search when Locke was shot",
+        "domain": "kstp.com",
+        "category": "news",
+        "link": "https://kstp.com/kstp-news/top-news/st-paul-homicide-suspect-arrested-minneapolis-shooting-amir-locke/",
+        "timestamp": 1644370174,
         "sentiment": -3,
-        "published": "February 9, 2022 1:17 AM"
+        "published": "February 9, 2022 1:29 AM"
     },
     {
         "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
@@ -34,6 +52,24 @@
         "timestamp": 1644371574,
         "sentiment": 0,
         "published": "February 9, 2022 1:52 AM"
+    },
+    {
+        "title": "Sen. Ron Johnson was one of 3 Republican senators to attend MyPillow CEO Mike Lindell's meeting to discuss delaying the election certification 2 days before the Jan 6 Capitol riot",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/ron-johnson-mike-lindell-meeting-delaying-election-certification-capitol-riot-2022-2",
+        "timestamp": 1644372727,
+        "sentiment": 0,
+        "published": "February 9, 2022 2:12 AM"
+    },
+    {
+        "title": "Trucker protest organizer slips on icy sidewalk, breaks ankle bones, criticizes Ottawa for unsafe conditions",
+        "domain": "ottawacitizen.com",
+        "category": "worldnews",
+        "link": "https://ottawacitizen.com/news/local-news/trucker-protest-organizer-slips-on-icy-sidewalk-breaks-ankle-bones-criticizes-ottawa-for-unsafe-conditions",
+        "timestamp": 1644369439,
+        "sentiment": -3,
+        "published": "February 9, 2022 1:17 AM"
     },
     {
         "title": "‘Reacher’ Renewed for Season 2 by Amazon Prime Video",
