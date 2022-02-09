@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/man-breaks-into-home-takes-bath-eats-shrimp-leaves-200-damages/A2PIAJHYTFD5RC6SR5YTKFQTPA/",
         "timestamp": 1644365364,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 9, 2022 12:09 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.nature.com/articles/d41586-022-00312-2",
         "timestamp": 1644368515,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 9, 2022 1:01 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://kstp.com/kstp-news/top-news/st-paul-homicide-suspect-arrested-minneapolis-shooting-amir-locke/",
         "timestamp": 1644370174,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "February 9, 2022 1:29 AM"
     },
     {
@@ -61,6 +61,33 @@
         "timestamp": 1644372727,
         "sentiment": 0,
         "published": "February 9, 2022 2:12 AM"
+    },
+    {
+        "title": "\"Wait and see\": China vows strong response as U.S. prepares to arm Taiwan",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/wait-see-china-vows-strong-response-us-prepares-arm-taiwan-missile-defense-1677148",
+        "timestamp": 1644373179,
+        "sentiment": -3,
+        "published": "February 9, 2022 2:19 AM"
+    },
+    {
+        "title": "North Carolina elections board says it has power to disqualify Rep. Cawthorn from running over January 6",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/08/politics/north-carolina-elections-board-madison-cawthorn-january-6/index.html?utm_content=2022-02-09T02%3A44%3A09&utm_term=link&utm_medium=social&utm_source=twCNN",
+        "timestamp": 1644375592,
+        "sentiment": 0,
+        "published": "February 9, 2022 2:59 AM"
+    },
+    {
+        "title": "Lawmakers asking for a federal investigation into travel nurse salaries",
+        "domain": "fox56.com",
+        "category": "news",
+        "link": "https://fox56.com/news/local/lawmakers-asking-for-a-federal-investigation-into-travel-nurse-salaries",
+        "timestamp": 1644376794,
+        "sentiment": -5,
+        "published": "February 9, 2022 3:19 AM"
     },
     {
         "title": "Trucker protest organizer slips on icy sidewalk, breaks ankle bones, criticizes Ottawa for unsafe conditions",
