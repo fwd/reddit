@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/wait-see-china-vows-strong-response-us-prepares-arm-taiwan-missile-defense-1677148",
         "timestamp": 1644373179,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 2:19 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/feb/09/most-europeans-want-to-stand-with-kyiv-against-moscow-poll-suggests",
         "timestamp": 1644409174,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 12:19 PM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/americas/20220207-the-embargo-is-a-virus-too-cuba-marks-six-decades-under-us-sanctions",
         "timestamp": 1644411000,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 12:50 PM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/09/house-passes-bill-repeal-debilitating-usps-prefunding-mandate",
         "timestamp": 1644411574,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 12:59 PM"
     },
     {
@@ -68,8 +68,17 @@
         "category": "politics",
         "link": "https://www.citizensforethics.org/legal-action/legal-complaints/doj-must-investigate-donald-trump-for-destroying-official-records/",
         "timestamp": 1644412368,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 1:12 PM"
+    },
+    {
+        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
+        "timestamp": 1644413474,
+        "sentiment": 0,
+        "published": "February 9, 2022 1:31 PM"
     },
     {
         "title": "'Reno 911! Defunded' (Season 8) Premieres February 25 on Roku",
@@ -86,7 +95,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/trumpy-colorado-county-clerk-tina-peters-arrested-after-resisting-search-warrant-reports",
         "timestamp": 1644415693,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 2:08 PM"
     },
     {
@@ -95,17 +104,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
         "timestamp": 1644416050,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 2:14 PM"
-    },
-    {
-        "title": "Amazon Has Received $4.7 Billion in Subsidies Globally, Watchdog Says",
-        "domain": "vice.com",
-        "category": "worldnews",
-        "link": "https://www.vice.com/en/article/jgmvk8/amazon-has-received-at-least-dollar47-billion-in-subsidies-globally-watchdog-says",
-        "timestamp": 1644416323,
-        "sentiment": -3,
-        "published": "February 9, 2022 2:18 PM"
     },
     {
         "title": "Scientists Fear Soaring Methane Levels Show Climate Feedback Loop Has Arrived",
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.commondreams.org/news/2022/02/09/scientists-fear-soaring-methane-levels-show-climate-feedback-loop-has-arrived",
         "timestamp": 1644416800,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 2:26 PM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/gary-chambers-jr-confederate-flag-louisiana-senate-1297202/",
         "timestamp": 1644417434,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 2:37 PM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "politics",
         "link": "https://www.wtrf.com/news/candidate-for-u-s-senator-burns-confederate-flag-in-campaign-ad/",
         "timestamp": 1644417733,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 2:42 PM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/ron-johnson-biden-lipstadt-holocaust-b2011325.html",
         "timestamp": 1644422478,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 4:01 PM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/09/politics/white-house-plan-troops-help-americans-leave-ukraine/index.html",
         "timestamp": 1644423507,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 4:18 PM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/crew-trump-documents-investigation-b2011507.html",
         "timestamp": 1644427360,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 5:22 PM"
     },
     {
@@ -239,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/north-korea-says-has-missile-can-hit-us-mainland-2022-2",
         "timestamp": 1644427752,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 5:29 PM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/economy/2022/2/9/canadas-bridge-blocking-trucker-protest-is-short-on-semis",
         "timestamp": 1644429677,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "February 9, 2022 6:01 PM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/opinion/columnists/2022/02/08/trump-white-house-documents-hillary-emails/6706509001/",
         "timestamp": 1644429906,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 6:05 PM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/02/trump-attack-on-bidens-competence-misspells-incompetent.html",
         "timestamp": 1644431797,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 6:36 PM"
     },
     {
@@ -295,15 +295,6 @@
         "timestamp": 1644431851,
         "sentiment": 0,
         "published": "February 9, 2022 6:37 PM"
-    },
-    {
-        "title": "U.S. VP Harris to attend Munich Conference, rally allies to defuse Ukraine crisis",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://reuters.com/article/idUSKBN2KE1O7",
-        "timestamp": 1644436195,
-        "sentiment": -3,
-        "published": "February 9, 2022 7:49 PM"
     },
     {
         "title": "Gun-waving St. Louis couple placed on probation as lawyers",
@@ -320,7 +311,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/tommy-tuberville-ridiculous-to-ban-lawmakers-from-trading-stocks-2022-2",
         "timestamp": 1644437551,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "February 9, 2022 8:12 PM"
     },
     {
@@ -333,13 +324,13 @@
         "published": "February 9, 2022 8:30 PM"
     },
     {
-        "title": "A 12-year-old Black girl made a 'Black Lives Matter' swimsuit for a competition and refused to change when an official said she'd be disqualified",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/02/09/us/wisconsin-black-student-athlete-disqualified-blm-swimsuit/index.html",
-        "timestamp": 1644439401,
-        "sentiment": 0,
-        "published": "February 9, 2022 8:43 PM"
+        "title": "$1million painting is ruined after 'bored' security guard draws eyes on faceless figures",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10493235/740-000-painting-ruined-security-guard-draws-eyes-faceless-figures-Russian-gallery.html",
+        "timestamp": 1644442637,
+        "sentiment": 2,
+        "published": "February 9, 2022 9:37 PM"
     },
     {
         "title": "'Obi-Wan Kenobi' Will Debut on May 25, 2022 on Disney+",
@@ -351,6 +342,42 @@
         "published": "February 9, 2022 9:46 PM"
     },
     {
+        "title": "Putin's superyacht abruptly left Germany amid sanction warnings should Russia invade Ukraine: report",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/putins-superyacht-abruptly-left-germany-205427399.html",
+        "timestamp": 1644444175,
+        "sentiment": 2,
+        "published": "February 9, 2022 10:02 PM"
+    },
+    {
+        "title": "Amazon Has Received $4.7 Billion in Subsidies Globally, Watchdog Says",
+        "domain": "vice.com",
+        "category": "worldnews",
+        "link": "https://www.vice.com/en/article/jgmvk8/amazon-has-received-at-least-dollar47-billion-in-subsidies-globally-watchdog-says",
+        "timestamp": 1644416323,
+        "sentiment": -3,
+        "published": "February 9, 2022 2:18 PM"
+    },
+    {
+        "title": "U.S. VP Harris to attend Munich Conference, rally allies to defuse Ukraine crisis",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://reuters.com/article/idUSKBN2KE1O7",
+        "timestamp": 1644436195,
+        "sentiment": -3,
+        "published": "February 9, 2022 7:49 PM"
+    },
+    {
+        "title": "A 12-year-old Black girl made a 'Black Lives Matter' swimsuit for a competition and refused to change when an official said she'd be disqualified",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/02/09/us/wisconsin-black-student-athlete-disqualified-blm-swimsuit/index.html",
+        "timestamp": 1644439401,
+        "sentiment": 0,
+        "published": "February 9, 2022 8:43 PM"
+    },
+    {
         "title": "Pelosi buckles, pushes stock-trading ban",
         "domain": "axios.com",
         "category": "politics",
@@ -358,15 +385,6 @@
         "timestamp": 1644411543,
         "sentiment": -2,
         "published": "February 9, 2022 12:59 PM"
-    },
-    {
-        "title": "Drug overdoses are costing the U.S. economy $1 trillion a year, government report estimates",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/02/08/drug-overdoses-cost-the-us-around-1-trillion-a-year-report-says.html",
-        "timestamp": 1644413474,
-        "sentiment": 0,
-        "published": "February 9, 2022 1:31 PM"
     },
     {
         "title": "Chinese 'space cleaner' spotted grabbing and throwing away old satellite: Last month, a private satellite tracking company spotted a Chinese spacecraft apparently grabbing and throwing a dead satellite away into a \"graveyard\" orbit.",
