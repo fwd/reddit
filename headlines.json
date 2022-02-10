@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 12:56 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
         "timestamp": 1644462610,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 3:10 AM"
-    },
-    {
-        "title": "‘Mrs. Maisel’ Season 4 Adopts Weekly Episodes Release Schedule",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
-        "timestamp": 1644464895,
-        "sentiment": 1,
-        "published": "February 10, 2022 3:48 AM"
     },
     {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
@@ -50,17 +41,8 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
         "timestamp": 1644476314,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 6:58 AM"
-    },
-    {
-        "title": "Al Franken: 'It would be tempting' to run for office again",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/senate/593595-al-franken-it-would-be-tempting-to-run-for-office-again?amp",
-        "timestamp": 1644483814,
-        "sentiment": 0,
-        "published": "February 10, 2022 9:03 AM"
     },
     {
         "title": "Snoop Dogg now owns Death Row Records",
@@ -68,17 +50,8 @@
         "category": "news",
         "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
         "timestamp": 1644486576,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 9:49 AM"
-    },
-    {
-        "title": "California sues Tesla over ‘racial segregation’ claims at factory",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/business/2022/feb/10/california-sues-tesla-over-racial-segregation-claims-at-factory",
-        "timestamp": 1644486907,
-        "sentiment": -2,
-        "published": "February 10, 2022 9:55 AM"
     },
     {
         "title": "Apple TV Plus’ Severance offers a thrilling reminder of why we never want to return to the office | Releases 18 Feb",
@@ -86,7 +59,7 @@
         "category": "television",
         "link": "https://www.avclub.com/severance-review-apple-tv-plus-1848475563",
         "timestamp": 1644489495,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 10:38 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/10/europe/paris-freedom-convoy-banned-intl/index.html",
         "timestamp": 1644496580,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 12:36 PM"
     },
     {
@@ -122,8 +95,17 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/2/10/el-salvador-frees-woman-jailed-for-murder-after-a-miscarriage",
         "timestamp": 1644496741,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 12:39 PM"
+    },
+    {
+        "title": "Did Trump break the law by not preserving his White House memos?",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
+        "timestamp": 1644496935,
+        "sentiment": 0,
+        "published": "February 10, 2022 12:42 PM"
     },
     {
         "title": "Amazon’s ‘Lord of the Rings’ Series Rises: Inside ‘The Rings of Power’",
@@ -131,7 +113,7 @@
         "category": "television",
         "link": "https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look",
         "timestamp": 1644497516,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 12:51 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-will-receive-stinger-anti-aircraft-missiles-within-days-lithuania-pm-2022-02-10/",
         "timestamp": 1644497590,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 12:53 PM"
     },
     {
@@ -151,15 +133,6 @@
         "timestamp": 1644497878,
         "sentiment": 0,
         "published": "February 10, 2022 12:57 PM"
-    },
-    {
-        "title": "‘Snowball effect’: Canada’s trucker convoy sparks anti-mandate protests globally",
-        "domain": "globalnews.ca",
-        "category": "worldnews",
-        "link": "https://globalnews.ca/news/8608477/freedom-convoy-worldwide-covid-protests/",
-        "timestamp": 1644498794,
-        "sentiment": -2,
-        "published": "February 10, 2022 1:13 PM"
     },
     {
         "title": "Possible Classified Documents Found in Trump’s Mar-A-Lago Stash",
@@ -185,7 +158,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html",
         "timestamp": 1644500056,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 1:34 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-says-russian-drills-black-sea-made-shipping-virtually-impossible-2022-02-10/",
         "timestamp": 1644500342,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 1:39 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.wlox.com/app/2022/02/09/mississippi-fire-chief-dies-hours-after-legal-win-allowing-use-ivermectin-treat-covid/?outputType=apps",
         "timestamp": 1644500383,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 1:39 PM"
     },
     {
@@ -212,17 +185,8 @@
         "category": "news",
         "link": "https://www.thedenverchannel.com/news/local-news/tina-peters-arrested-for-allegedly-recording-court-proceeding",
         "timestamp": 1644502173,
-        "sentiment": -2,
-        "published": "February 10, 2022 2:09 PM"
-    },
-    {
-        "title": "Trump's White House Toilets Were 'Periodically' Clogged With Torn-Up Papers, New Book Says",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/donald-trump-white-house-toilet-paper_n_62050a0ce4b0328e0022a059",
-        "timestamp": 1644502995,
         "sentiment": 0,
-        "published": "February 10, 2022 2:23 PM"
+        "published": "February 10, 2022 2:09 PM"
     },
     {
         "title": "‘The Book of Boba Fett’ Exposes the Holes in Disney’s ‘Star Wars’ Armor — and How to Patch Them - With episodes essential to \"The Mandalorian\" yet barely relevant to \"Boba Fett,\" the spinoff proved an unworthy expansion. But \"the way\" is already clear.",
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/book-of-boba-fett-episode-7-review-fix-star-wars-spoilers-1234697764/",
         "timestamp": 1644505397,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 3:03 PM"
     },
     {
@@ -248,8 +212,17 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/truck-blockade-us-canadian-border-shuts-auto-plants-82799596",
         "timestamp": 1644506482,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 3:21 PM"
+    },
+    {
+        "title": "Macron bets on nuclear in carbon-neutrality push, announces new reactors",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/energy/macron-bets-nuclear-carbon-neutrality-push-announces-new-reactors-2022-02-10/",
+        "timestamp": 1644508720,
+        "sentiment": 0,
+        "published": "February 10, 2022 3:58 PM"
     },
     {
         "title": "Auburn man arrested for leaving flowers at fiancé's grave",
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.wtvm.com/2022/02/08/auburn-man-arrested-leaving-flowers-fiancs-grave/",
         "timestamp": 1644508875,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 4:01 PM"
     },
     {
@@ -266,8 +239,17 @@
         "category": "television",
         "link": "https://www.usatoday.com/story/entertainment/tv/2022/02/10/wheel-fortune-history-made-3-100-000-grand-prizes-row/6727229001/",
         "timestamp": 1644509378,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 4:09 PM"
+    },
+    {
+        "title": "Investigators Find Gaps in White House Logs of Trump’s Jan. 6 Calls",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html?referringSource=articleShare",
+        "timestamp": 1644510752,
+        "sentiment": 0,
+        "published": "February 10, 2022 4:32 PM"
     },
     {
         "title": "Russia Readies for ‘Naval Blockade’ of Ukraine Ahead of Missile Drills – Reports - The Moscow Times",
@@ -275,8 +257,17 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/02/10/russia-readies-for-naval-blockade-of-ukraine-ahead-of-missile-drills-reports-2-a76321",
         "timestamp": 1644511357,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 4:42 PM"
+    },
+    {
+        "title": "Documentary Now! Sets Season 4 Return, Details Revealed",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/documentary-now-season-4-sets-2022-return-episode-details/",
+        "timestamp": 1644511549,
+        "sentiment": 0,
+        "published": "February 10, 2022 4:45 PM"
     },
     {
         "title": "‘Better Call Saul’s’ Final Season Premieres April 18, 2022 on AMC",
@@ -284,7 +275,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/better-call-saul-final-season-premiere-date-1235090261/",
         "timestamp": 1644511601,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 10, 2022 4:46 PM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/south-korean-diplomat-attacked-nose-broken-new-york-city-street-rcna15701?cid=sm_npd_nn_tw_ma",
         "timestamp": 1644511857,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 4:50 PM"
     },
     {
@@ -311,8 +302,71 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/politics/article-federal-conservatives-call-for-an-end-to-all-blockades-after-first/",
         "timestamp": 1644513271,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 5:14 PM"
+    },
+    {
+        "title": "Anthony Fauci says ‘full-blown pandemic phase’ of COVID is ending",
+        "domain": "masslive.com",
+        "category": "news",
+        "link": "https://www.masslive.com/coronavirus/2022/02/anthony-fauci-says-full-blown-pandemic-phase-of-covid-is-ending.html",
+        "timestamp": 1644514923,
+        "sentiment": 0,
+        "published": "February 10, 2022 5:42 PM"
+    },
+    {
+        "title": "Macron announces France is to build up to 14 new nuclear reactors",
+        "domain": "independent.co.uk",
+        "category": "worldnews",
+        "link": "https://www.independent.co.uk/climate-change/news/france-to-build-up-to-14-new-nuclear-reactors-b2012331.html",
+        "timestamp": 1644514934,
+        "sentiment": 2,
+        "published": "February 10, 2022 5:42 PM"
+    },
+    {
+        "title": "‘Mrs. Maisel’ Season 4 Adopts Weekly Episodes Release Schedule",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
+        "timestamp": 1644464895,
+        "sentiment": 1,
+        "published": "February 10, 2022 3:48 AM"
+    },
+    {
+        "title": "Al Franken: 'It would be tempting' to run for office again",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/593595-al-franken-it-would-be-tempting-to-run-for-office-again?amp",
+        "timestamp": 1644483814,
+        "sentiment": 0,
+        "published": "February 10, 2022 9:03 AM"
+    },
+    {
+        "title": "California sues Tesla over ‘racial segregation’ claims at factory",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/feb/10/california-sues-tesla-over-racial-segregation-claims-at-factory",
+        "timestamp": 1644486907,
+        "sentiment": -2,
+        "published": "February 10, 2022 9:55 AM"
+    },
+    {
+        "title": "‘Snowball effect’: Canada’s trucker convoy sparks anti-mandate protests globally",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8608477/freedom-convoy-worldwide-covid-protests/",
+        "timestamp": 1644498794,
+        "sentiment": -2,
+        "published": "February 10, 2022 1:13 PM"
+    },
+    {
+        "title": "Trump's White House Toilets Were 'Periodically' Clogged With Torn-Up Papers, New Book Says",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/donald-trump-white-house-toilet-paper_n_62050a0ce4b0328e0022a059",
+        "timestamp": 1644502995,
+        "sentiment": 0,
+        "published": "February 10, 2022 2:23 PM"
     },
     {
         "title": "Manitoba man trapped in convoy protest while trying to drive his sister to emergency room",
@@ -322,15 +376,6 @@
         "timestamp": 1644455589,
         "sentiment": 0,
         "published": "February 10, 2022 1:13 AM"
-    },
-    {
-        "title": "Did Trump break the law by not preserving his White House memos?",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
-        "timestamp": 1644496935,
-        "sentiment": -4,
-        "published": "February 10, 2022 12:42 PM"
     },
     {
         "title": "Chinese tennis star Peng Shuai ‘retires’",
