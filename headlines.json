@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html",
         "timestamp": 1644455057,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 10, 2022 1:04 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.thedailybeast.com/fairview-is-stephen-colberts-tasteless-mockery-of-small-town-america",
         "timestamp": 1644455293,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "February 10, 2022 1:08 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
         "timestamp": 1644455875,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 10, 2022 1:17 AM"
     },
     {
@@ -63,13 +63,31 @@
         "published": "February 10, 2022 1:55 AM"
     },
     {
+        "title": "Trudeau slams 'unacceptable' protests as police warn truckers",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-60327794",
+        "timestamp": 1644458287,
+        "sentiment": 1,
+        "published": "February 10, 2022 1:58 AM"
+    },
+    {
         "title": "Madison Cawthorn warns of ‘dangerous’ consequences if he is removed from ballot using Civil War-era ‘insurrection’ clause",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-capitol-riot-jan-6-b2011699.html",
         "timestamp": 1644458719,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 10, 2022 2:05 AM"
+    },
+    {
+        "title": "Police arrest Mesa County clerk who promoted Trump’s false election claims",
+        "domain": "arstechnica.com",
+        "category": "politics",
+        "link": "https://arstechnica.com/tech-policy/2022/02/police-arrest-mesa-county-clerk-who-promoted-trumps-false-election-claims/",
+        "timestamp": 1644461427,
+        "sentiment": -1,
+        "published": "February 10, 2022 2:50 AM"
     },
     {
         "title": "US approves $100 million missile defense sale to Taiwan - CNN",
@@ -79,6 +97,15 @@
         "timestamp": 1644462610,
         "sentiment": 1,
         "published": "February 10, 2022 3:10 AM"
+    },
+    {
+        "title": "‘Mrs. Maisel’ Season 4 Adopts Weekly Episodes Release Schedule",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
+        "timestamp": 1644464895,
+        "sentiment": 0,
+        "published": "February 10, 2022 3:48 AM"
     },
     {
         "title": "French and German ministers quipped that Europe would \"live very well\" without Facebook after Meta said it might pull out of Europe.",
