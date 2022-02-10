@@ -14,17 +14,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": 0,
-        "published": "February 10, 2022 12:56 AM"
-    },
-    {
-        "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
-        "timestamp": 1644476314,
         "sentiment": -3,
-        "published": "February 10, 2022 6:58 AM"
+        "published": "February 10, 2022 12:56 AM"
     },
     {
         "title": "Snoop Dogg now owns Death Row Records",
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
         "timestamp": 1644486576,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 9:49 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/oklahoma-considers-database-for-pregnant-people-as-roe-hangs-in-the-balance_n_61fc17dee4b0725faac6d865",
         "timestamp": 1644491235,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 11:07 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.axios.com/maggie-haberman-book-trump-papers-2d59d593-8b89-4edd-8623-8ef709af524f.html",
         "timestamp": 1644491271,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 11:07 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices",
         "timestamp": 1644497878,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 12:57 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-classified-information-justice-department-national-archives-mar-a-lago-1297821/",
         "timestamp": 1644499300,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 1:21 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://about.bgov.com/news/pot-legalization-boosted-as-schumer-makes-issue-a-top-priority/",
         "timestamp": 1644499925,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 1:32 PM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html",
         "timestamp": 1644500056,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 1:34 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "news",
         "link": "https://www.wlox.com/app/2022/02/09/mississippi-fire-chief-dies-hours-after-legal-win-allowing-use-ivermectin-treat-covid/?outputType=apps",
         "timestamp": 1644500383,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 1:39 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.thedenverchannel.com/news/local-news/tina-peters-arrested-for-allegedly-recording-court-proceeding",
         "timestamp": 1644502173,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 2:09 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/10/karma-bites-in-ny-whine-after-dem-gerrymander-may-flip-three-seats/",
         "timestamp": 1644506140,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 3:15 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/truck-blockade-us-canadian-border-shuts-auto-plants-82799596",
         "timestamp": 1644506482,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 3:21 PM"
     },
     {
@@ -194,17 +185,8 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/02/09/opinion/supreme-court-shows-its-true-colors-by-greenlighting-alabamas-racial-gerrymander/",
         "timestamp": 1644507382,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 3:36 PM"
-    },
-    {
-        "title": "Macron bets on nuclear in carbon-neutrality push, announces new reactors",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/energy/macron-bets-nuclear-carbon-neutrality-push-announces-new-reactors-2022-02-10/",
-        "timestamp": 1644508720,
-        "sentiment": 0,
-        "published": "February 10, 2022 3:58 PM"
     },
     {
         "title": "Auburn man arrested for leaving flowers at fiancé's grave",
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.wtvm.com/2022/02/08/auburn-man-arrested-leaving-flowers-fiancs-grave/",
         "timestamp": 1644508875,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 4:01 PM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html?referringSource=articleShare",
         "timestamp": 1644510752,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 4:32 PM"
-    },
-    {
-        "title": "Russia Readies for ‘Naval Blockade’ of Ukraine Ahead of Missile Drills – Reports - The Moscow Times",
-        "domain": "themoscowtimes.com",
-        "category": "worldnews",
-        "link": "https://www.themoscowtimes.com/2022/02/10/russia-readies-for-naval-blockade-of-ukraine-ahead-of-missile-drills-reports-2-a76321",
-        "timestamp": 1644511357,
-        "sentiment": -3,
-        "published": "February 10, 2022 4:42 PM"
     },
     {
         "title": "Documentary Now! Sets Season 4 Return, Details Revealed",
@@ -266,7 +239,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6th-call-logs-b2012390.html",
         "timestamp": 1644512019,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 4:53 PM"
     },
     {
@@ -277,6 +250,15 @@
         "timestamp": 1644513271,
         "sentiment": -3,
         "published": "February 10, 2022 5:14 PM"
+    },
+    {
+        "title": "Italy makes protecting environment part of Constitution: The law says the state must safeguard the environment, biodiversity and the ecosystem \"in the interest of future generations\".",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/europe/europe-top-stories/italy-makes-protecting-environment-part-of-constitution/ar-AATD8IF",
+        "timestamp": 1644513935,
+        "sentiment": -3,
+        "published": "February 10, 2022 5:25 PM"
     },
     {
         "title": "Spanish court orders demolition of entire golf resort built in protected area",
@@ -293,7 +275,7 @@
         "category": "news",
         "link": "https://www.masslive.com/coronavirus/2022/02/anthony-fauci-says-full-blown-pandemic-phase-of-covid-is-ending.html",
         "timestamp": 1644514923,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 5:42 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/593622-senate-candidate-who-smoked-blunt-in-ad-burns-confederate-flag-in-latest",
         "timestamp": 1644519134,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 10, 2022 6:52 PM"
     },
     {
@@ -329,8 +311,53 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/jan-6-investigators-find-gaps-white-house-call-logs-nyt-2022-02-10/",
         "timestamp": 1644519489,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 10, 2022 6:58 PM"
+    },
+    {
+        "title": "U.S. truckers planning protest convoy, perhaps starting in L.A. for Super Bowl, DHS warns",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/trucker-protest-convoy-super-bowl-los-angeles-dhs-warning/?fbclid=IwAR1OwwBGqiTl7M9FdX-jNPbWMVLxQLBoqik9PSGgEsxVlD0y1DYmUITFLxY",
+        "timestamp": 1644521249,
+        "sentiment": -3,
+        "published": "February 10, 2022 7:27 PM"
+    },
+    {
+        "title": "Ottawa police face ‘flood’ of fake 911 calls; city hacked as trucker convoy continues",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8609284/ottawa-trucker-convoy-airport-disruptions/",
+        "timestamp": 1644522471,
+        "sentiment": -3,
+        "published": "February 10, 2022 7:47 PM"
+    },
+    {
+        "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
+        "timestamp": 1644476314,
+        "sentiment": -3,
+        "published": "February 10, 2022 6:58 AM"
+    },
+    {
+        "title": "Macron bets on nuclear in carbon-neutrality push, announces new reactors",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/energy/macron-bets-nuclear-carbon-neutrality-push-announces-new-reactors-2022-02-10/",
+        "timestamp": 1644508720,
+        "sentiment": 0,
+        "published": "February 10, 2022 3:58 PM"
+    },
+    {
+        "title": "Russia Readies for ‘Naval Blockade’ of Ukraine Ahead of Missile Drills – Reports - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/02/10/russia-readies-for-naval-blockade-of-ukraine-ahead-of-missile-drills-reports-2-a76321",
+        "timestamp": 1644511357,
+        "sentiment": -3,
+        "published": "February 10, 2022 4:42 PM"
     },
     {
         "title": "Alexandria Ocasio-Cortez responded to Marjorie Taylor Greene's 'gazpacho police' gaffe: 'She clearly banned all books from her house'",
