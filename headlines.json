@@ -27,15 +27,6 @@
         "published": "February 10, 2022 1:04 AM"
     },
     {
-        "title": "Pfizer says it raked in $36,800,000,000 in global COVID-19 vaccine sales",
-        "domain": "timesofisrael.com",
-        "category": "worldnews",
-        "link": "https://www.timesofisrael.com/liveblog_entry/pfizer-says-it-raked-in-36800000000-in-covid-19-vaccine-sales/",
-        "timestamp": 1644455176,
-        "sentiment": 2,
-        "published": "February 10, 2022 1:06 AM"
-    },
-    {
         "title": "Stephen Colbert’s Tasteless Mockery of Small-Town America (“Fairview” review)",
         "domain": "thedailybeast.com",
         "category": "television",
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
         "timestamp": 1644455589,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 10, 2022 1:13 AM"
     },
     {
@@ -68,8 +59,44 @@
         "category": "worldnews",
         "link": "https://pressprogress.ca/next-step-is-civil-war-big-money-convoy-donor-says-ottawa-siege-may-be-canadas-last-hope/",
         "timestamp": 1644458125,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 10, 2022 1:55 AM"
+    },
+    {
+        "title": "Madison Cawthorn warns of ‘dangerous’ consequences if he is removed from ballot using Civil War-era ‘insurrection’ clause",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-capitol-riot-jan-6-b2011699.html",
+        "timestamp": 1644458719,
+        "sentiment": -2,
+        "published": "February 10, 2022 2:05 AM"
+    },
+    {
+        "title": "US approves $100 million missile defense sale to Taiwan - CNN",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
+        "timestamp": 1644462610,
+        "sentiment": 1,
+        "published": "February 10, 2022 3:10 AM"
+    },
+    {
+        "title": "French and German ministers quipped that Europe would \"live very well\" without Facebook after Meta said it might pull out of Europe.",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/confirm-life-very-good-without-facebook-eu-ministers-meta-pullout-2022-2",
+        "timestamp": 1644464254,
+        "sentiment": 1,
+        "published": "February 10, 2022 3:37 AM"
+    },
+    {
+        "title": "Pfizer says it raked in $36,800,000,000 in global COVID-19 vaccine sales",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/liveblog_entry/pfizer-says-it-raked-in-36800000000-in-covid-19-vaccine-sales/",
+        "timestamp": 1644455176,
+        "sentiment": 2,
+        "published": "February 10, 2022 1:06 AM"
     },
     {
         "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
