@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 10, 2022 12:56 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
         "timestamp": 1644464895,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 10, 2022 3:48 AM"
     },
     {
@@ -117,15 +117,6 @@
         "published": "February 10, 2022 5:31 AM"
     },
     {
-        "title": "S. Koreans spend record high on Netflix in Jan.",
-        "domain": "yna.kr",
-        "category": "television",
-        "link": "http://yna.kr/AEN20220210007900320?input=red",
-        "timestamp": 1644472093,
-        "sentiment": 0,
-        "published": "February 10, 2022 5:48 AM"
-    },
-    {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
         "domain": "news.sky.com",
         "category": "worldnews",
@@ -133,6 +124,24 @@
         "timestamp": 1644476314,
         "sentiment": -2,
         "published": "February 10, 2022 6:58 AM"
+    },
+    {
+        "title": "Snoop Dogg now owns Death Row Records",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
+        "timestamp": 1644486576,
+        "sentiment": 0,
+        "published": "February 10, 2022 9:49 AM"
+    },
+    {
+        "title": "S. Koreans spend record high on Netflix in Jan.",
+        "domain": "yna.kr",
+        "category": "television",
+        "link": "http://yna.kr/AEN20220210007900320?input=red",
+        "timestamp": 1644472093,
+        "sentiment": 0,
+        "published": "February 10, 2022 5:48 AM"
     },
     {
         "title": "Stephen Colbert’s Tasteless Mockery of Small-Town America (“Fairview” review)",
