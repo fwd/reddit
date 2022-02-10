@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
         "timestamp": 1644464895,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "February 10, 2022 3:48 AM"
     },
     {
@@ -106,6 +106,15 @@
         "timestamp": 1644468705,
         "sentiment": -2,
         "published": "February 10, 2022 4:51 AM"
+    },
+    {
+        "title": "Lassa fever: UK detects two cases of Ebola-like virus that can cause vaginal bleeding and deafness",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/lassa-fever-uk-detects-two-cases-of-ebola-like-virus-that-can-cause-vaginal-bleeding-and-deafness-12537596",
+        "timestamp": 1644471080,
+        "sentiment": -2,
+        "published": "February 10, 2022 5:31 AM"
     },
     {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
