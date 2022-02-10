@@ -18,30 +18,12 @@
         "published": "February 10, 2022 12:56 AM"
     },
     {
-        "title": "Alexandria Ocasio-Cortez responded to Marjorie Taylor Greene's 'gazpacho police' gaffe: 'She clearly banned all books from her house'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
-        "timestamp": 1644455875,
-        "sentiment": 0,
-        "published": "February 10, 2022 1:17 AM"
-    },
-    {
-        "title": "US approves $100 million missile defense sale to Taiwan - CNN",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
-        "timestamp": 1644462610,
-        "sentiment": 2,
-        "published": "February 10, 2022 3:10 AM"
-    },
-    {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
         "domain": "news.sky.com",
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
         "timestamp": 1644476314,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 6:58 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/10/europe/paris-freedom-convoy-banned-intl/index.html",
         "timestamp": 1644496580,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 12:36 PM"
     },
     {
@@ -95,17 +77,8 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/2/10/el-salvador-frees-woman-jailed-for-murder-after-a-miscarriage",
         "timestamp": 1644496741,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 12:39 PM"
-    },
-    {
-        "title": "Did Trump break the law by not preserving his White House memos?",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
-        "timestamp": 1644496935,
-        "sentiment": 0,
-        "published": "February 10, 2022 12:42 PM"
     },
     {
         "title": "Amazon’s ‘Lord of the Rings’ Series Rises: Inside ‘The Rings of Power’",
@@ -122,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-will-receive-stinger-anti-aircraft-missiles-within-days-lithuania-pm-2022-02-10/",
         "timestamp": 1644497590,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 12:53 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-says-russian-drills-black-sea-made-shipping-virtually-impossible-2022-02-10/",
         "timestamp": 1644500342,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 1:39 PM"
     },
     {
@@ -216,6 +189,15 @@
         "published": "February 10, 2022 3:21 PM"
     },
     {
+        "title": "Supreme Court shows its true colors by greenlighting Alabama’s racial gerrymander - There was no denial that Alabama’s new map blatantly discriminated against Black voters",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/02/09/opinion/supreme-court-shows-its-true-colors-by-greenlighting-alabamas-racial-gerrymander/",
+        "timestamp": 1644507382,
+        "sentiment": 0,
+        "published": "February 10, 2022 3:36 PM"
+    },
+    {
         "title": "Macron bets on nuclear in carbon-neutrality push, announces new reactors",
         "domain": "reuters.com",
         "category": "news",
@@ -257,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/02/10/russia-readies-for-naval-blockade-of-ukraine-ahead-of-missile-drills-reports-2-a76321",
         "timestamp": 1644511357,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 4:42 PM"
     },
     {
@@ -279,15 +261,6 @@
         "published": "February 10, 2022 4:46 PM"
     },
     {
-        "title": "South Korean diplomat attacked, nose broken on New York City street",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/south-korean-diplomat-attacked-nose-broken-new-york-city-street-rcna15701?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1644511857,
-        "sentiment": 0,
-        "published": "February 10, 2022 4:50 PM"
-    },
-    {
         "title": "Trump evaded White House call logs on day of Capitol riots, committee finds",
         "domain": "independent.co.uk",
         "category": "politics",
@@ -302,8 +275,17 @@
         "category": "worldnews",
         "link": "https://www.theglobeandmail.com/politics/article-federal-conservatives-call-for-an-end-to-all-blockades-after-first/",
         "timestamp": 1644513271,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 5:14 PM"
+    },
+    {
+        "title": "Spanish court orders demolition of entire golf resort built in protected area",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/travel/article/spain-golf-resort-demolition-scli-intl/index.html",
+        "timestamp": 1644514238,
+        "sentiment": -3,
+        "published": "February 10, 2022 5:30 PM"
     },
     {
         "title": "Anthony Fauci says ‘full-blown pandemic phase’ of COVID is ending",
@@ -320,8 +302,71 @@
         "category": "worldnews",
         "link": "https://www.independent.co.uk/climate-change/news/france-to-build-up-to-14-new-nuclear-reactors-b2012331.html",
         "timestamp": 1644514934,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "February 10, 2022 5:42 PM"
+    },
+    {
+        "title": "'Young Justice' showrunners tease the climactic second half of 'Phantoms' + 30 sec trailer",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/young-justice-showrunners-tease-second-half-phantoms/",
+        "timestamp": 1644518929,
+        "sentiment": 0,
+        "published": "February 10, 2022 6:48 PM"
+    },
+    {
+        "title": "Senate candidate who smoked blunt in ad burns Confederate flag in latest spot",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/593622-senate-candidate-who-smoked-blunt-in-ad-burns-confederate-flag-in-latest",
+        "timestamp": 1644519134,
+        "sentiment": 0,
+        "published": "February 10, 2022 6:52 PM"
+    },
+    {
+        "title": "Jan. 6 investigators find gaps in White House call logs -NYT",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/jan-6-investigators-find-gaps-white-house-call-logs-nyt-2022-02-10/",
+        "timestamp": 1644519489,
+        "sentiment": 0,
+        "published": "February 10, 2022 6:58 PM"
+    },
+    {
+        "title": "Alexandria Ocasio-Cortez responded to Marjorie Taylor Greene's 'gazpacho police' gaffe: 'She clearly banned all books from her house'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
+        "timestamp": 1644455875,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:17 AM"
+    },
+    {
+        "title": "US approves $100 million missile defense sale to Taiwan - CNN",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
+        "timestamp": 1644462610,
+        "sentiment": 2,
+        "published": "February 10, 2022 3:10 AM"
+    },
+    {
+        "title": "Did Trump break the law by not preserving his White House memos?",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
+        "timestamp": 1644496935,
+        "sentiment": 0,
+        "published": "February 10, 2022 12:42 PM"
+    },
+    {
+        "title": "South Korean diplomat attacked, nose broken on New York City street",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/south-korean-diplomat-attacked-nose-broken-new-york-city-street-rcna15701?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1644511857,
+        "sentiment": 0,
+        "published": "February 10, 2022 4:50 PM"
     },
     {
         "title": "‘Mrs. Maisel’ Season 4 Adopts Weekly Episodes Release Schedule",
