@@ -9,21 +9,12 @@
         "published": "February 10, 2022 12:25 AM"
     },
     {
-        "title": "CDC to consider increasing time between vaccine doses to lower risk of heart inflammation – Boston 25 News",
-        "domain": "boston25news.com",
-        "category": "news",
-        "link": "https://www.boston25news.com/news/trending/cdc-consider-increasing-time-between-vaccine-doses-lower-risk-heart-inflammation/LKI5FBN4ZRCUXISRXAJ3PFK3TM/",
-        "timestamp": 1644454055,
-        "sentiment": -2,
-        "published": "February 10, 2022 12:47 AM"
-    },
-    {
         "title": "Bob Saget's cause of death released",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 12:56 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html",
         "timestamp": 1644455057,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 1:04 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
         "timestamp": 1644455589,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:13 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
         "timestamp": 1644455875,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 1:17 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://pressprogress.ca/next-step-is-civil-war-big-money-convoy-donor-says-ottawa-siege-may-be-canadas-last-hope/",
         "timestamp": 1644458125,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:55 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-us-canada-60327794",
         "timestamp": 1644458287,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:58 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-capitol-riot-jan-6-b2011699.html",
         "timestamp": 1644458719,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 2:05 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://arstechnica.com/tech-policy/2022/02/police-arrest-mesa-county-clerk-who-promoted-trumps-false-election-claims/",
         "timestamp": 1644461427,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 2:50 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
         "timestamp": 1644462610,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 3:10 AM"
     },
     {
@@ -108,13 +99,13 @@
         "published": "February 10, 2022 3:48 AM"
     },
     {
-        "title": "Iranian ​husband beheads teenage wife, authorities say, shocking the country",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/09/middleeast/iran-teenage-wife-beheaded-intl/index.html",
-        "timestamp": 1644468705,
-        "sentiment": -4,
-        "published": "February 10, 2022 4:51 AM"
+        "title": "Russian painting vandalised by ‘bored’ gallery guard who drew eyes on it on his first day of work",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/artanddesign/2022/feb/10/russian-painting-vandalised-by-bored-gallery-guard-who-drew-eyes-on-it",
+        "timestamp": 1644475931,
+        "sentiment": 0,
+        "published": "February 10, 2022 6:52 AM"
     },
     {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
         "timestamp": 1644476314,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 6:58 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/593595-al-franken-it-would-be-tempting-to-run-for-office-again?amp",
         "timestamp": 1644483814,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 9:03 AM"
     },
     {
@@ -140,8 +131,17 @@
         "category": "news",
         "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
         "timestamp": 1644486576,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 10, 2022 9:49 AM"
+    },
+    {
+        "title": "California sues Tesla over ‘racial segregation’ claims at factory",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/feb/10/california-sues-tesla-over-racial-segregation-claims-at-factory",
+        "timestamp": 1644486907,
+        "sentiment": 0,
+        "published": "February 10, 2022 9:55 AM"
     },
     {
         "title": "Apple TV Plus’ Severance offers a thrilling reminder of why we never want to return to the office | Releases 18 Feb",
@@ -153,22 +153,22 @@
         "published": "February 10, 2022 10:38 AM"
     },
     {
+        "title": "Oklahoma Considers Database For Pregnant People As Roe Hangs In The Balance — Conservative lawmakers have proposed a raft of extreme bills, which the governor has already promised to sign.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/oklahoma-considers-database-for-pregnant-people-as-roe-hangs-in-the-balance_n_61fc17dee4b0725faac6d865",
+        "timestamp": 1644491235,
+        "sentiment": -4,
+        "published": "February 10, 2022 11:07 AM"
+    },
+    {
         "title": "Haberman book: Flushed papers found clogging Trump WH toilet",
         "domain": "axios.com",
         "category": "politics",
         "link": "https://www.axios.com/maggie-haberman-book-trump-papers-2d59d593-8b89-4edd-8623-8ef709af524f.html",
         "timestamp": 1644491271,
-        "sentiment": 0,
-        "published": "February 10, 2022 11:07 AM"
-    },
-    {
-        "title": "Russian 16 year old sentenced to 5 years in prison for blowing up a building in Minecraft",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/russian/news-60326468",
-        "timestamp": 1644492654,
         "sentiment": -4,
-        "published": "February 10, 2022 11:30 AM"
+        "published": "February 10, 2022 11:07 AM"
     },
     {
         "title": "Paris police ban protests linked to French 'Freedom Convoy'",
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/10/europe/paris-freedom-convoy-banned-intl/index.html",
         "timestamp": 1644496580,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 12:36 PM"
     },
     {
@@ -189,13 +189,76 @@
         "published": "February 10, 2022 12:51 PM"
     },
     {
+        "title": "Ukraine will receive Stinger anti-aircraft missiles within days, Lithuania PM says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-will-receive-stinger-anti-aircraft-missiles-within-days-lithuania-pm-2022-02-10/",
+        "timestamp": 1644497590,
+        "sentiment": 0,
+        "published": "February 10, 2022 12:53 PM"
+    },
+    {
         "title": "GOP Blocks Sanders Effort to Force Vote on Slashing Drug Prices | \"How many people need to die, how many people need to get unnecessarily sicker, before Congress is prepared to take on the greed of the prescription drug industry?\" asked Sen. Bernie Sanders.",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices",
         "timestamp": 1644497878,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 10, 2022 12:57 PM"
+    },
+    {
+        "title": "Inflation rises 7.5% over the past year, even more than expected",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html",
+        "timestamp": 1644500056,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:34 PM"
+    },
+    {
+        "title": "Mississippi fire chief dies hours after legal win allowing use of Ivermectin to treat COVID",
+        "domain": "wlox.com",
+        "category": "news",
+        "link": "https://www.wlox.com/app/2022/02/09/mississippi-fire-chief-dies-hours-after-legal-win-allowing-use-ivermectin-treat-covid/?outputType=apps",
+        "timestamp": 1644500383,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:39 PM"
+    },
+    {
+        "title": "Chinese tennis star Peng Shuai ‘retires’",
+        "domain": "deadspin.com",
+        "category": "worldnews",
+        "link": "https://deadspin.com/peng-shuai-retires-most-of-the-world-barely-notices-1848501895",
+        "timestamp": 1644502032,
+        "sentiment": 0,
+        "published": "February 10, 2022 2:07 PM"
+    },
+    {
+        "title": "CDC to consider increasing time between vaccine doses to lower risk of heart inflammation – Boston 25 News",
+        "domain": "boston25news.com",
+        "category": "news",
+        "link": "https://www.boston25news.com/news/trending/cdc-consider-increasing-time-between-vaccine-doses-lower-risk-heart-inflammation/LKI5FBN4ZRCUXISRXAJ3PFK3TM/",
+        "timestamp": 1644454055,
+        "sentiment": -2,
+        "published": "February 10, 2022 12:47 AM"
+    },
+    {
+        "title": "Iranian ​husband beheads teenage wife, authorities say, shocking the country",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/09/middleeast/iran-teenage-wife-beheaded-intl/index.html",
+        "timestamp": 1644468705,
+        "sentiment": -4,
+        "published": "February 10, 2022 4:51 AM"
+    },
+    {
+        "title": "Russian 16 year old sentenced to 5 years in prison for blowing up a building in Minecraft",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/russian/news-60326468",
+        "timestamp": 1644492654,
+        "sentiment": -4,
+        "published": "February 10, 2022 11:30 AM"
     },
     {
         "title": "White House staff would often find Trump’s toilet clogged with shredded documents.",
