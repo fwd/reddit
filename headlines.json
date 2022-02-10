@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 12:56 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/02/09/us/politics/national-archives-trump-classified-material.html",
         "timestamp": 1644455057,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:04 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
         "timestamp": 1644455875,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:17 AM"
     },
     {
@@ -54,31 +54,13 @@
         "published": "February 10, 2022 1:55 AM"
     },
     {
-        "title": "Trudeau slams 'unacceptable' protests as police warn truckers",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-us-canada-60327794",
-        "timestamp": 1644458287,
-        "sentiment": 0,
-        "published": "February 10, 2022 1:58 AM"
-    },
-    {
         "title": "Madison Cawthorn warns of ‘dangerous’ consequences if he is removed from ballot using Civil War-era ‘insurrection’ clause",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-capitol-riot-jan-6-b2011699.html",
         "timestamp": 1644458719,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 2:05 AM"
-    },
-    {
-        "title": "Police arrest Mesa County clerk who promoted Trump’s false election claims",
-        "domain": "arstechnica.com",
-        "category": "politics",
-        "link": "https://arstechnica.com/tech-policy/2022/02/police-arrest-mesa-county-clerk-who-promoted-trumps-false-election-claims/",
-        "timestamp": 1644461427,
-        "sentiment": -4,
-        "published": "February 10, 2022 2:50 AM"
     },
     {
         "title": "US approves $100 million missile defense sale to Taiwan - CNN",
@@ -95,17 +77,8 @@
         "category": "television",
         "link": "https://tvline.com/2022/02/09/mrs-maisel-season-4-weekly-episodes-release-schedule-dates/",
         "timestamp": 1644464895,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 10, 2022 3:48 AM"
-    },
-    {
-        "title": "Russian painting vandalised by ‘bored’ gallery guard who drew eyes on it on his first day of work",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/artanddesign/2022/feb/10/russian-painting-vandalised-by-bored-gallery-guard-who-drew-eyes-on-it",
-        "timestamp": 1644475931,
-        "sentiment": 0,
-        "published": "February 10, 2022 6:52 AM"
     },
     {
         "title": "Boris Johnson tells Russia that NATO will 'draw lines in the snow' over Ukraine crisis.",
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/593595-al-franken-it-would-be-tempting-to-run-for-office-again?amp",
         "timestamp": 1644483814,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 9:03 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
         "timestamp": 1644486576,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 9:49 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/business/2022/feb/10/california-sues-tesla-over-racial-segregation-claims-at-factory",
         "timestamp": 1644486907,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 9:55 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "television",
         "link": "https://www.avclub.com/severance-review-apple-tv-plus-1848475563",
         "timestamp": 1644489495,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 10, 2022 10:38 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/oklahoma-considers-database-for-pregnant-people-as-roe-hangs-in-the-balance_n_61fc17dee4b0725faac6d865",
         "timestamp": 1644491235,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 11:07 AM"
     },
     {
@@ -167,8 +140,17 @@
         "category": "politics",
         "link": "https://www.axios.com/maggie-haberman-book-trump-papers-2d59d593-8b89-4edd-8623-8ef709af524f.html",
         "timestamp": 1644491271,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 11:07 AM"
+    },
+    {
+        "title": "‘They’ll have to carry me out in a box’: the luckiest New York rent controlled apartments",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/lifeandstyle/2022/feb/10/new-york-apartments-photos-rent",
+        "timestamp": 1644496538,
+        "sentiment": -2,
+        "published": "February 10, 2022 12:35 PM"
     },
     {
         "title": "Paris police ban protests linked to French 'Freedom Convoy'",
@@ -180,12 +162,21 @@
         "published": "February 10, 2022 12:36 PM"
     },
     {
+        "title": "Did Trump break the law by not preserving his White House memos?",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
+        "timestamp": 1644496935,
+        "sentiment": 0,
+        "published": "February 10, 2022 12:42 PM"
+    },
+    {
         "title": "Amazon’s ‘Lord of the Rings’ Series Rises: Inside ‘The Rings of Power’",
         "domain": "vanityfair.com",
         "category": "television",
         "link": "https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look",
         "timestamp": 1644497516,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "February 10, 2022 12:51 PM"
     },
     {
@@ -203,8 +194,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices",
         "timestamp": 1644497878,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 12:57 PM"
+    },
+    {
+        "title": "Possible Classified Documents Found in Trump’s Mar-A-Lago Stash",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-classified-information-justice-department-national-archives-mar-a-lago-1297821/",
+        "timestamp": 1644499300,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:21 PM"
     },
     {
         "title": "Inflation rises 7.5% over the past year, even more than expected",
@@ -212,7 +212,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html",
         "timestamp": 1644500056,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 1:34 PM"
     },
     {
@@ -221,8 +221,17 @@
         "category": "news",
         "link": "https://www.wlox.com/app/2022/02/09/mississippi-fire-chief-dies-hours-after-legal-win-allowing-use-ivermectin-treat-covid/?outputType=apps",
         "timestamp": 1644500383,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 1:39 PM"
+    },
+    {
+        "title": "'It's not safe': Ottawa residents say they've been accosted by 'Freedom Convoy'",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/-just-dont-feel-safe-ottawa-residents-describe-fears-trucker-protest-c-rcna15218",
+        "timestamp": 1644501490,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:58 PM"
     },
     {
         "title": "Chinese tennis star Peng Shuai ‘retires’",
@@ -232,6 +241,51 @@
         "timestamp": 1644502032,
         "sentiment": 0,
         "published": "February 10, 2022 2:07 PM"
+    },
+    {
+        "title": "Tina Peters arrested for allegedly recording court proceeding",
+        "domain": "thedenverchannel.com",
+        "category": "news",
+        "link": "https://www.thedenverchannel.com/news/local-news/tina-peters-arrested-for-allegedly-recording-court-proceeding",
+        "timestamp": 1644502173,
+        "sentiment": -2,
+        "published": "February 10, 2022 2:09 PM"
+    },
+    {
+        "title": "'Crash Landing on You' actors Son Ye-jin and Hyun Bin announce they're getting married",
+        "domain": "gulfnews.com",
+        "category": "television",
+        "link": "https://gulfnews.com/entertainment/crash-landing-on-you-actors-son-ye-jin-and-hyun-bin-announce-theyre-getting-married-1.1644497557398",
+        "timestamp": 1644503929,
+        "sentiment": 2,
+        "published": "February 10, 2022 2:38 PM"
+    },
+    {
+        "title": "Trudeau slams 'unacceptable' protests as police warn truckers",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-60327794",
+        "timestamp": 1644458287,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:58 AM"
+    },
+    {
+        "title": "Police arrest Mesa County clerk who promoted Trump’s false election claims",
+        "domain": "arstechnica.com",
+        "category": "politics",
+        "link": "https://arstechnica.com/tech-policy/2022/02/police-arrest-mesa-county-clerk-who-promoted-trumps-false-election-claims/",
+        "timestamp": 1644461427,
+        "sentiment": -4,
+        "published": "February 10, 2022 2:50 AM"
+    },
+    {
+        "title": "Russian painting vandalised by ‘bored’ gallery guard who drew eyes on it on his first day of work",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/artanddesign/2022/feb/10/russian-painting-vandalised-by-bored-gallery-guard-who-drew-eyes-on-it",
+        "timestamp": 1644475931,
+        "sentiment": 0,
+        "published": "February 10, 2022 6:52 AM"
     },
     {
         "title": "CDC to consider increasing time between vaccine doses to lower risk of heart inflammation – Boston 25 News",
