@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
         "timestamp": 1644455589,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "February 10, 2022 1:13 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://pressprogress.ca/next-step-is-civil-war-big-money-convoy-donor-says-ottawa-siege-may-be-canadas-last-hope/",
         "timestamp": 1644458125,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "February 10, 2022 1:55 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-us-canada-60327794",
         "timestamp": 1644458287,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "February 10, 2022 1:58 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
         "timestamp": 1644462610,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "February 10, 2022 3:10 AM"
     },
     {
@@ -106,6 +106,15 @@
         "timestamp": 1644464895,
         "sentiment": 0,
         "published": "February 10, 2022 3:48 AM"
+    },
+    {
+        "title": "Iranian ​husband beheads teenage wife, authorities say, shocking the country",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/09/middleeast/iran-teenage-wife-beheaded-intl/index.html",
+        "timestamp": 1644468705,
+        "sentiment": 3,
+        "published": "February 10, 2022 4:51 AM"
     },
     {
         "title": "French and German ministers quipped that Europe would \"live very well\" without Facebook after Meta said it might pull out of Europe.",
