@@ -14,17 +14,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/09/entertainment/bob-saget-cause-of-death/index.html",
         "timestamp": 1644454613,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 12:56 AM"
-    },
-    {
-        "title": "Manitoba man trapped in convoy protest while trying to drive his sister to emergency room",
-        "domain": "winnipeg.ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
-        "timestamp": 1644455589,
-        "sentiment": 0,
-        "published": "February 10, 2022 1:13 AM"
     },
     {
         "title": "Alexandria Ocasio-Cortez responded to Marjorie Taylor Greene's 'gazpacho police' gaffe: 'She clearly banned all books from her house'",
@@ -32,7 +23,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-mtg-banned-all-books-from-her-house-gazpacho-gaffe-2022-2",
         "timestamp": 1644455875,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:17 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/08/asia/us-taiwan-arms-sale-intl-hnk/index.html",
         "timestamp": 1644462610,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 3:10 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-tells-russia-that-nato-will-draw-lines-in-the-snow-over-ukraine-crisis-12537713",
         "timestamp": 1644476314,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 6:58 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/593595-al-franken-it-would-be-tempting-to-run-for-office-again?amp",
         "timestamp": 1644483814,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 9:03 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/02/09/1079761477/snoop-dogg-now-owns-death-row-records",
         "timestamp": 1644486576,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 9:49 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/business/2022/feb/10/california-sues-tesla-over-racial-segregation-claims-at-factory",
         "timestamp": 1644486907,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 9:55 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/oklahoma-considers-database-for-pregnant-people-as-roe-hangs-in-the-balance_n_61fc17dee4b0725faac6d865",
         "timestamp": 1644491235,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 11:07 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.axios.com/maggie-haberman-book-trump-papers-2d59d593-8b89-4edd-8623-8ef709af524f.html",
         "timestamp": 1644491271,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 11:07 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/02/10/europe/paris-freedom-convoy-banned-intl/index.html",
         "timestamp": 1644496580,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 12:36 PM"
     },
     {
@@ -131,17 +122,8 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/2/10/el-salvador-frees-woman-jailed-for-murder-after-a-miscarriage",
         "timestamp": 1644496741,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 12:39 PM"
-    },
-    {
-        "title": "Did Trump break the law by not preserving his White House memos?",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
-        "timestamp": 1644496935,
-        "sentiment": -4,
-        "published": "February 10, 2022 12:42 PM"
     },
     {
         "title": "Amazon’s ‘Lord of the Rings’ Series Rises: Inside ‘The Rings of Power’",
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-will-receive-stinger-anti-aircraft-missiles-within-days-lithuania-pm-2022-02-10/",
         "timestamp": 1644497590,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 10, 2022 12:53 PM"
     },
     {
@@ -167,8 +149,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices",
         "timestamp": 1644497878,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 12:57 PM"
+    },
+    {
+        "title": "‘Snowball effect’: Canada’s trucker convoy sparks anti-mandate protests globally",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8608477/freedom-convoy-worldwide-covid-protests/",
+        "timestamp": 1644498794,
+        "sentiment": -2,
+        "published": "February 10, 2022 1:13 PM"
     },
     {
         "title": "Possible Classified Documents Found in Trump’s Mar-A-Lago Stash",
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-classified-information-justice-department-national-archives-mar-a-lago-1297821/",
         "timestamp": 1644499300,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:21 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://about.bgov.com/news/pot-legalization-boosted-as-schumer-makes-issue-a-top-priority/",
         "timestamp": 1644499925,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 1:32 PM"
     },
     {
@@ -194,8 +185,17 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html",
         "timestamp": 1644500056,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 1:34 PM"
+    },
+    {
+        "title": "Ukraine says Russian drills in Black Sea made shipping 'virtually impossible'",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-says-russian-drills-black-sea-made-shipping-virtually-impossible-2022-02-10/",
+        "timestamp": 1644500342,
+        "sentiment": -2,
+        "published": "February 10, 2022 1:39 PM"
     },
     {
         "title": "Mississippi fire chief dies hours after legal win allowing use of Ivermectin to treat COVID",
@@ -203,17 +203,8 @@
         "category": "news",
         "link": "https://www.wlox.com/app/2022/02/09/mississippi-fire-chief-dies-hours-after-legal-win-allowing-use-ivermectin-treat-covid/?outputType=apps",
         "timestamp": 1644500383,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 1:39 PM"
-    },
-    {
-        "title": "Chinese tennis star Peng Shuai ‘retires’",
-        "domain": "deadspin.com",
-        "category": "worldnews",
-        "link": "https://deadspin.com/peng-shuai-retires-most-of-the-world-barely-notices-1848501895",
-        "timestamp": 1644502032,
-        "sentiment": 0,
-        "published": "February 10, 2022 2:07 PM"
     },
     {
         "title": "Tina Peters arrested for allegedly recording court proceeding",
@@ -221,7 +212,7 @@
         "category": "news",
         "link": "https://www.thedenverchannel.com/news/local-news/tina-peters-arrested-for-allegedly-recording-court-proceeding",
         "timestamp": 1644502173,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 2:09 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/donald-trump-white-house-toilet-paper_n_62050a0ce4b0328e0022a059",
         "timestamp": 1644502995,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "February 10, 2022 2:23 PM"
     },
     {
@@ -243,13 +234,13 @@
         "published": "February 10, 2022 3:03 PM"
     },
     {
-        "title": "Ottawa police warn protesters blocking streets could be 'arrested without warrant'",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/international/americas/593661-ottawa-police-warn-protesters-blocking-streets-could-be",
-        "timestamp": 1644506286,
+        "title": "“Karma” bites GOP in N.Y.: Republicans whine after Dem gerrymander may flip three seats | Aggressive gerrymander could send several GOP House members packing as “inevitable result\" of Republican cheating",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/10/karma-bites-in-ny-whine-after-dem-gerrymander-may-flip-three-seats/",
+        "timestamp": 1644506140,
         "sentiment": 0,
-        "published": "February 10, 2022 3:18 PM"
+        "published": "February 10, 2022 3:15 PM"
     },
     {
         "title": "Truck blockade at U.S.-Canadian border shuts auto plants",
@@ -257,7 +248,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Health/wireStory/truck-blockade-us-canadian-border-shuts-auto-plants-82799596",
         "timestamp": 1644506482,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 3:21 PM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "news",
         "link": "https://www.wtvm.com/2022/02/08/auburn-man-arrested-leaving-flowers-fiancs-grave/",
         "timestamp": 1644508875,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "February 10, 2022 4:01 PM"
     },
     {
@@ -279,6 +270,15 @@
         "published": "February 10, 2022 4:09 PM"
     },
     {
+        "title": "Russia Readies for ‘Naval Blockade’ of Ukraine Ahead of Missile Drills – Reports - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/02/10/russia-readies-for-naval-blockade-of-ukraine-ahead-of-missile-drills-reports-2-a76321",
+        "timestamp": 1644511357,
+        "sentiment": -2,
+        "published": "February 10, 2022 4:42 PM"
+    },
+    {
         "title": "‘Better Call Saul’s’ Final Season Premieres April 18, 2022 on AMC",
         "domain": "hollywoodreporter.com",
         "category": "television",
@@ -286,6 +286,69 @@
         "timestamp": 1644511601,
         "sentiment": 1,
         "published": "February 10, 2022 4:46 PM"
+    },
+    {
+        "title": "South Korean diplomat attacked, nose broken on New York City street",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/south-korean-diplomat-attacked-nose-broken-new-york-city-street-rcna15701?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1644511857,
+        "sentiment": -2,
+        "published": "February 10, 2022 4:50 PM"
+    },
+    {
+        "title": "Trump evaded White House call logs on day of Capitol riots, committee finds",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6th-call-logs-b2012390.html",
+        "timestamp": 1644512019,
+        "sentiment": 0,
+        "published": "February 10, 2022 4:53 PM"
+    },
+    {
+        "title": "Federal Conservatives reverse course on supporting trucker blockades, call for an end to all barricades",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/politics/article-federal-conservatives-call-for-an-end-to-all-blockades-after-first/",
+        "timestamp": 1644513271,
+        "sentiment": -2,
+        "published": "February 10, 2022 5:14 PM"
+    },
+    {
+        "title": "Manitoba man trapped in convoy protest while trying to drive his sister to emergency room",
+        "domain": "winnipeg.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
+        "timestamp": 1644455589,
+        "sentiment": 0,
+        "published": "February 10, 2022 1:13 AM"
+    },
+    {
+        "title": "Did Trump break the law by not preserving his White House memos?",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/program/the-bottom-line/2022/2/10/did-trump-break-the-law-by-not-preserving-his-white-house-memos",
+        "timestamp": 1644496935,
+        "sentiment": -4,
+        "published": "February 10, 2022 12:42 PM"
+    },
+    {
+        "title": "Chinese tennis star Peng Shuai ‘retires’",
+        "domain": "deadspin.com",
+        "category": "worldnews",
+        "link": "https://deadspin.com/peng-shuai-retires-most-of-the-world-barely-notices-1848501895",
+        "timestamp": 1644502032,
+        "sentiment": 0,
+        "published": "February 10, 2022 2:07 PM"
+    },
+    {
+        "title": "Ottawa police warn protesters blocking streets could be 'arrested without warrant'",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/americas/593661-ottawa-police-warn-protesters-blocking-streets-could-be",
+        "timestamp": 1644506286,
+        "sentiment": 0,
+        "published": "February 10, 2022 3:18 PM"
     },
     {
         "title": "Archives Found Possible Classified Material in Boxes Returned by Trump",
