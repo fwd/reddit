@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.tmz.com/2022/02/09/bob-saget-died-brain-bleed-after-hitting-his-head",
         "timestamp": 1644452753,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 12:25 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.timesofisrael.com/liveblog_entry/pfizer-says-it-raked-in-36800000000-in-covid-19-vaccine-sales/",
         "timestamp": 1644455176,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "February 10, 2022 1:06 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://www.thedailybeast.com/fairview-is-stephen-colberts-tasteless-mockery-of-small-town-america",
         "timestamp": 1644455293,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "February 10, 2022 1:08 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://winnipeg.ctvnews.ca/manitoba-man-trapped-in-convoy-protest-while-trying-to-drive-his-sister-to-emergency-room-1.5775033",
         "timestamp": 1644455589,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "February 10, 2022 1:13 AM"
     },
     {
@@ -61,6 +61,15 @@
         "timestamp": 1644455875,
         "sentiment": -2,
         "published": "February 10, 2022 1:17 AM"
+    },
+    {
+        "title": "‘Next Step is Civil War’: Big Money Convoy Donor Says Ottawa Siege May Be Canada’s Last Hope",
+        "domain": "pressprogress.ca",
+        "category": "worldnews",
+        "link": "https://pressprogress.ca/next-step-is-civil-war-big-money-convoy-donor-says-ottawa-siege-may-be-canadas-last-hope/",
+        "timestamp": 1644458125,
+        "sentiment": 2,
+        "published": "February 10, 2022 1:55 AM"
     },
     {
         "title": "'It's Always Sunny in Philadelphia' Nearly Cast Dave Bautista as Mac's Dad Back in 2006",
