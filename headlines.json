@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/white-house-border-convoy-protest-covid-response-1.6347421",
         "timestamp": 1644540210,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 11, 2022 12:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/?taid=6205b3eb00a90b00015b56a7&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1644541187,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 11, 2022 12:59 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-health-texas-b92eadbe4afd4d29cb6cbf00526c11b0",
         "timestamp": 1644541372,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 11, 2022 1:02 AM"
+    },
+    {
+        "title": "Trump reportedly took classified documents, some ‘top secret’",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/WNT/video/trump-reportedly-classified-documents-top-secret-82810125",
+        "timestamp": 1644543158,
+        "sentiment": 0,
+        "published": "February 11, 2022 1:32 AM"
     },
     {
         "title": "Ukraine-Russia tensions: Russian troops warned by Ukrainian general 'land will be flooded' with their blood",
@@ -41,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
         "timestamp": 1644545013,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 11, 2022 2:03 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/new-york-times-is-free-publish-project-veritas-documents-appeals-court-rules-2022-02-10/?utm_source=reddit.com",
         "timestamp": 1644546265,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 11, 2022 2:24 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/calgary/alberta-family-miss-goodbye-dying-mother-border-protest-1.6347507",
         "timestamp": 1644548933,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "February 11, 2022 3:08 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "news",
         "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
         "timestamp": 1644550825,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 11, 2022 3:40 AM"
     },
     {
