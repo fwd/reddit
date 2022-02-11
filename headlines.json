@@ -1,20 +1,11 @@
 [
     {
-        "title": "Ukraine-Russia tensions: Russian troops warned by Ukrainian general 'land will be flooded' with their blood",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
-        "timestamp": 1644545013,
-        "sentiment": -2,
-        "published": "February 11, 2022 2:03 AM"
-    },
-    {
         "title": "Senators: CIA has secret program that collects American data",
         "domain": "apnews.com",
         "category": "news",
         "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
         "timestamp": 1644550825,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 3:40 AM"
     },
     {
@@ -25,15 +16,6 @@
         "timestamp": 1644556952,
         "sentiment": -2,
         "published": "February 11, 2022 5:22 AM"
-    },
-    {
-        "title": "A Canadian judge has frozen access to donations for the trucker convoy protest",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest",
-        "timestamp": 1644573183,
-        "sentiment": -2,
-        "published": "February 11, 2022 9:53 AM"
     },
     {
         "title": "Marvel's 'The Defenders' Shows Leaving Netflix on March 1st",
@@ -50,7 +32,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/feb/11/michigan-beef-dangerous-levels-forever-chemicals",
         "timestamp": 1644578213,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 11:16 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/putin-kept-macron-distance-snubbing-covid-demands-sources-2022-02-10/",
         "timestamp": 1644578665,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 11:24 AM"
     },
     {
@@ -86,17 +68,8 @@
         "category": "worldnews",
         "link": "https://news7f.com/more-than-a-dozen-russian-tanks-stuck-in-the-mud-during-military-drills/",
         "timestamp": 1644580613,
-        "sentiment": -2,
-        "published": "February 11, 2022 11:56 AM"
-    },
-    {
-        "title": "Bills like 'Don't Say Gay' hurt LGBTQ youth already at high risk of suicide",
-        "domain": "usatoday.com",
-        "category": "politics",
-        "link": "https://www.usatoday.com/story/opinion/columnist/2022/02/10/south-dakota-florida-lgbtq-trans/6711236001/",
-        "timestamp": 1644581525,
         "sentiment": 0,
-        "published": "February 11, 2022 12:12 PM"
+        "published": "February 11, 2022 11:56 AM"
     },
     {
         "title": "Joe Walsh on what the left doesn't get: TrumpWorld \"would happily burn this country down\"",
@@ -113,17 +86,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/americas/canada-truckers-protests-covid-friday/index.html",
         "timestamp": 1644582733,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 12:32 PM"
-    },
-    {
-        "title": "Jewish student reprimanded for revealing class’ Nazi salute",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/alabama-birmingham-mountains-4bf6ac1e79705124e57eba6978127212",
-        "timestamp": 1644583216,
-        "sentiment": -3,
-        "published": "February 11, 2022 12:40 PM"
     },
     {
         "title": "Biden to split $7B in frozen Afghanistan funds to compensate 9/11 victims",
@@ -158,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/finland-sign-deal-bringing-us-built-stealth-jets-russian-border-2022-02-11/",
         "timestamp": 1644587249,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 1:47 PM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/technology/wireStory/judge-restores-protections-gray-wolves-us-82809306",
         "timestamp": 1644591625,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 3:00 PM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "worldnews",
         "link": "https://ottawacitizen.com/news/national/defence-watch/military-investigates-officer-who-is-calling-on-soldiers-to-fight-governments-pandemic-tyranny",
         "timestamp": 1644592753,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 3:19 PM"
     },
     {
@@ -225,6 +189,15 @@
         "published": "February 11, 2022 3:43 PM"
     },
     {
+        "title": "‘Hand of Russia’ visible in African coups says AFRICOM boss",
+        "domain": "militarytimes.com",
+        "category": "worldnews",
+        "link": "https://www.militarytimes.com/flashpoints/2022/02/08/hand-of-russia-visible-in-african-coups-says-africom-boss/",
+        "timestamp": 1644594817,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:53 PM"
+    },
+    {
         "title": "Peter Navarro Gets Testy When Asked If Kamala Harris Can Throw Out Election Results",
         "domain": "huffpost.com",
         "category": "politics",
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/world/macron-refused-russian-covid-test-in-putin-trip-over-dna-theft-fears-sources-1.5777317",
         "timestamp": 1644596156,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 4:15 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-us-canada-60352980",
         "timestamp": 1644596399,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 4:19 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/americas/canadas-ontario-province-declares-state-emergency-2022-02-11/",
         "timestamp": 1644596428,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 4:20 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/10/india/hijab-karnataka-india-protest-intl-hnk/index.html",
         "timestamp": 1644600479,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 5:27 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/ottawa-towing-company-threatened-into-not-helping-police-with-trucker-convoy-chief-1.5776591",
         "timestamp": 1644601201,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 5:40 PM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/webview/europe/live-news/ukraine-russia-news-02-11-22/h_26bf2c7a6ff13875ea1d5bba3b6aa70a",
         "timestamp": 1644604470,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 6:34 PM"
     },
     {
@@ -315,13 +288,76 @@
         "published": "February 11, 2022 6:45 PM"
     },
     {
+        "title": "Former South Florida police lieutenant convicted of molesting young girls",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/trending/former-south-florida-police-lieutenant-convicted-molesting-young-girls/6OAZ4D66IRHBNOGDHFB4IWYOWU/",
+        "timestamp": 1644606354,
+        "sentiment": -2,
+        "published": "February 11, 2022 7:05 PM"
+    },
+    {
         "title": "White father and son charged for chasing and shooting at Black FedEx driver",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/02/10/us/mississippi-men-charged-for-shooting-at-black-fedex-driver/index.html",
         "timestamp": 1644607065,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 11, 2022 7:17 PM"
+    },
+    {
+        "title": "Republicans Who Railed About Clinton Emails Are Quiet on Trump’s Records",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/02/10/us/politics/trump-national-archives-documents-republicans.html",
+        "timestamp": 1644607435,
+        "sentiment": 0,
+        "published": "February 11, 2022 7:23 PM"
+    },
+    {
+        "title": "U.S. to send 3,000 additional troops to Poland, officials say",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://reuters.com/article/idUSKBN2KG1X4",
+        "timestamp": 1644608928,
+        "sentiment": 0,
+        "published": "February 11, 2022 7:48 PM"
+    },
+    {
+        "title": "Ukraine-Russia tensions: Russian troops warned by Ukrainian general 'land will be flooded' with their blood",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
+        "timestamp": 1644545013,
+        "sentiment": -2,
+        "published": "February 11, 2022 2:03 AM"
+    },
+    {
+        "title": "A Canadian judge has frozen access to donations for the trucker convoy protest",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest",
+        "timestamp": 1644573183,
+        "sentiment": -2,
+        "published": "February 11, 2022 9:53 AM"
+    },
+    {
+        "title": "Bills like 'Don't Say Gay' hurt LGBTQ youth already at high risk of suicide",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/columnist/2022/02/10/south-dakota-florida-lgbtq-trans/6711236001/",
+        "timestamp": 1644581525,
+        "sentiment": 0,
+        "published": "February 11, 2022 12:12 PM"
+    },
+    {
+        "title": "Jewish student reprimanded for revealing class’ Nazi salute",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/alabama-birmingham-mountains-4bf6ac1e79705124e57eba6978127212",
+        "timestamp": 1644583216,
+        "sentiment": -3,
+        "published": "February 11, 2022 12:40 PM"
     },
     {
         "title": "U.S. posts $119 billion budget surplus in January; first in over 2 years",
