@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/?taid=6205b3eb00a90b00015b56a7&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1644541187,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 11, 2022 12:59 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
         "timestamp": 1644545013,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 2:03 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/new-york-times-is-free-publish-project-veritas-documents-appeals-court-rules-2022-02-10/?utm_source=reddit.com",
         "timestamp": 1644546265,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 11, 2022 2:24 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/calgary/alberta-family-miss-goodbye-dying-mother-border-protest-1.6347507",
         "timestamp": 1644548933,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 3:08 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "news",
         "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
         "timestamp": 1644550825,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 11, 2022 3:40 AM"
+    },
+    {
+        "title": "Texas national guardsmen say mission to secure the border is a waste of time and resources",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/02/10/politics/texas-operation-lone-star-border-immigration-abbott/index.html",
+        "timestamp": 1644555816,
+        "sentiment": -3,
+        "published": "February 11, 2022 5:03 AM"
     },
     {
         "title": "U.S. intelligence report details 'indirect' Russian government support for Western neofascist groups",
@@ -50,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/us-intelligence-report-details-indirect-russian-government-support-for-western-neo-fascist-groups-233831082.html",
         "timestamp": 1644556261,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 5:11 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/biden-urges-americans-to-leave-ukraine-immediately/a-60739834",
         "timestamp": 1644567943,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 8:25 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest",
         "timestamp": 1644573183,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 9:53 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/feb/11/michigan-beef-dangerous-levels-forever-chemicals",
         "timestamp": 1644578213,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 11, 2022 11:16 AM"
     },
     {
@@ -113,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/putin-kept-macron-distance-snubbing-covid-demands-sources-2022-02-10/",
         "timestamp": 1644578665,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 11:24 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "politics",
         "link": "https://religionnews.com/2022/02/09/new-report-details-the-influence-of-christian-nationalism-on-the-insurrection/",
         "timestamp": 1644580609,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 11, 2022 11:56 AM"
     },
     {
@@ -131,7 +140,7 @@
         "category": "worldnews",
         "link": "https://news7f.com/more-than-a-dozen-russian-tanks-stuck-in-the-mud-during-military-drills/",
         "timestamp": 1644580613,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 11:56 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/opinion/columnist/2022/02/10/south-dakota-florida-lgbtq-trans/6711236001/",
         "timestamp": 1644581525,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 11, 2022 12:12 PM"
     },
     {
@@ -158,8 +167,17 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/11/joe-walsh-on-what-the-left-doesnt-get-trumpworld-would-happily-this-country-down/",
         "timestamp": 1644581665,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 11, 2022 12:14 PM"
+    },
+    {
+        "title": "Canadian mayor will seek a court order to move against truckers protesting at critical bridge to US",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/americas/canada-truckers-protests-covid-friday/index.html",
+        "timestamp": 1644582733,
+        "sentiment": 1,
+        "published": "February 11, 2022 12:32 PM"
     },
     {
         "title": "Jewish student reprimanded for revealing class’ Nazi salute",
@@ -167,7 +185,7 @@
         "category": "news",
         "link": "https://apnews.com/article/alabama-birmingham-mountains-4bf6ac1e79705124e57eba6978127212",
         "timestamp": 1644583216,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "February 11, 2022 12:40 PM"
     },
     {
@@ -176,8 +194,17 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2?amp",
         "timestamp": 1644583663,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 11, 2022 12:47 PM"
+    },
+    {
+        "title": "Biden to split $7B in frozen Afghanistan funds to compensate 9/11 victims",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/administration/593837-biden-to-split-7b-in-frozen-afghanistan-funds-to-compensate-9-11",
+        "timestamp": 1644584376,
+        "sentiment": -3,
+        "published": "February 11, 2022 12:59 PM"
     },
     {
         "title": "GOP candidate releases ad showing a faux shootout with husband of Gabby Giffords, the Arizona lawmaker who was shot in the head in 2011",
@@ -185,7 +212,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-candidate-ad-shows-faux-shootout-with-husband-gabby-giffords-2022-2",
         "timestamp": 1644584665,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 11, 2022 1:04 PM"
     },
     {
@@ -196,6 +223,15 @@
         "timestamp": 1644585391,
         "sentiment": -2,
         "published": "February 11, 2022 1:16 PM"
+    },
+    {
+        "title": "‘More cash than we know what to do with’: oil and gas companies report bumper profits",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/feb/11/more-cash-than-we-know-what-to-do-with-oil-and-gas-companies-report-bumper-profits",
+        "timestamp": 1644588778,
+        "sentiment": 1,
+        "published": "February 11, 2022 2:12 PM"
     },
     {
         "title": "White House unveils $5 billion plan to blanket US highways with new electric-car chargers",
@@ -214,15 +250,6 @@
         "timestamp": 1644543158,
         "sentiment": 1,
         "published": "February 11, 2022 1:32 AM"
-    },
-    {
-        "title": "Texas national guardsmen say mission to secure the border is a waste of time and resources",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/02/10/politics/texas-operation-lone-star-border-immigration-abbott/index.html",
-        "timestamp": 1644555816,
-        "sentiment": 1,
-        "published": "February 11, 2022 5:03 AM"
     },
     {
         "title": "Abortions in Texas fell 60% in 1st month under new limits",
