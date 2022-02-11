@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/white-house-border-convoy-protest-covid-response-1.6347421",
         "timestamp": 1644540210,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 11, 2022 12:43 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
         "timestamp": 1644545013,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 11, 2022 2:03 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/calgary/alberta-family-miss-goodbye-dying-mother-border-protest-1.6347507",
         "timestamp": 1644548933,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 11, 2022 3:08 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/us-intelligence-report-details-indirect-russian-government-support-for-western-neo-fascist-groups-233831082.html",
         "timestamp": 1644556261,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "February 11, 2022 5:11 AM"
     },
     {
@@ -97,6 +97,15 @@
         "timestamp": 1644556952,
         "sentiment": 0,
         "published": "February 11, 2022 5:22 AM"
+    },
+    {
+        "title": "Biden urges Americans to leave Ukraine immediately",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/biden-urges-americans-to-leave-ukraine-immediately/a-60739834",
+        "timestamp": 1644567943,
+        "sentiment": -1,
+        "published": "February 11, 2022 8:25 AM"
     },
     {
         "title": "Bob Saget Died From Brain Bleed After Hitting His Head",
