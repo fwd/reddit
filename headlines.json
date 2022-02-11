@@ -1,11 +1,20 @@
 [
     {
+        "title": "White House unveils $5 billion plan to blanket US highways with new electric-car chargers",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/biden-electric-car-charging-stations-national-network-plan-tesla-2022-2",
+        "timestamp": 1644538347,
+        "sentiment": 0,
+        "published": "February 11, 2022 12:12 AM"
+    },
+    {
         "title": "U.S. offers Trudeau government help to end border blockade",
         "domain": "cbc.ca",
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/white-house-border-convoy-protest-covid-response-1.6347421",
         "timestamp": 1644540210,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "February 11, 2022 12:43 AM"
     },
     {
@@ -14,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/?taid=6205b3eb00a90b00015b56a7&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1644541187,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 12:59 AM"
     },
     {
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-health-texas-b92eadbe4afd4d29cb6cbf00526c11b0",
         "timestamp": 1644541372,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 1:02 AM"
     },
     {
@@ -32,8 +41,35 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
         "timestamp": 1644545013,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "February 11, 2022 2:03 AM"
+    },
+    {
+        "title": "New York Times is free to publish Project Veritas documents, appeals court rules",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/new-york-times-is-free-publish-project-veritas-documents-appeals-court-rules-2022-02-10/?utm_source=reddit.com",
+        "timestamp": 1644546265,
+        "sentiment": 0,
+        "published": "February 11, 2022 2:24 AM"
+    },
+    {
+        "title": "Alberta family misses chance to say goodbye to dying mother because of border protest",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/calgary/alberta-family-miss-goodbye-dying-mother-border-protest-1.6347507",
+        "timestamp": 1644548933,
+        "sentiment": -3,
+        "published": "February 11, 2022 3:08 AM"
+    },
+    {
+        "title": "Senators: CIA has secret program that collects American data",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
+        "timestamp": 1644550825,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:40 AM"
     },
     {
         "title": "Bob Saget Died From Brain Bleed After Hitting His Head",
