@@ -5,26 +5,8 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/?taid=6205b3eb00a90b00015b56a7&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1644541187,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 11, 2022 12:59 AM"
-    },
-    {
-        "title": "Ukraine-Russia tensions: Russian troops warned by Ukrainian general 'land will be flooded' with their blood",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
-        "timestamp": 1644545013,
-        "sentiment": 0,
-        "published": "February 11, 2022 2:03 AM"
-    },
-    {
-        "title": "New York Times is free to publish Project Veritas documents, appeals court rules",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/new-york-times-is-free-publish-project-veritas-documents-appeals-court-rules-2022-02-10/?utm_source=reddit.com",
-        "timestamp": 1644546265,
-        "sentiment": -2,
-        "published": "February 11, 2022 2:24 AM"
     },
     {
         "title": "Alberta family misses chance to say goodbye to dying mother because of border protest",
@@ -41,7 +23,7 @@
         "category": "news",
         "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
         "timestamp": 1644550825,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 11, 2022 3:40 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/features/peacemaker-murn-dead-chukwudi-iwuji-guardians-of-the-galaxy-1235175505/",
         "timestamp": 1644556952,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 11, 2022 5:22 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "television",
         "link": "https://www.whats-on-netflix.com/leaving-soon/marvels-the-defenders-shows-leaving-netflix-on-march-1st/",
         "timestamp": 1644575749,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 11, 2022 10:35 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/feb/11/michigan-beef-dangerous-levels-forever-chemicals",
         "timestamp": 1644578213,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 11, 2022 11:16 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/kevin-costner-44-blue-indigenous-onward-1235176243/",
         "timestamp": 1644578578,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 11, 2022 11:22 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://religionnews.com/2022/02/09/new-report-details-the-influence-of-christian-nationalism-on-the-insurrection/",
         "timestamp": 1644580609,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 11, 2022 11:56 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/opinion/columnist/2022/02/10/south-dakota-florida-lgbtq-trans/6711236001/",
         "timestamp": 1644581525,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 11, 2022 12:12 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/11/joe-walsh-on-what-the-left-doesnt-get-trumpworld-would-happily-this-country-down/",
         "timestamp": 1644581665,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 11, 2022 12:14 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/americas/canada-truckers-protests-covid-friday/index.html",
         "timestamp": 1644582733,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 11, 2022 12:32 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "news",
         "link": "https://apnews.com/article/alabama-birmingham-mountains-4bf6ac1e79705124e57eba6978127212",
         "timestamp": 1644583216,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "February 11, 2022 12:40 PM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/593837-biden-to-split-7b-in-frozen-afghanistan-funds-to-compensate-9-11",
         "timestamp": 1644584376,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 11, 2022 12:59 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-candidate-ad-shows-faux-shootout-with-husband-gabby-giffords-2022-2",
         "timestamp": 1644584665,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 11, 2022 1:04 PM"
     },
     {
@@ -194,8 +176,170 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/global/30-coins-hbo-max-alex-iglesia-1235178623/",
         "timestamp": 1644585391,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 11, 2022 1:16 PM"
+    },
+    {
+        "title": "Finland signs deal to buy 64 U.S.-built stealth jets",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/finland-sign-deal-bringing-us-built-stealth-jets-russian-border-2022-02-11/",
+        "timestamp": 1644587249,
+        "sentiment": 0,
+        "published": "February 11, 2022 1:47 PM"
+    },
+    {
+        "title": "Jan. 6 Sentencing Judge Reminds RNC That Riot Was Not 'Legitimate Political Discourse'",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/jan-6-sentencing-judge-reminds-rnc-that-riot-was-not-legitimate-political-discourse_n_62057f31e4b0328e0023fab0",
+        "timestamp": 1644589611,
+        "sentiment": 0,
+        "published": "February 11, 2022 2:26 PM"
+    },
+    {
+        "title": "A customer told to wear a mask in a Chicago hot dog restaurant threw snow at an employee and then broke a glass door",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/us/chicago-man-damages-restaurant-over-mask/index.html",
+        "timestamp": 1644591396,
+        "sentiment": -1,
+        "published": "February 11, 2022 2:56 PM"
+    },
+    {
+        "title": "Judge restores protections for gray wolves across much of US",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/technology/wireStory/judge-restores-protections-gray-wolves-us-82809306",
+        "timestamp": 1644591625,
+        "sentiment": -1,
+        "published": "February 11, 2022 3:00 PM"
+    },
+    {
+        "title": "Conservative book bans are part of GOP’s fascist turn | The bans against CRT and The 1619 Project are not just conservative or anti-progressive, but specifically anti-democratic, racist and fascist in their motivations and their effect.",
+        "domain": "aljazeera.com",
+        "category": "politics",
+        "link": "https://www.aljazeera.com/opinions/2022/2/11/conservative-book-bans-are-part-of-gops-fascist-turn",
+        "timestamp": 1644591923,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:05 PM"
+    },
+    {
+        "title": "The Owl House Season 2b premiers March 19",
+        "domain": "vervetimes.com",
+        "category": "television",
+        "link": "https://vervetimes.com/the-owl-house-announces-season-2b-release-date/",
+        "timestamp": 1644592057,
+        "sentiment": -2,
+        "published": "February 11, 2022 3:07 PM"
+    },
+    {
+        "title": "Military investigates officer who is calling on soldiers to fight government's pandemic \"tyranny\"",
+        "domain": "ottawacitizen.com",
+        "category": "worldnews",
+        "link": "https://ottawacitizen.com/news/national/defence-watch/military-investigates-officer-who-is-calling-on-soldiers-to-fight-governments-pandemic-tyranny",
+        "timestamp": 1644592753,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:19 PM"
+    },
+    {
+        "title": "How the Biden administration is aggressively releasing intelligence in an attempt to deter Russia",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/02/11/politics/biden-administration-russia-intelligence/index.html",
+        "timestamp": 1644594068,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:41 PM"
+    },
+    {
+        "title": "Why 'Futurama' star John DiMaggio won't voice Bender in revival... for now",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/futurama-john-dimaggio-wont-voice-bender-revival-for-now/",
+        "timestamp": 1644594189,
+        "sentiment": -2,
+        "published": "February 11, 2022 3:43 PM"
+    },
+    {
+        "title": "Peter Navarro Gets Testy When Asked If Kamala Harris Can Throw Out Election Results",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/peter-navarro-kamala-harris-msnbc_n_6205ae63e4b0e224afc4ff96",
+        "timestamp": 1644595987,
+        "sentiment": 0,
+        "published": "February 11, 2022 4:13 PM"
+    },
+    {
+        "title": "Macron refused Russian COVID test in Putin trip over DNA theft fears: sources",
+        "domain": "ctvnews.ca",
+        "category": "news",
+        "link": "https://www.ctvnews.ca/world/macron-refused-russian-covid-test-in-putin-trip-over-dna-theft-fears-sources-1.5777317",
+        "timestamp": 1644596156,
+        "sentiment": -1,
+        "published": "February 11, 2022 4:15 PM"
+    },
+    {
+        "title": "Trucker protests: Ontario calls state of emergency",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-60352980",
+        "timestamp": 1644596399,
+        "sentiment": -1,
+        "published": "February 11, 2022 4:19 PM"
+    },
+    {
+        "title": "‘Blade Runner 2099’ Live-Action Sequel Series From Ridley Scott, Silka Luisa & Alcon In Works At Amazon Studios",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/02/blade-runner-2099-sequel-series-ridley-scott-amazon-1234931521/",
+        "timestamp": 1644599221,
+        "sentiment": -2,
+        "published": "February 11, 2022 5:07 PM"
+    },
+    {
+        "title": "Hijab protests spread in India as girls refuse to be told what not to wear",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/10/india/hijab-karnataka-india-protest-intl-hnk/index.html",
+        "timestamp": 1644600479,
+        "sentiment": -1,
+        "published": "February 11, 2022 5:27 PM"
+    },
+    {
+        "title": "QAnon Grifter Who Claims She Can Time Travel Is Running for Office in Ohio",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/wxdpwz/ohio-terpsehore-maras-qanon-time-traveler",
+        "timestamp": 1644601043,
+        "sentiment": 0,
+        "published": "February 11, 2022 5:37 PM"
+    },
+    {
+        "title": "Ottawa towing company threatened into not helping police with trucker convoy: chief",
+        "domain": "ottawa.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://ottawa.ctvnews.ca/ottawa-towing-company-threatened-into-not-helping-police-with-trucker-convoy-chief-1.5776591",
+        "timestamp": 1644601201,
+        "sentiment": 0,
+        "published": "February 11, 2022 5:40 PM"
+    },
+    {
+        "title": "Ukraine-Russia tensions: Russian troops warned by Ukrainian general 'land will be flooded' with their blood",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
+        "timestamp": 1644545013,
+        "sentiment": 0,
+        "published": "February 11, 2022 2:03 AM"
+    },
+    {
+        "title": "New York Times is free to publish Project Veritas documents, appeals court rules",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/new-york-times-is-free-publish-project-veritas-documents-appeals-court-rules-2022-02-10/?utm_source=reddit.com",
+        "timestamp": 1644546265,
+        "sentiment": -2,
+        "published": "February 11, 2022 2:24 AM"
     },
     {
         "title": "Spurned by Trump, GOP Rep. Mace stands outside Trump Tower in NYC to pledge fidelity to...Trump",
@@ -214,105 +358,6 @@
         "timestamp": 1644587237,
         "sentiment": -2,
         "published": "February 11, 2022 1:47 PM"
-    },
-    {
-        "title": "Finland signs deal to buy 64 U.S.-built stealth jets",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/finland-sign-deal-bringing-us-built-stealth-jets-russian-border-2022-02-11/",
-        "timestamp": 1644587249,
-        "sentiment": 0,
-        "published": "February 11, 2022 1:47 PM"
-    },
-    {
-        "title": "Jan. 6 Sentencing Judge Reminds RNC That Riot Was Not 'Legitimate Political Discourse'",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/jan-6-sentencing-judge-reminds-rnc-that-riot-was-not-legitimate-political-discourse_n_62057f31e4b0328e0023fab0",
-        "timestamp": 1644589611,
-        "sentiment": 1,
-        "published": "February 11, 2022 2:26 PM"
-    },
-    {
-        "title": "Judge restores protections for gray wolves across much of US",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/technology/wireStory/judge-restores-protections-gray-wolves-us-82809306",
-        "timestamp": 1644591625,
-        "sentiment": -2,
-        "published": "February 11, 2022 3:00 PM"
-    },
-    {
-        "title": "Conservative book bans are part of GOP’s fascist turn | The bans against CRT and The 1619 Project are not just conservative or anti-progressive, but specifically anti-democratic, racist and fascist in their motivations and their effect.",
-        "domain": "aljazeera.com",
-        "category": "politics",
-        "link": "https://www.aljazeera.com/opinions/2022/2/11/conservative-book-bans-are-part-of-gops-fascist-turn",
-        "timestamp": 1644591923,
-        "sentiment": 1,
-        "published": "February 11, 2022 3:05 PM"
-    },
-    {
-        "title": "The Owl House Season 2b premiers March 19",
-        "domain": "vervetimes.com",
-        "category": "television",
-        "link": "https://vervetimes.com/the-owl-house-announces-season-2b-release-date/",
-        "timestamp": 1644592057,
-        "sentiment": 0,
-        "published": "February 11, 2022 3:07 PM"
-    },
-    {
-        "title": "Military investigates officer who is calling on soldiers to fight government's pandemic \"tyranny\"",
-        "domain": "ottawacitizen.com",
-        "category": "worldnews",
-        "link": "https://ottawacitizen.com/news/national/defence-watch/military-investigates-officer-who-is-calling-on-soldiers-to-fight-governments-pandemic-tyranny",
-        "timestamp": 1644592753,
-        "sentiment": 0,
-        "published": "February 11, 2022 3:19 PM"
-    },
-    {
-        "title": "Why 'Futurama' star John DiMaggio won't voice Bender in revival... for now",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/futurama-john-dimaggio-wont-voice-bender-revival-for-now/",
-        "timestamp": 1644594189,
-        "sentiment": 0,
-        "published": "February 11, 2022 3:43 PM"
-    },
-    {
-        "title": "Peter Navarro Gets Testy When Asked If Kamala Harris Can Throw Out Election Results",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/peter-navarro-kamala-harris-msnbc_n_6205ae63e4b0e224afc4ff96",
-        "timestamp": 1644595987,
-        "sentiment": 1,
-        "published": "February 11, 2022 4:13 PM"
-    },
-    {
-        "title": "Macron refused Russian COVID test in Putin trip over DNA theft fears: sources",
-        "domain": "ctvnews.ca",
-        "category": "news",
-        "link": "https://www.ctvnews.ca/world/macron-refused-russian-covid-test-in-putin-trip-over-dna-theft-fears-sources-1.5777317",
-        "timestamp": 1644596156,
-        "sentiment": -2,
-        "published": "February 11, 2022 4:15 PM"
-    },
-    {
-        "title": "Trucker protests: Ontario calls state of emergency",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-60352980",
-        "timestamp": 1644596399,
-        "sentiment": -2,
-        "published": "February 11, 2022 4:19 PM"
-    },
-    {
-        "title": "‘Blade Runner 2099’ Live-Action Sequel Series From Ridley Scott, Silka Luisa & Alcon In Works At Amazon Studios",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/02/blade-runner-2099-sequel-series-ridley-scott-amazon-1234931521/",
-        "timestamp": 1644599221,
-        "sentiment": 0,
-        "published": "February 11, 2022 5:07 PM"
     },
     {
         "title": "BBC's CBeebies channel is 20 years old today",
@@ -340,15 +385,6 @@
         "timestamp": 1644587810,
         "sentiment": 0,
         "published": "February 11, 2022 1:56 PM"
-    },
-    {
-        "title": "A customer told to wear a mask in a Chicago hot dog restaurant threw snow at an employee and then broke a glass door",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/11/us/chicago-man-damages-restaurant-over-mask/index.html",
-        "timestamp": 1644591396,
-        "sentiment": -1,
-        "published": "February 11, 2022 2:56 PM"
     },
     {
         "title": "A Porno-Metal Song About Gay Cowboys Is Disrupting The Anti-Vaxx Trucker Convoy",
