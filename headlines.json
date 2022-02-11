@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/white-house-border-convoy-protest-covid-response-1.6347421",
         "timestamp": 1644540210,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 11, 2022 12:43 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-russia-tensions-vladimir-putin-warned-by-ukrainian-general-his-troops-will-fight-until-the-very-last-breath-12537922",
         "timestamp": 1644545013,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 11, 2022 2:03 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/calgary/alberta-family-miss-goodbye-dying-mother-border-protest-1.6347507",
         "timestamp": 1644548933,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "February 11, 2022 3:08 AM"
     },
     {
@@ -79,6 +79,24 @@
         "timestamp": 1644550825,
         "sentiment": 3,
         "published": "February 11, 2022 3:40 AM"
+    },
+    {
+        "title": "U.S. intelligence report details 'indirect' Russian government support for Western neofascist groups",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/us-intelligence-report-details-indirect-russian-government-support-for-western-neo-fascist-groups-233831082.html",
+        "timestamp": 1644556261,
+        "sentiment": 2,
+        "published": "February 11, 2022 5:11 AM"
+    },
+    {
+        "title": "‘Peacemaker’ Star Chukwudi Iwuji on That Shocking Moment and His ‘Guardians of the Galaxy’ Role",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/features/peacemaker-murn-dead-chukwudi-iwuji-guardians-of-the-galaxy-1235175505/",
+        "timestamp": 1644556952,
+        "sentiment": 0,
+        "published": "February 11, 2022 5:22 AM"
     },
     {
         "title": "Bob Saget Died From Brain Bleed After Hitting His Head",
