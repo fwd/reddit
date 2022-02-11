@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://apnews.com/article/congress-cia-ron-wyden-martin-heinrich-europe-565878d7299748551a34af0d3543d769",
         "timestamp": 1644550825,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 3:40 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://www.whats-on-netflix.com/leaving-soon/marvels-the-defenders-shows-leaving-netflix-on-march-1st/",
         "timestamp": 1644575749,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 10:35 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/feb/11/michigan-beef-dangerous-levels-forever-chemicals",
         "timestamp": 1644578213,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 11:16 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/kevin-costner-44-blue-indigenous-onward-1235176243/",
         "timestamp": 1644578578,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 11:22 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/putin-kept-macron-distance-snubbing-covid-demands-sources-2022-02-10/",
         "timestamp": 1644578665,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 11:24 AM"
-    },
-    {
-        "title": "New report details the influence of Christian nationalism on the insurrection",
-        "domain": "religionnews.com",
-        "category": "politics",
-        "link": "https://religionnews.com/2022/02/09/new-report-details-the-influence-of-christian-nationalism-on-the-insurrection/",
-        "timestamp": 1644580609,
-        "sentiment": 0,
-        "published": "February 11, 2022 11:56 AM"
     },
     {
         "title": "More than a dozen Russian tanks stuck in the mud during military drills - News7F",
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news7f.com/more-than-a-dozen-russian-tanks-stuck-in-the-mud-during-military-drills/",
         "timestamp": 1644580613,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 11:56 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/americas/canada-truckers-protests-covid-friday/index.html",
         "timestamp": 1644582733,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 12:32 PM"
     },
     {
@@ -90,21 +81,12 @@
         "published": "February 11, 2022 1:04 PM"
     },
     {
-        "title": "’30 Coins’ Season 2 Confirmed at HBO Max",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/global/30-coins-hbo-max-alex-iglesia-1235178623/",
-        "timestamp": 1644585391,
-        "sentiment": 0,
-        "published": "February 11, 2022 1:16 PM"
-    },
-    {
         "title": "Finland signs deal to buy 64 U.S.-built stealth jets",
         "domain": "reuters.com",
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/finland-sign-deal-bringing-us-built-stealth-jets-russian-border-2022-02-11/",
         "timestamp": 1644587249,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 1:47 PM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/technology/wireStory/judge-restores-protections-gray-wolves-us-82809306",
         "timestamp": 1644591625,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 3:00 PM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "television",
         "link": "https://vervetimes.com/the-owl-house-announces-season-2b-release-date/",
         "timestamp": 1644592057,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 3:07 PM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://ottawacitizen.com/news/national/defence-watch/military-investigates-officer-who-is-calling-on-soldiers-to-fight-governments-pandemic-tyranny",
         "timestamp": 1644592753,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 3:19 PM"
     },
     {
@@ -167,17 +149,8 @@
         "category": "television",
         "link": "https://ew.com/tv/futurama-john-dimaggio-wont-voice-bender-revival-for-now/",
         "timestamp": 1644594189,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 3:43 PM"
-    },
-    {
-        "title": "‘Hand of Russia’ visible in African coups says AFRICOM boss",
-        "domain": "militarytimes.com",
-        "category": "worldnews",
-        "link": "https://www.militarytimes.com/flashpoints/2022/02/08/hand-of-russia-visible-in-african-coups-says-africom-boss/",
-        "timestamp": 1644594817,
-        "sentiment": 0,
-        "published": "February 11, 2022 3:53 PM"
     },
     {
         "title": "Peter Navarro Gets Testy When Asked If Kamala Harris Can Throw Out Election Results",
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.ctvnews.ca/world/macron-refused-russian-covid-test-in-putin-trip-over-dna-theft-fears-sources-1.5777317",
         "timestamp": 1644596156,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 4:15 PM"
     },
     {
@@ -203,17 +176,8 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/news/world-us-canada-60352980",
         "timestamp": 1644596399,
-        "sentiment": -2,
-        "published": "February 11, 2022 4:19 PM"
-    },
-    {
-        "title": "Canada's Ontario province declares state of emergency",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/americas/canadas-ontario-province-declares-state-emergency-2022-02-11/",
-        "timestamp": 1644596428,
         "sentiment": 0,
-        "published": "February 11, 2022 4:20 PM"
+        "published": "February 11, 2022 4:19 PM"
     },
     {
         "title": "U.S. posts $119 billion budget surplus in January; first in over 2 years",
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/blade-runner-2099-sequel-series-ridley-scott-amazon-1234931521/",
         "timestamp": 1644599221,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 5:07 PM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/10/india/hijab-karnataka-india-protest-intl-hnk/index.html",
         "timestamp": 1644600479,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 5:27 PM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "worldnews",
         "link": "https://ottawa.ctvnews.ca/ottawa-towing-company-threatened-into-not-helping-police-with-trucker-convoy-chief-1.5776591",
         "timestamp": 1644601201,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 5:40 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/webview/europe/live-news/ukraine-russia-news-02-11-22/h_26bf2c7a6ff13875ea1d5bba3b6aa70a",
         "timestamp": 1644604470,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 6:34 PM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "television",
         "link": "https://collider.com/russian-doll-season-2-natasha-lyonne-annie-murphy-netflix/",
         "timestamp": 1644605152,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 6:45 PM"
     },
     {
@@ -284,8 +248,17 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/trending/former-south-florida-police-lieutenant-convicted-molesting-young-girls/6OAZ4D66IRHBNOGDHFB4IWYOWU/",
         "timestamp": 1644606354,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 7:05 PM"
+    },
+    {
+        "title": "British and Norwegian nationals urged to leave Ukraine immediately",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/travel/2022/02/11/uk-nationals-should-leave-ukraine-now-says-british-government",
+        "timestamp": 1644606708,
+        "sentiment": -1,
+        "published": "February 11, 2022 7:11 PM"
     },
     {
         "title": "White father and son charged for chasing and shooting at Black FedEx driver",
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/10/us/mississippi-men-charged-for-shooting-at-black-fedex-driver/index.html",
         "timestamp": 1644607065,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 11, 2022 7:17 PM"
     },
     {
@@ -311,8 +284,26 @@
         "category": "worldnews",
         "link": "https://reuters.com/article/idUSKBN2KG1X4",
         "timestamp": 1644608928,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 7:48 PM"
+    },
+    {
+        "title": "Ukraine tensions: Countries tell nationals to leave over Russia threat",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-europe-60355295",
+        "timestamp": 1644609956,
+        "sentiment": -1,
+        "published": "February 11, 2022 8:05 PM"
+    },
+    {
+        "title": "The Supreme Court’s ‘Dead Hand’ | The 6–3 majority-conservative Supreme Court is dangerously out of step with a demographically and culturally changing America.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/politics/archive/2022/02/supreme-court-conservative-rulings/622050/",
+        "timestamp": 1644610709,
+        "sentiment": 0,
+        "published": "February 11, 2022 8:18 PM"
     },
     {
         "title": "Trudeau warns of 'severe consequences' for anti-vaccine mandate protesters who don't stand down | CBC News",
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/trudeau-severe-consequences-demonstrators-1.6348661",
         "timestamp": 1644613576,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 11, 2022 9:06 PM"
     },
     {
@@ -329,8 +320,62 @@
         "category": "television",
         "link": "https://deadline.com/2022/02/only-murders-in-the-building-michael-rapaport-hulu-comedy-series-1234931986/",
         "timestamp": 1644613990,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "February 11, 2022 9:13 PM"
+    },
+    {
+        "title": "‘Ahsoka’: Ray Stevenson Joins Rosario Dawson in Latest ‘Star Wars’ Series (Exclusive)",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ahsoka-ray-stevenson-rosario-dawson-star-wars-series-1235091736/",
+        "timestamp": 1644614522,
+        "sentiment": 5,
+        "published": "February 11, 2022 9:22 PM"
+    },
+    {
+        "title": "David Cross says Arrested Development's first three seasons \"are absolutel gold\"... the fifth season is \"really disappointing.\"",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/video/david-cross-interview-im-from-the-future-arrested-development/",
+        "timestamp": 1644614947,
+        "sentiment": 5,
+        "published": "February 11, 2022 9:29 PM"
+    },
+    {
+        "title": "New report details the influence of Christian nationalism on the insurrection",
+        "domain": "religionnews.com",
+        "category": "politics",
+        "link": "https://religionnews.com/2022/02/09/new-report-details-the-influence-of-christian-nationalism-on-the-insurrection/",
+        "timestamp": 1644580609,
+        "sentiment": 0,
+        "published": "February 11, 2022 11:56 AM"
+    },
+    {
+        "title": "’30 Coins’ Season 2 Confirmed at HBO Max",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/30-coins-hbo-max-alex-iglesia-1235178623/",
+        "timestamp": 1644585391,
+        "sentiment": 0,
+        "published": "February 11, 2022 1:16 PM"
+    },
+    {
+        "title": "‘Hand of Russia’ visible in African coups says AFRICOM boss",
+        "domain": "militarytimes.com",
+        "category": "worldnews",
+        "link": "https://www.militarytimes.com/flashpoints/2022/02/08/hand-of-russia-visible-in-african-coups-says-africom-boss/",
+        "timestamp": 1644594817,
+        "sentiment": 0,
+        "published": "February 11, 2022 3:53 PM"
+    },
+    {
+        "title": "Canada's Ontario province declares state of emergency",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/canadas-ontario-province-declares-state-emergency-2022-02-11/",
+        "timestamp": 1644596428,
+        "sentiment": 0,
+        "published": "February 11, 2022 4:20 PM"
     },
     {
         "title": "‘Peacemaker’ Star Chukwudi Iwuji on That Shocking Moment and His ‘Guardians of the Galaxy’ Role",
