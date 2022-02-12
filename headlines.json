@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
         "timestamp": 1644626802,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 12:46 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-eviction-rental-assistance-539e1e1155d0e51eced4ae96e6e8cd14",
         "timestamp": 1644628917,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 12, 2022 1:21 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
         "timestamp": 1644635789,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 3:16 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.ktvu.com/news/govt-program-does-not-pay-for-crack-pipes-white-house-says?utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=facebook",
         "timestamp": 1644636060,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 12, 2022 3:21 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 4:32 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
         "timestamp": 1644644256,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "February 12, 2022 5:37 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.militarytimes.com/news/your-air-force/2022/02/11/more-us-military-jets-turn-to-east-europe-as-possible-russian-invasion-of-ukraine-looms/",
         "timestamp": 1644653623,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 8:13 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
         "timestamp": 1644655201,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 8:40 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-02-12/jujutsu-kaisen-anime-gets-2nd-season-in-2023/.182548",
         "timestamp": 1644658317,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 9:31 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.mirror.co.uk/news/world-news/russia-could-invade-ukraine-on-26211211",
         "timestamp": 1644663019,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "February 12, 2022 10:50 AM"
     },
     {
@@ -140,8 +140,17 @@
         "category": "television",
         "link": "https://ew.com/tv/pamela-anderson-will-never-watch-pam-and-tommy/",
         "timestamp": 1644663199,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 10:53 AM"
+    },
+    {
+        "title": "Germans Advised to Leave Ukraine",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
+        "timestamp": 1644664113,
+        "sentiment": -1,
+        "published": "February 12, 2022 11:08 AM"
     },
     {
         "title": "Marvel’s Moon Knight Is ‘Brutal’, Says Kevin Feige: ‘We’re Not Pulling Back’",
@@ -149,8 +158,26 @@
         "category": "television",
         "link": "https://www.empireonline.com/movies/news/marvel-moon-knight-brutal-kevin-feige-not-pulling-back-exclusive/",
         "timestamp": 1644667948,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 12:12 PM"
+    },
+    {
+        "title": "NBC's Winter Olympics ratings have ski-jumped straight into the toilet",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/nbcs-winter-olympics-ratings-hit-record-low-1848527256",
+        "timestamp": 1644668358,
+        "sentiment": -1,
+        "published": "February 12, 2022 12:19 PM"
+    },
+    {
+        "title": "'According to German newspaper Der Spiegel, the US Secret Service, CIA and the Pentagon are said to have received intel of an 'exceptionally detailed' invasion plan, scheduled for February 16.'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
+        "timestamp": 1644668895,
+        "sentiment": -1,
+        "published": "February 12, 2022 12:28 PM"
     },
     {
         "title": "Russian diplomatic and consular staff reportedly begin leaving Ukraine",
