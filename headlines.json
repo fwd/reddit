@@ -1,14 +1,5 @@
 [
     {
-        "title": "With support from ex-police and military intelligence officers, American funding, and stockpiles of food and fuel, \"Freedom Convoy\" protesters are hunkered down for a long stay in the Canadian capital",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
-        "timestamp": 1644626802,
-        "sentiment": 0,
-        "published": "February 12, 2022 12:46 AM"
-    },
-    {
         "title": "Trump Owes It All to McConnell’s ‘Disgraceful Dereliction of Duty’ | The GOP’s Senate leader said Trump was “practically and morally responsible” for Jan. 6, but then voted to acquit him anyway, leaving him free to be president again.",
         "domain": "thedailybeast.com",
         "category": "politics",
@@ -70,15 +61,6 @@
         "timestamp": 1644644256,
         "sentiment": 0,
         "published": "February 12, 2022 5:37 AM"
-    },
-    {
-        "title": "Russia 'evacuating diplomatic staff from Ukraine'",
-        "domain": "thenationalnews.com",
-        "category": "worldnews",
-        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
-        "timestamp": 1644648786,
-        "sentiment": 0,
-        "published": "February 12, 2022 6:53 AM"
     },
     {
         "title": "Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering'",
@@ -198,6 +180,15 @@
         "published": "February 12, 2022 1:35 PM"
     },
     {
+        "title": "US firm identifies hacking tool used to plant fabricated digital evidence on devices of activists, journalists in India",
+        "domain": "indiatoday.in",
+        "category": "worldnews",
+        "link": "https://www.indiatoday.in/india/story/modifiedelephant-hacking-tool-plant-fabricated-digital-evidence-indian-activists-journalists-1911822-2022-02-11",
+        "timestamp": 1644672968,
+        "sentiment": 0,
+        "published": "February 12, 2022 1:36 PM"
+    },
+    {
         "title": "Canada police arrive to remove protesters at US border",
         "domain": "apnews.com",
         "category": "news",
@@ -225,6 +216,15 @@
         "published": "February 12, 2022 2:05 PM"
     },
     {
+        "title": "US, allies warn time running out for diplomacy with Russia",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/administration/593919-us-allies-warn-time-running-out-for-diplomacy-with-russia",
+        "timestamp": 1644675652,
+        "sentiment": 0,
+        "published": "February 12, 2022 2:20 PM"
+    },
+    {
         "title": "Police fire tear gas as anti-Covid restrictions ‘Freedom Convoy’ enters Paris",
         "domain": "france24.com",
         "category": "news",
@@ -232,6 +232,51 @@
         "timestamp": 1644676259,
         "sentiment": 0,
         "published": "February 12, 2022 2:30 PM"
+    },
+    {
+        "title": "The Outrageous Story About the Postal Service Too Many Know Nothing About|Following a 16-year bet Republicans laid down in 2006 to block Postal EVs, DeJoy just told Biden to go screw himself: he’s going to buy fossil-fuel vehicles for 90% of the fleet instead of electric.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
+        "timestamp": 1644679655,
+        "sentiment": 2,
+        "published": "February 12, 2022 3:27 PM"
+    },
+    {
+        "title": "Police start to clear protesters blocking U.S.-Canada bridge",
+        "domain": "torontosun.com",
+        "category": "worldnews",
+        "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
+        "timestamp": 1644680027,
+        "sentiment": 0,
+        "published": "February 12, 2022 3:33 PM"
+    },
+    {
+        "title": "US far-right podcaster charged after machine guns found in basement",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
+        "timestamp": 1644681631,
+        "sentiment": 0,
+        "published": "February 12, 2022 4:00 PM"
+    },
+    {
+        "title": "With support from ex-police and military intelligence officers, American funding, and stockpiles of food and fuel, \"Freedom Convoy\" protesters are hunkered down for a long stay in the Canadian capital",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
+        "timestamp": 1644626802,
+        "sentiment": 0,
+        "published": "February 12, 2022 12:46 AM"
+    },
+    {
+        "title": "Russia 'evacuating diplomatic staff from Ukraine'",
+        "domain": "thenationalnews.com",
+        "category": "worldnews",
+        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
+        "timestamp": 1644648786,
+        "sentiment": 0,
+        "published": "February 12, 2022 6:53 AM"
     },
     {
         "title": "Ambassador Bridge: Police begin clearing Canada trucker blockade",
