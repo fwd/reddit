@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 4:32 AM"
-    },
-    {
-        "title": "Ontario declares state of emergency, threatening fines and jail time to end blockade",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
-        "timestamp": 1644644256,
-        "sentiment": -2,
-        "published": "February 12, 2022 5:37 AM"
     },
     {
         "title": "Jujutsu Kaisen Anime Gets 2nd Season in 2023",
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
         "timestamp": 1644664113,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 11:08 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
         "timestamp": 1644668895,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 12:28 PM"
     },
     {
@@ -144,12 +135,21 @@
         "published": "February 12, 2022 1:19 PM"
     },
     {
+        "title": "Russia evacuating diplomatic staff from Ukraine",
+        "domain": "thenationalnews.com",
+        "category": "news",
+        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
+        "timestamp": 1644672874,
+        "sentiment": -4,
+        "published": "February 12, 2022 1:34 PM"
+    },
+    {
         "title": "Biden and Putin to speak by phone: Last-ditch talks on Russian threat to invade Ukraine",
         "domain": "thenewsgossip.com",
         "category": "worldnews",
         "link": "https://www.thenewsgossip.com/biden-and-putin-to-speak-by-phone-last-ditch-talks-on-russian-threat-to-invade-ukraine/",
         "timestamp": 1644672905,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 1:35 PM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.indiatoday.in/india/story/modifiedelephant-hacking-tool-plant-fabricated-digital-evidence-indian-activists-journalists-1911822-2022-02-11",
         "timestamp": 1644672968,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 1:36 PM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
         "timestamp": 1644673304,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 1:41 PM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
         "timestamp": 1644674738,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 2:05 PM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/homenews/administration/593919-us-allies-warn-time-running-out-for-diplomacy-with-russia",
         "timestamp": 1644675652,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 2:20 PM"
     },
     {
@@ -212,17 +212,17 @@
         "category": "news",
         "link": "https://www.france24.com/en/france/20220212-paris-deploys-police-as-convoy-protesting-covid-rules-approaches-capital",
         "timestamp": 1644676259,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 2:30 PM"
     },
     {
-        "title": "Canada police move in to clear protesters occupying bridge",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/2/12/canada-police-clear-protesters-occupying-bridge",
-        "timestamp": 1644676430,
-        "sentiment": -1,
-        "published": "February 12, 2022 2:33 PM"
+        "title": "Deepfake Luke Skywalker is another step down a ghoulish CGI path",
+        "domain": "gq-magazine.co.uk",
+        "category": "television",
+        "link": "https://www.gq-magazine.co.uk/culture/article/boba-fett-luke-skywalker",
+        "timestamp": 1644678203,
+        "sentiment": 0,
+        "published": "February 12, 2022 3:03 PM"
     },
     {
         "title": "The Outrageous Story About the Postal Service Too Many Know Nothing About|Following a 16-year bet Republicans laid down in 2006 to block Postal EVs, DeJoy just told Biden to go screw himself: he’s going to buy fossil-fuel vehicles for 90% of the fleet instead of electric.",
@@ -239,7 +239,7 @@
         "category": "worldnews",
         "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
         "timestamp": 1644680027,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 3:33 PM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220212-biden-putin-to-speak-as-ukraine-invasion-fears-intensify",
         "timestamp": 1644681586,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "February 12, 2022 3:59 PM"
     },
     {
@@ -257,8 +257,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
         "timestamp": 1644681631,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 4:00 PM"
+    },
+    {
+        "title": "Paris police fire tear gas at anti-restriction 'Freedom Convoy' protesters",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/paris-police-fire-tear-gas-at-anti-restriction-freedom-convoy-protesters-12539963",
+        "timestamp": 1644682281,
+        "sentiment": -4,
+        "published": "February 12, 2022 4:11 PM"
     },
     {
         "title": "Disney Removing More Of Its Shows & Films From Netflix",
@@ -275,8 +284,53 @@
         "category": "news",
         "link": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
         "timestamp": 1644685878,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "February 12, 2022 5:11 PM"
+    },
+    {
+        "title": "'Unite and fight': Thousands of Ukrainians march in face of Russia threat",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220212-unite-and-fight-ukrainians-march-in-face-of-russia-threat",
+        "timestamp": 1644686191,
+        "sentiment": 0,
+        "published": "February 12, 2022 5:16 PM"
+    },
+    {
+        "title": "Jack Reacher on Amazon Prime Video: the adaptation fans have been waiting for.",
+        "domain": "slate.com",
+        "category": "television",
+        "link": "https://slate.com/culture/2022/02/jack-reacher-amazon-prime-alan-ritchson-killing-floor.html",
+        "timestamp": 1644686389,
+        "sentiment": 0,
+        "published": "February 12, 2022 5:19 PM"
+    },
+    {
+        "title": "Putin, Biden conclude hourlong call on Ukraine crisis",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-joe-biden-emmanuel-macron-europe-moscow-1f353699f0be1609da5435c98cfc8022",
+        "timestamp": 1644686591,
+        "sentiment": 0,
+        "published": "February 12, 2022 5:23 PM"
+    },
+    {
+        "title": "Ontario declares state of emergency, threatening fines and jail time to end blockade",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
+        "timestamp": 1644644256,
+        "sentiment": -2,
+        "published": "February 12, 2022 5:37 AM"
+    },
+    {
+        "title": "Canada police move in to clear protesters occupying bridge",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/2/12/canada-police-clear-protesters-occupying-bridge",
+        "timestamp": 1644676430,
+        "sentiment": -1,
+        "published": "February 12, 2022 2:33 PM"
     },
     {
         "title": "New Zealand Government calls on Kiwis in Ukraine to leave immediately",
