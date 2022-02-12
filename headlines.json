@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
         "timestamp": 1644626802,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "February 12, 2022 12:46 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-eviction-rental-assistance-539e1e1155d0e51eced4ae96e6e8cd14",
         "timestamp": 1644628917,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "February 12, 2022 1:21 AM"
     },
     {
@@ -23,8 +23,197 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
         "timestamp": 1644630283,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 1:44 AM"
+    },
+    {
+        "title": "As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
+        "timestamp": 1644633716,
+        "sentiment": 1,
+        "published": "February 12, 2022 2:41 AM"
+    },
+    {
+        "title": "Anti-Protest Conservatives Sure Do Love the Trucker Blockade Causing 'Deep Pain' to American Companies",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/canadian-trucker-convoy-protest-republicans-support-blockade-1298752/",
+        "timestamp": 1644633964,
+        "sentiment": -2,
+        "published": "February 12, 2022 2:46 AM"
+    },
+    {
+        "title": "New Zealand Government calls on Kiwis in Ukraine to leave immediately",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
+        "timestamp": 1644635789,
+        "sentiment": 2,
+        "published": "February 12, 2022 3:16 AM"
+    },
+    {
+        "title": "Govt. program does not pay for crack pipes, White House says",
+        "domain": "ktvu.com",
+        "category": "news",
+        "link": "https://www.ktvu.com/news/govt-program-does-not-pay-for-crack-pipes-white-house-says?utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=facebook",
+        "timestamp": 1644636060,
+        "sentiment": 1,
+        "published": "February 12, 2022 3:21 AM"
+    },
+    {
+        "title": "Tennessee parents, teachers push back against 'Maus' removal",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
+        "timestamp": 1644636941,
+        "sentiment": 1,
+        "published": "February 12, 2022 3:35 AM"
+    },
+    {
+        "title": "US to evacuate Ukraine embassy amid Russian invasion fears",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
+        "timestamp": 1644640364,
+        "sentiment": 2,
+        "published": "February 12, 2022 4:32 AM"
+    },
+    {
+        "title": "Ontario declares state of emergency, threatening fines and jail time to end blockade",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
+        "timestamp": 1644644256,
+        "sentiment": 1,
+        "published": "February 12, 2022 5:37 AM"
+    },
+    {
+        "title": "Tentative date of Russian Invasion, according to NATO intel, points to the 16th",
+        "domain": "militarytimes.com",
+        "category": "worldnews",
+        "link": "https://www.militarytimes.com/news/your-air-force/2022/02/11/more-us-military-jets-turn-to-east-europe-as-possible-russian-invasion-of-ukraine-looms/",
+        "timestamp": 1644653623,
+        "sentiment": 2,
+        "published": "February 12, 2022 8:13 AM"
+    },
+    {
+        "title": "Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
+        "timestamp": 1644655201,
+        "sentiment": 2,
+        "published": "February 12, 2022 8:40 AM"
+    },
+    {
+        "title": "Jujutsu Kaisen Anime Gets 2nd Season in 2023",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/news/2022-02-12/jujutsu-kaisen-anime-gets-2nd-season-in-2023/.182548",
+        "timestamp": 1644658317,
+        "sentiment": 0,
+        "published": "February 12, 2022 9:31 AM"
+    },
+    {
+        "title": "Russia could invade Ukraine 'on Wednesday' with Brits told leave 'by any means'",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/world-news/russia-could-invade-ukraine-on-26211211",
+        "timestamp": 1644663019,
+        "sentiment": 2,
+        "published": "February 12, 2022 10:50 AM"
+    },
+    {
+        "title": "Pamela Anderson will 'never, never watch' 'Pam & Tommy,' source says",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/pamela-anderson-will-never-watch-pam-and-tommy/",
+        "timestamp": 1644663199,
+        "sentiment": 0,
+        "published": "February 12, 2022 10:53 AM"
+    },
+    {
+        "title": "Germans Advised to Leave Ukraine",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
+        "timestamp": 1644664113,
+        "sentiment": 2,
+        "published": "February 12, 2022 11:08 AM"
+    },
+    {
+        "title": "Marvel’s Moon Knight Is ‘Brutal’, Says Kevin Feige: ‘We’re Not Pulling Back’",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/movies/news/marvel-moon-knight-brutal-kevin-feige-not-pulling-back-exclusive/",
+        "timestamp": 1644667948,
+        "sentiment": 0,
+        "published": "February 12, 2022 12:12 PM"
+    },
+    {
+        "title": "NBC's Winter Olympics ratings have ski-jumped straight into the toilet",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/nbcs-winter-olympics-ratings-hit-record-low-1848527256",
+        "timestamp": 1644668358,
+        "sentiment": 0,
+        "published": "February 12, 2022 12:19 PM"
+    },
+    {
+        "title": "'According to German newspaper Der Spiegel, the US Secret Service, CIA and the Pentagon are said to have received intel of an 'exceptionally detailed' invasion plan, scheduled for February 16.'",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
+        "timestamp": 1644668895,
+        "sentiment": 2,
+        "published": "February 12, 2022 12:28 PM"
+    },
+    {
+        "title": "Trump under investigation: Your guide to who's probing what, and how it's going | Who's actually investigating Donald Trump, and will they nail him? A starter guide for the perplexed news consumer",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/12/under-investigation-your-guide-to-whos-probing-what-and-how-its-going/",
+        "timestamp": 1644669188,
+        "sentiment": -2,
+        "published": "February 12, 2022 12:33 PM"
+    },
+    {
+        "title": "Marjorie Taylor Greene Addresses ‘Gazpacho Police’ Gaffe, Only Makes The Mockery Worse",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
+        "timestamp": 1644671226,
+        "sentiment": -2,
+        "published": "February 12, 2022 1:07 PM"
+    },
+    {
+        "title": "Uncompetitive House seats ensure Americans’ votes change nothing",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
+        "timestamp": 1644671950,
+        "sentiment": -2,
+        "published": "February 12, 2022 1:19 PM"
+    },
+    {
+        "title": "Canada police arrive to remove protesters at US border",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
+        "timestamp": 1644673304,
+        "sentiment": 1,
+        "published": "February 12, 2022 1:41 PM"
+    },
+    {
+        "title": "The University of Alabama is renaming a building after its first Black student, removing the name of a Klansman",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
+        "timestamp": 1644674738,
+        "sentiment": 1,
+        "published": "February 12, 2022 2:05 PM"
     },
     {
         "title": "Arizona Republican’s “disgusting” ad shows him shooting at Gabby Giffords’ husband Mark Kelly",
@@ -34,150 +223,6 @@
         "timestamp": 1644631348,
         "sentiment": 0,
         "published": "February 12, 2022 2:02 AM"
-    },
-    {
-        "title": "As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
-        "timestamp": 1644633716,
-        "sentiment": 0,
-        "published": "February 12, 2022 2:41 AM"
-    },
-    {
-        "title": "Anti-Protest Conservatives Sure Do Love the Trucker Blockade Causing 'Deep Pain' to American Companies",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/canadian-trucker-convoy-protest-republicans-support-blockade-1298752/",
-        "timestamp": 1644633964,
-        "sentiment": 0,
-        "published": "February 12, 2022 2:46 AM"
-    },
-    {
-        "title": "New Zealand Government calls on Kiwis in Ukraine to leave immediately",
-        "domain": "nzherald.co.nz",
-        "category": "worldnews",
-        "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
-        "timestamp": 1644635789,
-        "sentiment": -1,
-        "published": "February 12, 2022 3:16 AM"
-    },
-    {
-        "title": "Govt. program does not pay for crack pipes, White House says",
-        "domain": "ktvu.com",
-        "category": "news",
-        "link": "https://www.ktvu.com/news/govt-program-does-not-pay-for-crack-pipes-white-house-says?utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=facebook",
-        "timestamp": 1644636060,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:21 AM"
-    },
-    {
-        "title": "Tennessee parents, teachers push back against 'Maus' removal",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
-        "timestamp": 1644636941,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:35 AM"
-    },
-    {
-        "title": "US to evacuate Ukraine embassy amid Russian invasion fears",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
-        "timestamp": 1644640364,
-        "sentiment": -1,
-        "published": "February 12, 2022 4:32 AM"
-    },
-    {
-        "title": "Ontario declares state of emergency, threatening fines and jail time to end blockade",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
-        "timestamp": 1644644256,
-        "sentiment": 0,
-        "published": "February 12, 2022 5:37 AM"
-    },
-    {
-        "title": "Tentative date of Russian Invasion, according to NATO intel, points to the 16th",
-        "domain": "militarytimes.com",
-        "category": "worldnews",
-        "link": "https://www.militarytimes.com/news/your-air-force/2022/02/11/more-us-military-jets-turn-to-east-europe-as-possible-russian-invasion-of-ukraine-looms/",
-        "timestamp": 1644653623,
-        "sentiment": -1,
-        "published": "February 12, 2022 8:13 AM"
-    },
-    {
-        "title": "Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering'",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
-        "timestamp": 1644655201,
-        "sentiment": -1,
-        "published": "February 12, 2022 8:40 AM"
-    },
-    {
-        "title": "Jujutsu Kaisen Anime Gets 2nd Season in 2023",
-        "domain": "animenewsnetwork.com",
-        "category": "television",
-        "link": "https://www.animenewsnetwork.com/news/2022-02-12/jujutsu-kaisen-anime-gets-2nd-season-in-2023/.182548",
-        "timestamp": 1644658317,
-        "sentiment": -1,
-        "published": "February 12, 2022 9:31 AM"
-    },
-    {
-        "title": "Russia could invade Ukraine 'on Wednesday' with Brits told leave 'by any means'",
-        "domain": "mirror.co.uk",
-        "category": "worldnews",
-        "link": "https://www.mirror.co.uk/news/world-news/russia-could-invade-ukraine-on-26211211",
-        "timestamp": 1644663019,
-        "sentiment": -1,
-        "published": "February 12, 2022 10:50 AM"
-    },
-    {
-        "title": "Pamela Anderson will 'never, never watch' 'Pam & Tommy,' source says",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/pamela-anderson-will-never-watch-pam-and-tommy/",
-        "timestamp": 1644663199,
-        "sentiment": -1,
-        "published": "February 12, 2022 10:53 AM"
-    },
-    {
-        "title": "Germans Advised to Leave Ukraine",
-        "domain": "m.dw.com",
-        "category": "worldnews",
-        "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
-        "timestamp": 1644664113,
-        "sentiment": -1,
-        "published": "February 12, 2022 11:08 AM"
-    },
-    {
-        "title": "Marvel’s Moon Knight Is ‘Brutal’, Says Kevin Feige: ‘We’re Not Pulling Back’",
-        "domain": "empireonline.com",
-        "category": "television",
-        "link": "https://www.empireonline.com/movies/news/marvel-moon-knight-brutal-kevin-feige-not-pulling-back-exclusive/",
-        "timestamp": 1644667948,
-        "sentiment": -1,
-        "published": "February 12, 2022 12:12 PM"
-    },
-    {
-        "title": "NBC's Winter Olympics ratings have ski-jumped straight into the toilet",
-        "domain": "avclub.com",
-        "category": "television",
-        "link": "https://www.avclub.com/nbcs-winter-olympics-ratings-hit-record-low-1848527256",
-        "timestamp": 1644668358,
-        "sentiment": -1,
-        "published": "February 12, 2022 12:19 PM"
-    },
-    {
-        "title": "'According to German newspaper Der Spiegel, the US Secret Service, CIA and the Pentagon are said to have received intel of an 'exceptionally detailed' invasion plan, scheduled for February 16.'",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
-        "timestamp": 1644668895,
-        "sentiment": -1,
-        "published": "February 12, 2022 12:28 PM"
     },
     {
         "title": "Russian diplomatic and consular staff reportedly begin leaving Ukraine",
