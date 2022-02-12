@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 12, 2022 4:32 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-02-12/jujutsu-kaisen-anime-gets-2nd-season-in-2023/.182548",
         "timestamp": 1644658317,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "February 12, 2022 9:31 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://ew.com/tv/pamela-anderson-will-never-watch-pam-and-tommy/",
         "timestamp": 1644663199,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "February 12, 2022 10:53 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/movies/news/marvel-moon-knight-brutal-kevin-feige-not-pulling-back-exclusive/",
         "timestamp": 1644667948,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "February 12, 2022 12:12 PM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://www.avclub.com/nbcs-winter-olympics-ratings-hit-record-low-1848527256",
         "timestamp": 1644668358,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "February 12, 2022 12:19 PM"
     },
     {
@@ -68,8 +68,278 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
         "timestamp": 1644668895,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "February 12, 2022 12:28 PM"
+    },
+    {
+        "title": "Dismantling the Wisconsin Elections Commission was on agenda for Ron Johnson meeting at state Capitol, text messages show",
+        "domain": "jsonline.com",
+        "category": "politics",
+        "link": "https://www.jsonline.com/story/news/politics/2022/02/11/ron-johnson-capitol-visit-aimed-at-ending-elections-agency-texts-show/6719767001/",
+        "timestamp": 1644670380,
+        "sentiment": 1,
+        "published": "February 12, 2022 12:53 PM"
+    },
+    {
+        "title": "Marjorie Taylor Greene Addresses ‘Gazpacho Police’ Gaffe, Only Makes The Mockery Worse",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
+        "timestamp": 1644671226,
+        "sentiment": 1,
+        "published": "February 12, 2022 1:07 PM"
+    },
+    {
+        "title": "Uncompetitive House seats ensure Americans’ votes change nothing",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
+        "timestamp": 1644671950,
+        "sentiment": 1,
+        "published": "February 12, 2022 1:19 PM"
+    },
+    {
+        "title": "Russia evacuating diplomatic staff from Ukraine",
+        "domain": "thenationalnews.com",
+        "category": "news",
+        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
+        "timestamp": 1644672874,
+        "sentiment": -1,
+        "published": "February 12, 2022 1:34 PM"
+    },
+    {
+        "title": "Biden and Putin to speak by phone: Last-ditch talks on Russian threat to invade Ukraine",
+        "domain": "thenewsgossip.com",
+        "category": "worldnews",
+        "link": "https://www.thenewsgossip.com/biden-and-putin-to-speak-by-phone-last-ditch-talks-on-russian-threat-to-invade-ukraine/",
+        "timestamp": 1644672905,
+        "sentiment": -5,
+        "published": "February 12, 2022 1:35 PM"
+    },
+    {
+        "title": "Canada police arrive to remove protesters at US border",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
+        "timestamp": 1644673304,
+        "sentiment": -1,
+        "published": "February 12, 2022 1:41 PM"
+    },
+    {
+        "title": "MAGA Clerk Attends Event that Calls for Hangings After Arrest",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/maga-clerk-tina-peters-attends-event-that-calls-for-hangings-after-her-arrest?source=articles&via=rss",
+        "timestamp": 1644674477,
+        "sentiment": 1,
+        "published": "February 12, 2022 2:01 PM"
+    },
+    {
+        "title": "The University of Alabama is renaming a building after its first Black student, removing the name of a Klansman",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
+        "timestamp": 1644674738,
+        "sentiment": -1,
+        "published": "February 12, 2022 2:05 PM"
+    },
+    {
+        "title": "Police fire tear gas as anti-Covid restrictions ‘Freedom Convoy’ enters Paris",
+        "domain": "france24.com",
+        "category": "news",
+        "link": "https://www.france24.com/en/france/20220212-paris-deploys-police-as-convoy-protesting-covid-rules-approaches-capital",
+        "timestamp": 1644676259,
+        "sentiment": -1,
+        "published": "February 12, 2022 2:30 PM"
+    },
+    {
+        "title": "Deepfake Luke Skywalker is another step down a ghoulish CGI path",
+        "domain": "gq-magazine.co.uk",
+        "category": "television",
+        "link": "https://www.gq-magazine.co.uk/culture/article/boba-fett-luke-skywalker",
+        "timestamp": 1644678203,
+        "sentiment": -2,
+        "published": "February 12, 2022 3:03 PM"
+    },
+    {
+        "title": "The Outrageous Story About the Postal Service Too Many Know Nothing About|Following a 16-year bet Republicans laid down in 2006 to block Postal EVs, DeJoy just told Biden to go screw himself: he’s going to buy fossil-fuel vehicles for 90% of the fleet instead of electric.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
+        "timestamp": 1644679655,
+        "sentiment": 1,
+        "published": "February 12, 2022 3:27 PM"
+    },
+    {
+        "title": "Police start to clear protesters blocking U.S.-Canada bridge",
+        "domain": "torontosun.com",
+        "category": "worldnews",
+        "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
+        "timestamp": 1644680027,
+        "sentiment": -5,
+        "published": "February 12, 2022 3:33 PM"
+    },
+    {
+        "title": "Zelensky asks for proof that Russia plans to invade Ukraine, warns against ‘panic’",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220212-biden-putin-to-speak-as-ukraine-invasion-fears-intensify",
+        "timestamp": 1644681586,
+        "sentiment": -5,
+        "published": "February 12, 2022 3:59 PM"
+    },
+    {
+        "title": "US far-right podcaster charged after machine guns found in basement",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
+        "timestamp": 1644681631,
+        "sentiment": -1,
+        "published": "February 12, 2022 4:00 PM"
+    },
+    {
+        "title": "Pelosi open to banning congressional stock trading after months of resistance",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/pelosis-support-bill-banning-congressional-stock-trading-clears/story?id=82807611&cid=social_twitter_abcn",
+        "timestamp": 1644685088,
+        "sentiment": 1,
+        "published": "February 12, 2022 4:58 PM"
+    },
+    {
+        "title": "Disney Removing More Of Its Shows & Films From Netflix",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/disney-removing-more-of-its-shows-films-from-netflix/",
+        "timestamp": 1644685373,
+        "sentiment": -2,
+        "published": "February 12, 2022 5:02 PM"
+    },
+    {
+        "title": "Prosecutor won't charge reporter who uncovered database flaw",
+        "domain": "kshb.com",
+        "category": "news",
+        "link": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
+        "timestamp": 1644685878,
+        "sentiment": -1,
+        "published": "February 12, 2022 5:11 PM"
+    },
+    {
+        "title": "'Unite and fight': Thousands of Ukrainians march in face of Russia threat",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220212-unite-and-fight-ukrainians-march-in-face-of-russia-threat",
+        "timestamp": 1644686191,
+        "sentiment": -5,
+        "published": "February 12, 2022 5:16 PM"
+    },
+    {
+        "title": "Jack Reacher on Amazon Prime Video: the adaptation fans have been waiting for.",
+        "domain": "slate.com",
+        "category": "television",
+        "link": "https://slate.com/culture/2022/02/jack-reacher-amazon-prime-alan-ritchson-killing-floor.html",
+        "timestamp": 1644686389,
+        "sentiment": -2,
+        "published": "February 12, 2022 5:19 PM"
+    },
+    {
+        "title": "Putin, Biden conclude hourlong call on Ukraine crisis",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-joe-biden-emmanuel-macron-europe-moscow-1f353699f0be1609da5435c98cfc8022",
+        "timestamp": 1644686591,
+        "sentiment": -5,
+        "published": "February 12, 2022 5:23 PM"
+    },
+    {
+        "title": "Finland set to sign deal with U.S. for 64 F-35 jets",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/finland-set-sign-deal-with-us-64-f-35-jets-sources-2022-02-10/",
+        "timestamp": 1644686778,
+        "sentiment": -5,
+        "published": "February 12, 2022 5:26 PM"
+    },
+    {
+        "title": "Trump held up and waved classified documents around in front of reporters at the Oval Office, says former Homeland Security aide",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-waved-classified-documents-in-front-of-reporters-says-ex-official-2022-2",
+        "timestamp": 1644689386,
+        "sentiment": 1,
+        "published": "February 12, 2022 6:09 PM"
+    },
+    {
+        "title": "Biden warns Putin US will react 'decisively and impose swift and severe costs' if Russia invades Ukraine",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/02/12/politics/biden-putin-call-ukraine/index.html",
+        "timestamp": 1644690476,
+        "sentiment": -5,
+        "published": "February 12, 2022 6:27 PM"
+    },
+    {
+        "title": "Trucks are gone from Ambassador Bridge, but more protesters arrive on foot",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/2022/02/12/ambassador-bridge-truck-protest-police/6764936001/",
+        "timestamp": 1644691122,
+        "sentiment": -1,
+        "published": "February 12, 2022 6:38 PM"
+    },
+    {
+        "title": "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/florida-dont-say-gay-bill-lgbtq-schools-senate-committee/",
+        "timestamp": 1644692012,
+        "sentiment": 1,
+        "published": "February 12, 2022 6:53 PM"
+    },
+    {
+        "title": "Trump has \"hijacked\" GOP, is \"unfit for Office,\" says Republican lawmaker",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-has-hijacked-gop-unfit-office-says-republican-lawmaker-1678714",
+        "timestamp": 1644693378,
+        "sentiment": 1,
+        "published": "February 12, 2022 7:16 PM"
+    },
+    {
+        "title": "A woman was killed and nine officers injured in Phoenix shooting and barricade situation",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/us/phoenix-multiple-injuries-barricade-situation/index.html",
+        "timestamp": 1644694650,
+        "sentiment": -1,
+        "published": "February 12, 2022 7:37 PM"
+    },
+    {
+        "title": "The US supreme court is letting racist discrimination run wild in the election system",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/feb/12/us-supreme-court-racist-discrimination-election-system",
+        "timestamp": 1644695301,
+        "sentiment": 1,
+        "published": "February 12, 2022 7:48 PM"
+    },
+    {
+        "title": "Next Covid strain could kill many more, warn scientists ahead of England restrictions ending",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/feb/12/scientists-plead-caution-covid-restrictions-lifted-england",
+        "timestamp": 1644699078,
+        "sentiment": -5,
+        "published": "February 12, 2022 8:51 PM"
+    },
+    {
+        "title": "‘Bel-Air’ is ‘Fresh Prince’ without any of the things that made it special",
+        "domain": "washingtonpost.com",
+        "category": "television",
+        "link": "https://www.washingtonpost.com/tv/2022/02/12/bel-air-review/",
+        "timestamp": 1644703153,
+        "sentiment": -2,
+        "published": "February 12, 2022 9:59 PM"
     },
     {
         "title": "Trump under investigation: Your guide to who's probing what, and how it's going | Who's actually investigating Donald Trump, and will they nail him? A starter guide for the perplexed news consumer",
@@ -81,123 +351,6 @@
         "published": "February 12, 2022 12:33 PM"
     },
     {
-        "title": "Dismantling the Wisconsin Elections Commission was on agenda for Ron Johnson meeting at state Capitol, text messages show",
-        "domain": "jsonline.com",
-        "category": "politics",
-        "link": "https://www.jsonline.com/story/news/politics/2022/02/11/ron-johnson-capitol-visit-aimed-at-ending-elections-agency-texts-show/6719767001/",
-        "timestamp": 1644670380,
-        "sentiment": 0,
-        "published": "February 12, 2022 12:53 PM"
-    },
-    {
-        "title": "Marjorie Taylor Greene Addresses ‘Gazpacho Police’ Gaffe, Only Makes The Mockery Worse",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
-        "timestamp": 1644671226,
-        "sentiment": 0,
-        "published": "February 12, 2022 1:07 PM"
-    },
-    {
-        "title": "Uncompetitive House seats ensure Americans’ votes change nothing",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
-        "timestamp": 1644671950,
-        "sentiment": 0,
-        "published": "February 12, 2022 1:19 PM"
-    },
-    {
-        "title": "Biden and Putin to speak by phone: Last-ditch talks on Russian threat to invade Ukraine",
-        "domain": "thenewsgossip.com",
-        "category": "worldnews",
-        "link": "https://www.thenewsgossip.com/biden-and-putin-to-speak-by-phone-last-ditch-talks-on-russian-threat-to-invade-ukraine/",
-        "timestamp": 1644672905,
-        "sentiment": 0,
-        "published": "February 12, 2022 1:35 PM"
-    },
-    {
-        "title": "Canada police arrive to remove protesters at US border",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
-        "timestamp": 1644673304,
-        "sentiment": -5,
-        "published": "February 12, 2022 1:41 PM"
-    },
-    {
-        "title": "MAGA Clerk Attends Event that Calls for Hangings After Arrest",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/maga-clerk-tina-peters-attends-event-that-calls-for-hangings-after-her-arrest?source=articles&via=rss",
-        "timestamp": 1644674477,
-        "sentiment": 0,
-        "published": "February 12, 2022 2:01 PM"
-    },
-    {
-        "title": "The University of Alabama is renaming a building after its first Black student, removing the name of a Klansman",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
-        "timestamp": 1644674738,
-        "sentiment": -5,
-        "published": "February 12, 2022 2:05 PM"
-    },
-    {
-        "title": "Police fire tear gas as anti-Covid restrictions ‘Freedom Convoy’ enters Paris",
-        "domain": "france24.com",
-        "category": "news",
-        "link": "https://www.france24.com/en/france/20220212-paris-deploys-police-as-convoy-protesting-covid-rules-approaches-capital",
-        "timestamp": 1644676259,
-        "sentiment": -5,
-        "published": "February 12, 2022 2:30 PM"
-    },
-    {
-        "title": "Deepfake Luke Skywalker is another step down a ghoulish CGI path",
-        "domain": "gq-magazine.co.uk",
-        "category": "television",
-        "link": "https://www.gq-magazine.co.uk/culture/article/boba-fett-luke-skywalker",
-        "timestamp": 1644678203,
-        "sentiment": 5,
-        "published": "February 12, 2022 3:03 PM"
-    },
-    {
-        "title": "The Outrageous Story About the Postal Service Too Many Know Nothing About|Following a 16-year bet Republicans laid down in 2006 to block Postal EVs, DeJoy just told Biden to go screw himself: he’s going to buy fossil-fuel vehicles for 90% of the fleet instead of electric.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
-        "timestamp": 1644679655,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:27 PM"
-    },
-    {
-        "title": "Police start to clear protesters blocking U.S.-Canada bridge",
-        "domain": "torontosun.com",
-        "category": "worldnews",
-        "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
-        "timestamp": 1644680027,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:33 PM"
-    },
-    {
-        "title": "Zelensky asks for proof that Russia plans to invade Ukraine, warns against ‘panic’",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/europe/20220212-biden-putin-to-speak-as-ukraine-invasion-fears-intensify",
-        "timestamp": 1644681586,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:59 PM"
-    },
-    {
-        "title": "US far-right podcaster charged after machine guns found in basement",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
-        "timestamp": 1644681631,
-        "sentiment": -5,
-        "published": "February 12, 2022 4:00 PM"
-    },
-    {
         "title": "Paris police fire tear gas at anti-restriction 'Freedom Convoy' protesters",
         "domain": "news.sky.com",
         "category": "news",
@@ -205,123 +358,6 @@
         "timestamp": 1644682281,
         "sentiment": -5,
         "published": "February 12, 2022 4:11 PM"
-    },
-    {
-        "title": "Pelosi open to banning congressional stock trading after months of resistance",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/Politics/pelosis-support-bill-banning-congressional-stock-trading-clears/story?id=82807611&cid=social_twitter_abcn",
-        "timestamp": 1644685088,
-        "sentiment": 0,
-        "published": "February 12, 2022 4:58 PM"
-    },
-    {
-        "title": "Disney Removing More Of Its Shows & Films From Netflix",
-        "domain": "whatsondisneyplus.com",
-        "category": "television",
-        "link": "https://whatsondisneyplus.com/disney-removing-more-of-its-shows-films-from-netflix/",
-        "timestamp": 1644685373,
-        "sentiment": 5,
-        "published": "February 12, 2022 5:02 PM"
-    },
-    {
-        "title": "Prosecutor won't charge reporter who uncovered database flaw",
-        "domain": "kshb.com",
-        "category": "news",
-        "link": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
-        "timestamp": 1644685878,
-        "sentiment": -5,
-        "published": "February 12, 2022 5:11 PM"
-    },
-    {
-        "title": "'Unite and fight': Thousands of Ukrainians march in face of Russia threat",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/live-news/20220212-unite-and-fight-ukrainians-march-in-face-of-russia-threat",
-        "timestamp": 1644686191,
-        "sentiment": 0,
-        "published": "February 12, 2022 5:16 PM"
-    },
-    {
-        "title": "Jack Reacher on Amazon Prime Video: the adaptation fans have been waiting for.",
-        "domain": "slate.com",
-        "category": "television",
-        "link": "https://slate.com/culture/2022/02/jack-reacher-amazon-prime-alan-ritchson-killing-floor.html",
-        "timestamp": 1644686389,
-        "sentiment": 5,
-        "published": "February 12, 2022 5:19 PM"
-    },
-    {
-        "title": "Putin, Biden conclude hourlong call on Ukraine crisis",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-joe-biden-emmanuel-macron-europe-moscow-1f353699f0be1609da5435c98cfc8022",
-        "timestamp": 1644686591,
-        "sentiment": 0,
-        "published": "February 12, 2022 5:23 PM"
-    },
-    {
-        "title": "Finland set to sign deal with U.S. for 64 F-35 jets",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/finland-set-sign-deal-with-us-64-f-35-jets-sources-2022-02-10/",
-        "timestamp": 1644686778,
-        "sentiment": 0,
-        "published": "February 12, 2022 5:26 PM"
-    },
-    {
-        "title": "Trump held up and waved classified documents around in front of reporters at the Oval Office, says former Homeland Security aide",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-waved-classified-documents-in-front-of-reporters-says-ex-official-2022-2",
-        "timestamp": 1644689386,
-        "sentiment": 0,
-        "published": "February 12, 2022 6:09 PM"
-    },
-    {
-        "title": "Biden warns Putin US will react 'decisively and impose swift and severe costs' if Russia invades Ukraine",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/02/12/politics/biden-putin-call-ukraine/index.html",
-        "timestamp": 1644690476,
-        "sentiment": 0,
-        "published": "February 12, 2022 6:27 PM"
-    },
-    {
-        "title": "Trucks are gone from Ambassador Bridge, but more protesters arrive on foot",
-        "domain": "freep.com",
-        "category": "news",
-        "link": "https://www.freep.com/story/news/local/michigan/2022/02/12/ambassador-bridge-truck-protest-police/6764936001/",
-        "timestamp": 1644691122,
-        "sentiment": -5,
-        "published": "February 12, 2022 6:38 PM"
-    },
-    {
-        "title": "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools",
-        "domain": "cbsnews.com",
-        "category": "politics",
-        "link": "https://www.cbsnews.com/news/florida-dont-say-gay-bill-lgbtq-schools-senate-committee/",
-        "timestamp": 1644692012,
-        "sentiment": 0,
-        "published": "February 12, 2022 6:53 PM"
-    },
-    {
-        "title": "Trump has \"hijacked\" GOP, is \"unfit for Office,\" says Republican lawmaker",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/trump-has-hijacked-gop-unfit-office-says-republican-lawmaker-1678714",
-        "timestamp": 1644693378,
-        "sentiment": 0,
-        "published": "February 12, 2022 7:16 PM"
-    },
-    {
-        "title": "A woman was killed and nine officers injured in Phoenix shooting and barricade situation",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/02/11/us/phoenix-multiple-injuries-barricade-situation/index.html",
-        "timestamp": 1644694650,
-        "sentiment": -5,
-        "published": "February 12, 2022 7:37 PM"
     },
     {
         "title": "22% of Italians have stopped using social media in last year - Tired of fake news, concerned over privacy",
@@ -340,15 +376,6 @@
         "timestamp": 1644630283,
         "sentiment": 3,
         "published": "February 12, 2022 1:44 AM"
-    },
-    {
-        "title": "Russia evacuating diplomatic staff from Ukraine",
-        "domain": "thenationalnews.com",
-        "category": "news",
-        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
-        "timestamp": 1644672874,
-        "sentiment": -1,
-        "published": "February 12, 2022 1:34 PM"
     },
     {
         "title": "Invest in infrastructure: People need access to public transit",
