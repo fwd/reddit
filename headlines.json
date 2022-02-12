@@ -1,20 +1,11 @@
 [
     {
-        "title": "Trump Owes It All to McConnell’s ‘Disgraceful Dereliction of Duty’ | The GOP’s Senate leader said Trump was “practically and morally responsible” for Jan. 6, but then voted to acquit him anyway, leaving him free to be president again.",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
-        "timestamp": 1644630283,
-        "sentiment": 3,
-        "published": "February 12, 2022 1:44 AM"
-    },
-    {
         "title": "As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/12/under-investigation-your-guide-to-whos-probing-what-and-how-its-going/",
         "timestamp": 1644669188,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 12:33 PM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.jsonline.com/story/news/politics/2022/02/11/ron-johnson-capitol-visit-aimed-at-ending-elections-agency-texts-show/6719767001/",
         "timestamp": 1644670380,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 12:53 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
         "timestamp": 1644671226,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 1:07 PM"
     },
     {
@@ -113,17 +104,8 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
         "timestamp": 1644671950,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 1:19 PM"
-    },
-    {
-        "title": "Russia evacuating diplomatic staff from Ukraine",
-        "domain": "thenationalnews.com",
-        "category": "news",
-        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
-        "timestamp": 1644672874,
-        "sentiment": -1,
-        "published": "February 12, 2022 1:34 PM"
     },
     {
         "title": "Biden and Putin to speak by phone: Last-ditch talks on Russian threat to invade Ukraine",
@@ -140,17 +122,8 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
         "timestamp": 1644673304,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 1:41 PM"
-    },
-    {
-        "title": "Invest in infrastructure: People need access to public transit",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/opinion/finance/593710-invest-in-infrastructure-people-need-access-to-public-transit",
-        "timestamp": 1644674217,
-        "sentiment": 3,
-        "published": "February 12, 2022 1:56 PM"
     },
     {
         "title": "MAGA Clerk Attends Event that Calls for Hangings After Arrest",
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/maga-clerk-tina-peters-attends-event-that-calls-for-hangings-after-her-arrest?source=articles&via=rss",
         "timestamp": 1644674477,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 2:01 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
         "timestamp": 1644674738,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 2:05 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "news",
         "link": "https://www.france24.com/en/france/20220212-paris-deploys-police-as-convoy-protesting-covid-rules-approaches-capital",
         "timestamp": 1644676259,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 2:30 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
         "timestamp": 1644679655,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 3:27 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
         "timestamp": 1644681631,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 4:00 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/paris-police-fire-tear-gas-at-anti-restriction-freedom-convoy-protesters-12539963",
         "timestamp": 1644682281,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 4:11 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/pelosis-support-bill-banning-congressional-stock-trading-clears/story?id=82807611&cid=social_twitter_abcn",
         "timestamp": 1644685088,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 4:58 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
         "timestamp": 1644685878,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 5:11 PM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-waved-classified-documents-in-front-of-reporters-says-ex-official-2022-2",
         "timestamp": 1644689386,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "February 12, 2022 6:09 PM"
     },
     {
@@ -320,8 +293,35 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/2022/02/12/ambassador-bridge-truck-protest-police/6764936001/",
         "timestamp": 1644691122,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "February 12, 2022 6:38 PM"
+    },
+    {
+        "title": "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/florida-dont-say-gay-bill-lgbtq-schools-senate-committee/",
+        "timestamp": 1644692012,
+        "sentiment": 0,
+        "published": "February 12, 2022 6:53 PM"
+    },
+    {
+        "title": "Trump has \"hijacked\" GOP, is \"unfit for Office,\" says Republican lawmaker",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-has-hijacked-gop-unfit-office-says-republican-lawmaker-1678714",
+        "timestamp": 1644693378,
+        "sentiment": 0,
+        "published": "February 12, 2022 7:16 PM"
+    },
+    {
+        "title": "A woman was killed and nine officers injured in Phoenix shooting and barricade situation",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/02/11/us/phoenix-multiple-injuries-barricade-situation/index.html",
+        "timestamp": 1644694650,
+        "sentiment": -5,
+        "published": "February 12, 2022 7:37 PM"
     },
     {
         "title": "22% of Italians have stopped using social media in last year - Tired of fake news, concerned over privacy",
@@ -331,6 +331,33 @@
         "timestamp": 1644695275,
         "sentiment": 0,
         "published": "February 12, 2022 7:47 PM"
+    },
+    {
+        "title": "Trump Owes It All to McConnell’s ‘Disgraceful Dereliction of Duty’ | The GOP’s Senate leader said Trump was “practically and morally responsible” for Jan. 6, but then voted to acquit him anyway, leaving him free to be president again.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
+        "timestamp": 1644630283,
+        "sentiment": 3,
+        "published": "February 12, 2022 1:44 AM"
+    },
+    {
+        "title": "Russia evacuating diplomatic staff from Ukraine",
+        "domain": "thenationalnews.com",
+        "category": "news",
+        "link": "https://www.thenationalnews.com/world/europe/2022/02/12/russia-evacuating-diplomatic-staff-from-ukraine/",
+        "timestamp": 1644672874,
+        "sentiment": -1,
+        "published": "February 12, 2022 1:34 PM"
+    },
+    {
+        "title": "Invest in infrastructure: People need access to public transit",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/finance/593710-invest-in-infrastructure-people-need-access-to-public-transit",
+        "timestamp": 1644674217,
+        "sentiment": 3,
+        "published": "February 12, 2022 1:56 PM"
     },
     {
         "title": "Germans Advised to Leave Ukraine",
