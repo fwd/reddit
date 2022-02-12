@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
         "timestamp": 1644626802,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 12, 2022 12:46 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-eviction-rental-assistance-539e1e1155d0e51eced4ae96e6e8cd14",
         "timestamp": 1644628917,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 12, 2022 1:21 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
         "timestamp": 1644635789,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 12, 2022 3:16 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -59,8 +59,17 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "February 12, 2022 4:32 AM"
+    },
+    {
+        "title": "Russian diplomatic and consular staff reportedly begin leaving Ukraine",
+        "domain": "ria.ru",
+        "category": "worldnews",
+        "link": "https://ria.ru/20220212/ukraina-1772415037.html",
+        "timestamp": 1644646940,
+        "sentiment": -2,
+        "published": "February 12, 2022 6:22 AM"
     },
     {
         "title": "Senators: CIA has secret program that collects American data",
