@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
         "timestamp": 1644630283,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 1:44 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 2:41 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/canadian-trucker-convoy-protest-republicans-support-blockade-1298752/",
         "timestamp": 1644633964,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 2:46 AM"
-    },
-    {
-        "title": "New Zealand Government calls on Kiwis in Ukraine to leave immediately",
-        "domain": "nzherald.co.nz",
-        "category": "worldnews",
-        "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
-        "timestamp": 1644635789,
-        "sentiment": 0,
-        "published": "February 12, 2022 3:16 AM"
     },
     {
         "title": "Tennessee parents, teachers push back against 'Maus' removal",
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://apnews.com/article/entertainment-tennessee-athens-education-the-holocaust-0a330892f1bce364acb9110e085c2211",
         "timestamp": 1644636941,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 3:35 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 4:32 AM"
     },
     {
@@ -59,26 +50,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
         "timestamp": 1644644256,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 5:37 AM"
-    },
-    {
-        "title": "Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering'",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
-        "timestamp": 1644655201,
-        "sentiment": 0,
-        "published": "February 12, 2022 8:40 AM"
-    },
-    {
-        "title": "California bill would require COVID-19 vaccines for all employees",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/coronavirus-covid-19-vaccine-mandate-for-california-employees/11556618/",
-        "timestamp": 1644657414,
-        "sentiment": 0,
-        "published": "February 12, 2022 9:16 AM"
     },
     {
         "title": "Jujutsu Kaisen Anime Gets 2nd Season in 2023",
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
         "timestamp": 1644664113,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 11:08 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
         "timestamp": 1644668895,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 12:28 PM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/12/under-investigation-your-guide-to-whos-probing-what-and-how-its-going/",
         "timestamp": 1644669188,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 12:33 PM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.jsonline.com/story/news/politics/2022/02/11/ron-johnson-capitol-visit-aimed-at-ending-elections-agency-texts-show/6719767001/",
         "timestamp": 1644670380,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 12:53 PM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
         "timestamp": 1644671226,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 1:07 PM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
         "timestamp": 1644671950,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 1:19 PM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.thenewsgossip.com/biden-and-putin-to-speak-by-phone-last-ditch-talks-on-russian-threat-to-invade-ukraine/",
         "timestamp": 1644672905,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 1:35 PM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.indiatoday.in/india/story/modifiedelephant-hacking-tool-plant-fabricated-digital-evidence-indian-activists-journalists-1911822-2022-02-11",
         "timestamp": 1644672968,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 1:36 PM"
     },
     {
@@ -194,8 +167,17 @@
         "category": "news",
         "link": "https://apnews.com/article/coronavirus-pandemic-health-united-states-justin-trudeau-blockades-f3368c041216343175d255a2ce23eb84",
         "timestamp": 1644673304,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 1:41 PM"
+    },
+    {
+        "title": "Invest in infrastructure: People need access to public transit",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/finance/593710-invest-in-infrastructure-people-need-access-to-public-transit",
+        "timestamp": 1644674217,
+        "sentiment": 1,
+        "published": "February 12, 2022 1:56 PM"
     },
     {
         "title": "MAGA Clerk Attends Event that Calls for Hangings After Arrest",
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/maga-clerk-tina-peters-attends-event-that-calls-for-hangings-after-her-arrest?source=articles&via=rss",
         "timestamp": 1644674477,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 2:01 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/02/11/us/university-alabama-autherine-lucy-hall-trnd/index.html",
         "timestamp": 1644674738,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 2:05 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/homenews/administration/593919-us-allies-warn-time-running-out-for-diplomacy-with-russia",
         "timestamp": 1644675652,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 2:20 PM"
     },
     {
@@ -230,8 +212,17 @@
         "category": "news",
         "link": "https://www.france24.com/en/france/20220212-paris-deploys-police-as-convoy-protesting-covid-rules-approaches-capital",
         "timestamp": 1644676259,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 2:30 PM"
+    },
+    {
+        "title": "Canada police move in to clear protesters occupying bridge",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/2/12/canada-police-clear-protesters-occupying-bridge",
+        "timestamp": 1644676430,
+        "sentiment": -1,
+        "published": "February 12, 2022 2:33 PM"
     },
     {
         "title": "The Outrageous Story About the Postal Service Too Many Know Nothing About|Following a 16-year bet Republicans laid down in 2006 to block Postal EVs, DeJoy just told Biden to go screw himself: he’s going to buy fossil-fuel vehicles for 90% of the fleet instead of electric.",
@@ -239,7 +230,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
         "timestamp": 1644679655,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "February 12, 2022 3:27 PM"
     },
     {
@@ -248,8 +239,17 @@
         "category": "worldnews",
         "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
         "timestamp": 1644680027,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "February 12, 2022 3:33 PM"
+    },
+    {
+        "title": "Zelensky asks for proof that Russia plans to invade Ukraine, warns against ‘panic’",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220212-biden-putin-to-speak-as-ukraine-invasion-fears-intensify",
+        "timestamp": 1644681586,
+        "sentiment": -1,
+        "published": "February 12, 2022 3:59 PM"
     },
     {
         "title": "US far-right podcaster charged after machine guns found in basement",
@@ -257,8 +257,53 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/feb/12/podcaster-arrested-machine-guns-weapons-basement",
         "timestamp": 1644681631,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "February 12, 2022 4:00 PM"
+    },
+    {
+        "title": "Disney Removing More Of Its Shows & Films From Netflix",
+        "domain": "whatsondisneyplus.com",
+        "category": "television",
+        "link": "https://whatsondisneyplus.com/disney-removing-more-of-its-shows-films-from-netflix/",
+        "timestamp": 1644685373,
+        "sentiment": 0,
+        "published": "February 12, 2022 5:02 PM"
+    },
+    {
+        "title": "Prosecutor won't charge reporter who uncovered database flaw",
+        "domain": "kshb.com",
+        "category": "news",
+        "link": "https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw",
+        "timestamp": 1644685878,
+        "sentiment": -2,
+        "published": "February 12, 2022 5:11 PM"
+    },
+    {
+        "title": "New Zealand Government calls on Kiwis in Ukraine to leave immediately",
+        "domain": "nzherald.co.nz",
+        "category": "worldnews",
+        "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
+        "timestamp": 1644635789,
+        "sentiment": 0,
+        "published": "February 12, 2022 3:16 AM"
+    },
+    {
+        "title": "Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
+        "timestamp": 1644655201,
+        "sentiment": 0,
+        "published": "February 12, 2022 8:40 AM"
+    },
+    {
+        "title": "California bill would require COVID-19 vaccines for all employees",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/coronavirus-covid-19-vaccine-mandate-for-california-employees/11556618/",
+        "timestamp": 1644657414,
+        "sentiment": 0,
+        "published": "February 12, 2022 9:16 AM"
     },
     {
         "title": "With support from ex-police and military intelligence officers, American funding, and stockpiles of food and fuel, \"Freedom Convoy\" protesters are hunkered down for a long stay in the Canadian capital",
