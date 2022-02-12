@@ -5,7 +5,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
         "timestamp": 1644630283,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 1:44 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 4:32 AM"
     },
     {
@@ -52,15 +52,6 @@
         "timestamp": 1644663199,
         "sentiment": 5,
         "published": "February 12, 2022 10:53 AM"
-    },
-    {
-        "title": "Germans Advised to Leave Ukraine",
-        "domain": "m.dw.com",
-        "category": "worldnews",
-        "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
-        "timestamp": 1644664113,
-        "sentiment": -2,
-        "published": "February 12, 2022 11:08 AM"
     },
     {
         "title": "Marvel’s Moon Knight Is ‘Brutal’, Says Kevin Feige: ‘We’re Not Pulling Back’",
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10503627/amp/Foreign-Office-tells-Britons-Ukraine-commercial-means-available.html",
         "timestamp": 1644668895,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 12:28 PM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/02/12/under-investigation-your-guide-to-whos-probing-what-and-how-its-going/",
         "timestamp": 1644669188,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 12:33 PM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.jsonline.com/story/news/politics/2022/02/11/ron-johnson-capitol-visit-aimed-at-ending-elections-agency-texts-show/6719767001/",
         "timestamp": 1644670380,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 12:53 PM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-gazpacho-police-response_n_6207756de4b083bd1cbef09a",
         "timestamp": 1644671226,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 1:07 PM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/ng-interactive/2022/feb/12/us-redistricting-house-seats-safe-competitive-districts",
         "timestamp": 1644671950,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 1:19 PM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.thenewsgossip.com/biden-and-putin-to-speak-by-phone-last-ditch-talks-on-russian-threat-to-invade-ukraine/",
         "timestamp": 1644672905,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 1:35 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "politics",
         "link": "https://thehill.com/opinion/finance/593710-invest-in-infrastructure-people-need-access-to-public-transit",
         "timestamp": 1644674217,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 1:56 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/maga-clerk-tina-peters-attends-event-that-calls-for-hangings-after-her-arrest?source=articles&via=rss",
         "timestamp": 1644674477,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 2:01 PM"
     },
     {
@@ -178,15 +169,6 @@
         "timestamp": 1644674738,
         "sentiment": -1,
         "published": "February 12, 2022 2:05 PM"
-    },
-    {
-        "title": "US, allies warn time running out for diplomacy with Russia",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/homenews/administration/593919-us-allies-warn-time-running-out-for-diplomacy-with-russia",
-        "timestamp": 1644675652,
-        "sentiment": -2,
-        "published": "February 12, 2022 2:20 PM"
     },
     {
         "title": "Police fire tear gas as anti-Covid restrictions ‘Freedom Convoy’ enters Paris",
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/02/12/outrageous-story-about-postal-service-too-many-know-nothing-about",
         "timestamp": 1644679655,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 3:27 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "worldnews",
         "link": "https://torontosun.com/news/provincial/police-start-to-clear-protesters-blocking-u-s-canada-bridge",
         "timestamp": 1644680027,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 3:33 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220212-biden-putin-to-speak-as-ukraine-invasion-fears-intensify",
         "timestamp": 1644681586,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 3:59 PM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/pelosis-support-bill-banning-congressional-stock-trading-clears/story?id=82807611&cid=social_twitter_abcn",
         "timestamp": 1644685088,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 4:58 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-unite-and-fight-ukrainians-march-in-face-of-russia-threat",
         "timestamp": 1644686191,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 5:16 PM"
     },
     {
@@ -302,8 +284,17 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-joe-biden-emmanuel-macron-europe-moscow-1f353699f0be1609da5435c98cfc8022",
         "timestamp": 1644686591,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 5:23 PM"
+    },
+    {
+        "title": "Finland set to sign deal with U.S. for 64 F-35 jets",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/finland-set-sign-deal-with-us-64-f-35-jets-sources-2022-02-10/",
+        "timestamp": 1644686778,
+        "sentiment": 0,
+        "published": "February 12, 2022 5:26 PM"
     },
     {
         "title": "Trump held up and waved classified documents around in front of reporters at the Oval Office, says former Homeland Security aide",
@@ -311,7 +302,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-waved-classified-documents-in-front-of-reporters-says-ex-official-2022-2",
         "timestamp": 1644689386,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "February 12, 2022 6:09 PM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/02/12/politics/biden-putin-call-ukraine/index.html",
         "timestamp": 1644690476,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 6:27 PM"
     },
     {
@@ -331,6 +322,33 @@
         "timestamp": 1644691122,
         "sentiment": -1,
         "published": "February 12, 2022 6:38 PM"
+    },
+    {
+        "title": "22% of Italians have stopped using social media in last year - Tired of fake news, concerned over privacy",
+        "domain": "ansa.it",
+        "category": "worldnews",
+        "link": "https://www.ansa.it/english/news/lifestyle/arts/2022/01/18/22-of-italians-have-stopped-using-social-media-in-last-year_6efd3f1d-179e-4432-bfee-0bf7b945b35e.html",
+        "timestamp": 1644695275,
+        "sentiment": 0,
+        "published": "February 12, 2022 7:47 PM"
+    },
+    {
+        "title": "Germans Advised to Leave Ukraine",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/breaking-germans-advised-to-leave-ukraine/a-60754593",
+        "timestamp": 1644664113,
+        "sentiment": -2,
+        "published": "February 12, 2022 11:08 AM"
+    },
+    {
+        "title": "US, allies warn time running out for diplomacy with Russia",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/administration/593919-us-allies-warn-time-running-out-for-diplomacy-with-russia",
+        "timestamp": 1644675652,
+        "sentiment": -2,
+        "published": "February 12, 2022 2:20 PM"
     },
     {
         "title": "Anti-Protest Conservatives Sure Do Love the Trucker Blockade Causing 'Deep Pain' to American Companies",
