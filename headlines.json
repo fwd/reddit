@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
         "timestamp": 1644626802,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 12, 2022 12:46 AM"
     },
     {
@@ -25,6 +25,15 @@
         "timestamp": 1644630283,
         "sentiment": 0,
         "published": "February 12, 2022 1:44 AM"
+    },
+    {
+        "title": "Arizona Republican’s “disgusting” ad shows him shooting at Gabby Giffords’ husband Mark Kelly",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/02/11/arizona-republicans-disgusting-ad-shows-him-at-gabby-giffords-husband-mark-kelly/",
+        "timestamp": 1644631348,
+        "sentiment": 0,
+        "published": "February 12, 2022 2:02 AM"
     },
     {
         "title": "As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray",
@@ -50,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.nzherald.co.nz/nz/ukraine-crisis-new-zealand-government-calls-on-kiwis-in-ukraine-to-leave-immediately/FWEKANL77CTHPTPCIR6LUWN3H4/",
         "timestamp": 1644635789,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 12, 2022 3:16 AM"
     },
     {
@@ -77,8 +86,17 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/ff41abf90650aa5f456cbb6aafa4c5b3",
         "timestamp": 1644640364,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 12, 2022 4:32 AM"
+    },
+    {
+        "title": "Ontario declares state of emergency, threatening fines and jail time to end blockade",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/feb/11/ontario-state-emergency-threatens-fines-jail-time-end-blockade",
+        "timestamp": 1644644256,
+        "sentiment": 1,
+        "published": "February 12, 2022 5:37 AM"
     },
     {
         "title": "Tentative date of Russian Invasion, according to NATO intel, points to the 16th",
@@ -86,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.militarytimes.com/news/your-air-force/2022/02/11/more-us-military-jets-turn-to-east-europe-as-possible-russian-invasion-of-ukraine-looms/",
         "timestamp": 1644653623,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 12, 2022 8:13 AM"
     },
     {
@@ -95,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2",
         "timestamp": 1644655201,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "February 12, 2022 8:40 AM"
     },
     {
@@ -104,8 +122,17 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-02-12/jujutsu-kaisen-anime-gets-2nd-season-in-2023/.182548",
         "timestamp": 1644658317,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 12, 2022 9:31 AM"
+    },
+    {
+        "title": "Russia could invade Ukraine 'on Wednesday' with Brits told leave 'by any means'",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/world-news/russia-could-invade-ukraine-on-26211211",
+        "timestamp": 1644663019,
+        "sentiment": -3,
+        "published": "February 12, 2022 10:50 AM"
     },
     {
         "title": "Pamela Anderson will 'never, never watch' 'Pam & Tommy,' source says",
@@ -113,8 +140,17 @@
         "category": "television",
         "link": "https://ew.com/tv/pamela-anderson-will-never-watch-pam-and-tommy/",
         "timestamp": 1644663199,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "February 12, 2022 10:53 AM"
+    },
+    {
+        "title": "Marvel’s Moon Knight Is ‘Brutal’, Says Kevin Feige: ‘We’re Not Pulling Back’",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/movies/news/marvel-moon-knight-brutal-kevin-feige-not-pulling-back-exclusive/",
+        "timestamp": 1644667948,
+        "sentiment": 0,
+        "published": "February 12, 2022 12:12 PM"
     },
     {
         "title": "Russian diplomatic and consular staff reportedly begin leaving Ukraine",
