@@ -5,8 +5,26 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220212-canada-protesters-dig-in-with-military-style-proficiency",
         "timestamp": 1644626802,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "February 12, 2022 12:46 AM"
+    },
+    {
+        "title": "Landlords finding ways to evict after getting rental aid",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/coronavirus-pandemic-eviction-rental-assistance-539e1e1155d0e51eced4ae96e6e8cd14",
+        "timestamp": 1644628917,
+        "sentiment": 0,
+        "published": "February 12, 2022 1:21 AM"
+    },
+    {
+        "title": "Trump Owes It All to McConnell’s ‘Disgraceful Dereliction of Duty’ | The GOP’s Senate leader said Trump was “practically and morally responsible” for Jan. 6, but then voted to acquit him anyway, leaving him free to be president again.",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trump-owes-it-all-to-mcconnells-disgraceful-dereliction-of-duty?via=twitter_page",
+        "timestamp": 1644630283,
+        "sentiment": 0,
+        "published": "February 12, 2022 1:44 AM"
     },
     {
         "title": "As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray",
@@ -14,7 +32,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/internet/us-trucker-convoy-picks-momentum-foreign-meddling-adds-fray-rcna15932",
         "timestamp": 1644633716,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "February 12, 2022 2:41 AM"
     },
     {
