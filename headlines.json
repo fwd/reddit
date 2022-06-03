@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 12:34 AM"
     },
     {
@@ -27,6 +27,15 @@
         "published": "June 3, 2022 12:45 AM"
     },
     {
+        "title": "Shooting in Benton Harbor kills one and injures six",
+        "domain": "abc57.com",
+        "category": "news",
+        "link": "https://www.abc57.com/news/shooting-in-benton-harbor-kills-one-and-injures-six",
+        "timestamp": 1654219176,
+        "sentiment": -3,
+        "published": "June 3, 2022 1:19 AM"
+    },
+    {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
         "domain": "collider.com",
         "category": "television",
@@ -43,6 +52,15 @@
         "timestamp": 1654221732,
         "sentiment": -7,
         "published": "June 3, 2022 2:02 AM"
+    },
+    {
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 100, Part 1 (Thread #240)",
+        "domain": "reddit.com",
+        "category": "worldnews",
+        "link": "https://www.reddit.com/live/18hnzysb1elcs",
+        "timestamp": 1654228804,
+        "sentiment": 0,
+        "published": "June 3, 2022 4:00 AM"
     },
     {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 58, Part 1 (Thread #197)",
