@@ -30,6 +30,7 @@ const subreddits = [
 	'ukraine',
 	'miami',
 	'florida',
+	'technology',
 //	'politics',
 	// 'entertainment',
 	// 'gaming',
@@ -108,4 +109,4 @@ server.cron(async () => {
 	
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 
-}, 'every 30 minutes', true) 
+}, 'every 1 hour', true) 

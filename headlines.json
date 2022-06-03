@@ -14,8 +14,17 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 12:39 AM"
+    },
+    {
+        "title": "Faulty battery pack caught fire inside Rivian's Illinois assembly plant",
+        "domain": "autoblog.com",
+        "category": "technology",
+        "link": "https://www.autoblog.com/2022/06/01/fire-rivian-plant-battery-pack/",
+        "timestamp": 1654217100,
+        "sentiment": -7,
+        "published": "June 3, 2022 12:45 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
@@ -25,6 +34,15 @@
         "timestamp": 1654219927,
         "sentiment": 4,
         "published": "June 3, 2022 1:32 AM"
+    },
+    {
+        "title": "Elon Musk's New Second-Gen Starlink Satellites Are Too Big for Current Rockets",
+        "domain": "cnet.com",
+        "category": "technology",
+        "link": "https://www.cnet.com/science/space/elon-musks-new-second-gen-starlink-satellites-are-too-big-for-current-rockets/",
+        "timestamp": 1654221732,
+        "sentiment": -7,
+        "published": "June 3, 2022 2:02 AM"
     },
     {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 58, Part 1 (Thread #197)",
