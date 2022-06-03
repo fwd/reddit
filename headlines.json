@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 3, 2022 12:34 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 12:39 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.autoblog.com/2022/06/01/fire-rivian-plant-battery-pack/",
         "timestamp": 1654217100,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 12:45 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnet.com/science/space/elon-musks-new-second-gen-starlink-satellites-are-too-big-for-current-rockets/",
         "timestamp": 1654221732,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 2:02 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://americanmilitarynews.com/2022/06/us-to-china-were-hosting-worlds-largest-naval-exercise-in-pacific/",
         "timestamp": 1654222150,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 2:09 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
         "timestamp": 1654226013,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 3, 2022 3:13 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
         "timestamp": 1654226836,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 3, 2022 3:27 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "June 3, 2022 3:47 AM"
     },
     {
-        "title": "NY passes bill raising age to buy, own semi-automatic rifles",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/83048492f3e1c632cd29af7e972d17eb",
-        "timestamp": 1654228053,
-        "sentiment": -1,
-        "published": "June 3, 2022 3:47 AM"
-    },
-    {
         "title": "Tesla monitored its employees on Facebook with help of PR firm during 2017 union push",
         "domain": "cnbc.com",
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v3rc8z",
         "timestamp": 1654230628,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 3, 2022 4:30 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
         "timestamp": 1654230901,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 3, 2022 4:35 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
         "timestamp": 1654237026,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 6:17 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/6/1/more-than-1-million-people-displaced-in-myanmar-un",
         "timestamp": 1654239553,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 6:59 AM"
     },
     {
@@ -149,8 +140,17 @@
         "category": "ukraine",
         "link": "https://www.reddit.com/gallery/v3tmsm",
         "timestamp": 1654239726,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 3, 2022 7:02 AM"
+    },
+    {
+        "title": "NY passes bill banning Bitcoin mining operations that run on carbon based energy",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/03/heres-whats-in-new-yorks-new-bitcoin-mining-ban-.html",
+        "timestamp": 1654241584,
+        "sentiment": 0,
+        "published": "June 3, 2022 7:33 AM"
     },
     {
         "title": "Elon Musk Says Tesla Has Paused All Hiring Worldwide, Needs to Cut Staff by 10 Percent",
@@ -158,8 +158,44 @@
         "category": "technology",
         "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
         "timestamp": 1654243010,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 7:56 AM"
+    },
+    {
+        "title": "Russia mocks 'opulent' Queen's Platinum Jubilee and says celebrations 'masks country in decline'",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
+        "timestamp": 1654246407,
+        "sentiment": -2,
+        "published": "June 3, 2022 8:53 AM"
+    },
+    {
+        "title": "‘Everything is gone’: Eastern Ukraine residents say Russia is wiping their towns off the map",
+        "domain": "politico.com",
+        "category": "worldnews",
+        "link": "https://www.politico.com/news/2022/06/03/eastern-ukraine-residents-russia-00036854",
+        "timestamp": 1654247010,
+        "sentiment": -2,
+        "published": "June 3, 2022 9:03 AM"
+    },
+    {
+        "title": "Russian malls half-empty after Western firms exit over Ukraine war",
+        "domain": "wap.business-standard.com",
+        "category": "worldnews",
+        "link": "https://wap.business-standard.com/article/international/russian-malls-half-empty-after-western-firms-exit-over-ukraine-war-122060300466_1.html?utm_source=SEO&utm_medium=ST",
+        "timestamp": 1654249863,
+        "sentiment": -2,
+        "published": "June 3, 2022 9:51 AM"
+    },
+    {
+        "title": "Two states aim to arm teachers despite opposition from educators and experts",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/two-states-aim-arm-teachers-opposition-educators-experts-rcna31731",
+        "timestamp": 1654251086,
+        "sentiment": 0,
+        "published": "June 3, 2022 10:11 AM"
     },
     {
         "title": "Vladimir Putin has taken 200,000 of Ukraine's children, claims Zelensky",
@@ -167,8 +203,26 @@
         "category": "worldnews",
         "link": "https://www.scottishdailyexpress.co.uk/news/world-news/vladimir-putin-taken-200000-ukraines-27137714",
         "timestamp": 1654251464,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 3, 2022 10:17 AM"
+    },
+    {
+        "title": "Artificial skin gives robots sense of touch and beyond",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
+        "timestamp": 1654254334,
+        "sentiment": -2,
+        "published": "June 3, 2022 11:05 AM"
+    },
+    {
+        "title": "NY passes bill raising age to buy, own semi-automatic rifles",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/83048492f3e1c632cd29af7e972d17eb",
+        "timestamp": 1654228053,
+        "sentiment": -1,
+        "published": "June 3, 2022 3:47 AM"
     },
     {
         "title": "Kidnapping children en masse and seeking to assimilate them in a foreign culture is genocide according to Article 2 Section E of the 1948 genocide convention.",
