@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 3, 2022 12:39 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://americanmilitarynews.com/2022/06/us-to-china-were-hosting-worlds-largest-naval-exercise-in-pacific/",
         "timestamp": 1654222150,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 3, 2022 2:09 AM"
     },
     {
@@ -70,15 +70,6 @@
         "timestamp": 1654226836,
         "sentiment": -1,
         "published": "June 3, 2022 3:27 AM"
-    },
-    {
-        "title": "Kidnapping children en masse and seeking to assimilate them in a foreign culture is genocide according to Article 2 Section E of the 1948 genocide convention.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/TimothyDSnyder/status/1532116122559995904?s=20&t=dOk6rKSRoU3hVwUdBydVfw",
-        "timestamp": 1654227545,
-        "sentiment": -2,
-        "published": "June 3, 2022 3:39 AM"
     },
     {
         "title": "George R.R. Martin on how House of the Dragon improves on his book",
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
         "timestamp": 1654230901,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "June 3, 2022 4:35 AM"
     },
     {
@@ -144,6 +135,24 @@
         "published": "June 3, 2022 6:17 AM"
     },
     {
+        "title": "More than 1 million people displaced in Myanmar: UN | News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/6/1/more-than-1-million-people-displaced-in-myanmar-un",
+        "timestamp": 1654239553,
+        "sentiment": 0,
+        "published": "June 3, 2022 6:59 AM"
+    },
+    {
+        "title": "New Lord of the Rings",
+        "domain": "reddit.com",
+        "category": "ukraine",
+        "link": "https://www.reddit.com/gallery/v3tmsm",
+        "timestamp": 1654239726,
+        "sentiment": 3,
+        "published": "June 3, 2022 7:02 AM"
+    },
+    {
         "title": "Elon Musk Says Tesla Has Paused All Hiring Worldwide, Needs to Cut Staff by 10 Percent",
         "domain": "news18.com",
         "category": "technology",
@@ -151,6 +160,24 @@
         "timestamp": 1654243010,
         "sentiment": 0,
         "published": "June 3, 2022 7:56 AM"
+    },
+    {
+        "title": "Vladimir Putin has taken 200,000 of Ukraine's children, claims Zelensky",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "worldnews",
+        "link": "https://www.scottishdailyexpress.co.uk/news/world-news/vladimir-putin-taken-200000-ukraines-27137714",
+        "timestamp": 1654251464,
+        "sentiment": 0,
+        "published": "June 3, 2022 10:17 AM"
+    },
+    {
+        "title": "Kidnapping children en masse and seeking to assimilate them in a foreign culture is genocide according to Article 2 Section E of the 1948 genocide convention.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TimothyDSnyder/status/1532116122559995904?s=20&t=dOk6rKSRoU3hVwUdBydVfw",
+        "timestamp": 1654227545,
+        "sentiment": -2,
+        "published": "June 3, 2022 3:39 AM"
     },
     {
         "title": "Shooting in Benton Harbor kills one and injures six",
