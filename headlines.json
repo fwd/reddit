@@ -77,7 +77,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TimothyDSnyder/status/1532116122559995904?s=20&t=dOk6rKSRoU3hVwUdBydVfw",
         "timestamp": 1654227545,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 3, 2022 3:39 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
         "timestamp": 1654230901,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 3, 2022 4:35 AM"
     },
     {
@@ -133,6 +133,15 @@
         "timestamp": 1654237026,
         "sentiment": 0,
         "published": "June 3, 2022 6:17 AM"
+    },
+    {
+        "title": "Elon Musk Says Tesla Has Paused All Hiring Worldwide, Needs to Cut Staff by 10 Percent",
+        "domain": "news18.com",
+        "category": "technology",
+        "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
+        "timestamp": 1654243010,
+        "sentiment": 0,
+        "published": "June 3, 2022 7:56 AM"
     },
     {
         "title": "Shooting in Benton Harbor kills one and injures six",
