@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://collider.com/the-wire-20th-anniversary-michael-k-williams/",
         "timestamp": 1654219927,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 3, 2022 1:32 AM"
     },
     {
@@ -77,8 +77,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/TimothyDSnyder/status/1532116122559995904?s=20&t=dOk6rKSRoU3hVwUdBydVfw",
         "timestamp": 1654227545,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 3, 2022 3:39 AM"
+    },
+    {
+        "title": "George R.R. Martin on how House of the Dragon improves on his book",
+        "domain": "winteriscoming.net",
+        "category": "television",
+        "link": "https://winteriscoming.net/2022/06/02/george-rr-martin-how-house-of-the-dragon-improves-book/",
+        "timestamp": 1654228034,
+        "sentiment": 2,
+        "published": "June 3, 2022 3:47 AM"
     },
     {
         "title": "NY passes bill raising age to buy, own semi-automatic rifles",
@@ -113,7 +122,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v3rc8z",
         "timestamp": 1654230628,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 3, 2022 4:30 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
         "timestamp": 1654230901,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 3, 2022 4:35 AM"
     },
     {
