@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 12:39 AM"
     },
     {
@@ -27,21 +27,12 @@
         "published": "June 3, 2022 1:32 AM"
     },
     {
-        "title": "2 adults, 3 kids found dead inside home, escaped Texas inmate may be connected",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
-        "timestamp": 1654226013,
-        "sentiment": -3,
-        "published": "June 3, 2022 3:13 AM"
-    },
-    {
         "title": "Putin treated for advanced cancer and survived assassination attempt, US intelligence reports",
         "domain": "inews.co.uk",
         "category": "news",
         "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
         "timestamp": 1654226836,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 3:27 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v3rc8z",
         "timestamp": 1654230628,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 3, 2022 4:30 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://us.cnn.com/2022/06/02/us/massachusetts-settlement-people-wrongfully-convicted-of-drug-charges/index.html",
         "timestamp": 1654232693,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 5:04 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
         "timestamp": 1654237026,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 6:17 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "technology",
         "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
         "timestamp": 1654243010,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 7:56 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
         "timestamp": 1654246407,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 8:53 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/iowa-man-kills-two-women-and-then-himself-in-latest-us-shooting?CMP=Share_AndroidApp_Other",
         "timestamp": 1654246600,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 8:56 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/06/03/eastern-ukraine-residents-russia-00036854",
         "timestamp": 1654247010,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 9:03 AM"
-    },
-    {
-        "title": "Russian malls half-empty after Western firms exit over Ukraine war",
-        "domain": "wap.business-standard.com",
-        "category": "worldnews",
-        "link": "https://wap.business-standard.com/article/international/russian-malls-half-empty-after-western-firms-exit-over-ukraine-war-122060300466_1.html?utm_source=SEO&utm_medium=ST",
-        "timestamp": 1654249863,
-        "sentiment": -3,
-        "published": "June 3, 2022 9:51 AM"
     },
     {
         "title": "Tropical storm warning issued for much of Florida ahead of potential Alex",
@@ -149,7 +131,7 @@
         "category": "ukraine",
         "link": "https://www.businessinsider.in/tech/news/zelenskyy-has-praised-elon-musks-starlink-for-saving-ukraine-from-russian-propaganda-in-wired-interview/articleshow/91983206.cms",
         "timestamp": 1654253556,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 3, 2022 10:52 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html",
         "timestamp": 1654254238,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 11:03 AM"
     },
     {
@@ -167,8 +149,17 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
         "timestamp": 1654254334,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 11:05 AM"
+    },
+    {
+        "title": "“Zelenskyy is here, the Prime Minister is here”: President records video for the 100th day of the war",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/3/7350286/",
+        "timestamp": 1654254386,
+        "sentiment": 1,
+        "published": "June 3, 2022 11:06 AM"
     },
     {
         "title": "Russia destroyed over 370 cultural heritage sites after 100 days of war",
@@ -176,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
         "timestamp": 1654255915,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 11:31 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "news",
         "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
         "timestamp": 1654257097,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 11:51 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.marketwatch.com/story/companies-that-exited-russia-after-its-invasion-of-ukraine-are-being-rewarded-with-outsize-stock-market-returns-and-those-that-stayed-are-not-11654258241",
         "timestamp": 1654259379,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 12:29 PM"
     },
     {
@@ -205,15 +196,6 @@
         "timestamp": 1654259787,
         "sentiment": -3,
         "published": "June 3, 2022 12:36 PM"
-    },
-    {
-        "title": "Sr Manager at Google Resigns After Dalit Activist Disallowed From Giving Lecture",
-        "domain": "thequint.com",
-        "category": "technology",
-        "link": "https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns",
-        "timestamp": 1654260316,
-        "sentiment": -1,
-        "published": "June 3, 2022 12:45 PM"
     },
     {
         "title": "Gov. Ron DeSantis to veto $35 Million Tampa Bay Rays facility amid polarization of shootings",
@@ -230,7 +212,7 @@
         "category": "miami",
         "link": "https://www.msn.com/en-us/news/us/desantis-vetoes-30m-in-south-florida-projects-from-largest-state-budget-in-history/ar-AAY1jIa?ocid=entnewsntp&pc=U531&cvid=78fef5907a5348a9979d1965031301a4",
         "timestamp": 1654261323,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 3, 2022 1:02 PM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "technology",
         "link": "https://apnews.com/article/technology-politics-health-cd1a51e26baa07678de50cab8ae90ee0",
         "timestamp": 1654261531,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 1:05 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
         "timestamp": 1654262981,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 1:29 PM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "technology",
         "link": "https://eu.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
         "timestamp": 1654263274,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 1:34 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/breaking-news/article-708513",
         "timestamp": 1654264375,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 3, 2022 1:52 PM"
     },
     {
@@ -293,8 +275,17 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-asia-china-61679435",
         "timestamp": 1654265781,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 2:16 PM"
+    },
+    {
+        "title": "Ukraine grants citizenship to top Russian journalist who denounced war",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/03/Ukraine-grants-citizenship-to-top-Russian-journalist-who-denounced-war",
+        "timestamp": 1654266049,
+        "sentiment": 1,
+        "published": "June 3, 2022 2:20 PM"
     },
     {
         "title": "Ads May Be the Future of Streaming. They Also Might Ruin the Whole Damn Thing",
@@ -315,21 +306,12 @@
         "published": "June 3, 2022 2:52 PM"
     },
     {
-        "title": "Police who pepper sprayed climate activists charged.",
-        "domain": "yle.fi",
-        "category": "worldnews",
-        "link": "https://yle.fi/news/3-12475664",
-        "timestamp": 1654267984,
-        "sentiment": -3,
-        "published": "June 3, 2022 2:53 PM"
-    },
-    {
         "title": "Uvalde teacher who officials mistakenly said left door open is traumatized and heartbroken, attorney says",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-teacher-officials-mistakenly-left-door-open-traumatized/story?id=85149742",
         "timestamp": 1654268341,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 2:59 PM"
     },
     {
@@ -338,8 +320,71 @@
         "category": "news",
         "link": "https://www.ktvu.com/news/phantom-braking-tesla-model-3-national-highway-traffic-safety-administration",
         "timestamp": 1654268808,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 3, 2022 3:06 PM"
+    },
+    {
+        "title": "Twitter says waiting period for Elon Musk’s deal has expired",
+        "domain": "indianexpress.com",
+        "category": "technology",
+        "link": "https://indianexpress.com/article/technology/tech-news-technology/twitter-elon-musk-deal-waiting-period-expired-7951464/",
+        "timestamp": 1654272148,
+        "sentiment": -2,
+        "published": "June 3, 2022 4:02 PM"
+    },
+    {
+        "title": "It’s been 10 years since Rudy Eugene ate someone’s face while stone cold sober.",
+        "domain": "cbsnews.com",
+        "category": "miami",
+        "link": "https://www.cbsnews.com/news/rudy-eugenes-toxicology-report-experts-speculate-on-what-caused-face-chewing-attack/#app",
+        "timestamp": 1654274065,
+        "sentiment": -1,
+        "published": "June 3, 2022 4:34 PM"
+    },
+    {
+        "title": "Captain cut parasailing cable before mom and kids slammed into Keys bridge, police say",
+        "domain": "yahoo.com",
+        "category": "miami",
+        "link": "https://www.yahoo.com/news/one-dead-least-one-injured-005702616.html",
+        "timestamp": 1654276655,
+        "sentiment": -1,
+        "published": "June 3, 2022 5:17 PM"
+    },
+    {
+        "title": "2 adults, 3 kids found dead inside home, escaped Texas inmate may be connected",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
+        "timestamp": 1654226013,
+        "sentiment": -3,
+        "published": "June 3, 2022 3:13 AM"
+    },
+    {
+        "title": "Russian malls half-empty after Western firms exit over Ukraine war",
+        "domain": "wap.business-standard.com",
+        "category": "worldnews",
+        "link": "https://wap.business-standard.com/article/international/russian-malls-half-empty-after-western-firms-exit-over-ukraine-war-122060300466_1.html?utm_source=SEO&utm_medium=ST",
+        "timestamp": 1654249863,
+        "sentiment": -3,
+        "published": "June 3, 2022 9:51 AM"
+    },
+    {
+        "title": "Sr Manager at Google Resigns After Dalit Activist Disallowed From Giving Lecture",
+        "domain": "thequint.com",
+        "category": "technology",
+        "link": "https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns",
+        "timestamp": 1654260316,
+        "sentiment": -1,
+        "published": "June 3, 2022 12:45 PM"
+    },
+    {
+        "title": "Police who pepper sprayed climate activists charged.",
+        "domain": "yle.fi",
+        "category": "worldnews",
+        "link": "https://yle.fi/news/3-12475664",
+        "timestamp": 1654267984,
+        "sentiment": -3,
+        "published": "June 3, 2022 2:53 PM"
     },
     {
         "title": "US to China: We're hosting world's largest naval exercise, in Pacific",
