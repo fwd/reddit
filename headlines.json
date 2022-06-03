@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 3, 2022 12:34 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://collider.com/the-wire-20th-anniversary-michael-k-williams/",
         "timestamp": 1654219927,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 1:32 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
         "timestamp": 1654226836,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 3:27 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -52,15 +52,6 @@
         "timestamp": 1654230628,
         "sentiment": 0,
         "published": "June 3, 2022 4:30 AM"
-    },
-    {
-        "title": "Massachusetts agrees to settlement for thousands of people who were wrongfully convicted of drug charges",
-        "domain": "us.cnn.com",
-        "category": "news",
-        "link": "https://us.cnn.com/2022/06/02/us/massachusetts-settlement-people-wrongfully-convicted-of-drug-charges/index.html",
-        "timestamp": 1654232693,
-        "sentiment": -3,
-        "published": "June 3, 2022 5:04 AM"
     },
     {
         "title": "Engineer sues Amazon for not covering work-from-home internet, electricity bills",
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
         "timestamp": 1654246407,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 8:53 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/iowa-man-kills-two-women-and-then-himself-in-latest-us-shooting?CMP=Share_AndroidApp_Other",
         "timestamp": 1654246600,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 8:56 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.asahi.com/ajw/articles/14635012",
         "timestamp": 1654253810,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 10:56 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
         "timestamp": 1654255915,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 11:31 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
         "timestamp": 1654257097,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 11:51 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "florida",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/florida-supreme-court-map-unconstitutional?CMP=Share_AndroidApp_Other",
         "timestamp": 1654259787,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 3, 2022 12:36 PM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/03/hong-kong-police-warn-tiananmen-anniversary-gatherings-will-break-the-law",
         "timestamp": 1654261043,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 12:57 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/exclusive-ukraine-investigates-deportation-children-russia-possible-genocide-2022-06-03/",
         "timestamp": 1654261256,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 1:00 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "television",
         "link": "https://people.com/tv/matthew-morrison-speaks-out-after-getting-fired-from-sytycd/",
         "timestamp": 1654261335,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 1:02 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://collider.com/the-bad-batch-season-2-release-date-disney-plus/",
         "timestamp": 1654262450,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 1:20 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
         "timestamp": 1654262981,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 1:29 PM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-asia-china-61679435",
         "timestamp": 1654265781,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 2:16 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/03/Ukraine-grants-citizenship-to-top-Russian-journalist-who-denounced-war",
         "timestamp": 1654266049,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 2:20 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/ads-on-streaming-1234730152/",
         "timestamp": 1654267612,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 2:46 PM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "news",
         "link": "https://www.ktvu.com/news/phantom-braking-tesla-model-3-national-highway-traffic-safety-administration",
         "timestamp": 1654268808,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 3:06 PM"
     },
     {
@@ -266,8 +257,17 @@
         "category": "news",
         "link": "https://apnews.com/article/5897d43ee5779b57434df233019bead0",
         "timestamp": 1654272473,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 4:07 PM"
+    },
+    {
+        "title": "It’s been 10 years since Rudy Eugene ate someone’s face while stone cold sober.",
+        "domain": "cbsnews.com",
+        "category": "miami",
+        "link": "https://www.cbsnews.com/news/rudy-eugenes-toxicology-report-experts-speculate-on-what-caused-face-chewing-attack/#app",
+        "timestamp": 1654274065,
+        "sentiment": 0,
+        "published": "June 3, 2022 4:34 PM"
     },
     {
         "title": "Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions",
@@ -284,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-61680965",
         "timestamp": 1654274912,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 4:48 PM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "worldnews",
         "link": "https://fortune.com/2022/06/02/russian-oligarch-300-million-yacht-found-in-creek/",
         "timestamp": 1654276500,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 5:15 PM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61669233",
         "timestamp": 1654277070,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 5:24 PM"
     },
     {
@@ -311,8 +311,17 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/03/raised-by-wolves-cancelled-season-3-hbo-max/",
         "timestamp": 1654277459,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 5:30 PM"
+    },
+    {
+        "title": "DeSantis blocks state money for Tampa Bay Rays training facility after team tweets against gun violence | CNN Politics",
+        "domain": "cnn.com",
+        "category": "florida",
+        "link": "https://www.cnn.com/2022/06/03/politics/ron-desantis-tampa-bay-rays-gun-violence/index.html",
+        "timestamp": 1654279581,
+        "sentiment": -5,
+        "published": "June 3, 2022 6:06 PM"
     },
     {
         "title": "Marriott is suspending all hotel operations in Russia, citing sanctions that make it 'impossible' to continue doing business",
@@ -320,7 +329,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/marriott-international-suspends-hotel-operations-in-russia-citing-sanctions-2022-6",
         "timestamp": 1654281435,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 3, 2022 6:37 PM"
     },
     {
@@ -329,7 +338,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/911-dispatcher-fired-allegedly-hanging-store-employee-buffalo-shooting-rcna31821",
         "timestamp": 1654281728,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 6:42 PM"
     },
     {
@@ -349,6 +358,42 @@
         "timestamp": 1654282105,
         "sentiment": 2,
         "published": "June 3, 2022 6:48 PM"
+    },
+    {
+        "title": "New York state passes first-ever \"right to repair\" law for electronics | ‘Repairs should become less expensive and more comprehensive’ because of the new measure, says iFixit",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/3/23153504/right-to-repair-new-york-state-law-ifixit-repairability-diy",
+        "timestamp": 1654284736,
+        "sentiment": 2,
+        "published": "June 3, 2022 7:32 PM"
+    },
+    {
+        "title": "More than 46,000 people have lost more than $1 billion to crypto scams since 2021, says FTC",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/03/crypto-scams-cost-people-more-than-1-billion-since-2021-ftc.html",
+        "timestamp": 1654286680,
+        "sentiment": -1,
+        "published": "June 3, 2022 8:04 PM"
+    },
+    {
+        "title": "Retired officer arrested outside U.S. Capitol with body armor, ammo and fake Interpol badge",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/retired-officer-arrested-us-capitol-body-armor-ammo-fake-interpol-badg-rcna31886",
+        "timestamp": 1654287864,
+        "sentiment": -1,
+        "published": "June 3, 2022 8:24 PM"
+    },
+    {
+        "title": "Massachusetts agrees to settlement for thousands of people who were wrongfully convicted of drug charges",
+        "domain": "us.cnn.com",
+        "category": "news",
+        "link": "https://us.cnn.com/2022/06/02/us/massachusetts-settlement-people-wrongfully-convicted-of-drug-charges/index.html",
+        "timestamp": 1654232693,
+        "sentiment": -3,
+        "published": "June 3, 2022 5:04 AM"
     },
     {
         "title": "‘Everything is gone’: Eastern Ukraine residents say Russia is wiping their towns off the map",
@@ -430,15 +475,6 @@
         "timestamp": 1654216741,
         "sentiment": -2,
         "published": "June 3, 2022 12:39 AM"
-    },
-    {
-        "title": "It’s been 10 years since Rudy Eugene ate someone’s face while stone cold sober.",
-        "domain": "cbsnews.com",
-        "category": "miami",
-        "link": "https://www.cbsnews.com/news/rudy-eugenes-toxicology-report-experts-speculate-on-what-caused-face-chewing-attack/#app",
-        "timestamp": 1654274065,
-        "sentiment": 0,
-        "published": "June 3, 2022 4:34 PM"
     },
     {
         "title": "Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs skyrocket",
