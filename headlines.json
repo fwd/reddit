@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 3, 2022 12:34 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://collider.com/the-wire-20th-anniversary-michael-k-williams/",
         "timestamp": 1654219927,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 1:32 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v3rc8z",
         "timestamp": 1654230628,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 3, 2022 4:30 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
         "timestamp": 1654237026,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 3, 2022 6:17 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
         "timestamp": 1654243010,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 3, 2022 7:56 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
         "timestamp": 1654246407,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 3, 2022 8:53 AM"
     },
     {
@@ -97,6 +97,258 @@
         "timestamp": 1654246600,
         "sentiment": -3,
         "published": "June 3, 2022 8:56 AM"
+    },
+    {
+        "title": "Japanese government to make microchipping of dogs and cats mandatory starting this month",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14635012",
+        "timestamp": 1654253810,
+        "sentiment": -2,
+        "published": "June 3, 2022 10:56 AM"
+    },
+    {
+        "title": "Artificial skin gives robots sense of touch and beyond",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
+        "timestamp": 1654254334,
+        "sentiment": 2,
+        "published": "June 3, 2022 11:05 AM"
+    },
+    {
+        "title": "Russia destroyed over 370 cultural heritage sites after 100 days of war",
+        "domain": "ukrinform.net",
+        "category": "worldnews",
+        "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
+        "timestamp": 1654255915,
+        "sentiment": -2,
+        "published": "June 3, 2022 11:31 AM"
+    },
+    {
+        "title": "Iran ‘deliberately flooding’ Yemen with drugs: Minister",
+        "domain": "english.alarabiya.net",
+        "category": "news",
+        "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
+        "timestamp": 1654257097,
+        "sentiment": -3,
+        "published": "June 3, 2022 11:51 AM"
+    },
+    {
+        "title": "Florida supreme court declines to rule gerrymandered voting map unconstitutional",
+        "domain": "theguardian.com",
+        "category": "florida",
+        "link": "https://www.theguardian.com/us-news/2022/jun/03/florida-supreme-court-map-unconstitutional?CMP=Share_AndroidApp_Other",
+        "timestamp": 1654259787,
+        "sentiment": 0,
+        "published": "June 3, 2022 12:36 PM"
+    },
+    {
+        "title": "Hong Kong police warn Tiananmen anniversary gatherings will break the law. Hong Kong has commemorated 1989 crackdown for decades, but national security law imposed in 2020 has put a stop to annual vigils",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/03/hong-kong-police-warn-tiananmen-anniversary-gatherings-will-break-the-law",
+        "timestamp": 1654261043,
+        "sentiment": -2,
+        "published": "June 3, 2022 12:57 PM"
+    },
+    {
+        "title": "Ukraine probes deportation of children to Russia as possible genocide",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/exclusive-ukraine-investigates-deportation-children-russia-possible-genocide-2022-06-03/",
+        "timestamp": 1654261256,
+        "sentiment": -2,
+        "published": "June 3, 2022 1:00 PM"
+    },
+    {
+        "title": "DeSantis vetoes $30M in South Florida projects from largest state budget in history",
+        "domain": "msn.com",
+        "category": "miami",
+        "link": "https://www.msn.com/en-us/news/us/desantis-vetoes-30m-in-south-florida-projects-from-largest-state-budget-in-history/ar-AAY1jIa?ocid=entnewsntp&pc=U531&cvid=78fef5907a5348a9979d1965031301a4",
+        "timestamp": 1654261323,
+        "sentiment": 0,
+        "published": "June 3, 2022 1:02 PM"
+    },
+    {
+        "title": "Matthew Morrison Calls \"So You Think You Can Dance\" Allegations 'Blatantly Untrue' and Shares Message That Led to His Exit",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/matthew-morrison-speaks-out-after-getting-fired-from-sytycd/",
+        "timestamp": 1654261335,
+        "sentiment": -3,
+        "published": "June 3, 2022 1:02 PM"
+    },
+    {
+        "title": "US has over 750 complaints that Teslas brake for no reason",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/technology-politics-health-cd1a51e26baa07678de50cab8ae90ee0",
+        "timestamp": 1654261531,
+        "sentiment": 2,
+        "published": "June 3, 2022 1:05 PM"
+    },
+    {
+        "title": "'Star Wars: The Bad Batch' Season 2 Premieres September 28 on Disney+",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-bad-batch-season-2-release-date-disney-plus/",
+        "timestamp": 1654262450,
+        "sentiment": -3,
+        "published": "June 3, 2022 1:20 PM"
+    },
+    {
+        "title": "Russia says Germany is risking European security by ‘remilitarizing’.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
+        "timestamp": 1654262981,
+        "sentiment": -2,
+        "published": "June 3, 2022 1:29 PM"
+    },
+    {
+        "title": "Tiananmen: Hong Kong students hide tiny \"democracy goddesses\" on campus",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-asia-china-61679435",
+        "timestamp": 1654265781,
+        "sentiment": -3,
+        "published": "June 3, 2022 2:16 PM"
+    },
+    {
+        "title": "Ukraine grants citizenship to top Russian journalist who denounced war",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/03/Ukraine-grants-citizenship-to-top-Russian-journalist-who-denounced-war",
+        "timestamp": 1654266049,
+        "sentiment": -2,
+        "published": "June 3, 2022 2:20 PM"
+    },
+    {
+        "title": "Ads May Be the Future of Streaming. They Also Might Ruin the Whole Damn Thing",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/ads-on-streaming-1234730152/",
+        "timestamp": 1654267612,
+        "sentiment": -3,
+        "published": "June 3, 2022 2:46 PM"
+    },
+    {
+        "title": "Google settles lawsuit with Illinois residents for $100M after photo app privacy concerns",
+        "domain": "usatoday.com",
+        "category": "technology",
+        "link": "https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
+        "timestamp": 1654268267,
+        "sentiment": 2,
+        "published": "June 3, 2022 2:57 PM"
+    },
+    {
+        "title": "Hundreds of Tesla owners say their cars stop for no reason; US investigating",
+        "domain": "ktvu.com",
+        "category": "news",
+        "link": "https://www.ktvu.com/news/phantom-braking-tesla-model-3-national-highway-traffic-safety-administration",
+        "timestamp": 1654268808,
+        "sentiment": -3,
+        "published": "June 3, 2022 3:06 PM"
+    },
+    {
+        "title": "Twitter says waiting period for Elon Musk’s deal has expired",
+        "domain": "indianexpress.com",
+        "category": "technology",
+        "link": "https://indianexpress.com/article/technology/tech-news-technology/twitter-elon-musk-deal-waiting-period-expired-7951464/",
+        "timestamp": 1654272148,
+        "sentiment": 2,
+        "published": "June 3, 2022 4:02 PM"
+    },
+    {
+        "title": "Feds: Capitol Police officer indicted on civil rights charge",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/5897d43ee5779b57434df233019bead0",
+        "timestamp": 1654272473,
+        "sentiment": -3,
+        "published": "June 3, 2022 4:07 PM"
+    },
+    {
+        "title": "Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation",
+        "timestamp": 1654274447,
+        "sentiment": 2,
+        "published": "June 3, 2022 4:40 PM"
+    },
+    {
+        "title": "Machine guns found in raid on French neo-Nazi gang",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61680965",
+        "timestamp": 1654274912,
+        "sentiment": -2,
+        "published": "June 3, 2022 4:48 PM"
+    },
+    {
+        "title": "Authorities find Russian oligarch's $300 million yacht hidden in a creek",
+        "domain": "fortune.com",
+        "category": "worldnews",
+        "link": "https://fortune.com/2022/06/02/russian-oligarch-300-million-yacht-found-in-creek/",
+        "timestamp": 1654276500,
+        "sentiment": -2,
+        "published": "June 3, 2022 5:15 PM"
+    },
+    {
+        "title": "Drought-stricken US warned of looming \"dead pool\"",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-61669233",
+        "timestamp": 1654277070,
+        "sentiment": -3,
+        "published": "June 3, 2022 5:24 PM"
+    },
+    {
+        "title": "'Raised by Wolves' Cancelled After 2 Seasons at HBO Max",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/06/03/raised-by-wolves-cancelled-season-3-hbo-max/",
+        "timestamp": 1654277459,
+        "sentiment": -3,
+        "published": "June 3, 2022 5:30 PM"
+    },
+    {
+        "title": "Marriott is suspending all hotel operations in Russia, citing sanctions that make it 'impossible' to continue doing business",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/marriott-international-suspends-hotel-operations-in-russia-citing-sanctions-2022-6",
+        "timestamp": 1654281435,
+        "sentiment": -2,
+        "published": "June 3, 2022 6:37 PM"
+    },
+    {
+        "title": "911 dispatcher fired after allegedly hanging up on store employee during Buffalo shooting call",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/911-dispatcher-fired-allegedly-hanging-store-employee-buffalo-shooting-rcna31821",
+        "timestamp": 1654281728,
+        "sentiment": -3,
+        "published": "June 3, 2022 6:42 PM"
+    },
+    {
+        "title": "Key biscayne dog beach",
+        "domain": "reddit.com",
+        "category": "miami",
+        "link": "https://www.reddit.com/gallery/v462ks",
+        "timestamp": 1654281989,
+        "sentiment": 0,
+        "published": "June 3, 2022 6:46 PM"
+    },
+    {
+        "title": "15 US child advocacy groups have asked the FTC to investigate EA over loot boxes",
+        "domain": "videogameschronicle.com",
+        "category": "technology",
+        "link": "https://www.videogameschronicle.com/news/15-us-child-advocacy-groups-have-asked-the-ftc-to-investigate-ea-over-loot-boxes/",
+        "timestamp": 1654282105,
+        "sentiment": 2,
+        "published": "June 3, 2022 6:48 PM"
     },
     {
         "title": "‘Everything is gone’: Eastern Ukraine residents say Russia is wiping their towns off the map",
@@ -126,15 +378,6 @@
         "published": "June 3, 2022 10:52 AM"
     },
     {
-        "title": "Artificial skin gives robots sense of touch and beyond",
-        "domain": "techxplore.com",
-        "category": "technology",
-        "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
-        "timestamp": 1654254334,
-        "sentiment": 0,
-        "published": "June 3, 2022 11:05 AM"
-    },
-    {
         "title": "“Zelenskyy is here, the Prime Minister is here”: President records video for the 100th day of the war",
         "domain": "pravda.com.ua",
         "category": "worldnews",
@@ -142,15 +385,6 @@
         "timestamp": 1654254386,
         "sentiment": 5,
         "published": "June 3, 2022 11:06 AM"
-    },
-    {
-        "title": "Russia destroyed over 370 cultural heritage sites after 100 days of war",
-        "domain": "ukrinform.net",
-        "category": "worldnews",
-        "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
-        "timestamp": 1654255915,
-        "sentiment": 5,
-        "published": "June 3, 2022 11:31 AM"
     },
     {
         "title": "Zelensky aide claims big win in Kherson, Russians caught with \"pants down\"",
@@ -162,15 +396,6 @@
         "published": "June 3, 2022 11:42 AM"
     },
     {
-        "title": "Iran ‘deliberately flooding’ Yemen with drugs: Minister",
-        "domain": "english.alarabiya.net",
-        "category": "news",
-        "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
-        "timestamp": 1654257097,
-        "sentiment": -3,
-        "published": "June 3, 2022 11:51 AM"
-    },
-    {
         "title": "Companies that exited Russia after its invasion of Ukraine are being rewarded with outsize stock-market returns — and those that stayed are not",
         "domain": "marketwatch.com",
         "category": "worldnews",
@@ -178,60 +403,6 @@
         "timestamp": 1654259379,
         "sentiment": 5,
         "published": "June 3, 2022 12:29 PM"
-    },
-    {
-        "title": "Florida supreme court declines to rule gerrymandered voting map unconstitutional",
-        "domain": "theguardian.com",
-        "category": "florida",
-        "link": "https://www.theguardian.com/us-news/2022/jun/03/florida-supreme-court-map-unconstitutional?CMP=Share_AndroidApp_Other",
-        "timestamp": 1654259787,
-        "sentiment": -3,
-        "published": "June 3, 2022 12:36 PM"
-    },
-    {
-        "title": "DeSantis vetoes $30M in South Florida projects from largest state budget in history",
-        "domain": "msn.com",
-        "category": "miami",
-        "link": "https://www.msn.com/en-us/news/us/desantis-vetoes-30m-in-south-florida-projects-from-largest-state-budget-in-history/ar-AAY1jIa?ocid=entnewsntp&pc=U531&cvid=78fef5907a5348a9979d1965031301a4",
-        "timestamp": 1654261323,
-        "sentiment": -3,
-        "published": "June 3, 2022 1:02 PM"
-    },
-    {
-        "title": "Matthew Morrison Calls \"So You Think You Can Dance\" Allegations 'Blatantly Untrue' and Shares Message That Led to His Exit",
-        "domain": "people.com",
-        "category": "television",
-        "link": "https://people.com/tv/matthew-morrison-speaks-out-after-getting-fired-from-sytycd/",
-        "timestamp": 1654261335,
-        "sentiment": 2,
-        "published": "June 3, 2022 1:02 PM"
-    },
-    {
-        "title": "US has over 750 complaints that Teslas brake for no reason",
-        "domain": "apnews.com",
-        "category": "technology",
-        "link": "https://apnews.com/article/technology-politics-health-cd1a51e26baa07678de50cab8ae90ee0",
-        "timestamp": 1654261531,
-        "sentiment": 0,
-        "published": "June 3, 2022 1:05 PM"
-    },
-    {
-        "title": "'Star Wars: The Bad Batch' Season 2 Premieres September 28 on Disney+",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/the-bad-batch-season-2-release-date-disney-plus/",
-        "timestamp": 1654262450,
-        "sentiment": 2,
-        "published": "June 3, 2022 1:20 PM"
-    },
-    {
-        "title": "Russia says Germany is risking European security by ‘remilitarizing’.",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
-        "timestamp": 1654262981,
-        "sentiment": 5,
-        "published": "June 3, 2022 1:29 PM"
     },
     {
         "title": "Turkey is buying Ukrainian grain stolen by Russia - envoy",
@@ -243,51 +414,6 @@
         "published": "June 3, 2022 1:52 PM"
     },
     {
-        "title": "Tiananmen: Hong Kong students hide tiny \"democracy goddesses\" on campus",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-asia-china-61679435",
-        "timestamp": 1654265781,
-        "sentiment": -3,
-        "published": "June 3, 2022 2:16 PM"
-    },
-    {
-        "title": "Ukraine grants citizenship to top Russian journalist who denounced war",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/03/Ukraine-grants-citizenship-to-top-Russian-journalist-who-denounced-war",
-        "timestamp": 1654266049,
-        "sentiment": 5,
-        "published": "June 3, 2022 2:20 PM"
-    },
-    {
-        "title": "Ads May Be the Future of Streaming. They Also Might Ruin the Whole Damn Thing",
-        "domain": "indiewire.com",
-        "category": "television",
-        "link": "https://www.indiewire.com/2022/06/ads-on-streaming-1234730152/",
-        "timestamp": 1654267612,
-        "sentiment": 2,
-        "published": "June 3, 2022 2:46 PM"
-    },
-    {
-        "title": "Google settles lawsuit with Illinois residents for $100M after photo app privacy concerns",
-        "domain": "usatoday.com",
-        "category": "technology",
-        "link": "https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
-        "timestamp": 1654268267,
-        "sentiment": 0,
-        "published": "June 3, 2022 2:57 PM"
-    },
-    {
-        "title": "Hundreds of Tesla owners say their cars stop for no reason; US investigating",
-        "domain": "ktvu.com",
-        "category": "news",
-        "link": "https://www.ktvu.com/news/phantom-braking-tesla-model-3-national-highway-traffic-safety-administration",
-        "timestamp": 1654268808,
-        "sentiment": -3,
-        "published": "June 3, 2022 3:06 PM"
-    },
-    {
         "title": "Special Olympics drops COVID vaccine mandate after Florida threatens $27.5M fine",
         "domain": "orlandosentinel.com",
         "category": "florida",
@@ -295,78 +421,6 @@
         "timestamp": 1654269320,
         "sentiment": -3,
         "published": "June 3, 2022 3:15 PM"
-    },
-    {
-        "title": "Twitter says waiting period for Elon Musk’s deal has expired",
-        "domain": "indianexpress.com",
-        "category": "technology",
-        "link": "https://indianexpress.com/article/technology/tech-news-technology/twitter-elon-musk-deal-waiting-period-expired-7951464/",
-        "timestamp": 1654272148,
-        "sentiment": 0,
-        "published": "June 3, 2022 4:02 PM"
-    },
-    {
-        "title": "Feds: Capitol Police officer indicted on civil rights charge",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/5897d43ee5779b57434df233019bead0",
-        "timestamp": 1654272473,
-        "sentiment": -3,
-        "published": "June 3, 2022 4:07 PM"
-    },
-    {
-        "title": "Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation",
-        "timestamp": 1654274447,
-        "sentiment": 0,
-        "published": "June 3, 2022 4:40 PM"
-    },
-    {
-        "title": "Authorities find Russian oligarch's $300 million yacht hidden in a creek",
-        "domain": "fortune.com",
-        "category": "worldnews",
-        "link": "https://fortune.com/2022/06/02/russian-oligarch-300-million-yacht-found-in-creek/",
-        "timestamp": 1654276500,
-        "sentiment": 5,
-        "published": "June 3, 2022 5:15 PM"
-    },
-    {
-        "title": "Drought-stricken US warned of looming \"dead pool\"",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-61669233",
-        "timestamp": 1654277070,
-        "sentiment": -3,
-        "published": "June 3, 2022 5:24 PM"
-    },
-    {
-        "title": "'Raised by Wolves' Cancelled After 2 Seasons at HBO Max",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/06/03/raised-by-wolves-cancelled-season-3-hbo-max/",
-        "timestamp": 1654277459,
-        "sentiment": 2,
-        "published": "June 3, 2022 5:30 PM"
-    },
-    {
-        "title": "911 dispatcher fired after allegedly hanging up on store employee during Buffalo shooting call",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/911-dispatcher-fired-allegedly-hanging-store-employee-buffalo-shooting-rcna31821",
-        "timestamp": 1654281728,
-        "sentiment": -3,
-        "published": "June 3, 2022 6:42 PM"
-    },
-    {
-        "title": "15 US child advocacy groups have asked the FTC to investigate EA over loot boxes",
-        "domain": "videogameschronicle.com",
-        "category": "technology",
-        "link": "https://www.videogameschronicle.com/news/15-us-child-advocacy-groups-have-asked-the-ftc-to-investigate-ea-over-loot-boxes/",
-        "timestamp": 1654282105,
-        "sentiment": 0,
-        "published": "June 3, 2022 6:48 PM"
     },
     {
         "title": "Chinese military secrets leaked on War Thunder video game forums",
@@ -484,15 +538,6 @@
         "timestamp": 1654239726,
         "sentiment": 0,
         "published": "June 3, 2022 7:02 AM"
-    },
-    {
-        "title": "Japanese government to make microchipping of dogs and cats mandatory starting this month",
-        "domain": "asahi.com",
-        "category": "worldnews",
-        "link": "https://www.asahi.com/ajw/articles/14635012",
-        "timestamp": 1654253810,
-        "sentiment": -1,
-        "published": "June 3, 2022 10:56 AM"
     },
     {
         "title": "Microsoft is here to rescue Tesla workers from Elon Musk",
