@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 3, 2022 12:34 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 12:39 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://collider.com/the-wire-20th-anniversary-michael-k-williams/",
         "timestamp": 1654219927,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 3, 2022 1:32 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://americanmilitarynews.com/2022/06/us-to-china-were-hosting-worlds-largest-naval-exercise-in-pacific/",
         "timestamp": 1654222150,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 2:09 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
         "timestamp": 1654226013,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 3, 2022 3:13 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "news",
         "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
         "timestamp": 1654226836,
-        "sentiment": -4,
-        "published": "June 3, 2022 3:27 AM"
-    },
-    {
-        "title": "George R.R. Martin on how House of the Dragon improves on his book",
-        "domain": "winteriscoming.net",
-        "category": "television",
-        "link": "https://winteriscoming.net/2022/06/02/george-rr-martin-how-house-of-the-dragon-improves-book/",
-        "timestamp": 1654228034,
         "sentiment": 2,
-        "published": "June 3, 2022 3:47 AM"
+        "published": "June 3, 2022 3:27 AM"
     },
     {
         "title": "Tesla monitored its employees on Facebook with help of PR firm during 2017 union push",
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -90,13 +81,13 @@
         "published": "June 3, 2022 4:30 AM"
     },
     {
-        "title": "Interesting statement from Arestovich that the USA does not consider Crimea off limits from attacks by long-range MLRS provided to Ukraine. Crimea is Ukraine, not Russia",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
-        "timestamp": 1654230901,
-        "sentiment": -7,
-        "published": "June 3, 2022 4:35 AM"
+        "title": "Massachusetts agrees to settlement for thousands of people who were wrongfully convicted of drug charges",
+        "domain": "us.cnn.com",
+        "category": "news",
+        "link": "https://us.cnn.com/2022/06/02/us/massachusetts-settlement-people-wrongfully-convicted-of-drug-charges/index.html",
+        "timestamp": 1654232693,
+        "sentiment": 2,
+        "published": "June 3, 2022 5:04 AM"
     },
     {
         "title": "Engineer sues Amazon for not covering work-from-home internet, electricity bills",
@@ -104,7 +95,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
         "timestamp": 1654237026,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 6:17 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "ukraine",
         "link": "https://www.reddit.com/gallery/v3tmsm",
         "timestamp": 1654239726,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 3, 2022 7:02 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "technology",
         "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
         "timestamp": 1654243010,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 7:56 AM"
-    },
-    {
-        "title": "Zelenskyy has praised Elon Musk's Starlink for saving Ukraine from Russian propaganda in Wired interview",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/zelenskyy-musks-starlink-saving-them-from-russian-propaganda-2022-6?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1654246224,
-        "sentiment": 1,
-        "published": "June 3, 2022 8:50 AM"
     },
     {
         "title": "Russia mocks 'opulent' Queen's Platinum Jubilee and says celebrations 'masks country in decline'",
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
         "timestamp": 1654246407,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 8:53 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/iowa-man-kills-two-women-and-then-himself-in-latest-us-shooting?CMP=Share_AndroidApp_Other",
         "timestamp": 1654246600,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 3, 2022 8:56 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/06/03/eastern-ukraine-residents-russia-00036854",
         "timestamp": 1654247010,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 9:03 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://wap.business-standard.com/article/international/russian-malls-half-empty-after-western-firms-exit-over-ukraine-war-122060300466_1.html?utm_source=SEO&utm_medium=ST",
         "timestamp": 1654249863,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 9:51 AM"
     },
     {
@@ -176,8 +158,26 @@
         "category": "florida",
         "link": "https://www.wfla.com/weather/tracking-the-tropics/live-tropical-storm-warning-issued-for-parts-of-florida-ahead-of-potential-alex?utm_source=wfla_app&utm_medium=social&utm_content=share-link",
         "timestamp": 1654250336,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 3, 2022 9:58 AM"
+    },
+    {
+        "title": "Zelenskyy has praised Elon Musk's Starlink for saving Ukraine from Russian propaganda in Wired interview",
+        "domain": "businessinsider.in",
+        "category": "ukraine",
+        "link": "https://www.businessinsider.in/tech/news/zelenskyy-has-praised-elon-musks-starlink-for-saving-ukraine-from-russian-propaganda-in-wired-interview/articleshow/91983206.cms",
+        "timestamp": 1654253556,
+        "sentiment": 0,
+        "published": "June 3, 2022 10:52 AM"
+    },
+    {
+        "title": "Japanese government to make microchipping of dogs and cats mandatory starting this month",
+        "domain": "asahi.com",
+        "category": "worldnews",
+        "link": "https://www.asahi.com/ajw/articles/14635012",
+        "timestamp": 1654253810,
+        "sentiment": -1,
+        "published": "June 3, 2022 10:56 AM"
     },
     {
         "title": "Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs skyrocket",
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html",
         "timestamp": 1654254238,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 3, 2022 11:03 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
         "timestamp": 1654254334,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 11:05 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "technology",
         "link": "https://thenextweb.com/news/teslas-archaic-work-style-is-other-companies-gain",
         "timestamp": 1654254825,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 11:13 AM"
     },
     {
@@ -212,8 +212,17 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
         "timestamp": 1654255915,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 11:31 AM"
+    },
+    {
+        "title": "Iran ‘deliberately flooding’ Yemen with drugs: Minister",
+        "domain": "english.alarabiya.net",
+        "category": "news",
+        "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
+        "timestamp": 1654257097,
+        "sentiment": 2,
+        "published": "June 3, 2022 11:51 AM"
     },
     {
         "title": "Chinese scientists call for plan to destroy Elon Musk's Starlink satellites",
@@ -221,17 +230,8 @@
         "category": "technology",
         "link": "https://www.livescience.com/china-plans-ways-destroy-starlink",
         "timestamp": 1654258242,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 12:10 PM"
-    },
-    {
-        "title": "Man smashes ancient Greek artefacts worth $5m at Dallas museum, police say",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/us-news/2022/jun/02/man-smashes-ancient-greek-artifacts-dallas-museum-police-say",
-        "timestamp": 1654258441,
-        "sentiment": 1,
-        "published": "June 3, 2022 12:14 PM"
     },
     {
         "title": "Companies that exited Russia after its invasion of Ukraine are being rewarded with outsize stock-market returns — and those that stayed are not",
@@ -239,8 +239,17 @@
         "category": "worldnews",
         "link": "https://www.marketwatch.com/story/companies-that-exited-russia-after-its-invasion-of-ukraine-are-being-rewarded-with-outsize-stock-market-returns-and-those-that-stayed-are-not-11654258241",
         "timestamp": 1654259379,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 3, 2022 12:29 PM"
+    },
+    {
+        "title": "Florida supreme court declines to rule gerrymandered voting map unconstitutional",
+        "domain": "theguardian.com",
+        "category": "florida",
+        "link": "https://www.theguardian.com/us-news/2022/jun/03/florida-supreme-court-map-unconstitutional?CMP=Share_AndroidApp_Other",
+        "timestamp": 1654259787,
+        "sentiment": 0,
+        "published": "June 3, 2022 12:36 PM"
     },
     {
         "title": "DeSantis vetoes $30M in South Florida projects from largest state budget in history",
@@ -257,7 +266,7 @@
         "category": "television",
         "link": "https://people.com/tv/matthew-morrison-speaks-out-after-getting-fired-from-sytycd/",
         "timestamp": 1654261335,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 3, 2022 1:02 PM"
     },
     {
@@ -266,8 +275,71 @@
         "category": "technology",
         "link": "https://apnews.com/article/technology-politics-health-cd1a51e26baa07678de50cab8ae90ee0",
         "timestamp": 1654261531,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 3, 2022 1:05 PM"
+    },
+    {
+        "title": "'Star Wars: The Bad Batch' Season 2 Premieres September 28 on Disney+",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-bad-batch-season-2-release-date-disney-plus/",
+        "timestamp": 1654262450,
+        "sentiment": 1,
+        "published": "June 3, 2022 1:20 PM"
+    },
+    {
+        "title": "The Russian soldiers refusing to fight in Ukraine",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-61607184",
+        "timestamp": 1654262632,
+        "sentiment": 2,
+        "published": "June 3, 2022 1:23 PM"
+    },
+    {
+        "title": "Russia says Germany is risking European security by ‘remilitarizing’.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
+        "timestamp": 1654262981,
+        "sentiment": -1,
+        "published": "June 3, 2022 1:29 PM"
+    },
+    {
+        "title": "Google settles lawsuit with Illinois residents for $100M after photo app privacy concerns",
+        "domain": "eu.usatoday.com",
+        "category": "technology",
+        "link": "https://eu.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
+        "timestamp": 1654263274,
+        "sentiment": -2,
+        "published": "June 3, 2022 1:34 PM"
+    },
+    {
+        "title": "George R.R. Martin on how House of the Dragon improves on his book",
+        "domain": "winteriscoming.net",
+        "category": "television",
+        "link": "https://winteriscoming.net/2022/06/02/george-rr-martin-how-house-of-the-dragon-improves-book/",
+        "timestamp": 1654228034,
+        "sentiment": 2,
+        "published": "June 3, 2022 3:47 AM"
+    },
+    {
+        "title": "Interesting statement from Arestovich that the USA does not consider Crimea off limits from attacks by long-range MLRS provided to Ukraine. Crimea is Ukraine, not Russia",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
+        "timestamp": 1654230901,
+        "sentiment": -7,
+        "published": "June 3, 2022 4:35 AM"
+    },
+    {
+        "title": "Man smashes ancient Greek artefacts worth $5m at Dallas museum, police say",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/us-news/2022/jun/02/man-smashes-ancient-greek-artifacts-dallas-museum-police-say",
+        "timestamp": 1654258441,
+        "sentiment": 1,
+        "published": "June 3, 2022 12:14 PM"
     },
     {
         "title": "Elon Musk's New Second-Gen Starlink Satellites Are Too Big for Current Rockets",
