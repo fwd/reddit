@@ -25,9 +25,9 @@ const reddit = new snoowrap({
 
 const subreddits = [
 	'worldnews',
-	'news',
-	'television',
-	'politics',
+//	'news',
+//	'television',
+//	'politics',
 	// 'entertainment',
 	// 'gaming',
 ]
