@@ -5,17 +5,8 @@
         "category": "florida",
         "link": "https://www.outkick.com/exclusive-gov-ron-desantis-to-veto-35-million-tampa-bay-rays-facility-amid-polarization-of-shootings/",
         "timestamp": 1654216479,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 12:34 AM"
-    },
-    {
-        "title": "Chinese military secrets leaked on War Thunder video game forums",
-        "domain": "polygon.com",
-        "category": "worldnews",
-        "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
-        "timestamp": 1654216741,
-        "sentiment": -2,
-        "published": "June 3, 2022 12:39 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
         "timestamp": 1654226836,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 3:27 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v3rc8z",
         "timestamp": 1654230628,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 4:30 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://us.cnn.com/2022/06/02/us/massachusetts-settlement-people-wrongfully-convicted-of-drug-charges/index.html",
         "timestamp": 1654232693,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 5:04 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
         "timestamp": 1654237026,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 6:17 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.news18.com/news/auto/elon-musk-says-tesla-has-paused-all-hiring-worldwide-needs-to-cut-staff-by-10-percent-5303101.html",
         "timestamp": 1654243010,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 7:56 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/03/platinum-jubilee-russia-mocks-opulent-celebrations-for-the-queen-16761309/",
         "timestamp": 1654246407,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 8:53 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/iowa-man-kills-two-women-and-then-himself-in-latest-us-shooting?CMP=Share_AndroidApp_Other",
         "timestamp": 1654246600,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 8:56 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/06/03/eastern-ukraine-residents-russia-00036854",
         "timestamp": 1654247010,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 9:03 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/weather/tracking-the-tropics/live-tropical-storm-warning-issued-for-parts-of-florida-ahead-of-potential-alex?utm_source=wfla_app&utm_medium=social&utm_content=share-link",
         "timestamp": 1654250336,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 9:58 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "ukraine",
         "link": "https://www.businessinsider.in/tech/news/zelenskyy-has-praised-elon-musks-starlink-for-saving-ukraine-from-russian-propaganda-in-wired-interview/articleshow/91983206.cms",
         "timestamp": 1654253556,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 3, 2022 10:52 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-06-artificial-skin-robots.html",
         "timestamp": 1654254334,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 11:05 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/3/7350286/",
         "timestamp": 1654254386,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 11:06 AM"
     },
     {
@@ -158,8 +149,17 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-ato/3498908-russia-destroyed-over-370-cultural-heritage-sites-after-100-days-of-war-tkachenko.html",
         "timestamp": 1654255915,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 11:31 AM"
+    },
+    {
+        "title": "Zelensky aide claims big win in Kherson, Russians caught with \"pants down\"",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/arestovich-ukraine-russia-zelensky-1712575?utm_medium=Social&utm_source=Twitter#Echobox=1654254389",
+        "timestamp": 1654256572,
+        "sentiment": 5,
+        "published": "June 3, 2022 11:42 AM"
     },
     {
         "title": "Iran ‘deliberately flooding’ Yemen with drugs: Minister",
@@ -167,7 +167,7 @@
         "category": "news",
         "link": "https://english.alarabiya.net/News/gulf/2022/06/02/Iran-deliberately-flooding-Yemen-with-drugs-Minister",
         "timestamp": 1654257097,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 11:51 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.marketwatch.com/story/companies-that-exited-russia-after-its-invasion-of-ukraine-are-being-rewarded-with-outsize-stock-market-returns-and-those-that-stayed-are-not-11654258241",
         "timestamp": 1654259379,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 12:29 PM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "florida",
         "link": "https://www.theguardian.com/us-news/2022/jun/03/florida-supreme-court-map-unconstitutional?CMP=Share_AndroidApp_Other",
         "timestamp": 1654259787,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 12:36 PM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "miami",
         "link": "https://www.msn.com/en-us/news/us/desantis-vetoes-30m-in-south-florida-projects-from-largest-state-budget-in-history/ar-AAY1jIa?ocid=entnewsntp&pc=U531&cvid=78fef5907a5348a9979d1965031301a4",
         "timestamp": 1654261323,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 1:02 PM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "technology",
         "link": "https://apnews.com/article/technology-politics-health-cd1a51e26baa07678de50cab8ae90ee0",
         "timestamp": 1654261531,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 1:05 PM"
     },
     {
@@ -230,17 +230,8 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/03/Russia-says-Germany-is-risking-European-security-by-remilitarizing-",
         "timestamp": 1654262981,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 1:29 PM"
-    },
-    {
-        "title": "Google settles lawsuit with Illinois residents for $100M after photo app privacy concerns",
-        "domain": "eu.usatoday.com",
-        "category": "technology",
-        "link": "https://eu.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
-        "timestamp": 1654263274,
-        "sentiment": -2,
-        "published": "June 3, 2022 1:34 PM"
     },
     {
         "title": "Turkey is buying Ukrainian grain stolen by Russia - envoy",
@@ -248,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/breaking-news/article-708513",
         "timestamp": 1654264375,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 1:52 PM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-asia-china-61679435",
         "timestamp": 1654265781,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 2:16 PM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/03/Ukraine-grants-citizenship-to-top-Russian-journalist-who-denounced-war",
         "timestamp": 1654266049,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 2:20 PM"
     },
     {
@@ -279,12 +270,21 @@
         "published": "June 3, 2022 2:46 PM"
     },
     {
+        "title": "Google settles lawsuit with Illinois residents for $100M after photo app privacy concerns",
+        "domain": "usatoday.com",
+        "category": "technology",
+        "link": "https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/",
+        "timestamp": 1654268267,
+        "sentiment": 0,
+        "published": "June 3, 2022 2:57 PM"
+    },
+    {
         "title": "Hundreds of Tesla owners say their cars stop for no reason; US investigating",
         "domain": "ktvu.com",
         "category": "news",
         "link": "https://www.ktvu.com/news/phantom-braking-tesla-model-3-national-highway-traffic-safety-administration",
         "timestamp": 1654268808,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 3:06 PM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "florida",
         "link": "https://www.orlandosentinel.com/politics/os-ne-desantis-special-olympics-vaccine-20220603-aelfx7d6ijamrbm2i7jqoqxxaa-story.html",
         "timestamp": 1654269320,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 3:15 PM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "technology",
         "link": "https://indianexpress.com/article/technology/tech-news-technology/twitter-elon-musk-deal-waiting-period-expired-7951464/",
         "timestamp": 1654272148,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 4:02 PM"
     },
     {
@@ -311,17 +311,8 @@
         "category": "news",
         "link": "https://apnews.com/article/5897d43ee5779b57434df233019bead0",
         "timestamp": 1654272473,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 3, 2022 4:07 PM"
-    },
-    {
-        "title": "It’s been 10 years since Rudy Eugene ate someone’s face while stone cold sober.",
-        "domain": "cbsnews.com",
-        "category": "miami",
-        "link": "https://www.cbsnews.com/news/rudy-eugenes-toxicology-report-experts-speculate-on-what-caused-face-chewing-attack/#app",
-        "timestamp": 1654274065,
-        "sentiment": 0,
-        "published": "June 3, 2022 4:34 PM"
     },
     {
         "title": "Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions",
@@ -329,7 +320,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation",
         "timestamp": 1654274447,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 3, 2022 4:40 PM"
     },
     {
@@ -338,8 +329,17 @@
         "category": "worldnews",
         "link": "https://fortune.com/2022/06/02/russian-oligarch-300-million-yacht-found-in-creek/",
         "timestamp": 1654276500,
-        "sentiment": -2,
+        "sentiment": 5,
         "published": "June 3, 2022 5:15 PM"
+    },
+    {
+        "title": "Drought-stricken US warned of looming \"dead pool\"",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-61669233",
+        "timestamp": 1654277070,
+        "sentiment": -3,
+        "published": "June 3, 2022 5:24 PM"
     },
     {
         "title": "'Raised by Wolves' Cancelled After 2 Seasons at HBO Max",
@@ -349,6 +349,42 @@
         "timestamp": 1654277459,
         "sentiment": 2,
         "published": "June 3, 2022 5:30 PM"
+    },
+    {
+        "title": "911 dispatcher fired after allegedly hanging up on store employee during Buffalo shooting call",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/911-dispatcher-fired-allegedly-hanging-store-employee-buffalo-shooting-rcna31821",
+        "timestamp": 1654281728,
+        "sentiment": -3,
+        "published": "June 3, 2022 6:42 PM"
+    },
+    {
+        "title": "15 US child advocacy groups have asked the FTC to investigate EA over loot boxes",
+        "domain": "videogameschronicle.com",
+        "category": "technology",
+        "link": "https://www.videogameschronicle.com/news/15-us-child-advocacy-groups-have-asked-the-ftc-to-investigate-ea-over-loot-boxes/",
+        "timestamp": 1654282105,
+        "sentiment": 0,
+        "published": "June 3, 2022 6:48 PM"
+    },
+    {
+        "title": "Chinese military secrets leaked on War Thunder video game forums",
+        "domain": "polygon.com",
+        "category": "worldnews",
+        "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
+        "timestamp": 1654216741,
+        "sentiment": -2,
+        "published": "June 3, 2022 12:39 AM"
+    },
+    {
+        "title": "It’s been 10 years since Rudy Eugene ate someone’s face while stone cold sober.",
+        "domain": "cbsnews.com",
+        "category": "miami",
+        "link": "https://www.cbsnews.com/news/rudy-eugenes-toxicology-report-experts-speculate-on-what-caused-face-chewing-attack/#app",
+        "timestamp": 1654274065,
+        "sentiment": 0,
+        "published": "June 3, 2022 4:34 PM"
     },
     {
         "title": "Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs skyrocket",
