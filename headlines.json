@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum",
         "timestamp": 1654216741,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 3, 2022 12:39 AM"
     },
     {
@@ -23,8 +23,17 @@
         "category": "technology",
         "link": "https://www.autoblog.com/2022/06/01/fire-rivian-plant-battery-pack/",
         "timestamp": 1654217100,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 3, 2022 12:45 AM"
+    },
+    {
+        "title": "Shooting in Benton Harbor kills one and injures six",
+        "domain": "abc57.com",
+        "category": "news",
+        "link": "https://www.abc57.com/news/shooting-in-benton-harbor-kills-one-and-injures-six",
+        "timestamp": 1654219176,
+        "sentiment": -3,
+        "published": "June 3, 2022 1:19 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
@@ -41,17 +50,17 @@
         "category": "technology",
         "link": "https://www.cnet.com/science/space/elon-musks-new-second-gen-starlink-satellites-are-too-big-for-current-rockets/",
         "timestamp": 1654221732,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 3, 2022 2:02 AM"
     },
     {
-        "title": "Russian state media ordered not to talk about 100th day of Putin's war in Ukraine because it's going so poorly",
-        "domain": "businessinsider.com",
+        "title": "US to China: We're hosting world's largest naval exercise, in Pacific",
+        "domain": "americanmilitarynews.com",
         "category": "worldnews",
-        "link": "https://www.businessinsider.com/russia-media-told-to%20ignore-day-100-of-putin-ukraine-war-2022-6",
-        "timestamp": 1654225189,
-        "sentiment": -2,
-        "published": "June 3, 2022 2:59 AM"
+        "link": "https://americanmilitarynews.com/2022/06/us-to-china-were-hosting-worlds-largest-naval-exercise-in-pacific/",
+        "timestamp": 1654222150,
+        "sentiment": -5,
+        "published": "June 3, 2022 2:09 AM"
     },
     {
         "title": "2 adults, 3 kids found dead inside home, escaped Texas inmate may be connected",
@@ -59,17 +68,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
         "timestamp": 1654226013,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 3:13 AM"
-    },
-    {
-        "title": "Coinbase will extend hiring freeze and rescind some accepted offers",
-        "domain": "blog.coinbase.com",
-        "category": "technology",
-        "link": "https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989",
-        "timestamp": 1654226171,
-        "sentiment": 2,
-        "published": "June 3, 2022 3:16 AM"
     },
     {
         "title": "Kidnapping children en masse and seeking to assimilate them in a foreign culture is genocide according to Article 2 Section E of the 1948 genocide convention.",
@@ -77,7 +77,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TimothyDSnyder/status/1532116122559995904?s=20&t=dOk6rKSRoU3hVwUdBydVfw",
         "timestamp": 1654227545,
-        "sentiment": 6,
+        "sentiment": 0,
         "published": "June 3, 2022 3:39 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://apnews.com/article/83048492f3e1c632cd29af7e972d17eb",
         "timestamp": 1654228053,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 3, 2022 3:47 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/02/tesla-paid-pr-firm-to-surveil-employees-on-facebook-in-2017-union-push.html",
         "timestamp": 1654228649,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 3, 2022 3:57 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654228804,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 3, 2022 4:00 AM"
     },
     {
@@ -117,13 +117,40 @@
         "published": "June 3, 2022 4:30 AM"
     },
     {
-        "title": "Shooting in Benton Harbor kills one and injures six",
-        "domain": "abc57.com",
-        "category": "news",
-        "link": "https://www.abc57.com/news/shooting-in-benton-harbor-kills-one-and-injures-six",
-        "timestamp": 1654219176,
-        "sentiment": -3,
-        "published": "June 3, 2022 1:19 AM"
+        "title": "Interesting statement from Arestovich that the USA does not consider Crimea off limits from attacks by long-range MLRS provided to Ukraine. Crimea is Ukraine, not Russia",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/EuromaidanPR/status/1532579192646287362?t=wLZmiXrgEjXRz_patb6YRA&s=09",
+        "timestamp": 1654230901,
+        "sentiment": 0,
+        "published": "June 3, 2022 4:35 AM"
+    },
+    {
+        "title": "Engineer sues Amazon for not covering work-from-home internet, electricity bills",
+        "domain": "theregister.com",
+        "category": "technology",
+        "link": "https://www.theregister.com/2022/06/03/amazon_lawsuit_wfh/",
+        "timestamp": 1654237026,
+        "sentiment": 0,
+        "published": "June 3, 2022 6:17 AM"
+    },
+    {
+        "title": "Russian state media ordered not to talk about 100th day of Putin's war in Ukraine because it's going so poorly",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russia-media-told-to%20ignore-day-100-of-putin-ukraine-war-2022-6",
+        "timestamp": 1654225189,
+        "sentiment": -2,
+        "published": "June 3, 2022 2:59 AM"
+    },
+    {
+        "title": "Coinbase will extend hiring freeze and rescind some accepted offers",
+        "domain": "blog.coinbase.com",
+        "category": "technology",
+        "link": "https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989",
+        "timestamp": 1654226171,
+        "sentiment": 2,
+        "published": "June 3, 2022 3:16 AM"
     },
     {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 58, Part 1 (Thread #197)",
