@@ -27,15 +27,6 @@
         "published": "June 3, 2022 12:45 AM"
     },
     {
-        "title": "Shooting in Benton Harbor kills one and injures six",
-        "domain": "abc57.com",
-        "category": "news",
-        "link": "https://www.abc57.com/news/shooting-in-benton-harbor-kills-one-and-injures-six",
-        "timestamp": 1654219176,
-        "sentiment": -3,
-        "published": "June 3, 2022 1:19 AM"
-    },
-    {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
         "domain": "collider.com",
         "category": "television",
@@ -68,8 +59,17 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/adults-kids-found-dead-inside-home-escaped-texas/story?id=85150941",
         "timestamp": 1654226013,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 3:13 AM"
+    },
+    {
+        "title": "Putin treated for advanced cancer and survived assassination attempt, US intelligence reports",
+        "domain": "inews.co.uk",
+        "category": "news",
+        "link": "https://inews.co.uk/news/world/putin-being-treated-advanced-cancer-survived-assassination-attempt-us-intelligence-1665577",
+        "timestamp": 1654226836,
+        "sentiment": -1,
+        "published": "June 3, 2022 3:27 AM"
     },
     {
         "title": "Kidnapping children en masse and seeking to assimilate them in a foreign culture is genocide according to Article 2 Section E of the 1948 genocide convention.",
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://apnews.com/article/83048492f3e1c632cd29af7e972d17eb",
         "timestamp": 1654228053,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 3, 2022 3:47 AM"
     },
     {
@@ -133,6 +133,15 @@
         "timestamp": 1654237026,
         "sentiment": 0,
         "published": "June 3, 2022 6:17 AM"
+    },
+    {
+        "title": "Shooting in Benton Harbor kills one and injures six",
+        "domain": "abc57.com",
+        "category": "news",
+        "link": "https://www.abc57.com/news/shooting-in-benton-harbor-kills-one-and-injures-six",
+        "timestamp": 1654219176,
+        "sentiment": -3,
+        "published": "June 3, 2022 1:19 AM"
     },
     {
         "title": "Russian state media ordered not to talk about 100th day of Putin's war in Ukraine because it's going so poorly",
