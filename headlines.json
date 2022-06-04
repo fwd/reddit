@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 12:07 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "technology",
         "link": "https://www.tomshardware.com/news/doom-port-released-as-bios-payload",
         "timestamp": 1654305542,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 1:19 AM"
+    },
+    {
+        "title": "Human remains found 50 years ago in Florida are finally identified through DNA testing",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
+        "timestamp": 1654305831,
+        "sentiment": 0,
+        "published": "June 4, 2022 1:23 AM"
     },
     {
         "title": "‘Love, Death + Robots’ and the Bleak Moral Message of David Fincher's “Bad Travelling”",
@@ -23,7 +32,7 @@
         "category": "television",
         "link": "https://collider.com/love-death-robots-david-fincher-bad-travelling-bleak-moral-message/",
         "timestamp": 1654307792,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 1:56 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "technology",
         "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-set-to-study-two-strange-super-earths/",
         "timestamp": 1654308096,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 2:01 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 2:26 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alleged-boogaloo-extremist-sentenced-41-years-murder-federal-officer-rcna31942",
         "timestamp": 1654320158,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 5:22 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/awards/righteous-gemstones-danny-mcbride-season-3-1235218122/",
         "timestamp": 1654321202,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-joseph-quinn-eddie-black-sabbath-les-miserables-1235157889/",
         "timestamp": 1654321349,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 5:42 AM"
     },
     {
@@ -122,17 +131,8 @@
         "category": "technology",
         "link": "https://nextshark.com/japanese-researchers-near-petabit-internet/",
         "timestamp": 1654329887,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 8:04 AM"
-    },
-    {
-        "title": "Russia blowing up bridges in Sievierodonetsk to thwart Ukrainian reinforcements -regional governor",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-blowing-up-bridges-sievierodonetsk-thwart-ukrainian-reinforcements-2022-06-04/",
-        "timestamp": 1654332870,
-        "sentiment": -2,
-        "published": "June 4, 2022 8:54 AM"
     },
     {
         "title": "\"Unfortunately, Switzerland is once again blocking military aid to Ukraine...\" Swiss people, please, can you help put some pressure on your government to lift the ban on re-export to Ukraine?",
@@ -140,7 +140,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/kiraincongress/status/1532965373573746688",
         "timestamp": 1654335151,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 4, 2022 9:32 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "technology",
         "link": "https://archive.ph/b4WDz",
         "timestamp": 1654337952,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 10:19 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3499664-ukraine-forces-wipe-out-almost-entire-35th-allrussian-army-in-izium-yermak.html",
         "timestamp": 1654343035,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 4, 2022 11:43 AM"
     },
     {
@@ -180,21 +180,12 @@
         "published": "June 4, 2022 12:06 PM"
     },
     {
-        "title": "Federal Funds May Be Used to Raze Uvalde's Robb Elementary After Massacre",
-        "domain": "nbcdfw.com",
-        "category": "news",
-        "link": "https://www.nbcdfw.com/news/local/texas-news/federal-funds-may-be-used-to-raze-uvaldes-robb-elementary-after-massacre/2981366/",
-        "timestamp": 1654346055,
-        "sentiment": -3,
-        "published": "June 4, 2022 12:34 PM"
-    },
-    {
         "title": "Tiananmen anniversary: US hails the ‘brave’ 33 years on as Hong Kong warns against gatherings",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/04/tiananmen-anniversary-us-hails-the-brave-33-years-on-as-hong-kong-warns-against-gatherings",
         "timestamp": 1654347560,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 12:59 PM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "television",
         "link": "https://www.cnn.com/2022/06/03/entertainment/michael-j-fox-parkinsons/index.html",
         "timestamp": 1654349454,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 1:30 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/884620/hbo-will-only-pursue-more-game-of-throne-spin-offs-if-creative-exciting-concepts-come-up-atx/",
         "timestamp": 1654351147,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 1:59 PM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "news",
         "link": "https://www.rfi.fr/en/hong-kong-police-make-multiple-arrests-as-tiananmen-gatherings-banned",
         "timestamp": 1654352487,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 2:21 PM"
     },
     {
@@ -248,17 +239,8 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/guy-pearce-neighbours-australian-tv-soap-final-episode-cast-1235038343/",
         "timestamp": 1654352858,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 2:27 PM"
-    },
-    {
-        "title": "French police find weapons arsenal after arresting neo-Nazi suspects in Alsace | France",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/03/french-police-find-machine-gun-arsenal-after-arresting-neo-nazi-suspects-in-alsace",
-        "timestamp": 1654353241,
-        "sentiment": -2,
-        "published": "June 4, 2022 2:34 PM"
     },
     {
         "title": "Dmytro Kuleba: Calls to avoid humiliation of Russia can only humiliate France and every other country that would call for it. Because it is Russia that humiliates itself. We all better focus on how to put Russia in its place. This will bring peace and save lives.",
@@ -266,7 +248,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/DmytroKuleba/status/1533073469570789377?s=20&t=FxZsvtVVJAsF-f_RiakUhQ",
         "timestamp": 1654354053,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 4, 2022 2:47 PM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "technology",
         "link": "https://gizmodo.com/elon-musk-mars-colony-delusion-1848839584",
         "timestamp": 1654355531,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 3:12 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "news",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
         "timestamp": 1654357301,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 3:41 PM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "television",
         "link": "https://www.greenbaypressgazette.com/story/entertainment/television/2022/05/31/tony-shalhoub-talks-monk-his-hometown-during-green-bay-visit/9960547002/",
         "timestamp": 1654360237,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 4:30 PM"
     },
     {
@@ -320,8 +302,17 @@
         "category": "technology",
         "link": "https://qz.com/india/2172954/google-scrapped-a-talk-on-caste-bias-for-being-too-divisive/",
         "timestamp": 1654360274,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 4:31 PM"
+    },
+    {
+        "title": "Hundreds gather in Taiwan to mark Tiananmen Square anniversary | Tiananmen Square protests 1989",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/04/hundreds-gather-in-taiwan-to-mark-tiananmen-square-anniversary",
+        "timestamp": 1654360638,
+        "sentiment": -2,
+        "published": "June 4, 2022 4:37 PM"
     },
     {
         "title": "Tiananmen: Hong Kong students hide tiny \"democracy goddesses\" on campus",
@@ -338,17 +329,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/real-estate/real-estate-agents-got-39-billion-covid-relief-ppp-loans-housing-marke-rcna26947",
         "timestamp": 1654361717,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 4:55 PM"
-    },
-    {
-        "title": "Hidden Fees On Concert Tickets Will Be Banned Under New York Bill",
-        "domain": "stereogum.com",
-        "category": "news",
-        "link": "https://www.stereogum.com/2188841/hidden-fees-concert-tickets-banned-new-york-bill/news/",
-        "timestamp": 1654362033,
-        "sentiment": -3,
-        "published": "June 4, 2022 5:00 PM"
     },
     {
         "title": "Japan's trial of a deep ocean turbine could offer limitless renewable energy",
@@ -356,7 +338,7 @@
         "category": "technology",
         "link": "https://interestingengineering.com/japan-deep-ocean-turbine-limitless-renewable-energy",
         "timestamp": 1654364186,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 5:36 PM"
     },
     {
@@ -374,8 +356,80 @@
         "category": "technology",
         "link": "https://leva-eu.com/electric-vehicles-are-measurably-reducing-global-oil-demand-by-1-5-million-barrels-a-day/#:~:text=Approximately%201.5%20million%20barrels",
         "timestamp": 1654366216,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 6:10 PM"
+    },
+    {
+        "title": "New York gets closer to cracking down on Amazon’s warehouse production quotas",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/4/23154379/new-york-cracking-down-amazon-warehouse-production-quotas-warehouse-worker-protection-act",
+        "timestamp": 1654366616,
+        "sentiment": 0,
+        "published": "June 4, 2022 6:16 PM"
+    },
+    {
+        "title": "'The Midnight Gospel' Canceled at Netflix; Won't Be Returning for Season 2",
+        "domain": "whats-on-netflix.com",
+        "category": "television",
+        "link": "https://www.whats-on-netflix.com/news/the-midnight-gospel-canceled-at-netflix-wont-be-returning-for-season-2/",
+        "timestamp": 1654367020,
+        "sentiment": 0,
+        "published": "June 4, 2022 6:23 PM"
+    },
+    {
+        "title": "Vladimir Putin's Russia faces genocide probe",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "worldnews",
+        "link": "https://www.scottishdailyexpress.co.uk/news/world-news/vladimir-putins-russia-faces-genocide-27144535",
+        "timestamp": 1654367404,
+        "sentiment": -2,
+        "published": "June 4, 2022 6:30 PM"
+    },
+    {
+        "title": "Top lawmakers passed DeSantis’ priorities. It didn’t save their Tampa Bay projects.",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/florida-politics/2022/06/04/top-lawmakers-passed-desantis-priorities-it-didnt-save-their-tampa-bay-projects/",
+        "timestamp": 1654370568,
+        "sentiment": 0,
+        "published": "June 4, 2022 7:22 PM"
+    },
+    {
+        "title": "Russia blowing up bridges in Sievierodonetsk to thwart Ukrainian reinforcements -regional governor",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-blowing-up-bridges-sievierodonetsk-thwart-ukrainian-reinforcements-2022-06-04/",
+        "timestamp": 1654332870,
+        "sentiment": -2,
+        "published": "June 4, 2022 8:54 AM"
+    },
+    {
+        "title": "Federal Funds May Be Used to Raze Uvalde's Robb Elementary After Massacre",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/local/texas-news/federal-funds-may-be-used-to-raze-uvaldes-robb-elementary-after-massacre/2981366/",
+        "timestamp": 1654346055,
+        "sentiment": -3,
+        "published": "June 4, 2022 12:34 PM"
+    },
+    {
+        "title": "French police find weapons arsenal after arresting neo-Nazi suspects in Alsace | France",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/03/french-police-find-machine-gun-arsenal-after-arresting-neo-nazi-suspects-in-alsace",
+        "timestamp": 1654353241,
+        "sentiment": -2,
+        "published": "June 4, 2022 2:34 PM"
+    },
+    {
+        "title": "Hidden Fees On Concert Tickets Will Be Banned Under New York Bill",
+        "domain": "stereogum.com",
+        "category": "news",
+        "link": "https://www.stereogum.com/2188841/hidden-fees-concert-tickets-banned-new-york-bill/news/",
+        "timestamp": 1654362033,
+        "sentiment": -3,
+        "published": "June 4, 2022 5:00 PM"
     },
     {
         "title": "Poland condemns “silence in western Europe” over Russia’s deportations of Ukrainians",
@@ -421,15 +475,6 @@
         "timestamp": 1654305042,
         "sentiment": -2,
         "published": "June 4, 2022 1:10 AM"
-    },
-    {
-        "title": "Human remains found 50 years ago in Florida are finally identified through DNA testing",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
-        "timestamp": 1654305831,
-        "sentiment": 0,
-        "published": "June 4, 2022 1:23 AM"
     },
     {
         "title": "Pinellas residents rally to save Klosterman Road parcel after DeSantis veto",
