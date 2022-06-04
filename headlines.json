@@ -5,17 +5,8 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 4, 2022 12:07 AM"
-    },
-    {
-        "title": "Concentrations of carbon dioxide in the atmosphere in May were 50 percent higher than during the pre-industrial era, reaching levels not seen on Earth for about four million years, the main US climate agency said on Friday",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/live-news/20220603-atmospheric-co2-more-than-50-percent-higher-than-pre-industrial-era",
-        "timestamp": 1654302149,
-        "sentiment": 0,
-        "published": "June 4, 2022 12:22 AM"
     },
     {
         "title": "Russian plane full of passengers seized; An arrest warrant has been issued for plane",
@@ -32,7 +23,7 @@
         "category": "technology",
         "link": "https://www.tomshardware.com/news/doom-port-released-as-bios-payload",
         "timestamp": 1654305542,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 4, 2022 1:19 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
         "timestamp": 1654305831,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 4, 2022 1:23 AM"
-    },
-    {
-        "title": "Tank-Killing German Tripwire Mines Are In Use With Ukrainian Forces",
-        "domain": "reddit.com",
-        "category": "ukraine",
-        "link": "https://www.reddit.com/gallery/v4e1s9",
-        "timestamp": 1654305992,
-        "sentiment": -5,
-        "published": "June 4, 2022 1:26 AM"
     },
     {
         "title": "‘Love, Death + Robots’ and the Bleak Moral Message of David Fincher's “Bad Travelling”",
@@ -68,7 +50,7 @@
         "category": "technology",
         "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-set-to-study-two-strange-super-earths/",
         "timestamp": 1654308096,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 4, 2022 2:01 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 4, 2022 2:26 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/grandfather-4-grandchildren-killed-escaped-texas-inmate-are-identified-rcna31861?cid=sm_npd_nn_fb_ma",
         "timestamp": 1654314810,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 4, 2022 3:53 AM"
     },
     {
@@ -149,17 +131,8 @@
         "category": "technology",
         "link": "https://archive.ph/htajE",
         "timestamp": 1654316217,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 4, 2022 4:16 AM"
-    },
-    {
-        "title": "Air Force destroys more than 20 enemy armored vehicles",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3499415-air-force-destroys-more-than-20-enemy-armored-vehicles.html",
-        "timestamp": 1654317918,
-        "sentiment": -5,
-        "published": "June 4, 2022 4:45 AM"
     },
     {
         "title": "More than 40% of Earth's land surface must be conserved to stop the biodiversity crisis, report warns",
@@ -176,7 +149,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alleged-boogaloo-extremist-sentenced-41-years-murder-federal-officer-rcna31942",
         "timestamp": 1654320158,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 4, 2022 5:22 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "technology",
         "link": "https://www.bbc.com/news/world-us-canada-61685117",
         "timestamp": 1654327906,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 4, 2022 7:31 AM"
     },
     {
@@ -248,8 +221,26 @@
         "category": "technology",
         "link": "https://nextshark.com/japanese-researchers-near-petabit-internet/",
         "timestamp": 1654329887,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 4, 2022 8:04 AM"
+    },
+    {
+        "title": "Russia blowing up bridges in Sievierodonetsk to thwart Ukrainian reinforcements -regional governor",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-blowing-up-bridges-sievierodonetsk-thwart-ukrainian-reinforcements-2022-06-04/",
+        "timestamp": 1654332870,
+        "sentiment": 0,
+        "published": "June 4, 2022 8:54 AM"
+    },
+    {
+        "title": "\"Unfortunately, Switzerland is once again blocking military aid to Ukraine...\" Swiss people, please, can you help put some pressure on your government to lift the ban on re-export to Ukraine?",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/kiraincongress/status/1532965373573746688",
+        "timestamp": 1654335151,
+        "sentiment": 5,
+        "published": "June 4, 2022 9:32 AM"
     },
     {
         "title": "Russia's failure to pay $1.9 million in accrued interest on a dollar bond will trigger payouts potentially worth billions of dollars, committee determines",
@@ -259,6 +250,51 @@
         "timestamp": 1654335772,
         "sentiment": 0,
         "published": "June 4, 2022 9:42 AM"
+    },
+    {
+        "title": "Insiders say Amazon's Consumer CEO Dave Clark was felled by a series of missteps, including warehouse overexpansion, spiraling costs, overstaffing and a union loss",
+        "domain": "archive.ph",
+        "category": "technology",
+        "link": "https://archive.ph/b4WDz",
+        "timestamp": 1654337952,
+        "sentiment": -3,
+        "published": "June 4, 2022 10:19 AM"
+    },
+    {
+        "title": "Frustration mounts in Uvalde over shifting narratives about school shooting. State senator says lack of clarity could hinder future safety measures",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/06/04/us/uvalde-texas-elementary-school-shooting-saturday/index.html",
+        "timestamp": 1654338597,
+        "sentiment": -3,
+        "published": "June 4, 2022 10:29 AM"
+    },
+    {
+        "title": "Concentrations of carbon dioxide in the atmosphere in May were 50 percent higher than during the pre-industrial era, reaching levels not seen on Earth for about four million years, the main US climate agency said on Friday",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220603-atmospheric-co2-more-than-50-percent-higher-than-pre-industrial-era",
+        "timestamp": 1654302149,
+        "sentiment": 0,
+        "published": "June 4, 2022 12:22 AM"
+    },
+    {
+        "title": "Tank-Killing German Tripwire Mines Are In Use With Ukrainian Forces",
+        "domain": "reddit.com",
+        "category": "ukraine",
+        "link": "https://www.reddit.com/gallery/v4e1s9",
+        "timestamp": 1654305992,
+        "sentiment": -5,
+        "published": "June 4, 2022 1:26 AM"
+    },
+    {
+        "title": "Air Force destroys more than 20 enemy armored vehicles",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3499415-air-force-destroys-more-than-20-enemy-armored-vehicles.html",
+        "timestamp": 1654317918,
+        "sentiment": -5,
+        "published": "June 4, 2022 4:45 AM"
     },
     {
         "title": "Looks like there is increased partisan activity in the Kherson Oblast. This could end up forcing the Russians to divert forces from the frontline, helping the Ukrainian offensive",
