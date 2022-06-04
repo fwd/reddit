@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 4, 2022 12:07 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
         "timestamp": 1654305831,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 4, 2022 1:23 AM"
+    },
+    {
+        "title": "Looks like there is increased partisan activity in the Kherson Oblast. This could end up forcing the Russians to divert forces from the frontline, helping the Ukrainian offensive",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1532897776874532865?t=PghtmDBirx0GjTR2yuLA9g&s=09",
+        "timestamp": 1654306455,
+        "sentiment": 3,
+        "published": "June 4, 2022 1:34 AM"
     },
     {
         "title": "Landmark bill to limit energy-intensive cryptomining passes New York Legislature",
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/economy/landmark-bill-to-limit-energy-intensive-cryptomining-passes-new-york-legislature",
         "timestamp": 1654306678,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 4, 2022 1:37 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 4, 2022 2:26 AM"
     },
     {
@@ -95,8 +104,17 @@
         "category": "florida",
         "link": "https://www.cbsnews.com/news/susan-poole-missing-1972-remains-identified-link-serial-killer-gerard-schaefer/",
         "timestamp": 1654309820,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 2:30 AM"
+    },
+    {
+        "title": "Poland condemns “silence in western Europe” over Russia’s deportations of Ukrainians",
+        "domain": "notesfrompoland.com",
+        "category": "worldnews",
+        "link": "https://notesfrompoland.com/2022/06/02/poland-condemns-silence-in-western-europe-over-russias-deportations-of-ukrainians/",
+        "timestamp": 1654310843,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:47 AM"
     },
     {
         "title": "Remastered Beavis and Butt-Head Episodes to Feature Original Music Videos",
@@ -108,6 +126,15 @@
         "published": "June 4, 2022 2:50 AM"
     },
     {
+        "title": "Russian officials who demanded Putin end war expelled from Communist Party",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russian-officials-demand-putin-end-war-expelled-communist-party-1711984",
+        "timestamp": 1654313718,
+        "sentiment": 0,
+        "published": "June 4, 2022 3:35 AM"
+    },
+    {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 101, Part 1 (Thread #241)",
         "domain": "reddit.com",
         "category": "worldnews",
@@ -115,6 +142,15 @@
         "timestamp": 1654315318,
         "sentiment": 0,
         "published": "June 4, 2022 4:01 AM"
+    },
+    {
+        "title": "Leaked Google audio shows employees grilling execs after the company canceled a talk about caste bias",
+        "domain": "archive.ph",
+        "category": "technology",
+        "link": "https://archive.ph/htajE",
+        "timestamp": 1654316217,
+        "sentiment": 0,
+        "published": "June 4, 2022 4:16 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
