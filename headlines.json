@@ -50,17 +50,8 @@
         "category": "ukraine",
         "link": "https://www.reddit.com/gallery/v4e1s9",
         "timestamp": 1654305992,
-        "sentiment": 3,
+        "sentiment": -5,
         "published": "June 4, 2022 1:26 AM"
-    },
-    {
-        "title": "Looks like there is increased partisan activity in the Kherson Oblast. This could end up forcing the Russians to divert forces from the frontline, helping the Ukrainian offensive",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/KyivIndependent/status/1532897776874532865?t=PghtmDBirx0GjTR2yuLA9g&s=09",
-        "timestamp": 1654306455,
-        "sentiment": 3,
-        "published": "June 4, 2022 1:34 AM"
     },
     {
         "title": "‘Love, Death + Robots’ and the Bleak Moral Message of David Fincher's “Bad Travelling”",
@@ -167,7 +158,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3499415-air-force-destroys-more-than-20-enemy-armored-vehicles.html",
         "timestamp": 1654317918,
-        "sentiment": 3,
+        "sentiment": -5,
         "published": "June 4, 2022 4:45 AM"
     },
     {
@@ -259,6 +250,24 @@
         "timestamp": 1654329887,
         "sentiment": 0,
         "published": "June 4, 2022 8:04 AM"
+    },
+    {
+        "title": "Russia's failure to pay $1.9 million in accrued interest on a dollar bond will trigger payouts potentially worth billions of dollars, committee determines",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/europe/russia-failure-pay-credit-event-investor-committee-finds-2022-06-01/",
+        "timestamp": 1654335772,
+        "sentiment": 0,
+        "published": "June 4, 2022 9:42 AM"
+    },
+    {
+        "title": "Looks like there is increased partisan activity in the Kherson Oblast. This could end up forcing the Russians to divert forces from the frontline, helping the Ukrainian offensive",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1532897776874532865?t=PghtmDBirx0GjTR2yuLA9g&s=09",
+        "timestamp": 1654306455,
+        "sentiment": 3,
+        "published": "June 4, 2022 1:34 AM"
     },
     {
         "title": "Ukraine says its troops have pushed back Russian advance in eastern city",
