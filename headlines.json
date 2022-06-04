@@ -5,17 +5,8 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 12:07 AM"
-    },
-    {
-        "title": "Concentrations of carbon dioxide in the atmosphere in May were 50 percent higher than during the pre-industrial era, reaching levels not seen on Earth for about four million years, the main US climate agency said on Friday",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/live-news/20220603-atmospheric-co2-more-than-50-percent-higher-than-pre-industrial-era",
-        "timestamp": 1654302149,
-        "sentiment": 0,
-        "published": "June 4, 2022 12:22 AM"
     },
     {
         "title": "Russian plane full of passengers seized; An arrest warrant has been issued for plane",
@@ -32,7 +23,7 @@
         "category": "technology",
         "link": "https://www.tomshardware.com/news/doom-port-released-as-bios-payload",
         "timestamp": 1654305542,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 4, 2022 1:19 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
         "timestamp": 1654305831,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 1:23 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "ukraine",
         "link": "https://www.reddit.com/gallery/v4e1s9",
         "timestamp": 1654305992,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 1:26 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1532897776874532865?t=PghtmDBirx0GjTR2yuLA9g&s=09",
         "timestamp": 1654306455,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 1:34 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "television",
         "link": "https://collider.com/love-death-robots-david-fincher-bad-travelling-bleak-moral-message/",
         "timestamp": 1654307792,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 1:56 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-set-to-study-two-strange-super-earths/",
         "timestamp": 1654308096,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 4, 2022 2:01 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 2:26 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "television",
         "link": "https://consequence.net/2022/06/beavis-butt-head-music-videos-paramount-plus/",
         "timestamp": 1654311031,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 2:50 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/grandfather-4-grandchildren-killed-escaped-texas-inmate-are-identified-rcna31861?cid=sm_npd_nn_fb_ma",
         "timestamp": 1654314810,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 3:53 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "technology",
         "link": "https://archive.ph/htajE",
         "timestamp": 1654316217,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 4, 2022 4:16 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alleged-boogaloo-extremist-sentenced-41-years-murder-federal-officer-rcna31942",
         "timestamp": 1654320158,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 5:22 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/awards/righteous-gemstones-danny-mcbride-season-3-1235218122/",
         "timestamp": 1654321202,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-joseph-quinn-eddie-black-sabbath-les-miserables-1235157889/",
         "timestamp": 1654321349,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 4, 2022 5:42 AM"
     },
     {
@@ -230,8 +221,35 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v4jnfn",
         "timestamp": 1654327250,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 7:20 AM"
+    },
+    {
+        "title": "Four neo-Nazis arrested for planning 'Jew hunt' during soccer match in France",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
+        "timestamp": 1654327569,
+        "sentiment": 0,
+        "published": "June 4, 2022 7:26 AM"
+    },
+    {
+        "title": "US shootings: Firm unveils plans for Taser-armed drones",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/world-us-canada-61685117",
+        "timestamp": 1654327906,
+        "sentiment": -1,
+        "published": "June 4, 2022 7:31 AM"
+    },
+    {
+        "title": "Concentrations of carbon dioxide in the atmosphere in May were 50 percent higher than during the pre-industrial era, reaching levels not seen on Earth for about four million years, the main US climate agency said on Friday",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220603-atmospheric-co2-more-than-50-percent-higher-than-pre-industrial-era",
+        "timestamp": 1654302149,
+        "sentiment": 0,
+        "published": "June 4, 2022 12:22 AM"
     },
     {
         "title": "Landmark bill to limit energy-intensive cryptomining passes New York Legislature",
