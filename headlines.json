@@ -18,12 +18,21 @@
         "published": "June 4, 2022 12:22 AM"
     },
     {
+        "title": "Russian plane full of passengers seized; An arrest warrant has been issued for plane",
+        "domain": "b92.net",
+        "category": "worldnews",
+        "link": "https://www.b92.net/eng/news/world.php?yyyy=2022&mm=06&dd=03&nav_id=113851",
+        "timestamp": 1654305042,
+        "sentiment": 0,
+        "published": "June 4, 2022 1:10 AM"
+    },
+    {
         "title": "The \"Doom\" Video Game Has Now Been Ported as a BIOS Update",
         "domain": "tomshardware.com",
         "category": "technology",
         "link": "https://www.tomshardware.com/news/doom-port-released-as-bios-payload",
         "timestamp": 1654305542,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 4, 2022 1:19 AM"
     },
     {
@@ -34,6 +43,42 @@
         "timestamp": 1654305831,
         "sentiment": 0,
         "published": "June 4, 2022 1:23 AM"
+    },
+    {
+        "title": "‘Love, Death + Robots’ and the Bleak Moral Message of David Fincher's “Bad Travelling”",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/love-death-robots-david-fincher-bad-travelling-bleak-moral-message/",
+        "timestamp": 1654307792,
+        "sentiment": -3,
+        "published": "June 4, 2022 1:56 AM"
+    },
+    {
+        "title": "James Webb Space Telescope Set to Study Two Strange Super-Earths",
+        "domain": "scientificamerican.com",
+        "category": "technology",
+        "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-set-to-study-two-strange-super-earths/",
+        "timestamp": 1654308096,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:01 AM"
+    },
+    {
+        "title": "N.Korea reports 79,100 more people with fever, one new death amid COVID wave",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/nkorea-reports-79100-more-people-with-fever-one-new-death-amid-covid-wave-2022-06-03/",
+        "timestamp": 1654309441,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:24 AM"
+    },
+    {
+        "title": "Nearly half of families with kids can no longer afford enough food 5 months after child tax credit ended",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
+        "timestamp": 1654309609,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:26 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
