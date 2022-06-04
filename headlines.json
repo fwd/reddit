@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 12:07 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
         "timestamp": 1654305831,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 1:23 AM"
+    },
+    {
+        "title": "Landmark bill to limit energy-intensive cryptomining passes New York Legislature",
+        "domain": "pbs.org",
+        "category": "news",
+        "link": "https://www.pbs.org/newshour/economy/landmark-bill-to-limit-energy-intensive-cryptomining-passes-new-york-legislature",
+        "timestamp": 1654306678,
+        "sentiment": 2,
+        "published": "June 4, 2022 1:37 AM"
     },
     {
         "title": "‘Love, Death + Robots’ and the Bleak Moral Message of David Fincher's “Bad Travelling”",
@@ -77,8 +86,35 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 2:26 AM"
+    },
+    {
+        "title": "DNA identifies remains of Florida teen who disappeared in 1972. Detectives now say she may have been killed by a serial killer cop.",
+        "domain": "cbsnews.com",
+        "category": "florida",
+        "link": "https://www.cbsnews.com/news/susan-poole-missing-1972-remains-identified-link-serial-killer-gerard-schaefer/",
+        "timestamp": 1654309820,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:30 AM"
+    },
+    {
+        "title": "Remastered Beavis and Butt-Head Episodes to Feature Original Music Videos",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/2022/06/beavis-butt-head-music-videos-paramount-plus/",
+        "timestamp": 1654311031,
+        "sentiment": -3,
+        "published": "June 4, 2022 2:50 AM"
+    },
+    {
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 101, Part 1 (Thread #241)",
+        "domain": "reddit.com",
+        "category": "worldnews",
+        "link": "https://www.reddit.com/live/18hnzysb1elcs",
+        "timestamp": 1654315318,
+        "sentiment": 0,
+        "published": "June 4, 2022 4:01 AM"
     },
     {
         "title": "'The Wire' 20th Anniversary: Michael K. Williams Remains a Titan Of Television",
