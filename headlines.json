@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654315318,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 4:01 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "florida",
         "link": "https://www.pbs.org/newshour/nation/special-olympics-drops-vaccine-mandate-after-florida-threatens-27-million-fine",
         "timestamp": 1654321210,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/ukraine-signs-deal-westinghouse-end-110151253.html",
         "timestamp": 1654323403,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 6:16 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
         "timestamp": 1654327569,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 7:26 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/markets/europe/russia-failure-pay-credit-event-investor-committee-finds-2022-06-01/",
         "timestamp": 1654335772,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 9:42 AM"
     },
     {
@@ -171,15 +171,6 @@
         "published": "June 4, 2022 12:59 PM"
     },
     {
-        "title": "Marriott suspends operations in Russia over Ukraine invasion",
-        "domain": "axios.com",
-        "category": "worldnews",
-        "link": "https://www.axios.com/2022/06/04/marriott-ends-operations-russia-ukraine-invasion",
-        "timestamp": 1654348858,
-        "sentiment": -1,
-        "published": "June 4, 2022 1:20 PM"
-    },
-    {
         "title": "Michael J. Fox says Parkinson's disease has changed the kind of roles he takes",
         "domain": "cnn.com",
         "category": "television",
@@ -203,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.investing.com/news/stock-market-news/congo-auditor-says-400-million-went-missing-from-state-mining-company-2833518",
         "timestamp": 1654351909,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 2:11 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/03/french-police-find-machine-gun-arsenal-after-arresting-neo-nazi-suspects-in-alsace",
         "timestamp": 1654353241,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 2:34 PM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/world-news/india-ukraine-war-ukraine-slams-frances-macron-for-russia-not-to-be-humiliated-remark-3038593",
         "timestamp": 1654356793,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 3:33 PM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/04/hundreds-gather-in-taiwan-to-mark-tiananmen-square-anniversary",
         "timestamp": 1654360638,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 4:37 PM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-61679435",
         "timestamp": 1654360851,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 4:40 PM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-ukraine-war-is-killing-dolphins-in-black-sea-scientists-warn-2022-6",
         "timestamp": 1654365015,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 4, 2022 5:50 PM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/florida-politics/2022/06/04/top-lawmakers-passed-desantis-priorities-it-didnt-save-their-tampa-bay-projects/",
         "timestamp": 1654370568,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 4, 2022 7:22 PM"
     },
     {
@@ -405,22 +396,31 @@
         "published": "June 4, 2022 7:47 PM"
     },
     {
-        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587",
-        "timestamp": 1654373374,
-        "sentiment": -3,
-        "published": "June 4, 2022 8:09 PM"
-    },
-    {
         "title": "DeSantis blocks state money for Tampa Bay Rays training facility after team tweets against gun violence",
         "domain": "cnn.com",
         "category": "florida",
         "link": "https://www.cnn.com/2022/06/03/politics/ron-desantis-tampa-bay-rays-gun-violence/index.html",
         "timestamp": 1654373641,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 4, 2022 8:14 PM"
+    },
+    {
+        "title": "Russian TV journalist and Kremlin critic Alexander Nevzorov has been granted Ukrainian citizenship for “outstanding service to the country.” Russian authorities sentenced Nevzorov to arrest in absentia in May after he criticized Russia's March 9 shelling of a Mariupol maternity hospital",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/06/03/russian-journalist-kremlin-critic-granted-ukrainian-citizenship-a77887",
+        "timestamp": 1654374066,
+        "sentiment": -7,
+        "published": "June 4, 2022 8:21 PM"
+    },
+    {
+        "title": "‘I hope I hit one of them kids’: Woman fires shots into home with children inside, records show",
+        "domain": "fox13memphis.com",
+        "category": "news",
+        "link": "https://www.fox13memphis.com/news/local/i-hope-i-hit-one-them-kids-woman-fires-shots-into-home-with-children-inside-records-show/QK4NSODQWVEKRIHI56QMBMRJTE/",
+        "timestamp": 1654374379,
+        "sentiment": -3,
+        "published": "June 4, 2022 8:26 PM"
     },
     {
         "title": "Tampa Bay hospital offers to discharge alleged malpractice victim’s bills in exchange for silence, daughter says.",
@@ -428,8 +428,26 @@
         "category": "florida",
         "link": "https://www.wfla.com/8-on-your-side/tampa-bay-hospital-offers-to-discharge-malpractice-victims-bills-in-exchange-for-silence-daughter-says/",
         "timestamp": 1654376602,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 4, 2022 9:03 PM"
+    },
+    {
+        "title": "Marriott suspends operations in Russia over Ukraine invasion",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/2022/06/04/marriott-ends-operations-russia-ukraine-invasion",
+        "timestamp": 1654348858,
+        "sentiment": -1,
+        "published": "June 4, 2022 1:20 PM"
+    },
+    {
+        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587",
+        "timestamp": 1654373374,
+        "sentiment": -3,
+        "published": "June 4, 2022 8:09 PM"
     },
     {
         "title": "Human remains found 50 years ago in Florida are finally identified through DNA testing",
