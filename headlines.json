@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
         "timestamp": 1654301275,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 12:07 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/03/us/florida-susan-poole-remains-identified/index.html",
         "timestamp": 1654305831,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 1:23 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://collider.com/love-death-robots-david-fincher-bad-travelling-bleak-moral-message/",
         "timestamp": 1654307792,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 1:56 AM"
     },
     {
@@ -54,31 +54,13 @@
         "published": "June 4, 2022 2:01 AM"
     },
     {
-        "title": "N.Korea reports 79,100 more people with fever, one new death amid COVID wave",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/asia-pacific/nkorea-reports-79100-more-people-with-fever-one-new-death-amid-covid-wave-2022-06-03/",
-        "timestamp": 1654309441,
-        "sentiment": -2,
-        "published": "June 4, 2022 2:24 AM"
-    },
-    {
         "title": "Nearly half of families with kids can no longer afford enough food 5 months after child tax credit ended",
         "domain": "cnbc.com",
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 2:26 AM"
-    },
-    {
-        "title": "DNA identifies remains of Florida teen who disappeared in 1972. Detectives now say she may have been killed by a serial killer cop.",
-        "domain": "cbsnews.com",
-        "category": "florida",
-        "link": "https://www.cbsnews.com/news/susan-poole-missing-1972-remains-identified-link-serial-killer-gerard-schaefer/",
-        "timestamp": 1654309820,
-        "sentiment": -4,
-        "published": "June 4, 2022 2:30 AM"
     },
     {
         "title": "Poland condemns “silence in western Europe” over Russia’s deportations of Ukrainians",
@@ -88,24 +70,6 @@
         "timestamp": 1654310843,
         "sentiment": -2,
         "published": "June 4, 2022 2:47 AM"
-    },
-    {
-        "title": "Remastered Beavis and Butt-Head Episodes to Feature Original Music Videos",
-        "domain": "consequence.net",
-        "category": "television",
-        "link": "https://consequence.net/2022/06/beavis-butt-head-music-videos-paramount-plus/",
-        "timestamp": 1654311031,
-        "sentiment": 0,
-        "published": "June 4, 2022 2:50 AM"
-    },
-    {
-        "title": "Grandfather, 4 grandchildren killed by escaped Texas inmate are identified",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/grandfather-4-grandchildren-killed-escaped-texas-inmate-are-identified-rcna31861?cid=sm_npd_nn_fb_ma",
-        "timestamp": 1654314810,
-        "sentiment": -3,
-        "published": "June 4, 2022 3:53 AM"
     },
     {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 101, Part 1 (Thread #241)",
@@ -122,7 +86,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alleged-boogaloo-extremist-sentenced-41-years-murder-federal-officer-rcna31942",
         "timestamp": 1654320158,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 5:22 AM"
     },
     {
@@ -131,7 +95,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/awards/righteous-gemstones-danny-mcbride-season-3-1235218122/",
         "timestamp": 1654321202,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -140,7 +104,7 @@
         "category": "florida",
         "link": "https://www.pbs.org/newshour/nation/special-olympics-drops-vaccine-mandate-after-florida-threatens-27-million-fine",
         "timestamp": 1654321210,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -149,7 +113,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-joseph-quinn-eddie-black-sabbath-les-miserables-1235157889/",
         "timestamp": 1654321349,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 5:42 AM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/kiraincongress/status/1532965373573746688",
         "timestamp": 1654335151,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 9:32 AM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3499664-ukraine-forces-wipe-out-almost-entire-35th-allrussian-army-in-izium-yermak.html",
         "timestamp": 1654343035,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 11:43 AM"
     },
     {
@@ -248,8 +212,17 @@
         "category": "florida",
         "link": "https://www.baynews9.com/fl/tampa/news/2022/06/03/john-s-pass-sand-dredge",
         "timestamp": 1654344395,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 4, 2022 12:06 PM"
+    },
+    {
+        "title": "Federal Funds May Be Used to Raze Uvalde's Robb Elementary After Massacre",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/local/texas-news/federal-funds-may-be-used-to-raze-uvaldes-robb-elementary-after-massacre/2981366/",
+        "timestamp": 1654346055,
+        "sentiment": 0,
+        "published": "June 4, 2022 12:34 PM"
     },
     {
         "title": "Tiananmen anniversary: US hails the ‘brave’ 33 years on as Hong Kong warns against gatherings",
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/04/tiananmen-anniversary-us-hails-the-brave-33-years-on-as-hong-kong-warns-against-gatherings",
         "timestamp": 1654347560,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 4, 2022 12:59 PM"
     },
     {
@@ -270,13 +243,13 @@
         "published": "June 4, 2022 1:20 PM"
     },
     {
-        "title": "Car tyres produce vastly more particle pollution than exhausts, tests show",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/environment/2022/jun/03/car-tyres-produce-more-particle-pollution-than-exhausts-tests-show",
-        "timestamp": 1654349171,
+        "title": "Pinellas residents rally to save Klosterman Road parcel after DeSantis veto",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/pinellas/2022/06/04/pinellas-residents-rally-to-save-klosterman-road-parcel-after-desantis-veto/",
+        "timestamp": 1654349091,
         "sentiment": 0,
-        "published": "June 4, 2022 1:26 PM"
+        "published": "June 4, 2022 1:24 PM"
     },
     {
         "title": "Michael J. Fox says Parkinson's disease has changed the kind of roles he takes",
@@ -284,7 +257,7 @@
         "category": "television",
         "link": "https://www.cnn.com/2022/06/03/entertainment/michael-j-fox-parkinsons/index.html",
         "timestamp": 1654349454,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 1:30 PM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/884620/hbo-will-only-pursue-more-game-of-throne-spin-offs-if-creative-exciting-concepts-come-up-atx/",
         "timestamp": 1654351147,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 1:59 PM"
     },
     {
@@ -333,12 +306,21 @@
         "published": "June 4, 2022 2:11 PM"
     },
     {
+        "title": "Hong Kong police make multiple arrests as Tiananmen gatherings banned",
+        "domain": "rfi.fr",
+        "category": "news",
+        "link": "https://www.rfi.fr/en/hong-kong-police-make-multiple-arrests-as-tiananmen-gatherings-banned",
+        "timestamp": 1654352487,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:21 PM"
+    },
+    {
         "title": "Guy Pearce Is Latest Star To Return To ‘Neighbours’ For Australian Soap Finale - Pearce will join a list of stars including Kylie Minogue and Jason Donovan appearing in the show after absences of several decades to mark its final farewell",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/06/guy-pearce-neighbours-australian-tv-soap-final-episode-cast-1235038343/",
         "timestamp": 1654352858,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 4, 2022 2:27 PM"
     },
     {
@@ -349,6 +331,15 @@
         "timestamp": 1654353241,
         "sentiment": -2,
         "published": "June 4, 2022 2:34 PM"
+    },
+    {
+        "title": "Dmytro Kuleba: Calls to avoid humiliation of Russia can only humiliate France and every other country that would call for it. Because it is Russia that humiliates itself. We all better focus on how to put Russia in its place. This will bring peace and save lives.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/DmytroKuleba/status/1533073469570789377?s=20&t=FxZsvtVVJAsF-f_RiakUhQ",
+        "timestamp": 1654354053,
+        "sentiment": 2,
+        "published": "June 4, 2022 2:47 PM"
     },
     {
         "title": "Elon Musk’s Plan to Send a Million Colonists to Mars by 2050 Is Pure Delusion",
@@ -367,6 +358,78 @@
         "timestamp": 1654356630,
         "sentiment": 0,
         "published": "June 4, 2022 3:30 PM"
+    },
+    {
+        "title": "Ukraine Slams France's Macron For \"Russia Not To Be Humiliated\" Remark",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/world-news/india-ukraine-war-ukraine-slams-frances-macron-for-russia-not-to-be-humiliated-remark-3038593",
+        "timestamp": 1654356793,
+        "sentiment": -2,
+        "published": "June 4, 2022 3:33 PM"
+    },
+    {
+        "title": "France: Four neo-Nazis arrested for planning 'Jew hunt' during soccer match",
+        "domain": "jpost.com",
+        "category": "news",
+        "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
+        "timestamp": 1654357301,
+        "sentiment": 0,
+        "published": "June 4, 2022 3:41 PM"
+    },
+    {
+        "title": "Google scrapped a talk on caste bias because some employees felt it was “anti Hindu”",
+        "domain": "qz.com",
+        "category": "technology",
+        "link": "https://qz.com/india/2172954/google-scrapped-a-talk-on-caste-bias-for-being-too-divisive/",
+        "timestamp": 1654360274,
+        "sentiment": 0,
+        "published": "June 4, 2022 4:31 PM"
+    },
+    {
+        "title": "N.Korea reports 79,100 more people with fever, one new death amid COVID wave",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/asia-pacific/nkorea-reports-79100-more-people-with-fever-one-new-death-amid-covid-wave-2022-06-03/",
+        "timestamp": 1654309441,
+        "sentiment": -2,
+        "published": "June 4, 2022 2:24 AM"
+    },
+    {
+        "title": "DNA identifies remains of Florida teen who disappeared in 1972. Detectives now say she may have been killed by a serial killer cop.",
+        "domain": "cbsnews.com",
+        "category": "florida",
+        "link": "https://www.cbsnews.com/news/susan-poole-missing-1972-remains-identified-link-serial-killer-gerard-schaefer/",
+        "timestamp": 1654309820,
+        "sentiment": -4,
+        "published": "June 4, 2022 2:30 AM"
+    },
+    {
+        "title": "Remastered Beavis and Butt-Head Episodes to Feature Original Music Videos",
+        "domain": "consequence.net",
+        "category": "television",
+        "link": "https://consequence.net/2022/06/beavis-butt-head-music-videos-paramount-plus/",
+        "timestamp": 1654311031,
+        "sentiment": 0,
+        "published": "June 4, 2022 2:50 AM"
+    },
+    {
+        "title": "Grandfather, 4 grandchildren killed by escaped Texas inmate are identified",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/grandfather-4-grandchildren-killed-escaped-texas-inmate-are-identified-rcna31861?cid=sm_npd_nn_fb_ma",
+        "timestamp": 1654314810,
+        "sentiment": -3,
+        "published": "June 4, 2022 3:53 AM"
+    },
+    {
+        "title": "Car tyres produce vastly more particle pollution than exhausts, tests show",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/environment/2022/jun/03/car-tyres-produce-more-particle-pollution-than-exhausts-tests-show",
+        "timestamp": 1654349171,
+        "sentiment": 0,
+        "published": "June 4, 2022 1:26 PM"
     },
     {
         "title": "Concentrations of carbon dioxide in the atmosphere in May were 50 percent higher than during the pre-industrial era, reaching levels not seen on Earth for about four million years, the main US climate agency said on Friday",
@@ -394,15 +457,6 @@
         "timestamp": 1654318942,
         "sentiment": 1,
         "published": "June 4, 2022 5:02 AM"
-    },
-    {
-        "title": "Pinellas residents rally to save Klosterman Road parcel after DeSantis veto",
-        "domain": "tampabay.com",
-        "category": "florida",
-        "link": "https://www.tampabay.com/news/pinellas/2022/06/04/pinellas-residents-rally-to-save-klosterman-road-parcel-after-desantis-veto/",
-        "timestamp": 1654349091,
-        "sentiment": 2,
-        "published": "June 4, 2022 1:24 PM"
     },
     {
         "title": "Leaked Google audio shows employees grilling execs after the company canceled a talk about caste bias",
