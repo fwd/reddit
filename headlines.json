@@ -1,14 +1,5 @@
 [
     {
-        "title": "Doc Antle, Myrtle Beach Safari owner featured in Netflix documentary \"Tiger King\", arrested by FBI",
-        "domain": "wmbfnews.com",
-        "category": "news",
-        "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
-        "timestamp": 1654301275,
-        "sentiment": -3,
-        "published": "June 4, 2022 12:07 AM"
-    },
-    {
         "title": "The \"Doom\" Video Game Has Now Been Ported as a BIOS Update",
         "domain": "tomshardware.com",
         "category": "technology",
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://collider.com/love-death-robots-david-fincher-bad-travelling-bleak-moral-message/",
         "timestamp": 1654307792,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 1:56 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/03/48-percent-of-families-cant-afford-enough-food-without-child-tax-credit.html",
         "timestamp": 1654309609,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 2:26 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654315318,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 4:01 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/alleged-boogaloo-extremist-sentenced-41-years-murder-federal-officer-rcna31942",
         "timestamp": 1654320158,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 5:22 AM"
     },
     {
@@ -68,16 +59,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/awards/righteous-gemstones-danny-mcbride-season-3-1235218122/",
         "timestamp": 1654321202,
-        "sentiment": -1,
-        "published": "June 4, 2022 5:40 AM"
-    },
-    {
-        "title": "Special Olympics drops vaccine mandate after Florida threatens $27 million fine",
-        "domain": "pbs.org",
-        "category": "florida",
-        "link": "https://www.pbs.org/newshour/nation/special-olympics-drops-vaccine-mandate-after-florida-threatens-27-million-fine",
-        "timestamp": 1654321210,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 4, 2022 5:40 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-joseph-quinn-eddie-black-sabbath-les-miserables-1235157889/",
         "timestamp": 1654321349,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 5:42 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/ukraine-signs-deal-westinghouse-end-110151253.html",
         "timestamp": 1654323403,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 6:16 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
         "timestamp": 1654327569,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 7:26 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/markets/europe/russia-failure-pay-credit-event-investor-committee-finds-2022-06-01/",
         "timestamp": 1654335772,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 9:42 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/04/tiananmen-anniversary-us-hails-the-brave-33-years-on-as-hong-kong-warns-against-gatherings",
         "timestamp": 1654347560,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 12:59 PM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "television",
         "link": "https://www.cnn.com/2022/06/03/entertainment/michael-j-fox-parkinsons/index.html",
         "timestamp": 1654349454,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 1:30 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/884620/hbo-will-only-pursue-more-game-of-throne-spin-offs-if-creative-exciting-concepts-come-up-atx/",
         "timestamp": 1654351147,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 1:59 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.investing.com/news/stock-market-news/congo-auditor-says-400-million-went-missing-from-state-mining-company-2833518",
         "timestamp": 1654351909,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 2:11 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.rfi.fr/en/hong-kong-police-make-multiple-arrests-as-tiananmen-gatherings-banned",
         "timestamp": 1654352487,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 2:21 PM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/guy-pearce-neighbours-australian-tv-soap-final-episode-cast-1235038343/",
         "timestamp": 1654352858,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 2:27 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/03/french-police-find-machine-gun-arsenal-after-arresting-neo-nazi-suspects-in-alsace",
         "timestamp": 1654353241,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 2:34 PM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/world-news/india-ukraine-war-ukraine-slams-frances-macron-for-russia-not-to-be-humiliated-remark-3038593",
         "timestamp": 1654356793,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 3:33 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "news",
         "link": "https://www.jpost.com/diaspora/antisemitism/article-708550",
         "timestamp": 1654357301,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 3:41 PM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/man-faked-death-85-years-sexual-assault-teen-85165011",
         "timestamp": 1654358382,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 3:59 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/6/4/fighting-rages-in-two-key-eastern-ukrainian-cities",
         "timestamp": 1654359773,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 4:22 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "television",
         "link": "https://www.greenbaypressgazette.com/story/entertainment/television/2022/05/31/tony-shalhoub-talks-monk-his-hometown-during-green-bay-visit/9960547002/",
         "timestamp": 1654360237,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 4:30 PM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/04/hundreds-gather-in-taiwan-to-mark-tiananmen-square-anniversary",
         "timestamp": 1654360638,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 4:37 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-china-61679435",
         "timestamp": 1654360851,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 4:40 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/real-estate/real-estate-agents-got-39-billion-covid-relief-ppp-loans-housing-marke-rcna26947",
         "timestamp": 1654361717,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 4:55 PM"
     },
     {
@@ -347,8 +329,17 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russia-ukraine-war-is-killing-dolphins-in-black-sea-scientists-warn-2022-6",
         "timestamp": 1654365015,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 5:50 PM"
+    },
+    {
+        "title": "‘This Is Us’ Says Goodbye: How a Drama That’s Original Pilot Script Wasn’t Written for Network Standards Changed Broadcast",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/awards/news/this-is-us-finale-broadcast-pilot-script-changes-emmys-1235282801/",
+        "timestamp": 1654365891,
+        "sentiment": 2,
+        "published": "June 4, 2022 6:04 PM"
     },
     {
         "title": "Electric Vehicles are measurably reducing global oil demand; by 1.5 million barrels a dayLEVA-EU",
@@ -374,7 +365,7 @@
         "category": "television",
         "link": "https://www.whats-on-netflix.com/news/the-midnight-gospel-canceled-at-netflix-wont-be-returning-for-season-2/",
         "timestamp": 1654367020,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 4, 2022 6:23 PM"
     },
     {
@@ -396,13 +387,13 @@
         "published": "June 4, 2022 7:47 PM"
     },
     {
-        "title": "DeSantis blocks state money for Tampa Bay Rays training facility after team tweets against gun violence",
-        "domain": "cnn.com",
-        "category": "florida",
-        "link": "https://www.cnn.com/2022/06/03/politics/ron-desantis-tampa-bay-rays-gun-violence/index.html",
-        "timestamp": 1654373641,
-        "sentiment": 0,
-        "published": "June 4, 2022 8:14 PM"
+        "title": "Astroworld Victims’ Attorneys Now Say Over 4,900 People Were Injured",
+        "domain": "billboard.com",
+        "category": "news",
+        "link": "https://www.billboard.com/business/legal/astroworld-lawsuit-injured-number-victims-1235069402/",
+        "timestamp": 1654372420,
+        "sentiment": -2,
+        "published": "June 4, 2022 7:53 PM"
     },
     {
         "title": "Russian TV journalist and Kremlin critic Alexander Nevzorov has been granted Ukrainian citizenship for “outstanding service to the country.” Russian authorities sentenced Nevzorov to arrest in absentia in May after he criticized Russia's March 9 shelling of a Mariupol maternity hospital",
@@ -410,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/03/russian-journalist-kremlin-critic-granted-ukrainian-citizenship-a77887",
         "timestamp": 1654374066,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 4, 2022 8:21 PM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "news",
         "link": "https://www.fox13memphis.com/news/local/i-hope-i-hit-one-them-kids-woman-fires-shots-into-home-with-children-inside-records-show/QK4NSODQWVEKRIHI56QMBMRJTE/",
         "timestamp": 1654374379,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 4, 2022 8:26 PM"
     },
     {
@@ -430,6 +421,33 @@
         "timestamp": 1654376602,
         "sentiment": 0,
         "published": "June 4, 2022 9:03 PM"
+    },
+    {
+        "title": "Doc Antle, Myrtle Beach Safari owner featured in Netflix documentary \"Tiger King\", arrested by FBI",
+        "domain": "wmbfnews.com",
+        "category": "news",
+        "link": "https://www.wmbfnews.com/2022/06/03/doc-antle-myrtle-beach-safari-owner-arrested-by-fbi/",
+        "timestamp": 1654301275,
+        "sentiment": -3,
+        "published": "June 4, 2022 12:07 AM"
+    },
+    {
+        "title": "Special Olympics drops vaccine mandate after Florida threatens $27 million fine",
+        "domain": "pbs.org",
+        "category": "florida",
+        "link": "https://www.pbs.org/newshour/nation/special-olympics-drops-vaccine-mandate-after-florida-threatens-27-million-fine",
+        "timestamp": 1654321210,
+        "sentiment": 0,
+        "published": "June 4, 2022 5:40 AM"
+    },
+    {
+        "title": "DeSantis blocks state money for Tampa Bay Rays training facility after team tweets against gun violence",
+        "domain": "cnn.com",
+        "category": "florida",
+        "link": "https://www.cnn.com/2022/06/03/politics/ron-desantis-tampa-bay-rays-gun-violence/index.html",
+        "timestamp": 1654373641,
+        "sentiment": 0,
+        "published": "June 4, 2022 8:14 PM"
     },
     {
         "title": "Marriott suspends operations in Russia over Ukraine invasion",
