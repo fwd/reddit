@@ -1,14 +1,5 @@
 [
     {
-        "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
-        "domain": "kvia.com",
-        "category": "news",
-        "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
-        "timestamp": 1654389517,
-        "sentiment": -1,
-        "published": "June 5, 2022 12:38 AM"
-    },
-    {
         "title": "‘Westworld’: James Marsden Returns for Season 4",
         "domain": "deadline.com",
         "category": "television",
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
         "timestamp": 1654407393,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 5:36 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
         "timestamp": 1654422105,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 9:41 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "florida",
         "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
         "timestamp": 1654428295,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 5, 2022 11:24 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
         "timestamp": 1654428889,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 11:34 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "florida",
         "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
         "timestamp": 1654429560,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 5, 2022 11:46 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
         "timestamp": 1654433267,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 5, 2022 12:47 PM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
         "timestamp": 1654433648,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 12:54 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
         "timestamp": 1654434902,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 5, 2022 1:15 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
         "timestamp": 1654436990,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 5, 2022 1:49 PM"
     },
     {
@@ -239,17 +230,8 @@
         "category": "technology",
         "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
         "timestamp": 1654441217,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 3:00 PM"
-    },
-    {
-        "title": "Rare albino Galapagos giant tortoise faces the world",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/business/environment/rare-albino-galapagos-giant-tortoise-faces-world-2022-06-03/",
-        "timestamp": 1654441923,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:12 PM"
     },
     {
         "title": "Microsoft Aims To Win The Race To Build A New Kind Of Computer. So Does Amazon.",
@@ -257,7 +239,7 @@
         "category": "technology",
         "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
         "timestamp": 1654443338,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 3:35 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments",
         "timestamp": 1654447105,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 4:38 PM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "technology",
         "link": "https://spectrum.ieee.org/amp/xerox-parc-2657304064",
         "timestamp": 1654451290,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 5:48 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "technology",
         "link": "https://www.datacenterdynamics.com/en/news/yandex-ceo-arkady-volozh-resigns-after-facing-eu-sanctions/",
         "timestamp": 1654457085,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "June 5, 2022 7:24 PM"
     },
     {
@@ -430,6 +412,69 @@
         "timestamp": 1654457227,
         "sentiment": -1,
         "published": "June 5, 2022 7:27 PM"
+    },
+    {
+        "title": "Fort Barrancas",
+        "domain": "reddit.com",
+        "category": "florida",
+        "link": "https://www.reddit.com/gallery/v5kzeh",
+        "timestamp": 1654458338,
+        "sentiment": 0,
+        "published": "June 5, 2022 7:45 PM"
+    },
+    {
+        "title": "Scientists urge the world to wake up as yet another dire climate record is broken carbon dioxide measured at NOAA 421 parts per million in May.",
+        "domain": "thecanary.co",
+        "category": "worldnews",
+        "link": "https://www.thecanary.co/trending/2022/06/05/scientists-urge-the-world-to-wake-up-as-yet-another-dire-climate-record-is-broken/",
+        "timestamp": 1654460002,
+        "sentiment": 0,
+        "published": "June 5, 2022 8:13 PM"
+    },
+    {
+        "title": "'I'm not going to help you:' Man drowned in Tempe Town Lake as police watched, transcripts reveal",
+        "domain": "fox10phoenix.com",
+        "category": "news",
+        "link": "https://www.fox10phoenix.com/news/man-dead-after-jumping-into-tempe-town-lake-police-say",
+        "timestamp": 1654462930,
+        "sentiment": -1,
+        "published": "June 5, 2022 9:02 PM"
+    },
+    {
+        "title": "Scientists develop a 'fabric' that turns body movement into electricity",
+        "domain": "sciencedaily.com",
+        "category": "technology",
+        "link": "https://www.sciencedaily.com/releases/2022/06/220603100146.htm",
+        "timestamp": 1654463231,
+        "sentiment": 6,
+        "published": "June 5, 2022 9:07 PM"
+    },
+    {
+        "title": "As promised- pics of the blue land crabs that infiltrate my yard during the season. I counted 20 people out there today hunting. They only have until June 30th and then hunting them is illegal.",
+        "domain": "reddit.com",
+        "category": "miami",
+        "link": "https://www.reddit.com/gallery/v5o0nm",
+        "timestamp": 1654467401,
+        "sentiment": 0,
+        "published": "June 5, 2022 10:16 PM"
+    },
+    {
+        "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
+        "domain": "kvia.com",
+        "category": "news",
+        "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
+        "timestamp": 1654389517,
+        "sentiment": -1,
+        "published": "June 5, 2022 12:38 AM"
+    },
+    {
+        "title": "Rare albino Galapagos giant tortoise faces the world",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/environment/rare-albino-galapagos-giant-tortoise-faces-world-2022-06-03/",
+        "timestamp": 1654441923,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:12 PM"
     },
     {
         "title": "Frederick Co. school board candidate removes LGBTQ books from library by checking them out",
