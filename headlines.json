@@ -18,21 +18,12 @@
         "published": "June 5, 2022 12:10 AM"
     },
     {
-        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
-        "domain": "us.yahoo.com",
-        "category": "worldnews",
-        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
-        "timestamp": 1654387886,
-        "sentiment": 4,
-        "published": "June 5, 2022 12:11 AM"
-    },
-    {
         "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
         "domain": "kvia.com",
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -50,8 +41,17 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 1:32 AM"
+    },
+    {
+        "title": "Hundreds turn out for Taipei Tiananmen Square vigil",
+        "domain": "focustaiwan.tw",
+        "category": "worldnews",
+        "link": "https://focustaiwan.tw/cross-strait/202206040019",
+        "timestamp": 1654393179,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:39 AM"
     },
     {
         "title": "Zelensky Aide Claims Big Win in Kherson, Russians Caught With 'Pants Down'",
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelensky-aide-claims-big-win-in-kherson-russians-caught-with-pants-down/ar-AAY1KOP?cvid=321f6a23c8b9492cad264265496e1c56",
         "timestamp": 1654394705,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 2:05 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 3:06 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
         "timestamp": 1654398696,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 3:11 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
         "timestamp": 1654400204,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 3:36 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -158,8 +158,17 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 4:56 AM"
+    },
+    {
+        "title": "Ukraine's children endure levels of suffering \"not seen since\" WWII: UNICEF",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukraines-children-endure-levels-suffering-not-seen-since-wwii-unicef-1712882",
+        "timestamp": 1654406247,
+        "sentiment": 0,
+        "published": "June 5, 2022 5:17 AM"
     },
     {
         "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
@@ -178,6 +187,15 @@
         "timestamp": 1654407969,
         "sentiment": -2,
         "published": "June 5, 2022 5:46 AM"
+    },
+    {
+        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
+        "domain": "us.yahoo.com",
+        "category": "worldnews",
+        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
+        "timestamp": 1654387886,
+        "sentiment": 4,
+        "published": "June 5, 2022 12:11 AM"
     },
     {
         "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
