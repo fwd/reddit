@@ -5,7 +5,7 @@
         "category": "ukraine",
         "link": "https://www.abc.net.au/news/2022-06-05/belarus-opposition-sabotages-russia-in-ukraine-plans-revolution/101072484",
         "timestamp": 1654387649,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 5, 2022 12:07 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 1:00 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "technology",
         "link": "https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think",
         "timestamp": 1654391626,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 1:13 AM"
     },
     {
@@ -59,8 +59,53 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 5, 2022 1:32 AM"
+    },
+    {
+        "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/justified-creatives-look-back-at-the-magic-behind-hit-fx-series-atx-1235038471/",
+        "timestamp": 1654395630,
+        "sentiment": 0,
+        "published": "June 5, 2022 2:20 AM"
+    },
+    {
+        "title": "Pain at the pump: Gas costs nearly $10 a gallon at this California station",
+        "domain": "fox5ny.com",
+        "category": "news",
+        "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
+        "timestamp": 1654398379,
+        "sentiment": -5,
+        "published": "June 5, 2022 3:06 AM"
+    },
+    {
+        "title": "Canada handgun sales soar after Trudeau proposes freeze",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
+        "timestamp": 1654398696,
+        "sentiment": 4,
+        "published": "June 5, 2022 3:11 AM"
+    },
+    {
+        "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
+        "timestamp": 1654398749,
+        "sentiment": 4,
+        "published": "June 5, 2022 3:12 AM"
+    },
+    {
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
+        "domain": "reddit.com",
+        "category": "worldnews",
+        "link": "https://www.reddit.com/live/18hnzysb1elcs",
+        "timestamp": 1654401702,
+        "sentiment": 4,
+        "published": "June 5, 2022 4:01 AM"
     },
     {
         "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
@@ -70,33 +115,6 @@
         "timestamp": 1654392952,
         "sentiment": 0,
         "published": "June 5, 2022 1:35 AM"
-    },
-    {
-        "title": "Pain at the pump: Gas costs nearly $10 a gallon at this California station",
-        "domain": "fox5ny.com",
-        "category": "news",
-        "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
-        "timestamp": 1654398379,
-        "sentiment": -2,
-        "published": "June 5, 2022 3:06 AM"
-    },
-    {
-        "title": "Canada handgun sales soar after Trudeau proposes freeze",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
-        "timestamp": 1654398696,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:11 AM"
-    },
-    {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
-        "domain": "reddit.com",
-        "category": "worldnews",
-        "link": "https://www.reddit.com/live/18hnzysb1elcs",
-        "timestamp": 1654401702,
-        "sentiment": 0,
-        "published": "June 5, 2022 4:01 AM"
     },
     {
         "title": "The \"Doom\" Video Game Has Now Been Ported as a BIOS Update",
