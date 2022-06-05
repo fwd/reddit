@@ -5,7 +5,7 @@
         "category": "ukraine",
         "link": "https://www.abc.net.au/news/2022-06-05/belarus-opposition-sabotages-russia-in-ukraine-plans-revolution/101072484",
         "timestamp": 1654387649,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 12:07 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -54,22 +54,13 @@
         "published": "June 5, 2022 1:32 AM"
     },
     {
-        "title": "Hundreds turn out for Taipei Tiananmen Square vigil",
-        "domain": "focustaiwan.tw",
+        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
+        "domain": "english.kyodonews.net",
         "category": "worldnews",
-        "link": "https://focustaiwan.tw/cross-strait/202206040019",
-        "timestamp": 1654393179,
-        "sentiment": 4,
-        "published": "June 5, 2022 1:39 AM"
-    },
-    {
-        "title": "Zelensky Aide Claims Big Win in Kherson, Russians Caught With 'Pants Down'",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/zelensky-aide-claims-big-win-in-kherson-russians-caught-with-pants-down/ar-AAY1KOP?cvid=321f6a23c8b9492cad264265496e1c56",
-        "timestamp": 1654394705,
-        "sentiment": 4,
-        "published": "June 5, 2022 2:05 AM"
+        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
+        "timestamp": 1654392952,
+        "sentiment": -3,
+        "published": "June 5, 2022 1:35 AM"
     },
     {
         "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "ukraine",
         "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
         "timestamp": 1654400633,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 3:43 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
         "timestamp": 1654401876,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 4:04 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/06/ny-passes-right-to-repair-will-require-tech-oems-to-share-tools-diagnostic-info/",
         "timestamp": 1654403970,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 4:39 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-06-video-game-worlds-devoid-childrenhere.html",
         "timestamp": 1654404265,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 4:44 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "June 5, 2022 4:56 AM"
     },
     {
@@ -167,17 +158,8 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3500040-ukrainian-defenders-down-nine-air-targets-including-warplane-and-helicopter.html",
         "timestamp": 1654405491,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 5:04 AM"
-    },
-    {
-        "title": "Ukraine's children endure levels of suffering \"not seen since\" WWII: UNICEF",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/ukraines-children-endure-levels-suffering-not-seen-since-wwii-unicef-1712882",
-        "timestamp": 1654406247,
-        "sentiment": 4,
-        "published": "June 5, 2022 5:17 AM"
     },
     {
         "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
@@ -185,7 +167,7 @@
         "category": "technology",
         "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
         "timestamp": 1654407393,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 5:36 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows",
         "timestamp": 1654407969,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 5, 2022 5:46 AM"
     },
     {
@@ -207,13 +189,31 @@
         "published": "June 5, 2022 6:26 AM"
     },
     {
+        "title": "13 injured, 2 dead in Philadelphia shooting, police say",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
+        "timestamp": 1654412330,
+        "sentiment": -2,
+        "published": "June 5, 2022 6:58 AM"
+    },
+    {
         "title": "Spain is ready to deliver anti-aircraft missiles and Leopard battle tanks to Ukraine",
         "domain": "elpais.com",
         "category": "ukraine",
         "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
         "timestamp": 1654413409,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 7:16 AM"
+    },
+    {
+        "title": "Taiwan inspired by Ukraine's persistence in war with Russia",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4560604",
+        "timestamp": 1654414196,
+        "sentiment": -3,
+        "published": "June 5, 2022 7:29 AM"
     },
     {
         "title": "Trump Is Moving From Florida to New Jersey and Republicans Will Follow",
@@ -225,6 +225,15 @@
         "published": "June 5, 2022 9:16 AM"
     },
     {
+        "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
+        "timestamp": 1654422105,
+        "sentiment": 0,
+        "published": "June 5, 2022 9:41 AM"
+    },
+    {
         "title": "17 Pictures Of Tropical Storm Alex, The 1st Of The Season, Forms In The Gulf Of Mexico",
         "domain": "apnews.com",
         "category": "florida",
@@ -234,6 +243,33 @@
         "published": "June 5, 2022 9:51 AM"
     },
     {
+        "title": "Hundreds turn out for Taipei Tiananmen Square vigil",
+        "domain": "focustaiwan.tw",
+        "category": "worldnews",
+        "link": "https://focustaiwan.tw/cross-strait/202206040019",
+        "timestamp": 1654393179,
+        "sentiment": 4,
+        "published": "June 5, 2022 1:39 AM"
+    },
+    {
+        "title": "Zelensky Aide Claims Big Win in Kherson, Russians Caught With 'Pants Down'",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/zelensky-aide-claims-big-win-in-kherson-russians-caught-with-pants-down/ar-AAY1KOP?cvid=321f6a23c8b9492cad264265496e1c56",
+        "timestamp": 1654394705,
+        "sentiment": 4,
+        "published": "June 5, 2022 2:05 AM"
+    },
+    {
+        "title": "Ukraine's children endure levels of suffering \"not seen since\" WWII: UNICEF",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukraines-children-endure-levels-suffering-not-seen-since-wwii-unicef-1712882",
+        "timestamp": 1654406247,
+        "sentiment": 4,
+        "published": "June 5, 2022 5:17 AM"
+    },
+    {
         "title": "Canada handgun sales soar after Trudeau proposes freeze",
         "domain": "msn.com",
         "category": "worldnews",
@@ -241,15 +277,6 @@
         "timestamp": 1654398696,
         "sentiment": 0,
         "published": "June 5, 2022 3:11 AM"
-    },
-    {
-        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
-        "timestamp": 1654392952,
-        "sentiment": 0,
-        "published": "June 5, 2022 1:35 AM"
     },
     {
         "title": "How Harmful Is Social Media?",
