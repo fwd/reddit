@@ -14,8 +14,17 @@
         "category": "florida",
         "link": "https://www.reddit.com/gallery/v51kbc",
         "timestamp": 1654387840,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 12:10 AM"
+    },
+    {
+        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
+        "domain": "us.yahoo.com",
+        "category": "worldnews",
+        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
+        "timestamp": 1654387886,
+        "sentiment": 4,
+        "published": "June 5, 2022 12:11 AM"
     },
     {
         "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "worldnews",
         "link": "https://focustaiwan.tw/cross-strait/202206040019",
         "timestamp": 1654393179,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 1:39 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelensky-aide-claims-big-win-in-kherson-russians-caught-with-pants-down/ar-AAY1KOP?cvid=321f6a23c8b9492cad264265496e1c56",
         "timestamp": 1654394705,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 2:05 AM"
     },
     {
@@ -77,17 +86,8 @@
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 3:06 AM"
-    },
-    {
-        "title": "Canada handgun sales soar after Trudeau proposes freeze",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
-        "timestamp": 1654398696,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:11 AM"
     },
     {
         "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
         "timestamp": 1654400204,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 3:36 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -158,8 +158,17 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 4:56 AM"
+    },
+    {
+        "title": "Ukrainian defenders down nine air targets, including warplane and helicopter",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3500040-ukrainian-defenders-down-nine-air-targets-including-warplane-and-helicopter.html",
+        "timestamp": 1654405491,
+        "sentiment": 0,
+        "published": "June 5, 2022 5:04 AM"
     },
     {
         "title": "Ukraine's children endure levels of suffering \"not seen since\" WWII: UNICEF",
@@ -167,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/ukraines-children-endure-levels-suffering-not-seen-since-wwii-unicef-1712882",
         "timestamp": 1654406247,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 5:17 AM"
     },
     {
@@ -194,17 +203,44 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
         "timestamp": 1654410388,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 6:26 AM"
     },
     {
-        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
-        "domain": "us.yahoo.com",
+        "title": "Spain is ready to deliver anti-aircraft missiles and Leopard battle tanks to Ukraine",
+        "domain": "elpais.com",
+        "category": "ukraine",
+        "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
+        "timestamp": 1654413409,
+        "sentiment": 0,
+        "published": "June 5, 2022 7:16 AM"
+    },
+    {
+        "title": "Trump Is Moving From Florida to New Jersey and Republicans Will Follow",
+        "domain": "businessinsider.com",
+        "category": "florida",
+        "link": "https://www.businessinsider.com/trump-leaving-florida-for-new-jersey-to-escape-the-summer-heat-2022-5",
+        "timestamp": 1654420595,
+        "sentiment": 0,
+        "published": "June 5, 2022 9:16 AM"
+    },
+    {
+        "title": "17 Pictures Of Tropical Storm Alex, The 1st Of The Season, Forms In The Gulf Of Mexico",
+        "domain": "apnews.com",
+        "category": "florida",
+        "link": "https://apnews.com/article/climate-storms-fort-pierce-and-environment-tropical-09133cbd84dc90dde3fb54489a5759e4",
+        "timestamp": 1654422695,
+        "sentiment": 0,
+        "published": "June 5, 2022 9:51 AM"
+    },
+    {
+        "title": "Canada handgun sales soar after Trudeau proposes freeze",
+        "domain": "msn.com",
         "category": "worldnews",
-        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
-        "timestamp": 1654387886,
-        "sentiment": 4,
-        "published": "June 5, 2022 12:11 AM"
+        "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
+        "timestamp": 1654398696,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:11 AM"
     },
     {
         "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
