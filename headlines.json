@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 5, 2022 3:06 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "news",
         "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
         "timestamp": 1654400204,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 5, 2022 3:36 AM"
     },
     {
@@ -187,6 +187,15 @@
         "timestamp": 1654407969,
         "sentiment": -2,
         "published": "June 5, 2022 5:46 AM"
+    },
+    {
+        "title": "1 dead, 8 hurt in overnight shooting at Phoenix strip mall",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
+        "timestamp": 1654410388,
+        "sentiment": -5,
+        "published": "June 5, 2022 6:26 AM"
     },
     {
         "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
