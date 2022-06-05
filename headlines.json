@@ -14,7 +14,7 @@
         "category": "florida",
         "link": "https://www.reddit.com/gallery/v51kbc",
         "timestamp": 1654387840,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 12:10 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -54,13 +54,13 @@
         "published": "June 5, 2022 1:32 AM"
     },
     {
-        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
-        "domain": "english.kyodonews.net",
+        "title": "Zelensky Aide Claims Big Win in Kherson, Russians Caught With 'Pants Down'",
+        "domain": "msn.com",
         "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
-        "timestamp": 1654392952,
-        "sentiment": 0,
-        "published": "June 5, 2022 1:35 AM"
+        "link": "https://www.msn.com/en-us/news/world/zelensky-aide-claims-big-win-in-kherson-russians-caught-with-pants-down/ar-AAY1KOP?cvid=321f6a23c8b9492cad264265496e1c56",
+        "timestamp": 1654394705,
+        "sentiment": 4,
+        "published": "June 5, 2022 2:05 AM"
     },
     {
         "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
         "timestamp": 1654398696,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 3:11 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -122,8 +122,17 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 5, 2022 4:01 AM"
+    },
+    {
+        "title": "The Russian Army has run out of trained infantry, which is what \"Culminating Point\" means. - Trent Telenko on Twitter",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
+        "timestamp": 1654401876,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:04 AM"
     },
     {
         "title": "New York state passes first electronics right-to-repair bill",
@@ -131,7 +140,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/06/ny-passes-right-to-repair-will-require-tech-oems-to-share-tools-diagnostic-info/",
         "timestamp": 1654403970,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 4:39 AM"
     },
     {
@@ -140,8 +149,44 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-06-video-game-worlds-devoid-childrenhere.html",
         "timestamp": 1654404265,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 4:44 AM"
+    },
+    {
+        "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-708588",
+        "timestamp": 1654405014,
+        "sentiment": 4,
+        "published": "June 5, 2022 4:56 AM"
+    },
+    {
+        "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
+        "domain": "gamerant.com",
+        "category": "technology",
+        "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
+        "timestamp": 1654407393,
+        "sentiment": -2,
+        "published": "June 5, 2022 5:36 AM"
+    },
+    {
+        "title": "Carmakers Feel Chip Crisis Easing as Global Growth Slows",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows",
+        "timestamp": 1654407969,
+        "sentiment": -2,
+        "published": "June 5, 2022 5:46 AM"
+    },
+    {
+        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
+        "timestamp": 1654392952,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:35 AM"
     },
     {
         "title": "How Harmful Is Social Media?",
