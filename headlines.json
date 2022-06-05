@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 1:00 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
         "timestamp": 1654407393,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 5:36 AM"
     },
     {
@@ -68,17 +68,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": -1,
-        "published": "June 5, 2022 6:58 AM"
-    },
-    {
-        "title": "German lawmakers approve €12 minimum wage",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
-        "timestamp": 1654414764,
         "sentiment": 0,
-        "published": "June 5, 2022 7:39 AM"
+        "published": "June 5, 2022 6:58 AM"
     },
     {
         "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
         "timestamp": 1654422105,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 9:41 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
         "timestamp": 1654422987,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 9:56 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "florida",
         "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
         "timestamp": 1654428295,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 11:24 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
         "timestamp": 1654428889,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 11:34 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
         "timestamp": 1654429166,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 11:39 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "florida",
         "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
         "timestamp": 1654429560,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 11:46 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
         "timestamp": 1654432993,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 12:43 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
         "timestamp": 1654433267,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 12:47 PM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "technology",
         "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
         "timestamp": 1654433648,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 12:54 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
         "timestamp": 1654434035,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 1:00 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/jimmy-kimmel-considers-retiring-1234730778/",
         "timestamp": 1654434646,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 1:10 PM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
         "timestamp": 1654434902,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 1:15 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "news",
         "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
         "timestamp": 1654436637,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 1:43 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
         "timestamp": 1654436990,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 1:49 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/lotr-the-rings-of-power-compete-peter-jackson-trilogy-game-of-thrones-exclusive/",
         "timestamp": 1654437689,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 2:01 PM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "news",
         "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
         "timestamp": 1654440754,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 2:52 PM"
     },
     {
@@ -266,8 +257,17 @@
         "category": "technology",
         "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
         "timestamp": 1654441217,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 3:00 PM"
+    },
+    {
+        "title": "Rare albino Galapagos giant tortoise faces the world",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/environment/rare-albino-galapagos-giant-tortoise-faces-world-2022-06-03/",
+        "timestamp": 1654441923,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:12 PM"
     },
     {
         "title": "Microsoft Aims To Win The Race To Build A New Kind Of Computer. So Does Amazon.",
@@ -275,7 +275,7 @@
         "category": "technology",
         "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
         "timestamp": 1654443338,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 3:35 PM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "news",
         "link": "https://www.ktvu.com/news/marriott-to-suspend-all-of-its-operations-in-russia",
         "timestamp": 1654444116,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 3:48 PM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/intelarrow/status/1533474968234762242?s=21&t=NN1ocLQakwJd-fBlXrBqxQ",
         "timestamp": 1654445247,
-        "sentiment": -9,
+        "sentiment": 0,
         "published": "June 5, 2022 4:07 PM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/scrubs-revival-bill-lawrence-reunion-1235285125/",
         "timestamp": 1654446788,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 4:33 PM"
     },
     {
@@ -311,7 +311,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments",
         "timestamp": 1654447105,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 4:38 PM"
     },
     {
@@ -329,7 +329,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1533442637973401600",
         "timestamp": 1654448306,
-        "sentiment": -9,
+        "sentiment": 0,
         "published": "June 5, 2022 4:58 PM"
     },
     {
@@ -347,8 +347,17 @@
         "category": "news",
         "link": "https://apnews.com/article/uvalde-school-shooting-police-in-schools-755721618f268d6fc7039a8cb255d43a",
         "timestamp": 1654450126,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 5, 2022 5:28 PM"
+    },
+    {
+        "title": "Severodonetsk is reportedly 80 percent liberated.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/WarMonitor3/status/1533499778679595012?t=Y15veKgXZmJUJrAFHOrogA&s=19",
+        "timestamp": 1654450189,
+        "sentiment": 0,
+        "published": "June 5, 2022 5:29 PM"
     },
     {
         "title": "'I Am Groot' Premieres August 10 on Disney+ (Original Shorts)",
@@ -356,7 +365,7 @@
         "category": "television",
         "link": "https://www.marvel.com/articles/tv-shows/i-am-groot-first-poster-disney-plus",
         "timestamp": 1654450507,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 5:35 PM"
     },
     {
@@ -365,7 +374,7 @@
         "category": "technology",
         "link": "https://spectrum.ieee.org/amp/xerox-parc-2657304064",
         "timestamp": 1654451290,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 5, 2022 5:48 PM"
     },
     {
@@ -376,6 +385,33 @@
         "timestamp": 1654453332,
         "sentiment": 0,
         "published": "June 5, 2022 6:22 PM"
+    },
+    {
+        "title": "“They killed everyone in the trap.” Severodonetsk has become a huge mass grave for the Russian army and Kadyrovites – Yakovina",
+        "domain": "russia.postsen.com",
+        "category": "ukraine",
+        "link": "https://russia.postsen.com/news/25617/They-killed-everyone-in-the-trap-Severodonetsk-has-become-a-huge-mass-grave-for-the-Russian-army-and-Kadyrovites-%E2%80%93-Yakovina.html",
+        "timestamp": 1654454586,
+        "sentiment": 0,
+        "published": "June 5, 2022 6:43 PM"
+    },
+    {
+        "title": "How A 'Stranger Things' Character Is Inspired By The Real-Life Story Of Damien Echols, From The West Memphis 3",
+        "domain": "oxygen.com",
+        "category": "television",
+        "link": "https://www.oxygen.com/true-crime-buzz/west-memphis-3-damien-echols-inspired-stranger-things-character",
+        "timestamp": 1654455164,
+        "sentiment": 1,
+        "published": "June 5, 2022 6:52 PM"
+    },
+    {
+        "title": "German lawmakers approve €12 minimum wage",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
+        "timestamp": 1654414764,
+        "sentiment": 0,
+        "published": "June 5, 2022 7:39 AM"
     },
     {
         "title": "The only way to deter further Russian aggression is by humiliating Russia in this war. Ukraine has already been doing its part through its immense sacrifices. There is no room now for Western leaders to back down, as it will simply increase Putin's appetite",
