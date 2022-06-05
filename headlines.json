@@ -1,20 +1,11 @@
 [
     {
-        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
-        "domain": "us.yahoo.com",
-        "category": "worldnews",
-        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
-        "timestamp": 1654387886,
-        "sentiment": 4,
-        "published": "June 5, 2022 12:11 AM"
-    },
-    {
         "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
         "domain": "kvia.com",
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v53x0r",
         "timestamp": 1654396774,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 5, 2022 2:39 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
         "timestamp": 1654400633,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 3:43 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 4:56 AM"
     },
     {
@@ -90,21 +81,12 @@
         "published": "June 5, 2022 5:36 AM"
     },
     {
-        "title": "1 dead, 8 hurt in overnight shooting at Phoenix strip mall",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
-        "timestamp": 1654410388,
-        "sentiment": -1,
-        "published": "June 5, 2022 6:26 AM"
-    },
-    {
         "title": "13 injured, 2 dead in Philadelphia shooting, police say",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 6:58 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.forbes.com/sites/davidaxe/2022/06/02/ukraine-isnt-just-getting-american-made-killer-drones-its-getting-a-whole-system-for-remote-warfare/",
         "timestamp": 1654413143,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 7:12 AM"
     },
     {
@@ -122,8 +104,17 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
         "timestamp": 1654414764,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 7:39 AM"
+    },
+    {
+        "title": "$1 billion has been lost in cryptocurrency scams since 2021, FTC warns",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/06/04/business/cryptocurrency-scammers-ftc-warning/index.html?utm_medium=social&utm_source=twCNN&utm_content=2022-06-05T07%3A45%3A04&utm_term=link&s=09",
+        "timestamp": 1654415183,
+        "sentiment": -7,
+        "published": "June 5, 2022 7:46 AM"
     },
     {
         "title": "Uvalde funeral attendant who encountered gunman says he tried to go after shooter, was held back",
@@ -131,17 +122,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/uvalde-funeral-attendant-encountered-gunman-says-tried-go-was-held-bac-rcna32003",
         "timestamp": 1654415493,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 7:51 AM"
-    },
-    {
-        "title": "Greece is to send to Ukraine a large number of weapons. Thank you !",
-        "domain": "pronews.gr",
-        "category": "ukraine",
-        "link": "https://www.pronews.gr/amyna-asfaleia/enoples-sygkroyseis/ayta-einai-ta-opla-pou-ekxorise-i-ellada-stin-oukrania-skotothikan-ekatontades-rosoi-apo-tin-xrisi-tous/",
-        "timestamp": 1654421461,
-        "sentiment": 1,
-        "published": "June 5, 2022 9:31 AM"
     },
     {
         "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
@@ -153,21 +135,12 @@
         "published": "June 5, 2022 9:41 AM"
     },
     {
-        "title": "17 Pictures Of Tropical Storm Alex, The 1st Of The Season, Forms In The Gulf Of Mexico",
-        "domain": "apnews.com",
-        "category": "florida",
-        "link": "https://apnews.com/article/climate-storms-fort-pierce-and-environment-tropical-09133cbd84dc90dde3fb54489a5759e4",
-        "timestamp": 1654422695,
-        "sentiment": 0,
-        "published": "June 5, 2022 9:51 AM"
-    },
-    {
         "title": "Off-duty Brazoria Co. deputy arrested for public intoxication in Uvalde",
         "domain": "abc13.com",
         "category": "news",
         "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
         "timestamp": 1654422987,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 9:56 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
         "timestamp": 1654426726,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 10:58 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "florida",
         "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
         "timestamp": 1654428295,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 11:24 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
         "timestamp": 1654429166,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 11:39 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "florida",
         "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
         "timestamp": 1654429560,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 11:46 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/neumerherwam/status/1533138482356539392",
         "timestamp": 1654431620,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 12:20 PM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.timesnownews.com/world/ukraine-war-russia-using-proxy-infantry-forces-as-it-did-in-syria-uk-defence-ministry-article-92020094",
         "timestamp": 1654431663,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 12:21 PM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
         "timestamp": 1654432993,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 12:43 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
         "timestamp": 1654433267,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 12:47 PM"
     },
     {
@@ -270,12 +243,21 @@
         "published": "June 5, 2022 1:00 PM"
     },
     {
+        "title": "Jimmy Kimmel Considers Leaving Late Night TV: ‘I’m Not Going to Do This Forever’",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/jimmy-kimmel-considers-retiring-1234730778/",
+        "timestamp": 1654434646,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:10 PM"
+    },
+    {
         "title": "Veto list: Gov. DeSantis vetoes long-acting birth control funding again",
         "domain": "floridapolitics.com",
         "category": "florida",
         "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
         "timestamp": 1654434902,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 1:15 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
         "timestamp": 1654436637,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 1:43 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/05/Austrian-Chancellor-calls-for-intermediate-EU-membership-for-Ukraine-Moldova",
         "timestamp": 1654436748,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 1:45 PM"
     },
     {
@@ -302,8 +284,17 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
         "timestamp": 1654436990,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 1:49 PM"
+    },
+    {
+        "title": "Pope Francis calls 100 days of war in Ukraine ‘negation of God’s dream’",
+        "domain": "catholicnewsagency.com",
+        "category": "worldnews",
+        "link": "https://www.catholicnewsagency.com/news/251457/pope-francis-ukraine-war-100-days",
+        "timestamp": 1654437676,
+        "sentiment": -1,
+        "published": "June 5, 2022 2:01 PM"
     },
     {
         "title": "LOTR: The Rings Of Power ‘Doesn’t Try To Compete’ With Peter Jackson’s Trilogy, Or Game Of Thrones – Exclusive Image",
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.brusselstimes.com/world-all-news/233779/spain-to-send-state-of-the-art-tanks-to-ukrainian-army",
         "timestamp": 1654437742,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 5, 2022 2:02 PM"
     },
     {
@@ -333,12 +324,21 @@
         "published": "June 5, 2022 2:41 PM"
     },
     {
+        "title": "Boris Johnson faces prospect of no-confidence vote as poll signals Tory Wakefield defeat",
+        "domain": "itv.com",
+        "category": "worldnews",
+        "link": "https://www.itv.com/news/2022-06-04/pm-faces-prospect-of-no-confidence-vote-as-poll-signals-tory-wakefield-defeat",
+        "timestamp": 1654440647,
+        "sentiment": -1,
+        "published": "June 5, 2022 2:50 PM"
+    },
+    {
         "title": "Investigation: Pool water at 2 popular Vegas day clubs contains E. coli, high levels of bacteria",
         "domain": "ktnv.com",
         "category": "news",
         "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
         "timestamp": 1654440754,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 5, 2022 2:52 PM"
     },
     {
@@ -349,6 +349,60 @@
         "timestamp": 1654441217,
         "sentiment": 0,
         "published": "June 5, 2022 3:00 PM"
+    },
+    {
+        "title": "Microsoft Aims To Win The Race To Build A New Kind Of Computer. So Does Amazon.",
+        "domain": "seattletimes.com",
+        "category": "technology",
+        "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
+        "timestamp": 1654443338,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:35 PM"
+    },
+    {
+        "title": "‘Scrubs’ Cast and Creator Bill Lawrence Are In for a Revival or Movie: ‘We’re Gonna Do It Because We’re Lucky Enough People Care’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/scrubs-revival-bill-lawrence-reunion-1235285125/",
+        "timestamp": 1654446788,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:33 PM"
+    },
+    {
+        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
+        "domain": "us.yahoo.com",
+        "category": "worldnews",
+        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
+        "timestamp": 1654387886,
+        "sentiment": 4,
+        "published": "June 5, 2022 12:11 AM"
+    },
+    {
+        "title": "1 dead, 8 hurt in overnight shooting at Phoenix strip mall",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
+        "timestamp": 1654410388,
+        "sentiment": -1,
+        "published": "June 5, 2022 6:26 AM"
+    },
+    {
+        "title": "Greece is to send to Ukraine a large number of weapons. Thank you !",
+        "domain": "pronews.gr",
+        "category": "ukraine",
+        "link": "https://www.pronews.gr/amyna-asfaleia/enoples-sygkroyseis/ayta-einai-ta-opla-pou-ekxorise-i-ellada-stin-oukrania-skotothikan-ekatontades-rosoi-apo-tin-xrisi-tous/",
+        "timestamp": 1654421461,
+        "sentiment": 1,
+        "published": "June 5, 2022 9:31 AM"
+    },
+    {
+        "title": "17 Pictures Of Tropical Storm Alex, The 1st Of The Season, Forms In The Gulf Of Mexico",
+        "domain": "apnews.com",
+        "category": "florida",
+        "link": "https://apnews.com/article/climate-storms-fort-pierce-and-environment-tropical-09133cbd84dc90dde3fb54489a5759e4",
+        "timestamp": 1654422695,
+        "sentiment": 0,
+        "published": "June 5, 2022 9:51 AM"
     },
     {
         "title": "Backyard Ibis",
