@@ -1,12 +1,12 @@
 [
     {
-        "title": "Backyard Ibis",
-        "domain": "reddit.com",
-        "category": "florida",
-        "link": "https://www.reddit.com/gallery/v51kbc",
-        "timestamp": 1654387840,
-        "sentiment": 0,
-        "published": "June 5, 2022 12:10 AM"
+        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
+        "domain": "us.yahoo.com",
+        "category": "worldnews",
+        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
+        "timestamp": 1654387886,
+        "sentiment": 4,
+        "published": "June 5, 2022 12:11 AM"
     },
     {
         "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 5, 2022 1:00 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "ukraine",
         "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
         "timestamp": 1654400633,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 5, 2022 3:43 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 4:56 AM"
     },
     {
@@ -90,21 +90,12 @@
         "published": "June 5, 2022 5:36 AM"
     },
     {
-        "title": "Carmakers Feel Chip Crisis Easing as Global Growth Slows",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows",
-        "timestamp": 1654407969,
-        "sentiment": 0,
-        "published": "June 5, 2022 5:46 AM"
-    },
-    {
         "title": "1 dead, 8 hurt in overnight shooting at Phoenix strip mall",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
         "timestamp": 1654410388,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 6:26 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 6:58 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "worldnews",
         "link": "https://www.forbes.com/sites/davidaxe/2022/06/02/ukraine-isnt-just-getting-american-made-killer-drones-its-getting-a-whole-system-for-remote-warfare/",
         "timestamp": 1654413143,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 7:12 AM"
-    },
-    {
-        "title": "Spain is ready to deliver anti-aircraft missiles and Leopard battle tanks to Ukraine",
-        "domain": "elpais.com",
-        "category": "ukraine",
-        "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
-        "timestamp": 1654413409,
-        "sentiment": -1,
-        "published": "June 5, 2022 7:16 AM"
     },
     {
         "title": "German lawmakers approve €12 minimum wage",
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
         "timestamp": 1654414764,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 7:39 AM"
     },
     {
@@ -149,26 +131,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/uvalde-funeral-attendant-encountered-gunman-says-tried-go-was-held-bac-rcna32003",
         "timestamp": 1654415493,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 7:51 AM"
-    },
-    {
-        "title": "China sentences former Communist Party official to death for insider trading",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-03/china-sentences-former-city-party-chief-to-death-with-reprieve",
-        "timestamp": 1654420026,
-        "sentiment": -1,
-        "published": "June 5, 2022 9:07 AM"
-    },
-    {
-        "title": "Russia will strike harder if longer-range missiles supplied to Ukraine: Putin",
-        "domain": "zeenews.india.com",
-        "category": "worldnews",
-        "link": "https://zeenews.india.com/world/russia-will-strike-harder-if-longer-range-missiles-supplied-to-ukraine-putin-warns-west-2470703.html",
-        "timestamp": 1654420818,
-        "sentiment": -1,
-        "published": "June 5, 2022 9:20 AM"
     },
     {
         "title": "Greece is to send to Ukraine a large number of weapons. Thank you !",
@@ -176,7 +140,7 @@
         "category": "ukraine",
         "link": "https://www.pronews.gr/amyna-asfaleia/enoples-sygkroyseis/ayta-einai-ta-opla-pou-ekxorise-i-ellada-stin-oukrania-skotothikan-ekatontades-rosoi-apo-tin-xrisi-tous/",
         "timestamp": 1654421461,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 5, 2022 9:31 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "news",
         "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
         "timestamp": 1654422987,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 9:56 AM"
     },
     {
@@ -212,26 +176,17 @@
         "category": "worldnews",
         "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
         "timestamp": 1654426726,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 10:58 AM"
     },
     {
-        "title": "Man raised in Pinellas climbs Mt. Everest, raises $140,000 to fund diabetes research",
-        "domain": "abcactionnews.com",
+        "title": "Florida Gov. Ron DeSantis reaches disgraceful new low in bullying Special Olympics | Opinion — USA TODAY",
+        "domain": "apple.news",
         "category": "florida",
-        "link": "https://www.abcactionnews.com/news/region-pinellas/man-raised-in-pinellas-climbs-mt-everest-raises-140-000-to-fight-juvenile-diabetes",
-        "timestamp": 1654428302,
+        "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
+        "timestamp": 1654428295,
         "sentiment": 0,
-        "published": "June 5, 2022 11:25 AM"
-    },
-    {
-        "title": "Russia launches air strikes into Kyiv for first time in five weeks",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/05/russia-launches-air-strikes-into-kyiv-for-first-time-in-five-weeks",
-        "timestamp": 1654428587,
-        "sentiment": -1,
-        "published": "June 5, 2022 11:29 AM"
+        "published": "June 5, 2022 11:24 AM"
     },
     {
         "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
@@ -248,7 +203,7 @@
         "category": "news",
         "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
         "timestamp": 1654429166,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 11:39 AM"
     },
     {
@@ -266,8 +221,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/neumerherwam/status/1533138482356539392",
         "timestamp": 1654431620,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 5, 2022 12:20 PM"
+    },
+    {
+        "title": "Ukraine war: Russia using proxy infantry forces as it did in Syria - UK Defence Ministry",
+        "domain": "timesnownews.com",
+        "category": "worldnews",
+        "link": "https://www.timesnownews.com/world/ukraine-war-russia-using-proxy-infantry-forces-as-it-did-in-syria-uk-defence-ministry-article-92020094",
+        "timestamp": 1654431663,
+        "sentiment": 4,
+        "published": "June 5, 2022 12:21 PM"
     },
     {
         "title": "Convicted killer accidentally released from Western Washington prison",
@@ -275,7 +239,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
         "timestamp": 1654432993,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 12:43 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
         "timestamp": 1654434035,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 5, 2022 1:00 PM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "news",
         "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
         "timestamp": 1654436637,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 5, 2022 1:43 PM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/05/Austrian-Chancellor-calls-for-intermediate-EU-membership-for-Ukraine-Moldova",
         "timestamp": 1654436748,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 5, 2022 1:45 PM"
     },
     {
@@ -347,17 +311,107 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/lotr-the-rings-of-power-compete-peter-jackson-trilogy-game-of-thrones-exclusive/",
         "timestamp": 1654437689,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 5, 2022 2:01 PM"
     },
     {
-        "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
-        "domain": "us.yahoo.com",
+        "title": "Spain to send state of the art tanks to Ukrainian army",
+        "domain": "brusselstimes.com",
         "category": "worldnews",
-        "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
-        "timestamp": 1654387886,
-        "sentiment": -2,
-        "published": "June 5, 2022 12:11 AM"
+        "link": "https://www.brusselstimes.com/world-all-news/233779/spain-to-send-state-of-the-art-tanks-to-ukrainian-army",
+        "timestamp": 1654437742,
+        "sentiment": 4,
+        "published": "June 5, 2022 2:02 PM"
+    },
+    {
+        "title": "Apple’s AR/VR Headset Will Dominate WWDC—Even Though It Won’t Be There",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/newsletters/2022-06-05/apple-reality-headset-details-wwdc-to-bring-ios-16-ipados-16-watchos-9-macos-l41cwir8",
+        "timestamp": 1654440115,
+        "sentiment": 0,
+        "published": "June 5, 2022 2:41 PM"
+    },
+    {
+        "title": "Investigation: Pool water at 2 popular Vegas day clubs contains E. coli, high levels of bacteria",
+        "domain": "ktnv.com",
+        "category": "news",
+        "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
+        "timestamp": 1654440754,
+        "sentiment": -1,
+        "published": "June 5, 2022 2:52 PM"
+    },
+    {
+        "title": "Draft of Privacy Bill Would Allow Web Users to \"Turn Off\" Targeted Ads and Take Other Steps to Secure Data Privacy and Protection",
+        "domain": "nexttv.com",
+        "category": "technology",
+        "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
+        "timestamp": 1654441217,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:00 PM"
+    },
+    {
+        "title": "Backyard Ibis",
+        "domain": "reddit.com",
+        "category": "florida",
+        "link": "https://www.reddit.com/gallery/v51kbc",
+        "timestamp": 1654387840,
+        "sentiment": 0,
+        "published": "June 5, 2022 12:10 AM"
+    },
+    {
+        "title": "Carmakers Feel Chip Crisis Easing as Global Growth Slows",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows",
+        "timestamp": 1654407969,
+        "sentiment": 0,
+        "published": "June 5, 2022 5:46 AM"
+    },
+    {
+        "title": "Spain is ready to deliver anti-aircraft missiles and Leopard battle tanks to Ukraine",
+        "domain": "elpais.com",
+        "category": "ukraine",
+        "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
+        "timestamp": 1654413409,
+        "sentiment": -1,
+        "published": "June 5, 2022 7:16 AM"
+    },
+    {
+        "title": "China sentences former Communist Party official to death for insider trading",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-03/china-sentences-former-city-party-chief-to-death-with-reprieve",
+        "timestamp": 1654420026,
+        "sentiment": -1,
+        "published": "June 5, 2022 9:07 AM"
+    },
+    {
+        "title": "Russia will strike harder if longer-range missiles supplied to Ukraine: Putin",
+        "domain": "zeenews.india.com",
+        "category": "worldnews",
+        "link": "https://zeenews.india.com/world/russia-will-strike-harder-if-longer-range-missiles-supplied-to-ukraine-putin-warns-west-2470703.html",
+        "timestamp": 1654420818,
+        "sentiment": -1,
+        "published": "June 5, 2022 9:20 AM"
+    },
+    {
+        "title": "Man raised in Pinellas climbs Mt. Everest, raises $140,000 to fund diabetes research",
+        "domain": "abcactionnews.com",
+        "category": "florida",
+        "link": "https://www.abcactionnews.com/news/region-pinellas/man-raised-in-pinellas-climbs-mt-everest-raises-140-000-to-fight-juvenile-diabetes",
+        "timestamp": 1654428302,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:25 AM"
+    },
+    {
+        "title": "Russia launches air strikes into Kyiv for first time in five weeks",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/05/russia-launches-air-strikes-into-kyiv-for-first-time-in-five-weeks",
+        "timestamp": 1654428587,
+        "sentiment": -1,
+        "published": "June 5, 2022 11:29 AM"
     },
     {
         "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
