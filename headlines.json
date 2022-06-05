@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 1:00 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -50,8 +50,17 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
         "timestamp": 1654392952,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 1:35 AM"
+    },
+    {
+        "title": "Did you know that the Zebra Longwing Butterfly is native to Florida? I redesigned the state's flag around it to honor it.",
+        "domain": "reddit.com",
+        "category": "miami",
+        "link": "https://www.reddit.com/gallery/v53x0r",
+        "timestamp": 1654396774,
+        "sentiment": 2,
+        "published": "June 5, 2022 2:39 AM"
     },
     {
         "title": "Pain at the pump: Gas costs nearly $10 a gallon at this California station",
@@ -59,7 +68,7 @@
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 3:06 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "news",
         "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
         "timestamp": 1654400204,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 3:36 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "ukraine",
         "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
         "timestamp": 1654400633,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 3:43 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -104,17 +113,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
         "timestamp": 1654401876,
-        "sentiment": -3,
-        "published": "June 5, 2022 4:04 AM"
-    },
-    {
-        "title": "New York state passes first electronics right-to-repair bill",
-        "domain": "arstechnica.com",
-        "category": "technology",
-        "link": "https://arstechnica.com/gadgets/2022/06/ny-passes-right-to-repair-will-require-tech-oems-to-share-tools-diagnostic-info/",
-        "timestamp": 1654403970,
         "sentiment": 0,
-        "published": "June 5, 2022 4:39 AM"
+        "published": "June 5, 2022 4:04 AM"
     },
     {
         "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 4:56 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
         "timestamp": 1654410388,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 6:26 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 6:58 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "ukraine",
         "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
         "timestamp": 1654413409,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 7:16 AM"
     },
     {
@@ -176,8 +176,17 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
         "timestamp": 1654414764,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 7:39 AM"
+    },
+    {
+        "title": "Uvalde funeral attendant who encountered gunman says he tried to go after shooter, was held back",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/uvalde-funeral-attendant-encountered-gunman-says-tried-go-was-held-bac-rcna32003",
+        "timestamp": 1654415493,
+        "sentiment": -1,
+        "published": "June 5, 2022 7:51 AM"
     },
     {
         "title": "Morning Update on Sievierodonetsk: Russia deploys all of its remaining forces to attempt to capture the city, as Ukrainian troops have regrouped and made a lime of defence with the goal of taking it all back.",
@@ -185,7 +194,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/pravda_eng/status/1533340276491751424?t=nxOIRbhnmpBAdWgCtHdSzA&s=09",
         "timestamp": 1654415793,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 7:56 AM"
     },
     {
@@ -203,7 +212,7 @@
         "category": "ukraine",
         "link": "https://www.pronews.gr/amyna-asfaleia/enoples-sygkroyseis/ayta-einai-ta-opla-pou-ekxorise-i-ellada-stin-oukrania-skotothikan-ekatontades-rosoi-apo-tin-xrisi-tous/",
         "timestamp": 1654421461,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 5, 2022 9:31 AM"
     },
     {
@@ -230,17 +239,17 @@
         "category": "news",
         "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
         "timestamp": 1654422987,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 5, 2022 9:56 AM"
     },
     {
-        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587&fbclid=IwAR1DUP7Aml48SJaq4qdjagoLEww-3UzW1cEEH2GEMPq5M-K718Qnrz8zH0c",
-        "timestamp": 1654425224,
-        "sentiment": -4,
-        "published": "June 5, 2022 10:33 AM"
+        "title": "Russian missile barrage strikes Kyiv, shattering city's month-long sense of calm",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
+        "timestamp": 1654426726,
+        "sentiment": 0,
+        "published": "June 5, 2022 10:58 AM"
     },
     {
         "title": "'Westworld' Star James Marsden Set to Return for Season 4",
@@ -248,7 +257,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/westworld-james-marsden-season-4-1235285090/",
         "timestamp": 1654427491,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 5, 2022 11:11 AM"
     },
     {
@@ -270,6 +279,24 @@
         "published": "June 5, 2022 11:34 AM"
     },
     {
+        "title": "India to replace 30GW of thermal power with renewables: India aims to replace 30GW of thermal power generation capacity with renewable energy by 2026, in a move aimed at reducing emissions from coal-fired power plants.",
+        "domain": "argusmedia.com",
+        "category": "technology",
+        "link": "https://www.argusmedia.com/en/news/2337920-india-to-replace-30gw-of-thermal-power-with-renewables",
+        "timestamp": 1654429160,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:39 AM"
+    },
+    {
+        "title": "Limiting sexual partners can help to avoid monkey pox infection. People should reduce their number of sexual partners to help fight the spread of monkeypox, the World Health Organisation (WHO) has urged.",
+        "domain": "news24.com",
+        "category": "worldnews",
+        "link": "https://www.news24.com/citypress/news/limiting-sexual-partners-can-help-to-avoid-monkey-pox-infection-20220605",
+        "timestamp": 1654429415,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:43 AM"
+    },
+    {
         "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
         "domain": "nypost.com",
         "category": "florida",
@@ -277,6 +304,42 @@
         "timestamp": 1654429560,
         "sentiment": 0,
         "published": "June 5, 2022 11:46 AM"
+    },
+    {
+        "title": "Supreme Court allows states to use unlawfully gerrymandered congressional maps in the 2022 midterm elections",
+        "domain": "kisaradio.org",
+        "category": "news",
+        "link": "https://kisaradio.org/supreme-court-allows-states-to-use-unlawfully-gerrymandered-congressional-maps-in-the-2022-midterm-elections/",
+        "timestamp": 1654430307,
+        "sentiment": -1,
+        "published": "June 5, 2022 11:58 AM"
+    },
+    {
+        "title": "Amid abortion battle, Ron DeSantis vetoes birth-control funding — again",
+        "domain": "msn.com",
+        "category": "florida",
+        "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
+        "timestamp": 1654433267,
+        "sentiment": 0,
+        "published": "June 5, 2022 12:47 PM"
+    },
+    {
+        "title": "New York state passes first electronics right-to-repair bill",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/06/ny-passes-right-to-repair-will-require-tech-oems-to-share-tools-diagnostic-info/",
+        "timestamp": 1654403970,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:39 AM"
+    },
+    {
+        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587&fbclid=IwAR1DUP7Aml48SJaq4qdjagoLEww-3UzW1cEEH2GEMPq5M-K718Qnrz8zH0c",
+        "timestamp": 1654425224,
+        "sentiment": -4,
+        "published": "June 5, 2022 10:33 AM"
     },
     {
         "title": "The underground network of Belarusians sabotaging Vladimir Putin's war in Ukraine and plotting a revolution at home",
