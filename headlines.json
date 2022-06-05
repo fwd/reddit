@@ -1,14 +1,5 @@
 [
     {
-        "title": "The underground network of Belarusians sabotaging Vladimir Putin's war in Ukraine and plotting a revolution at home",
-        "domain": "abc.net.au",
-        "category": "ukraine",
-        "link": "https://www.abc.net.au/news/2022-06-05/belarus-opposition-sabotages-russia-in-ukraine-plans-revolution/101072484",
-        "timestamp": 1654387649,
-        "sentiment": 2,
-        "published": "June 5, 2022 12:07 AM"
-    },
-    {
         "title": "Backyard Ibis",
         "domain": "reddit.com",
         "category": "florida",
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -63,21 +54,12 @@
         "published": "June 5, 2022 1:35 AM"
     },
     {
-        "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/06/justified-creatives-look-back-at-the-magic-behind-hit-fx-series-atx-1235038471/",
-        "timestamp": 1654395630,
-        "sentiment": 0,
-        "published": "June 5, 2022 2:20 AM"
-    },
-    {
         "title": "Pain at the pump: Gas costs nearly $10 a gallon at this California station",
         "domain": "fox5ny.com",
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 3:06 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "news",
         "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
         "timestamp": 1654400204,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 3:36 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "ukraine",
         "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
         "timestamp": 1654400633,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 5, 2022 3:43 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
         "timestamp": 1654401876,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 5, 2022 4:04 AM"
     },
     {
@@ -135,15 +117,6 @@
         "published": "June 5, 2022 4:39 AM"
     },
     {
-        "title": "Video game worlds are often devoid of children—here's why",
-        "domain": "techxplore.com",
-        "category": "technology",
-        "link": "https://techxplore.com/news/2022-06-video-game-worlds-devoid-childrenhere.html",
-        "timestamp": 1654404265,
-        "sentiment": 0,
-        "published": "June 5, 2022 4:44 AM"
-    },
-    {
         "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
         "domain": "jpost.com",
         "category": "worldnews",
@@ -151,15 +124,6 @@
         "timestamp": 1654405014,
         "sentiment": -3,
         "published": "June 5, 2022 4:56 AM"
-    },
-    {
-        "title": "Ukrainian defenders down nine air targets, including warplane and helicopter",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3500040-ukrainian-defenders-down-nine-air-targets-including-warplane-and-helicopter.html",
-        "timestamp": 1654405491,
-        "sentiment": 2,
-        "published": "June 5, 2022 5:04 AM"
     },
     {
         "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
@@ -185,7 +149,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/dead-hurt-overnight-shooting-phoenix-strip-mall-85190989",
         "timestamp": 1654410388,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 6:26 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 5, 2022 6:58 AM"
     },
     {
@@ -203,17 +167,26 @@
         "category": "ukraine",
         "link": "https://elpais.com/espana/2022-06-05/espana-dispuesta-a-entregar-a-ucrania-misiles-antiaereos-y-carros-de-combate-leopard.html?rel=buscador_noticias",
         "timestamp": 1654413409,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 5, 2022 7:16 AM"
     },
     {
-        "title": "Taiwan inspired by Ukraine's persistence in war with Russia",
-        "domain": "taiwannews.com.tw",
+        "title": "German lawmakers approve €12 minimum wage",
+        "domain": "dw.com",
         "category": "worldnews",
-        "link": "https://www.taiwannews.com.tw/en/news/4560604",
-        "timestamp": 1654414196,
+        "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
+        "timestamp": 1654414764,
         "sentiment": -3,
-        "published": "June 5, 2022 7:29 AM"
+        "published": "June 5, 2022 7:39 AM"
+    },
+    {
+        "title": "Morning Update on Sievierodonetsk: Russia deploys all of its remaining forces to attempt to capture the city, as Ukrainian troops have regrouped and made a lime of defence with the goal of taking it all back.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/pravda_eng/status/1533340276491751424?t=nxOIRbhnmpBAdWgCtHdSzA&s=09",
+        "timestamp": 1654415793,
+        "sentiment": -3,
+        "published": "June 5, 2022 7:56 AM"
     },
     {
         "title": "Trump Is Moving From Florida to New Jersey and Republicans Will Follow",
@@ -223,6 +196,15 @@
         "timestamp": 1654420595,
         "sentiment": 0,
         "published": "June 5, 2022 9:16 AM"
+    },
+    {
+        "title": "Greece is to send to Ukraine a large number of weapons. Thank you !",
+        "domain": "pronews.gr",
+        "category": "ukraine",
+        "link": "https://www.pronews.gr/amyna-asfaleia/enoples-sygkroyseis/ayta-einai-ta-opla-pou-ekxorise-i-ellada-stin-oukrania-skotothikan-ekatontades-rosoi-apo-tin-xrisi-tous/",
+        "timestamp": 1654421461,
+        "sentiment": -3,
+        "published": "June 5, 2022 9:31 AM"
     },
     {
         "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
@@ -241,6 +223,105 @@
         "timestamp": 1654422695,
         "sentiment": 0,
         "published": "June 5, 2022 9:51 AM"
+    },
+    {
+        "title": "Off-duty Brazoria Co. deputy arrested for public intoxication in Uvalde",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
+        "timestamp": 1654422987,
+        "sentiment": -4,
+        "published": "June 5, 2022 9:56 AM"
+    },
+    {
+        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587&fbclid=IwAR1DUP7Aml48SJaq4qdjagoLEww-3UzW1cEEH2GEMPq5M-K718Qnrz8zH0c",
+        "timestamp": 1654425224,
+        "sentiment": -4,
+        "published": "June 5, 2022 10:33 AM"
+    },
+    {
+        "title": "'Westworld' Star James Marsden Set to Return for Season 4",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/westworld-james-marsden-season-4-1235285090/",
+        "timestamp": 1654427491,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:11 AM"
+    },
+    {
+        "title": "Man raised in Pinellas climbs Mt. Everest, raises $140,000 to fund diabetes research",
+        "domain": "abcactionnews.com",
+        "category": "florida",
+        "link": "https://www.abcactionnews.com/news/region-pinellas/man-raised-in-pinellas-climbs-mt-everest-raises-140-000-to-fight-juvenile-diabetes",
+        "timestamp": 1654428302,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:25 AM"
+    },
+    {
+        "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
+        "timestamp": 1654428889,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:34 AM"
+    },
+    {
+        "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
+        "domain": "nypost.com",
+        "category": "florida",
+        "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
+        "timestamp": 1654429560,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:46 AM"
+    },
+    {
+        "title": "The underground network of Belarusians sabotaging Vladimir Putin's war in Ukraine and plotting a revolution at home",
+        "domain": "abc.net.au",
+        "category": "ukraine",
+        "link": "https://www.abc.net.au/news/2022-06-05/belarus-opposition-sabotages-russia-in-ukraine-plans-revolution/101072484",
+        "timestamp": 1654387649,
+        "sentiment": 2,
+        "published": "June 5, 2022 12:07 AM"
+    },
+    {
+        "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/justified-creatives-look-back-at-the-magic-behind-hit-fx-series-atx-1235038471/",
+        "timestamp": 1654395630,
+        "sentiment": 0,
+        "published": "June 5, 2022 2:20 AM"
+    },
+    {
+        "title": "Video game worlds are often devoid of children—here's why",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-06-video-game-worlds-devoid-childrenhere.html",
+        "timestamp": 1654404265,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:44 AM"
+    },
+    {
+        "title": "Ukrainian defenders down nine air targets, including warplane and helicopter",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3500040-ukrainian-defenders-down-nine-air-targets-including-warplane-and-helicopter.html",
+        "timestamp": 1654405491,
+        "sentiment": 2,
+        "published": "June 5, 2022 5:04 AM"
+    },
+    {
+        "title": "Taiwan inspired by Ukraine's persistence in war with Russia",
+        "domain": "taiwannews.com.tw",
+        "category": "worldnews",
+        "link": "https://www.taiwannews.com.tw/en/news/4560604",
+        "timestamp": 1654414196,
+        "sentiment": -3,
+        "published": "June 5, 2022 7:29 AM"
     },
     {
         "title": "Hundreds turn out for Taipei Tiananmen Square vigil",
@@ -745,15 +826,6 @@
         "timestamp": 1654348858,
         "sentiment": -1,
         "published": "June 4, 2022 1:20 PM"
-    },
-    {
-        "title": "Suspect who allegedly killed retired judge had hit list that included Mitch McConnell, Gov. Whitmer: Official",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/suspect-allegedly-killed-retired-judge-hit-list-included/story?id=85181587",
-        "timestamp": 1654373374,
-        "sentiment": -3,
-        "published": "June 4, 2022 8:09 PM"
     },
     {
         "title": "Human remains found 50 years ago in Florida are finally identified through DNA testing",
