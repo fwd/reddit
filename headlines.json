@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": 1,
-        "published": "June 5, 2022 1:00 AM"
-    },
-    {
-        "title": "Frederick Co. school board candidate removes LGBTQ books from library by checking them out",
-        "domain": "wtop.com",
-        "category": "news",
-        "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
-        "timestamp": 1654392775,
         "sentiment": 0,
-        "published": "June 5, 2022 1:32 AM"
+        "published": "June 5, 2022 1:00 AM"
     },
     {
         "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
@@ -45,21 +36,12 @@
         "published": "June 5, 2022 4:01 AM"
     },
     {
-        "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-708588",
-        "timestamp": 1654405014,
-        "sentiment": 0,
-        "published": "June 5, 2022 4:56 AM"
-    },
-    {
         "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
         "domain": "gamerant.com",
         "category": "technology",
         "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
         "timestamp": 1654407393,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 5:36 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
         "timestamp": 1654412330,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 6:58 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
         "timestamp": 1654422105,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 9:41 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "news",
         "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
         "timestamp": 1654422987,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 9:56 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
         "timestamp": 1654428889,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 11:34 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "news",
         "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
         "timestamp": 1654429166,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 11:39 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
         "timestamp": 1654432993,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 12:43 PM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "technology",
         "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
         "timestamp": 1654433648,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 12:54 PM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
         "timestamp": 1654434035,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 1:00 PM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/jimmy-kimmel-considers-retiring-1234730778/",
         "timestamp": 1654434646,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 1:10 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
         "timestamp": 1654436637,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 1:43 PM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/lotr-the-rings-of-power-compete-peter-jackson-trilogy-game-of-thrones-exclusive/",
         "timestamp": 1654437689,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 2:01 PM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
         "timestamp": 1654440754,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 2:52 PM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "technology",
         "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
         "timestamp": 1654441217,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 3:00 PM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "technology",
         "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
         "timestamp": 1654443338,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 3:35 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://www.ktvu.com/news/marriott-to-suspend-all-of-its-operations-in-russia",
         "timestamp": 1654444116,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 3:48 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/intelarrow/status/1533474968234762242?s=21&t=NN1ocLQakwJd-fBlXrBqxQ",
         "timestamp": 1654445247,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 4:07 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/scrubs-revival-bill-lawrence-reunion-1235285125/",
         "timestamp": 1654446788,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 4:33 PM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments",
         "timestamp": 1654447105,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 4:38 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1533442637973401600",
         "timestamp": 1654448306,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 4:58 PM"
     },
     {
@@ -342,12 +324,21 @@
         "published": "June 5, 2022 5:05 PM"
     },
     {
+        "title": "On June 5, Russian Major General Roman Kutuzov was eliminated. Source, war correspondent Alexander Sladkov.",
+        "domain": "reddit.com",
+        "category": "ukraine",
+        "link": "https://www.reddit.com/gallery/v5hwmo",
+        "timestamp": 1654449355,
+        "sentiment": -2,
+        "published": "June 5, 2022 5:15 PM"
+    },
+    {
         "title": "Students of color push back on calls for police in schools",
         "domain": "apnews.com",
         "category": "news",
         "link": "https://apnews.com/article/uvalde-school-shooting-police-in-schools-755721618f268d6fc7039a8cb255d43a",
         "timestamp": 1654450126,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 5:28 PM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1533499778679595012?t=Y15veKgXZmJUJrAFHOrogA&s=19",
         "timestamp": 1654450189,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 5:29 PM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "television",
         "link": "https://www.marvel.com/articles/tv-shows/i-am-groot-first-poster-disney-plus",
         "timestamp": 1654450507,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 5:35 PM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "technology",
         "link": "https://spectrum.ieee.org/amp/xerox-parc-2657304064",
         "timestamp": 1654451290,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 5, 2022 5:48 PM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "ukraine",
         "link": "https://russia.postsen.com/news/25617/They-killed-everyone-in-the-trap-Severodonetsk-has-become-a-huge-mass-grave-for-the-Russian-army-and-Kadyrovites-%E2%80%93-Yakovina.html",
         "timestamp": 1654454586,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 6:43 PM"
     },
     {
@@ -401,8 +392,62 @@
         "category": "television",
         "link": "https://www.oxygen.com/true-crime-buzz/west-memphis-3-damien-echols-inspired-stranger-things-character",
         "timestamp": 1654455164,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 5, 2022 6:52 PM"
+    },
+    {
+        "title": "Russian Major General Roman Kutuzov killed in eastern Ukraine, Russian state media reporter says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-general-killed-eastern-ukraine-russian-state-media-reporter-says-2022-06-05/",
+        "timestamp": 1654456890,
+        "sentiment": 0,
+        "published": "June 5, 2022 7:21 PM"
+    },
+    {
+        "title": "Love, Death and Robots’ most beautiful episode was \"a love letter to Moebius\"",
+        "domain": "theverge.com",
+        "category": "television",
+        "link": "https://www.theverge.com/23153217/love-death-robots-very-pulse-machine-interview-emily-dean",
+        "timestamp": 1654457052,
+        "sentiment": 0,
+        "published": "June 5, 2022 7:24 PM"
+    },
+    {
+        "title": "Yandex CEO Arkady Volozh resigns after facing EU sanctions",
+        "domain": "datacenterdynamics.com",
+        "category": "technology",
+        "link": "https://www.datacenterdynamics.com/en/news/yandex-ceo-arkady-volozh-resigns-after-facing-eu-sanctions/",
+        "timestamp": 1654457085,
+        "sentiment": -1,
+        "published": "June 5, 2022 7:24 PM"
+    },
+    {
+        "title": "Gunfire erupts at Virginia party, leaving 1 dead, 7 hurt",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/richmond-virginia-shootings-c84dbcfb7aca94a35626087620575663",
+        "timestamp": 1654457227,
+        "sentiment": -1,
+        "published": "June 5, 2022 7:27 PM"
+    },
+    {
+        "title": "Frederick Co. school board candidate removes LGBTQ books from library by checking them out",
+        "domain": "wtop.com",
+        "category": "news",
+        "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
+        "timestamp": 1654392775,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:32 AM"
+    },
+    {
+        "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-708588",
+        "timestamp": 1654405014,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:56 AM"
     },
     {
         "title": "German lawmakers approve €12 minimum wage",
