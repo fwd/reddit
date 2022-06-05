@@ -1,5 +1,14 @@
 [
     {
+        "title": "The underground network of Belarusians sabotaging Vladimir Putin's war in Ukraine and plotting a revolution at home",
+        "domain": "abc.net.au",
+        "category": "ukraine",
+        "link": "https://www.abc.net.au/news/2022-06-05/belarus-opposition-sabotages-russia-in-ukraine-plans-revolution/101072484",
+        "timestamp": 1654387649,
+        "sentiment": -4,
+        "published": "June 5, 2022 12:07 AM"
+    },
+    {
         "title": "Backyard Ibis",
         "domain": "reddit.com",
         "category": "florida",
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 5, 2022 1:32 AM"
     },
     {
@@ -61,6 +70,33 @@
         "timestamp": 1654392952,
         "sentiment": 0,
         "published": "June 5, 2022 1:35 AM"
+    },
+    {
+        "title": "Pain at the pump: Gas costs nearly $10 a gallon at this California station",
+        "domain": "fox5ny.com",
+        "category": "news",
+        "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
+        "timestamp": 1654398379,
+        "sentiment": -2,
+        "published": "June 5, 2022 3:06 AM"
+    },
+    {
+        "title": "Canada handgun sales soar after Trudeau proposes freeze",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
+        "timestamp": 1654398696,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:11 AM"
+    },
+    {
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
+        "domain": "reddit.com",
+        "category": "worldnews",
+        "link": "https://www.reddit.com/live/18hnzysb1elcs",
+        "timestamp": 1654401702,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:01 AM"
     },
     {
         "title": "The \"Doom\" Video Game Has Now Been Ported as a BIOS Update",
