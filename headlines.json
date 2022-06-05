@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -7,
+        "sentiment": -1,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/westworld-evan-rachel-wood-james-marsden-returns-1235038527/",
         "timestamp": 1654390847,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 1:00 AM"
     },
     {
@@ -23,8 +23,341 @@
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -7,
+        "sentiment": -1,
         "published": "June 5, 2022 1:32 AM"
+    },
+    {
+        "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
+        "timestamp": 1654398749,
+        "sentiment": -2,
+        "published": "June 5, 2022 3:12 AM"
+    },
+    {
+        "title": "The only way to deter further Russian aggression is by humiliating Russia in this war. Ukraine has already been doing its part through its immense sacrifices. There is no room now for Western leaders to back down, as it will simply increase Putin's appetite",
+        "domain": "mei.edu",
+        "category": "ukraine",
+        "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
+        "timestamp": 1654400633,
+        "sentiment": -2,
+        "published": "June 5, 2022 3:43 AM"
+    },
+    {
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
+        "domain": "reddit.com",
+        "category": "worldnews",
+        "link": "https://www.reddit.com/live/18hnzysb1elcs",
+        "timestamp": 1654401702,
+        "sentiment": -2,
+        "published": "June 5, 2022 4:01 AM"
+    },
+    {
+        "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-708588",
+        "timestamp": 1654405014,
+        "sentiment": -2,
+        "published": "June 5, 2022 4:56 AM"
+    },
+    {
+        "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
+        "domain": "gamerant.com",
+        "category": "technology",
+        "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
+        "timestamp": 1654407393,
+        "sentiment": 1,
+        "published": "June 5, 2022 5:36 AM"
+    },
+    {
+        "title": "13 injured, 2 dead in Philadelphia shooting, police say",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
+        "timestamp": 1654412330,
+        "sentiment": -1,
+        "published": "June 5, 2022 6:58 AM"
+    },
+    {
+        "title": "Ukraine isn’t just getting American-made killer drones. It’s getting a whole system for remote warfare",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/davidaxe/2022/06/02/ukraine-isnt-just-getting-american-made-killer-drones-its-getting-a-whole-system-for-remote-warfare/",
+        "timestamp": 1654413143,
+        "sentiment": -2,
+        "published": "June 5, 2022 7:12 AM"
+    },
+    {
+        "title": "German lawmakers approve €12 minimum wage",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
+        "timestamp": 1654414764,
+        "sentiment": -2,
+        "published": "June 5, 2022 7:39 AM"
+    },
+    {
+        "title": "Uvalde funeral attendant who encountered gunman says he tried to go after shooter, was held back",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/uvalde-funeral-attendant-encountered-gunman-says-tried-go-was-held-bac-rcna32003",
+        "timestamp": 1654415493,
+        "sentiment": -1,
+        "published": "June 5, 2022 7:51 AM"
+    },
+    {
+        "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
+        "timestamp": 1654422105,
+        "sentiment": 1,
+        "published": "June 5, 2022 9:41 AM"
+    },
+    {
+        "title": "Off-duty Brazoria Co. deputy arrested for public intoxication in Uvalde",
+        "domain": "abc13.com",
+        "category": "news",
+        "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
+        "timestamp": 1654422987,
+        "sentiment": -1,
+        "published": "June 5, 2022 9:56 AM"
+    },
+    {
+        "title": "Russian missile barrage strikes Kyiv, shattering city's month-long sense of calm",
+        "domain": "timesofisrael.com",
+        "category": "worldnews",
+        "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
+        "timestamp": 1654426726,
+        "sentiment": -2,
+        "published": "June 5, 2022 10:58 AM"
+    },
+    {
+        "title": "Florida Gov. Ron DeSantis reaches disgraceful new low in bullying Special Olympics | Opinion — USA TODAY",
+        "domain": "apple.news",
+        "category": "florida",
+        "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
+        "timestamp": 1654428295,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:24 AM"
+    },
+    {
+        "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
+        "timestamp": 1654428889,
+        "sentiment": 1,
+        "published": "June 5, 2022 11:34 AM"
+    },
+    {
+        "title": "Uvalde Border Patrol agent hailed as hero collects $17,000 in personal fundraiser",
+        "domain": "eu.elpasotimes.com",
+        "category": "news",
+        "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
+        "timestamp": 1654429166,
+        "sentiment": -1,
+        "published": "June 5, 2022 11:39 AM"
+    },
+    {
+        "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
+        "domain": "nypost.com",
+        "category": "florida",
+        "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
+        "timestamp": 1654429560,
+        "sentiment": 0,
+        "published": "June 5, 2022 11:46 AM"
+    },
+    {
+        "title": "Ukraine war: Russia using proxy infantry forces as it did in Syria - UK Defence Ministry",
+        "domain": "timesnownews.com",
+        "category": "worldnews",
+        "link": "https://www.timesnownews.com/world/ukraine-war-russia-using-proxy-infantry-forces-as-it-did-in-syria-uk-defence-ministry-article-92020094",
+        "timestamp": 1654431663,
+        "sentiment": -2,
+        "published": "June 5, 2022 12:21 PM"
+    },
+    {
+        "title": "Convicted killer accidentally released from Western Washington prison",
+        "domain": "komonews.com",
+        "category": "news",
+        "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
+        "timestamp": 1654432993,
+        "sentiment": -1,
+        "published": "June 5, 2022 12:43 PM"
+    },
+    {
+        "title": "Amid abortion battle, Ron DeSantis vetoes birth-control funding — again",
+        "domain": "msn.com",
+        "category": "florida",
+        "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
+        "timestamp": 1654433267,
+        "sentiment": 0,
+        "published": "June 5, 2022 12:47 PM"
+    },
+    {
+        "title": "Axon's plans for Taser drones blindsided its AI ethics board",
+        "domain": "protocol.com",
+        "category": "technology",
+        "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
+        "timestamp": 1654433648,
+        "sentiment": 1,
+        "published": "June 5, 2022 12:54 PM"
+    },
+    {
+        "title": "‘Severance’ Creator Knew He Had a Hit the First Time He Saw the Memes",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
+        "timestamp": 1654434035,
+        "sentiment": 3,
+        "published": "June 5, 2022 1:00 PM"
+    },
+    {
+        "title": "Jimmy Kimmel Considers Leaving Late Night TV: ‘I’m Not Going to Do This Forever’",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/jimmy-kimmel-considers-retiring-1234730778/",
+        "timestamp": 1654434646,
+        "sentiment": 3,
+        "published": "June 5, 2022 1:10 PM"
+    },
+    {
+        "title": "Veto list: Gov. DeSantis vetoes long-acting birth control funding again",
+        "domain": "floridapolitics.com",
+        "category": "florida",
+        "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
+        "timestamp": 1654434902,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:15 PM"
+    },
+    {
+        "title": "'Multiple victims' shot, critically hurt near downtown Chattanooga bar, say police",
+        "domain": "newschannel9.com",
+        "category": "news",
+        "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
+        "timestamp": 1654436637,
+        "sentiment": -1,
+        "published": "June 5, 2022 1:43 PM"
+    },
+    {
+        "title": "Austrian Chancellor calls for intermediate EU membership for Ukraine, Moldova.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/05/Austrian-Chancellor-calls-for-intermediate-EU-membership-for-Ukraine-Moldova",
+        "timestamp": 1654436748,
+        "sentiment": -2,
+        "published": "June 5, 2022 1:45 PM"
+    },
+    {
+        "title": "Proud Boys couldn’t have infiltrated Miami-Dade’s GOP if racism were unacceptable | Opinion",
+        "domain": "miamiherald.com",
+        "category": "florida",
+        "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
+        "timestamp": 1654436990,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:49 PM"
+    },
+    {
+        "title": "Pope Francis calls 100 days of war in Ukraine ‘negation of God’s dream’",
+        "domain": "catholicnewsagency.com",
+        "category": "worldnews",
+        "link": "https://www.catholicnewsagency.com/news/251457/pope-francis-ukraine-war-100-days",
+        "timestamp": 1654437676,
+        "sentiment": -2,
+        "published": "June 5, 2022 2:01 PM"
+    },
+    {
+        "title": "LOTR: The Rings Of Power ‘Doesn’t Try To Compete’ With Peter Jackson’s Trilogy, Or Game Of Thrones – Exclusive Image",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/tv/news/lotr-the-rings-of-power-compete-peter-jackson-trilogy-game-of-thrones-exclusive/",
+        "timestamp": 1654437689,
+        "sentiment": 3,
+        "published": "June 5, 2022 2:01 PM"
+    },
+    {
+        "title": "Spain to send state of the art tanks to Ukrainian army",
+        "domain": "brusselstimes.com",
+        "category": "worldnews",
+        "link": "https://www.brusselstimes.com/world-all-news/233779/spain-to-send-state-of-the-art-tanks-to-ukrainian-army",
+        "timestamp": 1654437742,
+        "sentiment": -2,
+        "published": "June 5, 2022 2:02 PM"
+    },
+    {
+        "title": "Investigation: Pool water at 2 popular Vegas day clubs contains E. coli, high levels of bacteria",
+        "domain": "ktnv.com",
+        "category": "news",
+        "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
+        "timestamp": 1654440754,
+        "sentiment": -1,
+        "published": "June 5, 2022 2:52 PM"
+    },
+    {
+        "title": "Draft of Privacy Bill Would Allow Web Users to \"Turn Off\" Targeted Ads and Take Other Steps to Secure Data Privacy and Protection",
+        "domain": "nexttv.com",
+        "category": "technology",
+        "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
+        "timestamp": 1654441217,
+        "sentiment": 1,
+        "published": "June 5, 2022 3:00 PM"
+    },
+    {
+        "title": "Microsoft Aims To Win The Race To Build A New Kind Of Computer. So Does Amazon.",
+        "domain": "seattletimes.com",
+        "category": "technology",
+        "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
+        "timestamp": 1654443338,
+        "sentiment": 1,
+        "published": "June 5, 2022 3:35 PM"
+    },
+    {
+        "title": "Marriott to suspend all of its operations in Russia",
+        "domain": "ktvu.com",
+        "category": "news",
+        "link": "https://www.ktvu.com/news/marriott-to-suspend-all-of-its-operations-in-russia",
+        "timestamp": 1654444116,
+        "sentiment": -1,
+        "published": "June 5, 2022 3:48 PM"
+    },
+    {
+        "title": "Russian General Roman Kutuzov confirmed killed near Popasna.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/intelarrow/status/1533474968234762242?s=21&t=NN1ocLQakwJd-fBlXrBqxQ",
+        "timestamp": 1654445247,
+        "sentiment": -2,
+        "published": "June 5, 2022 4:07 PM"
+    },
+    {
+        "title": "Stolen Ukrainian wheat sold by Russia to Syria: reports",
+        "domain": "english.alaraby.co.uk",
+        "category": "worldnews",
+        "link": "https://english.alaraby.co.uk/news/stolen-ukrainian-wheat-sold-russia-syria-reports",
+        "timestamp": 1654446540,
+        "sentiment": -2,
+        "published": "June 5, 2022 4:29 PM"
+    },
+    {
+        "title": "‘Scrubs’ Cast and Creator Bill Lawrence Are In for a Revival or Movie: ‘We’re Gonna Do It Because We’re Lucky Enough People Care’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/scrubs-revival-bill-lawrence-reunion-1235285125/",
+        "timestamp": 1654446788,
+        "sentiment": 3,
+        "published": "June 5, 2022 4:33 PM"
+    },
+    {
+        "title": "Satellites and AI Can Help Solve Big Problems—If Given the Chance",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments",
+        "timestamp": 1654447105,
+        "sentiment": 1,
+        "published": "June 5, 2022 4:38 PM"
     },
     {
         "title": "Did you know that the Zebra Longwing Butterfly is native to Florida? I redesigned the state's flag around it to honor it.",
@@ -36,78 +369,6 @@
         "published": "June 5, 2022 2:39 AM"
     },
     {
-        "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
-        "timestamp": 1654398749,
-        "sentiment": -1,
-        "published": "June 5, 2022 3:12 AM"
-    },
-    {
-        "title": "The only way to deter further Russian aggression is by humiliating Russia in this war. Ukraine has already been doing its part through its immense sacrifices. There is no room now for Western leaders to back down, as it will simply increase Putin's appetite",
-        "domain": "mei.edu",
-        "category": "ukraine",
-        "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
-        "timestamp": 1654400633,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:43 AM"
-    },
-    {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
-        "domain": "reddit.com",
-        "category": "worldnews",
-        "link": "https://www.reddit.com/live/18hnzysb1elcs",
-        "timestamp": 1654401702,
-        "sentiment": -1,
-        "published": "June 5, 2022 4:01 AM"
-    },
-    {
-        "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-708588",
-        "timestamp": 1654405014,
-        "sentiment": -1,
-        "published": "June 5, 2022 4:56 AM"
-    },
-    {
-        "title": "It Costs $110,000 to Fully Gear-Up in Diablo Immortal",
-        "domain": "gamerant.com",
-        "category": "technology",
-        "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
-        "timestamp": 1654407393,
-        "sentiment": 0,
-        "published": "June 5, 2022 5:36 AM"
-    },
-    {
-        "title": "13 injured, 2 dead in Philadelphia shooting, police say",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/13-injured-dead-philadelphia-shooting-police/story?id=85190991",
-        "timestamp": 1654412330,
-        "sentiment": -7,
-        "published": "June 5, 2022 6:58 AM"
-    },
-    {
-        "title": "Ukraine isn’t just getting American-made killer drones. It’s getting a whole system for remote warfare",
-        "domain": "forbes.com",
-        "category": "worldnews",
-        "link": "https://www.forbes.com/sites/davidaxe/2022/06/02/ukraine-isnt-just-getting-american-made-killer-drones-its-getting-a-whole-system-for-remote-warfare/",
-        "timestamp": 1654413143,
-        "sentiment": -1,
-        "published": "June 5, 2022 7:12 AM"
-    },
-    {
-        "title": "German lawmakers approve €12 minimum wage",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
-        "timestamp": 1654414764,
-        "sentiment": -1,
-        "published": "June 5, 2022 7:39 AM"
-    },
-    {
         "title": "$1 billion has been lost in cryptocurrency scams since 2021, FTC warns",
         "domain": "edition.cnn.com",
         "category": "news",
@@ -117,78 +378,6 @@
         "published": "June 5, 2022 7:46 AM"
     },
     {
-        "title": "Uvalde funeral attendant who encountered gunman says he tried to go after shooter, was held back",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/uvalde-funeral-attendant-encountered-gunman-says-tried-go-was-held-bac-rcna32003",
-        "timestamp": 1654415493,
-        "sentiment": -7,
-        "published": "June 5, 2022 7:51 AM"
-    },
-    {
-        "title": "Facebook whistleblower Frances Haugen says Meta can't recover until Mark Zuckerberg steps down: report",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
-        "timestamp": 1654422105,
-        "sentiment": 0,
-        "published": "June 5, 2022 9:41 AM"
-    },
-    {
-        "title": "Off-duty Brazoria Co. deputy arrested for public intoxication in Uvalde",
-        "domain": "abc13.com",
-        "category": "news",
-        "link": "https://abc13.com/uvalde-off-duty-deputy-arrested-brazoria-county-sheriffs-office/11927995/",
-        "timestamp": 1654422987,
-        "sentiment": -7,
-        "published": "June 5, 2022 9:56 AM"
-    },
-    {
-        "title": "Russian missile barrage strikes Kyiv, shattering city's month-long sense of calm",
-        "domain": "timesofisrael.com",
-        "category": "worldnews",
-        "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
-        "timestamp": 1654426726,
-        "sentiment": -1,
-        "published": "June 5, 2022 10:58 AM"
-    },
-    {
-        "title": "Florida Gov. Ron DeSantis reaches disgraceful new low in bullying Special Olympics | Opinion — USA TODAY",
-        "domain": "apple.news",
-        "category": "florida",
-        "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
-        "timestamp": 1654428295,
-        "sentiment": -2,
-        "published": "June 5, 2022 11:24 AM"
-    },
-    {
-        "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
-        "timestamp": 1654428889,
-        "sentiment": 0,
-        "published": "June 5, 2022 11:34 AM"
-    },
-    {
-        "title": "Uvalde Border Patrol agent hailed as hero collects $17,000 in personal fundraiser",
-        "domain": "eu.elpasotimes.com",
-        "category": "news",
-        "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
-        "timestamp": 1654429166,
-        "sentiment": -7,
-        "published": "June 5, 2022 11:39 AM"
-    },
-    {
-        "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
-        "domain": "nypost.com",
-        "category": "florida",
-        "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
-        "timestamp": 1654429560,
-        "sentiment": -2,
-        "published": "June 5, 2022 11:46 AM"
-    },
-    {
         "title": "4 members of the international legion (volunteers from the Netherlands, Germany, Australia and France) gave their lives in the counterattack on Severodonetsk.",
         "domain": "twitter.com",
         "category": "ukraine",
@@ -196,123 +385,6 @@
         "timestamp": 1654431620,
         "sentiment": 0,
         "published": "June 5, 2022 12:20 PM"
-    },
-    {
-        "title": "Ukraine war: Russia using proxy infantry forces as it did in Syria - UK Defence Ministry",
-        "domain": "timesnownews.com",
-        "category": "worldnews",
-        "link": "https://www.timesnownews.com/world/ukraine-war-russia-using-proxy-infantry-forces-as-it-did-in-syria-uk-defence-ministry-article-92020094",
-        "timestamp": 1654431663,
-        "sentiment": -1,
-        "published": "June 5, 2022 12:21 PM"
-    },
-    {
-        "title": "Convicted killer accidentally released from Western Washington prison",
-        "domain": "komonews.com",
-        "category": "news",
-        "link": "https://komonews.com/news/local/convicted-killer-accidentally-released-from-western-washington-prison",
-        "timestamp": 1654432993,
-        "sentiment": -7,
-        "published": "June 5, 2022 12:43 PM"
-    },
-    {
-        "title": "Amid abortion battle, Ron DeSantis vetoes birth-control funding — again",
-        "domain": "msn.com",
-        "category": "florida",
-        "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
-        "timestamp": 1654433267,
-        "sentiment": -2,
-        "published": "June 5, 2022 12:47 PM"
-    },
-    {
-        "title": "Axon's plans for Taser drones blindsided its AI ethics board",
-        "domain": "protocol.com",
-        "category": "technology",
-        "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
-        "timestamp": 1654433648,
-        "sentiment": 0,
-        "published": "June 5, 2022 12:54 PM"
-    },
-    {
-        "title": "‘Severance’ Creator Knew He Had a Hit the First Time He Saw the Memes",
-        "domain": "indiewire.com",
-        "category": "television",
-        "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
-        "timestamp": 1654434035,
-        "sentiment": 0,
-        "published": "June 5, 2022 1:00 PM"
-    },
-    {
-        "title": "Jimmy Kimmel Considers Leaving Late Night TV: ‘I’m Not Going to Do This Forever’",
-        "domain": "indiewire.com",
-        "category": "television",
-        "link": "https://www.indiewire.com/2022/06/jimmy-kimmel-considers-retiring-1234730778/",
-        "timestamp": 1654434646,
-        "sentiment": 0,
-        "published": "June 5, 2022 1:10 PM"
-    },
-    {
-        "title": "Veto list: Gov. DeSantis vetoes long-acting birth control funding again",
-        "domain": "floridapolitics.com",
-        "category": "florida",
-        "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
-        "timestamp": 1654434902,
-        "sentiment": -2,
-        "published": "June 5, 2022 1:15 PM"
-    },
-    {
-        "title": "'Multiple victims' shot, critically hurt near downtown Chattanooga bar, say police",
-        "domain": "newschannel9.com",
-        "category": "news",
-        "link": "https://newschannel9.com/news/local/heavy-police-presence-in-downtown-chattanooga-sunday-morning-mass-shooting-crime-marys-bar-grill-mccallie-lyerly-gun-violence",
-        "timestamp": 1654436637,
-        "sentiment": -7,
-        "published": "June 5, 2022 1:43 PM"
-    },
-    {
-        "title": "Austrian Chancellor calls for intermediate EU membership for Ukraine, Moldova.",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/05/Austrian-Chancellor-calls-for-intermediate-EU-membership-for-Ukraine-Moldova",
-        "timestamp": 1654436748,
-        "sentiment": -1,
-        "published": "June 5, 2022 1:45 PM"
-    },
-    {
-        "title": "Proud Boys couldn’t have infiltrated Miami-Dade’s GOP if racism were unacceptable | Opinion",
-        "domain": "miamiherald.com",
-        "category": "florida",
-        "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
-        "timestamp": 1654436990,
-        "sentiment": -2,
-        "published": "June 5, 2022 1:49 PM"
-    },
-    {
-        "title": "Pope Francis calls 100 days of war in Ukraine ‘negation of God’s dream’",
-        "domain": "catholicnewsagency.com",
-        "category": "worldnews",
-        "link": "https://www.catholicnewsagency.com/news/251457/pope-francis-ukraine-war-100-days",
-        "timestamp": 1654437676,
-        "sentiment": -1,
-        "published": "June 5, 2022 2:01 PM"
-    },
-    {
-        "title": "LOTR: The Rings Of Power ‘Doesn’t Try To Compete’ With Peter Jackson’s Trilogy, Or Game Of Thrones – Exclusive Image",
-        "domain": "empireonline.com",
-        "category": "television",
-        "link": "https://www.empireonline.com/tv/news/lotr-the-rings-of-power-compete-peter-jackson-trilogy-game-of-thrones-exclusive/",
-        "timestamp": 1654437689,
-        "sentiment": 0,
-        "published": "June 5, 2022 2:01 PM"
-    },
-    {
-        "title": "Spain to send state of the art tanks to Ukrainian army",
-        "domain": "brusselstimes.com",
-        "category": "worldnews",
-        "link": "https://www.brusselstimes.com/world-all-news/233779/spain-to-send-state-of-the-art-tanks-to-ukrainian-army",
-        "timestamp": 1654437742,
-        "sentiment": -1,
-        "published": "June 5, 2022 2:02 PM"
     },
     {
         "title": "Apple’s AR/VR Headset Will Dominate WWDC—Even Though It Won’t Be There",
@@ -331,42 +403,6 @@
         "timestamp": 1654440647,
         "sentiment": -1,
         "published": "June 5, 2022 2:50 PM"
-    },
-    {
-        "title": "Investigation: Pool water at 2 popular Vegas day clubs contains E. coli, high levels of bacteria",
-        "domain": "ktnv.com",
-        "category": "news",
-        "link": "https://www.ktnv.com/news/investigation-pool-water-at-2-popular-vegas-day-clubs-contains-e-coli-high-levels-of-bacteria",
-        "timestamp": 1654440754,
-        "sentiment": -7,
-        "published": "June 5, 2022 2:52 PM"
-    },
-    {
-        "title": "Draft of Privacy Bill Would Allow Web Users to \"Turn Off\" Targeted Ads and Take Other Steps to Secure Data Privacy and Protection",
-        "domain": "nexttv.com",
-        "category": "technology",
-        "link": "https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising",
-        "timestamp": 1654441217,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:00 PM"
-    },
-    {
-        "title": "Microsoft Aims To Win The Race To Build A New Kind Of Computer. So Does Amazon.",
-        "domain": "seattletimes.com",
-        "category": "technology",
-        "link": "https://www.seattletimes.com/business/microsoft-aims-to-win-the-race-to-build-a-new-kind-of-supercomputer-so-does-amazon/",
-        "timestamp": 1654443338,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:35 PM"
-    },
-    {
-        "title": "‘Scrubs’ Cast and Creator Bill Lawrence Are In for a Revival or Movie: ‘We’re Gonna Do It Because We’re Lucky Enough People Care’",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/scrubs-revival-bill-lawrence-reunion-1235285125/",
-        "timestamp": 1654446788,
-        "sentiment": 0,
-        "published": "June 5, 2022 4:33 PM"
     },
     {
         "title": "Supreme Leader acknowledges Iran took oil from Greek tankers",
