@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://kvia.com/news/crime/2022/06/04/5-teens-shot-two-critical-in-targeted-graduation-party-shooting-in-socorro-shooting-police-confident-theyll-find-suspect/",
         "timestamp": 1654389517,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 12:38 AM"
     },
     {
@@ -45,22 +45,22 @@
         "published": "June 5, 2022 1:00 AM"
     },
     {
-        "title": "How Harmful Is Social Media?",
-        "domain": "newyorker.com",
-        "category": "technology",
-        "link": "https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think",
-        "timestamp": 1654391626,
-        "sentiment": 0,
-        "published": "June 5, 2022 1:13 AM"
-    },
-    {
         "title": "Frederick Co. school board candidate removes LGBTQ books from library by checking them out",
         "domain": "wtop.com",
         "category": "news",
         "link": "https://wtop.com/frederick-county/2022/06/a-frederick-county-school-board-candidate-checks-out-all-lgbtq-library-books/",
         "timestamp": 1654392775,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 1:32 AM"
+    },
+    {
+        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
+        "timestamp": 1654392952,
+        "sentiment": 0,
+        "published": "June 5, 2022 1:35 AM"
     },
     {
         "title": "Justified’ Creatives Look Back At The Magic Behind Hit FX Series—ATX",
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.fox5ny.com/news/gas-is-nearly-10-a-gallon-at-this-california",
         "timestamp": 1654398379,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 5, 2022 3:06 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/canada-handgun-sales-soar-after-trudeau-proposes-freeze/ar-AAY5SdY?ocid=EMMX&cvid=8cd3f67ca64348338be10566ee4cee24",
         "timestamp": 1654398696,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 3:11 AM"
     },
     {
@@ -95,8 +95,26 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 3:12 AM"
+    },
+    {
+        "title": "‘Tiger King’ star Doc Antle to face money laundering charges",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/doc-antle-arrested-money-laundering-charges-tiger-king-8f3f23df769d532e1584bf14f645bde1",
+        "timestamp": 1654400204,
+        "sentiment": -2,
+        "published": "June 5, 2022 3:36 AM"
+    },
+    {
+        "title": "The only way to deter further Russian aggression is by humiliating Russia in this war. Ukraine has already been doing its part through its immense sacrifices. There is no room now for Western leaders to back down, as it will simply increase Putin's appetite",
+        "domain": "mei.edu",
+        "category": "ukraine",
+        "link": "https://www.mei.edu/publications/trying-save-russia-humiliation-not-right-way-end-war-ukraine",
+        "timestamp": 1654400633,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:43 AM"
     },
     {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
@@ -104,17 +122,35 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 5, 2022 4:01 AM"
     },
     {
-        "title": "North Korea fires ballistic missile to Sea of Japan: South Korea military",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
-        "timestamp": 1654392952,
+        "title": "New York state passes first electronics right-to-repair bill",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/06/ny-passes-right-to-repair-will-require-tech-oems-to-share-tools-diagnostic-info/",
+        "timestamp": 1654403970,
+        "sentiment": -3,
+        "published": "June 5, 2022 4:39 AM"
+    },
+    {
+        "title": "Video game worlds are often devoid of children—here's why",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-06-video-game-worlds-devoid-childrenhere.html",
+        "timestamp": 1654404265,
+        "sentiment": -3,
+        "published": "June 5, 2022 4:44 AM"
+    },
+    {
+        "title": "How Harmful Is Social Media?",
+        "domain": "newyorker.com",
+        "category": "technology",
+        "link": "https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think",
+        "timestamp": 1654391626,
         "sentiment": 0,
-        "published": "June 5, 2022 1:35 AM"
+        "published": "June 5, 2022 1:13 AM"
     },
     {
         "title": "The \"Doom\" Video Game Has Now Been Ported as a BIOS Update",
