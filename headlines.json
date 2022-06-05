@@ -5,7 +5,7 @@
         "category": "florida",
         "link": "https://www.reddit.com/gallery/v51kbc",
         "timestamp": 1654387840,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 5, 2022 12:10 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://us.yahoo.com/news/supreme-leader-acknowledges-iran-took-095509159.html",
         "timestamp": 1654387886,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 12:11 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/847dc46f0264-breaking-news-n-korea-fires-ballistic-missile-to-sea-of-japan-s-korea-military.html",
         "timestamp": 1654392952,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 1:35 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v53x0r",
         "timestamp": 1654396774,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "June 5, 2022 2:39 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
         "timestamp": 1654398749,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 3:12 AM"
     },
     {
@@ -104,17 +104,8 @@
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 4:01 AM"
-    },
-    {
-        "title": "The Russian Army has run out of trained infantry, which is what \"Culminating Point\" means. - Trent Telenko on Twitter",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
-        "timestamp": 1654401876,
-        "sentiment": 0,
-        "published": "June 5, 2022 4:04 AM"
     },
     {
         "title": "Ukraine military intelligence claims Russia dependent on western tech - The GUR said US-made electronics were found in Russian Pantsir air defense systems, Ka-52 Alligator attack helicopters and Kh-101 cruise missiles.",
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/international/article-708588",
         "timestamp": 1654405014,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 4:56 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/",
         "timestamp": 1654407393,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 5:36 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows",
         "timestamp": 1654407969,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 5:46 AM"
     },
     {
@@ -162,6 +153,15 @@
         "published": "June 5, 2022 6:58 AM"
     },
     {
+        "title": "Ukraine isn’t just getting American-made killer drones. It’s getting a whole system for remote warfare",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/davidaxe/2022/06/02/ukraine-isnt-just-getting-american-made-killer-drones-its-getting-a-whole-system-for-remote-warfare/",
+        "timestamp": 1654413143,
+        "sentiment": -2,
+        "published": "June 5, 2022 7:12 AM"
+    },
+    {
         "title": "Spain is ready to deliver anti-aircraft missiles and Leopard battle tanks to Ukraine",
         "domain": "elpais.com",
         "category": "ukraine",
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/german-lawmakers-approve-12-minimum-wage/a-62020989",
         "timestamp": 1654414764,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 7:39 AM"
     },
     {
@@ -198,13 +198,13 @@
         "published": "June 5, 2022 7:56 AM"
     },
     {
-        "title": "Trump Is Moving From Florida to New Jersey and Republicans Will Follow",
-        "domain": "businessinsider.com",
-        "category": "florida",
-        "link": "https://www.businessinsider.com/trump-leaving-florida-for-new-jersey-to-escape-the-summer-heat-2022-5",
-        "timestamp": 1654420595,
-        "sentiment": 0,
-        "published": "June 5, 2022 9:16 AM"
+        "title": "Russia will strike harder if longer-range missiles supplied to Ukraine: Putin",
+        "domain": "zeenews.india.com",
+        "category": "worldnews",
+        "link": "https://zeenews.india.com/world/russia-will-strike-harder-if-longer-range-missiles-supplied-to-ukraine-putin-warns-west-2470703.html",
+        "timestamp": 1654420818,
+        "sentiment": -2,
+        "published": "June 5, 2022 9:20 AM"
     },
     {
         "title": "Greece is to send to Ukraine a large number of weapons. Thank you !",
@@ -221,7 +221,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/frances-haugen-facebook-unable-to-recover-until-zuckerberg-steps-down-2022-6",
         "timestamp": 1654422105,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 5, 2022 9:41 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "florida",
         "link": "https://apnews.com/article/climate-storms-fort-pierce-and-environment-tropical-09133cbd84dc90dde3fb54489a5759e4",
         "timestamp": 1654422695,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 5, 2022 9:51 AM"
     },
     {
@@ -248,8 +248,107 @@
         "category": "worldnews",
         "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
         "timestamp": 1654426726,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 10:58 AM"
+    },
+    {
+        "title": "Man raised in Pinellas climbs Mt. Everest, raises $140,000 to fund diabetes research",
+        "domain": "abcactionnews.com",
+        "category": "florida",
+        "link": "https://www.abcactionnews.com/news/region-pinellas/man-raised-in-pinellas-climbs-mt-everest-raises-140-000-to-fight-juvenile-diabetes",
+        "timestamp": 1654428302,
+        "sentiment": -3,
+        "published": "June 5, 2022 11:25 AM"
+    },
+    {
+        "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
+        "timestamp": 1654428889,
+        "sentiment": -1,
+        "published": "June 5, 2022 11:34 AM"
+    },
+    {
+        "title": "Uvalde Border Patrol agent hailed as hero collects $17,000 in personal fundraiser",
+        "domain": "eu.elpasotimes.com",
+        "category": "news",
+        "link": "https://eu.elpasotimes.com/story/news/2022/06/03/uvalde-school-shooting-border-patrol-agent-jacob-albarado-gofundme/7483097001/",
+        "timestamp": 1654429166,
+        "sentiment": -1,
+        "published": "June 5, 2022 11:39 AM"
+    },
+    {
+        "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
+        "domain": "nypost.com",
+        "category": "florida",
+        "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
+        "timestamp": 1654429560,
+        "sentiment": -3,
+        "published": "June 5, 2022 11:46 AM"
+    },
+    {
+        "title": "Amid abortion battle, Ron DeSantis vetoes birth-control funding — again",
+        "domain": "msn.com",
+        "category": "florida",
+        "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
+        "timestamp": 1654433267,
+        "sentiment": -3,
+        "published": "June 5, 2022 12:47 PM"
+    },
+    {
+        "title": "Axon's plans for Taser drones blindsided its AI ethics board",
+        "domain": "protocol.com",
+        "category": "technology",
+        "link": "https://www.protocol.com/amp/axon-taser-drone-ethics-2657455422",
+        "timestamp": 1654433648,
+        "sentiment": -1,
+        "published": "June 5, 2022 12:54 PM"
+    },
+    {
+        "title": "‘Severance’ Creator Knew He Had a Hit the First Time He Saw the Memes",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/severance-creator-interview-ben-stiller-memes-1234730184/",
+        "timestamp": 1654434035,
+        "sentiment": 1,
+        "published": "June 5, 2022 1:00 PM"
+    },
+    {
+        "title": "Veto list: Gov. DeSantis vetoes long-acting birth control funding again",
+        "domain": "floridapolitics.com",
+        "category": "florida",
+        "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
+        "timestamp": 1654434902,
+        "sentiment": -3,
+        "published": "June 5, 2022 1:15 PM"
+    },
+    {
+        "title": "Proud Boys couldn’t have infiltrated Miami-Dade’s GOP if racism were unacceptable | Opinion",
+        "domain": "miamiherald.com",
+        "category": "florida",
+        "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
+        "timestamp": 1654436990,
+        "sentiment": -3,
+        "published": "June 5, 2022 1:49 PM"
+    },
+    {
+        "title": "The Russian Army has run out of trained infantry, which is what \"Culminating Point\" means. - Trent Telenko on Twitter",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TrentTelenko/status/1533206149952159744",
+        "timestamp": 1654401876,
+        "sentiment": 0,
+        "published": "June 5, 2022 4:04 AM"
+    },
+    {
+        "title": "Trump Is Moving From Florida to New Jersey and Republicans Will Follow",
+        "domain": "businessinsider.com",
+        "category": "florida",
+        "link": "https://www.businessinsider.com/trump-leaving-florida-for-new-jersey-to-escape-the-summer-heat-2022-5",
+        "timestamp": 1654420595,
+        "sentiment": 0,
+        "published": "June 5, 2022 9:16 AM"
     },
     {
         "title": "'Westworld' Star James Marsden Set to Return for Season 4",
@@ -259,24 +358,6 @@
         "timestamp": 1654427491,
         "sentiment": 1,
         "published": "June 5, 2022 11:11 AM"
-    },
-    {
-        "title": "Man raised in Pinellas climbs Mt. Everest, raises $140,000 to fund diabetes research",
-        "domain": "abcactionnews.com",
-        "category": "florida",
-        "link": "https://www.abcactionnews.com/news/region-pinellas/man-raised-in-pinellas-climbs-mt-everest-raises-140-000-to-fight-juvenile-diabetes",
-        "timestamp": 1654428302,
-        "sentiment": 0,
-        "published": "June 5, 2022 11:25 AM"
-    },
-    {
-        "title": "Giant Deep Ocean Turbine Trial Offers Hope of Endless Green Power",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/features/2022-05-30/japan-s-deep-ocean-turbine-trial-offers-hope-of-phasing-out-fossil-fuels?sref=YfHlo0rL",
-        "timestamp": 1654428889,
-        "sentiment": 0,
-        "published": "June 5, 2022 11:34 AM"
     },
     {
         "title": "India to replace 30GW of thermal power with renewables: India aims to replace 30GW of thermal power generation capacity with renewable energy by 2026, in a move aimed at reducing emissions from coal-fired power plants.",
@@ -297,15 +378,6 @@
         "published": "June 5, 2022 11:43 AM"
     },
     {
-        "title": "Listen up, New York — Florida sucks, and you’ll all be back in five years",
-        "domain": "nypost.com",
-        "category": "florida",
-        "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
-        "timestamp": 1654429560,
-        "sentiment": 0,
-        "published": "June 5, 2022 11:46 AM"
-    },
-    {
         "title": "Supreme Court allows states to use unlawfully gerrymandered congressional maps in the 2022 midterm elections",
         "domain": "kisaradio.org",
         "category": "news",
@@ -313,15 +385,6 @@
         "timestamp": 1654430307,
         "sentiment": -1,
         "published": "June 5, 2022 11:58 AM"
-    },
-    {
-        "title": "Amid abortion battle, Ron DeSantis vetoes birth-control funding — again",
-        "domain": "msn.com",
-        "category": "florida",
-        "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
-        "timestamp": 1654433267,
-        "sentiment": 0,
-        "published": "June 5, 2022 12:47 PM"
     },
     {
         "title": "New York state passes first electronics right-to-repair bill",
