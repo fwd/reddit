@@ -9,21 +9,12 @@
         "published": "June 5, 2022 1:00 AM"
     },
     {
-        "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
-        "timestamp": 1654398749,
-        "sentiment": 0,
-        "published": "June 5, 2022 3:12 AM"
-    },
-    {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 102, Part 1 (Thread #242)",
         "domain": "reddit.com",
         "category": "worldnews",
         "link": "https://www.reddit.com/live/18hnzysb1elcs",
         "timestamp": 1654401702,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 4:01 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.timesofisrael.com/russian-missile-barrage-strikes-kyiv-shattering-citys-month-long-sense-of-calm/",
         "timestamp": 1654426726,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 10:58 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "florida",
         "link": "https://apple.news/AJ9csh3Z1SBygwBg0amPQTA",
         "timestamp": 1654428295,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 11:24 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "florida",
         "link": "https://nypost.com/2022/06/01/what-every-new-yorker-moving-to-florida-should-know/",
         "timestamp": 1654429560,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 11:46 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/politics/amid-abortion-battle-desantis-vetoes-birth-control-funding-again/ar-AAY6eaT?ocid=winp1taskbar&cvid=1ed38515310946a9fa09a4578eeba58a",
         "timestamp": 1654433267,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 12:47 PM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/529498-veto-list-gov-ron-desantis-vetoes-long-acting-birth-control-funding-again/",
         "timestamp": 1654434902,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 1:15 PM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/05/Austrian-Chancellor-calls-for-intermediate-EU-membership-for-Ukraine-Moldova",
         "timestamp": 1654436748,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 1:45 PM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article262065077.html",
         "timestamp": 1654436990,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 1:49 PM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.brusselstimes.com/world-all-news/233779/spain-to-send-state-of-the-art-tanks-to-ukrainian-army",
         "timestamp": 1654437742,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 2:02 PM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.itv.com/news/2022-06-04/pm-faces-prospect-of-no-confidence-vote-as-poll-signals-tory-wakefield-defeat",
         "timestamp": 1654440647,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 2:50 PM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12477284",
         "timestamp": 1654447649,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 4:47 PM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "worldnews",
         "link": "https://euromaidanpress.com/2022/06/05/tens-of-thousands-of-russians-wounded-in-ukraine-overwhelming-putin-optimized-hospitals/",
         "timestamp": 1654448729,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 5:05 PM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "worldnews",
         "link": "https://reneweconomy.com.au/wind-power-meets-and-beats-denmarks-total-electricity-demand-two-days-in-a-row/",
         "timestamp": 1654453332,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 6:22 PM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-general-killed-eastern-ukraine-russian-state-media-reporter-says-2022-06-05/",
         "timestamp": 1654456890,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 7:21 PM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "florida",
         "link": "https://www.reddit.com/gallery/v5kzeh",
         "timestamp": 1654458338,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 7:45 PM"
     },
     {
@@ -428,8 +419,17 @@
         "category": "worldnews",
         "link": "https://www.thecanary.co/trending/2022/06/05/scientists-urge-the-world-to-wake-up-as-yet-another-dire-climate-record-is-broken/",
         "timestamp": 1654460002,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 5, 2022 8:13 PM"
+    },
+    {
+        "title": "Europe: Free public transport gains traction",
+        "domain": "m.dw.com",
+        "category": "worldnews",
+        "link": "https://m.dw.com/en/free-public-transport-in-europe/a-62031236",
+        "timestamp": 1654461633,
+        "sentiment": 3,
+        "published": "June 5, 2022 8:40 PM"
     },
     {
         "title": "'I'm not going to help you:' Man drowned in Tempe Town Lake as police watched, transcripts reveal",
@@ -439,6 +439,15 @@
         "timestamp": 1654462930,
         "sentiment": -1,
         "published": "June 5, 2022 9:02 PM"
+    },
+    {
+        "title": "Bosnian Foreign Minister declares “Lavrov will not enter the soil of Bosnia and Herzegovina”. Despite efforts by Serb/Croat secessionists in Bosnia to be pro-Russia, Bosnia will sign on to the EU sanctions and bar Lavrov from entry. The circle around Serbia closing quicker. Bosnia is with Ukraine!",
+        "domain": "oslobodjenje.ba",
+        "category": "ukraine",
+        "link": "https://www.oslobodjenje.ba/vijesti/bih/ostra-reakcija-ministrice-turkovic-sergej-lavrov-ne-smije-stupiti-na-tlo-bosne-i-hercegovine-765102",
+        "timestamp": 1654463094,
+        "sentiment": -2,
+        "published": "June 5, 2022 9:04 PM"
     },
     {
         "title": "Scientists develop a 'fabric' that turns body movement into electricity",
@@ -455,8 +464,26 @@
         "category": "miami",
         "link": "https://www.reddit.com/gallery/v5o0nm",
         "timestamp": 1654467401,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 5, 2022 10:16 PM"
+    },
+    {
+        "title": "No-swim advisory issued after sewer overflows in central Miami-Dade",
+        "domain": "cbsnews.com",
+        "category": "miami",
+        "link": "https://www.cbsnews.com/miami/news/miami-dade-no-swim-advisory-sewer-overflows-bill-baggs-state-park/",
+        "timestamp": 1654468914,
+        "sentiment": -2,
+        "published": "June 5, 2022 10:41 PM"
+    },
+    {
+        "title": "Russian agent linked to radioactive poisoning of Alexander Litvinenko dies from Covid",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russian-agent-linked-radioactive-poisoning-133700278.html",
+        "timestamp": 1654398749,
+        "sentiment": 0,
+        "published": "June 5, 2022 3:12 AM"
     },
     {
         "title": "5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect",
