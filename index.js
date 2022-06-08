@@ -29,8 +29,14 @@ const subreddits = [
 	'television',
 	'ukraine',
 	'miami',
-	'florida',
 	'technology',
+//	'movies',
+	'sports',
+//	'entertaiment',
+//	'gadgets',
+	'politics',
+	'FLgovernment',
+	'florida'
 //	'politics',
 	// 'entertainment',
 	// 'gaming',
@@ -75,6 +81,7 @@ async function scrape() {
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
+                'reddit.com',
 		'youtu.be',
 		'youtube.com',
 	]
