@@ -1,5 +1,563 @@
 [
     {
+        "title": "Scotland leader to start campaign for new independence vote",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/boris-johnson-business-london-united-kingdom-referendums-8598d8bb1a8bc75b5a9149b24fe16fb6",
+        "timestamp": 1655200013,
+        "sentiment": 0,
+        "published": "June 14, 2022 5:46 AM"
+    },
+    {
+        "title": "Meta, Google, and Twitter are set to face huge fines if they don't tackle deepfakes and fake accounts on their platforms",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/meta-google-twitter-tackle-deepfakes-face-huge-eu-fines-report-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655200690,
+        "sentiment": -1,
+        "published": "June 14, 2022 5:58 AM"
+    },
+    {
+        "title": "'The American People Support Me, Not You': In Fox Debate, Sanders Makes Case for Progressive Agenda.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/14/american-people-support-me-not-you-fox-debate-sanders-makes-case-progressive-agenda",
+        "timestamp": 1655204398,
+        "sentiment": -2,
+        "published": "June 14, 2022 6:59 AM"
+    },
+    {
+        "title": "Fox News Analyst: Republicans Will Secretly Be 'Glad' If Jan. 6 Panel Damages Trump Brit Hume predicted \"a great many Republicans would privately be very glad\" if the findings made Trump's possible 2024 candidacy \"go away.\"",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/brit-hume-republicans-trump-jan-6_n_62a7ec5ae4b0cf43c84d7e6a",
+        "timestamp": 1655204776,
+        "sentiment": -2,
+        "published": "June 14, 2022 7:06 AM"
+    },
+    {
+        "title": "Russia invents ''new G8'' - with Brazil and Iran",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/11/7351902/",
+        "timestamp": 1655205328,
+        "sentiment": 0,
+        "published": "June 14, 2022 7:15 AM"
+    },
+    {
+        "title": "Not This Time: The 25 best fictional stories from \"Beyond Belief - Fact or Fiction\" (to mark the 25th anniversary of the series)",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/beyond-belief-25-best-fictional-stories-tv-jonathan-fra-1848951332",
+        "timestamp": 1655206596,
+        "sentiment": -2,
+        "published": "June 14, 2022 7:36 AM"
+    },
+    {
+        "title": "Sky News Australia is a global hub for climate misinformation, report says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/media/2022/jun/14/sky-news-australia-is-a-global-hub-for-climate-misinformation-report-says",
+        "timestamp": 1655206831,
+        "sentiment": 0,
+        "published": "June 14, 2022 7:40 AM"
+    },
+    {
+        "title": "North Carolina’s plan to ban free EV charging is an environmental disgrace",
+        "domain": "thenextweb.com",
+        "category": "technology",
+        "link": "https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace",
+        "timestamp": 1655207423,
+        "sentiment": -1,
+        "published": "June 14, 2022 7:50 AM"
+    },
+    {
+        "title": "Tech companies rocked by layoffs as industry faces biggest downturn in two decades",
+        "domain": "cbsnews.com",
+        "category": "technology",
+        "link": "https://www.cbsnews.com/news/tech-companies-layoffs-stock-market-cryptocurrency/",
+        "timestamp": 1655207771,
+        "sentiment": -1,
+        "published": "June 14, 2022 7:56 AM"
+    },
+    {
+        "title": "Vladimir Putin critic Alexei Navalny 'disappears' from prison colony",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/14/vladimir-putin-critic-alexei-navalny-disappears-from-prison-colony-16825950/",
+        "timestamp": 1655209497,
+        "sentiment": 0,
+        "published": "June 14, 2022 8:24 AM"
+    },
+    {
+        "title": "Coinbase lays off 18% of workforce",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/06/14/coinbase-lays-off-18percent-as-execs-prepare-for-recession-crypto-winter.html",
+        "timestamp": 1655210090,
+        "sentiment": -1,
+        "published": "June 14, 2022 8:34 AM"
+    },
+    {
+        "title": "‘It’s a Grift’: Kimberly Guilfoyle Made $60,000 Introducing Don Jr. at Coup Rally, Jan. 6 Committee Says",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/kimberly-guilfoyle-trump-rally-speech-introduction-1367489/",
+        "timestamp": 1655211505,
+        "sentiment": -2,
+        "published": "June 14, 2022 8:58 AM"
+    },
+    {
+        "title": "Pope blasts Russian 'cruelty,' lauds Ukrainian 'heroism'",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-pope-francis-religion-nato-6e7e47890b64884ce5330bbfa39e8aea",
+        "timestamp": 1655212408,
+        "sentiment": 0,
+        "published": "June 14, 2022 9:13 AM"
+    },
+    {
+        "title": "Alan Grayson to run for Congress in Val Demings’ Orlando seat",
+        "domain": "orlandosentinel.com",
+        "category": "FLgovernment",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-alan-grayson-run-congress-20220614-qnrm6odb4zbixg64622h7evtla-story.html",
+        "timestamp": 1655212754,
+        "sentiment": 0,
+        "published": "June 14, 2022 9:19 AM"
+    },
+    {
+        "title": "Firefox enables its anti-tracking feature by default | The feature prevents websites from tracking your browsing activity.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/firefox-enables-anti-tracking-feature-by-default-130033590.html",
+        "timestamp": 1655213062,
+        "sentiment": -1,
+        "published": "June 14, 2022 9:24 AM"
+    },
+    {
+        "title": "Disney+ Could Hit $1.8B In Ad Revenue by 2025, Netflix May Reach $1.2B, Analyst Estimates",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/netflix-disney-plus-advertising-estimate-analyst-1235165018/",
+        "timestamp": 1655213140,
+        "sentiment": -2,
+        "published": "June 14, 2022 9:25 AM"
+    },
+    {
+        "title": "Russian oligarchs' jets flying over Europe despite sanctions: Report",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russian-oligarchs-jets-europe-eu-airspace-sanctions-ukraine-war-1715611",
+        "timestamp": 1655213379,
+        "sentiment": 0,
+        "published": "June 14, 2022 9:29 AM"
+    },
+    {
+        "title": "Finland's last Lenin monument removed from streets of southern city.",
+        "domain": "yle.fi",
+        "category": "worldnews",
+        "link": "https://yle.fi/news/3-12492284",
+        "timestamp": 1655213519,
+        "sentiment": 0,
+        "published": "June 14, 2022 9:31 AM"
+    },
+    {
+        "title": "Miami Gardens teenager, Ashley Adirika, accepted into 15 prestigious colleges (including all 8 Ivy League schools).",
+        "domain": "edition.cnn.com",
+        "category": "florida",
+        "link": "https://edition.cnn.com/2022/06/12/us/ashley-adirika-ivy-league-colleges-cec/index.html",
+        "timestamp": 1655214291,
+        "sentiment": 0,
+        "published": "June 14, 2022 9:44 AM"
+    },
+    {
+        "title": "Serena Williams Plans to Play in Wimbledon",
+        "domain": "nytimes.com",
+        "category": "sports",
+        "link": "https://www.nytimes.com/2022/06/14/sports/tennis/serena-williams-wimbledon.html?referringSource=articleShare",
+        "timestamp": 1655214318,
+        "sentiment": -1,
+        "published": "June 14, 2022 9:45 AM"
+    },
+    {
+        "title": "I thought the Jan. 6 committee wouldn’t matter. I was wrong.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/14/january-6-committee-hearings-impact-trump-aides/",
+        "timestamp": 1655215206,
+        "sentiment": -2,
+        "published": "June 14, 2022 10:00 AM"
+    },
+    {
+        "title": "The world's richest cricket league has just got a lot richer. The IPL's blockbuster media rights auction will net a potential INR 48,390 crore (US$ 6.2 billion approx.) in the next five years, making the league among the wealthiest in the world of sports.",
+        "domain": "espncricinfo.com",
+        "category": "sports",
+        "link": "https://www.espncricinfo.com/story/disney-star-and-viacom-share-the-spoils-in-6-billion-dollar-plus-ipl-rights-deal-1319863",
+        "timestamp": 1655215378,
+        "sentiment": -1,
+        "published": "June 14, 2022 10:02 AM"
+    },
+    {
+        "title": "New Survey of Voters Has Message for Biden: Fight Corporate Greed to Rein in Inflation",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/14/new-survey-voters-has-message-biden-fight-corporate-greed-rein-inflation",
+        "timestamp": 1655215892,
+        "sentiment": -2,
+        "published": "June 14, 2022 10:11 AM"
+    },
+    {
+        "title": "Coinbase lays off 18% of workforce as executives prepare for recession and ‘crypto winter’",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/14/coinbase-lays-off-18percent-as-execs-prepare-for-recession-crypto-winter.html",
+        "timestamp": 1655216785,
+        "sentiment": 0,
+        "published": "June 14, 2022 10:26 AM"
+    },
+    {
+        "title": "‘The Wendy Williams Show’ Officially Ending After 13 Years In Syndication; Final Episode Airs June 17",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/the-wendy-williams-show-officially-ending-after-13-years-in-syndication-1235044953/",
+        "timestamp": 1655217654,
+        "sentiment": -2,
+        "published": "June 14, 2022 10:40 AM"
+    },
+    {
+        "title": "Florida is slow to move to new FBI crime reporting system",
+        "domain": "axios.com",
+        "category": "florida",
+        "link": "https://www.axios.com/local/tampa-bay/2022/06/14/florida-crime-reporting-fbi-2021",
+        "timestamp": 1655217656,
+        "sentiment": 0,
+        "published": "June 14, 2022 10:40 AM"
+    },
+    {
+        "title": "Firefox Rolls Out Total Cookie Protection By Default To All Users",
+        "domain": "blog.mozilla.org",
+        "category": "technology",
+        "link": "https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
+        "timestamp": 1655217837,
+        "sentiment": -1,
+        "published": "June 14, 2022 10:43 AM"
+    },
+    {
+        "title": "Bruce Smith: Tony Boselli's Hall of Fame campaign undermined the integrity of the Hall - ProFootballTalk",
+        "domain": "profootballtalk.nbcsports.com",
+        "category": "sports",
+        "link": "https://profootballtalk.nbcsports.com/2022/06/14/bruce-smith-tony-bosellis-hall-of-fame-campaign-undermined-the-integrity-of-the-hall/",
+        "timestamp": 1655218871,
+        "sentiment": -1,
+        "published": "June 14, 2022 11:01 AM"
+    },
+    {
+        "title": "Explosion Rocks Russia Days After Ukrainian 'Saboteurs' Cross Border",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/explosion-rocks-russia-days-after-ukrainian-saboteurs-cross-border/ar-AAYqSOO?ocid=msedgntp&cvid=77bc51d0257f49e2ad5ebad19a855c10",
+        "timestamp": 1655219699,
+        "sentiment": 0,
+        "published": "June 14, 2022 11:14 AM"
+    },
+    {
+        "title": "Marjorie Taylor Greene blames trans men for shortage of tampons",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/06/marjorie-taylor-greene-blames-trans-men-shortage-tampons/",
+        "timestamp": 1655222179,
+        "sentiment": -2,
+        "published": "June 14, 2022 11:56 AM"
+    },
+    {
+        "title": "Adobe plans to make Photoshop on the web free to everyone",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe",
+        "timestamp": 1655225046,
+        "sentiment": -1,
+        "published": "June 14, 2022 12:44 PM"
+    },
+    {
+        "title": "'Ukrainian missile' hits military base 40 miles inside Russia",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10914343/Ukrainian-missile-hits-military-base-40-miles-inside-Russia.html",
+        "timestamp": 1655225230,
+        "sentiment": 0,
+        "published": "June 14, 2022 12:47 PM"
+    },
+    {
+        "title": "MLS and Apple TV agree 10-year deal",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/soccer/major-league-soccer/story/4685725/major-league-soccer-and-apple-tv-agree-10-year-deal",
+        "timestamp": 1655225331,
+        "sentiment": -1,
+        "published": "June 14, 2022 12:48 PM"
+    },
+    {
+        "title": "Florida CFO warns of ‘shrinkflation’ as prices rise",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/florida-cfo-warns-of-shrinkflation-as-prices-rise/",
+        "timestamp": 1655226345,
+        "sentiment": 0,
+        "published": "June 14, 2022 1:05 PM"
+    },
+    {
+        "title": "A Florida teen was accepted into all eight Ivy League schools — and seven other universities",
+        "domain": "wsvn.com",
+        "category": "florida",
+        "link": "https://wsvn.com/news/local/a-florida-teen-was-accepted-into-all-eight-ivy-league-schools-and-seven-other-universities/",
+        "timestamp": 1655226349,
+        "sentiment": 0,
+        "published": "June 14, 2022 1:05 PM"
+    },
+    {
+        "title": "Thieves disappear with 20 shipping containers full of gold and silver ore and TVs from Mexico seaport",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/mexico-shipping-containers-cargo-gold-silver-tv-theft-manzanillo-port/",
+        "timestamp": 1655226359,
+        "sentiment": 0,
+        "published": "June 14, 2022 1:05 PM"
+    },
+    {
+        "title": "Ford recalls nearly 49,000 Mustang Mach-Es over battery safety issues",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/14/23167399/ford-mustang-mache-stop-sale-dealers-defect",
+        "timestamp": 1655226525,
+        "sentiment": -1,
+        "published": "June 14, 2022 1:08 PM"
+    },
+    {
+        "title": "'The Lincoln Lawyer' Renewed for Season 2 at Netflix",
+        "domain": "whats-on-netflix.com",
+        "category": "television",
+        "link": "https://www.whats-on-netflix.com/news/the-lincoln-lawyer-season-2-renewed-at-netflix/",
+        "timestamp": 1655226598,
+        "sentiment": -2,
+        "published": "June 14, 2022 1:09 PM"
+    },
+    {
+        "title": "Georgia Investigators Want Testimony From Kanye West’s Ex-Publicist On Poll Worker Fake Confession Scheme",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/georgia-investigation-kanye-west-publicist-testimony",
+        "timestamp": 1655227364,
+        "sentiment": -2,
+        "published": "June 14, 2022 1:22 PM"
+    },
+    {
+        "title": "Biden: U.S. to build silos on Poland border to export Ukrainian grain",
+        "domain": "politico.com",
+        "category": "ukraine",
+        "link": "https://www.politico.com/news/2022/06/14/biden-u-s-to-build-silos-on-poland-border-to-export-ukrainian-grain-00039455",
+        "timestamp": 1655227716,
+        "sentiment": 2,
+        "published": "June 14, 2022 1:28 PM"
+    },
+    {
+        "title": "New York governor signs legal protections for abortion providers and patients",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/new-york-governor-signs-legal-protections-abortion-providers-patients-2022-06-13/",
+        "timestamp": 1655227769,
+        "sentiment": 0,
+        "published": "June 14, 2022 1:29 PM"
+    },
+    {
+        "title": "United States will send intelligence information to Ukraine for strikes with the help of the MLRS delivered to it, - said the country's Deputy Secretary of Defense Colin Kahl.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/TpyxaNews/status/1536757533003636737",
+        "timestamp": 1655227928,
+        "sentiment": 2,
+        "published": "June 14, 2022 1:32 PM"
+    },
+    {
+        "title": "‘Squid Game: The Challenge’ Reality Series Greenlit at Netflix with Open Casting Call",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/squid-game-the-challenge-reality-netflix-1235293943/",
+        "timestamp": 1655227982,
+        "sentiment": -2,
+        "published": "June 14, 2022 1:33 PM"
+    },
+    {
+        "title": "Russian, Belarusian tennis players will be allowed to compete at US Open.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34091048/russian-belarusian-tennis-players-allowed-compete-us-open",
+        "timestamp": 1655228569,
+        "sentiment": -1,
+        "published": "June 14, 2022 1:42 PM"
+    },
+    {
+        "title": "Wind and solar power are 'bailing out' Texas amid record heat and energy demand",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/14/us/texas-energy-record-solar-wind-climate/index.html",
+        "timestamp": 1655230180,
+        "sentiment": 0,
+        "published": "June 14, 2022 2:09 PM"
+    },
+    {
+        "title": "Rape victim ordered to pay her abuser child support",
+        "domain": "wbrz.com",
+        "category": "news",
+        "link": "https://www.wbrz.com/news/investigative-unit-rape-victim-ordered-to-pay-her-abuser-child-support/",
+        "timestamp": 1655230196,
+        "sentiment": 0,
+        "published": "June 14, 2022 2:09 PM"
+    },
+    {
+        "title": "Ukraine Releases List of Russian Officers Who May Be Sabotaging Putin's War",
+        "domain": "newsweek.com",
+        "category": "ukraine",
+        "link": "https://www.newsweek.com/ukraine-releases-list-russian-officers-allegedly-selling-military-equipment-1715755",
+        "timestamp": 1655230877,
+        "sentiment": 2,
+        "published": "June 14, 2022 2:21 PM"
+    },
+    {
+        "title": "Trump claims Jan 6 hearing postponed over lack of interest despite 20m+ people watching premiere",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-hearing-ratings-b2101004.html",
+        "timestamp": 1655230911,
+        "sentiment": -2,
+        "published": "June 14, 2022 2:21 PM"
+    },
+    {
+        "title": "Japan makes 'online insults' punishable by one year in prison in wake of reality TV star's death",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2022/06/14/asia/japan-cyberbullying-law-intl-hnk-scli/index.html",
+        "timestamp": 1655232015,
+        "sentiment": -1,
+        "published": "June 14, 2022 2:40 PM"
+    },
+    {
+        "title": "\"Jesus, guns, babies\": Religious violence is now at the core of the Republican Party",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/14/jesus-guns-babies-religious-violence-is-now-at-the-core-of-the-party/",
+        "timestamp": 1655232639,
+        "sentiment": -2,
+        "published": "June 14, 2022 2:50 PM"
+    },
+    {
+        "title": "Amazon calls cops, fires workers in attempts to stop unionization nationwide",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/",
+        "timestamp": 1655233175,
+        "sentiment": 0,
+        "published": "June 14, 2022 2:59 PM"
+    },
+    {
+        "title": "'Stranger Things 4' Is Now Netflix's Top English-Language TV Season of All Time",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/stranger-things-4-volume-1-netflix-top-10-ratings-1235294023/",
+        "timestamp": 1655233319,
+        "sentiment": -2,
+        "published": "June 14, 2022 3:01 PM"
+    },
+    {
+        "title": "Teen who fell to his death at Florida amusement park exceeded ride’s weight limit and died of blunt force trauma, autopsy says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/13/us/tyre-sampson-autopsy-icon-park-orlando/index.html",
+        "timestamp": 1655236768,
+        "sentiment": 0,
+        "published": "June 14, 2022 3:59 PM"
+    },
+    {
+        "title": "Massachusetts court blocks gig worker ballot measure backed by Uber, Lyft",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/massachusetts-top-court-blocks-gig-worker-ballot-question-going-forward-2022-06-14/",
+        "timestamp": 1655236785,
+        "sentiment": -1,
+        "published": "June 14, 2022 3:59 PM"
+    },
+    {
+        "title": "White Nationalist With Gay Father Kicked Out Over Attempted Pride Riot",
+        "domain": "advocate.com",
+        "category": "news",
+        "link": "https://www.advocate.com/news/2022/6/14/white-nationalist-gay-father-kicked-out-over-attempted-pride-riot-patriot-front-idaho",
+        "timestamp": 1655237344,
+        "sentiment": 0,
+        "published": "June 14, 2022 4:09 PM"
+    },
+    {
+        "title": "36 House Democrats roll out a bill to hit AR-15-style weapons with a 1,000% tax that could pass Congress without Republican support",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/house-democrats-ar-15-tax-gun-control-reconciliation-2022-6",
+        "timestamp": 1655237346,
+        "sentiment": -2,
+        "published": "June 14, 2022 4:09 PM"
+    },
+    {
+        "title": "Data likely shows Teslas on Autopilot crash more than rivals",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/technology-business-5e6c354622582f9d4607cc5554847558",
+        "timestamp": 1655237640,
+        "sentiment": -1,
+        "published": "June 14, 2022 4:14 PM"
+    },
+    {
+        "title": "Synagogue challenges Florida abortion law over religion",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/abortion-health-religion-lawsuits-florida-6e115c5c1f23eff92161d136940ae91e",
+        "timestamp": 1655239194,
+        "sentiment": 0,
+        "published": "June 14, 2022 4:39 PM"
+    },
+    {
+        "title": "Jon Cryer Says Early Years with Charlie Sheen on Two and a Half Men Were a 'Joy' Before 'Going Off the Rails'",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/jon-cryer-talks-two-and-a-half-men-early-days-before-charlie-sheen-off-the-rails/?",
+        "timestamp": 1655241244,
+        "sentiment": -2,
+        "published": "June 14, 2022 5:14 PM"
+    },
+    {
+        "title": "North Carolina school's requirement that girls wear skirts unconstitutional, court rules",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/north-carolina-schools-requirement-that-girls-wear-skirts-unconstitutional-court-2022-06-14/",
+        "timestamp": 1655242318,
+        "sentiment": 0,
+        "published": "June 14, 2022 5:31 PM"
+    },
+    {
+        "title": "Russia warns Europe will 'disappear' if West gives Ukraine missiles",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10914381/Russia-warns-Europe-disappear-nuclear-apocalypse-West-gives-Ukraine-missiles.html",
+        "timestamp": 1655243419,
+        "sentiment": 0,
+        "published": "June 14, 2022 5:50 PM"
+    },
+    {
+        "title": "Former Vanderbilt AD Malcolm Turner paid $1.6 million in 2020 despite resigning after one month",
+        "domain": "tennessean.com",
+        "category": "sports",
+        "link": "https://www.tennessean.com/story/sports/college/vanderbilt/2022/05/20/former-vanderbilt-ad-malcolm-turner-paid-1-6-million-2020/9862281002/",
+        "timestamp": 1655245881,
+        "sentiment": -1,
+        "published": "June 14, 2022 6:31 PM"
+    },
+    {
         "title": "Russian oligarch Roman Abramovich's British telecoms company Truphone, once worth half a billion dollars, to be sold for $1",
         "domain": "businessinsider.in",
         "category": "worldnews",
