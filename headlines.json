@@ -1,5 +1,14 @@
 [
     {
+        "title": "Stephen Curry is the 2022 NBA Finals MVP",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
+        "timestamp": 1655438644,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:04 AM"
+    },
+    {
         "title": "Boca condo association sued a unit owner who asked to see financial records. Now she owes $395,554 in legal fees.",
         "domain": "archive.ph",
         "category": "FLgovernment",
@@ -23,7 +32,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655454393,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 4:26 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 6:05 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 7:10 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/gonna-lose-gun-idaho-deputy-said-minutes-fatally-shooting-man-mental-h-rcna33601",
         "timestamp": 1655465748,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 7:35 AM"
     },
     {
@@ -104,7 +113,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/massachusetts-catholic-school-nativity-school-worcester-black-lives-matter-pride-flags/",
         "timestamp": 1655466458,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:06 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "news",
         "link": "https://apnews.com/article/colorado-springs-homicide-7147c3a95bf3076a50088ac7d3c70c6a",
         "timestamp": 1655469250,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -158,7 +167,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-series-finale-legacy/",
         "timestamp": 1655469486,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 17, 2022 8:38 AM"
     },
     {
@@ -171,12 +180,30 @@
         "published": "June 17, 2022 9:09 AM"
     },
     {
+        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
+        "domain": "southfloridareporter.com",
+        "category": "miami",
+        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
+        "timestamp": 1655471545,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:12 AM"
+    },
+    {
+        "title": "Dutch fielders searching through the trees and bushes for the ball after an England batsman hits it out of the ground",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/henrymoeranBBC/status/1537732155803049985",
+        "timestamp": 1655471598,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:13 AM"
+    },
+    {
         "title": "USB-C iPhone could become mandatory in the US as senators push for common charger law.",
         "domain": "9to5mac.com",
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/17/usb-c-iphone-united-states/",
         "timestamp": 1655471832,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 9:17 AM"
     },
     {
@@ -194,7 +221,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/16/homes/mortgage-rates-june-16/index.html",
         "timestamp": 1655472439,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 9:27 AM"
     },
     {
@@ -203,7 +230,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/will-forte-to-star-in-obamas-first-netflix-drama-series-bodkin-exclusive-1235167516/",
         "timestamp": 1655474484,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 17, 2022 10:01 AM"
     },
     {
@@ -214,15 +241,6 @@
         "timestamp": 1655475322,
         "sentiment": 0,
         "published": "June 17, 2022 10:15 AM"
-    },
-    {
-        "title": "‘Unacceptable’: Russian warship accused of violating Danish waters",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/17/unacceptable-russian-warship-accused-of-violating-danish-waters",
-        "timestamp": 1655475741,
-        "sentiment": -4,
-        "published": "June 17, 2022 10:22 AM"
     },
     {
         "title": "Russia implores Ukraine to \"stop senseless resistance\" in Severodonetsk",
@@ -239,17 +257,8 @@
         "category": "florida",
         "link": "https://www.local10.com/news/politics/2022/06/16/florida-only-state-not-pre-ordering-toddler-covid-19-jabs/",
         "timestamp": 1655476538,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 10:35 AM"
-    },
-    {
-        "title": "Apple scores deal for Major League Soccer streaming rights worth $2.5bn",
-        "domain": "ft.com",
-        "category": "technology",
-        "link": "https://www.ft.com/content/808efcd4-6ef3-4dde-84dd-c4a365d3614f",
-        "timestamp": 1655477487,
-        "sentiment": 2,
-        "published": "June 17, 2022 10:51 AM"
     },
     {
         "title": "Dr. Oz invests up to $715,000 in companies he blames for skyrocketing insulin costs",
@@ -275,7 +284,7 @@
         "category": "news",
         "link": "https://baltimore.cbslocal.com/2022/06/16/maryland-libraries-vandalized-groomer/",
         "timestamp": 1655480002,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 11:33 AM"
     },
     {
@@ -293,7 +302,7 @@
         "category": "television",
         "link": "https://pressroom.warnermedia.com/us/media-release/hbo-0/hbo-comedy-series-rehearsal-nathan-fielder-debuts-july-15",
         "timestamp": 1655481906,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 17, 2022 12:05 PM"
     },
     {
@@ -315,12 +324,21 @@
         "published": "June 17, 2022 12:23 PM"
     },
     {
+        "title": "Ukraine to bar Russian citizens from entering country without a visa come July - National | Globalnews.ca",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8928591/ukraine-introduces-russia-visa-july/",
+        "timestamp": 1655483144,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:25 PM"
+    },
+    {
         "title": "Senators call for a common charger standard in the US",
         "domain": "engadget.com",
         "category": "technology",
         "link": "https://www.engadget.com/senate-common-charger-standard-143038776.html",
         "timestamp": 1655483217,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 12:26 PM"
     },
     {
@@ -333,21 +351,12 @@
         "published": "June 17, 2022 12:43 PM"
     },
     {
-        "title": "Vince McMahon will step down during WWE misconduct probe",
-        "domain": "pbs.org",
-        "category": "sports",
-        "link": "https://www.pbs.org/newshour/arts/vince-mcmahon-will-step-down-during-wwe-misconduct-probe",
-        "timestamp": 1655484718,
-        "sentiment": 0,
-        "published": "June 17, 2022 12:51 PM"
-    },
-    {
         "title": "Tokayev said that #Kazakhstan doesn’t recognize \"#LPR\" and \"#DPR\" and called them quasi-state territories He noted that international law based on #UN Charter and two fundamental principles- right of nations to self-determination and territorial integrity,came into conflict.",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1537833612615237632",
         "timestamp": 1655484976,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:56 PM"
     },
     {
@@ -356,7 +365,7 @@
         "category": "technology",
         "link": "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage",
         "timestamp": 1655485258,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 1:00 PM"
     },
     {
@@ -374,7 +383,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-dragshow-cancelled-1.6491835",
         "timestamp": 1655485550,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 1:05 PM"
     },
     {
@@ -383,7 +392,7 @@
         "category": "technology",
         "link": "https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access",
         "timestamp": 1655486368,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 1:19 PM"
     },
     {
@@ -410,7 +419,7 @@
         "category": "florida",
         "link": "https://patch.com/florida/sarasota/epa-issues-new-drinking-water-health-advisories-see-florida-impacts?utm_source=reddit&utm_medium=web&utm_campaign=share",
         "timestamp": 1655488965,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 2:02 PM"
     },
     {
@@ -419,7 +428,7 @@
         "category": "ukraine",
         "link": "https://ukdefencejournal.org.uk/uk-offering-to-train-10000-ukrainian-troops-every-120-days/",
         "timestamp": 1655490293,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 2:24 PM"
     },
     {
@@ -428,7 +437,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/transactional/exclusive-us-lawmakers-urge-google-fix-abortion-searches-that-steer-women-fake-2022-06-17/",
         "timestamp": 1655490603,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 2:30 PM"
     },
     {
@@ -437,7 +446,7 @@
         "category": "technology",
         "link": "https://www.theatlantic.com/technology/archive/2022/06/gen-z-internet-anonymity-instagram-tumblr/661316/",
         "timestamp": 1655490680,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 2:31 PM"
     },
     {
@@ -450,21 +459,12 @@
         "published": "June 17, 2022 2:37 PM"
     },
     {
-        "title": "WWE Board Probes Secret $3 Million Hush Pact by CEO Vince McMahon, Sources Say",
-        "domain": "wsj.com",
-        "category": "sports",
-        "link": "https://www.wsj.com/articles/wwe-board-probes-secret-3-million-hush-pact-by-ceo-vince-mcmahon-sources-say-11655322722",
-        "timestamp": 1655491171,
-        "sentiment": 0,
-        "published": "June 17, 2022 2:39 PM"
-    },
-    {
         "title": "Social Media Misinformation Is Making Americans Less Empathic",
         "domain": "forbes.com",
         "category": "technology",
         "link": "https://www.forbes.com/sites/petersuciu/2022/06/17/social-media-misinformation-is-making-americans-less-emphatic/?sh=28e56caf525b",
         "timestamp": 1655491173,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 2:39 PM"
     },
     {
@@ -482,7 +482,7 @@
         "category": "florida",
         "link": "https://apnews.com/article/covid-health-ron-desantis-florida-government-and-politics-f5de4beb6480f63bf6dd9cad3be01b6b",
         "timestamp": 1655491517,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 2:45 PM"
     },
     {
@@ -509,7 +509,7 @@
         "category": "news",
         "link": "https://www.wlbt.com/2022/06/16/high-court-upholds-life-sentence-forrest-co-man-convicted-marijuana-possession/",
         "timestamp": 1655493047,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 3:10 PM"
     },
     {
@@ -518,7 +518,7 @@
         "category": "television",
         "link": "https://www.theatlantic.com/ideas/archive/2022/06/under-the-banner-of-heaven-hulu-mormonism/661279/",
         "timestamp": 1655495982,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 17, 2022 3:59 PM"
     },
     {
@@ -527,17 +527,8 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/17/senators-call-for-us-to-adopt-common-charger/",
         "timestamp": 1655496160,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 17, 2022 4:02 PM"
-    },
-    {
-        "title": "Putin considers entire Soviet Union to be historical Russian territory",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/putin-considers-entire-soviet-union-170032123.html",
-        "timestamp": 1655497332,
-        "sentiment": 0,
-        "published": "June 17, 2022 4:22 PM"
     },
     {
         "title": "Deshaun Watson suspension could be lengthy: NFL to argue that QB should get a 'significant' ban, per report",
@@ -549,13 +540,76 @@
         "published": "June 17, 2022 4:25 PM"
     },
     {
-        "title": "Stephen Curry is the 2022 NBA Finals MVP",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
-        "timestamp": 1655438644,
+        "title": "‘Snowpiercer’ To End With Season 4 On TNT",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/snowpiercer-canceled-end-season-4-tnt-1235047908/",
+        "timestamp": 1655499755,
+        "sentiment": -2,
+        "published": "June 17, 2022 5:02 PM"
+    },
+    {
+        "title": "Lawmakers push for universal chargers for smartphones, mobile devices",
+        "domain": "usatoday.com",
+        "category": "technology",
+        "link": "https://www.usatoday.com/story/tech/2022/06/17/universal-charger-smartphones-mobile-devices/7658935001/",
+        "timestamp": 1655500245,
+        "sentiment": 1,
+        "published": "June 17, 2022 5:10 PM"
+    },
+    {
+        "title": "New Mexico county commissioner who refuses to certify recent election results sentenced for role in January 6 attack",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/17/politics/couy-griffin-capitol-riot-new-mexico-plea/index.html",
+        "timestamp": 1655500395,
         "sentiment": 0,
-        "published": "June 17, 2022 12:04 AM"
+        "published": "June 17, 2022 5:13 PM"
+    },
+    {
+        "title": "‘Unacceptable’: Russian warship accused of violating Danish waters",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/17/unacceptable-russian-warship-accused-of-violating-danish-waters",
+        "timestamp": 1655475741,
+        "sentiment": -4,
+        "published": "June 17, 2022 10:22 AM"
+    },
+    {
+        "title": "Apple scores deal for Major League Soccer streaming rights worth $2.5bn",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/808efcd4-6ef3-4dde-84dd-c4a365d3614f",
+        "timestamp": 1655477487,
+        "sentiment": 2,
+        "published": "June 17, 2022 10:51 AM"
+    },
+    {
+        "title": "Vince McMahon will step down during WWE misconduct probe",
+        "domain": "pbs.org",
+        "category": "sports",
+        "link": "https://www.pbs.org/newshour/arts/vince-mcmahon-will-step-down-during-wwe-misconduct-probe",
+        "timestamp": 1655484718,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:51 PM"
+    },
+    {
+        "title": "WWE Board Probes Secret $3 Million Hush Pact by CEO Vince McMahon, Sources Say",
+        "domain": "wsj.com",
+        "category": "sports",
+        "link": "https://www.wsj.com/articles/wwe-board-probes-secret-3-million-hush-pact-by-ceo-vince-mcmahon-sources-say-11655322722",
+        "timestamp": 1655491171,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:39 PM"
+    },
+    {
+        "title": "Putin considers entire Soviet Union to be historical Russian territory",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/putin-considers-entire-soviet-union-170032123.html",
+        "timestamp": 1655497332,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:22 PM"
     },
     {
         "title": "WWE’s Vince McMahon Steps Back From CEO, Chair Roles Amid Probe Into Alleged Misconduct, Daughter Stephanie Named Interim CEO",
@@ -583,15 +637,6 @@
         "timestamp": 1655470434,
         "sentiment": -2,
         "published": "June 17, 2022 8:53 AM"
-    },
-    {
-        "title": "Dutch fielders searching through the trees and bushes for the ball after an England batsman hits it out of the ground",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/henrymoeranBBC/status/1537732155803049985",
-        "timestamp": 1655471598,
-        "sentiment": 0,
-        "published": "June 17, 2022 9:13 AM"
     },
     {
         "title": "Ukraine hails EU backing for membership as 'historic'",
@@ -655,15 +700,6 @@
         "timestamp": 1655470229,
         "sentiment": 0,
         "published": "June 17, 2022 8:50 AM"
-    },
-    {
-        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
-        "domain": "southfloridareporter.com",
-        "category": "miami",
-        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
-        "timestamp": 1655471545,
-        "sentiment": 0,
-        "published": "June 17, 2022 9:12 AM"
     },
     {
         "title": "FDA authorizes Pfizer and Moderna's Covid vaccines for children as young as 6 months",
