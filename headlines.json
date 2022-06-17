@@ -27,12 +27,21 @@
         "published": "June 17, 2022 12:22 AM"
     },
     {
+        "title": "Divided Kentucky Supreme Court ruled Thursday that police violated a robbery suspect’s constitutional protections by accessing his cellphone without a warrant",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-kentucky-supreme-court-robbery-government-and-politics-4377ab317dbed3aa77824e39f52e94d7?",
+        "timestamp": 1655439986,
+        "sentiment": 2,
+        "published": "June 17, 2022 12:26 AM"
+    },
+    {
         "title": "Russia has ‘strategically lost’ war, says UK defence chief, as Lavrov says Moscow unashamed",
         "domain": "theguardian.com",
         "category": "ukraine",
         "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
         "timestamp": 1655440211,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 12:30 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
         "timestamp": 1655444395,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 1:39 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "news",
         "link": "https://hollywoodlife.com/2022/06/16/amber-heard-releases-therapists-notes-prove-johnny-depp-abuse/",
         "timestamp": 1655445196,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 1:53 AM"
     },
     {
@@ -68,8 +77,26 @@
         "category": "ukraine",
         "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
         "timestamp": 1655447423,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 2:30 AM"
+    },
+    {
+        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
+        "timestamp": 1655450969,
+        "sentiment": 0,
+        "published": "June 17, 2022 3:29 AM"
+    },
+    {
+        "title": "SpaceX reportedly fired employees behind letter criticizing Elon Musk",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
+        "timestamp": 1655453478,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:11 AM"
     },
     {
         "title": "Scotland leader to start campaign for new independence vote",
