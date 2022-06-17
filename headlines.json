@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
         "timestamp": 1655438644,
-        "sentiment": 6,
+        "sentiment": 0,
         "published": "June 17, 2022 12:04 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/uk-sets-russia-sanctions-barbaric-103516824-135908633.html",
         "timestamp": 1655439008,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 12:10 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
         "timestamp": 1655442791,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 1:13 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
         "timestamp": 1655450969,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 3:29 AM"
     },
     {
@@ -95,8 +95,35 @@
         "category": "technology",
         "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
         "timestamp": 1655453478,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 4:11 AM"
+    },
+    {
+        "title": "Lavrov says Russia ‘not ashamed of showing who we are’",
+        "domain": "irishtimes.com",
+        "category": "worldnews",
+        "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
+        "timestamp": 1655455937,
+        "sentiment": -2,
+        "published": "June 17, 2022 4:52 AM"
+    },
+    {
+        "title": "SpaceX fires employees who wrote open letter complaining about Musk - The Verge",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
+        "timestamp": 1655456882,
+        "sentiment": 2,
+        "published": "June 17, 2022 5:08 AM"
+    },
+    {
+        "title": "UK signs order to extradite Julian Assange to US to face espionage charges",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/17/julian-assange-priti-patel-signs-extradition-order-for-wikileaks-founder-16844579/",
+        "timestamp": 1655457742,
+        "sentiment": -2,
+        "published": "June 17, 2022 5:22 AM"
     },
     {
         "title": "Scotland leader to start campaign for new independence vote",
