@@ -27,15 +27,6 @@
         "published": "June 17, 2022 3:29 AM"
     },
     {
-        "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-        "timestamp": 1655454393,
-        "sentiment": 0,
-        "published": "June 17, 2022 4:26 AM"
-    },
-    {
         "title": "UK approves extradition of Julian Assange",
         "domain": "bbc.com",
         "category": "worldnews",
@@ -45,21 +36,12 @@
         "published": "June 17, 2022 5:36 AM"
     },
     {
-        "title": "Ukraine 'destroys Russian Black Sea navy tug carrying weapons to Snake Island' and downs helicopter",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-gb/news/world/ukraine-destroys-russian-black-sea-navy-tug-carrying-weapons-to-snake-island-and-downs-helicopter/ar-AAYzEWf",
-        "timestamp": 1655458777,
-        "sentiment": 0,
-        "published": "June 17, 2022 5:39 AM"
-    },
-    {
         "title": "Trump’s Jan 6 arguments dubbed ‘the Costanza defence’ after ‘Seinfeld’ joke | In the ‘Seinfeld’ episode, a character says, “It’s not a lie if you believe it.”",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -117,31 +99,13 @@
         "published": "June 17, 2022 7:47 AM"
     },
     {
-        "title": "Trump aides told him that using Pence to overturn election was illegal - The Jan. 6 committee presented evidence that lawyers advising Trump knew the plan had no legal merit. But he pursued it anyway.",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
-        "timestamp": 1655467052,
-        "sentiment": 0,
-        "published": "June 17, 2022 7:57 AM"
-    },
-    {
         "title": "Heat advisory issued for several Tampa Bay area counties, index up to 110°F",
         "domain": "abcactionnews.com",
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 17, 2022 8:06 AM"
-    },
-    {
-        "title": "Texas Governor’s Race Narrows After Uvalde Shooting, Poll Shows",
-        "domain": "bloomberg.com",
-        "category": "politics",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
-        "timestamp": 1655468405,
-        "sentiment": 0,
-        "published": "June 17, 2022 8:20 AM"
     },
     {
         "title": "Study: Panthers now considered No. 1 predator of deer in Southwest Florida",
@@ -149,7 +113,7 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-series-finale-legacy/",
         "timestamp": 1655469486,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:38 AM"
     },
     {
@@ -176,17 +140,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-demands-air-time-election-fraud-january-6-1716563",
         "timestamp": 1655471342,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 9:09 AM"
-    },
-    {
-        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
-        "domain": "southfloridareporter.com",
-        "category": "miami",
-        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
-        "timestamp": 1655471545,
-        "sentiment": 0,
-        "published": "June 17, 2022 9:12 AM"
     },
     {
         "title": "Dutch fielders searching through the trees and bushes for the ball after an England batsman hits it out of the ground",
@@ -212,7 +167,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/legal/government/abortion-ruling-nears-us-supreme-court-erects-barricades-public-2022-06-17/",
         "timestamp": 1655472092,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 9:21 AM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/will-forte-to-star-in-obamas-first-netflix-drama-series-bodkin-exclusive-1235167516/",
         "timestamp": 1655474484,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 10:01 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "florida",
         "link": "https://www.local10.com/news/politics/2022/06/16/florida-only-state-not-pre-ordering-toddler-covid-19-jabs/",
         "timestamp": 1655476538,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 17, 2022 10:35 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/17/dr-oz-invests-up-to-715000-in-companies-he-for-skyrocketing-insulin-costs/",
         "timestamp": 1655478067,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 11:01 AM"
     },
     {
@@ -275,7 +230,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/clarence-thomas-bill-pascrell-resignation_n_62ac85cee4b06169ca9819f1",
         "timestamp": 1655479549,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 11:25 AM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "television",
         "link": "https://pressroom.warnermedia.com/us/media-release/hbo-0/hbo-comedy-series-rehearsal-nathan-fielder-debuts-july-15",
         "timestamp": 1655481906,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:05 PM"
     },
     {
@@ -347,17 +302,8 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/montana-governor-greg-gianforte-italy-vacation-flooding_n_62ac8df3e4b0cdccbe5cf50b",
         "timestamp": 1655484185,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 12:43 PM"
-    },
-    {
-        "title": "Tokayev said that #Kazakhstan doesn’t recognize \"#LPR\" and \"#DPR\" and called them quasi-state territories He noted that international law based on #UN Charter and two fundamental principles- right of nations to self-determination and territorial integrity,came into conflict.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/nexta_tv/status/1537833612615237632",
-        "timestamp": 1655484976,
-        "sentiment": 0,
-        "published": "June 17, 2022 12:56 PM"
     },
     {
         "title": "Leaked Amazon memo warns the company is running out of people to hire",
@@ -401,7 +347,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/3527863-house-democrat-calls-for-clarence-thomas-to-resign-following-report-of-wifes-email-with-eastman/",
         "timestamp": 1655488210,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 1:50 PM"
     },
     {
@@ -410,17 +356,8 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/88q95p/uvalde-contracts-private-law-firm-to-argue-it-doesnt-have-to-release-school-shooting-public-records",
         "timestamp": 1655488649,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 1:57 PM"
-    },
-    {
-        "title": "EPA Issues New Drinking Water Health Advisories: See Florida Impacts",
-        "domain": "patch.com",
-        "category": "florida",
-        "link": "https://patch.com/florida/sarasota/epa-issues-new-drinking-water-health-advisories-see-florida-impacts?utm_source=reddit&utm_medium=web&utm_campaign=share",
-        "timestamp": 1655488965,
-        "sentiment": 0,
-        "published": "June 17, 2022 2:02 PM"
     },
     {
         "title": "UK offering to train 10,000 Ukrainian troops every 120 days",
@@ -482,7 +419,7 @@
         "category": "florida",
         "link": "https://apnews.com/article/covid-health-ron-desantis-florida-government-and-politics-f5de4beb6480f63bf6dd9cad3be01b6b",
         "timestamp": 1655491517,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 17, 2022 2:45 PM"
     },
     {
@@ -513,12 +450,21 @@
         "published": "June 17, 2022 3:10 PM"
     },
     {
+        "title": "Jim Jordan \"real America doesn't care about Jan. 6 hearings\" claim slammed",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/jim-jordan-real-america-doesnt-care-about-jan-6-hearings-claim-slammed-1716881",
+        "timestamp": 1655493453,
+        "sentiment": -2,
+        "published": "June 17, 2022 3:17 PM"
+    },
+    {
         "title": "Under the Banner of Hulu: A buzzy new true-crime series advances an old, insidious idea—that Mormons are a threat to the American project",
         "domain": "theatlantic.com",
         "category": "television",
         "link": "https://www.theatlantic.com/ideas/archive/2022/06/under-the-banner-of-heaven-hulu-mormonism/661279/",
         "timestamp": 1655495982,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 3:59 PM"
     },
     {
@@ -540,12 +486,30 @@
         "published": "June 17, 2022 4:25 PM"
     },
     {
+        "title": "Former President Trump Says He'd Consider Pardons for Jan. 6 Defendants If He Returns to Office",
+        "domain": "c-span.org",
+        "category": "politics",
+        "link": "https://www.c-span.org/video/?c5020359/president-trump-hed-pardons-jan-6-defendants-returns-office",
+        "timestamp": 1655497542,
+        "sentiment": -2,
+        "published": "June 17, 2022 4:25 PM"
+    },
+    {
+        "title": "Russia preparing for \"big, colossal war\" with NATO, says Major General",
+        "domain": "newsweek.com",
+        "category": "ukraine",
+        "link": "https://www.newsweek.com/russia-preparing-colossal-war-nato-andrey-gurulyov-1716810",
+        "timestamp": 1655498134,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:35 PM"
+    },
+    {
         "title": "‘Snowpiercer’ To End With Season 4 On TNT",
         "domain": "deadline.com",
         "category": "television",
         "link": "https://deadline.com/2022/06/snowpiercer-canceled-end-season-4-tnt-1235047908/",
         "timestamp": 1655499755,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 5:02 PM"
     },
     {
@@ -565,6 +529,87 @@
         "timestamp": 1655500395,
         "sentiment": 0,
         "published": "June 17, 2022 5:13 PM"
+    },
+    {
+        "title": "Vladimir Putin dismisses ‘stupid’ Western sanctions on Russia over Ukraine war",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3182173/putin-dismisses-stupid-western-sanctions-blitzkrieg?module=lead_hero_story&pgtype=homepage",
+        "timestamp": 1655504243,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:17 PM"
+    },
+    {
+        "title": "Uvalde Police Try to Prevent the Release of ‘Embarrassing’ Records",
+        "domain": "nymag.com",
+        "category": "news",
+        "link": "https://nymag.com/intelligencer/2022/06/uvalde-police-try-to-prevent-release-of-embarrassing-info.html",
+        "timestamp": 1655506375,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:52 PM"
+    },
+    {
+        "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1655454393,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:26 AM"
+    },
+    {
+        "title": "Ukraine 'destroys Russian Black Sea navy tug carrying weapons to Snake Island' and downs helicopter",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/ukraine-destroys-russian-black-sea-navy-tug-carrying-weapons-to-snake-island-and-downs-helicopter/ar-AAYzEWf",
+        "timestamp": 1655458777,
+        "sentiment": 0,
+        "published": "June 17, 2022 5:39 AM"
+    },
+    {
+        "title": "Trump aides told him that using Pence to overturn election was illegal - The Jan. 6 committee presented evidence that lawyers advising Trump knew the plan had no legal merit. But he pursued it anyway.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
+        "timestamp": 1655467052,
+        "sentiment": 0,
+        "published": "June 17, 2022 7:57 AM"
+    },
+    {
+        "title": "Texas Governor’s Race Narrows After Uvalde Shooting, Poll Shows",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
+        "timestamp": 1655468405,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:20 AM"
+    },
+    {
+        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
+        "domain": "southfloridareporter.com",
+        "category": "miami",
+        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
+        "timestamp": 1655471545,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:12 AM"
+    },
+    {
+        "title": "Tokayev said that #Kazakhstan doesn’t recognize \"#LPR\" and \"#DPR\" and called them quasi-state territories He noted that international law based on #UN Charter and two fundamental principles- right of nations to self-determination and territorial integrity,came into conflict.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/nexta_tv/status/1537833612615237632",
+        "timestamp": 1655484976,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:56 PM"
+    },
+    {
+        "title": "EPA Issues New Drinking Water Health Advisories: See Florida Impacts",
+        "domain": "patch.com",
+        "category": "florida",
+        "link": "https://patch.com/florida/sarasota/epa-issues-new-drinking-water-health-advisories-see-florida-impacts?utm_source=reddit&utm_medium=web&utm_campaign=share",
+        "timestamp": 1655488965,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:02 PM"
     },
     {
         "title": "‘Unacceptable’: Russian warship accused of violating Danish waters",
