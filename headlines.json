@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
         "timestamp": 1655438644,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:04 AM"
     },
     {
@@ -18,22 +18,22 @@
         "published": "June 17, 2022 12:22 AM"
     },
     {
+        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
+        "timestamp": 1655450969,
+        "sentiment": 2,
+        "published": "June 17, 2022 3:29 AM"
+    },
+    {
         "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655454393,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 4:26 AM"
-    },
-    {
-        "title": "Lavrov says Russia ‘not ashamed of showing who we are’",
-        "domain": "irishtimes.com",
-        "category": "worldnews",
-        "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
-        "timestamp": 1655455937,
-        "sentiment": 0,
-        "published": "June 17, 2022 4:52 AM"
     },
     {
         "title": "UK approves extradition of Julian Assange",
@@ -41,8 +41,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-61839256",
         "timestamp": 1655458617,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 5:36 AM"
+    },
+    {
+        "title": "Ukraine 'destroys Russian Black Sea navy tug carrying weapons to Snake Island' and downs helicopter",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/ukraine-destroys-russian-black-sea-navy-tug-carrying-weapons-to-snake-island-and-downs-helicopter/ar-AAYzEWf",
+        "timestamp": 1655458777,
+        "sentiment": 2,
+        "published": "June 17, 2022 5:39 AM"
     },
     {
         "title": "Trump’s Jan 6 arguments dubbed ‘the Costanza defence’ after ‘Seinfeld’ joke | In the ‘Seinfeld’ episode, a character says, “It’s not a lie if you believe it.”",
@@ -50,7 +59,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -68,17 +77,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-soldiers-custom-notes-artillery-shells-40-dollars-fire-russia-2022-6",
         "timestamp": 1655462419,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 6:40 AM"
-    },
-    {
-        "title": "China says COVID might have originated in U.S., calls Wuhan lab theory lies",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
-        "timestamp": 1655463018,
-        "sentiment": 0,
-        "published": "June 17, 2022 6:50 AM"
     },
     {
         "title": "UK asked to host Eurovision in 2023 after Ukraine ruled out",
@@ -86,17 +86,8 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 17, 2022 6:50 AM"
-    },
-    {
-        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
-        "timestamp": 1655463618,
-        "sentiment": -6,
-        "published": "June 17, 2022 7:00 AM"
     },
     {
         "title": "The Netherlands wants the European Commission to include the criminalization of anti-LGBT hatred in the list of reforms that Ukraine should carry out",
@@ -104,7 +95,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "June 17, 2022 7:10 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/business/business-news/wwe-vince-mcmahon-steps-back-misconduct-investigation-1235166429/",
         "timestamp": 1655465055,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 17, 2022 7:24 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/gonna-lose-gun-idaho-deputy-said-minutes-fatally-shooting-man-mental-h-rcna33601",
         "timestamp": 1655465748,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 7:35 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/massachusetts-catholic-school-nativity-school-worcester-black-lives-matter-pride-flags/",
         "timestamp": 1655466458,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
         "timestamp": 1655467052,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 7:57 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://apnews.com/article/colorado-springs-homicide-7147c3a95bf3076a50088ac7d3c70c6a",
         "timestamp": 1655469250,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -185,17 +176,8 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-series-finale-legacy/",
         "timestamp": 1655469486,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 17, 2022 8:38 AM"
-    },
-    {
-        "title": "Russian military vessel entered danish waters close to island where danish parliament is currently visiting",
-        "domain": "nyheder.tv2.dk",
-        "category": "worldnews",
-        "link": "https://nyheder.tv2.dk/samfund/2022-06-17-russisk-krigsskib-kraenkede-dansk-farvand-ved-bornholm",
-        "timestamp": 1655470229,
-        "sentiment": 0,
-        "published": "June 17, 2022 8:50 AM"
     },
     {
         "title": "Trump claims he never asked Pence to overturn the election",
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pence-overturn-election-jan-6-b2103457.html",
         "timestamp": 1655470434,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 8:53 AM"
     },
     {
@@ -212,17 +194,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-demands-air-time-election-fraud-january-6-1716563",
         "timestamp": 1655471342,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 9:09 AM"
-    },
-    {
-        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
-        "domain": "southfloridareporter.com",
-        "category": "miami",
-        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
-        "timestamp": 1655471545,
-        "sentiment": 0,
-        "published": "June 17, 2022 9:12 AM"
     },
     {
         "title": "Dutch fielders searching through the trees and bushes for the ball after an England batsman hits it out of the ground",
@@ -230,7 +203,7 @@
         "category": "sports",
         "link": "https://twitter.com/henrymoeranBBC/status/1537732155803049985",
         "timestamp": 1655471598,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 9:13 AM"
     },
     {
@@ -243,21 +216,21 @@
         "published": "June 17, 2022 9:17 AM"
     },
     {
+        "title": "Ukraine hails EU backing for membership as 'historic'",
+        "domain": "m.timesofindia.com",
+        "category": "worldnews",
+        "link": "https://m.timesofindia.com/world/europe/ukraine-hails-eu-backing-for-membership-as-historic/articleshow/92281946.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIWorldNews",
+        "timestamp": 1655471959,
+        "sentiment": 2,
+        "published": "June 17, 2022 9:19 AM"
+    },
+    {
         "title": "As abortion ruling nears, U.S. Supreme Court erects barricades to the public",
         "domain": "reuters.com",
         "category": "politics",
         "link": "https://www.reuters.com/legal/government/abortion-ruling-nears-us-supreme-court-erects-barricades-public-2022-06-17/",
         "timestamp": 1655472092,
-        "sentiment": -4,
-        "published": "June 17, 2022 9:21 AM"
-    },
-    {
-        "title": "FDA authorizes Pfizer and Moderna's Covid vaccines for children as young as 6 months",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/17/fda-authorizes-pfizer-and-modernas-covid-vaccines-for-children-as-young-as-6-months.html",
-        "timestamp": 1655472100,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 9:21 AM"
     },
     {
@@ -266,17 +239,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/16/homes/mortgage-rates-june-16/index.html",
         "timestamp": 1655472439,
-        "sentiment": 0,
-        "published": "June 17, 2022 9:27 AM"
-    },
-    {
-        "title": "Court Denies Newsmax Motion To Dismiss Dominion's $1.6 Billion Defamation Lawsuit",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/newsmax-dominion-voting-systems-lawsuit_n_62ac6c89e4b0cf43c855b5c8",
-        "timestamp": 1655473892,
         "sentiment": -4,
-        "published": "June 17, 2022 9:51 AM"
+        "published": "June 17, 2022 9:27 AM"
     },
     {
         "title": "Will Forte to Star in Obamas’ First Netflix Drama Series ‘Bodkin’",
@@ -284,7 +248,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/will-forte-to-star-in-obamas-first-netflix-drama-series-bodkin-exclusive-1235167516/",
         "timestamp": 1655474484,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 17, 2022 10:01 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/17/Russian-warship-violated-Danish-territorial-waters-in-Baltic-Sea-Danish-Armed-Forces",
         "timestamp": 1655475322,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 10:15 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/17/unacceptable-russian-warship-accused-of-violating-danish-waters",
         "timestamp": 1655475741,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 10:22 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-implores-ukraine-stop-senseless-resistance-severodonetsk-1716332",
         "timestamp": 1655476401,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 10:33 AM"
     },
     {
@@ -347,8 +311,17 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/17/dr-oz-invests-up-to-715000-in-companies-he-for-skyrocketing-insulin-costs/",
         "timestamp": 1655478067,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 11:01 AM"
+    },
+    {
+        "title": "Countries excluded from the Summit of the Americas deemed it pointless",
+        "domain": "calleochonews.com",
+        "category": "miami",
+        "link": "https://calleochonews.com/summit-of-the-americas-was-no-summit/?feed_id=6508&_unique_id=62ac9a7ce5085",
+        "timestamp": 1655478909,
+        "sentiment": -4,
+        "published": "June 17, 2022 11:15 AM"
     },
     {
         "title": "Democratic Rep. Says Clarence Thomas Should Resign Over Wife Ginni's Conduct | Rep. Bill Pascrell said Thomas has “poisoned the High Court” by hearing Jan. 6 cases even though his wife was involved in efforts to overturn the election.",
@@ -356,7 +329,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/clarence-thomas-bill-pascrell-resignation_n_62ac85cee4b06169ca9819f1",
         "timestamp": 1655479549,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 11:25 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "news",
         "link": "https://baltimore.cbslocal.com/2022/06/16/maryland-libraries-vandalized-groomer/",
         "timestamp": 1655480002,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 11:33 AM"
     },
     {
@@ -383,7 +356,7 @@
         "category": "television",
         "link": "https://pressroom.warnermedia.com/us/media-release/hbo-0/hbo-comedy-series-rehearsal-nathan-fielder-debuts-july-15",
         "timestamp": 1655481906,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 17, 2022 12:05 PM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-putin-science-belarus-4f5c6fafbd76bf715f32689aeb390d49",
         "timestamp": 1655483032,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 12:23 PM"
     },
     {
@@ -405,12 +378,21 @@
         "published": "June 17, 2022 12:26 PM"
     },
     {
+        "title": "Montana Gov. Spent Days Vacationing In Italy As His State Suffered Historic Flooding",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/montana-governor-greg-gianforte-italy-vacation-flooding_n_62ac8df3e4b0cdccbe5cf50b",
+        "timestamp": 1655484185,
+        "sentiment": -2,
+        "published": "June 17, 2022 12:43 PM"
+    },
+    {
         "title": "Vince McMahon will step down during WWE misconduct probe",
         "domain": "pbs.org",
         "category": "sports",
         "link": "https://www.pbs.org/newshour/arts/vince-mcmahon-will-step-down-during-wwe-misconduct-probe",
         "timestamp": 1655484718,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:51 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1537833612615237632",
         "timestamp": 1655484976,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "June 17, 2022 12:56 PM"
     },
     {
@@ -432,22 +414,31 @@
         "published": "June 17, 2022 1:00 PM"
     },
     {
+        "title": "Putin blasts West in 73-minute rant after cyber attack delays speech",
+        "domain": "uk.news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://uk.news.yahoo.com/putin-blasts-west-73-minute-160246555.html",
+        "timestamp": 1655485305,
+        "sentiment": 2,
+        "published": "June 17, 2022 1:01 PM"
+    },
+    {
         "title": "Family-friendly drag show in Victoria, BC cancelled after threats of a shooting at cafe.",
         "domain": "cbc.ca",
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-dragshow-cancelled-1.6491835",
         "timestamp": 1655485550,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 1:05 PM"
     },
     {
         "title": "Leaked Audio From 80 Internal TikTok Meetings Shows That US User Data Has Been Repeatedly Accessed From China",
         "domain": "buzzfeednews.com",
-        "category": "worldnews",
+        "category": "technology",
         "link": "https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access",
-        "timestamp": 1655486176,
+        "timestamp": 1655486368,
         "sentiment": 0,
-        "published": "June 17, 2022 1:16 PM"
+        "published": "June 17, 2022 1:19 PM"
     },
     {
         "title": "House Democrat calls for Clarence Thomas to resign following report of wife’s email with Eastman",
@@ -455,7 +446,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/3527863-house-democrat-calls-for-clarence-thomas-to-resign-following-report-of-wifes-email-with-eastman/",
         "timestamp": 1655488210,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 1:50 PM"
     },
     {
@@ -464,7 +455,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/88q95p/uvalde-contracts-private-law-firm-to-argue-it-doesnt-have-to-release-school-shooting-public-records",
         "timestamp": 1655488649,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 17, 2022 1:57 PM"
     },
     {
@@ -477,13 +468,13 @@
         "published": "June 17, 2022 2:02 PM"
     },
     {
-        "title": "Russia will use nuclear weapons if its sovereignty is threatened - Putin",
-        "domain": "pravda.com.ua",
-        "category": "worldnews",
-        "link": "https://www.pravda.com.ua/eng/news/2022/06/17/7353142/",
-        "timestamp": 1655489548,
-        "sentiment": 0,
-        "published": "June 17, 2022 2:12 PM"
+        "title": "UK offering to train 10,000 Ukrainian troops every 120 days",
+        "domain": "ukdefencejournal.org.uk",
+        "category": "ukraine",
+        "link": "https://ukdefencejournal.org.uk/uk-offering-to-train-10000-ukrainian-troops-every-120-days/",
+        "timestamp": 1655490293,
+        "sentiment": 2,
+        "published": "June 17, 2022 2:24 PM"
     },
     {
         "title": "Reuters: U.S. lawmakers urge Google to fix abortion searches that steer women to 'fake clinics.'",
@@ -491,7 +482,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/transactional/exclusive-us-lawmakers-urge-google-fix-abortion-searches-that-steer-women-fake-2022-06-17/",
         "timestamp": 1655490603,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 2:30 PM"
     },
     {
@@ -504,12 +495,30 @@
         "published": "June 17, 2022 2:31 PM"
     },
     {
+        "title": "Kazakhstan doesn’t recognize “quasi-state territories which, in our view, is what Luhansk and Donetsk are,” Tokayev said",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-17/putin-says-russia-can-survive-sanctions-crows-west-suffers-more",
+        "timestamp": 1655491063,
+        "sentiment": 2,
+        "published": "June 17, 2022 2:37 PM"
+    },
+    {
         "title": "WWE Board Probes Secret $3 Million Hush Pact by CEO Vince McMahon, Sources Say",
         "domain": "wsj.com",
         "category": "sports",
         "link": "https://www.wsj.com/articles/wwe-board-probes-secret-3-million-hush-pact-by-ceo-vince-mcmahon-sources-say-11655322722",
         "timestamp": 1655491171,
-        "sentiment": -2,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:39 PM"
+    },
+    {
+        "title": "Social Media Misinformation Is Making Americans Less Empathic",
+        "domain": "forbes.com",
+        "category": "technology",
+        "link": "https://www.forbes.com/sites/petersuciu/2022/06/17/social-media-misinformation-is-making-americans-less-emphatic/?sh=28e56caf525b",
+        "timestamp": 1655491173,
+        "sentiment": 0,
         "published": "June 17, 2022 2:39 PM"
     },
     {
@@ -518,7 +527,7 @@
         "category": "miami",
         "link": "https://www.nbcmiami.com/news/local/miami-beach-apartment-building-evacuated-after-partial-roof-collapse/2785308/",
         "timestamp": 1655491254,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 17, 2022 2:40 PM"
     },
     {
@@ -531,13 +540,94 @@
         "published": "June 17, 2022 2:45 PM"
     },
     {
-        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
-        "domain": "msn.com",
+        "title": "Take an undersea journey in Hidden Worlds in Miami Beach",
+        "domain": "floridadailypost.com",
+        "category": "miami",
+        "link": "https://floridadailypost.com/undersea-journey-hidden-worlds-miami/",
+        "timestamp": 1655491699,
+        "sentiment": -4,
+        "published": "June 17, 2022 2:48 PM"
+    },
+    {
+        "title": "High court upholds life sentence for Forrest Co. man convicted of marijuana possession",
+        "domain": "wlbt.com",
+        "category": "news",
+        "link": "https://www.wlbt.com/2022/06/16/high-court-upholds-life-sentence-forrest-co-man-convicted-marijuana-possession/",
+        "timestamp": 1655493047,
+        "sentiment": -4,
+        "published": "June 17, 2022 3:10 PM"
+    },
+    {
+        "title": "Lavrov says Russia ‘not ashamed of showing who we are’",
+        "domain": "irishtimes.com",
         "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
-        "timestamp": 1655450969,
-        "sentiment": -2,
-        "published": "June 17, 2022 3:29 AM"
+        "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
+        "timestamp": 1655455937,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:52 AM"
+    },
+    {
+        "title": "China says COVID might have originated in U.S., calls Wuhan lab theory lies",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
+        "timestamp": 1655463018,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:50 AM"
+    },
+    {
+        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
+        "timestamp": 1655463618,
+        "sentiment": -6,
+        "published": "June 17, 2022 7:00 AM"
+    },
+    {
+        "title": "Russian military vessel entered danish waters close to island where danish parliament is currently visiting",
+        "domain": "nyheder.tv2.dk",
+        "category": "worldnews",
+        "link": "https://nyheder.tv2.dk/samfund/2022-06-17-russisk-krigsskib-kraenkede-dansk-farvand-ved-bornholm",
+        "timestamp": 1655470229,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:50 AM"
+    },
+    {
+        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
+        "domain": "southfloridareporter.com",
+        "category": "miami",
+        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
+        "timestamp": 1655471545,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:12 AM"
+    },
+    {
+        "title": "FDA authorizes Pfizer and Moderna's Covid vaccines for children as young as 6 months",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/17/fda-authorizes-pfizer-and-modernas-covid-vaccines-for-children-as-young-as-6-months.html",
+        "timestamp": 1655472100,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:21 AM"
+    },
+    {
+        "title": "Court Denies Newsmax Motion To Dismiss Dominion's $1.6 Billion Defamation Lawsuit",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/newsmax-dominion-voting-systems-lawsuit_n_62ac6c89e4b0cf43c855b5c8",
+        "timestamp": 1655473892,
+        "sentiment": -4,
+        "published": "June 17, 2022 9:51 AM"
+    },
+    {
+        "title": "Russia will use nuclear weapons if its sovereignty is threatened - Putin",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/17/7353142/",
+        "timestamp": 1655489548,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:12 PM"
     },
     {
         "title": "Russia has ‘strategically lost’ war in Ukraine, says head of UK’s armed forces",
@@ -628,15 +718,6 @@
         "timestamp": 1655473851,
         "sentiment": -4,
         "published": "June 17, 2022 9:50 AM"
-    },
-    {
-        "title": "Countries excluded from the Summit of the Americas deemed it pointless",
-        "domain": "calleochonews.com",
-        "category": "miami",
-        "link": "https://calleochonews.com/summit-of-the-americas-was-no-summit/?feed_id=6508&_unique_id=62ac9a7ce5085",
-        "timestamp": 1655478909,
-        "sentiment": -4,
-        "published": "June 17, 2022 11:15 AM"
     },
     {
         "title": "Meat consumption in Germany is dropping significantly",
