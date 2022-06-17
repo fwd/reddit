@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/uk-sets-russia-sanctions-barbaric-103516824-135908633.html",
         "timestamp": 1655439008,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:10 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://apnews.com/article/technology-kentucky-supreme-court-robbery-government-and-politics-4377ab317dbed3aa77824e39f52e94d7?",
         "timestamp": 1655439986,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 17, 2022 12:26 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "ukraine",
         "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
         "timestamp": 1655440211,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 17, 2022 12:30 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
         "timestamp": 1655442791,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 1:13 AM"
     },
     {
@@ -59,8 +59,98 @@
         "category": "news",
         "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
         "timestamp": 1655444395,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 17, 2022 1:39 AM"
+    },
+    {
+        "title": "Ukrainian Navy says it hit a Russian ship that was transporting an air defense system, ammo, supplies and personnel to Snake Island.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
+        "timestamp": 1655447423,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:30 AM"
+    },
+    {
+        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
+        "timestamp": 1655450969,
+        "sentiment": 0,
+        "published": "June 17, 2022 3:29 AM"
+    },
+    {
+        "title": "SpaceX reportedly fired employees behind letter criticizing Elon Musk",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
+        "timestamp": 1655453478,
+        "sentiment": 1,
+        "published": "June 17, 2022 4:11 AM"
+    },
+    {
+        "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1655454393,
+        "sentiment": -4,
+        "published": "June 17, 2022 4:26 AM"
+    },
+    {
+        "title": "Lavrov says Russia ‘not ashamed of showing who we are’",
+        "domain": "irishtimes.com",
+        "category": "worldnews",
+        "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
+        "timestamp": 1655455937,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:52 AM"
+    },
+    {
+        "title": "SpaceX fires employees who wrote open letter complaining about Musk - The Verge",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
+        "timestamp": 1655456882,
+        "sentiment": 1,
+        "published": "June 17, 2022 5:08 AM"
+    },
+    {
+        "title": "UK signs order to extradite Julian Assange to US to face espionage charges",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/17/julian-assange-priti-patel-signs-extradition-order-for-wikileaks-founder-16844579/",
+        "timestamp": 1655457742,
+        "sentiment": 0,
+        "published": "June 17, 2022 5:22 AM"
+    },
+    {
+        "title": "UK approves extradition of Julian Assange",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-61839256",
+        "timestamp": 1655458617,
+        "sentiment": 0,
+        "published": "June 17, 2022 5:36 AM"
+    },
+    {
+        "title": "Study: Humans responsible for over 90% of world’s oil slicks",
+        "domain": "news.fsu.edu",
+        "category": "technology",
+        "link": "https://news.fsu.edu/news/science-technology/2022/06/16/study-humans-responsible-for-over-90-of-worlds-oil-slicks/",
+        "timestamp": 1655459148,
+        "sentiment": 1,
+        "published": "June 17, 2022 5:45 AM"
+    },
+    {
+        "title": "33 top US hospitals sent website users' medical information, including their locations, to Meta: report",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
+        "timestamp": 1655460311,
+        "sentiment": 1,
+        "published": "June 17, 2022 6:05 AM"
     },
     {
         "title": "Amber Heard Releases 'Years' Of Therapist's Notes That She Says Prove Johnny Depp Abused Her",
@@ -70,60 +160,6 @@
         "timestamp": 1655445196,
         "sentiment": 2,
         "published": "June 17, 2022 1:53 AM"
-    },
-    {
-        "title": "Ukrainian Navy says it hit a Russian ship that was transporting an air defense system, ammo, supplies and personnel to Snake Island.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
-        "timestamp": 1655447423,
-        "sentiment": -1,
-        "published": "June 17, 2022 2:30 AM"
-    },
-    {
-        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
-        "timestamp": 1655450969,
-        "sentiment": -2,
-        "published": "June 17, 2022 3:29 AM"
-    },
-    {
-        "title": "SpaceX reportedly fired employees behind letter criticizing Elon Musk",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
-        "timestamp": 1655453478,
-        "sentiment": 2,
-        "published": "June 17, 2022 4:11 AM"
-    },
-    {
-        "title": "Lavrov says Russia ‘not ashamed of showing who we are’",
-        "domain": "irishtimes.com",
-        "category": "worldnews",
-        "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
-        "timestamp": 1655455937,
-        "sentiment": -2,
-        "published": "June 17, 2022 4:52 AM"
-    },
-    {
-        "title": "SpaceX fires employees who wrote open letter complaining about Musk - The Verge",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
-        "timestamp": 1655456882,
-        "sentiment": 2,
-        "published": "June 17, 2022 5:08 AM"
-    },
-    {
-        "title": "UK signs order to extradite Julian Assange to US to face espionage charges",
-        "domain": "metro.co.uk",
-        "category": "worldnews",
-        "link": "https://metro.co.uk/2022/06/17/julian-assange-priti-patel-signs-extradition-order-for-wikileaks-founder-16844579/",
-        "timestamp": 1655457742,
-        "sentiment": -2,
-        "published": "June 17, 2022 5:22 AM"
     },
     {
         "title": "Scotland leader to start campaign for new independence vote",
