@@ -18,21 +18,12 @@
         "published": "June 17, 2022 12:22 AM"
     },
     {
-        "title": "Divided Kentucky Supreme Court ruled Thursday that police violated a robbery suspect’s constitutional protections by accessing his cellphone without a warrant",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/technology-kentucky-supreme-court-robbery-government-and-politics-4377ab317dbed3aa77824e39f52e94d7?",
-        "timestamp": 1655439986,
-        "sentiment": 2,
-        "published": "June 17, 2022 12:26 AM"
-    },
-    {
         "title": "SpaceX workers call Elon Musk an ‘embarrassment’ in letter",
         "domain": "sfgate.com",
         "category": "news",
         "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
         "timestamp": 1655444395,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 1:39 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
         "timestamp": 1655447423,
-        "sentiment": -6,
+        "sentiment": 1,
         "published": "June 17, 2022 2:30 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655454393,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 4:26 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://mediafeed.org/cocaine-feral-hogs/",
         "timestamp": 1655458064,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 5:27 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -144,15 +135,6 @@
         "published": "June 17, 2022 6:05 AM"
     },
     {
-        "title": "BREAKING: The European Commission has adopted an opinion recommending that Ukraine be granted candidate status, a first step in the process to to becoming an EU member",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
-        "timestamp": 1655460499,
-        "sentiment": -6,
-        "published": "June 17, 2022 6:08 AM"
-    },
-    {
         "title": "Tesla investor sues Musk, board over accusation of workplace discrimination",
         "domain": "reuters.com",
         "category": "technology",
@@ -162,13 +144,13 @@
         "published": "June 17, 2022 6:28 AM"
     },
     {
-        "title": "Mike Pence came within 40 feet of being killed through activities of the man he sold his soul to. It might take only one corrupt service detail to end US democracy.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/06/16/us/politics/pence-trump-jan-6.html",
-        "timestamp": 1655462051,
-        "sentiment": -2,
-        "published": "June 17, 2022 6:34 AM"
+        "title": "VP Harris launches task force on online harassment, abuse",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Business/wireStory/vp-harris-launches-task-force-online-harassment-abuse-85443145?cid=social_twitter_abcn",
+        "timestamp": 1655462414,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:40 AM"
     },
     {
         "title": "Ukrainian soldiers raise money by writing custom notes on artillery shells for $40 before firing them at Russians",
@@ -198,22 +180,22 @@
         "published": "June 17, 2022 6:50 AM"
     },
     {
-        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
-        "timestamp": 1655463618,
-        "sentiment": -6,
-        "published": "June 17, 2022 7:00 AM"
-    },
-    {
         "title": "The Netherlands wants the European Commission to include the criminalization of anti-LGBT hatred in the list of reforms that Ukraine should carry out",
         "domain": "twitter.com",
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": -6,
+        "sentiment": 1,
         "published": "June 17, 2022 7:10 AM"
+    },
+    {
+        "title": "After Scholz's visit to Ukraine, active movements of military equipment in Germany began.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1537753802929057794",
+        "timestamp": 1655464755,
+        "sentiment": 1,
+        "published": "June 17, 2022 7:19 AM"
     },
     {
         "title": "WWE’s Vince McMahon Steps Back From CEO, Chair Roles Amid Probe Into Alleged Misconduct, Daughter Stephanie Named Interim CEO",
@@ -230,7 +212,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/gonna-lose-gun-idaho-deputy-said-minutes-fatally-shooting-man-mental-h-rcna33601",
         "timestamp": 1655465748,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 7:35 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/massachusetts-catholic-school-nativity-school-worcester-black-lives-matter-pride-flags/",
         "timestamp": 1655466458,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
         "timestamp": 1655467052,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 7:57 AM"
     },
     {
@@ -266,8 +248,17 @@
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 17, 2022 8:06 AM"
+    },
+    {
+        "title": "Texas Governor’s Race Narrows After Uvalde Shooting, Poll Shows",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
+        "timestamp": 1655468405,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:20 AM"
     },
     {
         "title": "Study: Panthers now considered No. 1 predator of deer in Southwest Florida",
@@ -275,7 +266,7 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "news",
         "link": "https://apnews.com/article/colorado-springs-homicide-7147c3a95bf3076a50088ac7d3c70c6a",
         "timestamp": 1655469250,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -320,8 +311,17 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pence-overturn-election-jan-6-b2103457.html",
         "timestamp": 1655470434,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:53 AM"
+    },
+    {
+        "title": "Donald Trump demands networks give him hours to push election fraud on TV",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-demands-air-time-election-fraud-january-6-1716563",
+        "timestamp": 1655471342,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:09 AM"
     },
     {
         "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
@@ -351,13 +351,85 @@
         "published": "June 17, 2022 9:17 AM"
     },
     {
+        "title": "As abortion ruling nears, U.S. Supreme Court erects barricades to the public",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/legal/government/abortion-ruling-nears-us-supreme-court-erects-barricades-public-2022-06-17/",
+        "timestamp": 1655472092,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:21 AM"
+    },
+    {
+        "title": "Mortgage rates hit 5.78%, the biggest weekly jump since 1987",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/16/homes/mortgage-rates-june-16/index.html",
+        "timestamp": 1655472439,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:27 AM"
+    },
+    {
         "title": "DeSantis announces Annual Python Challenge - win prizes!",
         "domain": "flpythonchallenge.org",
         "category": "florida",
         "link": "https://flpythonchallenge.org/?fbclid=IwAR33qYJ9m_kazw2MV9_mjw6OlRRCv3-Lfh1R7UwNiNyCBHL7-H_sTKbFmjA",
         "timestamp": 1655473400,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 17, 2022 9:43 AM"
+    },
+    {
+        "title": "Will Forte to Star in Obamas’ First Netflix Drama Series ‘Bodkin’",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/will-forte-to-star-in-obamas-first-netflix-drama-series-bodkin-exclusive-1235167516/",
+        "timestamp": 1655474484,
+        "sentiment": 0,
+        "published": "June 17, 2022 10:01 AM"
+    },
+    {
+        "title": "Florida only state not preordering toddler COVID-19 vaccines",
+        "domain": "local10.com",
+        "category": "florida",
+        "link": "https://www.local10.com/news/politics/2022/06/16/florida-only-state-not-pre-ordering-toddler-covid-19-jabs/",
+        "timestamp": 1655476538,
+        "sentiment": -1,
+        "published": "June 17, 2022 10:35 AM"
+    },
+    {
+        "title": "Divided Kentucky Supreme Court ruled Thursday that police violated a robbery suspect’s constitutional protections by accessing his cellphone without a warrant",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-kentucky-supreme-court-robbery-government-and-politics-4377ab317dbed3aa77824e39f52e94d7?",
+        "timestamp": 1655439986,
+        "sentiment": 2,
+        "published": "June 17, 2022 12:26 AM"
+    },
+    {
+        "title": "BREAKING: The European Commission has adopted an opinion recommending that Ukraine be granted candidate status, a first step in the process to to becoming an EU member",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
+        "timestamp": 1655460499,
+        "sentiment": -6,
+        "published": "June 17, 2022 6:08 AM"
+    },
+    {
+        "title": "Mike Pence came within 40 feet of being killed through activities of the man he sold his soul to. It might take only one corrupt service detail to end US democracy.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/16/us/politics/pence-trump-jan-6.html",
+        "timestamp": 1655462051,
+        "sentiment": -2,
+        "published": "June 17, 2022 6:34 AM"
+    },
+    {
+        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
+        "timestamp": 1655463618,
+        "sentiment": -6,
+        "published": "June 17, 2022 7:00 AM"
     },
     {
         "title": "Mike Lindell Says Walmart Is 'Canceling' Him and Pulling His Products",
