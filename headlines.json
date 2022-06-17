@@ -18,21 +18,12 @@
         "published": "June 17, 2022 12:22 AM"
     },
     {
-        "title": "SpaceX workers call Elon Musk an ‘embarrassment’ in letter",
-        "domain": "sfgate.com",
-        "category": "news",
-        "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
-        "timestamp": 1655444395,
-        "sentiment": 0,
-        "published": "June 17, 2022 1:39 AM"
-    },
-    {
         "title": "Ukrainian Navy says it hit a Russian ship that was transporting an air defense system, ammo, supplies and personnel to Snake Island.",
         "domain": "twitter.com",
         "category": "ukraine",
         "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
         "timestamp": 1655447423,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 2:30 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
         "timestamp": 1655450969,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 3:29 AM"
-    },
-    {
-        "title": "SpaceX reportedly fired employees behind letter criticizing Elon Musk",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
-        "timestamp": 1655453478,
-        "sentiment": 0,
-        "published": "June 17, 2022 4:11 AM"
     },
     {
         "title": "Russia has ‘strategically lost’ war in Ukraine, says head of UK’s armed forces",
@@ -59,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.scottishdailyexpress.co.uk/news/world-news/russia-strategically-lost-war-ukraine-27258299",
         "timestamp": 1655453885,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 4:18 AM"
     },
     {
@@ -77,17 +59,8 @@
         "category": "worldnews",
         "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
         "timestamp": 1655455937,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 4:52 AM"
-    },
-    {
-        "title": "SpaceX fires employees who wrote open letter complaining about Musk - The Verge",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
-        "timestamp": 1655456882,
-        "sentiment": 0,
-        "published": "June 17, 2022 5:08 AM"
     },
     {
         "title": "UK signs order to extradite Julian Assange to US to face espionage charges",
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/17/julian-assange-priti-patel-signs-extradition-order-for-wikileaks-founder-16844579/",
         "timestamp": 1655457742,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 5:22 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-61839256",
         "timestamp": 1655458617,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 5:36 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -131,26 +104,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 6:05 AM"
-    },
-    {
-        "title": "Tesla investor sues Musk, board over accusation of workplace discrimination",
-        "domain": "reuters.com",
-        "category": "technology",
-        "link": "https://www.reuters.com/business/finance/tesla-investor-sues-musk-board-over-accusation-workplace-discrimination-2022-06-17",
-        "timestamp": 1655461704,
-        "sentiment": 0,
-        "published": "June 17, 2022 6:28 AM"
-    },
-    {
-        "title": "VP Harris launches task force on online harassment, abuse",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Business/wireStory/vp-harris-launches-task-force-online-harassment-abuse-85443145?cid=social_twitter_abcn",
-        "timestamp": 1655462414,
-        "sentiment": 0,
-        "published": "June 17, 2022 6:40 AM"
     },
     {
         "title": "Ukrainian soldiers raise money by writing custom notes on artillery shells for $40 before firing them at Russians",
@@ -158,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-soldiers-custom-notes-artillery-shells-40-dollars-fire-russia-2022-6",
         "timestamp": 1655462419,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 6:40 AM"
     },
     {
@@ -167,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
         "timestamp": 1655463018,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -180,22 +135,22 @@
         "published": "June 17, 2022 6:50 AM"
     },
     {
+        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
+        "timestamp": 1655463618,
+        "sentiment": -6,
+        "published": "June 17, 2022 7:00 AM"
+    },
+    {
         "title": "The Netherlands wants the European Commission to include the criminalization of anti-LGBT hatred in the list of reforms that Ukraine should carry out",
         "domain": "twitter.com",
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 7:10 AM"
-    },
-    {
-        "title": "After Scholz's visit to Ukraine, active movements of military equipment in Germany began.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/TpyxaNews/status/1537753802929057794",
-        "timestamp": 1655464755,
-        "sentiment": 1,
-        "published": "June 17, 2022 7:19 AM"
     },
     {
         "title": "WWE’s Vince McMahon Steps Back From CEO, Chair Roles Amid Probe Into Alleged Misconduct, Daughter Stephanie Named Interim CEO",
@@ -221,7 +176,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/06/17/tsmc-announces-2nm-chip-production-will-start-by-2025",
         "timestamp": 1655466431,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
         "timestamp": 1655467052,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 17, 2022 7:57 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 8:06 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "politics",
         "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
         "timestamp": 1655468405,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 17, 2022 8:20 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -288,22 +243,22 @@
         "published": "June 17, 2022 8:38 AM"
     },
     {
-        "title": "A Tesla investor is suing Elon Musk and Tesla's board, accusing the company of discrimination and creating a toxic work culture",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/tesla-sues-elon-musk-toxic-workculture-discrimination-lawsuit-2022-6",
-        "timestamp": 1655470200,
-        "sentiment": 0,
-        "published": "June 17, 2022 8:50 AM"
-    },
-    {
         "title": "Russian military vessel entered danish waters close to island where danish parliament is currently visiting",
         "domain": "nyheder.tv2.dk",
         "category": "worldnews",
         "link": "https://nyheder.tv2.dk/samfund/2022-06-17-russisk-krigsskib-kraenkede-dansk-farvand-ved-bornholm",
         "timestamp": 1655470229,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 17, 2022 8:50 AM"
+    },
+    {
+        "title": "SoFi Stadium in Inglewood among venues selected to host 2026 World Cup matches",
+        "domain": "msn.com",
+        "category": "sports",
+        "link": "https://www.msn.com/en-us/sports/more-sports/sofi-stadium-in-inglewood-among-venues-selected-to-host-2026-world-cup-matches/ar-AAYyHJ8",
+        "timestamp": 1655470388,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:53 AM"
     },
     {
         "title": "Trump claims he never asked Pence to overturn the election",
@@ -311,7 +266,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pence-overturn-election-jan-6-b2103457.html",
         "timestamp": 1655470434,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 17, 2022 8:53 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-demands-air-time-election-fraud-january-6-1716563",
         "timestamp": 1655471342,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 17, 2022 9:09 AM"
     },
     {
@@ -342,12 +297,21 @@
         "published": "June 17, 2022 9:13 AM"
     },
     {
+        "title": "Julian Assange's extradition to US approved by UK government",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2022/06/17/uk/uk-julian-assange-extradition-priti-patel-intl-gbr/index.html",
+        "timestamp": 1655471648,
+        "sentiment": 2,
+        "published": "June 17, 2022 9:14 AM"
+    },
+    {
         "title": "USB-C iPhone could become mandatory in the US as senators push for common charger law.",
         "domain": "9to5mac.com",
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/17/usb-c-iphone-united-states/",
         "timestamp": 1655471832,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 17, 2022 9:17 AM"
     },
     {
@@ -356,6 +320,15 @@
         "category": "politics",
         "link": "https://www.reuters.com/legal/government/abortion-ruling-nears-us-supreme-court-erects-barricades-public-2022-06-17/",
         "timestamp": 1655472092,
+        "sentiment": -1,
+        "published": "June 17, 2022 9:21 AM"
+    },
+    {
+        "title": "FDA authorizes Pfizer and Moderna's Covid vaccines for children as young as 6 months",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/17/fda-authorizes-pfizer-and-modernas-covid-vaccines-for-children-as-young-as-6-months.html",
+        "timestamp": 1655472100,
         "sentiment": 0,
         "published": "June 17, 2022 9:21 AM"
     },
@@ -374,8 +347,26 @@
         "category": "florida",
         "link": "https://flpythonchallenge.org/?fbclid=IwAR33qYJ9m_kazw2MV9_mjw6OlRRCv3-Lfh1R7UwNiNyCBHL7-H_sTKbFmjA",
         "timestamp": 1655473400,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 9:43 AM"
+    },
+    {
+        "title": "Video: Tesla fire keeps reigniting at Sacramento wrecking yard 3 weeks after crash",
+        "domain": "ktla.com",
+        "category": "technology",
+        "link": "https://ktla.com/news/california/video-tesla-fire-keeps-reigniting-at-sacramento-wrecking-yard-3-weeks-after-crash/",
+        "timestamp": 1655473851,
+        "sentiment": 2,
+        "published": "June 17, 2022 9:50 AM"
+    },
+    {
+        "title": "Court Denies Newsmax Motion To Dismiss Dominion's $1.6 Billion Defamation Lawsuit",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/newsmax-dominion-voting-systems-lawsuit_n_62ac6c89e4b0cf43c855b5c8",
+        "timestamp": 1655473892,
+        "sentiment": -1,
+        "published": "June 17, 2022 9:51 AM"
     },
     {
         "title": "Will Forte to Star in Obamas’ First Netflix Drama Series ‘Bodkin’",
@@ -387,13 +378,166 @@
         "published": "June 17, 2022 10:01 AM"
     },
     {
+        "title": "Juneteenth: Celebrations to be held across South Florida",
+        "domain": "wpbf.com",
+        "category": "florida",
+        "link": "https://www.wpbf.com/article/juneteenth-florida-celebrations-events-2022/40312969",
+        "timestamp": 1655474556,
+        "sentiment": 3,
+        "published": "June 17, 2022 10:02 AM"
+    },
+    {
+        "title": "‘Unacceptable’: Russian warship accused of violating Danish waters",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/17/unacceptable-russian-warship-accused-of-violating-danish-waters",
+        "timestamp": 1655475741,
+        "sentiment": 0,
+        "published": "June 17, 2022 10:22 AM"
+    },
+    {
+        "title": "Russia implores Ukraine to \"stop senseless resistance\" in Severodonetsk",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-implores-ukraine-stop-senseless-resistance-severodonetsk-1716332",
+        "timestamp": 1655476401,
+        "sentiment": -1,
+        "published": "June 17, 2022 10:33 AM"
+    },
+    {
         "title": "Florida only state not preordering toddler COVID-19 vaccines",
         "domain": "local10.com",
         "category": "florida",
         "link": "https://www.local10.com/news/politics/2022/06/16/florida-only-state-not-pre-ordering-toddler-covid-19-jabs/",
         "timestamp": 1655476538,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 10:35 AM"
+    },
+    {
+        "title": "Apple scores deal for Major League Soccer streaming rights worth $2.5bn",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/808efcd4-6ef3-4dde-84dd-c4a365d3614f",
+        "timestamp": 1655477487,
+        "sentiment": 2,
+        "published": "June 17, 2022 10:51 AM"
+    },
+    {
+        "title": "Countries excluded from the Summit of the Americas deemed it pointless",
+        "domain": "calleochonews.com",
+        "category": "miami",
+        "link": "https://calleochonews.com/summit-of-the-americas-was-no-summit/?feed_id=6508&_unique_id=62ac9a7ce5085",
+        "timestamp": 1655478909,
+        "sentiment": 0,
+        "published": "June 17, 2022 11:15 AM"
+    },
+    {
+        "title": "Democratic Rep. Says Clarence Thomas Should Resign Over Wife Ginni's Conduct | Rep. Bill Pascrell said Thomas has “poisoned the High Court” by hearing Jan. 6 cases even though his wife was involved in efforts to overturn the election.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/clarence-thomas-bill-pascrell-resignation_n_62ac85cee4b06169ca9819f1",
+        "timestamp": 1655479549,
+        "sentiment": -1,
+        "published": "June 17, 2022 11:25 AM"
+    },
+    {
+        "title": "Maryland Man Charged With Hate Crimes After Allegedly Spray-Painting ‘Groomer’ On Two Libraries",
+        "domain": "baltimore.cbslocal.com",
+        "category": "news",
+        "link": "https://baltimore.cbslocal.com/2022/06/16/maryland-libraries-vandalized-groomer/",
+        "timestamp": 1655480002,
+        "sentiment": 0,
+        "published": "June 17, 2022 11:33 AM"
+    },
+    {
+        "title": "Gov. DeSantis signs immigration crackdown legislation into law",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/politics/gov-desantis-to-speak-at-sheriffs-office-in-pensacola/",
+        "timestamp": 1655481820,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:03 PM"
+    },
+    {
+        "title": "Nathan Fielder's New Comedy 'The Rehearsal' Premieres July 15, 2022 on HBO",
+        "domain": "pressroom.warnermedia.com",
+        "category": "television",
+        "link": "https://pressroom.warnermedia.com/us/media-release/hbo-0/hbo-comedy-series-rehearsal-nathan-fielder-debuts-july-15",
+        "timestamp": 1655481906,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:05 PM"
+    },
+    {
+        "title": "Las elecciones primarias de Florida 2022 están a la vuelta de la esquina: ¿Estás preparado?",
+        "domain": "calleochonews.com",
+        "category": "miami",
+        "link": "https://calleochonews.com/es/elecciones-primarias-de-florida-de-2022/?feed_id=6532&_unique_id=62acac0fb22cf",
+        "timestamp": 1655483408,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:30 PM"
+    },
+    {
+        "title": "SpaceX workers call Elon Musk an ‘embarrassment’ in letter",
+        "domain": "sfgate.com",
+        "category": "news",
+        "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
+        "timestamp": 1655444395,
+        "sentiment": 0,
+        "published": "June 17, 2022 1:39 AM"
+    },
+    {
+        "title": "SpaceX reportedly fired employees behind letter criticizing Elon Musk",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
+        "timestamp": 1655453478,
+        "sentiment": 0,
+        "published": "June 17, 2022 4:11 AM"
+    },
+    {
+        "title": "SpaceX fires employees who wrote open letter complaining about Musk - The Verge",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
+        "timestamp": 1655456882,
+        "sentiment": 0,
+        "published": "June 17, 2022 5:08 AM"
+    },
+    {
+        "title": "Tesla investor sues Musk, board over accusation of workplace discrimination",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/finance/tesla-investor-sues-musk-board-over-accusation-workplace-discrimination-2022-06-17",
+        "timestamp": 1655461704,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:28 AM"
+    },
+    {
+        "title": "VP Harris launches task force on online harassment, abuse",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Business/wireStory/vp-harris-launches-task-force-online-harassment-abuse-85443145?cid=social_twitter_abcn",
+        "timestamp": 1655462414,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:40 AM"
+    },
+    {
+        "title": "After Scholz's visit to Ukraine, active movements of military equipment in Germany began.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1537753802929057794",
+        "timestamp": 1655464755,
+        "sentiment": 1,
+        "published": "June 17, 2022 7:19 AM"
+    },
+    {
+        "title": "A Tesla investor is suing Elon Musk and Tesla's board, accusing the company of discrimination and creating a toxic work culture",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-sues-elon-musk-toxic-workculture-discrimination-lawsuit-2022-6",
+        "timestamp": 1655470200,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:50 AM"
     },
     {
         "title": "Divided Kentucky Supreme Court ruled Thursday that police violated a robbery suspect’s constitutional protections by accessing his cellphone without a warrant",
@@ -423,15 +567,6 @@
         "published": "June 17, 2022 6:34 AM"
     },
     {
-        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
-        "timestamp": 1655463618,
-        "sentiment": -6,
-        "published": "June 17, 2022 7:00 AM"
-    },
-    {
         "title": "Mike Lindell Says Walmart Is 'Canceling' Him and Pulling His Products",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -439,15 +574,6 @@
         "timestamp": 1655473523,
         "sentiment": -2,
         "published": "June 17, 2022 9:45 AM"
-    },
-    {
-        "title": "Juneteenth: Celebrations to be held across South Florida",
-        "domain": "wpbf.com",
-        "category": "florida",
-        "link": "https://www.wpbf.com/article/juneteenth-florida-celebrations-events-2022/40312969",
-        "timestamp": 1655474556,
-        "sentiment": 3,
-        "published": "June 17, 2022 10:02 AM"
     },
     {
         "title": "Plan needed to make Russia pay reparations to Ukrainians, says report",
