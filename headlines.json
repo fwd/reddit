@@ -18,24 +18,6 @@
         "published": "June 17, 2022 12:22 AM"
     },
     {
-        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
-        "timestamp": 1655450969,
-        "sentiment": -2,
-        "published": "June 17, 2022 3:29 AM"
-    },
-    {
-        "title": "Russia has ‘strategically lost’ war in Ukraine, says head of UK’s armed forces",
-        "domain": "scottishdailyexpress.co.uk",
-        "category": "worldnews",
-        "link": "https://www.scottishdailyexpress.co.uk/news/world-news/russia-strategically-lost-war-ukraine-27258299",
-        "timestamp": 1655453885,
-        "sentiment": -2,
-        "published": "June 17, 2022 4:18 AM"
-    },
-    {
         "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
         "domain": "reuters.com",
         "category": "news",
@@ -50,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
         "timestamp": 1655455937,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 4:52 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-61839256",
         "timestamp": 1655458617,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 5:36 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -77,17 +59,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 6:05 AM"
-    },
-    {
-        "title": "BREAKING: The European Commission has adopted an opinion recommending that Ukraine be granted candidate status, a first step in the process to to becoming an EU member",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
-        "timestamp": 1655460499,
-        "sentiment": 1,
-        "published": "June 17, 2022 6:08 AM"
     },
     {
         "title": "Ukrainian soldiers raise money by writing custom notes on artillery shells for $40 before firing them at Russians",
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-soldiers-custom-notes-artillery-shells-40-dollars-fire-russia-2022-6",
         "timestamp": 1655462419,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 6:40 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
         "timestamp": 1655463018,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
         "timestamp": 1655463618,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 7:00 AM"
     },
     {
@@ -131,17 +104,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 7:10 AM"
-    },
-    {
-        "title": "After Scholz's visit to Ukraine, active movements of military equipment in Germany began.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/TpyxaNews/status/1537753802929057794",
-        "timestamp": 1655464755,
-        "sentiment": 1,
-        "published": "June 17, 2022 7:19 AM"
     },
     {
         "title": "WWE’s Vince McMahon Steps Back From CEO, Chair Roles Amid Probe Into Alleged Misconduct, Daughter Stephanie Named Interim CEO",
@@ -149,7 +113,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/business/business-news/wwe-vince-mcmahon-steps-back-misconduct-investigation-1235166429/",
         "timestamp": 1655465055,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 7:24 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/06/17/tsmc-announces-2nm-chip-production-will-start-by-2025",
         "timestamp": 1655466431,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
         "timestamp": 1655467052,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 7:57 AM"
     },
     {
@@ -194,17 +158,8 @@
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 8:06 AM"
-    },
-    {
-        "title": "Texas Governor’s Race Narrows After Uvalde Shooting, Poll Shows",
-        "domain": "bloomberg.com",
-        "category": "politics",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
-        "timestamp": 1655468405,
-        "sentiment": -3,
-        "published": "June 17, 2022 8:20 AM"
     },
     {
         "title": "Study: Panthers now considered No. 1 predator of deer in Southwest Florida",
@@ -212,7 +167,7 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 8:34 AM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-series-finale-legacy/",
         "timestamp": 1655469486,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 8:38 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "worldnews",
         "link": "https://nyheder.tv2.dk/samfund/2022-06-17-russisk-krigsskib-kraenkede-dansk-farvand-ved-bornholm",
         "timestamp": 1655470229,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 8:50 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pence-overturn-election-jan-6-b2103457.html",
         "timestamp": 1655470434,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 8:53 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-demands-air-time-election-fraud-january-6-1716563",
         "timestamp": 1655471342,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 9:09 AM"
     },
     {
@@ -284,7 +239,7 @@
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/17/usb-c-iphone-united-states/",
         "timestamp": 1655471832,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 9:17 AM"
     },
     {
@@ -293,7 +248,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/legal/government/abortion-ruling-nears-us-supreme-court-erects-barricades-public-2022-06-17/",
         "timestamp": 1655472092,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 9:21 AM"
     },
     {
@@ -315,21 +270,12 @@
         "published": "June 17, 2022 9:27 AM"
     },
     {
-        "title": "DeSantis announces Annual Python Challenge - win prizes!",
-        "domain": "flpythonchallenge.org",
-        "category": "florida",
-        "link": "https://flpythonchallenge.org/?fbclid=IwAR33qYJ9m_kazw2MV9_mjw6OlRRCv3-Lfh1R7UwNiNyCBHL7-H_sTKbFmjA",
-        "timestamp": 1655473400,
-        "sentiment": -1,
-        "published": "June 17, 2022 9:43 AM"
-    },
-    {
         "title": "Court Denies Newsmax Motion To Dismiss Dominion's $1.6 Billion Defamation Lawsuit",
         "domain": "huffpost.com",
         "category": "politics",
         "link": "https://www.huffpost.com/entry/newsmax-dominion-voting-systems-lawsuit_n_62ac6c89e4b0cf43c855b5c8",
         "timestamp": 1655473892,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 9:51 AM"
     },
     {
@@ -338,7 +284,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/will-forte-to-star-in-obamas-first-netflix-drama-series-bodkin-exclusive-1235167516/",
         "timestamp": 1655474484,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 10:01 AM"
     },
     {
@@ -347,7 +293,7 @@
         "category": "florida",
         "link": "https://www.wpbf.com/article/juneteenth-florida-celebrations-events-2022/40312969",
         "timestamp": 1655474556,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 10:02 AM"
     },
     {
@@ -356,7 +302,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/17/Russian-warship-violated-Danish-territorial-waters-in-Baltic-Sea-Danish-Armed-Forces",
         "timestamp": 1655475322,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 10:15 AM"
     },
     {
@@ -369,21 +315,12 @@
         "published": "June 17, 2022 10:22 AM"
     },
     {
-        "title": "The criminal case against Donald Trump | The January 6th committee is doing the Department of Justice’s work for it",
-        "domain": "economist.com",
-        "category": "politics",
-        "link": "https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump",
-        "timestamp": 1655475928,
-        "sentiment": -3,
-        "published": "June 17, 2022 10:25 AM"
-    },
-    {
         "title": "Russia implores Ukraine to \"stop senseless resistance\" in Severodonetsk",
         "domain": "newsweek.com",
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-implores-ukraine-stop-senseless-resistance-severodonetsk-1716332",
         "timestamp": 1655476401,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 10:33 AM"
     },
     {
@@ -392,7 +329,7 @@
         "category": "florida",
         "link": "https://www.local10.com/news/politics/2022/06/16/florida-only-state-not-pre-ordering-toddler-covid-19-jabs/",
         "timestamp": 1655476538,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 17, 2022 10:35 AM"
     },
     {
@@ -401,7 +338,7 @@
         "category": "technology",
         "link": "https://www.ft.com/content/808efcd4-6ef3-4dde-84dd-c4a365d3614f",
         "timestamp": 1655477487,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 10:51 AM"
     },
     {
@@ -410,7 +347,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/17/dr-oz-invests-up-to-715000-in-companies-he-for-skyrocketing-insulin-costs/",
         "timestamp": 1655478067,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 11:01 AM"
     },
     {
@@ -419,7 +356,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/clarence-thomas-bill-pascrell-resignation_n_62ac85cee4b06169ca9819f1",
         "timestamp": 1655479549,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 17, 2022 11:25 AM"
     },
     {
@@ -446,8 +383,17 @@
         "category": "television",
         "link": "https://pressroom.warnermedia.com/us/media-release/hbo-0/hbo-comedy-series-rehearsal-nathan-fielder-debuts-july-15",
         "timestamp": 1655481906,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 12:05 PM"
+    },
+    {
+        "title": "Atom-smashing CERN to 'terminate' work with Russia, Belarus",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-putin-science-belarus-4f5c6fafbd76bf715f32689aeb390d49",
+        "timestamp": 1655483032,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:23 PM"
     },
     {
         "title": "Senators call for a common charger standard in the US",
@@ -455,7 +401,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/senate-common-charger-standard-143038776.html",
         "timestamp": 1655483217,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:26 PM"
     },
     {
@@ -468,12 +414,21 @@
         "published": "June 17, 2022 12:51 PM"
     },
     {
+        "title": "Tokayev said that #Kazakhstan doesn’t recognize \"#LPR\" and \"#DPR\" and called them quasi-state territories He noted that international law based on #UN Charter and two fundamental principles- right of nations to self-determination and territorial integrity,came into conflict.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/nexta_tv/status/1537833612615237632",
+        "timestamp": 1655484976,
+        "sentiment": -6,
+        "published": "June 17, 2022 12:56 PM"
+    },
+    {
         "title": "Leaked Amazon memo warns the company is running out of people to hire",
         "domain": "vox.com",
         "category": "technology",
         "link": "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage",
         "timestamp": 1655485258,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 1:00 PM"
     },
     {
@@ -491,8 +446,152 @@
         "category": "worldnews",
         "link": "https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access",
         "timestamp": 1655486176,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 1:16 PM"
+    },
+    {
+        "title": "House Democrat calls for Clarence Thomas to resign following report of wife’s email with Eastman",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/3527863-house-democrat-calls-for-clarence-thomas-to-resign-following-report-of-wifes-email-with-eastman/",
+        "timestamp": 1655488210,
+        "sentiment": -4,
+        "published": "June 17, 2022 1:50 PM"
+    },
+    {
+        "title": "Uvalde Hires Private Law Firm to Argue It Doesn’t Have to Release School Shooting Public Records",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/88q95p/uvalde-contracts-private-law-firm-to-argue-it-doesnt-have-to-release-school-shooting-public-records",
+        "timestamp": 1655488649,
+        "sentiment": -4,
+        "published": "June 17, 2022 1:57 PM"
+    },
+    {
+        "title": "EPA Issues New Drinking Water Health Advisories: See Florida Impacts",
+        "domain": "patch.com",
+        "category": "florida",
+        "link": "https://patch.com/florida/sarasota/epa-issues-new-drinking-water-health-advisories-see-florida-impacts?utm_source=reddit&utm_medium=web&utm_campaign=share",
+        "timestamp": 1655488965,
+        "sentiment": 3,
+        "published": "June 17, 2022 2:02 PM"
+    },
+    {
+        "title": "Russia will use nuclear weapons if its sovereignty is threatened - Putin",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/17/7353142/",
+        "timestamp": 1655489548,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:12 PM"
+    },
+    {
+        "title": "Reuters: U.S. lawmakers urge Google to fix abortion searches that steer women to 'fake clinics.'",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/transactional/exclusive-us-lawmakers-urge-google-fix-abortion-searches-that-steer-women-fake-2022-06-17/",
+        "timestamp": 1655490603,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:30 PM"
+    },
+    {
+        "title": "The Personal Brand Is Dead: Gen Z would rather be anonymous online.",
+        "domain": "theatlantic.com",
+        "category": "technology",
+        "link": "https://www.theatlantic.com/technology/archive/2022/06/gen-z-internet-anonymity-instagram-tumblr/661316/",
+        "timestamp": 1655490680,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:31 PM"
+    },
+    {
+        "title": "WWE Board Probes Secret $3 Million Hush Pact by CEO Vince McMahon, Sources Say",
+        "domain": "wsj.com",
+        "category": "sports",
+        "link": "https://www.wsj.com/articles/wwe-board-probes-secret-3-million-hush-pact-by-ceo-vince-mcmahon-sources-say-11655322722",
+        "timestamp": 1655491171,
+        "sentiment": -2,
+        "published": "June 17, 2022 2:39 PM"
+    },
+    {
+        "title": "Families being displaced due to partial building collapse seeking advice",
+        "domain": "nbcmiami.com",
+        "category": "miami",
+        "link": "https://www.nbcmiami.com/news/local/miami-beach-apartment-building-evacuated-after-partial-roof-collapse/2785308/",
+        "timestamp": 1655491254,
+        "sentiment": 0,
+        "published": "June 17, 2022 2:40 PM"
+    },
+    {
+        "title": "White House: Florida Doctors Can Order Under-5 COVID-19 Vaccines Directly From The US Government",
+        "domain": "apnews.com",
+        "category": "florida",
+        "link": "https://apnews.com/article/covid-health-ron-desantis-florida-government-and-politics-f5de4beb6480f63bf6dd9cad3be01b6b",
+        "timestamp": 1655491517,
+        "sentiment": 3,
+        "published": "June 17, 2022 2:45 PM"
+    },
+    {
+        "title": "Syria to become first to recognize Donetsk, Luhansk 'republics' in Ukraine in support of Russia's war",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
+        "timestamp": 1655450969,
+        "sentiment": -2,
+        "published": "June 17, 2022 3:29 AM"
+    },
+    {
+        "title": "Russia has ‘strategically lost’ war in Ukraine, says head of UK’s armed forces",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "worldnews",
+        "link": "https://www.scottishdailyexpress.co.uk/news/world-news/russia-strategically-lost-war-ukraine-27258299",
+        "timestamp": 1655453885,
+        "sentiment": -2,
+        "published": "June 17, 2022 4:18 AM"
+    },
+    {
+        "title": "BREAKING: The European Commission has adopted an opinion recommending that Ukraine be granted candidate status, a first step in the process to to becoming an EU member",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
+        "timestamp": 1655460499,
+        "sentiment": 1,
+        "published": "June 17, 2022 6:08 AM"
+    },
+    {
+        "title": "After Scholz's visit to Ukraine, active movements of military equipment in Germany began.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1537753802929057794",
+        "timestamp": 1655464755,
+        "sentiment": 1,
+        "published": "June 17, 2022 7:19 AM"
+    },
+    {
+        "title": "Texas Governor’s Race Narrows After Uvalde Shooting, Poll Shows",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-15/texas-governor-s-race-narrows-after-uvalde-shooting-poll-shows",
+        "timestamp": 1655468405,
+        "sentiment": -3,
+        "published": "June 17, 2022 8:20 AM"
+    },
+    {
+        "title": "DeSantis announces Annual Python Challenge - win prizes!",
+        "domain": "flpythonchallenge.org",
+        "category": "florida",
+        "link": "https://flpythonchallenge.org/?fbclid=IwAR33qYJ9m_kazw2MV9_mjw6OlRRCv3-Lfh1R7UwNiNyCBHL7-H_sTKbFmjA",
+        "timestamp": 1655473400,
+        "sentiment": -1,
+        "published": "June 17, 2022 9:43 AM"
+    },
+    {
+        "title": "The criminal case against Donald Trump | The January 6th committee is doing the Department of Justice’s work for it",
+        "domain": "economist.com",
+        "category": "politics",
+        "link": "https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump",
+        "timestamp": 1655475928,
+        "sentiment": -3,
+        "published": "June 17, 2022 10:25 AM"
     },
     {
         "title": "Catholic Church strips Middle School of Catholic Status for flying BLM and Pride flags.",
