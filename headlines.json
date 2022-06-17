@@ -9,6 +9,15 @@
         "published": "June 17, 2022 12:04 AM"
     },
     {
+        "title": "U.K. sets out new Russia sanctions for 'barbaric treatment of children in Ukraine'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/uk-sets-russia-sanctions-barbaric-103516824-135908633.html",
+        "timestamp": 1655439008,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:10 AM"
+    },
+    {
         "title": "Boca condo association sued a unit owner who asked to see financial records. Now she owes $395,554 in legal fees.",
         "domain": "archive.ph",
         "category": "FLgovernment",
@@ -23,7 +32,7 @@
         "category": "ukraine",
         "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
         "timestamp": 1655440211,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 17, 2022 12:30 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
         "timestamp": 1655442791,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 17, 2022 1:13 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "news",
         "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
         "timestamp": 1655444395,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 1:39 AM"
     },
     {
@@ -50,8 +59,17 @@
         "category": "news",
         "link": "https://hollywoodlife.com/2022/06/16/amber-heard-releases-therapists-notes-prove-johnny-depp-abuse/",
         "timestamp": 1655445196,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 17, 2022 1:53 AM"
+    },
+    {
+        "title": "Ukrainian Navy says it hit a Russian ship that was transporting an air defense system, ammo, supplies and personnel to Snake Island.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
+        "timestamp": 1655447423,
+        "sentiment": -2,
+        "published": "June 17, 2022 2:30 AM"
     },
     {
         "title": "Scotland leader to start campaign for new independence vote",
