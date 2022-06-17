@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
         "timestamp": 1655438644,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 17, 2022 12:04 AM"
     },
     {
@@ -27,15 +27,6 @@
         "published": "June 17, 2022 12:26 AM"
     },
     {
-        "title": "Plan needed to make Russia pay reparations to Ukrainians, says report",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
-        "timestamp": 1655442791,
-        "sentiment": -2,
-        "published": "June 17, 2022 1:13 AM"
-    },
-    {
         "title": "SpaceX workers call Elon Musk an ‘embarrassment’ in letter",
         "domain": "sfgate.com",
         "category": "news",
@@ -50,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
         "timestamp": 1655447423,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 2:30 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
         "timestamp": 1655453478,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 4:11 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
         "timestamp": 1655456882,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 5:08 AM"
     },
     {
@@ -135,21 +126,12 @@
         "published": "June 17, 2022 5:36 AM"
     },
     {
-        "title": "Study: Humans responsible for over 90% of world’s oil slicks",
-        "domain": "news.fsu.edu",
-        "category": "technology",
-        "link": "https://news.fsu.edu/news/science-technology/2022/06/16/study-humans-responsible-for-over-90-of-worlds-oil-slicks/",
-        "timestamp": 1655459148,
-        "sentiment": -7,
-        "published": "June 17, 2022 5:45 AM"
-    },
-    {
         "title": "Trump’s Jan 6 arguments dubbed ‘the Costanza defence’ after ‘Seinfeld’ joke | In the ‘Seinfeld’ episode, a character says, “It’s not a lie if you believe it.”",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 6:05 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655460499,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 6:08 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/finance/tesla-investor-sues-musk-board-over-accusation-workplace-discrimination-2022-06-17",
         "timestamp": 1655461704,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 6:28 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/16/us/politics/pence-trump-jan-6.html",
         "timestamp": 1655462051,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 17, 2022 6:34 AM"
     },
     {
@@ -212,8 +194,17 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 17, 2022 6:50 AM"
+    },
+    {
+        "title": "Yesterday afternoon, 🇷🇺's large ammo depot in Khrustalnyi, Luhansk oblast, was destroyed The facility hidden at a factory more than 50 km behind the frontline caught fire after an alleged 🇺🇦missile strike & detonations lasted well into the night.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/EuromaidanPress/status/1537694208030654464",
+        "timestamp": 1655463618,
+        "sentiment": -6,
+        "published": "June 17, 2022 7:00 AM"
     },
     {
         "title": "The Netherlands wants the European Commission to include the criminalization of anti-LGBT hatred in the list of reforms that Ukraine should carry out",
@@ -221,7 +212,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
         "timestamp": 1655464240,
-        "sentiment": 1,
+        "sentiment": -6,
         "published": "June 17, 2022 7:10 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/business/business-news/wwe-vince-mcmahon-steps-back-misconduct-investigation-1235166429/",
         "timestamp": 1655465055,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 17, 2022 7:24 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/06/17/tsmc-announces-2nm-chip-production-will-start-by-2025",
         "timestamp": 1655466431,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 7:47 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
         "timestamp": 1655467052,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 17, 2022 7:57 AM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "florida",
         "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
         "timestamp": 1655467619,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 17, 2022 8:06 AM"
     },
     {
@@ -284,8 +275,26 @@
         "category": "florida",
         "link": "https://t.uga.edu/8a1",
         "timestamp": 1655469246,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 17, 2022 8:34 AM"
+    },
+    {
+        "title": "Document: Slain Colorado teen worried about coworker",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/colorado-springs-homicide-7147c3a95bf3076a50088ac7d3c70c6a",
+        "timestamp": 1655469250,
+        "sentiment": 2,
+        "published": "June 17, 2022 8:34 AM"
+    },
+    {
+        "title": "Peaky Blinders: Why it’s unlikely we’ll see a show like the Netflix gangster drama again",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-series-finale-legacy/",
+        "timestamp": 1655469486,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:38 AM"
     },
     {
         "title": "A Tesla investor is suing Elon Musk and Tesla's board, accusing the company of discrimination and creating a toxic work culture",
@@ -293,8 +302,26 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-sues-elon-musk-toxic-workculture-discrimination-lawsuit-2022-6",
         "timestamp": 1655470200,
-        "sentiment": -7,
+        "sentiment": 0,
         "published": "June 17, 2022 8:50 AM"
+    },
+    {
+        "title": "Russian military vessel entered danish waters close to island where danish parliament is currently visiting",
+        "domain": "nyheder.tv2.dk",
+        "category": "worldnews",
+        "link": "https://nyheder.tv2.dk/samfund/2022-06-17-russisk-krigsskib-kraenkede-dansk-farvand-ved-bornholm",
+        "timestamp": 1655470229,
+        "sentiment": -2,
+        "published": "June 17, 2022 8:50 AM"
+    },
+    {
+        "title": "Trump claims he never asked Pence to overturn the election",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pence-overturn-election-jan-6-b2103457.html",
+        "timestamp": 1655470434,
+        "sentiment": -2,
+        "published": "June 17, 2022 8:53 AM"
     },
     {
         "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
@@ -304,6 +331,69 @@
         "timestamp": 1655471545,
         "sentiment": 0,
         "published": "June 17, 2022 9:12 AM"
+    },
+    {
+        "title": "Dutch fielders searching through the trees and bushes for the ball after an England batsman hits it out of the ground",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/henrymoeranBBC/status/1537732155803049985",
+        "timestamp": 1655471598,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:13 AM"
+    },
+    {
+        "title": "USB-C iPhone could become mandatory in the US as senators push for common charger law.",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2022/06/17/usb-c-iphone-united-states/",
+        "timestamp": 1655471832,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:17 AM"
+    },
+    {
+        "title": "DeSantis announces Annual Python Challenge - win prizes!",
+        "domain": "flpythonchallenge.org",
+        "category": "florida",
+        "link": "https://flpythonchallenge.org/?fbclid=IwAR33qYJ9m_kazw2MV9_mjw6OlRRCv3-Lfh1R7UwNiNyCBHL7-H_sTKbFmjA",
+        "timestamp": 1655473400,
+        "sentiment": 3,
+        "published": "June 17, 2022 9:43 AM"
+    },
+    {
+        "title": "Mike Lindell Says Walmart Is 'Canceling' Him and Pulling His Products",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mike-lindell-says-walmart-is-canceling-him-pulling-his-products-2022-6",
+        "timestamp": 1655473523,
+        "sentiment": -2,
+        "published": "June 17, 2022 9:45 AM"
+    },
+    {
+        "title": "Juneteenth: Celebrations to be held across South Florida",
+        "domain": "wpbf.com",
+        "category": "florida",
+        "link": "https://www.wpbf.com/article/juneteenth-florida-celebrations-events-2022/40312969",
+        "timestamp": 1655474556,
+        "sentiment": 3,
+        "published": "June 17, 2022 10:02 AM"
+    },
+    {
+        "title": "Plan needed to make Russia pay reparations to Ukrainians, says report",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
+        "timestamp": 1655442791,
+        "sentiment": -2,
+        "published": "June 17, 2022 1:13 AM"
+    },
+    {
+        "title": "Study: Humans responsible for over 90% of world’s oil slicks",
+        "domain": "news.fsu.edu",
+        "category": "technology",
+        "link": "https://news.fsu.edu/news/science-technology/2022/06/16/study-humans-responsible-for-over-90-of-worlds-oil-slicks/",
+        "timestamp": 1655459148,
+        "sentiment": -7,
+        "published": "June 17, 2022 5:45 AM"
     },
     {
         "title": "Vince McMahon Steps Aside as WWE CEO as Board Probes Alleged Misconduct",
