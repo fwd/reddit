@@ -9,15 +9,6 @@
         "published": "June 17, 2022 12:04 AM"
     },
     {
-        "title": "U.K. sets out new Russia sanctions for 'barbaric treatment of children in Ukraine'",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/uk-sets-russia-sanctions-barbaric-103516824-135908633.html",
-        "timestamp": 1655439008,
-        "sentiment": 0,
-        "published": "June 17, 2022 12:10 AM"
-    },
-    {
         "title": "Boca condo association sued a unit owner who asked to see financial records. Now she owes $395,554 in legal fees.",
         "domain": "archive.ph",
         "category": "FLgovernment",
@@ -41,7 +32,7 @@
         "category": "ukraine",
         "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
         "timestamp": 1655440211,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 17, 2022 12:30 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/UA_NAVY/status/1537682084088651776",
         "timestamp": 1655447423,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 17, 2022 2:30 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
         "timestamp": 1655453478,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 17, 2022 4:11 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
         "timestamp": 1655456882,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 17, 2022 5:08 AM"
     },
     {
@@ -124,6 +115,15 @@
         "timestamp": 1655457742,
         "sentiment": 0,
         "published": "June 17, 2022 5:22 AM"
+    },
+    {
+        "title": "Feral hogs in Italy sniff out & destroy $22K worth of cocaine",
+        "domain": "mediafeed.org",
+        "category": "news",
+        "link": "https://mediafeed.org/cocaine-feral-hogs/",
+        "timestamp": 1655458064,
+        "sentiment": -4,
+        "published": "June 17, 2022 5:27 AM"
     },
     {
         "title": "UK approves extradition of Julian Assange",
@@ -140,7 +140,16 @@
         "category": "technology",
         "link": "https://news.fsu.edu/news/science-technology/2022/06/16/study-humans-responsible-for-over-90-of-worlds-oil-slicks/",
         "timestamp": 1655459148,
-        "sentiment": 1,
+        "sentiment": 0,
+        "published": "June 17, 2022 5:45 AM"
+    },
+    {
+        "title": "Trump’s Jan 6 arguments dubbed ‘the Costanza defence’ after ‘Seinfeld’ joke | In the ‘Seinfeld’ episode, a character says, “It’s not a lie if you believe it.”",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
+        "timestamp": 1655459152,
+        "sentiment": -7,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -149,8 +158,80 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 17, 2022 6:05 AM"
+    },
+    {
+        "title": "Tesla investor sues Musk, board over accusation of workplace discrimination",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/finance/tesla-investor-sues-musk-board-over-accusation-workplace-discrimination-2022-06-17",
+        "timestamp": 1655461704,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:28 AM"
+    },
+    {
+        "title": "Ukrainian soldiers raise money by writing custom notes on artillery shells for $40 before firing them at Russians",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/ukraine-soldiers-custom-notes-artillery-shells-40-dollars-fire-russia-2022-6",
+        "timestamp": 1655462419,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:40 AM"
+    },
+    {
+        "title": "China says COVID might have originated in U.S., calls Wuhan lab theory lies",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
+        "timestamp": 1655463018,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:50 AM"
+    },
+    {
+        "title": "UK asked to host Eurovision in 2023 after Ukraine ruled out",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
+        "timestamp": 1655463024,
+        "sentiment": 0,
+        "published": "June 17, 2022 6:50 AM"
+    },
+    {
+        "title": "The Netherlands wants the European Commission to include the criminalization of anti-LGBT hatred in the list of reforms that Ukraine should carry out",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/kyivindependent/status/1537753875607916544?s=21&t=vt7cgbCQeTazNobKWwojWA",
+        "timestamp": 1655464240,
+        "sentiment": 1,
+        "published": "June 17, 2022 7:10 AM"
+    },
+    {
+        "title": "WWE’s Vince McMahon Steps Back From CEO, Chair Roles Amid Probe Into Alleged Misconduct, Daughter Stephanie Named Interim CEO",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/business/business-news/wwe-vince-mcmahon-steps-back-misconduct-investigation-1235166429/",
+        "timestamp": 1655465055,
+        "sentiment": 0,
+        "published": "June 17, 2022 7:24 AM"
+    },
+    {
+        "title": "‘Gonna lose my gun again,’ Idaho deputy said minutes after fatally shooting man in mental health crisis",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/gonna-lose-gun-idaho-deputy-said-minutes-fatally-shooting-man-mental-h-rcna33601",
+        "timestamp": 1655465748,
+        "sentiment": -4,
+        "published": "June 17, 2022 7:35 AM"
+    },
+    {
+        "title": "U.K. sets out new Russia sanctions for 'barbaric treatment of children in Ukraine'",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/uk-sets-russia-sanctions-barbaric-103516824-135908633.html",
+        "timestamp": 1655439008,
+        "sentiment": 0,
+        "published": "June 17, 2022 12:10 AM"
     },
     {
         "title": "Amber Heard Releases 'Years' Of Therapist's Notes That She Says Prove Johnny Depp Abused Her",
