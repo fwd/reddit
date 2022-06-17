@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://twitter.com/nba/status/1537645605958340608?s=21&t=qNdiYcK6uWOnO7xNYmd-5A",
         "timestamp": 1655438644,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 12:04 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "news",
         "link": "https://apnews.com/article/technology-kentucky-supreme-court-robbery-government-and-politics-4377ab317dbed3aa77824e39f52e94d7?",
         "timestamp": 1655439986,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 17, 2022 12:26 AM"
-    },
-    {
-        "title": "Russia has ‘strategically lost’ war, says UK defence chief, as Lavrov says Moscow unashamed",
-        "domain": "theguardian.com",
-        "category": "ukraine",
-        "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
-        "timestamp": 1655440211,
-        "sentiment": 1,
-        "published": "June 17, 2022 12:30 AM"
     },
     {
         "title": "Plan needed to make Russia pay reparations to Ukrainians, says report",
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/16/plan-needed-to-make-russia-pay-reparations-to-ukrainians-says-report",
         "timestamp": 1655442791,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 1:13 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://www.sfgate.com/bayarea/article/SpaceX-leaked-letter-Elon-Musk-17246720.php",
         "timestamp": 1655444395,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 17, 2022 1:39 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/syria-to-become-first-to-recognize-donetsk-luhansk-republics-in-ukraine-in-support-of-russias-war/ar-AAYz2Kn",
         "timestamp": 1655450969,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 3:29 AM"
     },
     {
@@ -77,8 +68,17 @@
         "category": "technology",
         "link": "https://www.engadget.com/space-x-reportedly-fired-employees-that-wrote-letter-criticizing-elon-musk-075046446.html?src=rss",
         "timestamp": 1655453478,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 17, 2022 4:11 AM"
+    },
+    {
+        "title": "Russia has ‘strategically lost’ war in Ukraine, says head of UK’s armed forces",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "worldnews",
+        "link": "https://www.scottishdailyexpress.co.uk/news/world-news/russia-strategically-lost-war-ukraine-27258299",
+        "timestamp": 1655453885,
+        "sentiment": -2,
+        "published": "June 17, 2022 4:18 AM"
     },
     {
         "title": "SpaceX fires employees involved in letter rebuking Musk - NYT",
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/?taid=62ac380b5272ff0001d0fc4f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655454393,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 17, 2022 4:26 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.irishtimes.com/world/europe/2022/06/17/russia-ukraine-war-lavrov-says-russia-not-ashamed-of-showing-who-we-are/",
         "timestamp": 1655455937,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 4:52 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints",
         "timestamp": 1655456882,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 17, 2022 5:08 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/17/julian-assange-priti-patel-signs-extradition-order-for-wikileaks-founder-16844579/",
         "timestamp": 1655457742,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 5:22 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://mediafeed.org/cocaine-feral-hogs/",
         "timestamp": 1655458064,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 17, 2022 5:27 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-61839256",
         "timestamp": 1655458617,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 5:36 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "technology",
         "link": "https://news.fsu.edu/news/science-technology/2022/06/16/study-humans-responsible-for-over-90-of-worlds-oil-slicks/",
         "timestamp": 1655459148,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/donald-trump-seinfeld-constanza-defence-b2103006.html",
         "timestamp": 1655459152,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 17, 2022 5:45 AM"
     },
     {
@@ -158,8 +158,17 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/hospitals-sent-website-users-medical-information-meta-report-2022-6",
         "timestamp": 1655460311,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 17, 2022 6:05 AM"
+    },
+    {
+        "title": "BREAKING: The European Commission has adopted an opinion recommending that Ukraine be granted candidate status, a first step in the process to to becoming an EU member",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/terischultz/status/1537738590184251392?s=21&t=vt7cgbCQeTazNobKWwojWA",
+        "timestamp": 1655460499,
+        "sentiment": 1,
+        "published": "June 17, 2022 6:08 AM"
     },
     {
         "title": "Tesla investor sues Musk, board over accusation of workplace discrimination",
@@ -167,8 +176,17 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/finance/tesla-investor-sues-musk-board-over-accusation-workplace-discrimination-2022-06-17",
         "timestamp": 1655461704,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 17, 2022 6:28 AM"
+    },
+    {
+        "title": "Mike Pence came within 40 feet of being killed through activities of the man he sold his soul to. It might take only one corrupt service detail to end US democracy.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/16/us/politics/pence-trump-jan-6.html",
+        "timestamp": 1655462051,
+        "sentiment": -3,
+        "published": "June 17, 2022 6:34 AM"
     },
     {
         "title": "Ukrainian soldiers raise money by writing custom notes on artillery shells for $40 before firing them at Russians",
@@ -176,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/ukraine-soldiers-custom-notes-artillery-shells-40-dollars-fire-russia-2022-6",
         "timestamp": 1655462419,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 6:40 AM"
     },
     {
@@ -185,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/coronavirus-lab-leak-origins-theory-china-wuhan-us-1716788",
         "timestamp": 1655463018,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -194,7 +212,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/17/uk-is-asked-to-host-eurovision-in-2023-after-ukraine-ruled-out",
         "timestamp": 1655463024,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 17, 2022 6:50 AM"
     },
     {
@@ -212,7 +230,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/business/business-news/wwe-vince-mcmahon-steps-back-misconduct-investigation-1235166429/",
         "timestamp": 1655465055,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 17, 2022 7:24 AM"
     },
     {
@@ -221,8 +239,89 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/gonna-lose-gun-idaho-deputy-said-minutes-fatally-shooting-man-mental-h-rcna33601",
         "timestamp": 1655465748,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 17, 2022 7:35 AM"
+    },
+    {
+        "title": "TSMC announces 2nm chip production will start by 2025",
+        "domain": "appleinsider.com",
+        "category": "technology",
+        "link": "https://appleinsider.com/articles/22/06/17/tsmc-announces-2nm-chip-production-will-start-by-2025",
+        "timestamp": 1655466431,
+        "sentiment": -7,
+        "published": "June 17, 2022 7:47 AM"
+    },
+    {
+        "title": "Massachusetts school can no longer be called Catholic after flying Black Lives Matter and pride flags, bishop says",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/massachusetts-catholic-school-nativity-school-worcester-black-lives-matter-pride-flags/",
+        "timestamp": 1655466458,
+        "sentiment": 2,
+        "published": "June 17, 2022 7:47 AM"
+    },
+    {
+        "title": "Trump aides told him that using Pence to overturn election was illegal - The Jan. 6 committee presented evidence that lawyers advising Trump knew the plan had no legal merit. But he pursued it anyway.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/national-security/2022/06/16/trump-aides-told-him-that-using-pence-overturn-election-was-illegal/",
+        "timestamp": 1655467052,
+        "sentiment": -3,
+        "published": "June 17, 2022 7:57 AM"
+    },
+    {
+        "title": "Heat advisory issued for several Tampa Bay area counties, index up to 110°F",
+        "domain": "abcactionnews.com",
+        "category": "florida",
+        "link": "https://www.abcactionnews.com/weather/heat-advisory-issued-friday",
+        "timestamp": 1655467619,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:06 AM"
+    },
+    {
+        "title": "Study: Panthers now considered No. 1 predator of deer in Southwest Florida",
+        "domain": "t.uga.edu",
+        "category": "florida",
+        "link": "https://t.uga.edu/8a1",
+        "timestamp": 1655469246,
+        "sentiment": 0,
+        "published": "June 17, 2022 8:34 AM"
+    },
+    {
+        "title": "A Tesla investor is suing Elon Musk and Tesla's board, accusing the company of discrimination and creating a toxic work culture",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-sues-elon-musk-toxic-workculture-discrimination-lawsuit-2022-6",
+        "timestamp": 1655470200,
+        "sentiment": -7,
+        "published": "June 17, 2022 8:50 AM"
+    },
+    {
+        "title": "Transportation Moguls Fueling Miami-Dade Political Campaigns In Line For $9 Million No-Bid Contract Extension",
+        "domain": "southfloridareporter.com",
+        "category": "miami",
+        "link": "https://southfloridareporter.com/transportation-moguls-fueling-miami-dade-political-campaigns-in-line-for-9-million-no-bid-contract-extension/",
+        "timestamp": 1655471545,
+        "sentiment": 0,
+        "published": "June 17, 2022 9:12 AM"
+    },
+    {
+        "title": "Vince McMahon Steps Aside as WWE CEO as Board Probes Alleged Misconduct",
+        "domain": "variety.com",
+        "category": "sports",
+        "link": "https://variety.com/2022/tv/news/wwe-vince-mcmahon-steps-down-misconduct-1235295882/",
+        "timestamp": 1655472096,
+        "sentiment": -2,
+        "published": "June 17, 2022 9:21 AM"
+    },
+    {
+        "title": "Russia has ‘strategically lost’ war, says UK defence chief, as Lavrov says Moscow unashamed",
+        "domain": "theguardian.com",
+        "category": "ukraine",
+        "link": "https://www.theguardian.com/world/2022/jun/17/russia-has-strategically-lost-war-declares-uk-admiral-as-lavrov-says-no-shame-in-war-crimes",
+        "timestamp": 1655440211,
+        "sentiment": 1,
+        "published": "June 17, 2022 12:30 AM"
     },
     {
         "title": "U.K. sets out new Russia sanctions for 'barbaric treatment of children in Ukraine'",
