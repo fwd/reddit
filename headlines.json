@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
         "timestamp": 1655532328,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 2:05 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/tv-shows/the-interview/20220617-zelensky-adviser-ukraine-can-win-war-in-3-to-6-months-if-it-gets-heavy-weapons-soon",
         "timestamp": 1655533351,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 2:22 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/",
         "timestamp": 1655534178,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 2:36 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "miami",
         "link": "https://snbc13.com/jennifer-brea-missing-help-find-talented-film-maker/",
         "timestamp": 1655534888,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 2:48 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://edition.cnn.com/2022/06/17/tech/elon-musk-twitter-bots/index.html",
         "timestamp": 1655541142,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 4:32 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/asian-america/-dont-go-money-gas-station-owner-lowers-prices-help-customers-rcna34185?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655551205,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 7:20 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/lawmakers-google-anti-abortion-sites-104344695.html",
         "timestamp": 1655552039,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 7:33 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1538123496114556928?t=D43RzaGY7UkLGG0G7Lcn7A&s=09",
         "timestamp": 1655552869,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 18, 2022 7:47 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/null-160834454.html",
         "timestamp": 1655553443,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 7:57 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/uk-news/paratroopers-orgy-video-sees-deployment-24260523",
         "timestamp": 1655554771,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 8:19 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "technology",
         "link": "https://www.techradar.com/in/news/ethereum-miners-spent-dollar15-billion-on-gpus-in-just-over-one-year",
         "timestamp": 1655555229,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 8:27 AM"
     },
     {
@@ -144,21 +144,12 @@
         "published": "June 18, 2022 8:28 AM"
     },
     {
-        "title": "The ‘big rip-off’: how Trump exploited his fans with ‘election defense’ fund | The former president used donations to a nonexistent legal defense fund for his hotels and the January 6 Ellipse rally",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jun/18/donald-trump-election-defense-fundraising-defrauded-fans",
-        "timestamp": 1655556209,
-        "sentiment": 0,
-        "published": "June 18, 2022 8:43 AM"
-    },
-    {
         "title": "Big Tech must deal with disinformation or face fines, says EU",
         "domain": "bbc.com",
         "category": "worldnews",
         "link": "https://www.bbc.com/news/technology-61817647?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCWorld&at_custom4=74B152C4-EE9A-11EC-BABD-5BF64744363C&at_medium=custom7&at_custom2=twitter",
         "timestamp": 1655556242,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 8:44 AM"
     },
     {
@@ -171,21 +162,12 @@
         "published": "June 18, 2022 8:46 AM"
     },
     {
-        "title": "Trump 'Handed Down Death Sentence to Mike Pence' to Stay in Power: Mary Trump — Trump “Wasn’t Just Stirring Up His Insurrectionists to Create Chaos.” He Put Pence's Life at Risk to Illegally Stay in Oval Office, According to Trump's Niece.",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
-        "timestamp": 1655557332,
-        "sentiment": 0,
-        "published": "June 18, 2022 9:02 AM"
-    },
-    {
         "title": "The argument that video games spur mass shootings is losing steam",
         "domain": "bloomberg.com",
         "category": "technology",
         "link": "https://www.bloomberg.com/news/newsletters/2022-06-17/the-argument-that-violent-video-games-spur-mass-shootings-is-losing-steam",
         "timestamp": 1655557814,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 9:10 AM"
     },
     {
@@ -194,16 +176,7 @@
         "category": "worldnews",
         "link": "https://dailybanner.co.uk/content/president-of-kazakhstan-tokayev-refused-to-accept-the-order-of-alexander-nevsky-from-russia",
         "timestamp": 1655557864,
-        "sentiment": -3,
-        "published": "June 18, 2022 9:11 AM"
-    },
-    {
-        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
-        "timestamp": 1655557866,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 9:11 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "worldnews",
         "link": "https://en.mercopress.com/2022/06/18/first-case-of-medically-assisted-suicide-in-italy-carried-out",
         "timestamp": 1655558687,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 9:24 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/charliekreuz/status/1538114553535414273?s=21&t=MnUQZ6DwDl8ULZr-OgIJLQ",
         "timestamp": 1655560914,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 18, 2022 10:01 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "miami",
         "link": "https://phys.org/news/2022-06-mangrove-reef-yield-positive-investment.html",
         "timestamp": 1655561001,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 10:03 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
         "timestamp": 1655562037,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 10:20 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/TpyxaNews/status/1538122151252873217",
         "timestamp": 1655562428,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 18, 2022 10:27 AM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "news",
         "link": "https://apnews.com/article/cryptocurrency-technology-financial-markets-bitcoin-873a92a17402bf1510755e3ad4901869",
         "timestamp": 1655562579,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 10:29 AM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "ukraine",
         "link": "https://www.politico.com/news/2022/06/18/u-s-weighs-doubling-number-rocket-launchers-ukraine-00040702",
         "timestamp": 1655562938,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 18, 2022 10:35 AM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/18/7353263/",
         "timestamp": 1655563198,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 18, 2022 10:39 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/20-oxford-high-school-students-file-federal-lawsuit/story?id=85461252",
         "timestamp": 1655566022,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 11:27 AM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "news",
         "link": "https://www.local10.com/news/florida/2022/06/17/florida-men-who-attacked-black-man-with-axe-handle-punches-yell-slurs-face-federal-hate-crime-charges/",
         "timestamp": 1655566214,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 18, 2022 11:30 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "technology",
         "link": "https://www.business-standard.com/article/international/forget-pegasus-new-android-spyware-hermit-now-being-used-by-govts-122061800332_1.html",
         "timestamp": 1655566526,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 11:35 AM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.bigissue.com/news/employment/thousands-march-better-pay-for-workers-cost-of-living-crisis/",
         "timestamp": 1655566693,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 11:38 AM"
     },
     {
@@ -392,8 +365,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html",
         "timestamp": 1655569199,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 12:19 PM"
+    },
+    {
+        "title": "Internet Explorer gravestone goes viral in South Korea",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/lifestyle/oddly-enough/internet-explorer-gravestone-goes-viral-south-korea-2022-06-17/",
+        "timestamp": 1655569227,
+        "sentiment": -1,
+        "published": "June 18, 2022 12:20 PM"
     },
     {
         "title": "FBI says fraud on LinkedIn a ‘significant threat’ to platform and consumers",
@@ -401,7 +383,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/17/fbi-says-fraud-on-linkedin-a-significant-threat-to-platform-and-consumers.html?ontent=Main&utm_source=Twitter#Echobox=1655467366",
         "timestamp": 1655570884,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 12:48 PM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/tiktok-china-access-data-in-us",
         "timestamp": 1655572165,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 1:09 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/18/olena-zelenska-ukraine-first-lady-rare-interview-family-under-threat",
         "timestamp": 1655572338,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 1:12 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "technology",
         "link": "https://www.cnet.com/roadshow/news/electric-van-company-goes-bankrupt-but-the-idea-behind-it-is-not/",
         "timestamp": 1655573580,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 1:33 PM"
     },
     {
@@ -464,17 +446,26 @@
         "category": "miami",
         "link": "https://www.theinfatuation.com/miami/guides/best-pizza-miami?utm_campaign=content_marketing&utm_source=facebook&utm_medium=social&utm_campaigntype=paid&utm_audience=miami&utm_content=best_pizza&fbclid=PAAaY5PbWDfCnekM2nhlIdoH0mXascgE6bp-xNb5lDfgSw8so30jD4kCl-_XA_aem_Af91FqEs-Nt4Relgp6OCum-R13MKD7d0oPyyeEQEo3z4wFU4bYHGFg_cncGqkW_mItHqD_BWpcJ2XiYiGp49g0bLo-fEVoY7HoI-AxRKwXpUAHsdjoJAoZ5l-ih2Qv4hons",
         "timestamp": 1655575818,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 2:10 PM"
     },
     {
-        "title": "When will a woman pitch in Major League Baseball? It might be sooner than you think",
-        "domain": "latimes.com",
-        "category": "sports",
-        "link": "https://www.latimes.com/sports/story/2022-06-18/female-pitchers-in-mlb-coming-sooner-than-later",
-        "timestamp": 1655578102,
-        "sentiment": -2,
-        "published": "June 18, 2022 2:48 PM"
+        "title": "A New Bill Would Redirect $100 Billion from the Military Budget to Pro-Worker Programs",
+        "domain": "jacobin.com",
+        "category": "politics",
+        "link": "https://jacobin.com/2022/06/defense-spending-people-over-pentagon-act/",
+        "timestamp": 1655577644,
+        "sentiment": 0,
+        "published": "June 18, 2022 2:40 PM"
+    },
+    {
+        "title": "Beijing is likely to step up its campaign to ‘reunify’ with Taiwan",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/military/article/3182168/beijing-likely-step-its-campaign-reunify-taiwan-analysts-say",
+        "timestamp": 1655578432,
+        "sentiment": -1,
+        "published": "June 18, 2022 2:53 PM"
     },
     {
         "title": "House Democrat calls for Clarence Thomas to step down over his wife's push to overturn the 2020 election results",
@@ -484,6 +475,87 @@
         "timestamp": 1655580647,
         "sentiment": 0,
         "published": "June 18, 2022 3:30 PM"
+    },
+    {
+        "title": "The Russians threw all their reserves in the Severodonetsk and Bakhmut directions. They have huge losses because of this. No tactics just manpower",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/WarMonitor3/status/1538244728474542080?s=20&t=G74AXTbHLTCBHi4PCeX-jQ",
+        "timestamp": 1655581355,
+        "sentiment": 0,
+        "published": "June 18, 2022 3:42 PM"
+    },
+    {
+        "title": "Bitcoin price drops below $18,200 as sell-off accelerates",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html",
+        "timestamp": 1655582557,
+        "sentiment": 1,
+        "published": "June 18, 2022 4:02 PM"
+    },
+    {
+        "title": "John Fetterman Bests Dr. Oz by 9 Points in Pa. Senate Race: Poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fetterman-oz-pennsylvania-senate-election-poll-shapiro-mastriano-2022-6",
+        "timestamp": 1655584492,
+        "sentiment": 0,
+        "published": "June 18, 2022 4:34 PM"
+    },
+    {
+        "title": "The Navy has fired a dozen leaders but won't explain why A total of 13 commanding officers have been fired so far this year, including five in one week, the Navy said.",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/navy-fired-dozen-leaders-wont-explain-rcna33988",
+        "timestamp": 1655584619,
+        "sentiment": 1,
+        "published": "June 18, 2022 4:36 PM"
+    },
+    {
+        "title": "'Dream On' documentary chronicles how the 1996 U.S. women's Olympic team helped launch the WNBA",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/wnba/story/_/id/34093273/dream-documentary-chronicles-how-1996-us-women-olympic-team-helped-launch-wnba?platform=amp",
+        "timestamp": 1655586468,
+        "sentiment": -2,
+        "published": "June 18, 2022 5:07 PM"
+    },
+    {
+        "title": "The ‘big rip-off’: how Trump exploited his fans with ‘election defense’ fund | The former president used donations to a nonexistent legal defense fund for his hotels and the January 6 Ellipse rally",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/18/donald-trump-election-defense-fundraising-defrauded-fans",
+        "timestamp": 1655556209,
+        "sentiment": 0,
+        "published": "June 18, 2022 8:43 AM"
+    },
+    {
+        "title": "Trump 'Handed Down Death Sentence to Mike Pence' to Stay in Power: Mary Trump — Trump “Wasn’t Just Stirring Up His Insurrectionists to Create Chaos.” He Put Pence's Life at Risk to Illegally Stay in Oval Office, According to Trump's Niece.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
+        "timestamp": 1655557332,
+        "sentiment": 0,
+        "published": "June 18, 2022 9:02 AM"
+    },
+    {
+        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
+        "timestamp": 1655557866,
+        "sentiment": -3,
+        "published": "June 18, 2022 9:11 AM"
+    },
+    {
+        "title": "When will a woman pitch in Major League Baseball? It might be sooner than you think",
+        "domain": "latimes.com",
+        "category": "sports",
+        "link": "https://www.latimes.com/sports/story/2022-06-18/female-pitchers-in-mlb-coming-sooner-than-later",
+        "timestamp": 1655578102,
+        "sentiment": -2,
+        "published": "June 18, 2022 2:48 PM"
     },
     {
         "title": "Russia to Deploy Ancient T-62M For Storming Sievierodonetsk (video) | Defense Express",
