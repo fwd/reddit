@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/video-games/2022/06/14/diablo-immortal-pay-to-win-monetization/",
         "timestamp": 1655530493,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 18, 2022 1:34 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/",
         "timestamp": 1655534178,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 18, 2022 2:36 AM"
     },
     {
@@ -70,6 +70,33 @@
         "timestamp": 1655534888,
         "sentiment": 2,
         "published": "June 18, 2022 2:48 AM"
+    },
+    {
+        "title": "Colonel-General Andrey Serdyukov, Commander of the Russian Airborne Forces, was fired due to mass casualties among Russian paratroopers — The Institute for the Study of War (ISW).",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1538057262048153600",
+        "timestamp": 1655537647,
+        "sentiment": 0,
+        "published": "June 18, 2022 3:34 AM"
+    },
+    {
+        "title": "Elon Musk pressured Twitter to give him access to a 'firehose' of data to evaluate bots. Now what?",
+        "domain": "edition.cnn.com",
+        "category": "technology",
+        "link": "https://edition.cnn.com/2022/06/17/tech/elon-musk-twitter-bots/index.html",
+        "timestamp": 1655541142,
+        "sentiment": 2,
+        "published": "June 18, 2022 4:32 AM"
+    },
+    {
+        "title": "After public pressure, Florida allows pediatricians to order vaccines for very young children.",
+        "domain": "nytimes.com",
+        "category": "FLgovernment",
+        "link": "https://www.nytimes.com/2022/06/17/us/florida-kids-vaccine-desantis.html",
+        "timestamp": 1655544179,
+        "sentiment": -1,
+        "published": "June 18, 2022 5:22 AM"
     },
     {
         "title": "Stephen Curry is the 2022 NBA Finals MVP",
