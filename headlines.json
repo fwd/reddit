@@ -1,23 +1,5 @@
 [
     {
-        "title": "Israel is guilty of crimes of apartheid against Palestinians, says Spain's Catalonia",
-        "domain": "english.alaraby.co.uk",
-        "category": "worldnews",
-        "link": "https://english.alaraby.co.uk/news/catalonia-recognises-israel-apartheid-against-palestinians",
-        "timestamp": 1655526046,
-        "sentiment": 0,
-        "published": "June 18, 2022 12:20 AM"
-    },
-    {
-        "title": "Russia aims to boot former Soviet nations from NATO by relinquishing sovereign recognition: lawmaker",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/russia-aims-boot-former-soviet-161257692.html",
-        "timestamp": 1655527261,
-        "sentiment": 0,
-        "published": "June 18, 2022 12:41 AM"
-    },
-    {
         "title": "Diablo is about how anything is corruptible. Enter ‘Diablo Immortal.’",
         "domain": "washingtonpost.com",
         "category": "technology",
@@ -45,6 +27,15 @@
         "published": "June 18, 2022 1:50 AM"
     },
     {
+        "title": "SC Gov McMaster to sign bill allowing SC healthcare providers to deny services based on beliefs",
+        "domain": "wistv.com",
+        "category": "news",
+        "link": "https://www.wistv.com/2022/06/17/mcmaster-sign-bill-allowing-sc-healthcare-providers-deny-services-based-beliefs/",
+        "timestamp": 1655532283,
+        "sentiment": -2,
+        "published": "June 18, 2022 2:04 AM"
+    },
+    {
         "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack | Climate crisis",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -52,6 +43,15 @@
         "timestamp": 1655532328,
         "sentiment": 0,
         "published": "June 18, 2022 2:05 AM"
+    },
+    {
+        "title": "Zelensky adviser: Ukraine can win war in '3 to 6 months' if it gets heavy weapons soon",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/tv-shows/the-interview/20220617-zelensky-adviser-ukraine-can-win-war-in-3-to-6-months-if-it-gets-heavy-weapons-soon",
+        "timestamp": 1655533351,
+        "sentiment": 0,
+        "published": "June 18, 2022 2:22 AM"
     },
     {
         "title": "TikTok moves all US traffic to Oracle servers, amid new claims user data was accessed from China",
@@ -68,7 +68,7 @@
         "category": "miami",
         "link": "https://snbc13.com/jennifer-brea-missing-help-find-talented-film-maker/",
         "timestamp": 1655534888,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 18, 2022 2:48 AM"
     },
     {
@@ -97,6 +97,24 @@
         "timestamp": 1655544179,
         "sentiment": -1,
         "published": "June 18, 2022 5:22 AM"
+    },
+    {
+        "title": "Israel is guilty of crimes of apartheid against Palestinians, says Spain's Catalonia",
+        "domain": "english.alaraby.co.uk",
+        "category": "worldnews",
+        "link": "https://english.alaraby.co.uk/news/catalonia-recognises-israel-apartheid-against-palestinians",
+        "timestamp": 1655526046,
+        "sentiment": 0,
+        "published": "June 18, 2022 12:20 AM"
+    },
+    {
+        "title": "Russia aims to boot former Soviet nations from NATO by relinquishing sovereign recognition: lawmaker",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russia-aims-boot-former-soviet-161257692.html",
+        "timestamp": 1655527261,
+        "sentiment": 0,
+        "published": "June 18, 2022 12:41 AM"
     },
     {
         "title": "Stephen Curry is the 2022 NBA Finals MVP",
