@@ -1,14 +1,5 @@
 [
     {
-        "title": "Diablo is about how anything is corruptible. Enter ‘Diablo Immortal.’",
-        "domain": "washingtonpost.com",
-        "category": "technology",
-        "link": "https://www.washingtonpost.com/video-games/2022/06/14/diablo-immortal-pay-to-win-monetization/",
-        "timestamp": 1655530493,
-        "sentiment": 0,
-        "published": "June 18, 2022 1:34 AM"
-    },
-    {
         "title": "Tyler Sanders has passed away at only 18 years old",
         "domain": "cinemablend.com",
         "category": "television",
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.wistv.com/2022/06/17/mcmaster-sign-bill-allowing-sc-healthcare-providers-deny-services-based-beliefs/",
         "timestamp": 1655532283,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 2:04 AM"
     },
     {
@@ -86,8 +77,17 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1538057262048153600",
         "timestamp": 1655537647,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 18, 2022 3:34 AM"
+    },
+    {
+        "title": "Arnie’s T-Shirt is awesome",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/apmassaro3/status/1537954145402904580?s=21&t=7DTuHfQLaTpqXGINtEu-TQ",
+        "timestamp": 1655540166,
+        "sentiment": 4,
+        "published": "June 18, 2022 4:16 AM"
     },
     {
         "title": "Elon Musk pressured Twitter to give him access to a 'firehose' of data to evaluate bots. Now what?",
@@ -106,6 +106,78 @@
         "timestamp": 1655544179,
         "sentiment": 0,
         "published": "June 18, 2022 5:22 AM"
+    },
+    {
+        "title": "China to tighten grip on social media comments, requiring sites to employ sufficient content moderators",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/tech/policy/article/3182204/china-tighten-grip-social-media-comments-requiring-sites-employ?module=more_top_stories_int&pgtype=homepage",
+        "timestamp": 1655547039,
+        "sentiment": 0,
+        "published": "June 18, 2022 6:10 AM"
+    },
+    {
+        "title": "Russia to Deploy Ancient T-62M For Storming Sievierodonetsk (video) | Defense Express",
+        "domain": "en.defence-ua.com",
+        "category": "ukraine",
+        "link": "https://en.defence-ua.com/events/russia_to_deploy_ancient_t_62m_for_storming_sievierodonetsk_video-3311.html",
+        "timestamp": 1655547900,
+        "sentiment": 4,
+        "published": "June 18, 2022 6:25 AM"
+    },
+    {
+        "title": "John Eastman Spills The Deets On His Pal Ginni",
+        "domain": "abovethelaw.com",
+        "category": "politics",
+        "link": "https://abovethelaw.com/2022/06/john-eastman-spills-the-deets-on-his-pal-ginni/",
+        "timestamp": 1655548098,
+        "sentiment": 0,
+        "published": "June 18, 2022 6:28 AM"
+    },
+    {
+        "title": "'We don’t go by money’: Gas station owner lowers prices to help customers",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/asian-america/-dont-go-money-gas-station-owner-lowers-prices-help-customers-rcna34185?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1655551205,
+        "sentiment": -3,
+        "published": "June 18, 2022 7:20 AM"
+    },
+    {
+        "title": "Lawmakers ask Google to stop steering people seeking abortion to anti-abortion sites",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/lawmakers-google-anti-abortion-sites-104344695.html",
+        "timestamp": 1655552039,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:33 AM"
+    },
+    {
+        "title": "Juneteenth 2022: Why the day should matter to all Americans",
+        "domain": "floridatoday.com",
+        "category": "florida",
+        "link": "https://www.floridatoday.com/story/news/2022/06/14/juneteenth-2022-florida-time-education-healing-celebration-black-culture-history-emancipation/7483348001/",
+        "timestamp": 1655552893,
+        "sentiment": 1,
+        "published": "June 18, 2022 7:48 AM"
+    },
+    {
+        "title": "Heat advisory in effect for most of Central Florida as temperatures soar",
+        "domain": "fox35orlando.com",
+        "category": "florida",
+        "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
+        "timestamp": 1655553101,
+        "sentiment": 1,
+        "published": "June 18, 2022 7:51 AM"
+    },
+    {
+        "title": "Diablo is about how anything is corruptible. Enter ‘Diablo Immortal.’",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/video-games/2022/06/14/diablo-immortal-pay-to-win-monetization/",
+        "timestamp": 1655530493,
+        "sentiment": 0,
+        "published": "June 18, 2022 1:34 AM"
     },
     {
         "title": "Israel is guilty of crimes of apartheid against Palestinians, says Spain's Catalonia",
