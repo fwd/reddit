@@ -1,11 +1,20 @@
 [
     {
+        "title": "Rep. Eric Swalwell Would Love To Give Trump Equal Time On Jan. 6 Probe — Under Oath",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/eric-swalwell-supports-trump-equal-time-under-oath_n_62ad489de4b06594c1d681f1",
+        "timestamp": 1655530068,
+        "sentiment": 3,
+        "published": "June 18, 2022 1:27 AM"
+    },
+    {
         "title": "Tyler Sanders has passed away at only 18 years old",
         "domain": "cinemablend.com",
         "category": "television",
         "link": "https://www.cinemablend.com/television/9-1-1-lone-star-and-the-rookie-actor-tyler-sanders-is-dead-at-18",
         "timestamp": 1655530702,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 1:38 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "miami",
         "link": "https://snbc13.com/jennifer-brea-missing-help-find-talented-film-maker/",
         "timestamp": 1655534888,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 18, 2022 2:48 AM"
     },
     {
@@ -77,17 +86,8 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1538057262048153600",
         "timestamp": 1655537647,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 3:34 AM"
-    },
-    {
-        "title": "Arnie’s T-Shirt is awesome",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/apmassaro3/status/1537954145402904580?s=21&t=7DTuHfQLaTpqXGINtEu-TQ",
-        "timestamp": 1655540166,
-        "sentiment": 4,
-        "published": "June 18, 2022 4:16 AM"
     },
     {
         "title": "Elon Musk pressured Twitter to give him access to a 'firehose' of data to evaluate bots. Now what?",
@@ -122,7 +122,7 @@
         "category": "ukraine",
         "link": "https://en.defence-ua.com/events/russia_to_deploy_ancient_t_62m_for_storming_sievierodonetsk_video-3311.html",
         "timestamp": 1655547900,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 6:25 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://abovethelaw.com/2022/06/john-eastman-spills-the-deets-on-his-pal-ginni/",
         "timestamp": 1655548098,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 6:28 AM"
     },
     {
@@ -142,6 +142,15 @@
         "timestamp": 1655551205,
         "sentiment": -3,
         "published": "June 18, 2022 7:20 AM"
+    },
+    {
+        "title": "Chinese President Xi Jinping warns against international decoupling in Russia speech",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/economy/china-economy/article/3182210/chinese-president-xi-jinping-warns-against-international",
+        "timestamp": 1655551482,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:24 AM"
     },
     {
         "title": "Lawmakers ask Google to stop steering people seeking abortion to anti-abortion sites",
@@ -158,7 +167,7 @@
         "category": "florida",
         "link": "https://www.floridatoday.com/story/news/2022/06/14/juneteenth-2022-florida-time-education-healing-celebration-black-culture-history-emancipation/7483348001/",
         "timestamp": 1655552893,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 18, 2022 7:48 AM"
     },
     {
@@ -167,8 +176,62 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "June 18, 2022 7:51 AM"
+    },
+    {
+        "title": "Fantastic giant tortoise, thought to be extinct in 1906, confirmed alive on a Galápagos island",
+        "domain": "echo.net.au",
+        "category": "news",
+        "link": "https://www.echo.net.au/2022/06/fantastic-giant-tortoise-thought-to-be-extinct-in-1906-confirmed-alive-on-a-galapagos-island/",
+        "timestamp": 1655553628,
+        "sentiment": -3,
+        "published": "June 18, 2022 8:00 AM"
+    },
+    {
+        "title": "Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html",
+        "timestamp": 1655554681,
+        "sentiment": 3,
+        "published": "June 18, 2022 8:18 AM"
+    },
+    {
+        "title": "Ethereum miners spent $15 billion on GPUs in the last two years",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/in/news/ethereum-miners-spent-dollar15-billion-on-gpus-in-just-over-one-year",
+        "timestamp": 1655555229,
+        "sentiment": 0,
+        "published": "June 18, 2022 8:27 AM"
+    },
+    {
+        "title": "The Far-Right’s Assault On An Idaho Pride Event Was Meticulously Planned — Details that emerged after the arrest of 31 white supremacists in Coeur D'Alene show how GOP rhetoric is signaling extremists to attack LGBTQ people",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/groomer-panic-idaho-white-supremacists-lgbtq_n_62acc960e4b06594c1d6348b",
+        "timestamp": 1655555281,
+        "sentiment": 3,
+        "published": "June 18, 2022 8:28 AM"
+    },
+    {
+        "title": "'He never barked. He never saw it.' Alligator attacks, eats dog in Greenway Trail",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
+        "timestamp": 1655559042,
+        "sentiment": -1,
+        "published": "June 18, 2022 9:30 AM"
+    },
+    {
+        "title": "Arnie’s T-Shirt is awesome",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/apmassaro3/status/1537954145402904580?s=21&t=7DTuHfQLaTpqXGINtEu-TQ",
+        "timestamp": 1655540166,
+        "sentiment": 4,
+        "published": "June 18, 2022 4:16 AM"
     },
     {
         "title": "Diablo is about how anything is corruptible. Enter ‘Diablo Immortal.’",
