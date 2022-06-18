@@ -1,23 +1,5 @@
 [
     {
-        "title": "Rep. Eric Swalwell Would Love To Give Trump Equal Time On Jan. 6 Probe — Under Oath",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/eric-swalwell-supports-trump-equal-time-under-oath_n_62ad489de4b06594c1d681f1",
-        "timestamp": 1655530068,
-        "sentiment": 3,
-        "published": "June 18, 2022 1:27 AM"
-    },
-    {
-        "title": "Tyler Sanders has passed away at only 18 years old",
-        "domain": "cinemablend.com",
-        "category": "television",
-        "link": "https://www.cinemablend.com/television/9-1-1-lone-star-and-the-rookie-actor-tyler-sanders-is-dead-at-18",
-        "timestamp": 1655530702,
-        "sentiment": 1,
-        "published": "June 18, 2022 1:38 AM"
-    },
-    {
         "title": "Russia says Europe is \"manipulating\" Ukraine with \"alluring\" prospect of EU membership",
         "domain": "cbsnews.com",
         "category": "worldnews",
@@ -41,7 +23,7 @@
         "category": "news",
         "link": "https://www.wistv.com/2022/06/17/mcmaster-sign-bill-allowing-sc-healthcare-providers-deny-services-based-beliefs/",
         "timestamp": 1655532283,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 18, 2022 2:04 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/",
         "timestamp": 1655534178,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 2:36 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "technology",
         "link": "https://edition.cnn.com/2022/06/17/tech/elon-musk-twitter-bots/index.html",
         "timestamp": 1655541142,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 4:32 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/policy/article/3182204/china-tighten-grip-social-media-comments-requiring-sites-employ?module=more_top_stories_int&pgtype=homepage",
         "timestamp": 1655547039,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 6:10 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://abovethelaw.com/2022/06/john-eastman-spills-the-deets-on-his-pal-ginni/",
         "timestamp": 1655548098,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 18, 2022 6:28 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/asian-america/-dont-go-money-gas-station-owner-lowers-prices-help-customers-rcna34185?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655551205,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 18, 2022 7:20 AM"
     },
     {
@@ -158,8 +140,17 @@
         "category": "technology",
         "link": "https://www.engadget.com/lawmakers-google-anti-abortion-sites-104344695.html",
         "timestamp": 1655552039,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 7:33 AM"
+    },
+    {
+        "title": "Belarus has announced its intentions to \"Protect\" western Ukraine from Poland. It has been noted from several sources that Belarus is moving combat read mechanised troops to the areas around the border to western Ukraine.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/WarMonitor3/status/1538123496114556928?t=D43RzaGY7UkLGG0G7Lcn7A&s=09",
+        "timestamp": 1655552869,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:47 AM"
     },
     {
         "title": "Juneteenth 2022: Why the day should matter to all Americans",
@@ -167,7 +158,7 @@
         "category": "florida",
         "link": "https://www.floridatoday.com/story/news/2022/06/14/juneteenth-2022-florida-time-education-healing-celebration-black-culture-history-emancipation/7483348001/",
         "timestamp": 1655552893,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 7:48 AM"
     },
     {
@@ -176,8 +167,17 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 7:51 AM"
+    },
+    {
+        "title": "Putin claims that war against Ukraine complies with international law",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/null-160834454.html",
+        "timestamp": 1655553443,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:57 AM"
     },
     {
         "title": "Fantastic giant tortoise, thought to be extinct in 1906, confirmed alive on a Galápagos island",
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://www.echo.net.au/2022/06/fantastic-giant-tortoise-thought-to-be-extinct-in-1906-confirmed-alive-on-a-galapagos-island/",
         "timestamp": 1655553628,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 18, 2022 8:00 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html",
         "timestamp": 1655554681,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 18, 2022 8:18 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "technology",
         "link": "https://www.techradar.com/in/news/ethereum-miners-spent-dollar15-billion-on-gpus-in-just-over-one-year",
         "timestamp": 1655555229,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 8:27 AM"
     },
     {
@@ -212,8 +212,44 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/groomer-panic-idaho-white-supremacists-lgbtq_n_62acc960e4b06594c1d6348b",
         "timestamp": 1655555281,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 18, 2022 8:28 AM"
+    },
+    {
+        "title": "Jan. 6 Hearings Expose the Coup Attempt in 2020, and One Being Planned for 2024",
+        "domain": "newsday.com",
+        "category": "politics",
+        "link": "https://www.newsday.com/opinion/editorials/jan-6-hearings-capitol-riot-trump-pence-ijy7ye2r",
+        "timestamp": 1655556369,
+        "sentiment": -1,
+        "published": "June 18, 2022 8:46 AM"
+    },
+    {
+        "title": "Trump 'Handed Down Death Sentence to Mike Pence' to Stay in Power: Mary Trump — Trump “Wasn’t Just Stirring Up His Insurrectionists to Create Chaos.” He Put Pence's Life at Risk to Illegally Stay in Oval Office, According to Trump's Niece.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
+        "timestamp": 1655557332,
+        "sentiment": -1,
+        "published": "June 18, 2022 9:02 AM"
+    },
+    {
+        "title": "As Israel investigates the killing of a Palestinian journalist, many doubt there will be justice",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/israel-says-s-investigating-shireen-abu-aklehs-killing-palestinians-li-rcna33859",
+        "timestamp": 1655557778,
+        "sentiment": -2,
+        "published": "June 18, 2022 9:09 AM"
+    },
+    {
+        "title": "The argument that video games spur mass shootings is losing steam",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/newsletters/2022-06-17/the-argument-that-violent-video-games-spur-mass-shootings-is-losing-steam",
+        "timestamp": 1655557814,
+        "sentiment": -1,
+        "published": "June 18, 2022 9:10 AM"
     },
     {
         "title": "'He never barked. He never saw it.' Alligator attacks, eats dog in Greenway Trail",
@@ -221,8 +257,62 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
         "timestamp": 1655559042,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 18, 2022 9:30 AM"
+    },
+    {
+        "title": "'The Old Man' stands out from other action fare by embracing vulnerability. Jeff Bridges remains as sharp an actor as ever while capturing the vulnerabilities of his aged character.",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/old-man-fx-series-stands-out-by-embracing-vulnerability/",
+        "timestamp": 1655559061,
+        "sentiment": 1,
+        "published": "June 18, 2022 9:31 AM"
+    },
+    {
+        "title": "Desantis to sign law banning smoking on Florida beaches - NewsBreak",
+        "domain": "share.newsbreak.com",
+        "category": "florida",
+        "link": "https://share.newsbreak.com/1av9532m",
+        "timestamp": 1655560460,
+        "sentiment": 0,
+        "published": "June 18, 2022 9:54 AM"
+    },
+    {
+        "title": "Study demonstrates that restoration of coral reefs and mangroves can be a cost-effective solution for flood reduction since they act as natural barriers to waves and storm surges.",
+        "domain": "phys.org",
+        "category": "miami",
+        "link": "https://phys.org/news/2022-06-mangrove-reef-yield-positive-investment.html",
+        "timestamp": 1655561001,
+        "sentiment": -2,
+        "published": "June 18, 2022 10:03 AM"
+    },
+    {
+        "title": "Naomi Osaka withdraws from Wimbledon with Achilles injury.",
+        "domain": "bbc.com",
+        "category": "sports",
+        "link": "https://www.bbc.com/sport/tennis/61852544",
+        "timestamp": 1655561960,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:19 AM"
+    },
+    {
+        "title": "Rep. Eric Swalwell Would Love To Give Trump Equal Time On Jan. 6 Probe — Under Oath",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/eric-swalwell-supports-trump-equal-time-under-oath_n_62ad489de4b06594c1d681f1",
+        "timestamp": 1655530068,
+        "sentiment": 3,
+        "published": "June 18, 2022 1:27 AM"
+    },
+    {
+        "title": "Tyler Sanders has passed away at only 18 years old",
+        "domain": "cinemablend.com",
+        "category": "television",
+        "link": "https://www.cinemablend.com/television/9-1-1-lone-star-and-the-rookie-actor-tyler-sanders-is-dead-at-18",
+        "timestamp": 1655530702,
+        "sentiment": 1,
+        "published": "June 18, 2022 1:38 AM"
     },
     {
         "title": "Arnie’s T-Shirt is awesome",
