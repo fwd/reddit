@@ -90,6 +90,15 @@
         "published": "June 18, 2022 5:22 AM"
     },
     {
+        "title": "Paris to Send '6 More' Caesar Howitzers to Ukraine: Macron",
+        "domain": "thedefensepost.com",
+        "category": "ukraine",
+        "link": "https://www.thedefensepost.com/2022/06/17/paris-caesar-howitzers-ukraine/",
+        "timestamp": 1655545643,
+        "sentiment": 0,
+        "published": "June 18, 2022 5:47 AM"
+    },
+    {
         "title": "China to tighten grip on social media comments, requiring sites to employ sufficient content moderators",
         "domain": "scmp.com",
         "category": "technology",
@@ -113,7 +122,7 @@
         "category": "politics",
         "link": "https://abovethelaw.com/2022/06/john-eastman-spills-the-deets-on-his-pal-ginni/",
         "timestamp": 1655548098,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 18, 2022 6:28 AM"
     },
     {
@@ -153,12 +162,21 @@
         "published": "June 18, 2022 7:47 AM"
     },
     {
+        "title": "Ukraine's ferocious defense of cities dampens Russian ambitions",
+        "domain": "japantimes.co.jp",
+        "category": "worldnews",
+        "link": "https://www.japantimes.co.jp/news/2022/06/18/world/russia-ukraine-military-fierce-fighting/",
+        "timestamp": 1655552887,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:48 AM"
+    },
+    {
         "title": "Juneteenth 2022: Why the day should matter to all Americans",
         "domain": "floridatoday.com",
         "category": "florida",
         "link": "https://www.floridatoday.com/story/news/2022/06/14/juneteenth-2022-florida-time-education-healing-celebration-black-culture-history-emancipation/7483348001/",
         "timestamp": 1655552893,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 18, 2022 7:48 AM"
     },
     {
@@ -167,7 +185,7 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 18, 2022 7:51 AM"
     },
     {
@@ -189,12 +207,21 @@
         "published": "June 18, 2022 8:00 AM"
     },
     {
+        "title": "Lindsey Graham praises Trump for making everybody \"afraid\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/lindsey-graham-praises-trump-making-everybody-afraid-1717004",
+        "timestamp": 1655554634,
+        "sentiment": 1,
+        "published": "June 18, 2022 8:17 AM"
+    },
+    {
         "title": "Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election",
         "domain": "cnn.com",
         "category": "politics",
         "link": "https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html",
         "timestamp": 1655554681,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 18, 2022 8:18 AM"
     },
     {
@@ -212,8 +239,17 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/groomer-panic-idaho-white-supremacists-lgbtq_n_62acc960e4b06594c1d6348b",
         "timestamp": 1655555281,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 18, 2022 8:28 AM"
+    },
+    {
+        "title": "The ‘big rip-off’: how Trump exploited his fans with ‘election defense’ fund | The former president used donations to a nonexistent legal defense fund for his hotels and the January 6 Ellipse rally",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/18/donald-trump-election-defense-fundraising-defrauded-fans",
+        "timestamp": 1655556209,
+        "sentiment": 1,
+        "published": "June 18, 2022 8:43 AM"
     },
     {
         "title": "Jan. 6 Hearings Expose the Coup Attempt in 2020, and One Being Planned for 2024",
@@ -221,7 +257,7 @@
         "category": "politics",
         "link": "https://www.newsday.com/opinion/editorials/jan-6-hearings-capitol-riot-trump-pence-ijy7ye2r",
         "timestamp": 1655556369,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 18, 2022 8:46 AM"
     },
     {
@@ -230,7 +266,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
         "timestamp": 1655557332,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 18, 2022 9:02 AM"
     },
     {
@@ -257,7 +293,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
         "timestamp": 1655559042,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 18, 2022 9:30 AM"
     },
     {
@@ -266,8 +302,17 @@
         "category": "television",
         "link": "https://collider.com/old-man-fx-series-stands-out-by-embracing-vulnerability/",
         "timestamp": 1655559061,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 18, 2022 9:31 AM"
+    },
+    {
+        "title": "Stunning Trump revelations raise fears of a dark, violent future",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/17/trump-revelations-jan-6-hearings-violent-future/",
+        "timestamp": 1655559503,
+        "sentiment": 1,
+        "published": "June 18, 2022 9:38 AM"
     },
     {
         "title": "Desantis to sign law banning smoking on Florida beaches - NewsBreak",
@@ -275,8 +320,26 @@
         "category": "florida",
         "link": "https://share.newsbreak.com/1av9532m",
         "timestamp": 1655560460,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 18, 2022 9:54 AM"
+    },
+    {
+        "title": "Louie CK’s website now has exclusive streaming rights to FX’s Louie, where the complete series can be purchased for $30",
+        "domain": "louisck.com",
+        "category": "television",
+        "link": "https://louisck.com/pages/louie-the-tv-series",
+        "timestamp": 1655560792,
+        "sentiment": -2,
+        "published": "June 18, 2022 9:59 AM"
+    },
+    {
+        "title": "'Access to everything': Chinese can see Western TikTok users' private data",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/business/2022/06/17/chinese-can-see-tiktok-users-private-data-including-phone-numbers/",
+        "timestamp": 1655560895,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:01 AM"
     },
     {
         "title": "Study demonstrates that restoration of coral reefs and mangroves can be a cost-effective solution for flood reduction since they act as natural barriers to waves and storm surges.",
@@ -295,6 +358,24 @@
         "timestamp": 1655561960,
         "sentiment": 0,
         "published": "June 18, 2022 10:19 AM"
+    },
+    {
+        "title": "Bitcoin drops below $20,000 as crypto selloff quickens",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/cryptocurrency-technology-financial-markets-bitcoin-873a92a17402bf1510755e3ad4901869",
+        "timestamp": 1655562579,
+        "sentiment": -2,
+        "published": "June 18, 2022 10:29 AM"
+    },
+    {
+        "title": "COVID relief fraud charged against Coral Springs police officer for using loan money to service and repair his vintage car",
+        "domain": "bollyinside.com",
+        "category": "florida",
+        "link": "https://www.bollyinside.com/news/covid-relief-fraud-charged-against-coral-springs-police-officer-for-using-loan-money-to-service-and-repair-his-vintage-car",
+        "timestamp": 1655564431,
+        "sentiment": -7,
+        "published": "June 18, 2022 11:00 AM"
     },
     {
         "title": "Rep. Eric Swalwell Would Love To Give Trump Equal Time On Jan. 6 Probe — Under Oath",
