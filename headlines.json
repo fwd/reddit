@@ -41,17 +41,8 @@
         "category": "miami",
         "link": "https://snbc13.com/jennifer-brea-missing-help-find-talented-film-maker/",
         "timestamp": 1655534888,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 2:48 AM"
-    },
-    {
-        "title": "Colonel-General Andrey Serdyukov, Commander of the Russian Airborne Forces, was fired due to mass casualties among Russian paratroopers — The Institute for the Study of War (ISW).",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/Flash43191300/status/1538057262048153600",
-        "timestamp": 1655537647,
-        "sentiment": -1,
-        "published": "June 18, 2022 3:34 AM"
     },
     {
         "title": "Elon Musk pressured Twitter to give him access to a 'firehose' of data to evaluate bots. Now what?",
@@ -68,17 +59,8 @@
         "category": "FLgovernment",
         "link": "https://www.nytimes.com/2022/06/17/us/florida-kids-vaccine-desantis.html",
         "timestamp": 1655544179,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 18, 2022 5:22 AM"
-    },
-    {
-        "title": "China to tighten grip on social media comments, requiring sites to employ sufficient content moderators",
-        "domain": "scmp.com",
-        "category": "technology",
-        "link": "https://www.scmp.com/tech/policy/article/3182204/china-tighten-grip-social-media-comments-requiring-sites-employ?module=more_top_stories_int&pgtype=homepage",
-        "timestamp": 1655547039,
-        "sentiment": 0,
-        "published": "June 18, 2022 6:10 AM"
     },
     {
         "title": "Russia to Deploy Ancient T-62M For Storming Sievierodonetsk (video) | Defense Express",
@@ -86,7 +68,7 @@
         "category": "ukraine",
         "link": "https://en.defence-ua.com/events/russia_to_deploy_ancient_t_62m_for_storming_sievierodonetsk_video-3311.html",
         "timestamp": 1655547900,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 6:25 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/asian-america/-dont-go-money-gas-station-owner-lowers-prices-help-customers-rcna34185?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655551205,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 7:20 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1538123496114556928?t=D43RzaGY7UkLGG0G7Lcn7A&s=09",
         "timestamp": 1655552869,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 7:47 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 18, 2022 7:51 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/uk-news/paratroopers-orgy-video-sees-deployment-24260523",
         "timestamp": 1655554771,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 8:19 AM"
     },
     {
@@ -243,12 +225,21 @@
         "published": "June 18, 2022 9:11 AM"
     },
     {
+        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
+        "timestamp": 1655557866,
+        "sentiment": -3,
+        "published": "June 18, 2022 9:11 AM"
+    },
+    {
         "title": "Boris Johnson explains his surprise visit to Kyiv symbolizes UK’s sustained support as he worries “Ukraine fatigue” begins to set around the world",
         "domain": "news.sky.com",
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-news-live-war-russia-putin-nuclear-latest-invasion-updates-12541713?postid=4038713#liveblog-body",
         "timestamp": 1655558051,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 9:14 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
         "timestamp": 1655559042,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 18, 2022 9:30 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/charliekreuz/status/1538114553535414273?s=21&t=MnUQZ6DwDl8ULZr-OgIJLQ",
         "timestamp": 1655560914,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 10:01 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "miami",
         "link": "https://phys.org/news/2022-06-mangrove-reef-yield-positive-investment.html",
         "timestamp": 1655561001,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 10:03 AM"
     },
     {
@@ -322,6 +313,15 @@
         "timestamp": 1655561960,
         "sentiment": 0,
         "published": "June 18, 2022 10:19 AM"
+    },
+    {
+        "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
+        "timestamp": 1655562037,
+        "sentiment": -3,
+        "published": "June 18, 2022 10:20 AM"
     },
     {
         "title": "Court rejects Trump-era EPA finding that Roundup weed killer is safe",
@@ -338,7 +338,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/TpyxaNews/status/1538122151252873217",
         "timestamp": 1655562428,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 10:27 AM"
     },
     {
@@ -347,7 +347,7 @@
         "category": "news",
         "link": "https://apnews.com/article/cryptocurrency-technology-financial-markets-bitcoin-873a92a17402bf1510755e3ad4901869",
         "timestamp": 1655562579,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 10:29 AM"
     },
     {
@@ -356,17 +356,8 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/18/7353263/",
         "timestamp": 1655563198,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "June 18, 2022 10:39 AM"
-    },
-    {
-        "title": "Warner Bros. is under pressure to address ‘The Flash’ star Ezra Miller’s spiraling legal scandals",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/17/ezra-miller-scandals-put-pressure-on-warner-bros-to-address-grooming-claims.html",
-        "timestamp": 1655563875,
-        "sentiment": 0,
-        "published": "June 18, 2022 10:51 AM"
     },
     {
         "title": "COVID relief fraud charged against Coral Springs police officer for using loan money to service and repair his vintage car",
@@ -374,8 +365,17 @@
         "category": "florida",
         "link": "https://www.bollyinside.com/news/covid-relief-fraud-charged-against-coral-springs-police-officer-for-using-loan-money-to-service-and-repair-his-vintage-car",
         "timestamp": 1655564431,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 18, 2022 11:00 AM"
+    },
+    {
+        "title": "20 Oxford High School students to file federal lawsuit against school district months after shooting",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/20-oxford-high-school-students-file-federal-lawsuit/story?id=85461252",
+        "timestamp": 1655566022,
+        "sentiment": -3,
+        "published": "June 18, 2022 11:27 AM"
     },
     {
         "title": "Florida men face federal hate crime charges for ax handle attack on Black man",
@@ -383,8 +383,17 @@
         "category": "news",
         "link": "https://www.local10.com/news/florida/2022/06/17/florida-men-who-attacked-black-man-with-axe-handle-punches-yell-slurs-face-federal-hate-crime-charges/",
         "timestamp": 1655566214,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 11:30 AM"
+    },
+    {
+        "title": "Forget Pegasus, new Android spyware 'Hermit' now being used by govts",
+        "domain": "business-standard.com",
+        "category": "technology",
+        "link": "https://www.business-standard.com/article/international/forget-pegasus-new-android-spyware-hermit-now-being-used-by-govts-122061800332_1.html",
+        "timestamp": 1655566526,
+        "sentiment": 0,
+        "published": "June 18, 2022 11:35 AM"
     },
     {
         "title": "Thousands march in London to protest low pay and rising cost of living",
@@ -432,6 +441,15 @@
         "published": "June 18, 2022 12:48 PM"
     },
     {
+        "title": "It looks like China did have access to U.S. TikTok user data",
+        "domain": "mashable.com",
+        "category": "technology",
+        "link": "https://mashable.com/article/tiktok-china-access-data-in-us",
+        "timestamp": 1655572165,
+        "sentiment": 0,
+        "published": "June 18, 2022 1:09 PM"
+    },
+    {
         "title": "Raiders News: Chris Simms Commends Josh McDaniels' Offensive Prowess",
         "domain": "raiderramble.com",
         "category": "sports",
@@ -439,6 +457,51 @@
         "timestamp": 1655573510,
         "sentiment": 0,
         "published": "June 18, 2022 1:31 PM"
+    },
+    {
+        "title": "The 18 Best Pizza Places In Miami - Miami - The Infatuation",
+        "domain": "theinfatuation.com",
+        "category": "miami",
+        "link": "https://www.theinfatuation.com/miami/guides/best-pizza-miami?utm_campaign=content_marketing&utm_source=facebook&utm_medium=social&utm_campaigntype=paid&utm_audience=miami&utm_content=best_pizza&fbclid=PAAaY5PbWDfCnekM2nhlIdoH0mXascgE6bp-xNb5lDfgSw8so30jD4kCl-_XA_aem_Af91FqEs-Nt4Relgp6OCum-R13MKD7d0oPyyeEQEo3z4wFU4bYHGFg_cncGqkW_mItHqD_BWpcJ2XiYiGp49g0bLo-fEVoY7HoI-AxRKwXpUAHsdjoJAoZ5l-ih2Qv4hons",
+        "timestamp": 1655575818,
+        "sentiment": 3,
+        "published": "June 18, 2022 2:10 PM"
+    },
+    {
+        "title": "ANNOUNCING NAOMI ESTHER BLEMUR FOR FLORIDA COMMISSIONER OF AGRICULTURE As the granddaughter of farmers, a community advocate, a local business owner, and a mother, I am running because we need a strong Democrat in Tallahassee that will advocate for small farmers, clean water, & affordable living.",
+        "domain": "linktr.ee",
+        "category": "FLgovernment",
+        "link": "https://linktr.ee/naomiforfl",
+        "timestamp": 1655576186,
+        "sentiment": -2,
+        "published": "June 18, 2022 2:16 PM"
+    },
+    {
+        "title": "Colonel-General Andrey Serdyukov, Commander of the Russian Airborne Forces, was fired due to mass casualties among Russian paratroopers — The Institute for the Study of War (ISW).",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1538057262048153600",
+        "timestamp": 1655537647,
+        "sentiment": -1,
+        "published": "June 18, 2022 3:34 AM"
+    },
+    {
+        "title": "China to tighten grip on social media comments, requiring sites to employ sufficient content moderators",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/tech/policy/article/3182204/china-tighten-grip-social-media-comments-requiring-sites-employ?module=more_top_stories_int&pgtype=homepage",
+        "timestamp": 1655547039,
+        "sentiment": 0,
+        "published": "June 18, 2022 6:10 AM"
+    },
+    {
+        "title": "Warner Bros. is under pressure to address ‘The Flash’ star Ezra Miller’s spiraling legal scandals",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/17/ezra-miller-scandals-put-pressure-on-warner-bros-to-address-grooming-claims.html",
+        "timestamp": 1655563875,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:51 AM"
     },
     {
         "title": "Dozens of teenage girls are rescued from a Nigerian 'baby factory' where they were used as sex slaves and forced to sell their babies on the black market",
@@ -466,15 +529,6 @@
         "timestamp": 1655556105,
         "sentiment": 2,
         "published": "June 18, 2022 8:41 AM"
-    },
-    {
-        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
-        "timestamp": 1655557866,
-        "sentiment": -3,
-        "published": "June 18, 2022 9:11 AM"
     },
     {
         "title": "SC Gov McMaster to sign bill allowing SC healthcare providers to deny services based on beliefs",
