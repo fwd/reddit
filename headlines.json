@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
         "timestamp": 1655532328,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 2:05 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/tv-shows/the-interview/20220617-zelensky-adviser-ukraine-can-win-war-in-3-to-6-months-if-it-gets-heavy-weapons-soon",
         "timestamp": 1655533351,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 2:22 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": -9,
+        "sentiment": 1,
         "published": "June 18, 2022 7:51 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/null-160834454.html",
         "timestamp": 1655553443,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 7:57 AM"
     },
     {
@@ -144,15 +144,6 @@
         "published": "June 18, 2022 8:28 AM"
     },
     {
-        "title": "Big Tech must deal with disinformation or face fines, says EU",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/technology-61817647?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCWorld&at_custom4=74B152C4-EE9A-11EC-BABD-5BF64744363C&at_medium=custom7&at_custom2=twitter",
-        "timestamp": 1655556242,
-        "sentiment": -1,
-        "published": "June 18, 2022 8:44 AM"
-    },
-    {
         "title": "Jan. 6 Hearings Expose the Coup Attempt in 2020, and One Being Planned for 2024",
         "domain": "newsday.com",
         "category": "politics",
@@ -160,6 +151,15 @@
         "timestamp": 1655556369,
         "sentiment": 0,
         "published": "June 18, 2022 8:46 AM"
+    },
+    {
+        "title": "Trump 'Handed Down Death Sentence to Mike Pence' to Stay in Power: Mary Trump — Trump “Wasn’t Just Stirring Up His Insurrectionists to Create Chaos.” He Put Pence's Life at Risk to Illegally Stay in Oval Office, According to Trump's Niece.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
+        "timestamp": 1655557332,
+        "sentiment": 0,
+        "published": "June 18, 2022 9:02 AM"
     },
     {
         "title": "The argument that video games spur mass shootings is losing steam",
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://dailybanner.co.uk/content/president-of-kazakhstan-tokayev-refused-to-accept-the-order-of-alexander-nevsky-from-russia",
         "timestamp": 1655557864,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 9:11 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "worldnews",
         "link": "https://en.mercopress.com/2022/06/18/first-case-of-medically-assisted-suicide-in-italy-carried-out",
         "timestamp": 1655558687,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 9:24 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
         "timestamp": 1655559042,
-        "sentiment": -9,
+        "sentiment": 1,
         "published": "June 18, 2022 9:30 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "television",
         "link": "https://collider.com/old-man-fx-series-stands-out-by-embracing-vulnerability/",
         "timestamp": 1655559061,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 9:31 AM"
     },
     {
@@ -212,17 +212,8 @@
         "category": "television",
         "link": "https://louisck.com/pages/louie-the-tv-series",
         "timestamp": 1655560792,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 9:59 AM"
-    },
-    {
-        "title": "Unbelievable scenes at the funeral of anti-corruption activist and soldier Roman Ratushnyi, allegedly executed by the Russians near Izyum. Over a thousand people turned out to mourn him on the Maidan in central Kyiv, as the air-raid sirens wailed and dozens stood sobbing.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/charliekreuz/status/1538114553535414273?s=21&t=MnUQZ6DwDl8ULZr-OgIJLQ",
-        "timestamp": 1655560914,
-        "sentiment": 0,
-        "published": "June 18, 2022 10:01 AM"
     },
     {
         "title": "Study demonstrates that restoration of coral reefs and mangroves can be a cost-effective solution for flood reduction since they act as natural barriers to waves and storm surges.",
@@ -239,7 +230,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/18/physical-season-2-episode-3-rose-byrne-performance-sheila/",
         "timestamp": 1655561353,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 10:09 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "sports",
         "link": "https://www.bbc.com/sport/tennis/61852544",
         "timestamp": 1655561960,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 10:19 AM"
     },
     {
@@ -288,15 +279,6 @@
         "published": "June 18, 2022 10:29 AM"
     },
     {
-        "title": "U.S. officials weigh doubling the number of rocket launchers sent to Ukraine",
-        "domain": "politico.com",
-        "category": "ukraine",
-        "link": "https://www.politico.com/news/2022/06/18/u-s-weighs-doubling-number-rocket-launchers-ukraine-00040702",
-        "timestamp": 1655562938,
-        "sentiment": 0,
-        "published": "June 18, 2022 10:35 AM"
-    },
-    {
         "title": "Zelenskyy proposes to Ukrainian Parliament to ratify the Istanbul Convention",
         "domain": "pravda.com.ua",
         "category": "ukraine",
@@ -311,7 +293,7 @@
         "category": "florida",
         "link": "https://www.bollyinside.com/news/covid-relief-fraud-charged-against-coral-springs-police-officer-for-using-loan-money-to-service-and-repair-his-vintage-car",
         "timestamp": 1655564431,
-        "sentiment": -9,
+        "sentiment": 1,
         "published": "June 18, 2022 11:00 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "worldnews",
         "link": "https://www.bigissue.com/news/employment/thousands-march-better-pay-for-workers-cost-of-living-crisis/",
         "timestamp": 1655566693,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 11:38 AM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/two-actors-dead-six-injured-auto-accident-involving-crew-from-netflixs-the-chosen-one-1235048203/",
         "timestamp": 1655567063,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 11:44 AM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html",
         "timestamp": 1655569199,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 12:19 PM"
     },
     {
@@ -401,7 +383,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/18/olena-zelenska-ukraine-first-lady-rare-interview-family-under-threat",
         "timestamp": 1655572338,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 1:12 PM"
     },
     {
@@ -412,15 +394,6 @@
         "timestamp": 1655572471,
         "sentiment": 0,
         "published": "June 18, 2022 1:14 PM"
-    },
-    {
-        "title": "Raiders News: Chris Simms Commends Josh McDaniels' Offensive Prowess",
-        "domain": "raiderramble.com",
-        "category": "sports",
-        "link": "https://raiderramble.com/2022/06/17/raiders-news-chris-simms-commends-josh-mcdaniels-offensive-prowess/",
-        "timestamp": 1655573510,
-        "sentiment": -2,
-        "published": "June 18, 2022 1:31 PM"
     },
     {
         "title": "Forget the Tesla Cybertruck and Ford Lightning: Delivery Vans Are the Most Important Electric Trucks",
@@ -464,7 +437,7 @@
         "category": "worldnews",
         "link": "https://www.scmp.com/news/china/military/article/3182168/beijing-likely-step-its-campaign-reunify-taiwan-analysts-say",
         "timestamp": 1655578432,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 18, 2022 2:53 PM"
     },
     {
@@ -495,12 +468,21 @@
         "published": "June 18, 2022 4:02 PM"
     },
     {
-        "title": "John Fetterman Bests Dr. Oz by 9 Points in Pa. Senate Race: Poll",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/fetterman-oz-pennsylvania-senate-election-poll-shapiro-mastriano-2022-6",
-        "timestamp": 1655584492,
+        "title": "The rapid seizure of Kherson region was due to the betrayal of a recruited SBU officer Igor Sadokhin. It is believed that he shared a network of minefields with the enemy and coordinated the actions of Russian aircraft",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/AllDigitsbiz/status/1538254967106113537",
+        "timestamp": 1655583612,
         "sentiment": 0,
+        "published": "June 18, 2022 4:20 PM"
+    },
+    {
+        "title": "Germany has received evidence of hundreds of Russian war crimes in Ukraine",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/ru/germanija-poluchila-sotni-svidetelstv-voennyh-prestuplenij-rossijan-v-ukraine/a-62176402?fbclid=IwAR1i5hPg2OOv66efywdCNxHvwl3XsnnQ8Yw02k-VHuEz1tXfdf7tNdJ6Z6k",
+        "timestamp": 1655584462,
+        "sentiment": -5,
         "published": "June 18, 2022 4:34 PM"
     },
     {
@@ -513,13 +495,76 @@
         "published": "June 18, 2022 4:36 PM"
     },
     {
+        "title": "Boris Johnson: We will never be secure if we turn our backs on valiant Ukraine",
+        "domain": "thetimes.co.uk",
+        "category": "ukraine",
+        "link": "https://www.thetimes.co.uk/article/boris-johnson-we-will-never-be-secure-if-we-turn-our-backs-on-valiant-ukraine-9sd5z2bxq",
+        "timestamp": 1655586416,
+        "sentiment": 0,
+        "published": "June 18, 2022 5:06 PM"
+    },
+    {
         "title": "'Dream On' documentary chronicles how the 1996 U.S. women's Olympic team helped launch the WNBA",
         "domain": "espn.com",
         "category": "sports",
         "link": "https://www.espn.com/wnba/story/_/id/34093273/dream-documentary-chronicles-how-1996-us-women-olympic-team-helped-launch-wnba?platform=amp",
         "timestamp": 1655586468,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 5:07 PM"
+    },
+    {
+        "title": "Share the Trail!",
+        "domain": "flickr.com",
+        "category": "florida",
+        "link": "https://flickr.com/photos/ap0013/52146460917/in/album-72157647658906835/",
+        "timestamp": 1655591378,
+        "sentiment": 1,
+        "published": "June 18, 2022 6:29 PM"
+    },
+    {
+        "title": "Big Tech must deal with disinformation or face fines, says EU",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/technology-61817647?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCWorld&at_custom4=74B152C4-EE9A-11EC-BABD-5BF64744363C&at_medium=custom7&at_custom2=twitter",
+        "timestamp": 1655556242,
+        "sentiment": -1,
+        "published": "June 18, 2022 8:44 AM"
+    },
+    {
+        "title": "Unbelievable scenes at the funeral of anti-corruption activist and soldier Roman Ratushnyi, allegedly executed by the Russians near Izyum. Over a thousand people turned out to mourn him on the Maidan in central Kyiv, as the air-raid sirens wailed and dozens stood sobbing.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/charliekreuz/status/1538114553535414273?s=21&t=MnUQZ6DwDl8ULZr-OgIJLQ",
+        "timestamp": 1655560914,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:01 AM"
+    },
+    {
+        "title": "U.S. officials weigh doubling the number of rocket launchers sent to Ukraine",
+        "domain": "politico.com",
+        "category": "ukraine",
+        "link": "https://www.politico.com/news/2022/06/18/u-s-weighs-doubling-number-rocket-launchers-ukraine-00040702",
+        "timestamp": 1655562938,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:35 AM"
+    },
+    {
+        "title": "Raiders News: Chris Simms Commends Josh McDaniels' Offensive Prowess",
+        "domain": "raiderramble.com",
+        "category": "sports",
+        "link": "https://raiderramble.com/2022/06/17/raiders-news-chris-simms-commends-josh-mcdaniels-offensive-prowess/",
+        "timestamp": 1655573510,
+        "sentiment": -2,
+        "published": "June 18, 2022 1:31 PM"
+    },
+    {
+        "title": "John Fetterman Bests Dr. Oz by 9 Points in Pa. Senate Race: Poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/fetterman-oz-pennsylvania-senate-election-poll-shapiro-mastriano-2022-6",
+        "timestamp": 1655584492,
+        "sentiment": 0,
+        "published": "June 18, 2022 4:34 PM"
     },
     {
         "title": "The ‘big rip-off’: how Trump exploited his fans with ‘election defense’ fund | The former president used donations to a nonexistent legal defense fund for his hotels and the January 6 Ellipse rally",
@@ -529,15 +574,6 @@
         "timestamp": 1655556209,
         "sentiment": 0,
         "published": "June 18, 2022 8:43 AM"
-    },
-    {
-        "title": "Trump 'Handed Down Death Sentence to Mike Pence' to Stay in Power: Mary Trump — Trump “Wasn’t Just Stirring Up His Insurrectionists to Create Chaos.” He Put Pence's Life at Risk to Illegally Stay in Oval Office, According to Trump's Niece.",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/mary-donald-trump-mike-pence-death-sentence-insurrection_n_62ad51b9e4b06169ca990f35",
-        "timestamp": 1655557332,
-        "sentiment": 0,
-        "published": "June 18, 2022 9:02 AM"
     },
     {
         "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
