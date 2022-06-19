@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/zelenskyy-visits-odesa-and-declares-we-will-not-give-the-south-to-anyone-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655615317,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 1:08 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/business/economy/2022/06/17/Russian-economy-may-need-a-decade-to-return-to-pre-sanctions-levels-Sberbank-says",
         "timestamp": 1655620842,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 2:40 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12500430",
         "timestamp": 1655629260,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 5:01 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/18/asia/internet-explorer-gravestone-viral-south-korea-intl-hnk/index.html",
         "timestamp": 1655630324,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 19, 2022 5:18 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/19/trump-charges-january-6-hearings-capitol-attack",
         "timestamp": 1655635110,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 6:38 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://news.am/eng/news/707992.html",
         "timestamp": 1655635169,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 6:39 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/prince-william-trump-jan-6-brian-sicknick-b2103373.html",
         "timestamp": 1655635558,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 6:45 AM"
     },
     {
@@ -95,8 +95,17 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/18/herschel-walker-fathers-day-weekend-pass-social-conservatives-00040710",
         "timestamp": 1655637323,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 7:15 AM"
+    },
+    {
+        "title": "British troops must prepare to fight in Europe once again, says new head of Army",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army/ar-AAYDaLS?ocid=msedgdhphdr&cvid=68bdeaa208a94545afc70daa835be298",
+        "timestamp": 1655637878,
+        "sentiment": -1,
+        "published": "June 19, 2022 7:24 AM"
     },
     {
         "title": "Unprecedented heatwave cooks western Europe, with temperatures hitting 43C",
@@ -104,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
         "timestamp": 1655637983,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 7:26 AM"
     },
     {
@@ -113,7 +122,7 @@
         "category": "technology",
         "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
         "timestamp": 1655638605,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 19, 2022 7:36 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
         "timestamp": 1655638653,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 7:37 AM"
     },
     {
@@ -131,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/19/russia-backed-network-of-syria-conspiracy-theorists-identified?CMP=share_btn_tw",
         "timestamp": 1655643320,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 8:55 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
         "timestamp": 1655643568,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 19, 2022 8:59 AM"
     },
     {
@@ -158,7 +167,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655644437,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 19, 2022 9:13 AM"
     },
     {
@@ -185,7 +194,7 @@
         "category": "technology",
         "link": "https://cleantechnica.com/2022/06/16/renewables-ride-to-the-rescue-as-texas-bakes-under-withering-heat/",
         "timestamp": 1655645862,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 19, 2022 9:37 AM"
     },
     {
@@ -203,17 +212,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
         "timestamp": 1655648368,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 10:19 AM"
-    },
-    {
-        "title": "Russia-Ukraine war could last for years, say western leaders | Ukraine",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/19/russia-ukraine-war-could-last-for-years-nato-jens-stoltenberg",
-        "timestamp": 1655648833,
-        "sentiment": 0,
-        "published": "June 19, 2022 10:27 AM"
     },
     {
         "title": "Trump must be indicted to \"protect the American people\": Glenn Kirschner",
@@ -221,17 +221,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 19, 2022 10:43 AM"
-    },
-    {
-        "title": "Texas GOP platform calls for secession vote: \"224. Texas Independence: We urge the Texas Legislature to pass bill ... requiring a referendum in the 2023 general election for the people of Texas to determine whether or not the State of Texas should reassert its status as an independent nation.\"",
-        "domain": "texasgop.org",
-        "category": "politics",
-        "link": "https://texasgop.org/wp-content/uploads/2022/06/6-Permanent-Platform-Committee-FINAL-REPORT-6-16-2022.pdf",
-        "timestamp": 1655650187,
-        "sentiment": 0,
-        "published": "June 19, 2022 10:49 AM"
     },
     {
         "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
@@ -250,6 +241,33 @@
         "timestamp": 1655652967,
         "sentiment": 1,
         "published": "June 19, 2022 11:36 AM"
+    },
+    {
+        "title": "Texas GOP's new platform calls homosexuality 'abnormal' and includes explicitly anti-LGBTQ ideology",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
+        "timestamp": 1655653585,
+        "sentiment": -5,
+        "published": "June 19, 2022 11:46 AM"
+    },
+    {
+        "title": "Why France is betting on deep tech instead of the metaverse",
+        "domain": "france24.com",
+        "category": "technology",
+        "link": "https://www.france24.com/en/technology/20220618-paris-s-vivatech-conference-why-france-is-betting-on-deep-tech-instead-of-the-metaverse",
+        "timestamp": 1655653617,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:46 AM"
+    },
+    {
+        "title": "Trump lashing out at Jan. 6 panel is \"essentially saying 'yeah I did it'\": Raskin",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
+        "timestamp": 1655653719,
+        "sentiment": -5,
+        "published": "June 19, 2022 11:48 AM"
     },
     {
         "title": "Fina bans trans swimmers from women's elite events",
@@ -286,6 +304,33 @@
         "timestamp": 1655654747,
         "sentiment": -2,
         "published": "June 19, 2022 12:05 PM"
+    },
+    {
+        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369&utm_source=facebook&utm_medium=news_tab&fs=e&s=cl",
+        "timestamp": 1655656107,
+        "sentiment": -5,
+        "published": "June 19, 2022 12:28 PM"
+    },
+    {
+        "title": "Russia-Ukraine war could last for years, say western leaders | Ukraine",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/19/russia-ukraine-war-could-last-for-years-nato-jens-stoltenberg",
+        "timestamp": 1655648833,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:27 AM"
+    },
+    {
+        "title": "Texas GOP platform calls for secession vote: \"224. Texas Independence: We urge the Texas Legislature to pass bill ... requiring a referendum in the 2023 general election for the people of Texas to determine whether or not the State of Texas should reassert its status as an independent nation.\"",
+        "domain": "texasgop.org",
+        "category": "politics",
+        "link": "https://texasgop.org/wp-content/uploads/2022/06/6-Permanent-Platform-Committee-FINAL-REPORT-6-16-2022.pdf",
+        "timestamp": 1655650187,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:49 AM"
     },
     {
         "title": "Russian Foreign Ministry’s spokeswoman, Maria Zakharova: \"Ukraine that you & I had known, within the borders that used to be, no longer exists, and will never exist again.\" Like I always emphasized, this was never about NATO's expansion, only Russia's expansion through genocide",
@@ -331,15 +376,6 @@
         "timestamp": 1655641800,
         "sentiment": 0,
         "published": "June 19, 2022 8:30 AM"
-    },
-    {
-        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369",
-        "timestamp": 1655644312,
-        "sentiment": 0,
-        "published": "June 19, 2022 9:11 AM"
     },
     {
         "title": "UK troops must prepare ‘to fight in Europe again,’ says army chief",
