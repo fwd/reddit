@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
         "timestamp": 1655532328,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 2:05 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/tv-shows/the-interview/20220617-zelensky-adviser-ukraine-can-win-war-in-3-to-6-months-if-it-gets-heavy-weapons-soon",
         "timestamp": 1655533351,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 2:22 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/asian-america/-dont-go-money-gas-station-owner-lowers-prices-help-customers-rcna34185?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655551205,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 7:20 AM"
     },
     {
@@ -63,21 +63,12 @@
         "published": "June 18, 2022 7:33 AM"
     },
     {
-        "title": "Belarus has announced its intentions to \"Protect\" western Ukraine from Poland. It has been noted from several sources that Belarus is moving combat read mechanised troops to the areas around the border to western Ukraine.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/WarMonitor3/status/1538123496114556928?t=D43RzaGY7UkLGG0G7Lcn7A&s=09",
-        "timestamp": 1655552869,
-        "sentiment": 0,
-        "published": "June 18, 2022 7:47 AM"
-    },
-    {
         "title": "Heat advisory in effect for most of Central Florida as temperatures soar",
         "domain": "fox35orlando.com",
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 18, 2022 7:51 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/null-160834454.html",
         "timestamp": 1655553443,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 7:57 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.walesonline.co.uk/news/uk-news/paratroopers-orgy-video-sees-deployment-24260523",
         "timestamp": 1655554771,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 8:19 AM"
     },
     {
@@ -149,16 +140,7 @@
         "category": "worldnews",
         "link": "https://dailybanner.co.uk/content/president-of-kazakhstan-tokayev-refused-to-accept-the-order-of-alexander-nevsky-from-russia",
         "timestamp": 1655557864,
-        "sentiment": 0,
-        "published": "June 18, 2022 9:11 AM"
-    },
-    {
-        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
-        "timestamp": 1655557866,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "June 18, 2022 9:11 AM"
     },
     {
@@ -167,17 +149,8 @@
         "category": "worldnews",
         "link": "https://en.mercopress.com/2022/06/18/first-case-of-medically-assisted-suicide-in-italy-carried-out",
         "timestamp": 1655558687,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 9:24 AM"
-    },
-    {
-        "title": "'He never barked. He never saw it.' Alligator attacks, eats dog in Greenway Trail",
-        "domain": "tallahassee.com",
-        "category": "florida",
-        "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
-        "timestamp": 1655559042,
-        "sentiment": -1,
-        "published": "June 18, 2022 9:30 AM"
     },
     {
         "title": "'The Old Man' stands out from other action fare by embracing vulnerability. Jeff Bridges remains as sharp an actor as ever while capturing the vulnerabilities of his aged character.",
@@ -185,7 +158,7 @@
         "category": "television",
         "link": "https://collider.com/old-man-fx-series-stands-out-by-embracing-vulnerability/",
         "timestamp": 1655559061,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 9:31 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "television",
         "link": "https://louisck.com/pages/louie-the-tv-series",
         "timestamp": 1655560792,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 9:59 AM"
     },
     {
@@ -216,15 +189,6 @@
         "published": "June 18, 2022 10:19 AM"
     },
     {
-        "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
-        "timestamp": 1655562037,
-        "sentiment": -3,
-        "published": "June 18, 2022 10:20 AM"
-    },
-    {
         "title": "Court rejects Trump-era EPA finding that Roundup weed killer is safe",
         "domain": "pbs.org",
         "category": "politics",
@@ -239,7 +203,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/TpyxaNews/status/1538122151252873217",
         "timestamp": 1655562428,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 10:27 AM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "news",
         "link": "https://apnews.com/article/cryptocurrency-technology-financial-markets-bitcoin-873a92a17402bf1510755e3ad4901869",
         "timestamp": 1655562579,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 10:29 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/18/7353263/",
         "timestamp": 1655563198,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 10:39 AM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "florida",
         "link": "https://www.bollyinside.com/news/covid-relief-fraud-charged-against-coral-springs-police-officer-for-using-loan-money-to-service-and-repair-his-vintage-car",
         "timestamp": 1655564431,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 18, 2022 11:00 AM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/20-oxford-high-school-students-file-federal-lawsuit/story?id=85461252",
         "timestamp": 1655566022,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 11:27 AM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "news",
         "link": "https://www.local10.com/news/florida/2022/06/17/florida-men-who-attacked-black-man-with-axe-handle-punches-yell-slurs-face-federal-hate-crime-charges/",
         "timestamp": 1655566214,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 11:30 AM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.bigissue.com/news/employment/thousands-march-better-pay-for-workers-cost-of-living-crisis/",
         "timestamp": 1655566693,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 11:38 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/two-actors-dead-six-injured-auto-accident-involving-crew-from-netflixs-the-chosen-one-1235048203/",
         "timestamp": 1655567063,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 11:44 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html",
         "timestamp": 1655569199,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 12:19 PM"
     },
     {
@@ -360,6 +324,15 @@
         "published": "June 18, 2022 1:33 PM"
     },
     {
+        "title": "Zelenskiy vows Ukraine will prevail, Boris Johnson promises lasting support",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/wrapup1-war-east-rages-ukraine-gets-chance-live-european-dream-2022-06-18/",
+        "timestamp": 1655574534,
+        "sentiment": 3,
+        "published": "June 18, 2022 1:48 PM"
+    },
+    {
         "title": "Eastman headed for jail \"if there's any justice left in America\": Kirschner",
         "domain": "newsweek.com",
         "category": "politics",
@@ -396,15 +369,6 @@
         "published": "June 18, 2022 2:43 PM"
     },
     {
-        "title": "China launches its 1000-Schools project in Iraq",
-        "domain": "shafaq.com",
-        "category": "worldnews",
-        "link": "https://shafaq.com/en/Economy/china-launches-its-1000-schools-project-in-iraq",
-        "timestamp": 1655580004,
-        "sentiment": 0,
-        "published": "June 18, 2022 3:20 PM"
-    },
-    {
         "title": "House Democrat calls for Clarence Thomas to step down over his wife's push to overturn the 2020 election results",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -419,7 +383,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1538244728474542080?s=20&t=G74AXTbHLTCBHi4PCeX-jQ",
         "timestamp": 1655581355,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 3:42 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html",
         "timestamp": 1655582557,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 4:02 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/AllDigitsbiz/status/1538254967106113537",
         "timestamp": 1655583612,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 4:20 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/ru/germanija-poluchila-sotni-svidetelstv-voennyh-prestuplenij-rossijan-v-ukraine/a-62176402?fbclid=IwAR1i5hPg2OOv66efywdCNxHvwl3XsnnQ8Yw02k-VHuEz1tXfdf7tNdJ6Z6k",
         "timestamp": 1655584462,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 4:34 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/navy-fired-dozen-leaders-wont-explain-rcna33988",
         "timestamp": 1655584619,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 4:36 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/boris-johnson-we-will-never-be-secure-if-we-turn-our-backs-on-valiant-ukraine-9sd5z2bxq",
         "timestamp": 1655586416,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 5:06 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/UkraineNowMedia/status/1538262883519406081",
         "timestamp": 1655586802,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 18, 2022 5:13 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/06/18/u-s-weighs-doubling-number-rocket-launchers-ukraine-00040702",
         "timestamp": 1655587020,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 18, 2022 5:17 PM"
     },
     {
@@ -509,8 +473,17 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/16/the-lazarus-project-review-paapa-essiedu-thrills-in-fun-stylish-brain-scrambler",
         "timestamp": 1655589825,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 6:03 PM"
+    },
+    {
+        "title": "US Harpoon missiles destroyed a heavily-armed Russian vessel in the Black Sea, say Ukraine's military",
+        "domain": "businessinsider.com",
+        "category": "ukraine",
+        "link": "https://businessinsider.com/video-us-harpoon-missiles-destroy-a-heavily-armed-russian-vessel-in-black-sea-2022-6",
+        "timestamp": 1655589851,
+        "sentiment": -3,
+        "published": "June 18, 2022 6:04 PM"
     },
     {
         "title": "Source: Police never tried to open door to classrooms where Uvalde gunman had kids trapped",
@@ -518,8 +491,53 @@
         "category": "news",
         "link": "https://www.expressnews.com/news/local/article/Uvalde-classroom-doors-17251116.php",
         "timestamp": 1655591361,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 18, 2022 6:29 PM"
+    },
+    {
+        "title": "Share the Trail!",
+        "domain": "flickr.com",
+        "category": "florida",
+        "link": "https://flickr.com/photos/ap0013/52146460917/in/album-72157647658906835/",
+        "timestamp": 1655591378,
+        "sentiment": -7,
+        "published": "June 18, 2022 6:29 PM"
+    },
+    {
+        "title": "Woman accused of hate crimes after allegedly attacking 4 people with pepper-spray and making anti-Asian remarks in NYC",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/18/us/new-york-city-anti-asian-assault-suspect-charged/index.html",
+        "timestamp": 1655591941,
+        "sentiment": -1,
+        "published": "June 18, 2022 6:39 PM"
+    },
+    {
+        "title": "Tennessee Secretary of State Tre Hargett arrested for DUI after leaving Bonnaroo festival",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/18/us/tre-hargett-arrested-for-dui-after-leaving-bonnaroo-festival/index.html",
+        "timestamp": 1655592802,
+        "sentiment": -1,
+        "published": "June 18, 2022 6:53 PM"
+    },
+    {
+        "title": "Mark Shields, TV Pundit Known for His Sharp Wit, Dies at 85",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2022/06/18/us/politics/mark-shields-dead.html",
+        "timestamp": 1655592847,
+        "sentiment": 0,
+        "published": "June 18, 2022 6:54 PM"
+    },
+    {
+        "title": "Showrunner Terry Matalas Talks TNG Reunion On ‘Star Trek: Picard’ Season 3, More Legacy Characters, And Possible Spinoff",
+        "domain": "trekmovie.com",
+        "category": "television",
+        "link": "https://trekmovie.com/2022/06/18/terry-matalas-talks-tng-reunion-on-star-trek-picard-backdoor-pilot-potential-and-other-legacy-characters/",
+        "timestamp": 1655593807,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:10 PM"
     },
     {
         "title": "Justin Thomas denied free drop after tee shot lands near drain during third round of U.S. Open.",
@@ -529,6 +547,51 @@
         "timestamp": 1655595447,
         "sentiment": -2,
         "published": "June 18, 2022 7:37 PM"
+    },
+    {
+        "title": "Belarus has announced its intentions to \"Protect\" western Ukraine from Poland. It has been noted from several sources that Belarus is moving combat read mechanised troops to the areas around the border to western Ukraine.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/WarMonitor3/status/1538123496114556928?t=D43RzaGY7UkLGG0G7Lcn7A&s=09",
+        "timestamp": 1655552869,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:47 AM"
+    },
+    {
+        "title": "Hundreds of dead penguins are washing up on New Zealand beaches",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/little-blue-penguins-are-washing-dead-new-zealand-beaches-rcna34058",
+        "timestamp": 1655557866,
+        "sentiment": -3,
+        "published": "June 18, 2022 9:11 AM"
+    },
+    {
+        "title": "'He never barked. He never saw it.' Alligator attacks, eats dog in Greenway Trail",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/2022/06/17/alligator-attacks-eats-dog-greenway-trail-tallahassee-florida/7647618001/",
+        "timestamp": 1655559042,
+        "sentiment": -1,
+        "published": "June 18, 2022 9:30 AM"
+    },
+    {
+        "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
+        "timestamp": 1655562037,
+        "sentiment": -3,
+        "published": "June 18, 2022 10:20 AM"
+    },
+    {
+        "title": "China launches its 1000-Schools project in Iraq",
+        "domain": "shafaq.com",
+        "category": "worldnews",
+        "link": "https://shafaq.com/en/Economy/china-launches-its-1000-schools-project-in-iraq",
+        "timestamp": 1655580004,
+        "sentiment": 0,
+        "published": "June 18, 2022 3:20 PM"
     },
     {
         "title": "Jennifer Brea Missing (possibly in Miami area) – Help find talented film maker and activist",
@@ -601,15 +664,6 @@
         "timestamp": 1655586468,
         "sentiment": 0,
         "published": "June 18, 2022 5:07 PM"
-    },
-    {
-        "title": "Share the Trail!",
-        "domain": "flickr.com",
-        "category": "florida",
-        "link": "https://flickr.com/photos/ap0013/52146460917/in/album-72157647658906835/",
-        "timestamp": 1655591378,
-        "sentiment": 1,
-        "published": "June 18, 2022 6:29 PM"
     },
     {
         "title": "Big Tech must deal with disinformation or face fines, says EU",
