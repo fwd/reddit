@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/zelenskyy-visits-odesa-and-declares-we-will-not-give-the-south-to-anyone-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655615317,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 1:08 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/business/economy/2022/06/17/Russian-economy-may-need-a-decade-to-return-to-pre-sanctions-levels-Sberbank-says",
         "timestamp": 1655620842,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 2:40 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/JuliaDavisNews/status/1538318573646520321",
         "timestamp": 1655622089,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 19, 2022 3:01 AM"
     },
     {
@@ -43,6 +43,42 @@
         "timestamp": 1655624969,
         "sentiment": -2,
         "published": "June 19, 2022 3:49 AM"
+    },
+    {
+        "title": "NATO chief Stoltenberg warns in Bild am Sonntag that support for Ukraine must not lag. \"If Putin learns from this war that he can simply carry on as he did after the 2008 war in Georgia and the occupation of Crimea in 2014, then we will pay a much higher price.”",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/terischultz/status/1538435055004942341",
+        "timestamp": 1655628279,
+        "sentiment": 2,
+        "published": "June 19, 2022 4:44 AM"
+    },
+    {
+        "title": "Helsinki University closes China-funded Confucius Institute.",
+        "domain": "yle.fi",
+        "category": "worldnews",
+        "link": "https://yle.fi/news/3-12500430",
+        "timestamp": 1655629260,
+        "sentiment": 2,
+        "published": "June 19, 2022 5:01 AM"
+    },
+    {
+        "title": "Internet Explorer's final resting place: as a 'world-class joke' in South Korea",
+        "domain": "cnn.com",
+        "category": "technology",
+        "link": "https://www.cnn.com/2022/06/18/asia/internet-explorer-gravestone-viral-south-korea-intl-hnk/index.html",
+        "timestamp": 1655630324,
+        "sentiment": 1,
+        "published": "June 19, 2022 5:18 AM"
+    },
+    {
+        "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
+        "timestamp": 1655637009,
+        "sentiment": -7,
+        "published": "June 19, 2022 7:10 AM"
     },
     {
         "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack | Climate crisis",
