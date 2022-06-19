@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/19/trump-charges-january-6-hearings-capitol-attack",
         "timestamp": 1655635110,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 6:38 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/prince-william-trump-jan-6-brian-sicknick-b2103373.html",
         "timestamp": 1655635558,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 6:45 AM"
     },
     {
@@ -88,15 +88,6 @@
         "timestamp": 1655637009,
         "sentiment": 1,
         "published": "June 19, 2022 7:10 AM"
-    },
-    {
-        "title": "Social conservative crowd cheers Herschel Walker after revelations of undiscussed kids",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/06/18/herschel-walker-fathers-day-weekend-pass-social-conservatives-00040710",
-        "timestamp": 1655637323,
-        "sentiment": -5,
-        "published": "June 19, 2022 7:15 AM"
     },
     {
         "title": "British troops must prepare to fight in Europe once again, says new head of Army",
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
         "timestamp": 1655638653,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 7:37 AM"
     },
     {
@@ -171,12 +162,21 @@
         "published": "June 19, 2022 9:13 AM"
     },
     {
+        "title": "A Quebec law to boost French has caused an outcry in Canada",
+        "domain": "lemonde.fr",
+        "category": "worldnews",
+        "link": "https://www.lemonde.fr/en/international/article/2022/06/19/a-quebec-law-to-boost-french-has-caused-an-outcry-in-canada_5987316_4.html",
+        "timestamp": 1655645268,
+        "sentiment": -1,
+        "published": "June 19, 2022 9:27 AM"
+    },
+    {
         "title": "Apple workers vote to unionize at Maryland store",
         "domain": "apnews.com",
         "category": "news",
         "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
         "timestamp": 1655645278,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 9:27 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
         "timestamp": 1655645726,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 9:35 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
         "timestamp": 1655648368,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 10:19 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 10:43 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
         "timestamp": 1655650343,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 10:52 AM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
         "timestamp": 1655653585,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 11:46 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
         "timestamp": 1655653719,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "June 19, 2022 11:48 AM"
     },
     {
@@ -275,7 +275,7 @@
         "category": "news",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655653871,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 11:51 AM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655654044,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "June 19, 2022 11:54 AM"
     },
     {
@@ -293,8 +293,80 @@
         "category": "sports",
         "link": "https://www.skysports.com/more-sports/other-sports/news/12040/12636858/swimming-world-body-fina-votes-to-restrict-participation-of-transgender-athletes-in-elite-competition",
         "timestamp": 1655654585,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "June 19, 2022 12:03 PM"
+    },
+    {
+        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369&utm_source=facebook&utm_medium=news_tab&fs=e&s=cl",
+        "timestamp": 1655656107,
+        "sentiment": -7,
+        "published": "June 19, 2022 12:28 PM"
+    },
+    {
+        "title": "2 men charged in fatal fireworks explosion that killed 4",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/men-charged-fatal-fireworks-explosion-killed-85494468",
+        "timestamp": 1655656422,
+        "sentiment": -3,
+        "published": "June 19, 2022 12:33 PM"
+    },
+    {
+        "title": "Russia limits exports of noble gases, a key ingredient for making chips",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/russia-limits-exports-noble-gases-key-ingredient-making-chips-2022-06-02/",
+        "timestamp": 1655657365,
+        "sentiment": -3,
+        "published": "June 19, 2022 12:49 PM"
+    },
+    {
+        "title": "'Can You Believe I Lost to This Guy?' Trump Admitted He Lost Election, Former Aide Says",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
+        "timestamp": 1655658047,
+        "sentiment": -7,
+        "published": "June 19, 2022 1:00 PM"
+    },
+    {
+        "title": "Fina votes to ban transgender swimmers from women’s elite events",
+        "domain": "independent.co.uk",
+        "category": "sports",
+        "link": "https://www.independent.co.uk/sport/olympics/swimming/fina-transgender-ban-lia-thomas-b2104588.html",
+        "timestamp": 1655659413,
+        "sentiment": 3,
+        "published": "June 19, 2022 1:23 PM"
+    },
+    {
+        "title": "Pentagon Explores Using SpaceX for Rocket-Deployed Quick Reaction Force",
+        "domain": "theintercept.com",
+        "category": "technology",
+        "link": "https://theintercept.com/2022/06/19/spacex-pentagon-elon-musk-space-defense/",
+        "timestamp": 1655660152,
+        "sentiment": 0,
+        "published": "June 19, 2022 1:35 PM"
+    },
+    {
+        "title": "This TikTok on Miami is adorable",
+        "domain": "tiktok.com",
+        "category": "miami",
+        "link": "https://www.tiktok.com/t/ZTdK7LWky/?k=1",
+        "timestamp": 1655663574,
+        "sentiment": 0,
+        "published": "June 19, 2022 2:32 PM"
+    },
+    {
+        "title": "Social conservative crowd cheers Herschel Walker after revelations of undiscussed kids",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/18/herschel-walker-fathers-day-weekend-pass-social-conservatives-00040710",
+        "timestamp": 1655637323,
+        "sentiment": -5,
+        "published": "June 19, 2022 7:15 AM"
     },
     {
         "title": "FINA votes to restrict transgender participation in elite women's competition",
@@ -304,15 +376,6 @@
         "timestamp": 1655654747,
         "sentiment": -2,
         "published": "June 19, 2022 12:05 PM"
-    },
-    {
-        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369&utm_source=facebook&utm_medium=news_tab&fs=e&s=cl",
-        "timestamp": 1655656107,
-        "sentiment": -5,
-        "published": "June 19, 2022 12:28 PM"
     },
     {
         "title": "Russia-Ukraine war could last for years, say western leaders | Ukraine",
