@@ -9,15 +9,6 @@
         "published": "June 19, 2022 1:08 AM"
     },
     {
-        "title": "A \"lost,\" \"too-scary\" episode of Sesame Street has been uploaded to the internet",
-        "domain": "avclub.com",
-        "category": "news",
-        "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
-        "timestamp": 1655618442,
-        "sentiment": -9,
-        "published": "June 19, 2022 2:00 AM"
-    },
-    {
         "title": "Russian economy may need a decade to return to pre-sanctions levels, Sberbank says",
         "domain": "english.alarabiya.net",
         "category": "worldnews",
@@ -32,7 +23,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/JuliaDavisNews/status/1538318573646520321",
         "timestamp": 1655622089,
-        "sentiment": -2,
+        "sentiment": 6,
         "published": "June 19, 2022 3:01 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/olympic-champion-dame-kelly-holmes-announces-she-is-gay-and-kept-it-hidden-for-34-years-12636524",
         "timestamp": 1655624969,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 19, 2022 3:49 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": -2,
+        "sentiment": 6,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -68,8 +59,26 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/18/asia/internet-explorer-gravestone-viral-south-korea-intl-hnk/index.html",
         "timestamp": 1655630324,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "June 19, 2022 5:18 AM"
+    },
+    {
+        "title": "UK troops must prepare ‘to fight in Europe again,’ says army chief",
+        "domain": "independent.co.uk",
+        "category": "ukraine",
+        "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-putin-health-weapons-latest-b2104384.html",
+        "timestamp": 1655630904,
+        "sentiment": 6,
+        "published": "June 19, 2022 5:28 AM"
+    },
+    {
+        "title": "Powerful Russian Strike on Kremenchuk: Local Authorities Reported Number of Missiles and Target of Attack",
+        "domain": "tsn.ua",
+        "category": "news",
+        "link": "https://tsn.ua/en/ato/powerful-russian-strike-on-kremenchuk-local-authorities-reported-number-of-missiles-and-target-of-attack-2090038.html",
+        "timestamp": 1655631276,
+        "sentiment": 0,
+        "published": "June 19, 2022 5:34 AM"
     },
     {
         "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army | UK News",
@@ -81,6 +90,15 @@
         "published": "June 19, 2022 5:52 AM"
     },
     {
+        "title": "Kazakhstan FM calls for elimination of all nuclear weapons by 2045",
+        "domain": "news.am",
+        "category": "worldnews",
+        "link": "https://news.am/eng/news/707992.html",
+        "timestamp": 1655635169,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:39 AM"
+    },
+    {
         "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
         "domain": "newsweek.com",
         "category": "politics",
@@ -88,6 +106,15 @@
         "timestamp": 1655635417,
         "sentiment": 0,
         "published": "June 19, 2022 6:43 AM"
+    },
+    {
+        "title": "Prince William sent personal letter to girlfriend of Capitol officer killed on Jan 6 while Trump did nothing",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/prince-william-trump-jan-6-brian-sicknick-b2103373.html",
+        "timestamp": 1655635558,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:45 AM"
     },
     {
         "title": "Trump's election lawyer is a flat earther and believes the moon landing and 9/11 were faked.",
@@ -104,7 +131,7 @@
         "category": "television",
         "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
         "timestamp": 1655637009,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "June 19, 2022 7:10 AM"
     },
     {
@@ -115,6 +142,24 @@
         "timestamp": 1655637983,
         "sentiment": 0,
         "published": "June 19, 2022 7:26 AM"
+    },
+    {
+        "title": "SpaceX launches and lands 3 rockets in 36 hours.",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
+        "timestamp": 1655638605,
+        "sentiment": -3,
+        "published": "June 19, 2022 7:36 AM"
+    },
+    {
+        "title": "A \"lost,\" \"too-scary\" episode of Sesame Street has been uploaded to the internet",
+        "domain": "avclub.com",
+        "category": "news",
+        "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
+        "timestamp": 1655618442,
+        "sentiment": -9,
+        "published": "June 19, 2022 2:00 AM"
     },
     {
         "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack | Climate crisis",
