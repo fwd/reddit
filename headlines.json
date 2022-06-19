@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/zelenskyy-visits-odesa-and-declares-we-will-not-give-the-south-to-anyone-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655615317,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 1:08 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/business/economy/2022/06/17/Russian-economy-may-need-a-decade-to-return-to-pre-sanctions-levels-Sberbank-says",
         "timestamp": 1655620842,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 2:40 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/JuliaDavisNews/status/1538318573646520321",
         "timestamp": 1655622089,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 19, 2022 3:01 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12500430",
         "timestamp": 1655629260,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 5:01 AM"
     },
     {
@@ -72,13 +72,49 @@
         "published": "June 19, 2022 5:18 AM"
     },
     {
+        "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army | UK News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
+        "timestamp": 1655632373,
+        "sentiment": 0,
+        "published": "June 19, 2022 5:52 AM"
+    },
+    {
+        "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
+        "timestamp": 1655635417,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:43 AM"
+    },
+    {
+        "title": "Trump's election lawyer is a flat earther and believes the moon landing and 9/11 were faked.",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/06/lin-wood-pro-trump-attorney-is-a-flat-earther.html",
+        "timestamp": 1655635980,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:53 AM"
+    },
+    {
         "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
         "domain": "avclub.com",
         "category": "television",
         "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
         "timestamp": 1655637009,
-        "sentiment": -7,
+        "sentiment": -6,
         "published": "June 19, 2022 7:10 AM"
+    },
+    {
+        "title": "Unprecedented heatwave cooks western Europe, with temperatures hitting 43C",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
+        "timestamp": 1655637983,
+        "sentiment": 0,
+        "published": "June 19, 2022 7:26 AM"
     },
     {
         "title": "Fossil fuel firms ‘have humanity by the throat’, says UN head in blistering attack | Climate crisis",
