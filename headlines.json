@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/JuliaDavisNews/status/1538318573646520321",
         "timestamp": 1655622089,
-        "sentiment": -2,
+        "sentiment": 8,
         "published": "June 19, 2022 3:01 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/olympic-champion-dame-kelly-holmes-announces-she-is-gay-and-kept-it-hidden-for-34-years-12636524",
         "timestamp": 1655624969,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 3:49 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": -2,
+        "sentiment": 8,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/18/asia/internet-explorer-gravestone-viral-south-korea-intl-hnk/index.html",
         "timestamp": 1655630324,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 19, 2022 5:18 AM"
-    },
-    {
-        "title": "UK troops must prepare ‘to fight in Europe again,’ says army chief",
-        "domain": "independent.co.uk",
-        "category": "ukraine",
-        "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-putin-health-weapons-latest-b2104384.html",
-        "timestamp": 1655630904,
-        "sentiment": -2,
-        "published": "June 19, 2022 5:28 AM"
     },
     {
         "title": "Powerful Russian Strike on Kremenchuk: Local Authorities Reported Number of Missiles and Target of Attack",
@@ -90,6 +81,15 @@
         "published": "June 19, 2022 5:52 AM"
     },
     {
+        "title": "Searing testimony increases odds of charges against Trump, experts say",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/19/trump-charges-january-6-hearings-capitol-attack",
+        "timestamp": 1655635110,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:38 AM"
+    },
+    {
         "title": "Kazakhstan FM calls for elimination of all nuclear weapons by 2045",
         "domain": "news.am",
         "category": "worldnews",
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/prince-william-trump-jan-6-brian-sicknick-b2103373.html",
         "timestamp": 1655635558,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 6:45 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/18/herschel-walker-fathers-day-weekend-pass-social-conservatives-00040710",
         "timestamp": 1655637323,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 7:15 AM"
     },
     {
@@ -144,21 +144,12 @@
         "published": "June 19, 2022 7:26 AM"
     },
     {
-        "title": "Russia is likely facing a decade long recession - Sberbank CEO",
-        "domain": "themoscowtimes.com",
-        "category": "ukraine",
-        "link": "https://www.themoscowtimes.com/2022/06/17/russian-economy-faces-10-years-of-recession-without-reforms-sberbank-ceo-a78031",
-        "timestamp": 1655638521,
-        "sentiment": -2,
-        "published": "June 19, 2022 7:35 AM"
-    },
-    {
         "title": "SpaceX launches and lands 3 rockets in 36 hours.",
         "domain": "space.com",
         "category": "technology",
         "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
         "timestamp": 1655638605,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 19, 2022 7:36 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
         "timestamp": 1655638653,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 7:37 AM"
     },
     {
@@ -189,12 +180,21 @@
         "published": "June 19, 2022 8:55 AM"
     },
     {
+        "title": "Germany to fire up coal plants as Russia turns down the gas",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
+        "timestamp": 1655643568,
+        "sentiment": 0,
+        "published": "June 19, 2022 8:59 AM"
+    },
+    {
         "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
         "domain": "abcnews.go.com",
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369",
         "timestamp": 1655644312,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 19, 2022 9:11 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655644437,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 19, 2022 9:13 AM"
     },
     {
@@ -223,6 +223,42 @@
         "timestamp": 1655645726,
         "sentiment": 0,
         "published": "June 19, 2022 9:35 AM"
+    },
+    {
+        "title": "Renewables Ride To The Rescue As Texas Bakes Under Withering Heat",
+        "domain": "cleantechnica.com",
+        "category": "technology",
+        "link": "https://cleantechnica.com/2022/06/16/renewables-ride-to-the-rescue-as-texas-bakes-under-withering-heat/",
+        "timestamp": 1655645862,
+        "sentiment": -1,
+        "published": "June 19, 2022 9:37 AM"
+    },
+    {
+        "title": "Trump's Jan. 6 pardon comments \"an attempt at witness tampering\": Conway",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
+        "timestamp": 1655648368,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:19 AM"
+    },
+    {
+        "title": "UK troops must prepare ‘to fight in Europe again,’ says army chief",
+        "domain": "independent.co.uk",
+        "category": "ukraine",
+        "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-putin-health-weapons-latest-b2104384.html",
+        "timestamp": 1655630904,
+        "sentiment": -2,
+        "published": "June 19, 2022 5:28 AM"
+    },
+    {
+        "title": "Russia is likely facing a decade long recession - Sberbank CEO",
+        "domain": "themoscowtimes.com",
+        "category": "ukraine",
+        "link": "https://www.themoscowtimes.com/2022/06/17/russian-economy-faces-10-years-of-recession-without-reforms-sberbank-ceo-a78031",
+        "timestamp": 1655638521,
+        "sentiment": -2,
+        "published": "June 19, 2022 7:35 AM"
     },
     {
         "title": "Trump's election lawyer is a flat earther and believes the moon landing and 9/11 were faked.",
