@@ -1,23 +1,5 @@
 [
     {
-        "title": "Zelenskyy visits Odesa as Russia continues its blockade and declares: 'We will not give the south to anyone... and the sea will be Ukrainian'",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/zelenskyy-visits-odesa-and-declares-we-will-not-give-the-south-to-anyone-2022-6?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1655615317,
-        "sentiment": 0,
-        "published": "June 19, 2022 1:08 AM"
-    },
-    {
-        "title": "Russian economy may need a decade to return to pre-sanctions levels, Sberbank says",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/business/economy/2022/06/17/Russian-economy-may-need-a-decade-to-return-to-pre-sanctions-levels-Sberbank-says",
-        "timestamp": 1655620842,
-        "sentiment": 0,
-        "published": "June 19, 2022 2:40 AM"
-    },
-    {
         "title": "Helsinki University closes China-funded Confucius Institute.",
         "domain": "yle.fi",
         "category": "worldnews",
@@ -50,7 +32,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "television",
         "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
         "timestamp": 1655637009,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 7:10 AM"
     },
     {
@@ -90,15 +72,6 @@
         "published": "June 19, 2022 7:36 AM"
     },
     {
-        "title": "Jan. 6 Committee reveals Mike Pence hid in a parking garage during insurrection",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
-        "timestamp": 1655638653,
-        "sentiment": -1,
-        "published": "June 19, 2022 7:37 AM"
-    },
-    {
         "title": "A network of more than two dozen conspiracy theorists, frequently backed by a coordinated Russian campaign, sent thousands of disinformation tweets to distort the reality of the Syrian conflict and deter intervention by the international community",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -113,7 +86,7 @@
         "category": "television",
         "link": "https://www.cnbc.com/2022/06/14/netflix-considers-ads-password-sharing-crackdown-live-sports.html",
         "timestamp": 1655643348,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 8:55 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "news",
         "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
         "timestamp": 1655645278,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 9:27 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "news",
         "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
         "timestamp": 1655645726,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 9:35 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/tyler-sanders-dead-just-like-magic-mystery-city-star-who-guested-on-9-1-1-lone-star-fear-the-walking-dead-1235047902/",
         "timestamp": 1655647568,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 10:06 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
         "timestamp": 1655648368,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 10:19 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 10:43 AM"
     },
     {
@@ -212,17 +185,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
         "timestamp": 1655650343,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 10:52 AM"
-    },
-    {
-        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
-        "domain": "tsn.ua",
-        "category": "ukraine",
-        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
-        "timestamp": 1655652866,
-        "sentiment": -5,
-        "published": "June 19, 2022 11:34 AM"
     },
     {
         "title": "Xbox wins Daytime Emmy award for 20th anniversary documentary",
@@ -230,7 +194,7 @@
         "category": "television",
         "link": "https://www.videogameschronicle.com/news/xbox-wins-daytime-emmy-award-for-20th-anniversary-documentary/",
         "timestamp": 1655652967,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 11:36 AM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
         "timestamp": 1655653585,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 11:46 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
         "timestamp": 1655653719,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 11:48 AM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655654044,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 19, 2022 11:54 AM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/men-charged-fatal-fireworks-explosion-killed-85494468",
         "timestamp": 1655656422,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 12:33 PM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/russia-limits-exports-noble-gases-key-ingredient-making-chips-2022-06-02/",
         "timestamp": 1655657365,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 12:49 PM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
         "timestamp": 1655658047,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 1:00 PM"
     },
     {
@@ -306,12 +270,21 @@
         "published": "June 19, 2022 1:35 PM"
     },
     {
+        "title": "New Poll Finds 6 in 10 US Adults Support for Prosecuting Trump For January 6 Capitol Attack",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/06/new-poll-finds-6-in-10-us-adults-support-for-prosecuting-trump-for-january-6-capitol-attack/",
+        "timestamp": 1655660321,
+        "sentiment": 1,
+        "published": "June 19, 2022 1:38 PM"
+    },
+    {
         "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army",
         "domain": "news.sky.com",
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
         "timestamp": 1655660843,
-        "sentiment": -5,
+        "sentiment": -8,
         "published": "June 19, 2022 1:47 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-implicated-fake-elector-plot-adam-schiff-1717202",
         "timestamp": 1655661366,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 1:56 PM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
         "timestamp": 1655662476,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 2:14 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
         "timestamp": 1655663161,
-        "sentiment": -5,
+        "sentiment": -8,
         "published": "June 19, 2022 2:26 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "news",
         "link": "https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/",
         "timestamp": 1655663772,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 2:36 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/ethiopia-attack-ethnic-amhara-killed/",
         "timestamp": 1655664608,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 2:50 PM"
     },
     {
@@ -374,17 +347,17 @@
         "category": "news",
         "link": "https://apnews.com/article/transgender-swimmers-new-rules-fina-world-governing-body-c17e99d3121fa964336458b57ae266f7",
         "timestamp": 1655666211,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 19, 2022 3:16 PM"
     },
     {
-        "title": "Kruis with a heel conversion against England as a celebration of his retirement.",
-        "domain": "video.twimg.com",
-        "category": "sports",
-        "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
-        "timestamp": 1655666214,
-        "sentiment": -3,
-        "published": "June 19, 2022 3:16 PM"
+        "title": "Macron loses absolute majority in French parliamentary elections, initial projections show",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/macron-faces-tough-battle-control-parliament-france-votes-2022-06-19/",
+        "timestamp": 1655666766,
+        "sentiment": 0,
+        "published": "June 19, 2022 3:26 PM"
     },
     {
         "title": "Most Americans Don't Want Biden or Trump to Run Again: Poll",
@@ -392,7 +365,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
         "timestamp": 1655667358,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 19, 2022 3:35 PM"
     },
     {
@@ -401,8 +374,35 @@
         "category": "sports",
         "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
         "timestamp": 1655667822,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 19, 2022 3:43 PM"
+    },
+    {
+        "title": "Ukraine to restrict Russian books, music in latest cultural break from Moscow",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-restrict-russian-books-music-latest-cultural-break-moscow-2022-06-19/?taid=62af804b83c4c6000105a95f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1655669262,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:07 PM"
+    },
+    {
+        "title": "Special education teacher sues Loudoun school board following sexual assault claims",
+        "domain": "insidenova.com",
+        "category": "news",
+        "link": "https://www.insidenova.com/headlines/special-education-teacher-sues-loudoun-school-board-following-sexual-assault-claims/article_2a1300ac-ee52-11ec-8af6-bbc7961d7156.html",
+        "timestamp": 1655670033,
+        "sentiment": -4,
+        "published": "June 19, 2022 4:20 PM"
+    },
+    {
+        "title": "Go read this report about a Google contractor who claims he was fired for calling out cult activity",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/19/23174605/go-read-this-report-google-contractor-fired-calling-out-cult-activity",
+        "timestamp": 1655670801,
+        "sentiment": 2,
+        "published": "June 19, 2022 4:33 PM"
     },
     {
         "title": "This $280 phone is a lesson in affordability – I hope Apple and Samsung are paying attention",
@@ -412,6 +412,51 @@
         "timestamp": 1655670945,
         "sentiment": 2,
         "published": "June 19, 2022 4:35 PM"
+    },
+    {
+        "title": "Zelenskyy visits Odesa as Russia continues its blockade and declares: 'We will not give the south to anyone... and the sea will be Ukrainian'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/zelenskyy-visits-odesa-and-declares-we-will-not-give-the-south-to-anyone-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655615317,
+        "sentiment": 0,
+        "published": "June 19, 2022 1:08 AM"
+    },
+    {
+        "title": "Russian economy may need a decade to return to pre-sanctions levels, Sberbank says",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/business/economy/2022/06/17/Russian-economy-may-need-a-decade-to-return-to-pre-sanctions-levels-Sberbank-says",
+        "timestamp": 1655620842,
+        "sentiment": 0,
+        "published": "June 19, 2022 2:40 AM"
+    },
+    {
+        "title": "Jan. 6 Committee reveals Mike Pence hid in a parking garage during insurrection",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
+        "timestamp": 1655638653,
+        "sentiment": -1,
+        "published": "June 19, 2022 7:37 AM"
+    },
+    {
+        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
+        "domain": "tsn.ua",
+        "category": "ukraine",
+        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
+        "timestamp": 1655652866,
+        "sentiment": -5,
+        "published": "June 19, 2022 11:34 AM"
+    },
+    {
+        "title": "Kruis with a heel conversion against England as a celebration of his retirement.",
+        "domain": "video.twimg.com",
+        "category": "sports",
+        "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
+        "timestamp": 1655666214,
+        "sentiment": -3,
+        "published": "June 19, 2022 3:16 PM"
     },
     {
         "title": "NATO chief Stoltenberg warns in Bild am Sonntag that support for Ukraine must not lag. \"If Putin learns from this war that he can simply carry on as he did after the 2008 war in Georgia and the occupation of Crimea in 2014, then we will pay a much higher price.”",
