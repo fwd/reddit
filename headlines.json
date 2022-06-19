@@ -18,15 +18,6 @@
         "published": "June 19, 2022 2:40 AM"
     },
     {
-        "title": "NATO chief Stoltenberg warns in Bild am Sonntag that support for Ukraine must not lag. \"If Putin learns from this war that he can simply carry on as he did after the 2008 war in Georgia and the occupation of Crimea in 2014, then we will pay a much higher price.”",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/terischultz/status/1538435055004942341",
-        "timestamp": 1655628279,
-        "sentiment": 0,
-        "published": "June 19, 2022 4:44 AM"
-    },
-    {
         "title": "Helsinki University closes China-funded Confucius Institute.",
         "domain": "yle.fi",
         "category": "worldnews",
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
         "timestamp": 1655638653,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 7:37 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
         "timestamp": 1655648368,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 10:19 AM"
     },
     {
@@ -203,8 +194,17 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 10:43 AM"
+    },
+    {
+        "title": "Russian troops to advance towards Kharkiv: Ukraine official.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/19/Russian-troops-to-advance-towards-Kharkiv-Ukraine-official",
+        "timestamp": 1655649937,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:45 AM"
     },
     {
         "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
@@ -216,13 +216,13 @@
         "published": "June 19, 2022 10:52 AM"
     },
     {
-        "title": "The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas",
-        "timestamp": 1655651413,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:10 AM"
+        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
+        "domain": "tsn.ua",
+        "category": "ukraine",
+        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
+        "timestamp": 1655652866,
+        "sentiment": -5,
+        "published": "June 19, 2022 11:34 AM"
     },
     {
         "title": "Xbox wins Daytime Emmy award for 20th anniversary documentary",
@@ -239,7 +239,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
         "timestamp": 1655653585,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 11:46 AM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
         "timestamp": 1655653719,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 11:48 AM"
     },
     {
@@ -266,17 +266,8 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655654044,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 19, 2022 11:54 AM"
-    },
-    {
-        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369&utm_source=facebook&utm_medium=news_tab&fs=e&s=cl",
-        "timestamp": 1655656107,
-        "sentiment": 2,
-        "published": "June 19, 2022 12:28 PM"
     },
     {
         "title": "2 men charged in fatal fireworks explosion that killed 4",
@@ -302,7 +293,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
         "timestamp": 1655658047,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 1:00 PM"
     },
     {
@@ -315,21 +306,39 @@
         "published": "June 19, 2022 1:35 PM"
     },
     {
+        "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
+        "timestamp": 1655660843,
+        "sentiment": -5,
+        "published": "June 19, 2022 1:47 PM"
+    },
+    {
         "title": "Trump to Be Implicated in Fake Elector Plot: Adam Schiff",
         "domain": "newsweek.com",
         "category": "politics",
         "link": "https://www.newsweek.com/trump-implicated-fake-elector-plot-adam-schiff-1717202",
         "timestamp": 1655661366,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 1:56 PM"
     },
     {
-        "title": "'Leave It to Beaver' Star Tony Dow Diagnosed With Cancer",
-        "domain": "tmz.com",
-        "category": "television",
-        "link": "https://www.tmz.com/2022/05/05/leave-it-to-beaver-star-tony-dow-diagnosed-cancer/",
-        "timestamp": 1655663212,
-        "sentiment": 0,
+        "title": "More Americans say Trump should face charges in connection with Jan. 6: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
+        "timestamp": 1655662476,
+        "sentiment": -1,
+        "published": "June 19, 2022 2:14 PM"
+    },
+    {
+        "title": "The Kyiv Independent: ⚡️Moldova bans Russian news, war films to counter propaganda. According to Moldovan news outlet NewsMaker, Moldovan President Maia Sandu signed a law to ban the broadcasting of Russian news programs, political TV shows, and war films in the country.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
+        "timestamp": 1655663161,
+        "sentiment": -5,
         "published": "June 19, 2022 2:26 PM"
     },
     {
@@ -349,15 +358,6 @@
         "timestamp": 1655664608,
         "sentiment": 0,
         "published": "June 19, 2022 2:50 PM"
-    },
-    {
-        "title": "Ukrainian troops are deserting battle and Russian troops have 'troubled' morale as the war is expected to last years, NATO chief says",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/ukrainians-russians-face-troubled-morale-war-could-last-years-nato-2022-6",
-        "timestamp": 1655665259,
-        "sentiment": 0,
-        "published": "June 19, 2022 3:00 PM"
     },
     {
         "title": "Online hate law should address ‘deepfakes’ and disinformation: advisory panel",
@@ -383,8 +383,17 @@
         "category": "sports",
         "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
         "timestamp": 1655666214,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 19, 2022 3:16 PM"
+    },
+    {
+        "title": "Most Americans Don't Want Biden or Trump to Run Again: Poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
+        "timestamp": 1655667358,
+        "sentiment": -1,
+        "published": "June 19, 2022 3:35 PM"
     },
     {
         "title": "Increased Regular Season Soft Tissue Injury Rates in National Football League (NFL) Players May Be Associated With the Canceled 2020 NFL Preseason Due to COVID-19",
@@ -392,8 +401,62 @@
         "category": "sports",
         "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
         "timestamp": 1655667822,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 19, 2022 3:43 PM"
+    },
+    {
+        "title": "This $280 phone is a lesson in affordability – I hope Apple and Samsung are paying attention",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/this-dollar280-phone-is-a-lesson-in-affordability-i-hope-apple-and-samsung-are-paying-attention",
+        "timestamp": 1655670945,
+        "sentiment": 2,
+        "published": "June 19, 2022 4:35 PM"
+    },
+    {
+        "title": "NATO chief Stoltenberg warns in Bild am Sonntag that support for Ukraine must not lag. \"If Putin learns from this war that he can simply carry on as he did after the 2008 war in Georgia and the occupation of Crimea in 2014, then we will pay a much higher price.”",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/terischultz/status/1538435055004942341",
+        "timestamp": 1655628279,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:44 AM"
+    },
+    {
+        "title": "The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas",
+        "timestamp": 1655651413,
+        "sentiment": 2,
+        "published": "June 19, 2022 11:10 AM"
+    },
+    {
+        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369&utm_source=facebook&utm_medium=news_tab&fs=e&s=cl",
+        "timestamp": 1655656107,
+        "sentiment": 2,
+        "published": "June 19, 2022 12:28 PM"
+    },
+    {
+        "title": "'Leave It to Beaver' Star Tony Dow Diagnosed With Cancer",
+        "domain": "tmz.com",
+        "category": "television",
+        "link": "https://www.tmz.com/2022/05/05/leave-it-to-beaver-star-tony-dow-diagnosed-cancer/",
+        "timestamp": 1655663212,
+        "sentiment": 0,
+        "published": "June 19, 2022 2:26 PM"
+    },
+    {
+        "title": "Ukrainian troops are deserting battle and Russian troops have 'troubled' morale as the war is expected to last years, NATO chief says",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/ukrainians-russians-face-troubled-morale-war-could-last-years-nato-2022-6",
+        "timestamp": 1655665259,
+        "sentiment": 0,
+        "published": "June 19, 2022 3:00 PM"
     },
     {
         "title": "Prince William sent personal letter to girlfriend of Capitol officer killed on Jan 6 while Trump did nothing",
