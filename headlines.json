@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/environment/2022/jun/17/fossil-fuel-firms-un-head-antonio-guterres-blistering-attack",
         "timestamp": 1655532328,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 2:05 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://edition.cnn.com/2022/06/17/tech/elon-musk-twitter-bots/index.html",
         "timestamp": 1655541142,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 4:32 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/lawmakers-google-anti-abortion-sites-104344695.html",
         "timestamp": 1655552039,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 7:33 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "florida",
         "link": "https://www.fox35orlando.com/news/heat-advisory-in-effect-for-most-of-central-florida-as-temperatures-soar",
         "timestamp": 1655553101,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 7:51 AM"
-    },
-    {
-        "title": "Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html",
-        "timestamp": 1655554681,
-        "sentiment": 2,
-        "published": "June 18, 2022 8:18 AM"
     },
     {
         "title": "Ethereum miners spent $15 billion on GPUs in the last two years",
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://www.techradar.com/in/news/ethereum-miners-spent-dollar15-billion-on-gpus-in-just-over-one-year",
         "timestamp": 1655555229,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 8:27 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/groomer-panic-idaho-white-supremacists-lgbtq_n_62acc960e4b06594c1d6348b",
         "timestamp": 1655555281,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 8:28 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.newsday.com/opinion/editorials/jan-6-hearings-capitol-riot-trump-pence-ijy7ye2r",
         "timestamp": 1655556369,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 8:46 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/newsletters/2022-06-17/the-argument-that-violent-video-games-spur-mass-shootings-is-losing-steam",
         "timestamp": 1655557814,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 9:10 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://en.mercopress.com/2022/06/18/first-case-of-medically-assisted-suicide-in-italy-carried-out",
         "timestamp": 1655558687,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 9:24 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "television",
         "link": "https://collider.com/old-man-fx-series-stands-out-by-embracing-vulnerability/",
         "timestamp": 1655559061,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 9:31 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "television",
         "link": "https://louisck.com/pages/louie-the-tv-series",
         "timestamp": 1655560792,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 9:59 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "miami",
         "link": "https://phys.org/news/2022-06-mangrove-reef-yield-positive-investment.html",
         "timestamp": 1655561001,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 18, 2022 10:03 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "sports",
         "link": "https://www.bbc.com/sport/tennis/61852544",
         "timestamp": 1655561960,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 10:19 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.pbs.org/newshour/health/court-rejects-trump-era-epa-finding-that-roundup-weed-killer-is-safe",
         "timestamp": 1655562200,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 10:23 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.bigissue.com/news/employment/thousands-march-better-pay-for-workers-cost-of-living-crisis/",
         "timestamp": 1655566693,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 11:38 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/two-actors-dead-six-injured-auto-accident-involving-crew-from-netflixs-the-chosen-one-1235048203/",
         "timestamp": 1655567063,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 11:44 AM"
     },
     {
@@ -203,17 +194,8 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html",
         "timestamp": 1655569199,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 12:19 PM"
-    },
-    {
-        "title": "Canada's Eugenie Bouchard withdraws from Wimbledon, aims to compete 'later this summer' | CBC Sports",
-        "domain": "cbc.ca",
-        "category": "sports",
-        "link": "https://www.cbc.ca/sports/tennis/tennis-canada-bouchard-withdraws-2022-wimbledon-tournament-1.6493177",
-        "timestamp": 1655570241,
-        "sentiment": 0,
-        "published": "June 18, 2022 12:37 PM"
     },
     {
         "title": "FBI says fraud on LinkedIn a ‘significant threat’ to platform and consumers",
@@ -221,7 +203,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/17/fbi-says-fraud-on-linkedin-a-significant-threat-to-platform-and-consumers.html?ontent=Main&utm_source=Twitter#Echobox=1655467366",
         "timestamp": 1655570884,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 12:48 PM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/tiktok-china-access-data-in-us",
         "timestamp": 1655572165,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 1:09 PM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/18/no-elon-musk-america-isnt-a-gerontocracy-the-real-issue-is-massive-wealth-inequality/",
         "timestamp": 1655572471,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 1:14 PM"
     },
     {
@@ -248,17 +230,8 @@
         "category": "technology",
         "link": "https://www.cnet.com/roadshow/news/electric-van-company-goes-bankrupt-but-the-idea-behind-it-is-not/",
         "timestamp": 1655573580,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 1:33 PM"
-    },
-    {
-        "title": "Zelenskiy vows Ukraine will prevail, Boris Johnson promises lasting support",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/wrapup1-war-east-rages-ukraine-gets-chance-live-european-dream-2022-06-18/",
-        "timestamp": 1655574534,
-        "sentiment": 3,
-        "published": "June 18, 2022 1:48 PM"
     },
     {
         "title": "Eastman headed for jail \"if there's any justice left in America\": Kirschner",
@@ -266,7 +239,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/eastman-headed-jail-if-theres-any-justice-left-america-kirschner-1717136",
         "timestamp": 1655575424,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 2:03 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "miami",
         "link": "https://www.theinfatuation.com/miami/guides/best-pizza-miami?utm_campaign=content_marketing&utm_source=facebook&utm_medium=social&utm_campaigntype=paid&utm_audience=miami&utm_content=best_pizza&fbclid=PAAaY5PbWDfCnekM2nhlIdoH0mXascgE6bp-xNb5lDfgSw8so30jD4kCl-_XA_aem_Af91FqEs-Nt4Relgp6OCum-R13MKD7d0oPyyeEQEo3z4wFU4bYHGFg_cncGqkW_mItHqD_BWpcJ2XiYiGp49g0bLo-fEVoY7HoI-AxRKwXpUAHsdjoJAoZ5l-ih2Qv4hons",
         "timestamp": 1655575818,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 18, 2022 2:10 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://jacobin.com/2022/06/defense-spending-people-over-pentagon-act/",
         "timestamp": 1655577644,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 2:40 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/pascrell-ginni-clarence-thomas-resign-supreme-court-2020-election-2022-6",
         "timestamp": 1655580647,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 3:30 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/15/global-population-will-lose-17-billion-life-years-to-air-pollution-says-shocking-new-resea?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655367701",
         "timestamp": 1655583221,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 4:13 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/ru/germanija-poluchila-sotni-svidetelstv-voennyh-prestuplenij-rossijan-v-ukraine/a-62176402?fbclid=IwAR1i5hPg2OOv66efywdCNxHvwl3XsnnQ8Yw02k-VHuEz1tXfdf7tNdJ6Z6k",
         "timestamp": 1655584462,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 4:34 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/raffenspergers-1-6-testimony-trigger-trump-like-nothing-else-wilson-1717138",
         "timestamp": 1655585982,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 4:59 PM"
     },
     {
@@ -367,15 +340,6 @@
         "timestamp": 1655586416,
         "sentiment": 0,
         "published": "June 18, 2022 5:06 PM"
-    },
-    {
-        "title": "'Dream On' documentary chronicles how the 1996 U.S. women's Olympic team helped launch the WNBA",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/wnba/story/_/id/34093273/dream-documentary-chronicles-how-1996-us-women-olympic-team-helped-launch-wnba?platform=amp",
-        "timestamp": 1655586468,
-        "sentiment": 0,
-        "published": "June 18, 2022 5:07 PM"
     },
     {
         "title": "The US Senate may consider recognizing Russia as a sponsor of terrorism next week - the press service of the \"Servant of the People\" party.",
@@ -392,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/06/18/u-s-weighs-doubling-number-rocket-launchers-ukraine-00040702",
         "timestamp": 1655587020,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 5:17 PM"
     },
     {
@@ -401,17 +365,8 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/texas-rep-dan-crenshaw-accosted-by-group-of-proud-boys-far-right-activists",
         "timestamp": 1655588051,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 18, 2022 5:34 PM"
-    },
-    {
-        "title": "The Lazarus Project review – Paapa Essiedu thrills in fun, stylish brain-scrambler",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/16/the-lazarus-project-review-paapa-essiedu-thrills-in-fun-stylish-brain-scrambler",
-        "timestamp": 1655589825,
-        "sentiment": 4,
-        "published": "June 18, 2022 6:03 PM"
     },
     {
         "title": "US Harpoon missiles destroyed a heavily-armed Russian vessel in the Black Sea, say Ukraine's military",
@@ -437,7 +392,7 @@
         "category": "florida",
         "link": "https://flickr.com/photos/ap0013/52146460917/in/album-72157647658906835/",
         "timestamp": 1655591378,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 18, 2022 6:29 PM"
     },
     {
@@ -459,21 +414,12 @@
         "published": "June 18, 2022 6:53 PM"
     },
     {
-        "title": "Mark Shields, TV Pundit Known for His Sharp Wit, Dies at 85",
-        "domain": "nytimes.com",
-        "category": "television",
-        "link": "https://www.nytimes.com/2022/06/18/us/politics/mark-shields-dead.html",
-        "timestamp": 1655592847,
-        "sentiment": 4,
-        "published": "June 18, 2022 6:54 PM"
-    },
-    {
         "title": "Showrunner Terry Matalas Talks TNG Reunion On ‘Star Trek: Picard’ Season 3, More Legacy Characters, And Possible Spinoff",
         "domain": "trekmovie.com",
         "category": "television",
         "link": "https://trekmovie.com/2022/06/18/terry-matalas-talks-tng-reunion-on-star-trek-picard-backdoor-pilot-potential-and-other-legacy-characters/",
         "timestamp": 1655593807,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 7:10 PM"
     },
     {
@@ -482,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.sbs.com.au/news/article/aboriginal-flag-to-permanently-fly-on-sydney-harbour-bridge-by-end-of-year/e0ydz61p9",
         "timestamp": 1655594406,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 7:20 PM"
     },
     {
@@ -491,17 +437,17 @@
         "category": "sports",
         "link": "https://www.espn.com/golf/story/_/id/34113797/justin-thomas-denied-free-drop-tee-shot-lands-drain-third-round-us-open",
         "timestamp": 1655595447,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 18, 2022 7:37 PM"
     },
     {
-        "title": "The US has a national strategy to put factories in space",
-        "domain": "qz.com",
-        "category": "technology",
-        "link": "https://qz.com/2163811/us-plans-tech-to-refuel-satellites-and-build-factories-in-space/",
-        "timestamp": 1655595985,
-        "sentiment": 0,
-        "published": "June 18, 2022 7:46 PM"
+        "title": "Free school lunches for all set to end, creating ‘perfect storm’ amid high inflation",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/news/us-news/free-school-lunches-set-end-creating-perfect-storm-high-inflation-rcna33688",
+        "timestamp": 1655595682,
+        "sentiment": -1,
+        "published": "June 18, 2022 7:41 PM"
     },
     {
         "title": "'Buzz Lightyear of Star Command' Was the Space Ranger’s First Solo Mission",
@@ -509,7 +455,7 @@
         "category": "television",
         "link": "https://collider.com/buzz-lightyear-of-star-command-explained/",
         "timestamp": 1655596023,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 18, 2022 7:47 PM"
     },
     {
@@ -518,8 +464,17 @@
         "category": "worldnews",
         "link": "https://www.voanews.com/a/mystery-stomach-disease-hits-north-korean-province-/6621232.html",
         "timestamp": 1655596612,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 18, 2022 7:56 PM"
+    },
+    {
+        "title": "Julian Assange extradition: Australian government lobbies US officials for his freedom",
+        "domain": "smh.com.au",
+        "category": "worldnews",
+        "link": "https://www.smh.com.au/politics/federal/federal-government-lobbying-behind-the-scenes-for-assange-s-freedom-20220618-p5auq3.html",
+        "timestamp": 1655596765,
+        "sentiment": -4,
+        "published": "June 18, 2022 7:59 PM"
     },
     {
         "title": "Apple store approves union, the first in the U.S.",
@@ -536,8 +491,98 @@
         "category": "technology",
         "link": "https://www.tomshardware.com/news/plastic-processors-for-less-than-a-penny-apiece",
         "timestamp": 1655601891,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 18, 2022 9:24 PM"
+    },
+    {
+        "title": "Leaked Amazon memo says the company may run out of available labor by 2024",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/leaked-amazon-memo-says-it-will-run-out-of-workers-2024-labor-supply-230034089.html",
+        "timestamp": 1655603813,
+        "sentiment": 1,
+        "published": "June 18, 2022 9:56 PM"
+    },
+    {
+        "title": "'Transformers': 200+ Hours of Content Available to Stream Free on Transformers TV on Pluto TV",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/transformers-tv-200-hours-streaming-content-available/",
+        "timestamp": 1655604620,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:10 PM"
+    },
+    {
+        "title": "'Ms. Marvel' Scores Lowest 5-Day Viewership Of Any MCU Disney+ Series So Far",
+        "domain": "comicbookmovie.com",
+        "category": "television",
+        "link": "https://comicbookmovie.com/tv/marvel/ms_marvel/ms-marvel-scores-lowest-5-day-viewership-of-any-mcu-disney-series-so-far-a194368#gs.3gjxpa",
+        "timestamp": 1655606013,
+        "sentiment": 0,
+        "published": "June 18, 2022 10:33 PM"
+    },
+    {
+        "title": "Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html",
+        "timestamp": 1655554681,
+        "sentiment": 2,
+        "published": "June 18, 2022 8:18 AM"
+    },
+    {
+        "title": "Canada's Eugenie Bouchard withdraws from Wimbledon, aims to compete 'later this summer' | CBC Sports",
+        "domain": "cbc.ca",
+        "category": "sports",
+        "link": "https://www.cbc.ca/sports/tennis/tennis-canada-bouchard-withdraws-2022-wimbledon-tournament-1.6493177",
+        "timestamp": 1655570241,
+        "sentiment": 0,
+        "published": "June 18, 2022 12:37 PM"
+    },
+    {
+        "title": "Zelenskiy vows Ukraine will prevail, Boris Johnson promises lasting support",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/wrapup1-war-east-rages-ukraine-gets-chance-live-european-dream-2022-06-18/",
+        "timestamp": 1655574534,
+        "sentiment": 3,
+        "published": "June 18, 2022 1:48 PM"
+    },
+    {
+        "title": "'Dream On' documentary chronicles how the 1996 U.S. women's Olympic team helped launch the WNBA",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/wnba/story/_/id/34093273/dream-documentary-chronicles-how-1996-us-women-olympic-team-helped-launch-wnba?platform=amp",
+        "timestamp": 1655586468,
+        "sentiment": 0,
+        "published": "June 18, 2022 5:07 PM"
+    },
+    {
+        "title": "The Lazarus Project review – Paapa Essiedu thrills in fun, stylish brain-scrambler",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/16/the-lazarus-project-review-paapa-essiedu-thrills-in-fun-stylish-brain-scrambler",
+        "timestamp": 1655589825,
+        "sentiment": 4,
+        "published": "June 18, 2022 6:03 PM"
+    },
+    {
+        "title": "Mark Shields, TV Pundit Known for His Sharp Wit, Dies at 85",
+        "domain": "nytimes.com",
+        "category": "television",
+        "link": "https://www.nytimes.com/2022/06/18/us/politics/mark-shields-dead.html",
+        "timestamp": 1655592847,
+        "sentiment": 4,
+        "published": "June 18, 2022 6:54 PM"
+    },
+    {
+        "title": "The US has a national strategy to put factories in space",
+        "domain": "qz.com",
+        "category": "technology",
+        "link": "https://qz.com/2163811/us-plans-tech-to-refuel-satellites-and-build-factories-in-space/",
+        "timestamp": 1655595985,
+        "sentiment": 0,
+        "published": "June 18, 2022 7:46 PM"
     },
     {
         "title": "Zelensky adviser: Ukraine can win war in '3 to 6 months' if it gets heavy weapons soon",
