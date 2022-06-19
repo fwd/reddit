@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/JuliaDavisNews/status/1538318573646520321",
         "timestamp": 1655622089,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 19, 2022 3:01 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/olympic-champion-dame-kelly-holmes-announces-she-is-gay-and-kept-it-hidden-for-34-years-12636524",
         "timestamp": 1655624969,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 3:49 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/terischultz/status/1538435055004942341",
         "timestamp": 1655628279,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 19, 2022 4:44 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/18/asia/internet-explorer-gravestone-viral-south-korea-intl-hnk/index.html",
         "timestamp": 1655630324,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 19, 2022 5:18 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-putin-health-weapons-latest-b2104384.html",
         "timestamp": 1655630904,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 19, 2022 5:28 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -113,17 +113,8 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/prince-william-trump-jan-6-brian-sicknick-b2103373.html",
         "timestamp": 1655635558,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 19, 2022 6:45 AM"
-    },
-    {
-        "title": "Trump's election lawyer is a flat earther and believes the moon landing and 9/11 were faked.",
-        "domain": "nymag.com",
-        "category": "politics",
-        "link": "https://nymag.com/intelligencer/2022/06/lin-wood-pro-trump-attorney-is-a-flat-earther.html",
-        "timestamp": 1655635980,
-        "sentiment": 0,
-        "published": "June 19, 2022 6:53 AM"
     },
     {
         "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
@@ -131,8 +122,17 @@
         "category": "television",
         "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
         "timestamp": 1655637009,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 19, 2022 7:10 AM"
+    },
+    {
+        "title": "Social conservative crowd cheers Herschel Walker after revelations of undiscussed kids",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/18/herschel-walker-fathers-day-weekend-pass-social-conservatives-00040710",
+        "timestamp": 1655637323,
+        "sentiment": 2,
+        "published": "June 19, 2022 7:15 AM"
     },
     {
         "title": "Unprecedented heatwave cooks western Europe, with temperatures hitting 43C",
@@ -144,13 +144,94 @@
         "published": "June 19, 2022 7:26 AM"
     },
     {
+        "title": "Russia is likely facing a decade long recession - Sberbank CEO",
+        "domain": "themoscowtimes.com",
+        "category": "ukraine",
+        "link": "https://www.themoscowtimes.com/2022/06/17/russian-economy-faces-10-years-of-recession-without-reforms-sberbank-ceo-a78031",
+        "timestamp": 1655638521,
+        "sentiment": -2,
+        "published": "June 19, 2022 7:35 AM"
+    },
+    {
         "title": "SpaceX launches and lands 3 rockets in 36 hours.",
         "domain": "space.com",
         "category": "technology",
         "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
         "timestamp": 1655638605,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "June 19, 2022 7:36 AM"
+    },
+    {
+        "title": "Jan. 6 Committee reveals Mike Pence hid in a parking garage during insurrection",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/cross-connection/watch/jan-6-committee-reveals-mike-pence-hid-in-a-parking-garage-during-insurrection-142394949975",
+        "timestamp": 1655638653,
+        "sentiment": 2,
+        "published": "June 19, 2022 7:37 AM"
+    },
+    {
+        "title": "UK troops filmed having orgy at barracks, barred from NATO deployment",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/19/uk-troops-barred-from-nato-deployment-after-video-of-orgy/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
+        "timestamp": 1655641800,
+        "sentiment": 0,
+        "published": "June 19, 2022 8:30 AM"
+    },
+    {
+        "title": "Netflix, once the great disruptor, is now taking ideas from the industry it upended to jumpstart growth",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2022/06/14/netflix-considers-ads-password-sharing-crackdown-live-sports.html",
+        "timestamp": 1655643348,
+        "sentiment": -1,
+        "published": "June 19, 2022 8:55 AM"
+    },
+    {
+        "title": "6 in 10 Americans say Trump should be charged for Jan. 6 riot: POLL",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/10-americans-trump-charged-jan-riot-poll/story?id=85482369",
+        "timestamp": 1655644312,
+        "sentiment": 2,
+        "published": "June 19, 2022 9:11 AM"
+    },
+    {
+        "title": "Bumpy road ahead for Elon Musk as Tesla faces losing world's biggest electric car maker crown, study says",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655644437,
+        "sentiment": -4,
+        "published": "June 19, 2022 9:13 AM"
+    },
+    {
+        "title": "Apple workers vote to unionize at Maryland store",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
+        "timestamp": 1655645278,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:27 AM"
+    },
+    {
+        "title": "Cheech Marin's Riverside museum of Chicano art officially opens: 'This is a dear dream'",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
+        "timestamp": 1655645726,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:35 AM"
+    },
+    {
+        "title": "Trump's election lawyer is a flat earther and believes the moon landing and 9/11 were faked.",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/06/lin-wood-pro-trump-attorney-is-a-flat-earther.html",
+        "timestamp": 1655635980,
+        "sentiment": 0,
+        "published": "June 19, 2022 6:53 AM"
     },
     {
         "title": "A \"lost,\" \"too-scary\" episode of Sesame Street has been uploaded to the internet",
