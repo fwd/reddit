@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12500430",
         "timestamp": 1655629260,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 5:01 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://news.am/eng/news/707992.html",
         "timestamp": 1655635169,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 6:39 AM"
-    },
-    {
-        "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
-        "timestamp": 1655635417,
-        "sentiment": -4,
-        "published": "June 19, 2022 6:43 AM"
     },
     {
         "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
         "timestamp": 1655637983,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 7:26 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
         "timestamp": 1655643568,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 8:59 AM"
     },
     {
@@ -104,26 +95,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": -4,
-        "published": "June 19, 2022 10:43 AM"
-    },
-    {
-        "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
-        "timestamp": 1655650343,
-        "sentiment": 4,
-        "published": "June 19, 2022 10:52 AM"
-    },
-    {
-        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
-        "domain": "tsn.ua",
-        "category": "ukraine",
-        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
-        "timestamp": 1655652866,
         "sentiment": 0,
-        "published": "June 19, 2022 11:34 AM"
+        "published": "June 19, 2022 10:43 AM"
     },
     {
         "title": "Xbox wins Daytime Emmy award for 20th anniversary documentary",
@@ -140,15 +113,6 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
         "timestamp": 1655653585,
-        "sentiment": -4,
-        "published": "June 19, 2022 11:46 AM"
-    },
-    {
-        "title": "Why France is betting on deep tech instead of the metaverse",
-        "domain": "france24.com",
-        "category": "technology",
-        "link": "https://www.france24.com/en/technology/20220618-paris-s-vivatech-conference-why-france-is-betting-on-deep-tech-instead-of-the-metaverse",
-        "timestamp": 1655653617,
         "sentiment": 0,
         "published": "June 19, 2022 11:46 AM"
     },
@@ -158,7 +122,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
         "timestamp": 1655653719,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 11:48 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655654044,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 19, 2022 11:54 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
         "timestamp": 1655658047,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 1:00 PM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
         "timestamp": 1655660843,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 19, 2022 1:47 PM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
         "timestamp": 1655662476,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 2:14 PM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
         "timestamp": 1655663161,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 19, 2022 2:26 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "sports",
         "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
         "timestamp": 1655666214,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 19, 2022 3:16 PM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/macron-faces-tough-battle-control-parliament-france-votes-2022-06-19/",
         "timestamp": 1655666766,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 3:26 PM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
         "timestamp": 1655667358,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 3:35 PM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-restrict-russian-books-music-latest-cultural-break-moscow-2022-06-19/?taid=62af804b83c4c6000105a95f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655669262,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 4:07 PM"
     },
     {
@@ -315,30 +279,12 @@
         "published": "June 19, 2022 4:35 PM"
     },
     {
-        "title": "Apple and Google are ‘not good for users [and] not good for society’ says Protonmail founder",
-        "domain": "independent.co.uk",
-        "category": "technology",
-        "link": "https://www.independent.co.uk/tech/apple-google-not-good-for-society-protonmail-b2103645.html",
-        "timestamp": 1655671308,
-        "sentiment": 0,
-        "published": "June 19, 2022 4:41 PM"
-    },
-    {
-        "title": "$100M Contract awarded to ship nuclear waste to repository near Carlsbad",
-        "domain": "currentargus.com",
-        "category": "news",
-        "link": "https://www.currentargus.com/story/news/2022/06/18/nuclear-waste-repository-carlsbad-waste-isolation-pilot-plant/65361506007/",
-        "timestamp": 1655671613,
-        "sentiment": 4,
-        "published": "June 19, 2022 4:46 PM"
-    },
-    {
         "title": "Rep. Adam Kinzinger 'My Party Has Utterly Failed the American People at Truth.'",
         "domain": "insider.com",
         "category": "politics",
         "link": "https://www.insider.com/adam-kinzinger-my-party-failed-the-american-people-at-truth-2022-6",
         "timestamp": 1655674649,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 5:37 PM"
     },
     {
@@ -347,7 +293,7 @@
         "category": "worldnews",
         "link": "https://montreal.ctvnews.ca/montreal-protesters-go-topless-after-quebec-city-police-harass-sunbathing-woman-1.5953682",
         "timestamp": 1655676544,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 6:09 PM"
     },
     {
@@ -356,7 +302,7 @@
         "category": "worldnews",
         "link": "https://colombiareports.com/historic-victory-for-gustavo-petro-in-colombias-elections-quick-count/",
         "timestamp": 1655676837,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 6:13 PM"
     },
     {
@@ -365,7 +311,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/kinzinger-received-threat-execute-him-his-wife-5-month-old-2022-6?amp",
         "timestamp": 1655677318,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 6:21 PM"
     },
     {
@@ -383,7 +329,7 @@
         "category": "worldnews",
         "link": "https://m.jpost.com/omg/article-709853",
         "timestamp": 1655680334,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 7:12 PM"
     },
     {
@@ -392,7 +338,7 @@
         "category": "sports",
         "link": "https://www.thetimes.co.uk/article/russian-tennis-player-avoids-wimbledon-ban-with-change-of-nationality-t2f8ljscs",
         "timestamp": 1655683100,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 19, 2022 7:58 PM"
     },
     {
@@ -401,7 +347,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/schiff-justice-clarence-thomas-shouldnt-work-on-january-6-cases-2022-6",
         "timestamp": 1655683695,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 19, 2022 8:08 PM"
     },
     {
@@ -410,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/france/20220619-a-seismic-event-le-pen-s-party-makes-historic-breakthrough-in-french-parliament",
         "timestamp": 1655683767,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 19, 2022 8:09 PM"
     },
     {
@@ -421,6 +367,15 @@
         "timestamp": 1655684221,
         "sentiment": 0,
         "published": "June 19, 2022 8:17 PM"
+    },
+    {
+        "title": "There is no question: Merrick Garland must put Trump on trial",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/06/19/opinion/there-is-no-question-merrick-garland-must-put-trump-trial/",
+        "timestamp": 1655685721,
+        "sentiment": 0,
+        "published": "June 19, 2022 8:42 PM"
     },
     {
         "title": "‘Just give us an answer’: Family of U.S. veteran missing in Ukraine hope he is alive",
@@ -441,6 +396,24 @@
         "published": "June 19, 2022 9:10 PM"
     },
     {
+        "title": "Google tries to send Apple an RCS message with Drake’s ‘Texts Go Green’",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/drake-texts-go-green-apple-google-rcs-161802322.html",
+        "timestamp": 1655688928,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:35 PM"
+    },
+    {
+        "title": "DC police: Reports of ‘multiple people shot’ including officer",
+        "domain": "wtop.com",
+        "category": "news",
+        "link": "https://wtop.com/dc/2022/06/dc-police-reports-of-multiple-people-shot-including-officer/",
+        "timestamp": 1655689711,
+        "sentiment": 4,
+        "published": "June 19, 2022 9:48 PM"
+    },
+    {
         "title": "Better Call Saul Begins Push for Bob Odenkirk to Be Emmy-Nominated for Final Season",
         "domain": "movieweb.com",
         "category": "television",
@@ -457,6 +430,78 @@
         "timestamp": 1655691276,
         "sentiment": 0,
         "published": "June 19, 2022 10:14 PM"
+    },
+    {
+        "title": "Many younger baby boomers may outlive their 401(k) savings, new research finds. Here’s why.",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/19/401k-plans-may-not-last-long-enough-in-retirement.html",
+        "timestamp": 1655691709,
+        "sentiment": 4,
+        "published": "June 19, 2022 10:21 PM"
+    },
+    {
+        "title": "Scientists Have Invented Living Skin for Robots",
+        "domain": "ign.com",
+        "category": "technology",
+        "link": "https://www.ign.com/articles/scientists-invented-living-skin-for-robots?amp=1",
+        "timestamp": 1655693639,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:53 PM"
+    },
+    {
+        "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
+        "timestamp": 1655635417,
+        "sentiment": -4,
+        "published": "June 19, 2022 6:43 AM"
+    },
+    {
+        "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
+        "timestamp": 1655650343,
+        "sentiment": 4,
+        "published": "June 19, 2022 10:52 AM"
+    },
+    {
+        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
+        "domain": "tsn.ua",
+        "category": "ukraine",
+        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
+        "timestamp": 1655652866,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:34 AM"
+    },
+    {
+        "title": "Why France is betting on deep tech instead of the metaverse",
+        "domain": "france24.com",
+        "category": "technology",
+        "link": "https://www.france24.com/en/technology/20220618-paris-s-vivatech-conference-why-france-is-betting-on-deep-tech-instead-of-the-metaverse",
+        "timestamp": 1655653617,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:46 AM"
+    },
+    {
+        "title": "Apple and Google are ‘not good for users [and] not good for society’ says Protonmail founder",
+        "domain": "independent.co.uk",
+        "category": "technology",
+        "link": "https://www.independent.co.uk/tech/apple-google-not-good-for-society-protonmail-b2103645.html",
+        "timestamp": 1655671308,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:41 PM"
+    },
+    {
+        "title": "$100M Contract awarded to ship nuclear waste to repository near Carlsbad",
+        "domain": "currentargus.com",
+        "category": "news",
+        "link": "https://www.currentargus.com/story/news/2022/06/18/nuclear-waste-repository-carlsbad-waste-isolation-pilot-plant/65361506007/",
+        "timestamp": 1655671613,
+        "sentiment": 4,
+        "published": "June 19, 2022 4:46 PM"
     },
     {
         "title": "Internet Explorer's final resting place: as a 'world-class joke' in South Korea",
