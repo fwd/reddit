@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40313591/better-call-saul-scrapped-season-bob-odenkirk/",
         "timestamp": 1655699011,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 20, 2022 12:23 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 20, 2022 12:32 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nationalheraldindia.com/world/us-mulls-over-travel-ban-status-for-taliban-members",
         "timestamp": 1655702775,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 20, 2022 1:26 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-dmitry-muratov-journalists-9a6bb6e61350e1bb8221924c1bfe30a3",
         "timestamp": 1655709013,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 3:10 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.japantimes.co.jp/news/2022/06/20/national/crime-legal/japan-court-same-sex-marriage-ruling/",
         "timestamp": 1655710055,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 3:27 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-foolish-decision-gop-not-be-on-january-6-panel-2022-6",
         "timestamp": 1655710741,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 20, 2022 3:39 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://newatlas.com/health-wellbeing/crispr-vertex-long-term-follow-up-gene-editing-sickle-cell/",
         "timestamp": 1655712560,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 4:09 AM"
     },
     {
@@ -68,8 +68,17 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/19/putin-threatens-action-against-ex-soviet-states-if-they-defy-russia-16852614/",
         "timestamp": 1655715418,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 4:56 AM"
+    },
+    {
+        "title": "Ivanka had ‘bad feeling’ Trump was setting up Pence on Jan 6, biographer claims",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/ivanka-trump-jan-6-hearings-b2104553.html",
+        "timestamp": 1655716729,
+        "sentiment": 0,
+        "published": "June 20, 2022 5:18 AM"
     },
     {
         "title": "Belgium hit by protests over cost of living spike",
@@ -77,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/europe/belgium-hit-by-protests-over-cost-living-spike-2022-06-20/",
         "timestamp": 1655716915,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "June 20, 2022 5:21 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
         "timestamp": 1655717827,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 5:37 AM"
     },
     {
@@ -95,8 +104,17 @@
         "category": "technology",
         "link": "https://www.wired.com/story/firefox-mozilla-2022/",
         "timestamp": 1655718268,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 5:44 AM"
+    },
+    {
+        "title": "Telegram is 'not a secure platform,' NATO-backed strategic comms chief warns",
+        "domain": "washingtonexaminer.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonexaminer.com/policy/defense-national-security/telegram-secure-platform-nato-warns",
+        "timestamp": 1655720877,
+        "sentiment": 0,
+        "published": "June 20, 2022 6:27 AM"
     },
     {
         "title": "BREAKING: The Ukrainian parliament has just voted 'yes' for the ratification of the Istanbul Convention against violence against women and domestic violence. This is truly a historic moment for Ukraine",
@@ -104,7 +122,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 20, 2022 6:28 AM"
     },
     {
@@ -113,8 +131,17 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
         "timestamp": 1655721023,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 6:30 AM"
+    },
+    {
+        "title": "Ukraine has hit Russia-controlled offshore gas rigs in the Black Sea. Russia stole those rigs from Ukraine in 2014 amid the annexation of Crimea. Is the bridge next?",
+        "domain": "nv.ua",
+        "category": "ukraine",
+        "link": "https://nv.ua/ukr/ukraine/events/zsu-vdarili-po-vishkah-boyka-novini-ukrajini-50251055.html",
+        "timestamp": 1655721388,
+        "sentiment": -2,
+        "published": "June 20, 2022 6:36 AM"
     },
     {
         "title": "Russian-born tennis player Natela Dzalamidze changes nationality to avoid Wimbledon ban",
@@ -122,7 +149,7 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 20, 2022 6:43 AM"
     },
     {
@@ -131,7 +158,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/australia-news/2022/jun/20/heavy-industries-in-australias-regions-could-cut-emissions-by-80-and-create-a-jobs-bonanza-report-says",
         "timestamp": 1655722084,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 6:48 AM"
     },
     {
@@ -140,7 +167,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
         "timestamp": 1655723011,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 20, 2022 7:03 AM"
     },
     {
@@ -149,8 +176,44 @@
         "category": "technology",
         "link": "https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp?fs=e&s=cl",
         "timestamp": 1655724206,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 7:23 AM"
+    },
+    {
+        "title": "Senator Declares Amazon Ring's Audio Surveillance Capabilities \"Threaten the Public\"",
+        "domain": "eff.org",
+        "category": "technology",
+        "link": "https://www.eff.org/deeplinks/2022/06/senator-declares-concern-about-amazon-rings-audio-surveillance-capabilities",
+        "timestamp": 1655725921,
+        "sentiment": -1,
+        "published": "June 20, 2022 7:52 AM"
+    },
+    {
+        "title": "The franchise frenzy leaves nothing to the imagination: From The Rings of Power to the Marvel Cinematic Universe on Disney+, streaming services are adapting everything in sight. No one’s head canon is safe.",
+        "domain": "wired.com",
+        "category": "television",
+        "link": "https://www.wired.com/story/streaming-lose-headcanon/",
+        "timestamp": 1655726228,
+        "sentiment": -6,
+        "published": "June 20, 2022 7:57 AM"
+    },
+    {
+        "title": "Germany takes 'bitter' decision to fire up coal power plants as Russia chokes off its vital natural gas supplies",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/germany-coal-power-plants-russia-cuts-natural-gas-climate-energy-2022-6",
+        "timestamp": 1655727584,
+        "sentiment": 0,
+        "published": "June 20, 2022 8:19 AM"
+    },
+    {
+        "title": "Held at gunpoint behind the wheel, a driver sped to alert officers",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/06/20/dog-breeder-hostage-florida/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
+        "timestamp": 1655728321,
+        "sentiment": -1,
+        "published": "June 20, 2022 8:32 AM"
     },
     {
         "title": "Chinese scientists identify genes for more heat-tolerant rice",
