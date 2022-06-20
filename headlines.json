@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40313591/better-call-saul-scrapped-season-bob-odenkirk/",
         "timestamp": 1655699011,
-        "sentiment": -4,
+        "sentiment": 7,
         "published": "June 20, 2022 12:23 AM"
     },
     {
@@ -14,17 +14,26 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 20, 2022 12:32 AM"
     },
     {
-        "title": "Chinese scientists identify genes for more heat-tolerant rice",
-        "domain": "xhnewsapi.xinhuaxmt.com",
-        "category": "technology",
-        "link": "https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=706018161831936&showType=3002&utdId=f087027242d14a1b85c1a62335a8b618&version=3.0.2",
-        "timestamp": 1655705961,
+        "title": "US mulls over travel ban status for Taliban members",
+        "domain": "nationalheraldindia.com",
+        "category": "news",
+        "link": "https://www.nationalheraldindia.com/world/us-mulls-over-travel-ban-status-for-taliban-members",
+        "timestamp": 1655702775,
+        "sentiment": -2,
+        "published": "June 20, 2022 1:26 AM"
+    },
+    {
+        "title": "Russian journalist sells Nobel Prize for Ukrainian children",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-dmitry-muratov-journalists-9a6bb6e61350e1bb8221924c1bfe30a3",
+        "timestamp": 1655709013,
         "sentiment": 0,
-        "published": "June 20, 2022 2:19 AM"
+        "published": "June 20, 2022 3:10 AM"
     },
     {
         "title": "In LGBTQ rights setback, Japan court says barring same-sex marriage not unconstitutional",
@@ -41,7 +50,7 @@
         "category": "technology",
         "link": "https://newatlas.com/health-wellbeing/crispr-vertex-long-term-follow-up-gene-editing-sickle-cell/",
         "timestamp": 1655712560,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 4:09 AM"
     },
     {
@@ -54,13 +63,49 @@
         "published": "June 20, 2022 4:56 AM"
     },
     {
+        "title": "Forget sentience… the worry is that AI copies human bias.",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+        "timestamp": 1655717827,
+        "sentiment": -2,
+        "published": "June 20, 2022 5:37 AM"
+    },
+    {
         "title": "Is Firefox OK? Mozilla’s privacy-heavy browser is flatlining but still crucial to future of the web.",
         "domain": "wired.com",
         "category": "technology",
         "link": "https://www.wired.com/story/firefox-mozilla-2022/",
         "timestamp": 1655718268,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 5:44 AM"
+    },
+    {
+        "title": "BREAKING: The Ukrainian parliament has just voted 'yes' for the ratification of the Istanbul Convention against violence against women and domestic violence. This is truly a historic moment for Ukraine",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
+        "timestamp": 1655720937,
+        "sentiment": 0,
+        "published": "June 20, 2022 6:28 AM"
+    },
+    {
+        "title": "Russian-born tennis player Natela Dzalamidze changes nationality to avoid Wimbledon ban",
+        "domain": "edition.cnn.com",
+        "category": "sports",
+        "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
+        "timestamp": 1655721805,
+        "sentiment": -2,
+        "published": "June 20, 2022 6:43 AM"
+    },
+    {
+        "title": "Chinese scientists identify genes for more heat-tolerant rice",
+        "domain": "xhnewsapi.xinhuaxmt.com",
+        "category": "technology",
+        "link": "https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=706018161831936&showType=3002&utdId=f087027242d14a1b85c1a62335a8b618&version=3.0.2",
+        "timestamp": 1655705961,
+        "sentiment": 0,
+        "published": "June 20, 2022 2:19 AM"
     },
     {
         "title": "UK’s new Army Chief asks soldiers to prepare for potential World War III",
