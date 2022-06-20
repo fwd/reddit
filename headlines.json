@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 20, 2022 12:32 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/19/putin-threatens-action-against-ex-soviet-states-if-they-defy-russia-16852614/",
         "timestamp": 1655715418,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 4:56 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonexaminer.com/policy/defense-national-security/telegram-secure-platform-nato-warns",
         "timestamp": 1655720877,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 6:27 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 20, 2022 6:28 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
         "timestamp": 1655721023,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 6:30 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://nv.ua/ukr/ukraine/events/zsu-vdarili-po-vishkah-boyka-novini-ukrajini-50251055.html",
         "timestamp": 1655721388,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 20, 2022 6:36 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 20, 2022 6:43 AM"
     },
     {
@@ -97,6 +97,15 @@
         "timestamp": 1655723011,
         "sentiment": -2,
         "published": "June 20, 2022 7:03 AM"
+    },
+    {
+        "title": "Russia demands Lithuania lift Kaliningrad transit ban immediately",
+        "domain": "finance.yahoo.com",
+        "category": "worldnews",
+        "link": "https://finance.yahoo.com/news/russia-demands-lithuania-lift-kaliningrad-102555806.html",
+        "timestamp": 1655723204,
+        "sentiment": -3,
+        "published": "June 20, 2022 7:06 AM"
     },
     {
         "title": "You Can Run Doom on a Chip From a $15 Ikea Smart Lamp",
@@ -122,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/20/russian-emails-vladimir-putin-llcinvest",
         "timestamp": 1655727154,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 8:12 AM"
     },
     {
@@ -185,7 +194,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/SamRamani2/status/1538860382550380544",
         "timestamp": 1655732948,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 20, 2022 9:49 AM"
     },
     {
@@ -252,6 +261,15 @@
         "published": "June 20, 2022 10:35 AM"
     },
     {
+        "title": "China experiences heaviest rainfall in 60 years, experts warn extreme weather will only get worse",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/climate-and-environment/china-experiences-heaviest-rainfall-in-60-years-experts-warn-extreme-weather-will-only-get-worse-1.5954553",
+        "timestamp": 1655736322,
+        "sentiment": -3,
+        "published": "June 20, 2022 10:45 AM"
+    },
+    {
         "title": "Russian palaces, villas and yachts linked to Putin by email leak – in pictures, maps and video",
         "domain": "theguardian.com",
         "category": "news",
@@ -268,15 +286,6 @@
         "timestamp": 1655736875,
         "sentiment": -2,
         "published": "June 20, 2022 10:54 AM"
-    },
-    {
-        "title": "58% of US adults say they use their smartphone “too much”",
-        "domain": "news.gallup.com",
-        "category": "technology",
-        "link": "https://news.gallup.com/poll/393785/americans-close-wary-bond-smartphone.aspx",
-        "timestamp": 1655737469,
-        "sentiment": 0,
-        "published": "June 20, 2022 11:04 AM"
     },
     {
         "title": "DeSantis says ‘White House lied’ about COVID vaccine policy changes in Florida",
@@ -302,16 +311,7 @@
         "category": "ukraine",
         "link": "https://www.budapesttimes.hu/uncategorized/orban-calls-for-eu-candidate-status-for-ukraine-moldova-georgia-bosnia-and-herzegovina/",
         "timestamp": 1655739147,
-        "sentiment": 6,
-        "published": "June 20, 2022 11:32 AM"
-    },
-    {
-        "title": "Moscow Reels, Lashes Out At Lithuania Over Kaliningrad Cutoff",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/russia-lithuania-kaliningrad-cutoff/31906501.html",
-        "timestamp": 1655739175,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 11:32 AM"
     },
     {
@@ -356,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/16/baker-hughes-withdraws-from-russias-arctic-projects-kommersant-a78015",
         "timestamp": 1655742183,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 12:23 PM"
     },
     {
@@ -365,7 +365,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-should-not-negotiate-with-us-nuclear-issues-yet-ex-president-says-2022-06-20/",
         "timestamp": 1655742341,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 12:25 PM"
     },
     {
@@ -392,7 +392,7 @@
         "category": "worldnews",
         "link": "https://m.novinite.com/view_news.php?id=215570",
         "timestamp": 1655745206,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 1:13 PM"
     },
     {
@@ -401,7 +401,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3511279-biden-says-ukraines-membership-of-eu-very-likely.html",
         "timestamp": 1655745470,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 20, 2022 1:17 PM"
     },
     {
@@ -446,7 +446,7 @@
         "category": "sports",
         "link": "https://theathletic.com/3372343/2022/06/20/espn-2030-world-cup-rights/",
         "timestamp": 1655748419,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 20, 2022 2:06 PM"
     },
     {
@@ -473,7 +473,7 @@
         "category": "worldnews",
         "link": "https://www.channelnewsasia.com/world/canada-ban-making-importing-many-single-use-plastics-december-2758726",
         "timestamp": 1655750016,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 2:33 PM"
     },
     {
@@ -491,7 +491,7 @@
         "category": "ukraine",
         "link": "https://www.mirror.co.uk/news/world-news/vladimir-putin-loses-55th-colonel-27277914",
         "timestamp": 1655751718,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "June 20, 2022 3:01 PM"
     },
     {
@@ -504,15 +504,6 @@
         "published": "June 20, 2022 3:05 PM"
     },
     {
-        "title": "Putin fears the \"spark of democracy\" spreading to his country, Germany's Chancellor Olaf Scholz says",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/putin-fears-spark-democracy-germanys-scholz-says-2022-06-20/",
-        "timestamp": 1655753743,
-        "sentiment": 0,
-        "published": "June 20, 2022 3:35 PM"
-    },
-    {
         "title": "Catherine Reitman’s ‘Workin’ Moms’ to End With Upcoming Season 7 on CBC, Netflix",
         "domain": "hollywoodreporter.com",
         "category": "television",
@@ -520,15 +511,6 @@
         "timestamp": 1655755064,
         "sentiment": -3,
         "published": "June 20, 2022 3:57 PM"
-    },
-    {
-        "title": "Sky News: Ryan Giggs resigns as Wales manager ahead of domestic violence trial",
-        "domain": "news.sky.com",
-        "category": "sports",
-        "link": "https://news.sky.com/story/ryan-giggs-resigns-as-wales-manager-ahead-of-domestic-violence-trial-12637629",
-        "timestamp": 1655755885,
-        "sentiment": -4,
-        "published": "June 20, 2022 4:11 PM"
     },
     {
         "title": "Right-wing fans of the show “The Boys” were apparently furious to learn that the evil character Homelander is a “Donald Trump analogue” in the showrunner’s words",
@@ -545,8 +527,62 @@
         "category": "sports",
         "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
         "timestamp": 1655757127,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 20, 2022 4:32 PM"
+    },
+    {
+        "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823?mod=tech_lead_pos5",
+        "timestamp": 1655758570,
+        "sentiment": 0,
+        "published": "June 20, 2022 4:56 PM"
+    },
+    {
+        "title": "UFC Fight Night Austin (UFC on ESPN 37) Walkout Songs: Full Card",
+        "domain": "newrockstars.com",
+        "category": "sports",
+        "link": "https://newrockstars.com/ufc-fight-night-austin-walkout-song-songs-espn-37/",
+        "timestamp": 1655761174,
+        "sentiment": -3,
+        "published": "June 20, 2022 5:39 PM"
+    },
+    {
+        "title": "58% of US adults say they use their smartphone “too much”",
+        "domain": "news.gallup.com",
+        "category": "technology",
+        "link": "https://news.gallup.com/poll/393785/americans-close-wary-bond-smartphone.aspx",
+        "timestamp": 1655737469,
+        "sentiment": 0,
+        "published": "June 20, 2022 11:04 AM"
+    },
+    {
+        "title": "Moscow Reels, Lashes Out At Lithuania Over Kaliningrad Cutoff",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/russia-lithuania-kaliningrad-cutoff/31906501.html",
+        "timestamp": 1655739175,
+        "sentiment": 0,
+        "published": "June 20, 2022 11:32 AM"
+    },
+    {
+        "title": "Putin fears the \"spark of democracy\" spreading to his country, Germany's Chancellor Olaf Scholz says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/putin-fears-spark-democracy-germanys-scholz-says-2022-06-20/",
+        "timestamp": 1655753743,
+        "sentiment": 0,
+        "published": "June 20, 2022 3:35 PM"
+    },
+    {
+        "title": "Sky News: Ryan Giggs resigns as Wales manager ahead of domestic violence trial",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/ryan-giggs-resigns-as-wales-manager-ahead-of-domestic-violence-trial-12637629",
+        "timestamp": 1655755885,
+        "sentiment": -4,
+        "published": "June 20, 2022 4:11 PM"
     },
     {
         "title": "Better Call Saul boss almost scrapped final season following Bob Odenkirk's health scare",
@@ -556,15 +592,6 @@
         "timestamp": 1655699011,
         "sentiment": 0,
         "published": "June 20, 2022 12:23 AM"
-    },
-    {
-        "title": "Russia demands Lithuania lift Kaliningrad transit ban immediately",
-        "domain": "finance.yahoo.com",
-        "category": "worldnews",
-        "link": "https://finance.yahoo.com/news/russia-demands-lithuania-lift-kaliningrad-102555806.html",
-        "timestamp": 1655723204,
-        "sentiment": -2,
-        "published": "June 20, 2022 7:06 AM"
     },
     {
         "title": "Senator Declares Amazon Ring's Audio Surveillance Capabilities \"Threaten the Public\"",
