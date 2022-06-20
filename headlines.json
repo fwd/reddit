@@ -14,17 +14,8 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 20, 2022 12:32 AM"
-    },
-    {
-        "title": "America’s first CRISPR trial is still nearly 100% effective 3 years on",
-        "domain": "newatlas.com",
-        "category": "technology",
-        "link": "https://newatlas.com/health-wellbeing/crispr-vertex-long-term-follow-up-gene-editing-sickle-cell/",
-        "timestamp": 1655712560,
-        "sentiment": -5,
-        "published": "June 20, 2022 4:09 AM"
     },
     {
         "title": "Putin ‘threatens action’ against ex-Soviet states if they defy Russia",
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/19/putin-threatens-action-against-ex-soviet-states-if-they-defy-russia-16852614/",
         "timestamp": 1655715418,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 4:56 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "news",
         "link": "https://www.reuters.com/world/europe/belgium-hit-by-protests-over-cost-living-spike-2022-06-20/",
         "timestamp": 1655716915,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 5:21 AM"
-    },
-    {
-        "title": "Forget sentience… the worry is that AI copies human bias.",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
-        "timestamp": 1655717827,
-        "sentiment": -5,
-        "published": "June 20, 2022 5:37 AM"
     },
     {
         "title": "Is Firefox OK? Mozilla’s privacy-heavy browser is flatlining but still crucial to future of the web.",
@@ -59,7 +41,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/firefox-mozilla-2022/",
         "timestamp": 1655718268,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 5:44 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonexaminer.com/policy/defense-national-security/telegram-secure-platform-nato-warns",
         "timestamp": 1655720877,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 6:27 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 20, 2022 6:28 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
         "timestamp": 1655721023,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 6:30 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "ukraine",
         "link": "https://nv.ua/ukr/ukraine/events/zsu-vdarili-po-vishkah-boyka-novini-ukrajini-50251055.html",
         "timestamp": 1655721388,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 20, 2022 6:36 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 20, 2022 6:43 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/australia-news/2022/jun/20/heavy-industries-in-australias-regions-could-cut-emissions-by-80-and-create-a-jobs-bonanza-report-says",
         "timestamp": 1655722084,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 6:48 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
         "timestamp": 1655723011,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 7:03 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://finance.yahoo.com/news/russia-demands-lithuania-lift-kaliningrad-102555806.html",
         "timestamp": 1655723204,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 7:06 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "technology",
         "link": "https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp?fs=e&s=cl",
         "timestamp": 1655724206,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 7:23 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "technology",
         "link": "https://www.eff.org/deeplinks/2022/06/senator-declares-concern-about-amazon-rings-audio-surveillance-capabilities",
         "timestamp": 1655725921,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 7:52 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/20/russian-emails-vladimir-putin-llcinvest",
         "timestamp": 1655727154,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 8:12 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://wreg.com/news/nation-and-world/jan-6-committee-setting-sights-on-pence-ginni-thomas/",
         "timestamp": 1655728257,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 8:30 AM"
     },
     {
@@ -185,17 +167,8 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/06/20/dog-breeder-hostage-florida/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
         "timestamp": 1655728321,
-        "sentiment": -3,
-        "published": "June 20, 2022 8:32 AM"
-    },
-    {
-        "title": "Texas Republicans declare Biden election illegitimate, despite evidence",
-        "domain": "reuters.com",
-        "category": "politics",
-        "link": "https://www.reuters.com/world/us/texas-republicans-declare-biden-election-illegitimate-despite-evidence-2022-06-19/?utm_source=Sailthru&utm_medium=newsletter&utm_campaign=daily-briefing&utm_term=06-20-2022",
-        "timestamp": 1655729949,
         "sentiment": -1,
-        "published": "June 20, 2022 8:59 AM"
+        "published": "June 20, 2022 8:32 AM"
     },
     {
         "title": "Monkey in \"bullet-proof\" vest found dead after bloody cartel shootout in Mexico",
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/monkey-bullet-proof-vest-killed-deadly-narco-shootout-mexico/",
         "timestamp": 1655730636,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 9:10 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/19/us/new-york-public-library-free-books-trnd/index.html",
         "timestamp": 1655732476,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 9:41 AM"
     },
     {
@@ -230,17 +203,8 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/gay-republican-group-banned-gop-convention/",
         "timestamp": 1655732509,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 9:41 AM"
-    },
-    {
-        "title": "Canada publishes regulations to ban 'harmful' single-use plastics, with the ban on their manufacture and import to come into effect in December.",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/americas/canada-publishes-regulations-ban-harmful-single-use-plastics-2022-06-20/",
-        "timestamp": 1655732750,
-        "sentiment": -4,
-        "published": "June 20, 2022 9:45 AM"
     },
     {
         "title": "AMC wants more Breaking Bad spin-offs after Better Call Saul",
@@ -257,7 +221,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/SamRamani2/status/1538860382550380544",
         "timestamp": 1655732948,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 20, 2022 9:49 AM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "florida",
         "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQQQ1X9wtLVEIrgsNv2mxVi66WhyJGHkStPIa0VmTQ6kwwBYp0CA1b3za96ATs6TARC-lBfWUoenoJ/pubhtml?gid=1523443411&single=true",
         "timestamp": 1655733504,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 20, 2022 9:58 AM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/texas-gop-adopts-shockingly-explicit-anti-lgbtq-party-platform/",
         "timestamp": 1655733949,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 10:05 AM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "technology",
         "link": "https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/",
         "timestamp": 1655735056,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 10:24 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-admitted-he-lost-election-aide_n_62afe3f7e4b0cf43c858d89e",
         "timestamp": 1655735512,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 10:31 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "news",
         "link": "https://www.masslive.com/news/2022/06/massachusetts-hiker-dies-near-mt-washington-after-rescue-in-snow-80-mph-wind-gusts.html",
         "timestamp": 1655735606,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 10:33 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "politics",
         "link": "https://www.kxan.com/news/texas-politics/gay-republican-group-blasts-crazy-people-texas-gop-for-anti-lgbt-platform/",
         "timestamp": 1655735752,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 10:35 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/ng-interactive/2022/jun/20/russian-palaces-villas-and-yachts-linked-to-vladimir-putin-llcinvest?CMP=Share_iOSApp_Other",
         "timestamp": 1655736725,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 10:52 AM"
     },
     {
@@ -338,8 +302,17 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/v7vgp3/kari-lake-drag-queen",
         "timestamp": 1655736875,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 10:54 AM"
+    },
+    {
+        "title": "58% of US adults say they use their smartphone “too much”",
+        "domain": "news.gallup.com",
+        "category": "technology",
+        "link": "https://news.gallup.com/poll/393785/americans-close-wary-bond-smartphone.aspx",
+        "timestamp": 1655737469,
+        "sentiment": -1,
+        "published": "June 20, 2022 11:04 AM"
     },
     {
         "title": "DeSantis says ‘White House lied’ about COVID vaccine policy changes in Florida",
@@ -347,7 +320,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/community/health/coronavirus/desantis-says-white-house-lied-about-covid-vaccine-policy-changes-in-florida/",
         "timestamp": 1655737673,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 20, 2022 11:07 AM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "technology",
         "link": "https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right",
         "timestamp": 1655739143,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 11:32 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "ukraine",
         "link": "https://www.budapesttimes.hu/uncategorized/orban-calls-for-eu-candidate-status-for-ukraine-moldova-georgia-bosnia-and-herzegovina/",
         "timestamp": 1655739147,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 20, 2022 11:32 AM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/russia-lithuania-kaliningrad-cutoff/31906501.html",
         "timestamp": 1655739175,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 11:32 AM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "politics",
         "link": "https://www.today.com/popculture/popculture/rupaul-drag-queen-ban-rcna34243",
         "timestamp": 1655741703,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 12:15 PM"
     },
     {
@@ -410,8 +383,17 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-city-shootings-86ac35ff0592e473226f43b7112aaa3e?utm_source=Connatix&utm_medium=HomePage",
         "timestamp": 1655742034,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 12:20 PM"
+    },
+    {
+        "title": "The U.S. oil industry company Baker Hughes has stopped servicing all of Russia’s liquefied natural gas projects, putting the launch of new plants and the further operation of existing projects at risk. Baker Hughes has reportedly recalled service engineers from Gazprom projects",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/06/16/baker-hughes-withdraws-from-russias-arctic-projects-kommersant-a78015",
+        "timestamp": 1655742183,
+        "sentiment": -2,
+        "published": "June 20, 2022 12:23 PM"
     },
     {
         "title": "Russia's Medvedev suggests U.S. should beg for nuclear arms talks",
@@ -419,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-should-not-negotiate-with-us-nuclear-issues-yet-ex-president-says-2022-06-20/",
         "timestamp": 1655742341,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 12:25 PM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
         "timestamp": 1655744927,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 1:08 PM"
     },
     {
@@ -437,17 +419,17 @@
         "category": "worldnews",
         "link": "https://m.novinite.com/view_news.php?id=215570",
         "timestamp": 1655745206,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 1:13 PM"
     },
     {
-        "title": "Prior to the NBA Finals, ESPN's simulation predicted that the Celtics had an 86% chance of winning it all",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/NBAMemes/status/1538697182148435968",
-        "timestamp": 1655745524,
+        "title": "Biden says Ukraine's membership of EU 'very likely'",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3511279-biden-says-ukraines-membership-of-eu-very-likely.html",
+        "timestamp": 1655745470,
         "sentiment": 0,
-        "published": "June 20, 2022 1:18 PM"
+        "published": "June 20, 2022 1:17 PM"
     },
     {
         "title": "Philippine government attorney shot and killed while taking Uber to airport with his mother in Philadelphia",
@@ -455,7 +437,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/john-albert-laylo-philippine-government-attorney-killed-uber-philadelphia/#app",
         "timestamp": 1655746707,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 20, 2022 1:38 PM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-seceding-us-would-mean-war-law-expert-says-1717392",
         "timestamp": 1655747064,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 20, 2022 1:44 PM"
     },
     {
@@ -473,7 +455,7 @@
         "category": "technology",
         "link": "https://www.rutgers.edu/news/rutgers-scientist-develops-antimicrobial-plant-based-food-wrap-designed-replace-plastic",
         "timestamp": 1655747866,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 20, 2022 1:57 PM"
     },
     {
@@ -482,7 +464,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/hillsborough-county/challenges-remain-more-hillsborough-families-homeless-in-2022-report-says/",
         "timestamp": 1655748397,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 20, 2022 2:06 PM"
     },
     {
@@ -491,8 +473,17 @@
         "category": "sports",
         "link": "https://theathletic.com/3372343/2022/06/20/espn-2030-world-cup-rights/",
         "timestamp": 1655748419,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 20, 2022 2:06 PM"
+    },
+    {
+        "title": "No, Texas can’t legally secede from the U.S., despite popular myth",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2021/01/29/texas-secession/",
+        "timestamp": 1655748969,
+        "sentiment": -2,
+        "published": "June 20, 2022 2:16 PM"
     },
     {
         "title": "A 3,400-year-old city in Iraq emerges from underwater after an extreme drought",
@@ -500,7 +491,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/20/world/iraq-city-unearthed-drought-scn/index.html",
         "timestamp": 1655749095,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 20, 2022 2:18 PM"
     },
     {
@@ -511,6 +502,87 @@
         "timestamp": 1655749927,
         "sentiment": 0,
         "published": "June 20, 2022 2:32 PM"
+    },
+    {
+        "title": "Google Says It’s Time for Longtime Small-Business Users to Pay Up Google is charging some small businesses for email and other apps after more than a decade of free use. Business owners say Google is being callous.",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2022/06/20/technology/google-gsuite-small-business-fee.html",
+        "timestamp": 1655750119,
+        "sentiment": -1,
+        "published": "June 20, 2022 2:35 PM"
+    },
+    {
+        "title": "Only Murders in the Building Season 2 Brings Sparkling Comedy and Cozy Charm to a New Mystery",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hulu/only-murders-in-the-building-season-2-review/",
+        "timestamp": 1655751937,
+        "sentiment": 0,
+        "published": "June 20, 2022 3:05 PM"
+    },
+    {
+        "title": "Sky News: Ryan Giggs resigns as Wales manager ahead of domestic violence trial",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/ryan-giggs-resigns-as-wales-manager-ahead-of-domestic-violence-trial-12637629",
+        "timestamp": 1655755885,
+        "sentiment": -4,
+        "published": "June 20, 2022 4:11 PM"
+    },
+    {
+        "title": "Increased Regular Season Soft Tissue Injury Rates in National Football League (NFL) Players May Be Associated With the Canceled 2020 NFL Preseason Due to COVID-19",
+        "domain": "cureus.com",
+        "category": "sports",
+        "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
+        "timestamp": 1655757127,
+        "sentiment": -4,
+        "published": "June 20, 2022 4:32 PM"
+    },
+    {
+        "title": "America’s first CRISPR trial is still nearly 100% effective 3 years on",
+        "domain": "newatlas.com",
+        "category": "technology",
+        "link": "https://newatlas.com/health-wellbeing/crispr-vertex-long-term-follow-up-gene-editing-sickle-cell/",
+        "timestamp": 1655712560,
+        "sentiment": -5,
+        "published": "June 20, 2022 4:09 AM"
+    },
+    {
+        "title": "Forget sentience… the worry is that AI copies human bias.",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+        "timestamp": 1655717827,
+        "sentiment": -5,
+        "published": "June 20, 2022 5:37 AM"
+    },
+    {
+        "title": "Texas Republicans declare Biden election illegitimate, despite evidence",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/texas-republicans-declare-biden-election-illegitimate-despite-evidence-2022-06-19/?utm_source=Sailthru&utm_medium=newsletter&utm_campaign=daily-briefing&utm_term=06-20-2022",
+        "timestamp": 1655729949,
+        "sentiment": -1,
+        "published": "June 20, 2022 8:59 AM"
+    },
+    {
+        "title": "Canada publishes regulations to ban 'harmful' single-use plastics, with the ban on their manufacture and import to come into effect in December.",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/americas/canada-publishes-regulations-ban-harmful-single-use-plastics-2022-06-20/",
+        "timestamp": 1655732750,
+        "sentiment": -4,
+        "published": "June 20, 2022 9:45 AM"
+    },
+    {
+        "title": "Prior to the NBA Finals, ESPN's simulation predicted that the Celtics had an 86% chance of winning it all",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/NBAMemes/status/1538697182148435968",
+        "timestamp": 1655745524,
+        "sentiment": 0,
+        "published": "June 20, 2022 1:18 PM"
     },
     {
         "title": "Russian journalist sells Nobel Prize for Ukrainian children",
@@ -547,15 +619,6 @@
         "timestamp": 1655726923,
         "sentiment": -1,
         "published": "June 20, 2022 8:08 AM"
-    },
-    {
-        "title": "58% of US adults say they use their smartphone “too much”",
-        "domain": "news.gallup.com",
-        "category": "technology",
-        "link": "https://news.gallup.com/poll/393785/americans-close-wary-bond-smartphone.aspx",
-        "timestamp": 1655737469,
-        "sentiment": 0,
-        "published": "June 20, 2022 11:04 AM"
     },
     {
         "title": "Watergate prosecutor: Georgia case could ‘send Donald Trump to prison’",
@@ -1267,15 +1330,6 @@
         "timestamp": 1655662541,
         "sentiment": -3,
         "published": "June 19, 2022 2:15 PM"
-    },
-    {
-        "title": "Increased Regular Season Soft Tissue Injury Rates in National Football League (NFL) Players May Be Associated With the Canceled 2020 NFL Preseason Due to COVID-19",
-        "domain": "cureus.com",
-        "category": "sports",
-        "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
-        "timestamp": 1655667822,
-        "sentiment": -1,
-        "published": "June 19, 2022 3:43 PM"
     },
     {
         "title": "GOP lawmaker says Jan. 6 hearings are changing Republican voters' minds about Trump",
