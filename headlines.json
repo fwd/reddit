@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40313591/better-call-saul-scrapped-season-bob-odenkirk/",
         "timestamp": 1655699011,
-        "sentiment": 1,
+        "sentiment": -4,
         "published": "June 20, 2022 12:23 AM"
     },
     {
@@ -14,8 +14,26 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 20, 2022 12:32 AM"
+    },
+    {
+        "title": "Chinese scientists identify genes for more heat-tolerant rice",
+        "domain": "xhnewsapi.xinhuaxmt.com",
+        "category": "technology",
+        "link": "https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=706018161831936&showType=3002&utdId=f087027242d14a1b85c1a62335a8b618&version=3.0.2",
+        "timestamp": 1655705961,
+        "sentiment": -1,
+        "published": "June 20, 2022 2:19 AM"
+    },
+    {
+        "title": "UK’s new Army Chief asks soldiers to prepare for potential World War III",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-in/news/world/uk-s-new-army-chief-asks-soldiers-to-prepare-for-potential-world-war-iii/ar-AAYDbnc?ocid=msedgdhp&pc=U531&cvid=8c12804729b84bc2b5e1cf2e2919bd5d",
+        "timestamp": 1655706211,
+        "sentiment": -1,
+        "published": "June 20, 2022 2:23 AM"
     },
     {
         "title": "Putin: \"We were never against Ukraine joining EU\"",
