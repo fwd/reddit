@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12500430",
         "timestamp": 1655629260,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 5:01 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://news.am/eng/news/707992.html",
         "timestamp": 1655635169,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 6:39 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
         "timestamp": 1655635417,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 6:43 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
         "timestamp": 1655637009,
-        "sentiment": 2,
+        "sentiment": -7,
         "published": "June 19, 2022 7:10 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
         "timestamp": 1655637983,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 7:26 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/19/russia-backed-network-of-syria-conspiracy-theorists-identified?CMP=share_btn_tw",
         "timestamp": 1655643320,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 8:55 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "television",
         "link": "https://www.cnbc.com/2022/06/14/netflix-considers-ads-password-sharing-crackdown-live-sports.html",
         "timestamp": 1655643348,
-        "sentiment": 2,
+        "sentiment": -7,
         "published": "June 19, 2022 8:55 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
         "timestamp": 1655643568,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 8:59 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.lemonde.fr/en/international/article/2022/06/19/a-quebec-law-to-boost-french-has-caused-an-outcry-in-canada_5987316_4.html",
         "timestamp": 1655645268,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 9:27 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "news",
         "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
         "timestamp": 1655645278,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 9:27 AM"
     },
     {
@@ -122,17 +122,8 @@
         "category": "news",
         "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
         "timestamp": 1655645726,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 9:35 AM"
-    },
-    {
-        "title": "Tyler Sanders Dies: ‘Just Like Magic: Mystery City’ Star Who Guested On ‘9-1-1: Lone Star’, ‘Fear The Walking Dead’ Was 18",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/06/tyler-sanders-dead-just-like-magic-mystery-city-star-who-guested-on-9-1-1-lone-star-fear-the-walking-dead-1235047902/",
-        "timestamp": 1655647568,
-        "sentiment": 2,
-        "published": "June 19, 2022 10:06 AM"
     },
     {
         "title": "Trump's Jan. 6 pardon comments \"an attempt at witness tampering\": Conway",
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trumps-jan-6-pardon-comments-attempt-witness-tampering-conway-1717144",
         "timestamp": 1655648368,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 10:19 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
         "timestamp": 1655649822,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 10:43 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
         "timestamp": 1655650343,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 10:52 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "television",
         "link": "https://www.videogameschronicle.com/news/xbox-wins-daytime-emmy-award-for-20th-anniversary-documentary/",
         "timestamp": 1655652967,
-        "sentiment": 2,
+        "sentiment": -7,
         "published": "June 19, 2022 11:36 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
         "timestamp": 1655653585,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 11:46 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
         "timestamp": 1655653719,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 11:48 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/swimming/61853450",
         "timestamp": 1655654044,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 19, 2022 11:54 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/men-charged-fatal-fireworks-explosion-killed-85494468",
         "timestamp": 1655656422,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 12:33 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/russia-limits-exports-noble-gases-key-ingredient-making-chips-2022-06-02/",
         "timestamp": 1655657365,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 12:49 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
         "timestamp": 1655658047,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 1:00 PM"
     },
     {
@@ -248,17 +239,8 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
         "timestamp": 1655660843,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 1:47 PM"
-    },
-    {
-        "title": "Trump to Be Implicated in Fake Elector Plot: Adam Schiff",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/trump-implicated-fake-elector-plot-adam-schiff-1717202",
-        "timestamp": 1655661366,
-        "sentiment": 0,
-        "published": "June 19, 2022 1:56 PM"
     },
     {
         "title": "More Americans say Trump should face charges in connection with Jan. 6: poll",
@@ -266,17 +248,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
         "timestamp": 1655662476,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 2:14 PM"
-    },
-    {
-        "title": "Lebanon turns to solar power as energy crisis deepens",
-        "domain": "arabnews.com",
-        "category": "worldnews",
-        "link": "https://www.arabnews.com/node/2106001/business-economy",
-        "timestamp": 1655662541,
-        "sentiment": -3,
-        "published": "June 19, 2022 2:15 PM"
     },
     {
         "title": "The Kyiv Independent: ⚡️Moldova bans Russian news, war films to counter propaganda. According to Moldovan news outlet NewsMaker, Moldovan President Maia Sandu signed a law to ban the broadcasting of Russian news programs, political TV shows, and war films in the country.",
@@ -284,7 +257,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
         "timestamp": 1655663161,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 19, 2022 2:26 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/",
         "timestamp": 1655663772,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 2:36 PM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/ethiopia-attack-ethnic-amhara-killed/",
         "timestamp": 1655664608,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 2:50 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "news",
         "link": "https://apnews.com/article/transgender-swimmers-new-rules-fina-world-governing-body-c17e99d3121fa964336458b57ae266f7",
         "timestamp": 1655666211,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 3:16 PM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/macron-faces-tough-battle-control-parliament-france-votes-2022-06-19/",
         "timestamp": 1655666766,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 3:26 PM"
     },
     {
@@ -338,26 +311,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
         "timestamp": 1655667358,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 19, 2022 3:35 PM"
-    },
-    {
-        "title": "Increased Regular Season Soft Tissue Injury Rates in National Football League (NFL) Players May Be Associated With the Canceled 2020 NFL Preseason Due to COVID-19",
-        "domain": "cureus.com",
-        "category": "sports",
-        "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
-        "timestamp": 1655667822,
-        "sentiment": -1,
-        "published": "June 19, 2022 3:43 PM"
-    },
-    {
-        "title": "GOP lawmaker says Jan. 6 hearings are changing Republican voters' minds about Trump",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/videos/politics/2022/06/19/fred-upton-trump-republican-party-sotu-vpx.cnn",
-        "timestamp": 1655668847,
-        "sentiment": 0,
-        "published": "June 19, 2022 4:00 PM"
     },
     {
         "title": "Ukraine to restrict Russian books, music in latest cultural break from Moscow",
@@ -365,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/ukraine-restrict-russian-books-music-latest-cultural-break-moscow-2022-06-19/?taid=62af804b83c4c6000105a95f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655669262,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 4:07 PM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "news",
         "link": "https://www.insidenova.com/headlines/special-education-teacher-sues-loudoun-school-board-following-sexual-assault-claims/article_2a1300ac-ee52-11ec-8af6-bbc7961d7156.html",
         "timestamp": 1655670033,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 4:20 PM"
     },
     {
@@ -401,7 +356,7 @@
         "category": "news",
         "link": "https://www.currentargus.com/story/news/2022/06/18/nuclear-waste-repository-carlsbad-waste-isolation-pilot-plant/65361506007/",
         "timestamp": 1655671613,
-        "sentiment": -4,
+        "sentiment": -9,
         "published": "June 19, 2022 4:46 PM"
     },
     {
@@ -414,13 +369,85 @@
         "published": "June 19, 2022 5:30 PM"
     },
     {
+        "title": "Rep. Adam Kinzinger 'My Party Has Utterly Failed the American People at Truth.'",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/adam-kinzinger-my-party-failed-the-american-people-at-truth-2022-6",
+        "timestamp": 1655674649,
+        "sentiment": -2,
+        "published": "June 19, 2022 5:37 PM"
+    },
+    {
+        "title": "Montreal protesters go topless after Quebec City police harass sunbathing woman",
+        "domain": "montreal.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://montreal.ctvnews.ca/montreal-protesters-go-topless-after-quebec-city-police-harass-sunbathing-woman-1.5953682",
+        "timestamp": 1655676544,
+        "sentiment": -1,
+        "published": "June 19, 2022 6:09 PM"
+    },
+    {
         "title": "Historic victory for leftist Gustavo Petro in Colombia’s presidential elections, the first progressive president since the 1930’s",
         "domain": "colombiareports.com",
         "category": "worldnews",
         "link": "https://colombiareports.com/historic-victory-for-gustavo-petro-in-colombias-elections-quick-count/",
         "timestamp": 1655676837,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 19, 2022 6:13 PM"
+    },
+    {
+        "title": "Kinzinger says 'there is violence in the future' after receiving mailed threat to 'execute' him, his wife, and 5-month-old baby",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kinzinger-received-threat-execute-him-his-wife-5-month-old-2022-6?amp",
+        "timestamp": 1655677318,
+        "sentiment": -2,
+        "published": "June 19, 2022 6:21 PM"
+    },
+    {
+        "title": "Tyler Sanders Dies: ‘Just Like Magic: Mystery City’ Star Who Guested On ‘9-1-1: Lone Star’, ‘Fear The Walking Dead’ Was 18",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/tyler-sanders-dead-just-like-magic-mystery-city-star-who-guested-on-9-1-1-lone-star-fear-the-walking-dead-1235047902/",
+        "timestamp": 1655647568,
+        "sentiment": 2,
+        "published": "June 19, 2022 10:06 AM"
+    },
+    {
+        "title": "Trump to Be Implicated in Fake Elector Plot: Adam Schiff",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-implicated-fake-elector-plot-adam-schiff-1717202",
+        "timestamp": 1655661366,
+        "sentiment": 0,
+        "published": "June 19, 2022 1:56 PM"
+    },
+    {
+        "title": "Lebanon turns to solar power as energy crisis deepens",
+        "domain": "arabnews.com",
+        "category": "worldnews",
+        "link": "https://www.arabnews.com/node/2106001/business-economy",
+        "timestamp": 1655662541,
+        "sentiment": -3,
+        "published": "June 19, 2022 2:15 PM"
+    },
+    {
+        "title": "Increased Regular Season Soft Tissue Injury Rates in National Football League (NFL) Players May Be Associated With the Canceled 2020 NFL Preseason Due to COVID-19",
+        "domain": "cureus.com",
+        "category": "sports",
+        "link": "https://www.cureus.com/articles/91354-increased-regular-season-soft-tissue-injury-rates-in-national-football-league-nfl-players-may-be-associated-with-the-canceled-2020-nfl-preseason-due-to-covid-19",
+        "timestamp": 1655667822,
+        "sentiment": -1,
+        "published": "June 19, 2022 3:43 PM"
+    },
+    {
+        "title": "GOP lawmaker says Jan. 6 hearings are changing Republican voters' minds about Trump",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2022/06/19/fred-upton-trump-republican-party-sotu-vpx.cnn",
+        "timestamp": 1655668847,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:00 PM"
     },
     {
         "title": "British troops must prepare to fight in Europe once again, says new head of Army",
