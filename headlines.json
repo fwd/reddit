@@ -5,8 +5,458 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12500430",
         "timestamp": 1655629260,
-        "sentiment": -6,
+        "sentiment": 3,
         "published": "June 19, 2022 5:01 AM"
+    },
+    {
+        "title": "Kazakhstan FM calls for elimination of all nuclear weapons by 2045",
+        "domain": "news.am",
+        "category": "worldnews",
+        "link": "https://news.am/eng/news/707992.html",
+        "timestamp": 1655635169,
+        "sentiment": 3,
+        "published": "June 19, 2022 6:39 AM"
+    },
+    {
+        "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
+        "timestamp": 1655635417,
+        "sentiment": -4,
+        "published": "June 19, 2022 6:43 AM"
+    },
+    {
+        "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
+        "timestamp": 1655637009,
+        "sentiment": 0,
+        "published": "June 19, 2022 7:10 AM"
+    },
+    {
+        "title": "Unprecedented heatwave cooks western Europe, with temperatures hitting 43C",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
+        "timestamp": 1655637983,
+        "sentiment": 3,
+        "published": "June 19, 2022 7:26 AM"
+    },
+    {
+        "title": "SpaceX launches and lands 3 rockets in 36 hours.",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
+        "timestamp": 1655638605,
+        "sentiment": 0,
+        "published": "June 19, 2022 7:36 AM"
+    },
+    {
+        "title": "Netflix, once the great disruptor, is now taking ideas from the industry it upended to jumpstart growth",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2022/06/14/netflix-considers-ads-password-sharing-crackdown-live-sports.html",
+        "timestamp": 1655643348,
+        "sentiment": 0,
+        "published": "June 19, 2022 8:55 AM"
+    },
+    {
+        "title": "Germany to fire up coal plants as Russia turns down the gas",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
+        "timestamp": 1655643568,
+        "sentiment": 3,
+        "published": "June 19, 2022 8:59 AM"
+    },
+    {
+        "title": "Bumpy road ahead for Elon Musk as Tesla faces losing world's biggest electric car maker crown, study says",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655644437,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:13 AM"
+    },
+    {
+        "title": "Apple workers vote to unionize at Maryland store",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
+        "timestamp": 1655645278,
+        "sentiment": 4,
+        "published": "June 19, 2022 9:27 AM"
+    },
+    {
+        "title": "Cheech Marin's Riverside museum of Chicano art officially opens: 'This is a dear dream'",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
+        "timestamp": 1655645726,
+        "sentiment": 4,
+        "published": "June 19, 2022 9:35 AM"
+    },
+    {
+        "title": "Trump must be indicted to \"protect the American people\": Glenn Kirschner",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
+        "timestamp": 1655649822,
+        "sentiment": -4,
+        "published": "June 19, 2022 10:43 AM"
+    },
+    {
+        "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
+        "timestamp": 1655650343,
+        "sentiment": 4,
+        "published": "June 19, 2022 10:52 AM"
+    },
+    {
+        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
+        "domain": "tsn.ua",
+        "category": "ukraine",
+        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
+        "timestamp": 1655652866,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:34 AM"
+    },
+    {
+        "title": "Xbox wins Daytime Emmy award for 20th anniversary documentary",
+        "domain": "videogameschronicle.com",
+        "category": "television",
+        "link": "https://www.videogameschronicle.com/news/xbox-wins-daytime-emmy-award-for-20th-anniversary-documentary/",
+        "timestamp": 1655652967,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:36 AM"
+    },
+    {
+        "title": "Texas GOP's new platform calls homosexuality 'abnormal' and includes explicitly anti-LGBTQ ideology",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
+        "timestamp": 1655653585,
+        "sentiment": -4,
+        "published": "June 19, 2022 11:46 AM"
+    },
+    {
+        "title": "Why France is betting on deep tech instead of the metaverse",
+        "domain": "france24.com",
+        "category": "technology",
+        "link": "https://www.france24.com/en/technology/20220618-paris-s-vivatech-conference-why-france-is-betting-on-deep-tech-instead-of-the-metaverse",
+        "timestamp": 1655653617,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:46 AM"
+    },
+    {
+        "title": "Trump lashing out at Jan. 6 panel is \"essentially saying 'yeah I did it'\": Raskin",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
+        "timestamp": 1655653719,
+        "sentiment": -4,
+        "published": "June 19, 2022 11:48 AM"
+    },
+    {
+        "title": "Fina stops transgender swimmers from competing in women's elite events if they have gone through any part of the process of male puberty, and aim to establish a third, “open” category",
+        "domain": "bbc.co.uk",
+        "category": "sports",
+        "link": "https://www.bbc.co.uk/sport/swimming/61853450",
+        "timestamp": 1655654044,
+        "sentiment": 0,
+        "published": "June 19, 2022 11:54 AM"
+    },
+    {
+        "title": "Russia limits exports of noble gases, a key ingredient for making chips",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/russia-limits-exports-noble-gases-key-ingredient-making-chips-2022-06-02/",
+        "timestamp": 1655657365,
+        "sentiment": 4,
+        "published": "June 19, 2022 12:49 PM"
+    },
+    {
+        "title": "'Can You Believe I Lost to This Guy?' Trump Admitted He Lost Election, Former Aide Says",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
+        "timestamp": 1655658047,
+        "sentiment": -4,
+        "published": "June 19, 2022 1:00 PM"
+    },
+    {
+        "title": "Pentagon Explores Using SpaceX for Rocket-Deployed Quick Reaction Force",
+        "domain": "theintercept.com",
+        "category": "technology",
+        "link": "https://theintercept.com/2022/06/19/spacex-pentagon-elon-musk-space-defense/",
+        "timestamp": 1655660152,
+        "sentiment": 0,
+        "published": "June 19, 2022 1:35 PM"
+    },
+    {
+        "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
+        "timestamp": 1655660843,
+        "sentiment": 0,
+        "published": "June 19, 2022 1:47 PM"
+    },
+    {
+        "title": "More Americans say Trump should face charges in connection with Jan. 6: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
+        "timestamp": 1655662476,
+        "sentiment": -4,
+        "published": "June 19, 2022 2:14 PM"
+    },
+    {
+        "title": "The Kyiv Independent: ⚡️Moldova bans Russian news, war films to counter propaganda. According to Moldovan news outlet NewsMaker, Moldovan President Maia Sandu signed a law to ban the broadcasting of Russian news programs, political TV shows, and war films in the country.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
+        "timestamp": 1655663161,
+        "sentiment": 0,
+        "published": "June 19, 2022 2:26 PM"
+    },
+    {
+        "title": "Record-Breaking Voyager spacecraft begins to power down",
+        "domain": "scientificamerican.com",
+        "category": "news",
+        "link": "https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/",
+        "timestamp": 1655663772,
+        "sentiment": 4,
+        "published": "June 19, 2022 2:36 PM"
+    },
+    {
+        "title": "More than 200 killed in Ethiopia in alleged ethnic attack, witnesses say",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/ethiopia-attack-ethnic-amhara-killed/",
+        "timestamp": 1655664608,
+        "sentiment": 4,
+        "published": "June 19, 2022 2:50 PM"
+    },
+    {
+        "title": "Online hate law should address ‘deepfakes’ and disinformation: advisory panel",
+        "domain": "globalnews.ca",
+        "category": "technology",
+        "link": "https://globalnews.ca/news/8931856/online-hate-law-should-address-deepfakes-and-disinformation/",
+        "timestamp": 1655666155,
+        "sentiment": 0,
+        "published": "June 19, 2022 3:15 PM"
+    },
+    {
+        "title": "World swimming bans transgender athletes from women's events",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/transgender-swimmers-new-rules-fina-world-governing-body-c17e99d3121fa964336458b57ae266f7",
+        "timestamp": 1655666211,
+        "sentiment": 4,
+        "published": "June 19, 2022 3:16 PM"
+    },
+    {
+        "title": "Kruis with a heel conversion against England as a celebration of his retirement.",
+        "domain": "video.twimg.com",
+        "category": "sports",
+        "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
+        "timestamp": 1655666214,
+        "sentiment": 0,
+        "published": "June 19, 2022 3:16 PM"
+    },
+    {
+        "title": "Macron loses absolute majority in French parliamentary elections, initial projections show",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/macron-faces-tough-battle-control-parliament-france-votes-2022-06-19/",
+        "timestamp": 1655666766,
+        "sentiment": 3,
+        "published": "June 19, 2022 3:26 PM"
+    },
+    {
+        "title": "Most Americans Don't Want Biden or Trump to Run Again: Poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
+        "timestamp": 1655667358,
+        "sentiment": -4,
+        "published": "June 19, 2022 3:35 PM"
+    },
+    {
+        "title": "Ukraine to restrict Russian books, music in latest cultural break from Moscow",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/ukraine-restrict-russian-books-music-latest-cultural-break-moscow-2022-06-19/?taid=62af804b83c4c6000105a95f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1655669262,
+        "sentiment": 3,
+        "published": "June 19, 2022 4:07 PM"
+    },
+    {
+        "title": "Go read this report about a Google contractor who claims he was fired for calling out cult activity",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/19/23174605/go-read-this-report-google-contractor-fired-calling-out-cult-activity",
+        "timestamp": 1655670801,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:33 PM"
+    },
+    {
+        "title": "This $280 phone is a lesson in affordability – I hope Apple and Samsung are paying attention",
+        "domain": "techradar.com",
+        "category": "technology",
+        "link": "https://www.techradar.com/news/this-dollar280-phone-is-a-lesson-in-affordability-i-hope-apple-and-samsung-are-paying-attention",
+        "timestamp": 1655670945,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:35 PM"
+    },
+    {
+        "title": "Apple and Google are ‘not good for users [and] not good for society’ says Protonmail founder",
+        "domain": "independent.co.uk",
+        "category": "technology",
+        "link": "https://www.independent.co.uk/tech/apple-google-not-good-for-society-protonmail-b2103645.html",
+        "timestamp": 1655671308,
+        "sentiment": 0,
+        "published": "June 19, 2022 4:41 PM"
+    },
+    {
+        "title": "$100M Contract awarded to ship nuclear waste to repository near Carlsbad",
+        "domain": "currentargus.com",
+        "category": "news",
+        "link": "https://www.currentargus.com/story/news/2022/06/18/nuclear-waste-repository-carlsbad-waste-isolation-pilot-plant/65361506007/",
+        "timestamp": 1655671613,
+        "sentiment": 4,
+        "published": "June 19, 2022 4:46 PM"
+    },
+    {
+        "title": "Rep. Adam Kinzinger 'My Party Has Utterly Failed the American People at Truth.'",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/adam-kinzinger-my-party-failed-the-american-people-at-truth-2022-6",
+        "timestamp": 1655674649,
+        "sentiment": -4,
+        "published": "June 19, 2022 5:37 PM"
+    },
+    {
+        "title": "Montreal protesters go topless after Quebec City police harass sunbathing woman",
+        "domain": "montreal.ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://montreal.ctvnews.ca/montreal-protesters-go-topless-after-quebec-city-police-harass-sunbathing-woman-1.5953682",
+        "timestamp": 1655676544,
+        "sentiment": 3,
+        "published": "June 19, 2022 6:09 PM"
+    },
+    {
+        "title": "Historic victory for leftist Gustavo Petro in Colombia’s presidential elections, the first progressive president since the 1930’s",
+        "domain": "colombiareports.com",
+        "category": "worldnews",
+        "link": "https://colombiareports.com/historic-victory-for-gustavo-petro-in-colombias-elections-quick-count/",
+        "timestamp": 1655676837,
+        "sentiment": 3,
+        "published": "June 19, 2022 6:13 PM"
+    },
+    {
+        "title": "Kinzinger says 'there is violence in the future' after receiving mailed threat to 'execute' him, his wife, and 5-month-old baby",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kinzinger-received-threat-execute-him-his-wife-5-month-old-2022-6?amp",
+        "timestamp": 1655677318,
+        "sentiment": -4,
+        "published": "June 19, 2022 6:21 PM"
+    },
+    {
+        "title": "Gustavo Petro wins Colombian presidential race",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/17/americas/gustavo-petro-profile-intl-latam/index.html",
+        "timestamp": 1655679184,
+        "sentiment": 4,
+        "published": "June 19, 2022 6:53 PM"
+    },
+    {
+        "title": "Ukraine issues postal stamps of tractor towing away Russian tank",
+        "domain": "m.jpost.com",
+        "category": "worldnews",
+        "link": "https://m.jpost.com/omg/article-709853",
+        "timestamp": 1655680334,
+        "sentiment": 3,
+        "published": "June 19, 2022 7:12 PM"
+    },
+    {
+        "title": "Russian tennis player avoids Wimbledon ban with change of nationality",
+        "domain": "thetimes.co.uk",
+        "category": "sports",
+        "link": "https://www.thetimes.co.uk/article/russian-tennis-player-avoids-wimbledon-ban-with-change-of-nationality-t2f8ljscs",
+        "timestamp": 1655683100,
+        "sentiment": 0,
+        "published": "June 19, 2022 7:58 PM"
+    },
+    {
+        "title": "Rep. Adam Schiff said Justice Clarence Thomas should 'have nothing to do' with cases related to January 6 because of his wife's efforts to overturn the election",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/schiff-justice-clarence-thomas-shouldnt-work-on-january-6-cases-2022-6",
+        "timestamp": 1655683695,
+        "sentiment": -4,
+        "published": "June 19, 2022 8:08 PM"
+    },
+    {
+        "title": "‘A seismic event’: Le Pen’s party makes historic breakthrough in French parliament",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/france/20220619-a-seismic-event-le-pen-s-party-makes-historic-breakthrough-in-french-parliament",
+        "timestamp": 1655683767,
+        "sentiment": 3,
+        "published": "June 19, 2022 8:09 PM"
+    },
+    {
+        "title": "Netflix accounts for about 75% of the most watched programs on streaming so far this year (in the US), per Nielsen.",
+        "domain": "bloomberg.com",
+        "category": "television",
+        "link": "https://www.bloomberg.com/news/newsletters/2022-06-19/the-new-normal-theme-parks-are-back-movies-aren-t-yet-and-streaming-is-bigger-than-ever",
+        "timestamp": 1655684221,
+        "sentiment": 0,
+        "published": "June 19, 2022 8:17 PM"
+    },
+    {
+        "title": "‘Just give us an answer’: Family of U.S. veteran missing in Ukraine hope he is alive",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/just-give-us-answer-family-us-veteran-missing-ukraine-hope-alive-rcna34291",
+        "timestamp": 1655686865,
+        "sentiment": 4,
+        "published": "June 19, 2022 9:01 PM"
+    },
+    {
+        "title": "Dissatisfaction in the Tesla factory in Grünheide: employees are leaving the company",
+        "domain": "www-stern-de.translate.goog",
+        "category": "technology",
+        "link": "https://www-stern-de.translate.goog/auto/e-mobilitaet/unzufriedenheit-bei-tesla-in-gruenheide--beschaeftigte-verlassen-unternehmen-31961868.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+        "timestamp": 1655687426,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:10 PM"
+    },
+    {
+        "title": "Better Call Saul Begins Push for Bob Odenkirk to Be Emmy-Nominated for Final Season",
+        "domain": "movieweb.com",
+        "category": "television",
+        "link": "https://movieweb.com/bob-odenkirk-saul-season-6-campaign-emmy/",
+        "timestamp": 1655690261,
+        "sentiment": 0,
+        "published": "June 19, 2022 9:57 PM"
+    },
+    {
+        "title": "Florida Judge recommended by Ron DeSantis lied on an application to be on the state Supreme Court — a misdemeanor",
+        "domain": "rawstory.com",
+        "category": "florida",
+        "link": "https://www.rawstory.com/florida-judge-ron-desantis-lied/",
+        "timestamp": 1655691276,
+        "sentiment": 0,
+        "published": "June 19, 2022 10:14 PM"
     },
     {
         "title": "Internet Explorer's final resting place: as a 'world-class joke' in South Korea",
@@ -18,51 +468,6 @@
         "published": "June 19, 2022 5:18 AM"
     },
     {
-        "title": "Kazakhstan FM calls for elimination of all nuclear weapons by 2045",
-        "domain": "news.am",
-        "category": "worldnews",
-        "link": "https://news.am/eng/news/707992.html",
-        "timestamp": 1655635169,
-        "sentiment": -6,
-        "published": "June 19, 2022 6:39 AM"
-    },
-    {
-        "title": "Texas GOP declares Biden illegitimate, demands end to abortion",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/texas-gop-declares-biden-illegitimate-demands-end-abortion-1717167",
-        "timestamp": 1655635417,
-        "sentiment": 2,
-        "published": "June 19, 2022 6:43 AM"
-    },
-    {
-        "title": "A long lost episode of \"Sesame Street\" from 1976, deemed \"too scary\" by parents for featuring Margaret Hamilton as the Wicked Witch, has at last been found and preserved by the Library of Congress.",
-        "domain": "avclub.com",
-        "category": "television",
-        "link": "https://www.avclub.com/lost-wicked-witch-sesame-street-episode-online-1849081598",
-        "timestamp": 1655637009,
-        "sentiment": 2,
-        "published": "June 19, 2022 7:10 AM"
-    },
-    {
-        "title": "Unprecedented heatwave cooks western Europe, with temperatures hitting 43C",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/2022/06/18/unprecedented-heatwave-cooks-western-europe-with-temperatures-hitting-43c",
-        "timestamp": 1655637983,
-        "sentiment": -6,
-        "published": "June 19, 2022 7:26 AM"
-    },
-    {
-        "title": "SpaceX launches and lands 3 rockets in 36 hours.",
-        "domain": "space.com",
-        "category": "technology",
-        "link": "https://www.space.com/spacex-launch-globalstar-satellite-land-rocket",
-        "timestamp": 1655638605,
-        "sentiment": 2,
-        "published": "June 19, 2022 7:36 AM"
-    },
-    {
         "title": "A network of more than two dozen conspiracy theorists, frequently backed by a coordinated Russian campaign, sent thousands of disinformation tweets to distort the reality of the Syrian conflict and deter intervention by the international community",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -70,51 +475,6 @@
         "timestamp": 1655643320,
         "sentiment": -6,
         "published": "June 19, 2022 8:55 AM"
-    },
-    {
-        "title": "Netflix, once the great disruptor, is now taking ideas from the industry it upended to jumpstart growth",
-        "domain": "cnbc.com",
-        "category": "television",
-        "link": "https://www.cnbc.com/2022/06/14/netflix-considers-ads-password-sharing-crackdown-live-sports.html",
-        "timestamp": 1655643348,
-        "sentiment": 2,
-        "published": "June 19, 2022 8:55 AM"
-    },
-    {
-        "title": "Germany to fire up coal plants as Russia turns down the gas",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/germany-to-fire-up-coal-plants-as-russia-turns-down-the-gas/a-62182321",
-        "timestamp": 1655643568,
-        "sentiment": -6,
-        "published": "June 19, 2022 8:59 AM"
-    },
-    {
-        "title": "Bumpy road ahead for Elon Musk as Tesla faces losing world's biggest electric car maker crown, study says",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1655644437,
-        "sentiment": 2,
-        "published": "June 19, 2022 9:13 AM"
-    },
-    {
-        "title": "Apple workers vote to unionize at Maryland store",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/technology-tim-cook-baltimore-maryland-e3b6d9008501773153c705ce04cb0a7b",
-        "timestamp": 1655645278,
-        "sentiment": -9,
-        "published": "June 19, 2022 9:27 AM"
-    },
-    {
-        "title": "Cheech Marin's Riverside museum of Chicano art officially opens: 'This is a dear dream'",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/cheech-marin-center-riverside-chicano-art-and-culture/11975191/",
-        "timestamp": 1655645726,
-        "sentiment": -9,
-        "published": "June 19, 2022 9:35 AM"
     },
     {
         "title": "Renewables Ride To The Rescue As Texas Bakes Under Withering Heat",
@@ -135,78 +495,6 @@
         "published": "June 19, 2022 10:19 AM"
     },
     {
-        "title": "Trump must be indicted to \"protect the American people\": Glenn Kirschner",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/trump-must-indicted-protect-american-people-glenn-kirschner-1717176?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1655648666",
-        "timestamp": 1655649822,
-        "sentiment": 2,
-        "published": "June 19, 2022 10:43 AM"
-    },
-    {
-        "title": "Skiing on a sacred mountain: Indigenous Americans stand against a resort’s expansion",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/19/indigenous-native-american-ski-resort-sewage-water-arizona",
-        "timestamp": 1655650343,
-        "sentiment": -9,
-        "published": "June 19, 2022 10:52 AM"
-    },
-    {
-        "title": "Russia hides death of flooded \"Moscow\" crew and threatens their relatives for trying to tell the truth",
-        "domain": "tsn.ua",
-        "category": "ukraine",
-        "link": "https://tsn.ua/ato/rosiya-prihovuye-zagibel-chleniv-ekipazhu-zatoplenoyi-moskvi-i-pogrozhuye-yihnim-ridnim-za-sprobi-rozkazati-pravdu-2090632.html",
-        "timestamp": 1655652866,
-        "sentiment": -3,
-        "published": "June 19, 2022 11:34 AM"
-    },
-    {
-        "title": "Xbox wins Daytime Emmy award for 20th anniversary documentary",
-        "domain": "videogameschronicle.com",
-        "category": "television",
-        "link": "https://www.videogameschronicle.com/news/xbox-wins-daytime-emmy-award-for-20th-anniversary-documentary/",
-        "timestamp": 1655652967,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:36 AM"
-    },
-    {
-        "title": "Texas GOP's new platform calls homosexuality 'abnormal' and includes explicitly anti-LGBTQ ideology",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/texas-gops-new-platform-calls-homosexuality-abnormal-2022-6",
-        "timestamp": 1655653585,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:46 AM"
-    },
-    {
-        "title": "Why France is betting on deep tech instead of the metaverse",
-        "domain": "france24.com",
-        "category": "technology",
-        "link": "https://www.france24.com/en/technology/20220618-paris-s-vivatech-conference-why-france-is-betting-on-deep-tech-instead-of-the-metaverse",
-        "timestamp": 1655653617,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:46 AM"
-    },
-    {
-        "title": "Trump lashing out at Jan. 6 panel is \"essentially saying 'yeah I did it'\": Raskin",
-        "domain": "axios.com",
-        "category": "politics",
-        "link": "https://www.axios.com/2022/06/19/trump-confess-jan-6-jamie-raskin",
-        "timestamp": 1655653719,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:48 AM"
-    },
-    {
-        "title": "Fina stops transgender swimmers from competing in women's elite events if they have gone through any part of the process of male puberty, and aim to establish a third, “open” category",
-        "domain": "bbc.co.uk",
-        "category": "sports",
-        "link": "https://www.bbc.co.uk/sport/swimming/61853450",
-        "timestamp": 1655654044,
-        "sentiment": 2,
-        "published": "June 19, 2022 11:54 AM"
-    },
-    {
         "title": "2 men charged in fatal fireworks explosion that killed 4",
         "domain": "abcnews.go.com",
         "category": "news",
@@ -216,123 +504,6 @@
         "published": "June 19, 2022 12:33 PM"
     },
     {
-        "title": "Russia limits exports of noble gases, a key ingredient for making chips",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/technology/russia-limits-exports-noble-gases-key-ingredient-making-chips-2022-06-02/",
-        "timestamp": 1655657365,
-        "sentiment": -9,
-        "published": "June 19, 2022 12:49 PM"
-    },
-    {
-        "title": "'Can You Believe I Lost to This Guy?' Trump Admitted He Lost Election, Former Aide Says",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/trump-admitted-he-lost-report-1370730/",
-        "timestamp": 1655658047,
-        "sentiment": 2,
-        "published": "June 19, 2022 1:00 PM"
-    },
-    {
-        "title": "Pentagon Explores Using SpaceX for Rocket-Deployed Quick Reaction Force",
-        "domain": "theintercept.com",
-        "category": "technology",
-        "link": "https://theintercept.com/2022/06/19/spacex-pentagon-elon-musk-space-defense/",
-        "timestamp": 1655660152,
-        "sentiment": 2,
-        "published": "June 19, 2022 1:35 PM"
-    },
-    {
-        "title": "Ukraine war: British troops must prepare to fight in Europe once again, says new head of Army",
-        "domain": "news.sky.com",
-        "category": "ukraine",
-        "link": "https://news.sky.com/story/ukraine-war-british-troops-must-prepare-to-fight-in-europe-once-again-says-new-head-of-army-12636637",
-        "timestamp": 1655660843,
-        "sentiment": -3,
-        "published": "June 19, 2022 1:47 PM"
-    },
-    {
-        "title": "More Americans say Trump should face charges in connection with Jan. 6: poll",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/3529190-more-americans-say-trump-should-face-charges-in-connection-with-jan-6-poll/",
-        "timestamp": 1655662476,
-        "sentiment": 2,
-        "published": "June 19, 2022 2:14 PM"
-    },
-    {
-        "title": "The Kyiv Independent: ⚡️Moldova bans Russian news, war films to counter propaganda. According to Moldovan news outlet NewsMaker, Moldovan President Maia Sandu signed a law to ban the broadcasting of Russian news programs, political TV shows, and war films in the country.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/KyivIndependent/status/1538581338294722565?t=tjuCZB9GMgCfAr8LG9IQ9A&s=09",
-        "timestamp": 1655663161,
-        "sentiment": -3,
-        "published": "June 19, 2022 2:26 PM"
-    },
-    {
-        "title": "Record-Breaking Voyager spacecraft begins to power down",
-        "domain": "scientificamerican.com",
-        "category": "news",
-        "link": "https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/",
-        "timestamp": 1655663772,
-        "sentiment": -9,
-        "published": "June 19, 2022 2:36 PM"
-    },
-    {
-        "title": "More than 200 killed in Ethiopia in alleged ethnic attack, witnesses say",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/ethiopia-attack-ethnic-amhara-killed/",
-        "timestamp": 1655664608,
-        "sentiment": -9,
-        "published": "June 19, 2022 2:50 PM"
-    },
-    {
-        "title": "Online hate law should address ‘deepfakes’ and disinformation: advisory panel",
-        "domain": "globalnews.ca",
-        "category": "technology",
-        "link": "https://globalnews.ca/news/8931856/online-hate-law-should-address-deepfakes-and-disinformation/",
-        "timestamp": 1655666155,
-        "sentiment": 2,
-        "published": "June 19, 2022 3:15 PM"
-    },
-    {
-        "title": "World swimming bans transgender athletes from women's events",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/transgender-swimmers-new-rules-fina-world-governing-body-c17e99d3121fa964336458b57ae266f7",
-        "timestamp": 1655666211,
-        "sentiment": -9,
-        "published": "June 19, 2022 3:16 PM"
-    },
-    {
-        "title": "Macron loses absolute majority in French parliamentary elections, initial projections show",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/macron-faces-tough-battle-control-parliament-france-votes-2022-06-19/",
-        "timestamp": 1655666766,
-        "sentiment": -6,
-        "published": "June 19, 2022 3:26 PM"
-    },
-    {
-        "title": "Most Americans Don't Want Biden or Trump to Run Again: Poll",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/donald-trump-joe-biden-new-poll-run-election-president-1717171",
-        "timestamp": 1655667358,
-        "sentiment": 2,
-        "published": "June 19, 2022 3:35 PM"
-    },
-    {
-        "title": "Ukraine to restrict Russian books, music in latest cultural break from Moscow",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/ukraine-restrict-russian-books-music-latest-cultural-break-moscow-2022-06-19/?taid=62af804b83c4c6000105a95f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-        "timestamp": 1655669262,
-        "sentiment": -6,
-        "published": "June 19, 2022 4:07 PM"
-    },
-    {
         "title": "Special education teacher sues Loudoun school board following sexual assault claims",
         "domain": "insidenova.com",
         "category": "news",
@@ -340,96 +511,6 @@
         "timestamp": 1655670033,
         "sentiment": -9,
         "published": "June 19, 2022 4:20 PM"
-    },
-    {
-        "title": "Go read this report about a Google contractor who claims he was fired for calling out cult activity",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/6/19/23174605/go-read-this-report-google-contractor-fired-calling-out-cult-activity",
-        "timestamp": 1655670801,
-        "sentiment": 2,
-        "published": "June 19, 2022 4:33 PM"
-    },
-    {
-        "title": "This $280 phone is a lesson in affordability – I hope Apple and Samsung are paying attention",
-        "domain": "techradar.com",
-        "category": "technology",
-        "link": "https://www.techradar.com/news/this-dollar280-phone-is-a-lesson-in-affordability-i-hope-apple-and-samsung-are-paying-attention",
-        "timestamp": 1655670945,
-        "sentiment": 2,
-        "published": "June 19, 2022 4:35 PM"
-    },
-    {
-        "title": "$100M Contract awarded to ship nuclear waste to repository near Carlsbad",
-        "domain": "currentargus.com",
-        "category": "news",
-        "link": "https://www.currentargus.com/story/news/2022/06/18/nuclear-waste-repository-carlsbad-waste-isolation-pilot-plant/65361506007/",
-        "timestamp": 1655671613,
-        "sentiment": -9,
-        "published": "June 19, 2022 4:46 PM"
-    },
-    {
-        "title": "Rep. Adam Kinzinger 'My Party Has Utterly Failed the American People at Truth.'",
-        "domain": "insider.com",
-        "category": "politics",
-        "link": "https://www.insider.com/adam-kinzinger-my-party-failed-the-american-people-at-truth-2022-6",
-        "timestamp": 1655674649,
-        "sentiment": 2,
-        "published": "June 19, 2022 5:37 PM"
-    },
-    {
-        "title": "Montreal protesters go topless after Quebec City police harass sunbathing woman",
-        "domain": "montreal.ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://montreal.ctvnews.ca/montreal-protesters-go-topless-after-quebec-city-police-harass-sunbathing-woman-1.5953682",
-        "timestamp": 1655676544,
-        "sentiment": -6,
-        "published": "June 19, 2022 6:09 PM"
-    },
-    {
-        "title": "Historic victory for leftist Gustavo Petro in Colombia’s presidential elections, the first progressive president since the 1930’s",
-        "domain": "colombiareports.com",
-        "category": "worldnews",
-        "link": "https://colombiareports.com/historic-victory-for-gustavo-petro-in-colombias-elections-quick-count/",
-        "timestamp": 1655676837,
-        "sentiment": -6,
-        "published": "June 19, 2022 6:13 PM"
-    },
-    {
-        "title": "Kinzinger says 'there is violence in the future' after receiving mailed threat to 'execute' him, his wife, and 5-month-old baby",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/kinzinger-received-threat-execute-him-his-wife-5-month-old-2022-6?amp",
-        "timestamp": 1655677318,
-        "sentiment": 2,
-        "published": "June 19, 2022 6:21 PM"
-    },
-    {
-        "title": "Ukraine issues postal stamps of tractor towing away Russian tank",
-        "domain": "m.jpost.com",
-        "category": "worldnews",
-        "link": "https://m.jpost.com/omg/article-709853",
-        "timestamp": 1655680334,
-        "sentiment": -6,
-        "published": "June 19, 2022 7:12 PM"
-    },
-    {
-        "title": "Russian tennis player avoids Wimbledon ban with change of nationality",
-        "domain": "thetimes.co.uk",
-        "category": "sports",
-        "link": "https://www.thetimes.co.uk/article/russian-tennis-player-avoids-wimbledon-ban-with-change-of-nationality-t2f8ljscs",
-        "timestamp": 1655683100,
-        "sentiment": 2,
-        "published": "June 19, 2022 7:58 PM"
-    },
-    {
-        "title": "Netflix accounts for about 75% of the most watched programs on streaming so far this year (in the US), per Nielsen.",
-        "domain": "bloomberg.com",
-        "category": "television",
-        "link": "https://www.bloomberg.com/news/newsletters/2022-06-19/the-new-normal-theme-parks-are-back-movies-aren-t-yet-and-streaming-is-bigger-than-ever",
-        "timestamp": 1655684221,
-        "sentiment": 2,
-        "published": "June 19, 2022 8:17 PM"
     },
     {
         "title": "A Quebec law to boost French has caused an outcry in Canada",
@@ -547,15 +628,6 @@
         "timestamp": 1655638653,
         "sentiment": -1,
         "published": "June 19, 2022 7:37 AM"
-    },
-    {
-        "title": "Kruis with a heel conversion against England as a celebration of his retirement.",
-        "domain": "video.twimg.com",
-        "category": "sports",
-        "link": "https://video.twimg.com/ext_tw_video/1538550733930364929/pu/vid/720x836/xxcYMLXy7fr4eYgD.mp4?tag=12",
-        "timestamp": 1655666214,
-        "sentiment": -3,
-        "published": "June 19, 2022 3:16 PM"
     },
     {
         "title": "NATO chief Stoltenberg warns in Bild am Sonntag that support for Ukraine must not lag. \"If Putin learns from this war that he can simply carry on as he did after the 2008 war in Georgia and the occupation of Crimea in 2014, then we will pay a much higher price.”",
