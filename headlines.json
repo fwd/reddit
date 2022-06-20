@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40313591/better-call-saul-scrapped-season-bob-odenkirk/",
         "timestamp": 1655699011,
-        "sentiment": -6,
+        "sentiment": 1,
         "published": "June 20, 2022 12:23 AM"
     },
     {
@@ -16,6 +16,15 @@
         "timestamp": 1655699542,
         "sentiment": 0,
         "published": "June 20, 2022 12:32 AM"
+    },
+    {
+        "title": "Putin: \"We were never against Ukraine joining EU\"",
+        "domain": "unian.net",
+        "category": "ukraine",
+        "link": "https://www.unian.net/politics/putin-o-vstuplenii-ukrainy-v-es-radi-boga-eto-ih-vybor-novosti-ukraina-11869728.html?utm_source=telegram&utm_medium=social&utm_campaign=unian_channel",
+        "timestamp": 1655704489,
+        "sentiment": 3,
+        "published": "June 20, 2022 1:54 AM"
     },
     {
         "title": "Helsinki University closes China-funded Confucius Institute.",
