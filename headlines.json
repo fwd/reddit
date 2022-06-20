@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40313591/better-call-saul-scrapped-season-bob-odenkirk/",
         "timestamp": 1655699011,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 20, 2022 12:23 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 12:32 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nationalheraldindia.com/world/us-mulls-over-travel-ban-status-for-taliban-members",
         "timestamp": 1655702775,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 20, 2022 1:26 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-dmitry-muratov-journalists-9a6bb6e61350e1bb8221924c1bfe30a3",
         "timestamp": 1655709013,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 3:10 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "worldnews",
         "link": "https://www.japantimes.co.jp/news/2022/06/20/national/crime-legal/japan-court-same-sex-marriage-ruling/",
         "timestamp": 1655710055,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 3:27 AM"
+    },
+    {
+        "title": "Trump said it was a 'foolish' decision for GOP to not be represented on the January 6 panel. He and Republican lawmakers rejected a bipartisan commission last year.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-foolish-decision-gop-not-be-on-january-6-panel-2022-6",
+        "timestamp": 1655710741,
+        "sentiment": -3,
+        "published": "June 20, 2022 3:39 AM"
     },
     {
         "title": "America’s first CRISPR trial is still nearly 100% effective 3 years on",
@@ -50,7 +59,7 @@
         "category": "technology",
         "link": "https://newatlas.com/health-wellbeing/crispr-vertex-long-term-follow-up-gene-editing-sickle-cell/",
         "timestamp": 1655712560,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 20, 2022 4:09 AM"
     },
     {
@@ -59,8 +68,17 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/19/putin-threatens-action-against-ex-soviet-states-if-they-defy-russia-16852614/",
         "timestamp": 1655715418,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 4:56 AM"
+    },
+    {
+        "title": "Belgium hit by protests over cost of living spike",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/belgium-hit-by-protests-over-cost-living-spike-2022-06-20/",
+        "timestamp": 1655716915,
+        "sentiment": 4,
+        "published": "June 20, 2022 5:21 AM"
     },
     {
         "title": "Forget sentience… the worry is that AI copies human bias.",
@@ -68,7 +86,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
         "timestamp": 1655717827,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 20, 2022 5:37 AM"
     },
     {
@@ -77,7 +95,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/firefox-mozilla-2022/",
         "timestamp": 1655718268,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 20, 2022 5:44 AM"
     },
     {
@@ -86,8 +104,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 20, 2022 6:28 AM"
+    },
+    {
+        "title": "Russia says Lithuania's transit ban \"illegal\"",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
+        "timestamp": 1655721023,
+        "sentiment": -2,
+        "published": "June 20, 2022 6:30 AM"
     },
     {
         "title": "Russian-born tennis player Natela Dzalamidze changes nationality to avoid Wimbledon ban",
@@ -95,8 +122,35 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 6:43 AM"
+    },
+    {
+        "title": "Heavy industries in Australia’s regions could cut emissions by 80% and create a jobs bonanza, report says",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/australia-news/2022/jun/20/heavy-industries-in-australias-regions-could-cut-emissions-by-80-and-create-a-jobs-bonanza-report-says",
+        "timestamp": 1655722084,
+        "sentiment": -3,
+        "published": "June 20, 2022 6:48 AM"
+    },
+    {
+        "title": "Texas could secede from U.S. in 2023 as GOP pushes for referendum",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
+        "timestamp": 1655723011,
+        "sentiment": -3,
+        "published": "June 20, 2022 7:03 AM"
+    },
+    {
+        "title": "You Can Run Doom on a Chip From a $15 Ikea Smart Lamp",
+        "domain": "uk.pcmag.com",
+        "category": "technology",
+        "link": "https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp?fs=e&s=cl",
+        "timestamp": 1655724206,
+        "sentiment": -3,
+        "published": "June 20, 2022 7:23 AM"
     },
     {
         "title": "Chinese scientists identify genes for more heat-tolerant rice",
