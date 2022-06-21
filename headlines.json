@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.dexerto.com/business/activision-blizzard-investigation-finds-no-widespread-harassment-at-activision-blizzard-1849369/",
         "timestamp": 1655784269,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 21, 2022 12:04 AM"
     },
     {
@@ -18,21 +18,12 @@
         "published": "June 21, 2022 12:12 AM"
     },
     {
-        "title": "Russia is facing its worst recession in 30 years — and the 'Putin Generation' is paying the price",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/russia-is-facing-its-worst-recession-in-30-years-and-the-putin-generation-is-paying-the-price/ar-AAYGD2Q?ocid=EMMX&cvid=606233fa35214f0b9e0f108c2f2ca90a",
-        "timestamp": 1655784870,
-        "sentiment": 2,
-        "published": "June 21, 2022 12:14 AM"
-    },
-    {
         "title": "Netflix Braces for More Layoffs This Week",
         "domain": "variety.com",
         "category": "technology",
         "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
         "timestamp": 1655786916,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 21, 2022 12:48 AM"
     },
     {
@@ -41,8 +32,35 @@
         "category": "television",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655786999,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 21, 2022 12:49 AM"
+    },
+    {
+        "title": "'Warrior' Season 3 to Begin Production July 18th at HBO Max",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "http://collider.com/warrior-season-3-production-begins-july-hbo-max",
+        "timestamp": 1655787043,
+        "sentiment": 5,
+        "published": "June 21, 2022 12:50 AM"
+    },
+    {
+        "title": "CloudFlare, CDN service that handles ~20% of the internet's traffic, is experiencing a massive outage",
+        "domain": "cloudflarestatus.com",
+        "category": "technology",
+        "link": "https://www.cloudflarestatus.com",
+        "timestamp": 1655794505,
+        "sentiment": 1,
+        "published": "June 21, 2022 2:55 AM"
+    },
+    {
+        "title": "Russia is facing its worst recession in 30 years — and the 'Putin Generation' is paying the price",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/russia-is-facing-its-worst-recession-in-30-years-and-the-putin-generation-is-paying-the-price/ar-AAYGD2Q?ocid=EMMX&cvid=606233fa35214f0b9e0f108c2f2ca90a",
+        "timestamp": 1655784870,
+        "sentiment": 2,
+        "published": "June 21, 2022 12:14 AM"
     },
     {
         "title": "Ukraine Kills 106 Russian Troops Monday in Contentious Donbas Region: UTG",
