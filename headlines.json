@@ -1,20 +1,11 @@
 [
     {
-        "title": "Activision Blizzard finds 'no evidence' of widespread misconduct at Activision Blizzard",
-        "domain": "dexerto.com",
-        "category": "technology",
-        "link": "https://www.dexerto.com/business/activision-blizzard-investigation-finds-no-widespread-harassment-at-activision-blizzard-1849369/",
-        "timestamp": 1655784269,
-        "sentiment": 0,
-        "published": "June 21, 2022 12:04 AM"
-    },
-    {
         "title": "Netflix Braces for More Layoffs This Week",
         "domain": "variety.com",
         "category": "technology",
         "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
         "timestamp": 1655786916,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 12:48 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655786999,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 21, 2022 12:49 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "http://collider.com/warrior-season-3-production-begins-july-hbo-max",
         "timestamp": 1655787043,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 21, 2022 12:50 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://www.cloudflarestatus.com",
         "timestamp": 1655794505,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 2:55 AM"
     },
     {
@@ -50,8 +41,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 4:14 AM"
+    },
+    {
+        "title": "South Korea succeeds in 2nd home-developed space rocket attempt. Becomes 10th country capable of sending a satellite into orbit with its own technology",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Aerospace-Defense/South-Korea-succeeds-in-2nd-home-developed-space-rocket-attempt",
+        "timestamp": 1655800085,
+        "sentiment": 4,
+        "published": "June 21, 2022 4:28 AM"
     },
     {
         "title": "Miami Cop Under Investigation After Telling Black Driver 'This is How You Guys Get Killed' During Traffic Stop [VIDEO]",
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/glasnostgone/status/1539167118935175170?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
         "timestamp": 1655801277,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 21, 2022 4:47 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://torrentfreak.com/judge-recommends-150k-piracy-judgment-against-torrent-site-operator-220620/",
         "timestamp": 1655802068,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 5:01 AM"
     },
     {
@@ -104,8 +104,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivpride/status/1539138248613810177?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
         "timestamp": 1655803213,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 21, 2022 5:20 AM"
+    },
+    {
+        "title": "Thousands of Druids and Pagans watch sunrise at Stonehenge for the summer solstice",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
+        "timestamp": 1655803805,
+        "sentiment": 0,
+        "published": "June 21, 2022 5:30 AM"
     },
     {
         "title": "Switzerland Imports Russian Gold for First Time Since Invasion",
@@ -113,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 5:47 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.telegraph.co.uk/world-news/2022/06/20/spanish-city-makes-urinating-sea-offence/",
         "timestamp": 1655806400,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 6:13 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/uvalde-texas-school-shooting-yet-another-report-police-response-doubt/",
         "timestamp": 1655807668,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "June 21, 2022 6:34 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "technology",
         "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
         "timestamp": 1655809901,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 7:11 AM"
     },
     {
@@ -167,7 +176,7 @@
         "category": "worldnews",
         "link": "https://fortune.com/2022/06/21/rolls-royce-ceo-bonus-pay-raise-wage-increase-inflation-cost-of-living-crisis/",
         "timestamp": 1655810114,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 7:15 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.indiatoday.in/world/story/angry-mob-disrupts-yoga-day-event-male-maldives-govt-watch-1965003-2022-06-21",
         "timestamp": 1655810701,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 7:25 AM"
     },
     {
@@ -194,7 +203,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/21/kellogg-to-split-into-three-independent-companies.html",
         "timestamp": 1655811119,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "June 21, 2022 7:31 AM"
     },
     {
@@ -203,17 +212,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/amid-row-with-west-putin-ally-arrives-russias-kaliningrad-ria-2022-06-21/",
         "timestamp": 1655811193,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 7:33 AM"
-    },
-    {
-        "title": "This Year’s Extreme Weather Is Just Getting Started | “There’s some pretty extraordinary stuff happening, stuff that’s not common at all,” says Paul Pastelok, lead long-range forecaster at AccuWeather.",
-        "domain": "wired.com",
-        "category": "florida",
-        "link": "https://www.wired.com/story/extreme-weather-2022-just-getting-started/?bxid=61649e14034dfb07a27ef80e&cndid=66853574&esrc=growl2-regGate-1120&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Daily_062022&utm_mailing=WIR_Daily_062022&utm_medium=email&utm_source=nl&utm_term=P1",
-        "timestamp": 1655811353,
-        "sentiment": 1,
-        "published": "June 21, 2022 7:35 AM"
     },
     {
         "title": "Uvalde mass shooting: Photos show armed police waiting in school hallway",
@@ -221,8 +221,17 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61877914",
         "timestamp": 1655812902,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "June 21, 2022 8:01 AM"
+    },
+    {
+        "title": "Non-English Content Has a Bigger Shot Than Ever at 2022 Emmys",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/emmys-non-english-content-television-1235165459/",
+        "timestamp": 1655813699,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:14 AM"
     },
     {
         "title": "Brooks Koepka becomes latest star golfer to leave PGA Tour for LIV Golf Series, sources confirm.",
@@ -243,6 +252,33 @@
         "published": "June 21, 2022 8:42 AM"
     },
     {
+        "title": "11 officers responded to Uvalde shooting within 3 minutes, source says, as new reports reveal how authorities then waited to engage",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/21/us/uvalde-texas-school-shooting-footage-police-response/index.html",
+        "timestamp": 1655815344,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:42 AM"
+    },
+    {
+        "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
+        "timestamp": 1655815477,
+        "sentiment": -1,
+        "published": "June 21, 2022 8:44 AM"
+    },
+    {
+        "title": "Man mauled by 3 dogs in Huffman dies, had legs, arm amputated",
+        "domain": "fox10phoenix.com",
+        "category": "news",
+        "link": "https://www.fox10phoenix.com/news/man-mauled-3-dogs-huffman-dies-had-legs-arm-amputated#l4o5rdz133mo9isbpy",
+        "timestamp": 1655815593,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:46 AM"
+    },
+    {
         "title": "Katie Ledecky finished 14 seconds ahead of the next-fastest swimmer in her latest World Championship win.",
         "domain": "insider.com",
         "category": "sports",
@@ -250,6 +286,69 @@
         "timestamp": 1655815694,
         "sentiment": 0,
         "published": "June 21, 2022 8:48 AM"
+    },
+    {
+        "title": "Uvalde shooting: Photos show armed police waiting in school hallway",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-61877914",
+        "timestamp": 1655815739,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:48 AM"
+    },
+    {
+        "title": "NASA is starting to shut down the Voyager probes, which launched in 1977 and made it deeper into space than anything since",
+        "domain": "news.yahoo.com",
+        "category": "technology",
+        "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
+        "timestamp": 1655815790,
+        "sentiment": 4,
+        "published": "June 21, 2022 8:49 AM"
+    },
+    {
+        "title": "Panzerhaubitze 2000 are finally part of 155 mm howitzer arsenal of the Ukrainian artillery.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
+        "timestamp": 1655815945,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:52 AM"
+    },
+    {
+        "title": "Russian border guard helicopter violates Estonia’s airspace.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
+        "timestamp": 1655816454,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:00 AM"
+    },
+    {
+        "title": "Arrested Patriot Front Brothers Have Ties to Apocalyptic Christian Nationalist Church",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/93a5da/patriot-front-arrests-on-fire-ministries-ties",
+        "timestamp": 1655816811,
+        "sentiment": -1,
+        "published": "June 21, 2022 9:06 AM"
+    },
+    {
+        "title": "Activision Blizzard finds 'no evidence' of widespread misconduct at Activision Blizzard",
+        "domain": "dexerto.com",
+        "category": "technology",
+        "link": "https://www.dexerto.com/business/activision-blizzard-investigation-finds-no-widespread-harassment-at-activision-blizzard-1849369/",
+        "timestamp": 1655784269,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:04 AM"
+    },
+    {
+        "title": "This Year’s Extreme Weather Is Just Getting Started | “There’s some pretty extraordinary stuff happening, stuff that’s not common at all,” says Paul Pastelok, lead long-range forecaster at AccuWeather.",
+        "domain": "wired.com",
+        "category": "florida",
+        "link": "https://www.wired.com/story/extreme-weather-2022-just-getting-started/?bxid=61649e14034dfb07a27ef80e&cndid=66853574&esrc=growl2-regGate-1120&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Daily_062022&utm_mailing=WIR_Daily_062022&utm_medium=email&utm_source=nl&utm_term=P1",
+        "timestamp": 1655811353,
+        "sentiment": 1,
+        "published": "June 21, 2022 7:35 AM"
     },
     {
         "title": "black bear shot and killed by sheriff deputy in Royal Palm Beach, FL without cause",
