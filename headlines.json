@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 4:14 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/glasnostgone/status/1539167118935175170?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
         "timestamp": 1655801277,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 4:47 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/adam-kinzinger-shares-letter-threatening-execute-family-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655802421,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 21, 2022 5:07 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/poll-americans-support-charging-trump-jan-6-crimes-rcna34391",
         "timestamp": 1655802919,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 21, 2022 5:15 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivpride/status/1539138248613810177?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
         "timestamp": 1655803213,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 5:20 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
         "timestamp": 1655803805,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 5:30 AM"
     },
     {
@@ -122,17 +122,8 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 5:47 AM"
-    },
-    {
-        "title": "Spanish city makes urinating in the sea an offence carrying a fine of up to 750 euros",
-        "domain": "telegraph.co.uk",
-        "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/world-news/2022/06/20/spanish-city-makes-urinating-sea-offence/",
-        "timestamp": 1655806400,
-        "sentiment": 0,
-        "published": "June 21, 2022 6:13 AM"
     },
     {
         "title": "GOP senators downplay Jan. 6 panel’s importance",
@@ -140,8 +131,17 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3530424-gop-senators-downplay-jan-6-panels-importance/",
         "timestamp": 1655806454,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 21, 2022 6:14 AM"
+    },
+    {
+        "title": "EU says Lithuania acted ‘by the book’ in Kaliningrad transit standoff with Russia",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1724109/eu-says-lithuania-acted-by-the-book-in-kaliningrad-transit-standoff-with-russia",
+        "timestamp": 1655806861,
+        "sentiment": -1,
+        "published": "June 21, 2022 6:21 AM"
     },
     {
         "title": "More reports cast doubt on police response to Uvalde school shooting",
@@ -160,6 +160,186 @@
         "timestamp": 1655809901,
         "sentiment": 4,
         "published": "June 21, 2022 7:11 AM"
+    },
+    {
+        "title": "Moscow fumes after EU cuts off shipments to Baltic outpost",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/ukraine-president-expects-russia-attacks-intensify-with-eu-summit-this-week-2022-06-20/",
+        "timestamp": 1655810209,
+        "sentiment": -1,
+        "published": "June 21, 2022 7:16 AM"
+    },
+    {
+        "title": "Black Pastor Lashes Christian 'Political Whores' For Trump At Southern Baptist Convention — “I think some Southern Baptists lost their minds when a Black man was elected president,\" said minister Kevin Smith.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/kevin-smith-trump-southern-baptist-political-whores_n_62b10fa5e4b0cdccbe61b252",
+        "timestamp": 1655810995,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:29 AM"
+    },
+    {
+        "title": "Kellogg to split into three independent companies",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/21/kellogg-to-split-into-three-independent-companies.html",
+        "timestamp": 1655811119,
+        "sentiment": -8,
+        "published": "June 21, 2022 7:31 AM"
+    },
+    {
+        "title": "FBI ballot fraud investigation in Rensselaer County shifts to GOP elections commissioner",
+        "domain": "timesunion.com",
+        "category": "politics",
+        "link": "https://www.timesunion.com/state/article/FBI-ballot-fraud-investigation-shifts-to-GOP-17253564.php",
+        "timestamp": 1655811755,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:42 AM"
+    },
+    {
+        "title": "Uvalde mass shooting: Photos show armed police waiting in school hallway",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-61877914",
+        "timestamp": 1655812902,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:01 AM"
+    },
+    {
+        "title": "Putin's Ukraine Body Count: 34,100 Dead, Nearly 1,500 Tanks Destroyed",
+        "domain": "19fortyfive.com",
+        "category": "worldnews",
+        "link": "https://www.19fortyfive.com/2022/06/putins-ukraine-body-count-34100-dead-nearly-1500-tanks-destroyed/",
+        "timestamp": 1655813431,
+        "sentiment": -1,
+        "published": "June 21, 2022 8:10 AM"
+    },
+    {
+        "title": "Non-English Content Has a Bigger Shot Than Ever at 2022 Emmys",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/emmys-non-english-content-television-1235165459/",
+        "timestamp": 1655813699,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:14 AM"
+    },
+    {
+        "title": "Brooks Koepka becomes latest star golfer to leave PGA Tour for LIV Golf Series, sources confirm.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/golf/story/_/id/34124761/brooks-koepka-becomes-latest-star-golfer-leave-pga-tour-liv-golf-series-sources-confirm",
+        "timestamp": 1655814892,
+        "sentiment": -1,
+        "published": "June 21, 2022 8:34 AM"
+    },
+    {
+        "title": "Brooks Koepka joins LIV Golf",
+        "domain": "sports.yahoo.com",
+        "category": "sports",
+        "link": "https://sports.yahoo.com/brooks-koepka-quit-pga-tour-103932588.html",
+        "timestamp": 1655815333,
+        "sentiment": -1,
+        "published": "June 21, 2022 8:42 AM"
+    },
+    {
+        "title": "11 officers responded to Uvalde shooting within 3 minutes, source says, as new reports reveal how authorities then waited to engage",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/21/us/uvalde-texas-school-shooting-footage-police-response/index.html",
+        "timestamp": 1655815344,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:42 AM"
+    },
+    {
+        "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
+        "timestamp": 1655815477,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:44 AM"
+    },
+    {
+        "title": "Man mauled by 3 dogs in Huffman dies, had legs, arm amputated",
+        "domain": "fox10phoenix.com",
+        "category": "news",
+        "link": "https://www.fox10phoenix.com/news/man-mauled-3-dogs-huffman-dies-had-legs-arm-amputated#l4o5rdz133mo9isbpy",
+        "timestamp": 1655815593,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:46 AM"
+    },
+    {
+        "title": "Katie Ledecky finished 14 seconds ahead of the next-fastest swimmer in her latest World Championship win.",
+        "domain": "insider.com",
+        "category": "sports",
+        "link": "https://www.insider.com/katie-ledecky-14-second-win-1500-world-championships-video-2022-6",
+        "timestamp": 1655815694,
+        "sentiment": -1,
+        "published": "June 21, 2022 8:48 AM"
+    },
+    {
+        "title": "Uvalde shooting: Photos show armed police waiting in school hallway",
+        "domain": "bbc.co.uk",
+        "category": "news",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-61877914",
+        "timestamp": 1655815739,
+        "sentiment": -8,
+        "published": "June 21, 2022 8:48 AM"
+    },
+    {
+        "title": "NASA is starting to shut down the Voyager probes, which launched in 1977 and made it deeper into space than anything since",
+        "domain": "news.yahoo.com",
+        "category": "technology",
+        "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
+        "timestamp": 1655815790,
+        "sentiment": 4,
+        "published": "June 21, 2022 8:49 AM"
+    },
+    {
+        "title": "Panzerhaubitze 2000 are finally part of 155 mm howitzer arsenal of the Ukrainian artillery.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
+        "timestamp": 1655815945,
+        "sentiment": 3,
+        "published": "June 21, 2022 8:52 AM"
+    },
+    {
+        "title": "Russian border guard helicopter violates Estonia’s airspace.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
+        "timestamp": 1655816454,
+        "sentiment": -1,
+        "published": "June 21, 2022 9:00 AM"
+    },
+    {
+        "title": "The Founders Feared a Tyranny of the Majority, but What We Have Is a Tyranny of a Fanatical Minority",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/166848/gop-minority-rule-gun-safety",
+        "timestamp": 1655818764,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:39 AM"
+    },
+    {
+        "title": "Way Too Early Top 25",
+        "domain": "stadiumrant.com",
+        "category": "sports",
+        "link": "https://stadiumrant.com/2022/06/21/college-football-rankings-2022-way-too-early-top-25/",
+        "timestamp": 1655823777,
+        "sentiment": -1,
+        "published": "June 21, 2022 11:02 AM"
+    },
+    {
+        "title": "Spanish city makes urinating in the sea an offence carrying a fine of up to 750 euros",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/06/20/spanish-city-makes-urinating-sea-offence/",
+        "timestamp": 1655806400,
+        "sentiment": 0,
+        "published": "June 21, 2022 6:13 AM"
     },
     {
         "title": "Study Shows Excess Corporate Profits in the US Have Become 'Widespread' | A new research paper finds that corporate price markups and profits jumped to their highest levels in seven decades last year.",
@@ -189,24 +369,6 @@
         "published": "June 21, 2022 7:25 AM"
     },
     {
-        "title": "Black Pastor Lashes Christian 'Political Whores' For Trump At Southern Baptist Convention — “I think some Southern Baptists lost their minds when a Black man was elected president,\" said minister Kevin Smith.",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/kevin-smith-trump-southern-baptist-political-whores_n_62b10fa5e4b0cdccbe61b252",
-        "timestamp": 1655810995,
-        "sentiment": -1,
-        "published": "June 21, 2022 7:29 AM"
-    },
-    {
-        "title": "Kellogg to split into three independent companies",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/21/kellogg-to-split-into-three-independent-companies.html",
-        "timestamp": 1655811119,
-        "sentiment": -8,
-        "published": "June 21, 2022 7:31 AM"
-    },
-    {
         "title": "Russia tells Lithuania: your citizens will feel the pain over Kaliningrad",
         "domain": "reuters.com",
         "category": "worldnews",
@@ -214,114 +376,6 @@
         "timestamp": 1655811193,
         "sentiment": 0,
         "published": "June 21, 2022 7:33 AM"
-    },
-    {
-        "title": "Uvalde mass shooting: Photos show armed police waiting in school hallway",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-us-canada-61877914",
-        "timestamp": 1655812902,
-        "sentiment": -8,
-        "published": "June 21, 2022 8:01 AM"
-    },
-    {
-        "title": "Non-English Content Has a Bigger Shot Than Ever at 2022 Emmys",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/emmys-non-english-content-television-1235165459/",
-        "timestamp": 1655813699,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:14 AM"
-    },
-    {
-        "title": "Brooks Koepka becomes latest star golfer to leave PGA Tour for LIV Golf Series, sources confirm.",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/golf/story/_/id/34124761/brooks-koepka-becomes-latest-star-golfer-leave-pga-tour-liv-golf-series-sources-confirm",
-        "timestamp": 1655814892,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:34 AM"
-    },
-    {
-        "title": "Brooks Koepka joins LIV Golf",
-        "domain": "sports.yahoo.com",
-        "category": "sports",
-        "link": "https://sports.yahoo.com/brooks-koepka-quit-pga-tour-103932588.html",
-        "timestamp": 1655815333,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:42 AM"
-    },
-    {
-        "title": "11 officers responded to Uvalde shooting within 3 minutes, source says, as new reports reveal how authorities then waited to engage",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/21/us/uvalde-texas-school-shooting-footage-police-response/index.html",
-        "timestamp": 1655815344,
-        "sentiment": -8,
-        "published": "June 21, 2022 8:42 AM"
-    },
-    {
-        "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
-        "timestamp": 1655815477,
-        "sentiment": -1,
-        "published": "June 21, 2022 8:44 AM"
-    },
-    {
-        "title": "Man mauled by 3 dogs in Huffman dies, had legs, arm amputated",
-        "domain": "fox10phoenix.com",
-        "category": "news",
-        "link": "https://www.fox10phoenix.com/news/man-mauled-3-dogs-huffman-dies-had-legs-arm-amputated#l4o5rdz133mo9isbpy",
-        "timestamp": 1655815593,
-        "sentiment": -8,
-        "published": "June 21, 2022 8:46 AM"
-    },
-    {
-        "title": "Katie Ledecky finished 14 seconds ahead of the next-fastest swimmer in her latest World Championship win.",
-        "domain": "insider.com",
-        "category": "sports",
-        "link": "https://www.insider.com/katie-ledecky-14-second-win-1500-world-championships-video-2022-6",
-        "timestamp": 1655815694,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:48 AM"
-    },
-    {
-        "title": "Uvalde shooting: Photos show armed police waiting in school hallway",
-        "domain": "bbc.co.uk",
-        "category": "news",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-61877914",
-        "timestamp": 1655815739,
-        "sentiment": -8,
-        "published": "June 21, 2022 8:48 AM"
-    },
-    {
-        "title": "NASA is starting to shut down the Voyager probes, which launched in 1977 and made it deeper into space than anything since",
-        "domain": "news.yahoo.com",
-        "category": "technology",
-        "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
-        "timestamp": 1655815790,
-        "sentiment": 4,
-        "published": "June 21, 2022 8:49 AM"
-    },
-    {
-        "title": "Panzerhaubitze 2000 are finally part of 155 mm howitzer arsenal of the Ukrainian artillery.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
-        "timestamp": 1655815945,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:52 AM"
-    },
-    {
-        "title": "Russian border guard helicopter violates Estonia’s airspace.",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
-        "timestamp": 1655816454,
-        "sentiment": 0,
-        "published": "June 21, 2022 9:00 AM"
     },
     {
         "title": "Arrested Patriot Front Brothers Have Ties to Apocalyptic Christian Nationalist Church",
