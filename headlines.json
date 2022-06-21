@@ -5,17 +5,8 @@
         "category": "television",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655786999,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 21, 2022 12:49 AM"
-    },
-    {
-        "title": "'Warrior' Season 3 to Begin Production July 18th at HBO Max",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "http://collider.com/warrior-season-3-production-begins-july-hbo-max",
-        "timestamp": 1655787043,
-        "sentiment": -1,
-        "published": "June 21, 2022 12:50 AM"
     },
     {
         "title": "US ban on cotton from forced Uyghur labour comes into force | Uyghurs",
@@ -32,7 +23,7 @@
         "category": "miami",
         "link": "https://www.ibtimes.sg/miami-cop-under-investigation-after-telling-black-driver-this-how-you-guys-get-killed-during-65346",
         "timestamp": 1655801088,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 4:44 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://torrentfreak.com/judge-recommends-150k-piracy-judgment-against-torrent-site-operator-220620/",
         "timestamp": 1655802068,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 5:01 AM"
     },
     {
@@ -61,24 +52,6 @@
         "timestamp": 1655807668,
         "sentiment": 0,
         "published": "June 21, 2022 6:34 AM"
-    },
-    {
-        "title": "Leaked 'chat control' document: Will Germany fight for privacy? The German government has asked tough questions from the EU Commission on their planned surveillance law.",
-        "domain": "tutanota.com",
-        "category": "technology",
-        "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
-        "timestamp": 1655809901,
-        "sentiment": 0,
-        "published": "June 21, 2022 7:11 AM"
-    },
-    {
-        "title": "Black Pastor Lashes Christian 'Political Whores' For Trump At Southern Baptist Convention — “I think some Southern Baptists lost their minds when a Black man was elected president,\" said minister Kevin Smith.",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/kevin-smith-trump-southern-baptist-political-whores_n_62b10fa5e4b0cdccbe61b252",
-        "timestamp": 1655810995,
-        "sentiment": 1,
-        "published": "June 21, 2022 7:29 AM"
     },
     {
         "title": "Kellogg to split into three independent companies",
@@ -140,7 +113,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
         "timestamp": 1655815790,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 8:49 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
         "timestamp": 1655815945,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 8:52 AM"
     },
     {
@@ -180,15 +153,6 @@
         "published": "June 21, 2022 9:39 AM"
     },
     {
-        "title": "1st Native American US treasurer to be appointed, head Mint",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/marilynn-malerba-us-treasurer-01c0ba726b3d930bb28d50f0099b8133",
-        "timestamp": 1655819313,
-        "sentiment": 0,
-        "published": "June 21, 2022 9:48 AM"
-    },
-    {
         "title": "Supreme Court OKs use of public money for religious education",
         "domain": "nbcnews.com",
         "category": "politics",
@@ -212,7 +176,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-orcs-exclusive",
         "timestamp": 1655824075,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 21, 2022 11:07 AM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1539269928888442882",
         "timestamp": 1655825870,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 11:37 AM"
     },
     {
@@ -279,15 +243,6 @@
         "published": "June 21, 2022 12:10 PM"
     },
     {
-        "title": "Sharks getting closer to crowded [Miami] beaches than you might think, study warns",
-        "domain": "studyfinds.org",
-        "category": "miami",
-        "link": "https://www.studyfinds.org/sharks-closer-to-beaches/",
-        "timestamp": 1655827917,
-        "sentiment": 0,
-        "published": "June 21, 2022 12:11 PM"
-    },
-    {
         "title": "‘This is how you guys get killed out here,’ Florida cop tells Black driver questioning traffic stop",
         "domain": "union-bulletin.com",
         "category": "news",
@@ -311,7 +266,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-polytics/3512004-luxembourg-commits-15-of-defense-budget-to-support-ukraine-army-zelensky.html",
         "timestamp": 1655829421,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 12:37 PM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-ready-astronomer-explains",
         "timestamp": 1655830646,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 12:57 PM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "technology",
         "link": "https://www.wsj.com/articles/vegas-company-promised-fast-internet-rural-america-waitsand-waits-11655809200",
         "timestamp": 1655833642,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 1:47 PM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/zoe-kazan-florence-pugh-east-of-eden-netflix-anonymous-content-and-endeavor-content-1235048776/",
         "timestamp": 1655835392,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 21, 2022 2:16 PM"
     },
     {
@@ -414,6 +369,15 @@
         "published": "June 21, 2022 3:03 PM"
     },
     {
+        "title": "Jan. 6 hearing exposes sitting members of Congress' involvement in fake electors scheme",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/msnbc/watch/jan-6-hearing-exposes-sitting-members-of-congress-involvement-in-fake-electors-scheme-142535237941",
+        "timestamp": 1655838295,
+        "sentiment": 1,
+        "published": "June 21, 2022 3:04 PM"
+    },
+    {
         "title": "Luxembourg commits 15% of defense budget to support Ukraine Army",
         "domain": "ukrinform.net",
         "category": "worldnews",
@@ -428,7 +392,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/amc-renews-dark-winds-season-2-zahn-mcclarnon/",
         "timestamp": 1655838935,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 21, 2022 3:15 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "technology",
         "link": "https://www.techspot.com/news/95012-nasa-begins-switching-off-voyager-instruments-after-almost.html",
         "timestamp": 1655840704,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 3:45 PM"
     },
     {
@@ -459,12 +423,21 @@
         "published": "June 21, 2022 3:55 PM"
     },
     {
+        "title": "‘Jeopardy!’ Host Mayim Bialik Tests Positive for COVID-19: “It’s Very, Very Exhausting”",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jeopardy-host-mayim-bialik-covid-1235169282/",
+        "timestamp": 1655841702,
+        "sentiment": 2,
+        "published": "June 21, 2022 4:01 PM"
+    },
+    {
         "title": "DeSantis okays law to let local governments restrict smoking at parks and beaches",
         "domain": "wusfnews.wusf.usf.edu",
         "category": "florida",
         "link": "https://wusfnews.wusf.usf.edu/health-news-florida/2022-06-19/desantis-okays-law-to-let-local-governments-restrict-smoking-at-parks-and-beaches",
         "timestamp": 1655842011,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 4:06 PM"
     },
     {
@@ -473,8 +446,80 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/energy/texas-power-use-breaks-record-again-more-come-heatwave-lingers-2022-06-21/?rpc=401&",
         "timestamp": 1655842276,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 4:11 PM"
+    },
+    {
+        "title": "Bryan Cranston, Aaron Paul might have bigger Better Call Saul roles",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/drama/better-call-saul-bryan-cranston-aaron-paul-newsupdate/",
+        "timestamp": 1655843484,
+        "sentiment": 2,
+        "published": "June 21, 2022 4:31 PM"
+    },
+    {
+        "title": "US prison workers produce $11bn worth of goods and services a year for pittance | US news",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/15/us-prison-workers-low-wages-exploited",
+        "timestamp": 1655845347,
+        "sentiment": 0,
+        "published": "June 21, 2022 5:02 PM"
+    },
+    {
+        "title": "Mega says it can’t decrypt your files. New POC exploit shows otherwise. Fundamental flaws uncovered in Mega's encryption scheme show service can read your data.",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/information-technology/2022/06/mega-says-it-cant-decrypt-your-files-new-poc-exploit-shows-otherwise/",
+        "timestamp": 1655847138,
+        "sentiment": -2,
+        "published": "June 21, 2022 5:32 PM"
+    },
+    {
+        "title": "'Warrior' Season 3 to Begin Production July 18th at HBO Max",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "http://collider.com/warrior-season-3-production-begins-july-hbo-max",
+        "timestamp": 1655787043,
+        "sentiment": -1,
+        "published": "June 21, 2022 12:50 AM"
+    },
+    {
+        "title": "Leaked 'chat control' document: Will Germany fight for privacy? The German government has asked tough questions from the EU Commission on their planned surveillance law.",
+        "domain": "tutanota.com",
+        "category": "technology",
+        "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
+        "timestamp": 1655809901,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:11 AM"
+    },
+    {
+        "title": "Black Pastor Lashes Christian 'Political Whores' For Trump At Southern Baptist Convention — “I think some Southern Baptists lost their minds when a Black man was elected president,\" said minister Kevin Smith.",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/kevin-smith-trump-southern-baptist-political-whores_n_62b10fa5e4b0cdccbe61b252",
+        "timestamp": 1655810995,
+        "sentiment": 1,
+        "published": "June 21, 2022 7:29 AM"
+    },
+    {
+        "title": "1st Native American US treasurer to be appointed, head Mint",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/marilynn-malerba-us-treasurer-01c0ba726b3d930bb28d50f0099b8133",
+        "timestamp": 1655819313,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:48 AM"
+    },
+    {
+        "title": "Sharks getting closer to crowded [Miami] beaches than you might think, study warns",
+        "domain": "studyfinds.org",
+        "category": "miami",
+        "link": "https://www.studyfinds.org/sharks-closer-to-beaches/",
+        "timestamp": 1655827917,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:11 PM"
     },
     {
         "title": "South Korea succeeds in 2nd home-developed space rocket attempt. Becomes 10th country capable of sending a satellite into orbit with its own technology",
