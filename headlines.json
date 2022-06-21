@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.dexerto.com/business/activision-blizzard-investigation-finds-no-widespread-harassment-at-activision-blizzard-1849369/",
         "timestamp": 1655784269,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 21, 2022 12:04 AM"
     },
     {
@@ -23,8 +23,17 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russia-is-facing-its-worst-recession-in-30-years-and-the-putin-generation-is-paying-the-price/ar-AAYGD2Q?ocid=EMMX&cvid=606233fa35214f0b9e0f108c2f2ca90a",
         "timestamp": 1655784870,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 21, 2022 12:14 AM"
+    },
+    {
+        "title": "Netflix Braces for More Layoffs This Week",
+        "domain": "variety.com",
+        "category": "technology",
+        "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
+        "timestamp": 1655786916,
+        "sentiment": 2,
+        "published": "June 21, 2022 12:48 AM"
     },
     {
         "title": "Paramount: we won’t remove content from eras with ‘different sensibilities’",
@@ -32,8 +41,17 @@
         "category": "television",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655786999,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 21, 2022 12:49 AM"
+    },
+    {
+        "title": "Ukraine Kills 106 Russian Troops Monday in Contentious Donbas Region: UTG",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukraine-kills-106-russian-troops-monday-contentious-donbas-region-utg-1717466",
+        "timestamp": 1655787747,
+        "sentiment": 2,
+        "published": "June 21, 2022 1:02 AM"
     },
     {
         "title": "Putin ‘threatens action’ against ex-Soviet states if they defy Russia",
@@ -322,15 +340,6 @@
         "timestamp": 1655760647,
         "sentiment": -2,
         "published": "June 20, 2022 5:30 PM"
-    },
-    {
-        "title": "Netflix Braces for More Layoffs This Week",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
-        "timestamp": 1655761158,
-        "sentiment": 5,
-        "published": "June 20, 2022 5:39 PM"
     },
     {
         "title": "Redfin approves millions in executive payouts same day of mass layoffs",
