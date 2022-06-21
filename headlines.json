@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
         "timestamp": 1655786916,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 12:48 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.cloudflarestatus.com",
         "timestamp": 1655794505,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 2:55 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 4:14 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "technology",
         "link": "https://asia.nikkei.com/Business/Aerospace-Defense/South-Korea-succeeds-in-2nd-home-developed-space-rocket-attempt",
         "timestamp": 1655800085,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 4:28 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "miami",
         "link": "https://www.ibtimes.sg/miami-cop-under-investigation-after-telling-black-driver-this-how-you-guys-get-killed-during-65346",
         "timestamp": 1655801088,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 4:44 AM"
-    },
-    {
-        "title": "BBC News have stopped their live news coverage of Russia's invasion of Ukraine. This is music to putin’s propaganda ears, as he hopes his continued genocide in 🇺🇦 will fade from world view",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/glasnostgone/status/1539167118935175170?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
-        "timestamp": 1655801277,
-        "sentiment": -12,
-        "published": "June 21, 2022 4:47 AM"
     },
     {
         "title": "Judge Recommends $150k Piracy Judgment Against Torrent Site Operator",
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://torrentfreak.com/judge-recommends-150k-piracy-judgment-against-torrent-site-operator-220620/",
         "timestamp": 1655802068,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 5:01 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/kyivpride/status/1539138248613810177?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
         "timestamp": 1655803213,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 5:20 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
         "timestamp": 1655803805,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 5:30 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 5:47 AM"
     },
     {
@@ -140,17 +131,8 @@
         "category": "technology",
         "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
         "timestamp": 1655809901,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 7:11 AM"
-    },
-    {
-        "title": "Moscow fumes after EU cuts off shipments to Baltic outpost",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/middle-east/ukraine-president-expects-russia-attacks-intensify-with-eu-summit-this-week-2022-06-20/",
-        "timestamp": 1655810209,
-        "sentiment": -1,
-        "published": "June 21, 2022 7:16 AM"
     },
     {
         "title": "Black Pastor Lashes Christian 'Political Whores' For Trump At Southern Baptist Convention — “I think some Southern Baptists lost their minds when a Black man was elected president,\" said minister Kevin Smith.",
@@ -171,39 +153,12 @@
         "published": "June 21, 2022 7:31 AM"
     },
     {
-        "title": "This Year’s Extreme Weather Is Just Getting Started | “There’s some pretty extraordinary stuff happening, stuff that’s not common at all,” says Paul Pastelok, lead long-range forecaster at AccuWeather.",
-        "domain": "wired.com",
-        "category": "florida",
-        "link": "https://www.wired.com/story/extreme-weather-2022-just-getting-started/?bxid=61649e14034dfb07a27ef80e&cndid=66853574&esrc=growl2-regGate-1120&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Daily_062022&utm_mailing=WIR_Daily_062022&utm_medium=email&utm_source=nl&utm_term=P1",
-        "timestamp": 1655811353,
-        "sentiment": 0,
-        "published": "June 21, 2022 7:35 AM"
-    },
-    {
-        "title": "California drought: ‘Smart’ water meters coming to San Jose, other Bay Area cities in latest effort to boost conservation",
-        "domain": "sanluisobispo.com",
-        "category": "technology",
-        "link": "https://www.sanluisobispo.com/news/business/article262696927.html",
-        "timestamp": 1655811380,
-        "sentiment": 1,
-        "published": "June 21, 2022 7:36 AM"
-    },
-    {
         "title": "FBI ballot fraud investigation in Rensselaer County shifts to GOP elections commissioner",
         "domain": "timesunion.com",
         "category": "politics",
         "link": "https://www.timesunion.com/state/article/FBI-ballot-fraud-investigation-shifts-to-GOP-17253564.php",
         "timestamp": 1655811755,
         "sentiment": -4,
-        "published": "June 21, 2022 7:42 AM"
-    },
-    {
-        "title": "Nobel sold for Ukrainian kids shatters record at $103.5 million",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/21/nobel-sold-for-ukrainian-kids-shatters-record-at-103point5-million.html",
-        "timestamp": 1655811759,
-        "sentiment": 0,
         "published": "June 21, 2022 7:42 AM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.19fortyfive.com/2022/06/putins-ukraine-body-count-34100-dead-nearly-1500-tanks-destroyed/",
         "timestamp": 1655813431,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 8:10 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "sports",
         "link": "https://www.espn.com/golf/story/_/id/34124761/brooks-koepka-becomes-latest-star-golfer-leave-pga-tour-liv-golf-series-sources-confirm",
         "timestamp": 1655814892,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 21, 2022 8:34 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
         "timestamp": 1655815389,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 8:43 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "sports",
         "link": "https://www.insider.com/katie-ledecky-14-second-win-1500-world-championships-video-2022-6",
         "timestamp": 1655815694,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 21, 2022 8:48 AM"
     },
     {
@@ -275,7 +230,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
         "timestamp": 1655815790,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 21, 2022 8:49 AM"
     },
     {
@@ -284,7 +239,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
         "timestamp": 1655815945,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 8:52 AM"
     },
     {
@@ -293,8 +248,26 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
         "timestamp": 1655816454,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 9:00 AM"
+    },
+    {
+        "title": "\"Safety McSafe Face\": The rejected suggestions for naming Ithaca's police force",
+        "domain": "ithacavoice.com",
+        "category": "news",
+        "link": "https://ithacavoice.com/2022/06/safety-mcsafe-face-the-rejected-suggestions-for-naming-ithacas-police-force/",
+        "timestamp": 1655817863,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:24 AM"
+    },
+    {
+        "title": "Citing Threat From Russia, Canada Announces Major Investment In Air Defense",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/canada-norad-investment-russia/31907742.html",
+        "timestamp": 1655818661,
+        "sentiment": -2,
+        "published": "June 21, 2022 9:37 AM"
     },
     {
         "title": "The Founders Feared a Tyranny of the Majority, but What We Have Is a Tyranny of a Fanatical Minority",
@@ -313,6 +286,15 @@
         "timestamp": 1655819313,
         "sentiment": 0,
         "published": "June 21, 2022 9:48 AM"
+    },
+    {
+        "title": "Ukraine thanks Ben Stiller, Angelina Jolie and other stars for visiting \"despite the danger\"",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/ben-stiller-angelina-jolie-sean-penn-liev-schreiber-visit-ukraine-volodymyr-zelenskyy-russia-war/",
+        "timestamp": 1655821953,
+        "sentiment": -2,
+        "published": "June 21, 2022 10:32 AM"
     },
     {
         "title": "Supreme Court OKs use of public money for religious education",
@@ -342,12 +324,21 @@
         "published": "June 21, 2022 11:20 AM"
     },
     {
+        "title": "Texas police commander: Officers could have stopped the gunman in Uvalde school shooting within three minutes",
+        "domain": "fox7austin.com",
+        "category": "politics",
+        "link": "https://www.fox7austin.com/news/texas-police-commander-uvalde-school-shooting",
+        "timestamp": 1655825066,
+        "sentiment": -4,
+        "published": "June 21, 2022 11:24 AM"
+    },
+    {
         "title": "Russia threatens ‘serious consequences’ as Lithuania blocks rail goods",
         "domain": "theguardian.com",
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/kaliningrad-russia-threatens-serious-consequences-as-lithuania-blocks-rail-goods",
         "timestamp": 1655825246,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 11:27 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1539269928888442882",
         "timestamp": 1655825870,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 11:37 AM"
     },
     {
@@ -401,8 +392,17 @@
         "category": "miami",
         "link": "https://www.studyfinds.org/sharks-closer-to-beaches/",
         "timestamp": 1655827917,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 12:11 PM"
+    },
+    {
+        "title": "‘This is how you guys get killed out here,’ Florida cop tells Black driver questioning traffic stop",
+        "domain": "union-bulletin.com",
+        "category": "news",
+        "link": "https://www.union-bulletin.com/this-is-how-you-guys-get-killed-out-here-florida-cop-tells-black-driver-questioning/article_c56c8e32-7298-5104-acd9-8df7af3a03d5.html",
+        "timestamp": 1655828960,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:29 PM"
     },
     {
         "title": "Finland blocks sale of real estate near Lapland airport to Russian buyer.",
@@ -410,7 +410,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12505348",
         "timestamp": 1655829022,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 21, 2022 12:30 PM"
     },
     {
@@ -419,8 +419,17 @@
         "category": "sports",
         "link": "https://theathletic.com/news/deshaun-watson-lawsuits/vORuMRdmXlPo/?amp=1",
         "timestamp": 1655829964,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 21, 2022 12:46 PM"
+    },
+    {
+        "title": "The James Webb Space Telescope is finally ready to do science — and it's seeing the universe more clearly than even its own engineers hoped for",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/james-webb-space-telescope-science-ready-astronomer-explains",
+        "timestamp": 1655830646,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:57 PM"
     },
     {
         "title": "Florida law enforceable again: Turn down your radio or face ticket",
@@ -430,6 +439,69 @@
         "timestamp": 1655831070,
         "sentiment": 0,
         "published": "June 21, 2022 1:04 PM"
+    },
+    {
+        "title": "Transgender women banned from playing in women's international rugby league matches",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/06/21/sport/rugby-league-bans-trans-women-spt-intl/index.html",
+        "timestamp": 1655833316,
+        "sentiment": 1,
+        "published": "June 21, 2022 1:41 PM"
+    },
+    {
+        "title": "Once empowered by Title IX, female athletes are now among big winners in new NIL era",
+        "domain": "latimes.com",
+        "category": "sports",
+        "link": "https://www.latimes.com/sports/story/2022-06-21/once-empowered-by-title-ix-female-athletes-are-now-among-big-winners-in-new-nil-era",
+        "timestamp": 1655835352,
+        "sentiment": 1,
+        "published": "June 21, 2022 2:15 PM"
+    },
+    {
+        "title": "BBC News have stopped their live news coverage of Russia's invasion of Ukraine. This is music to putin’s propaganda ears, as he hopes his continued genocide in 🇺🇦 will fade from world view",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/glasnostgone/status/1539167118935175170?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
+        "timestamp": 1655801277,
+        "sentiment": -12,
+        "published": "June 21, 2022 4:47 AM"
+    },
+    {
+        "title": "Moscow fumes after EU cuts off shipments to Baltic outpost",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/middle-east/ukraine-president-expects-russia-attacks-intensify-with-eu-summit-this-week-2022-06-20/",
+        "timestamp": 1655810209,
+        "sentiment": -1,
+        "published": "June 21, 2022 7:16 AM"
+    },
+    {
+        "title": "This Year’s Extreme Weather Is Just Getting Started | “There’s some pretty extraordinary stuff happening, stuff that’s not common at all,” says Paul Pastelok, lead long-range forecaster at AccuWeather.",
+        "domain": "wired.com",
+        "category": "florida",
+        "link": "https://www.wired.com/story/extreme-weather-2022-just-getting-started/?bxid=61649e14034dfb07a27ef80e&cndid=66853574&esrc=growl2-regGate-1120&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Daily_062022&utm_mailing=WIR_Daily_062022&utm_medium=email&utm_source=nl&utm_term=P1",
+        "timestamp": 1655811353,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:35 AM"
+    },
+    {
+        "title": "California drought: ‘Smart’ water meters coming to San Jose, other Bay Area cities in latest effort to boost conservation",
+        "domain": "sanluisobispo.com",
+        "category": "technology",
+        "link": "https://www.sanluisobispo.com/news/business/article262696927.html",
+        "timestamp": 1655811380,
+        "sentiment": 1,
+        "published": "June 21, 2022 7:36 AM"
+    },
+    {
+        "title": "Nobel sold for Ukrainian kids shatters record at $103.5 million",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/21/nobel-sold-for-ukrainian-kids-shatters-record-at-103point5-million.html",
+        "timestamp": 1655811759,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:42 AM"
     },
     {
         "title": "Rep. Adam Kinzinger shares letter threatening to 'execute' him, his wife, and 5-month-old baby",
