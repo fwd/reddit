@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 12:32 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:43 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
         "timestamp": 1655723011,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 7:03 AM"
     },
     {
@@ -70,15 +70,6 @@
         "timestamp": 1655724206,
         "sentiment": 0,
         "published": "June 20, 2022 7:23 AM"
-    },
-    {
-        "title": "The franchise frenzy leaves nothing to the imagination: From The Rings of Power to the Marvel Cinematic Universe on Disney+, streaming services are adapting everything in sight. No one’s head canon is safe.",
-        "domain": "wired.com",
-        "category": "television",
-        "link": "https://www.wired.com/story/streaming-lose-headcanon/",
-        "timestamp": 1655726228,
-        "sentiment": 0,
-        "published": "June 20, 2022 7:57 AM"
     },
     {
         "title": "Russian emails appear to show ‘network’ holding $4.5bn assets linked to Putin",
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/monkey-bullet-proof-vest-killed-deadly-narco-shootout-mexico/",
         "timestamp": 1655730636,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 9:10 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/19/us/new-york-public-library-free-books-trnd/index.html",
         "timestamp": 1655732476,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 9:41 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/gay-republican-group-banned-gop-convention/",
         "timestamp": 1655732509,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 9:41 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "florida",
         "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQQQ1X9wtLVEIrgsNv2mxVi66WhyJGHkStPIa0VmTQ6kwwBYp0CA1b3za96ATs6TARC-lBfWUoenoJ/pubhtml?gid=1523443411&single=true",
         "timestamp": 1655733504,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 9:58 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/texas-gop-adopts-shockingly-explicit-anti-lgbtq-party-platform/",
         "timestamp": 1655733949,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 10:05 AM"
     },
     {
@@ -162,40 +153,13 @@
         "published": "June 20, 2022 10:18 AM"
     },
     {
-        "title": "Meta Reveals VR Headset Prototypes Designed to Make VR ‘Indistinguishable From Reality’",
-        "domain": "roadtovr.com",
-        "category": "technology",
-        "link": "https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/",
-        "timestamp": 1655735056,
-        "sentiment": 0,
-        "published": "June 20, 2022 10:24 AM"
-    },
-    {
-        "title": "Trump Knew He Lost The Election Before He Decided He Didn't, Says Aide",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-admitted-he-lost-election-aide_n_62afe3f7e4b0cf43c858d89e",
-        "timestamp": 1655735512,
-        "sentiment": 0,
-        "published": "June 20, 2022 10:31 AM"
-    },
-    {
         "title": "Massachusetts hiker dies near Mt. Washington after rescue in snow, 80 mph wind gusts",
         "domain": "masslive.com",
         "category": "news",
         "link": "https://www.masslive.com/news/2022/06/massachusetts-hiker-dies-near-mt-washington-after-rescue-in-snow-80-mph-wind-gusts.html",
         "timestamp": 1655735606,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 10:33 AM"
-    },
-    {
-        "title": "Gay Republican group blasts ‘crazy people’ Texas GOP for anti-LGBT platform",
-        "domain": "kxan.com",
-        "category": "politics",
-        "link": "https://www.kxan.com/news/texas-politics/gay-republican-group-blasts-crazy-people-texas-gop-for-anti-lgbt-platform/",
-        "timestamp": 1655735752,
-        "sentiment": 0,
-        "published": "June 20, 2022 10:35 AM"
     },
     {
         "title": "China experiences heaviest rainfall in 60 years, experts warn extreme weather will only get worse",
@@ -212,7 +176,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/ng-interactive/2022/jun/20/russian-palaces-villas-and-yachts-linked-to-vladimir-putin-llcinvest?CMP=Share_iOSApp_Other",
         "timestamp": 1655736725,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 10:52 AM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/community/health/coronavirus/desantis-says-white-house-lied-about-covid-vaccine-policy-changes-in-florida/",
         "timestamp": 1655737673,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 11:07 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "politics",
         "link": "https://www.today.com/popculture/popculture/rupaul-drag-queen-ban-rcna34243",
         "timestamp": 1655741703,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 12:15 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-city-shootings-86ac35ff0592e473226f43b7112aaa3e?utm_source=Connatix&utm_medium=HomePage",
         "timestamp": 1655742034,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 12:20 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
         "timestamp": 1655744927,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 1:08 PM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/john-albert-laylo-philippine-government-attorney-killed-uber-philadelphia/#app",
         "timestamp": 1655746707,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 1:38 PM"
     },
     {
@@ -329,16 +293,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-seceding-us-would-mean-war-law-expert-says-1717392",
         "timestamp": 1655747064,
-        "sentiment": 0,
-        "published": "June 20, 2022 1:44 PM"
-    },
-    {
-        "title": "Cambodian catches world's largest recorded freshwater fish",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/cb2d4c4b1420b91db3d9ed3ca700d787",
-        "timestamp": 1655747078,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 1:44 PM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/hillsborough-county/challenges-remain-more-hillsborough-families-homeless-in-2022-report-says/",
         "timestamp": 1655748397,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 2:06 PM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "sports",
         "link": "https://theathletic.com/3372343/2022/06/20/espn-2030-world-cup-rights/",
         "timestamp": 1655748419,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 2:06 PM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2021/01/29/texas-secession/",
         "timestamp": 1655748969,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 2:16 PM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/prosecute-donald-trump-jan6-insurrection-laurence-tribe-1717371",
         "timestamp": 1655749100,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 2:18 PM"
     },
     {
@@ -441,15 +396,6 @@
         "published": "June 20, 2022 3:05 PM"
     },
     {
-        "title": "Catherine Reitman’s ‘Workin’ Moms’ to End With Upcoming Season 7 on CBC, Netflix",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/workin-moms-ending-season-7-netflix-cbc-1235168637/",
-        "timestamp": 1655755064,
-        "sentiment": 0,
-        "published": "June 20, 2022 3:57 PM"
-    },
-    {
         "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
         "domain": "wsj.com",
         "category": "technology",
@@ -500,8 +446,17 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-website-crashes-after-push-vote-secede-us-1717449?amp=1",
         "timestamp": 1655762585,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 6:03 PM"
+    },
+    {
+        "title": "FIFA, World Athletics review transgender rules after swimming's change",
+        "domain": "reuters.com",
+        "category": "sports",
+        "link": "https://www.reuters.com/lifestyle/sports/fifa-world-athletics-review-transgender-rules-after-swimmings-change-2022-06-20/",
+        "timestamp": 1655763580,
+        "sentiment": 0,
+        "published": "June 20, 2022 6:19 PM"
     },
     {
         "title": "Four Baltimore homes burn across street from Pride flag fire as police investigate possible hate crime",
@@ -509,8 +464,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/four-baltimore-homes-burn-street-pride-flag-fire-police-investigate-po-rcna33893",
         "timestamp": 1655763611,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 20, 2022 6:20 PM"
+    },
+    {
+        "title": "Op-Ed: The insurrection won't end until Trump is prosecuted and disqualified from future office",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/opinion/story/2022-06-20/jan-6-insurrection-prosecution-donald-trump-reelection",
+        "timestamp": 1655764167,
+        "sentiment": -1,
+        "published": "June 20, 2022 6:29 PM"
     },
     {
         "title": "Tesla layoffs hit its diversity and inclusivity programs",
@@ -536,7 +500,7 @@
         "category": "sports",
         "link": "https://streamable.com/gjqnvp",
         "timestamp": 1655765885,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:58 PM"
     },
     {
@@ -549,6 +513,15 @@
         "published": "June 20, 2022 7:01 PM"
     },
     {
+        "title": "Ted Cruz Heckled at Texas GOP Convention, Called 'Coward' in Viral Video",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/ted-cruz-texas-gop-convention-coward-viral-video-globalism-globalist-1717270",
+        "timestamp": 1655767871,
+        "sentiment": -1,
+        "published": "June 20, 2022 7:31 PM"
+    },
+    {
         "title": "Game of Thrones the most talked about show on Twitter, surpassing Stranger Things",
         "domain": "variety.com",
         "category": "television",
@@ -558,13 +531,94 @@
         "published": "June 20, 2022 7:42 PM"
     },
     {
+        "title": "At least 6 dead, 42 injured in weekend mass shootings across US",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/dead-42-injured-weekend-mass-shootings-us/story?id=85506154",
+        "timestamp": 1655769311,
+        "sentiment": -3,
+        "published": "June 20, 2022 7:55 PM"
+    },
+    {
+        "title": "Rowan Atkinson Says Cancel Culture Is Hurting Comedy: ‘Every Joke Has a Victim’",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/rowan-atkinson-cancel-culture-comedy-1234735202/",
+        "timestamp": 1655769757,
+        "sentiment": 0,
+        "published": "June 20, 2022 8:02 PM"
+    },
+    {
         "title": "Florida's new insurance law is a boon to the insurance industry",
         "domain": "yahoo.com",
         "category": "florida",
         "link": "https://www.yahoo.com/news/floridas-insurance-law-boon-insurance-220011507.html",
         "timestamp": 1655770361,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 20, 2022 8:12 PM"
+    },
+    {
+        "title": "Tesla illegally fired thousands of workers and denied them pay, lawsuit claims",
+        "domain": "mercurynews.com",
+        "category": "technology",
+        "link": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/",
+        "timestamp": 1655772473,
+        "sentiment": 0,
+        "published": "June 20, 2022 8:47 PM"
+    },
+    {
+        "title": "The franchise frenzy leaves nothing to the imagination: From The Rings of Power to the Marvel Cinematic Universe on Disney+, streaming services are adapting everything in sight. No one’s head canon is safe.",
+        "domain": "wired.com",
+        "category": "television",
+        "link": "https://www.wired.com/story/streaming-lose-headcanon/",
+        "timestamp": 1655726228,
+        "sentiment": 0,
+        "published": "June 20, 2022 7:57 AM"
+    },
+    {
+        "title": "Meta Reveals VR Headset Prototypes Designed to Make VR ‘Indistinguishable From Reality’",
+        "domain": "roadtovr.com",
+        "category": "technology",
+        "link": "https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/",
+        "timestamp": 1655735056,
+        "sentiment": 0,
+        "published": "June 20, 2022 10:24 AM"
+    },
+    {
+        "title": "Trump Knew He Lost The Election Before He Decided He Didn't, Says Aide",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-admitted-he-lost-election-aide_n_62afe3f7e4b0cf43c858d89e",
+        "timestamp": 1655735512,
+        "sentiment": 0,
+        "published": "June 20, 2022 10:31 AM"
+    },
+    {
+        "title": "Gay Republican group blasts ‘crazy people’ Texas GOP for anti-LGBT platform",
+        "domain": "kxan.com",
+        "category": "politics",
+        "link": "https://www.kxan.com/news/texas-politics/gay-republican-group-blasts-crazy-people-texas-gop-for-anti-lgbt-platform/",
+        "timestamp": 1655735752,
+        "sentiment": 0,
+        "published": "June 20, 2022 10:35 AM"
+    },
+    {
+        "title": "Cambodian catches world's largest recorded freshwater fish",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/cb2d4c4b1420b91db3d9ed3ca700d787",
+        "timestamp": 1655747078,
+        "sentiment": 0,
+        "published": "June 20, 2022 1:44 PM"
+    },
+    {
+        "title": "Catherine Reitman’s ‘Workin’ Moms’ to End With Upcoming Season 7 on CBC, Netflix",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/workin-moms-ending-season-7-netflix-cbc-1235168637/",
+        "timestamp": 1655755064,
+        "sentiment": 0,
+        "published": "June 20, 2022 3:57 PM"
     },
     {
         "title": "Belgium hit by protests over cost of living spike",
@@ -601,15 +655,6 @@
         "timestamp": 1655740868,
         "sentiment": 0,
         "published": "June 20, 2022 12:01 PM"
-    },
-    {
-        "title": "FIFA, World Athletics review transgender rules after swimming's change",
-        "domain": "reuters.com",
-        "category": "sports",
-        "link": "https://www.reuters.com/lifestyle/sports/fifa-world-athletics-review-transgender-rules-after-swimmings-change-2022-06-20/",
-        "timestamp": 1655763580,
-        "sentiment": 0,
-        "published": "June 20, 2022 6:19 PM"
     },
     {
         "title": "Ukraine has hit Russia-controlled offshore gas rigs in the Black Sea. Russia stole those rigs from Ukraine in 2014 amid the annexation of Crimea. Is the bridge next?",
