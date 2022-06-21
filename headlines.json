@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.dexerto.com/business/activision-blizzard-investigation-finds-no-widespread-harassment-at-activision-blizzard-1849369/",
         "timestamp": 1655784269,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "June 21, 2022 12:04 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "florida",
         "link": "https://www.wptv.com/news/region-c-palm-beach-county/royal-palm-beach/palm-beach-county-deputies-shoot-kill-black-bear-in-royal-palm-beach",
         "timestamp": 1655784725,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 21, 2022 12:12 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
         "timestamp": 1655786916,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "June 21, 2022 12:48 AM"
     },
     {
@@ -45,13 +45,31 @@
         "published": "June 21, 2022 12:50 AM"
     },
     {
+        "title": "Lada car production resumes with no airbags, anti-lock brakes, emergency call system or radios, and downgraded emission standards",
+        "domain": "drive.com.au",
+        "category": "technology",
+        "link": "https://www.drive.com.au/news/lada-production-resumes-with-no-airbags-or-radio/",
+        "timestamp": 1655789206,
+        "sentiment": -3,
+        "published": "June 21, 2022 1:26 AM"
+    },
+    {
         "title": "CloudFlare, CDN service that handles ~20% of the internet's traffic, is experiencing a massive outage",
         "domain": "cloudflarestatus.com",
         "category": "technology",
         "link": "https://www.cloudflarestatus.com",
         "timestamp": 1655794505,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "June 21, 2022 2:55 AM"
+    },
+    {
+        "title": "US ban on cotton from forced Uyghur labour comes into force | Uyghurs",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
+        "timestamp": 1655799253,
+        "sentiment": 0,
+        "published": "June 21, 2022 4:14 AM"
     },
     {
         "title": "Miami Cop Under Investigation After Telling Black Driver 'This is How You Guys Get Killed' During Traffic Stop [VIDEO]",
@@ -61,6 +79,15 @@
         "timestamp": 1655801088,
         "sentiment": 0,
         "published": "June 21, 2022 4:44 AM"
+    },
+    {
+        "title": "Black or Asian Pope tipped to succeed Francis if he resigns",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/black-asian-pope-tipped-succeed-francis-if-he-resigns-1717474",
+        "timestamp": 1655804366,
+        "sentiment": 0,
+        "published": "June 21, 2022 5:39 AM"
     },
     {
         "title": "Russia is facing its worst recession in 30 years — and the 'Putin Generation' is paying the price",
