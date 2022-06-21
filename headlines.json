@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655786999,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 12:49 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "television",
         "link": "http://collider.com/warrior-season-3-production-begins-july-hbo-max",
         "timestamp": 1655787043,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 12:50 AM"
-    },
-    {
-        "title": "CloudFlare, CDN service that handles ~20% of the internet's traffic, is experiencing a massive outage",
-        "domain": "cloudflarestatus.com",
-        "category": "technology",
-        "link": "https://www.cloudflarestatus.com",
-        "timestamp": 1655794505,
-        "sentiment": 4,
-        "published": "June 21, 2022 2:55 AM"
     },
     {
         "title": "US ban on cotton from forced Uyghur labour comes into force | Uyghurs",
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 4:14 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://asia.nikkei.com/Business/Aerospace-Defense/South-Korea-succeeds-in-2nd-home-developed-space-rocket-attempt",
         "timestamp": 1655800085,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 4:28 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://torrentfreak.com/judge-recommends-150k-piracy-judgment-against-torrent-site-operator-220620/",
         "timestamp": 1655802068,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 5:01 AM"
     },
     {
@@ -68,8 +59,17 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/poll-americans-support-charging-trump-jan-6-crimes-rcna34391",
         "timestamp": 1655802919,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 5:15 AM"
+    },
+    {
+        "title": "Thousands of Druids and Pagans watch sunrise at Stonehenge for the summer solstice",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
+        "timestamp": 1655803805,
+        "sentiment": 3,
+        "published": "June 21, 2022 5:30 AM"
     },
     {
         "title": "Switzerland Imports Russian Gold for First Time Since Invasion",
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 5:47 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "technology",
         "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
         "timestamp": 1655809901,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 7:11 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/kevin-smith-trump-southern-baptist-political-whores_n_62b10fa5e4b0cdccbe61b252",
         "timestamp": 1655810995,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 7:29 AM"
     },
     {
@@ -117,15 +117,6 @@
         "published": "June 21, 2022 7:31 AM"
     },
     {
-        "title": "FBI ballot fraud investigation in Rensselaer County shifts to GOP elections commissioner",
-        "domain": "timesunion.com",
-        "category": "politics",
-        "link": "https://www.timesunion.com/state/article/FBI-ballot-fraud-investigation-shifts-to-GOP-17253564.php",
-        "timestamp": 1655811755,
-        "sentiment": -4,
-        "published": "June 21, 2022 7:42 AM"
-    },
-    {
         "title": "Uvalde mass shooting: Photos show armed police waiting in school hallway",
         "domain": "bbc.com",
         "category": "news",
@@ -133,24 +124,6 @@
         "timestamp": 1655812902,
         "sentiment": 0,
         "published": "June 21, 2022 8:01 AM"
-    },
-    {
-        "title": "Putin's Ukraine Body Count: 34,100 Dead, Nearly 1,500 Tanks Destroyed",
-        "domain": "19fortyfive.com",
-        "category": "worldnews",
-        "link": "https://www.19fortyfive.com/2022/06/putins-ukraine-body-count-34100-dead-nearly-1500-tanks-destroyed/",
-        "timestamp": 1655813431,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:10 AM"
-    },
-    {
-        "title": "Non-English Content Has a Bigger Shot Than Ever at 2022 Emmys",
-        "domain": "hollywoodreporter.com",
-        "category": "television",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/emmys-non-english-content-television-1235165459/",
-        "timestamp": 1655813699,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:14 AM"
     },
     {
         "title": "Brooks Koepka becomes latest star golfer to leave PGA Tour for LIV Golf Series, sources confirm.",
@@ -162,12 +135,21 @@
         "published": "June 21, 2022 8:34 AM"
     },
     {
+        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
+        "timestamp": 1655815389,
+        "sentiment": 3,
+        "published": "June 21, 2022 8:43 AM"
+    },
+    {
         "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
         "timestamp": 1655815477,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 8:44 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
         "timestamp": 1655815790,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 8:49 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
         "timestamp": 1655815945,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 21, 2022 8:52 AM"
     },
     {
@@ -203,8 +185,17 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
         "timestamp": 1655816454,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 9:00 AM"
+    },
+    {
+        "title": "Citing Threat From Russia, Canada Announces Major Investment In Air Defense",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/canada-norad-investment-russia/31907742.html",
+        "timestamp": 1655818661,
+        "sentiment": 3,
+        "published": "June 21, 2022 9:37 AM"
     },
     {
         "title": "The Founders Feared a Tyranny of the Majority, but What We Have Is a Tyranny of a Fanatical Minority",
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166848/gop-minority-rule-gun-safety",
         "timestamp": 1655818764,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 9:39 AM"
     },
     {
@@ -225,21 +216,12 @@
         "published": "June 21, 2022 9:48 AM"
     },
     {
-        "title": "Ukraine thanks Ben Stiller, Angelina Jolie and other stars for visiting \"despite the danger\"",
-        "domain": "cbsnews.com",
-        "category": "worldnews",
-        "link": "https://www.cbsnews.com/news/ben-stiller-angelina-jolie-sean-penn-liev-schreiber-visit-ukraine-volodymyr-zelenskyy-russia-war/",
-        "timestamp": 1655821953,
-        "sentiment": 0,
-        "published": "June 21, 2022 10:32 AM"
-    },
-    {
         "title": "Supreme Court OKs use of public money for religious education",
         "domain": "nbcnews.com",
         "category": "politics",
         "link": "https://www.nbcnews.com/news/amp/rcna21627",
         "timestamp": 1655822432,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 10:40 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-orcs-exclusive",
         "timestamp": 1655824075,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 11:07 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://thehill.com/changing-america/well-being/prevention-cures/3525017-american-medical-association-declares-abortion-bans-violation-of-human-rights/",
         "timestamp": 1655824847,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 11:20 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "politics",
         "link": "https://www.fox7austin.com/news/texas-police-commander-uvalde-school-shooting",
         "timestamp": 1655825066,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 11:24 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/kaliningrad-russia-threatens-serious-consequences-as-lithuania-blocks-rail-goods",
         "timestamp": 1655825246,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 11:27 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1539269928888442882",
         "timestamp": 1655825870,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 21, 2022 11:37 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3530982-sotomayor-accuses-conservatives-of-dismantling-church-state-separation/",
         "timestamp": 1655826099,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 11:41 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "florida",
         "link": "https://www.autobodynews.com/index.php/southeastern/item/26473-coral-springs-fl-police-officer-charged-with-using-covid-relief-money-to-service-and-repair-vintage-car.html",
         "timestamp": 1655826156,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 21, 2022 11:42 AM"
     },
     {
@@ -324,15 +306,6 @@
         "published": "June 21, 2022 12:10 PM"
     },
     {
-        "title": "Sharks getting closer to crowded [Miami] beaches than you might think, study warns",
-        "domain": "studyfinds.org",
-        "category": "miami",
-        "link": "https://www.studyfinds.org/sharks-closer-to-beaches/",
-        "timestamp": 1655827917,
-        "sentiment": 3,
-        "published": "June 21, 2022 12:11 PM"
-    },
-    {
         "title": "‘This is how you guys get killed out here,’ Florida cop tells Black driver questioning traffic stop",
         "domain": "union-bulletin.com",
         "category": "news",
@@ -347,7 +320,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12505348",
         "timestamp": 1655829022,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 12:30 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-polytics/3512004-luxembourg-commits-15-of-defense-budget-to-support-ukraine-army-zelensky.html",
         "timestamp": 1655829421,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 21, 2022 12:37 PM"
     },
     {
@@ -365,26 +338,8 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-ready-astronomer-explains",
         "timestamp": 1655830646,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 12:57 PM"
-    },
-    {
-        "title": "Top US 'Nazi hunter' to lead Justice Department effort to uncover war crimes in Ukraine",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/06/21/politics/ukraine-war-crimes-justice-department-nazi-hunter/index.html",
-        "timestamp": 1655830715,
-        "sentiment": 0,
-        "published": "June 21, 2022 12:58 PM"
-    },
-    {
-        "title": "Florida law enforceable again: Turn down your radio or face ticket",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/politics/turn-it-down-florida-law-lets-officers-ticket-for-loud-music-from-cars/",
-        "timestamp": 1655831070,
-        "sentiment": 0,
-        "published": "June 21, 2022 1:04 PM"
     },
     {
         "title": "German investigators found proof that syria's dictator is funding his rule with drug money",
@@ -392,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.spiegel.de/international/world/syrian-drug-smuggling-the-assad-regime-would-not-survive-loss-of-captagon-revenues-a-b4302356-e562-4088-95a1-45d557a3952a?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
         "timestamp": 1655831476,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 1:11 PM"
     },
     {
@@ -403,15 +358,6 @@
         "timestamp": 1655832205,
         "sentiment": 0,
         "published": "June 21, 2022 1:23 PM"
-    },
-    {
-        "title": "Putin says Russia has best army after losing 34k troops in just 4 months",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-putin-best-armed-forces-ukraine-war-troop-losses-1717641",
-        "timestamp": 1655833186,
-        "sentiment": 0,
-        "published": "June 21, 2022 1:39 PM"
     },
     {
         "title": "Transgender women banned from playing in women's international rugby league matches",
@@ -428,7 +374,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/alex-holder-jan-6-committee-subpoena-1371644/",
         "timestamp": 1655833457,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 21, 2022 1:44 PM"
     },
     {
@@ -437,8 +383,17 @@
         "category": "technology",
         "link": "https://www.wsj.com/articles/vegas-company-promised-fast-internet-rural-america-waitsand-waits-11655809200",
         "timestamp": 1655833642,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 21, 2022 1:47 PM"
+    },
+    {
+        "title": "Trump Had 'Direct and Personal Role' in Phony Elector Scheme: Jan. 6 Hearing",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-state-elector-scheme-jan-6-hearing-1371788/",
+        "timestamp": 1655834161,
+        "sentiment": -1,
+        "published": "June 21, 2022 1:56 PM"
     },
     {
         "title": "Florence Pugh To Star In ‘East Of Eden’ Limited Series For Netflix",
@@ -446,7 +401,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/zoe-kazan-florence-pugh-east-of-eden-netflix-anonymous-content-and-endeavor-content-1235048776/",
         "timestamp": 1655835392,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 21, 2022 2:16 PM"
     },
     {
@@ -468,6 +423,114 @@
         "published": "June 21, 2022 2:42 PM"
     },
     {
+        "title": "Scientists Just Built a Laser That Can Run Forever",
+        "domain": "popularmechanics.com",
+        "category": "technology",
+        "link": "https://www.popularmechanics.com/science/a40359729/never-ending-matter-laser/",
+        "timestamp": 1655838129,
+        "sentiment": 0,
+        "published": "June 21, 2022 3:02 PM"
+    },
+    {
+        "title": "Luxembourg commits 15% of defense budget to support Ukraine Army",
+        "domain": "ukrinform.net",
+        "category": "worldnews",
+        "link": "https://www.ukrinform.net/rubric-polytics/3512004-luxembourg-commits-15-of-defense-budget-to-support-ukraine-army-zelensky.html",
+        "timestamp": 1655838632,
+        "sentiment": 3,
+        "published": "June 21, 2022 3:10 PM"
+    },
+    {
+        "title": "AMC Renews 'Dark Winds,' With Zahn McClarnon, for Seaosn 2",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/amc-renews-dark-winds-season-2-zahn-mcclarnon/",
+        "timestamp": 1655838935,
+        "sentiment": -1,
+        "published": "June 21, 2022 3:15 PM"
+    },
+    {
+        "title": "CloudFlare, CDN service that handles ~20% of the internet's traffic, is experiencing a massive outage",
+        "domain": "cloudflarestatus.com",
+        "category": "technology",
+        "link": "https://www.cloudflarestatus.com",
+        "timestamp": 1655794505,
+        "sentiment": 4,
+        "published": "June 21, 2022 2:55 AM"
+    },
+    {
+        "title": "FBI ballot fraud investigation in Rensselaer County shifts to GOP elections commissioner",
+        "domain": "timesunion.com",
+        "category": "politics",
+        "link": "https://www.timesunion.com/state/article/FBI-ballot-fraud-investigation-shifts-to-GOP-17253564.php",
+        "timestamp": 1655811755,
+        "sentiment": -4,
+        "published": "June 21, 2022 7:42 AM"
+    },
+    {
+        "title": "Putin's Ukraine Body Count: 34,100 Dead, Nearly 1,500 Tanks Destroyed",
+        "domain": "19fortyfive.com",
+        "category": "worldnews",
+        "link": "https://www.19fortyfive.com/2022/06/putins-ukraine-body-count-34100-dead-nearly-1500-tanks-destroyed/",
+        "timestamp": 1655813431,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:10 AM"
+    },
+    {
+        "title": "Non-English Content Has a Bigger Shot Than Ever at 2022 Emmys",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/emmys-non-english-content-television-1235165459/",
+        "timestamp": 1655813699,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:14 AM"
+    },
+    {
+        "title": "Ukraine thanks Ben Stiller, Angelina Jolie and other stars for visiting \"despite the danger\"",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/ben-stiller-angelina-jolie-sean-penn-liev-schreiber-visit-ukraine-volodymyr-zelenskyy-russia-war/",
+        "timestamp": 1655821953,
+        "sentiment": 0,
+        "published": "June 21, 2022 10:32 AM"
+    },
+    {
+        "title": "Sharks getting closer to crowded [Miami] beaches than you might think, study warns",
+        "domain": "studyfinds.org",
+        "category": "miami",
+        "link": "https://www.studyfinds.org/sharks-closer-to-beaches/",
+        "timestamp": 1655827917,
+        "sentiment": 3,
+        "published": "June 21, 2022 12:11 PM"
+    },
+    {
+        "title": "Top US 'Nazi hunter' to lead Justice Department effort to uncover war crimes in Ukraine",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/21/politics/ukraine-war-crimes-justice-department-nazi-hunter/index.html",
+        "timestamp": 1655830715,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:58 PM"
+    },
+    {
+        "title": "Florida law enforceable again: Turn down your radio or face ticket",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/politics/turn-it-down-florida-law-lets-officers-ticket-for-loud-music-from-cars/",
+        "timestamp": 1655831070,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:04 PM"
+    },
+    {
+        "title": "Putin says Russia has best army after losing 34k troops in just 4 months",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-putin-best-armed-forces-ukraine-war-troop-losses-1717641",
+        "timestamp": 1655833186,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:39 PM"
+    },
+    {
         "title": "Netflix Braces for More Layoffs This Week",
         "domain": "variety.com",
         "category": "technology",
@@ -486,15 +549,6 @@
         "published": "June 21, 2022 5:20 AM"
     },
     {
-        "title": "Thousands of Druids and Pagans watch sunrise at Stonehenge for the summer solstice",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
-        "timestamp": 1655803805,
-        "sentiment": -2,
-        "published": "June 21, 2022 5:30 AM"
-    },
-    {
         "title": "GOP senators downplay Jan. 6 panel’s importance",
         "domain": "thehill.com",
         "category": "politics",
@@ -504,15 +558,6 @@
         "published": "June 21, 2022 6:14 AM"
     },
     {
-        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
-        "timestamp": 1655815389,
-        "sentiment": -2,
-        "published": "June 21, 2022 8:43 AM"
-    },
-    {
         "title": "\"Safety McSafe Face\": The rejected suggestions for naming Ithaca's police force",
         "domain": "ithacavoice.com",
         "category": "news",
@@ -520,15 +565,6 @@
         "timestamp": 1655817863,
         "sentiment": 0,
         "published": "June 21, 2022 9:24 AM"
-    },
-    {
-        "title": "Citing Threat From Russia, Canada Announces Major Investment In Air Defense",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/canada-norad-investment-russia/31907742.html",
-        "timestamp": 1655818661,
-        "sentiment": -2,
-        "published": "June 21, 2022 9:37 AM"
     },
     {
         "title": "Browns' Watson settles 20 of 24 civil suits",
