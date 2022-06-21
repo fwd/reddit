@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
         "timestamp": 1655699542,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 20, 2022 12:32 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/19/putin-threatens-action-against-ex-soviet-states-if-they-defy-russia-16852614/",
         "timestamp": 1655715418,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 4:56 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 20, 2022 6:28 AM"
-    },
-    {
-        "title": "Russia says Lithuania's transit ban \"illegal\"",
-        "domain": "lrt.lt",
-        "category": "worldnews",
-        "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
-        "timestamp": 1655721023,
-        "sentiment": -5,
-        "published": "June 20, 2022 6:30 AM"
     },
     {
         "title": "Russian-born tennis player Natela Dzalamidze changes nationality to avoid Wimbledon ban",
@@ -50,7 +41,7 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 20, 2022 6:43 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
         "timestamp": 1655723011,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 7:03 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/20/russian-emails-vladimir-putin-llcinvest",
         "timestamp": 1655727154,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 8:12 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/monkey-bullet-proof-vest-killed-deadly-narco-shootout-mexico/",
         "timestamp": 1655730636,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 9:10 AM"
-    },
-    {
-        "title": "The New York Public Library is giving away 500,000 books this summer",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/19/us/new-york-public-library-free-books-trnd/index.html",
-        "timestamp": 1655732476,
-        "sentiment": -3,
-        "published": "June 20, 2022 9:41 AM"
     },
     {
         "title": "Gay Republican group banned from GOP convention | After years spent telling Republicans that LGBTQ rights aren't important and mocking the community, the group was surprised to find out that the Party listened to them.",
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/gay-republican-group-banned-gop-convention/",
         "timestamp": 1655732509,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 9:41 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/SamRamani2/status/1538860382550380544",
         "timestamp": 1655732948,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 20, 2022 9:49 AM"
     },
     {
@@ -131,17 +113,8 @@
         "category": "florida",
         "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQQQ1X9wtLVEIrgsNv2mxVi66WhyJGHkStPIa0VmTQ6kwwBYp0CA1b3za96ATs6TARC-lBfWUoenoJ/pubhtml?gid=1523443411&single=true",
         "timestamp": 1655733504,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 9:58 AM"
-    },
-    {
-        "title": "Texas GOP adopts shockingly explicit anti-LGBTQ party platform | The state party calls homosexuality “an abnormal lifestyle choice\" and accuses LGBTQ people of \"grooming\" children.",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/06/texas-gop-adopts-shockingly-explicit-anti-lgbtq-party-platform/",
-        "timestamp": 1655733949,
-        "sentiment": -1,
-        "published": "June 20, 2022 10:05 AM"
     },
     {
         "title": "Today is the 75th Anniversary of Everglades National Park!",
@@ -158,17 +131,8 @@
         "category": "news",
         "link": "https://www.masslive.com/news/2022/06/massachusetts-hiker-dies-near-mt-washington-after-rescue-in-snow-80-mph-wind-gusts.html",
         "timestamp": 1655735606,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 10:33 AM"
-    },
-    {
-        "title": "China experiences heaviest rainfall in 60 years, experts warn extreme weather will only get worse",
-        "domain": "ctvnews.ca",
-        "category": "worldnews",
-        "link": "https://www.ctvnews.ca/climate-and-environment/china-experiences-heaviest-rainfall-in-60-years-experts-warn-extreme-weather-will-only-get-worse-1.5954553",
-        "timestamp": 1655736322,
-        "sentiment": -5,
-        "published": "June 20, 2022 10:45 AM"
     },
     {
         "title": "Russian palaces, villas and yachts linked to Putin by email leak – in pictures, maps and video",
@@ -176,7 +140,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/ng-interactive/2022/jun/20/russian-palaces-villas-and-yachts-linked-to-vladimir-putin-llcinvest?CMP=Share_iOSApp_Other",
         "timestamp": 1655736725,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 10:52 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/community/health/coronavirus/desantis-says-white-house-lied-about-covid-vaccine-policy-changes-in-florida/",
         "timestamp": 1655737673,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 11:07 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "ukraine",
         "link": "https://www.budapesttimes.hu/uncategorized/orban-calls-for-eu-candidate-status-for-ukraine-moldova-georgia-bosnia-and-herzegovina/",
         "timestamp": 1655739147,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 20, 2022 11:32 AM"
     },
     {
@@ -221,17 +185,8 @@
         "category": "politics",
         "link": "https://www.today.com/popculture/popculture/rupaul-drag-queen-ban-rcna34243",
         "timestamp": 1655741703,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 12:15 PM"
-    },
-    {
-        "title": "Police: 1 dead, 8 wounded in shooting at gathering in Harlem",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/new-york-city-shootings-86ac35ff0592e473226f43b7112aaa3e?utm_source=Connatix&utm_medium=HomePage",
-        "timestamp": 1655742034,
-        "sentiment": -3,
-        "published": "June 20, 2022 12:20 PM"
     },
     {
         "title": "The U.S. oil industry company Baker Hughes has stopped servicing all of Russia’s liquefied natural gas projects, putting the launch of new plants and the further operation of existing projects at risk. Baker Hughes has reportedly recalled service engineers from Gazprom projects",
@@ -239,17 +194,8 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/16/baker-hughes-withdraws-from-russias-arctic-projects-kommersant-a78015",
         "timestamp": 1655742183,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 12:23 PM"
-    },
-    {
-        "title": "Russia's Medvedev suggests U.S. should beg for nuclear arms talks",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-should-not-negotiate-with-us-nuclear-issues-yet-ex-president-says-2022-06-20/",
-        "timestamp": 1655742341,
-        "sentiment": -5,
-        "published": "June 20, 2022 12:25 PM"
     },
     {
         "title": "Volkswagen set to overtake Tesla in global EV sales by 2024",
@@ -266,7 +212,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
         "timestamp": 1655744927,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 1:08 PM"
     },
     {
@@ -275,7 +221,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3511279-biden-says-ukraines-membership-of-eu-very-likely.html",
         "timestamp": 1655745470,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 20, 2022 1:17 PM"
     },
     {
@@ -284,7 +230,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/john-albert-laylo-philippine-government-attorney-killed-uber-philadelphia/#app",
         "timestamp": 1655746707,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 1:38 PM"
     },
     {
@@ -293,7 +239,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-seceding-us-would-mean-war-law-expert-says-1717392",
         "timestamp": 1655747064,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 1:44 PM"
     },
     {
@@ -306,30 +252,12 @@
         "published": "June 20, 2022 1:57 PM"
     },
     {
-        "title": "‘Challenges remain’: More Hillsborough families homeless in 2022, report says",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/hillsborough-county/challenges-remain-more-hillsborough-families-homeless-in-2022-report-says/",
-        "timestamp": 1655748397,
-        "sentiment": -2,
-        "published": "June 20, 2022 2:06 PM"
-    },
-    {
-        "title": "Will ESPN go after the 2030 World Cup? ‘Absolutely,’ boss Jimmy Pitaro says",
-        "domain": "theathletic.com",
-        "category": "sports",
-        "link": "https://theathletic.com/3372343/2022/06/20/espn-2030-world-cup-rights/",
-        "timestamp": 1655748419,
-        "sentiment": 0,
-        "published": "June 20, 2022 2:06 PM"
-    },
-    {
         "title": "No, Texas can’t legally secede from the U.S., despite popular myth",
         "domain": "texastribune.org",
         "category": "politics",
         "link": "https://www.texastribune.org/2021/01/29/texas-secession/",
         "timestamp": 1655748969,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 2:16 PM"
     },
     {
@@ -338,7 +266,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/prosecute-donald-trump-jan6-insurrection-laurence-tribe-1717371",
         "timestamp": 1655749100,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 2:18 PM"
     },
     {
@@ -356,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.channelnewsasia.com/world/canada-ban-making-importing-many-single-use-plastics-december-2758726",
         "timestamp": 1655750016,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 2:33 PM"
     },
     {
@@ -369,21 +297,12 @@
         "published": "June 20, 2022 2:35 PM"
     },
     {
-        "title": "Poland has handed over modern 155mm artillery weapons - AHS Krab self-propelled howitzers - to Ukraine, Ukrinform news agency reported on Sunday. This is the second batch of this equipment to reach the hands of the Ukrainian army.",
-        "domain": "polsatnews.pl",
-        "category": "ukraine",
-        "link": "https://www.polsatnews.pl/wiadomosc/2022-06-20/wojna-w-ukrainie-media-polska-przekazala-ukrainie-nowoczesna-bron/?ref=aside_najnowsze",
-        "timestamp": 1655751314,
-        "sentiment": 1,
-        "published": "June 20, 2022 2:55 PM"
-    },
-    {
         "title": "Vladimir Putin loses 55th colonel in Ukraine 'when attack helicopter hit by missile'",
         "domain": "mirror.co.uk",
         "category": "ukraine",
         "link": "https://www.mirror.co.uk/news/world-news/vladimir-putin-loses-55th-colonel-27277914",
         "timestamp": 1655751718,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 20, 2022 3:01 PM"
     },
     {
@@ -410,7 +329,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/style/article/maldives-floating-city-spc-intl/index.html",
         "timestamp": 1655760647,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 5:30 PM"
     },
     {
@@ -437,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/ukraine-missing-americans-alexander-drueke-andy-huynh-russia-dmitry-peskov-geneva-conventions/",
         "timestamp": 1655762496,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 6:01 PM"
     },
     {
@@ -446,7 +365,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-website-crashes-after-push-vote-secede-us-1717449?amp=1",
         "timestamp": 1655762585,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:03 PM"
     },
     {
@@ -455,7 +374,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/fifa-world-athletics-review-transgender-rules-after-swimmings-change-2022-06-20/",
         "timestamp": 1655763580,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 20, 2022 6:19 PM"
     },
     {
@@ -464,7 +383,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/four-baltimore-homes-burn-street-pride-flag-fire-police-investigate-po-rcna33893",
         "timestamp": 1655763611,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 6:20 PM"
     },
     {
@@ -473,7 +392,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/opinion/story/2022-06-20/jan-6-insurrection-prosecution-donald-trump-reelection",
         "timestamp": 1655764167,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:29 PM"
     },
     {
@@ -500,7 +419,7 @@
         "category": "sports",
         "link": "https://streamable.com/gjqnvp",
         "timestamp": 1655765885,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 20, 2022 6:58 PM"
     },
     {
@@ -509,8 +428,26 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/movies/news/ben-stiller-meets-with-ukraine-president-volodymyr-zelensky-you-re-my-hero/ar-AAYFVIc?ocid=EMMX&cvid=2887b023cae54c54b817c0af15b020ac",
         "timestamp": 1655766070,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 20, 2022 7:01 PM"
+    },
+    {
+        "title": "Pence Says He’s Never Seen a President Lie as Much as … Biden",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/mike-pence-joe-biden-donald-trump-falsehoods-1371398/",
+        "timestamp": 1655766080,
+        "sentiment": 0,
+        "published": "June 20, 2022 7:01 PM"
+    },
+    {
+        "title": "Ukraine Attacks Russian Oil Platforms, Snake Island Strike Rumors Swirl",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/ukraine-attacks-russian-oil-platforms-snake-island-strike-rumors-swirl/ar-AAYFYJE?ocid=EMMX&cvid=2887b023cae54c54b817c0af15b020ac",
+        "timestamp": 1655766416,
+        "sentiment": -2,
+        "published": "June 20, 2022 7:06 PM"
     },
     {
         "title": "Ted Cruz Heckled at Texas GOP Convention, Called 'Coward' in Viral Video",
@@ -518,7 +455,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/ted-cruz-texas-gop-convention-coward-viral-video-globalism-globalist-1717270",
         "timestamp": 1655767871,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 20, 2022 7:31 PM"
     },
     {
@@ -531,12 +468,30 @@
         "published": "June 20, 2022 7:42 PM"
     },
     {
+        "title": "Crazy Putin Mouthpiece Claims That Sanctions Will Be Lifted - Because Of Famine: \"Now the famine will start and they will lift the sanctions and be friends with us because they will realize that it is impossible not to be friends with us.\"",
+        "domain": "crooksandliars.com",
+        "category": "ukraine",
+        "link": "https://crooksandliars.com/2022/06/putin-mouthpiece-claims-west-sanctions?utm_source=social&utm_medium=twitter&utm_content=61469",
+        "timestamp": 1655768584,
+        "sentiment": -2,
+        "published": "June 20, 2022 7:43 PM"
+    },
+    {
+        "title": "Ex-Hong Kong governor: China breached city autonomy pledge ‘comprehensively’",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/china/article/3182435/ex-hong-kong-governor-chinas-guarantee-citys-high-degree-autonomy",
+        "timestamp": 1655768680,
+        "sentiment": -2,
+        "published": "June 20, 2022 7:44 PM"
+    },
+    {
         "title": "At least 6 dead, 42 injured in weekend mass shootings across US",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/dead-42-injured-weekend-mass-shootings-us/story?id=85506154",
         "timestamp": 1655769311,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 20, 2022 7:55 PM"
     },
     {
@@ -549,12 +504,21 @@
         "published": "June 20, 2022 8:02 PM"
     },
     {
+        "title": "Captured Russian pilot turns out to be Wagner mercenary",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/20/7353543/",
+        "timestamp": 1655770175,
+        "sentiment": -2,
+        "published": "June 20, 2022 8:09 PM"
+    },
+    {
         "title": "Florida's new insurance law is a boon to the insurance industry",
         "domain": "yahoo.com",
         "category": "florida",
         "link": "https://www.yahoo.com/news/floridas-insurance-law-boon-insurance-220011507.html",
         "timestamp": 1655770361,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 8:12 PM"
     },
     {
@@ -565,6 +529,114 @@
         "timestamp": 1655772473,
         "sentiment": 0,
         "published": "June 20, 2022 8:47 PM"
+    },
+    {
+        "title": "Elon Musk's child seeks name change to sever ties with father",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/elon-musks-child-seeks-name-change-sever-ties-with-father-2022-06-21/",
+        "timestamp": 1655774114,
+        "sentiment": 2,
+        "published": "June 20, 2022 9:15 PM"
+    },
+    {
+        "title": "Rugby league bans transgender athletes from international matches",
+        "domain": "smh.com.au",
+        "category": "sports",
+        "link": "https://www.smh.com.au/sport/nrl/rugby-league-bans-transgender-athletes-from-international-matches-20220621-p5avar.html",
+        "timestamp": 1655775465,
+        "sentiment": 1,
+        "published": "June 20, 2022 9:37 PM"
+    },
+    {
+        "title": "Uvalde Victim’s Family, Chaplin & Reporters Asked To Leave City Hall Before Police Testify About School Massacre",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2022/06/uvalde-parents-reporters-asked-to-leave-meeting-1235048896/",
+        "timestamp": 1655775798,
+        "sentiment": 2,
+        "published": "June 20, 2022 9:43 PM"
+    },
+    {
+        "title": "Russia says Lithuania's transit ban \"illegal\"",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1723423/russia-says-lithuania-s-transit-ban-illegal",
+        "timestamp": 1655721023,
+        "sentiment": -5,
+        "published": "June 20, 2022 6:30 AM"
+    },
+    {
+        "title": "The New York Public Library is giving away 500,000 books this summer",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/19/us/new-york-public-library-free-books-trnd/index.html",
+        "timestamp": 1655732476,
+        "sentiment": -3,
+        "published": "June 20, 2022 9:41 AM"
+    },
+    {
+        "title": "Texas GOP adopts shockingly explicit anti-LGBTQ party platform | The state party calls homosexuality “an abnormal lifestyle choice\" and accuses LGBTQ people of \"grooming\" children.",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/06/texas-gop-adopts-shockingly-explicit-anti-lgbtq-party-platform/",
+        "timestamp": 1655733949,
+        "sentiment": -1,
+        "published": "June 20, 2022 10:05 AM"
+    },
+    {
+        "title": "China experiences heaviest rainfall in 60 years, experts warn extreme weather will only get worse",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/climate-and-environment/china-experiences-heaviest-rainfall-in-60-years-experts-warn-extreme-weather-will-only-get-worse-1.5954553",
+        "timestamp": 1655736322,
+        "sentiment": -5,
+        "published": "June 20, 2022 10:45 AM"
+    },
+    {
+        "title": "Police: 1 dead, 8 wounded in shooting at gathering in Harlem",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/new-york-city-shootings-86ac35ff0592e473226f43b7112aaa3e?utm_source=Connatix&utm_medium=HomePage",
+        "timestamp": 1655742034,
+        "sentiment": -3,
+        "published": "June 20, 2022 12:20 PM"
+    },
+    {
+        "title": "Russia's Medvedev suggests U.S. should beg for nuclear arms talks",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-should-not-negotiate-with-us-nuclear-issues-yet-ex-president-says-2022-06-20/",
+        "timestamp": 1655742341,
+        "sentiment": -5,
+        "published": "June 20, 2022 12:25 PM"
+    },
+    {
+        "title": "‘Challenges remain’: More Hillsborough families homeless in 2022, report says",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/hillsborough-county/challenges-remain-more-hillsborough-families-homeless-in-2022-report-says/",
+        "timestamp": 1655748397,
+        "sentiment": -2,
+        "published": "June 20, 2022 2:06 PM"
+    },
+    {
+        "title": "Will ESPN go after the 2030 World Cup? ‘Absolutely,’ boss Jimmy Pitaro says",
+        "domain": "theathletic.com",
+        "category": "sports",
+        "link": "https://theathletic.com/3372343/2022/06/20/espn-2030-world-cup-rights/",
+        "timestamp": 1655748419,
+        "sentiment": 0,
+        "published": "June 20, 2022 2:06 PM"
+    },
+    {
+        "title": "Poland has handed over modern 155mm artillery weapons - AHS Krab self-propelled howitzers - to Ukraine, Ukrinform news agency reported on Sunday. This is the second batch of this equipment to reach the hands of the Ukrainian army.",
+        "domain": "polsatnews.pl",
+        "category": "ukraine",
+        "link": "https://www.polsatnews.pl/wiadomosc/2022-06-20/wojna-w-ukrainie-media-polska-przekazala-ukrainie-nowoczesna-bron/?ref=aside_najnowsze",
+        "timestamp": 1655751314,
+        "sentiment": 1,
+        "published": "June 20, 2022 2:55 PM"
     },
     {
         "title": "The franchise frenzy leaves nothing to the imagination: From The Rings of Power to the Marvel Cinematic Universe on Disney+, streaming services are adapting everything in sight. No one’s head canon is safe.",
