@@ -1,14 +1,5 @@
 [
     {
-        "title": "Netflix Braces for More Layoffs This Week",
-        "domain": "variety.com",
-        "category": "technology",
-        "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
-        "timestamp": 1655786916,
-        "sentiment": 0,
-        "published": "June 21, 2022 12:48 AM"
-    },
-    {
         "title": "Paramount: we won’t remove content from eras with ‘different sensibilities’",
         "domain": "theguardian.com",
         "category": "television",
@@ -32,7 +23,7 @@
         "category": "technology",
         "link": "https://www.cloudflarestatus.com",
         "timestamp": 1655794505,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 2:55 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 4:14 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "technology",
         "link": "https://asia.nikkei.com/Business/Aerospace-Defense/South-Korea-succeeds-in-2nd-home-developed-space-rocket-attempt",
         "timestamp": 1655800085,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 4:28 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://torrentfreak.com/judge-recommends-150k-piracy-judgment-against-torrent-site-operator-220620/",
         "timestamp": 1655802068,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 5:01 AM"
     },
     {
@@ -81,40 +72,13 @@
         "published": "June 21, 2022 5:15 AM"
     },
     {
-        "title": "After facing a huge backlash for denigrating the Ukrainian culture and activists, presidential advisor Arestovych is now claiming that gay people are mentally ill. Kyiv Pride is urging Zelenskyy to fire him since there is no place for the “homophobic Russian world” in the EU",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/kyivpride/status/1539138248613810177?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
-        "timestamp": 1655803213,
-        "sentiment": 0,
-        "published": "June 21, 2022 5:20 AM"
-    },
-    {
-        "title": "Thousands of Druids and Pagans watch sunrise at Stonehenge for the summer solstice",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
-        "timestamp": 1655803805,
-        "sentiment": -2,
-        "published": "June 21, 2022 5:30 AM"
-    },
-    {
         "title": "Switzerland Imports Russian Gold for First Time Since Invasion",
         "domain": "bloomberg.com",
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 5:47 AM"
-    },
-    {
-        "title": "GOP senators downplay Jan. 6 panel’s importance",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/senate/3530424-gop-senators-downplay-jan-6-panels-importance/",
-        "timestamp": 1655806454,
-        "sentiment": -4,
-        "published": "June 21, 2022 6:14 AM"
     },
     {
         "title": "More reports cast doubt on police response to Uvalde school shooting",
@@ -131,7 +95,7 @@
         "category": "technology",
         "link": "https://tutanota.com/blog/posts/will-germany-fight-for-privacy",
         "timestamp": 1655809901,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 7:11 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.19fortyfive.com/2022/06/putins-ukraine-body-count-34100-dead-nearly-1500-tanks-destroyed/",
         "timestamp": 1655813431,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 8:10 AM"
     },
     {
@@ -194,17 +158,8 @@
         "category": "sports",
         "link": "https://www.espn.com/golf/story/_/id/34124761/brooks-koepka-becomes-latest-star-golfer-leave-pga-tour-liv-golf-series-sources-confirm",
         "timestamp": 1655814892,
-        "sentiment": 1,
-        "published": "June 21, 2022 8:34 AM"
-    },
-    {
-        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
-        "timestamp": 1655815389,
         "sentiment": -2,
-        "published": "June 21, 2022 8:43 AM"
+        "published": "June 21, 2022 8:34 AM"
     },
     {
         "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
@@ -221,7 +176,7 @@
         "category": "sports",
         "link": "https://www.insider.com/katie-ledecky-14-second-win-1500-world-championships-video-2022-6",
         "timestamp": 1655815694,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 21, 2022 8:48 AM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/nasa-starting-shut-down-voyager-121022555.html",
         "timestamp": 1655815790,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 8:49 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
         "timestamp": 1655815945,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 21, 2022 8:52 AM"
     },
     {
@@ -248,26 +203,8 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
         "timestamp": 1655816454,
-        "sentiment": -2,
-        "published": "June 21, 2022 9:00 AM"
-    },
-    {
-        "title": "\"Safety McSafe Face\": The rejected suggestions for naming Ithaca's police force",
-        "domain": "ithacavoice.com",
-        "category": "news",
-        "link": "https://ithacavoice.com/2022/06/safety-mcsafe-face-the-rejected-suggestions-for-naming-ithacas-police-force/",
-        "timestamp": 1655817863,
         "sentiment": 0,
-        "published": "June 21, 2022 9:24 AM"
-    },
-    {
-        "title": "Citing Threat From Russia, Canada Announces Major Investment In Air Defense",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/canada-norad-investment-russia/31907742.html",
-        "timestamp": 1655818661,
-        "sentiment": -2,
-        "published": "June 21, 2022 9:37 AM"
+        "published": "June 21, 2022 9:00 AM"
     },
     {
         "title": "The Founders Feared a Tyranny of the Majority, but What We Have Is a Tyranny of a Fanatical Minority",
@@ -293,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/ben-stiller-angelina-jolie-sean-penn-liev-schreiber-visit-ukraine-volodymyr-zelenskyy-russia-war/",
         "timestamp": 1655821953,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 10:32 AM"
     },
     {
@@ -338,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/kaliningrad-russia-threatens-serious-consequences-as-lithuania-blocks-rail-goods",
         "timestamp": 1655825246,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 11:27 AM"
     },
     {
@@ -347,7 +284,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1539269928888442882",
         "timestamp": 1655825870,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 21, 2022 11:37 AM"
     },
     {
@@ -410,17 +347,17 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12505348",
         "timestamp": 1655829022,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 21, 2022 12:30 PM"
     },
     {
-        "title": "Browns' Watson settles 20 of 24 civil suits",
-        "domain": "theathletic.com",
-        "category": "sports",
-        "link": "https://theathletic.com/news/deshaun-watson-lawsuits/vORuMRdmXlPo/?amp=1",
-        "timestamp": 1655829964,
-        "sentiment": 1,
-        "published": "June 21, 2022 12:46 PM"
+        "title": "Luxembourg commits 15% of defense budget to support Ukraine Army - Zelensky",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-polytics/3512004-luxembourg-commits-15-of-defense-budget-to-support-ukraine-army-zelensky.html",
+        "timestamp": 1655829421,
+        "sentiment": -4,
+        "published": "June 21, 2022 12:37 PM"
     },
     {
         "title": "The James Webb Space Telescope is finally ready to do science — and it's seeing the universe more clearly than even its own engineers hoped for",
@@ -428,8 +365,17 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-ready-astronomer-explains",
         "timestamp": 1655830646,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 21, 2022 12:57 PM"
+    },
+    {
+        "title": "Top US 'Nazi hunter' to lead Justice Department effort to uncover war crimes in Ukraine",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/21/politics/ukraine-war-crimes-justice-department-nazi-hunter/index.html",
+        "timestamp": 1655830715,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:58 PM"
     },
     {
         "title": "Florida law enforceable again: Turn down your radio or face ticket",
@@ -441,13 +387,157 @@
         "published": "June 21, 2022 1:04 PM"
     },
     {
+        "title": "German investigators found proof that syria's dictator is funding his rule with drug money",
+        "domain": "spiegel.de",
+        "category": "worldnews",
+        "link": "https://www.spiegel.de/international/world/syrian-drug-smuggling-the-assad-regime-would-not-survive-loss-of-captagon-revenues-a-b4302356-e562-4088-95a1-45d557a3952a?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+        "timestamp": 1655831476,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:11 PM"
+    },
+    {
+        "title": "5-year-old boy died after being left in a car for hours while his mother prepared for a birthday party, report says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/21/us/5-year-old-hot-car-death-houston/index.html",
+        "timestamp": 1655832205,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:23 PM"
+    },
+    {
+        "title": "Putin says Russia has best army after losing 34k troops in just 4 months",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-putin-best-armed-forces-ukraine-war-troop-losses-1717641",
+        "timestamp": 1655833186,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:39 PM"
+    },
+    {
         "title": "Transgender women banned from playing in women's international rugby league matches",
         "domain": "cnn.com",
         "category": "sports",
         "link": "https://www.cnn.com/2022/06/21/sport/rugby-league-bans-trans-women-spt-intl/index.html",
         "timestamp": 1655833316,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 21, 2022 1:41 PM"
+    },
+    {
+        "title": "'What the F-ck Is This?': Team Trump Blindsided by Jan. 6 Committee Getting Doc Footage",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/alex-holder-jan-6-committee-subpoena-1371644/",
+        "timestamp": 1655833457,
+        "sentiment": -4,
+        "published": "June 21, 2022 1:44 PM"
+    },
+    {
+        "title": "Vegas Company Promised Fast Internet. Rural America Waits…and Waits - LTD Broadband won rights to $1.3 billion in federal funds to deliver broadband in parts of 15 states, then missed deadlines to qualify for money",
+        "domain": "wsj.com",
+        "category": "technology",
+        "link": "https://www.wsj.com/articles/vegas-company-promised-fast-internet-rural-america-waitsand-waits-11655809200",
+        "timestamp": 1655833642,
+        "sentiment": 4,
+        "published": "June 21, 2022 1:47 PM"
+    },
+    {
+        "title": "Florence Pugh To Star In ‘East Of Eden’ Limited Series For Netflix",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/zoe-kazan-florence-pugh-east-of-eden-netflix-anonymous-content-and-endeavor-content-1235048776/",
+        "timestamp": 1655835392,
+        "sentiment": 0,
+        "published": "June 21, 2022 2:16 PM"
+    },
+    {
+        "title": "Man arrested for stealing sausage rolls killed himself after police labelled him a paedophile",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/uk-news/2022/jun/21/man-arrested-for-stealing-sausage-rolls-killed-himself-after-police-labelled-him-a-paedophile",
+        "timestamp": 1655836576,
+        "sentiment": 0,
+        "published": "June 21, 2022 2:36 PM"
+    },
+    {
+        "title": "Tampa Bay Buccaneers TE Rob Gronkowski retiring from NFL for second time",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/nfl/story/_/id/34126136/tampa-bay-buccaneers-te-rob-gronkowski-retiring-nfl-second",
+        "timestamp": 1655836923,
+        "sentiment": -2,
+        "published": "June 21, 2022 2:42 PM"
+    },
+    {
+        "title": "Netflix Braces for More Layoffs This Week",
+        "domain": "variety.com",
+        "category": "technology",
+        "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
+        "timestamp": 1655786916,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:48 AM"
+    },
+    {
+        "title": "After facing a huge backlash for denigrating the Ukrainian culture and activists, presidential advisor Arestovych is now claiming that gay people are mentally ill. Kyiv Pride is urging Zelenskyy to fire him since there is no place for the “homophobic Russian world” in the EU",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/kyivpride/status/1539138248613810177?s=21&t=wSv6tDb_rYhyIS-uCcJDQg",
+        "timestamp": 1655803213,
+        "sentiment": 0,
+        "published": "June 21, 2022 5:20 AM"
+    },
+    {
+        "title": "Thousands of Druids and Pagans watch sunrise at Stonehenge for the summer solstice",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-61876944",
+        "timestamp": 1655803805,
+        "sentiment": -2,
+        "published": "June 21, 2022 5:30 AM"
+    },
+    {
+        "title": "GOP senators downplay Jan. 6 panel’s importance",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/3530424-gop-senators-downplay-jan-6-panels-importance/",
+        "timestamp": 1655806454,
+        "sentiment": -4,
+        "published": "June 21, 2022 6:14 AM"
+    },
+    {
+        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
+        "timestamp": 1655815389,
+        "sentiment": -2,
+        "published": "June 21, 2022 8:43 AM"
+    },
+    {
+        "title": "\"Safety McSafe Face\": The rejected suggestions for naming Ithaca's police force",
+        "domain": "ithacavoice.com",
+        "category": "news",
+        "link": "https://ithacavoice.com/2022/06/safety-mcsafe-face-the-rejected-suggestions-for-naming-ithacas-police-force/",
+        "timestamp": 1655817863,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:24 AM"
+    },
+    {
+        "title": "Citing Threat From Russia, Canada Announces Major Investment In Air Defense",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/canada-norad-investment-russia/31907742.html",
+        "timestamp": 1655818661,
+        "sentiment": -2,
+        "published": "June 21, 2022 9:37 AM"
+    },
+    {
+        "title": "Browns' Watson settles 20 of 24 civil suits",
+        "domain": "theathletic.com",
+        "category": "sports",
+        "link": "https://theathletic.com/news/deshaun-watson-lawsuits/vORuMRdmXlPo/?amp=1",
+        "timestamp": 1655829964,
+        "sentiment": 1,
+        "published": "June 21, 2022 12:46 PM"
     },
     {
         "title": "Once empowered by Title IX, female athletes are now among big winners in new NIL era",
