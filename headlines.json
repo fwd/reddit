@@ -1,14 +1,5 @@
 [
     {
-        "title": "Australia's Seebohm backs FINA decision on transgender swimmers",
-        "domain": "reuters.com",
-        "category": "sports",
-        "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-        "timestamp": 1655699542,
-        "sentiment": 1,
-        "published": "June 20, 2022 12:32 AM"
-    },
-    {
         "title": "Putin ‘threatens action’ against ex-Soviet states if they defy Russia",
         "domain": "metro.co.uk",
         "category": "worldnews",
@@ -32,7 +23,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/StefSimanowitz/status/1538829574804578304",
         "timestamp": 1655720937,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 6:28 AM"
     },
     {
@@ -41,17 +32,8 @@
         "category": "sports",
         "link": "https://edition.cnn.com/2022/06/20/tennis/natela-dzalamidze-wimbledon-nationality-change-spt-intl/index.html",
         "timestamp": 1655721805,
-        "sentiment": 1,
-        "published": "June 20, 2022 6:43 AM"
-    },
-    {
-        "title": "Texas could secede from U.S. in 2023 as GOP pushes for referendum",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
-        "timestamp": 1655723011,
         "sentiment": 0,
-        "published": "June 20, 2022 7:03 AM"
+        "published": "June 20, 2022 6:43 AM"
     },
     {
         "title": "You Can Run Doom on a Chip From a $15 Ikea Smart Lamp",
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/monkey-bullet-proof-vest-killed-deadly-narco-shootout-mexico/",
         "timestamp": 1655730636,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 9:10 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/gay-republican-group-banned-gop-convention/",
         "timestamp": 1655732509,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 9:41 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/better-call-saul-spin-off-breaking-bad-newsupdate/",
         "timestamp": 1655732808,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 9:46 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/SamRamani2/status/1538860382550380544",
         "timestamp": 1655732948,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 9:49 AM"
     },
     {
@@ -122,17 +104,8 @@
         "category": "miami",
         "link": "https://twitter.com/chriswilhelm78/status/1538879214455234561",
         "timestamp": 1655734706,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 20, 2022 10:18 AM"
-    },
-    {
-        "title": "Massachusetts hiker dies near Mt. Washington after rescue in snow, 80 mph wind gusts",
-        "domain": "masslive.com",
-        "category": "news",
-        "link": "https://www.masslive.com/news/2022/06/massachusetts-hiker-dies-near-mt-washington-after-rescue-in-snow-80-mph-wind-gusts.html",
-        "timestamp": 1655735606,
-        "sentiment": 2,
-        "published": "June 20, 2022 10:33 AM"
     },
     {
         "title": "Russian palaces, villas and yachts linked to Putin by email leak – in pictures, maps and video",
@@ -140,7 +113,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/ng-interactive/2022/jun/20/russian-palaces-villas-and-yachts-linked-to-vladimir-putin-llcinvest?CMP=Share_iOSApp_Other",
         "timestamp": 1655736725,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 10:52 AM"
     },
     {
@@ -162,21 +135,12 @@
         "published": "June 20, 2022 11:32 AM"
     },
     {
-        "title": "Orbán calls for EU candidate status for Ukraine, Moldova, Georgia, Bosnia and Herzegovina - The Budapest Times",
-        "domain": "budapesttimes.hu",
-        "category": "ukraine",
-        "link": "https://www.budapesttimes.hu/uncategorized/orban-calls-for-eu-candidate-status-for-ukraine-moldova-georgia-bosnia-and-herzegovina/",
-        "timestamp": 1655739147,
-        "sentiment": -2,
-        "published": "June 20, 2022 11:32 AM"
-    },
-    {
         "title": "Bill Hader Explains Why ‘Barry’ Season 3 Was ‘Almost Like Writing a Different Show’",
         "domain": "thewrap.com",
         "category": "television",
         "link": "https://www.thewrap.com/bill-hader-barry-season-3-interview/",
         "timestamp": 1655741573,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 12:12 PM"
     },
     {
@@ -185,17 +149,8 @@
         "category": "politics",
         "link": "https://www.today.com/popculture/popculture/rupaul-drag-queen-ban-rcna34243",
         "timestamp": 1655741703,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 12:15 PM"
-    },
-    {
-        "title": "The U.S. oil industry company Baker Hughes has stopped servicing all of Russia’s liquefied natural gas projects, putting the launch of new plants and the further operation of existing projects at risk. Baker Hughes has reportedly recalled service engineers from Gazprom projects",
-        "domain": "themoscowtimes.com",
-        "category": "worldnews",
-        "link": "https://www.themoscowtimes.com/2022/06/16/baker-hughes-withdraws-from-russias-arctic-projects-kommersant-a78015",
-        "timestamp": 1655742183,
-        "sentiment": -2,
-        "published": "June 20, 2022 12:23 PM"
     },
     {
         "title": "Volkswagen set to overtake Tesla in global EV sales by 2024",
@@ -212,7 +167,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
         "timestamp": 1655744927,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 1:08 PM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3511279-biden-says-ukraines-membership-of-eu-very-likely.html",
         "timestamp": 1655745470,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 1:17 PM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/john-albert-laylo-philippine-government-attorney-killed-uber-philadelphia/#app",
         "timestamp": 1655746707,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 1:38 PM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-seceding-us-would-mean-war-law-expert-says-1717392",
         "timestamp": 1655747064,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 1:44 PM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2021/01/29/texas-secession/",
         "timestamp": 1655748969,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 2:16 PM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/prosecute-donald-trump-jan6-insurrection-laurence-tribe-1717371",
         "timestamp": 1655749100,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 2:18 PM"
     },
     {
@@ -275,7 +230,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/yellowstone-prequel-1932-1923-1235298818/",
         "timestamp": 1655749927,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 2:32 PM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "ukraine",
         "link": "https://www.mirror.co.uk/news/world-news/vladimir-putin-loses-55th-colonel-27277914",
         "timestamp": 1655751718,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 3:01 PM"
     },
     {
@@ -311,7 +266,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/hulu/only-murders-in-the-building-season-2-review/",
         "timestamp": 1655751937,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 3:05 PM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "television",
         "link": "https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/",
         "timestamp": 1655761158,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 5:39 PM"
     },
     {
@@ -365,8 +320,17 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-gop-website-crashes-after-push-vote-secede-us-1717449?amp=1",
         "timestamp": 1655762585,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 6:03 PM"
+    },
+    {
+        "title": "Russian propagandist Russians With Attitude is operating his merch store using a Canadian domain. Please help me spread the words to Canadian MPs.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TriggerLRSSG/status/1538943787950649346",
+        "timestamp": 1655763288,
+        "sentiment": 0,
+        "published": "June 20, 2022 6:14 PM"
     },
     {
         "title": "FIFA, World Athletics review transgender rules after swimming's change",
@@ -374,7 +338,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/fifa-world-athletics-review-transgender-rules-after-swimmings-change-2022-06-20/",
         "timestamp": 1655763580,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:19 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/four-baltimore-homes-burn-street-pride-flag-fire-police-investigate-po-rcna33893",
         "timestamp": 1655763611,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 6:20 PM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/opinion/story/2022-06-20/jan-6-insurrection-prosecution-donald-trump-reelection",
         "timestamp": 1655764167,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 6:29 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "television",
         "link": "https://www.nme.com/news/tv/viral-horror-webseries-dont-hug-me-im-scared-is-getting-a-tv-show-3251800",
         "timestamp": 1655765517,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 6:51 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "sports",
         "link": "https://streamable.com/gjqnvp",
         "timestamp": 1655765885,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 20, 2022 6:58 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/mike-pence-joe-biden-donald-trump-falsehoods-1371398/",
         "timestamp": 1655766080,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 7:01 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/ted-cruz-texas-gop-convention-coward-viral-video-globalism-globalist-1717270",
         "timestamp": 1655767871,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 20, 2022 7:31 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/game-of-thrones-jon-snow-spinoff-twitter-1235298862/",
         "timestamp": 1655768569,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 7:42 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "ukraine",
         "link": "https://crooksandliars.com/2022/06/putin-mouthpiece-claims-west-sanctions?utm_source=social&utm_medium=twitter&utm_content=61469",
         "timestamp": 1655768584,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 20, 2022 7:43 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/dead-42-injured-weekend-mass-shootings-us/story?id=85506154",
         "timestamp": 1655769311,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 7:55 PM"
     },
     {
@@ -500,7 +464,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/rowan-atkinson-cancel-culture-comedy-1234735202/",
         "timestamp": 1655769757,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 20, 2022 8:02 PM"
     },
     {
@@ -513,6 +477,15 @@
         "published": "June 20, 2022 8:09 PM"
     },
     {
+        "title": "Russian Woman Who Told Putin To ‘Burn In Hell’ Faces Terrorism Charges",
+        "domain": "ibtimes.com",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.com/russian-woman-who-told-putin-burn-hell-faces-terrorism-charges-3545253",
+        "timestamp": 1655770272,
+        "sentiment": -2,
+        "published": "June 20, 2022 8:11 PM"
+    },
+    {
         "title": "Florida's new insurance law is a boon to the insurance industry",
         "domain": "yahoo.com",
         "category": "florida",
@@ -520,6 +493,15 @@
         "timestamp": 1655770361,
         "sentiment": 0,
         "published": "June 20, 2022 8:12 PM"
+    },
+    {
+        "title": "Opinion | Texas Republicans want to secede? Good riddance.",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/20/texas-gop-platform-secession-theocracy/?utm_campaign=wp_follow_dana_milbank&utm_medium=email&utm_source=newsletter&wpisrc=nl_danamilbank&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3726dd3%2F62b0f8edcfe8a21601b5e949%2F5d1aaba59bbc0f06dbee8c85%2F5%2F19%2F62b0f8edcfe8a21601b5e949&wp_cu=876470048a76229e79397b9a3e635573%7C8CA914A09B496C3DE0530100007FDC1A",
+        "timestamp": 1655771783,
+        "sentiment": -1,
+        "published": "June 20, 2022 8:36 PM"
     },
     {
         "title": "Tesla illegally fired thousands of workers and denied them pay, lawsuit claims",
@@ -536,7 +518,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/elon-musks-child-seeks-name-change-sever-ties-with-father-2022-06-21/",
         "timestamp": 1655774114,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 9:15 PM"
     },
     {
@@ -545,7 +527,7 @@
         "category": "sports",
         "link": "https://www.smh.com.au/sport/nrl/rugby-league-bans-transgender-athletes-from-international-matches-20220621-p5avar.html",
         "timestamp": 1655775465,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 20, 2022 9:37 PM"
     },
     {
@@ -554,8 +536,71 @@
         "category": "news",
         "link": "https://deadline.com/2022/06/uvalde-parents-reporters-asked-to-leave-meeting-1235048896/",
         "timestamp": 1655775798,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 20, 2022 9:43 PM"
+    },
+    {
+        "title": "Uvalde parents, community members call for chief's resignation at emotional school board meeting",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/uvalde-parents-community-members-call-chiefs-resignation-emotional/story?id=85520345",
+        "timestamp": 1655779216,
+        "sentiment": 0,
+        "published": "June 20, 2022 10:40 PM"
+    },
+    {
+        "title": "Leclerc overtaking Alpines was sensational",
+        "domain": "streamable.com",
+        "category": "sports",
+        "link": "https://streamable.com/3fuueg",
+        "timestamp": 1655779866,
+        "sentiment": 0,
+        "published": "June 20, 2022 10:51 PM"
+    },
+    {
+        "title": "Australia's Seebohm backs FINA decision on transgender swimmers",
+        "domain": "reuters.com",
+        "category": "sports",
+        "link": "https://www.reuters.com/lifestyle/sports/australias-seebohm-backs-fina-decision-transgender-swimmers-2022-06-20/?taid=62aff1f565730a00012eb62d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+        "timestamp": 1655699542,
+        "sentiment": 1,
+        "published": "June 20, 2022 12:32 AM"
+    },
+    {
+        "title": "Texas could secede from U.S. in 2023 as GOP pushes for referendum",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-secede-us-2023-gop-pushes-referendum-1717254?amp=1",
+        "timestamp": 1655723011,
+        "sentiment": 0,
+        "published": "June 20, 2022 7:03 AM"
+    },
+    {
+        "title": "Massachusetts hiker dies near Mt. Washington after rescue in snow, 80 mph wind gusts",
+        "domain": "masslive.com",
+        "category": "news",
+        "link": "https://www.masslive.com/news/2022/06/massachusetts-hiker-dies-near-mt-washington-after-rescue-in-snow-80-mph-wind-gusts.html",
+        "timestamp": 1655735606,
+        "sentiment": 2,
+        "published": "June 20, 2022 10:33 AM"
+    },
+    {
+        "title": "Orbán calls for EU candidate status for Ukraine, Moldova, Georgia, Bosnia and Herzegovina - The Budapest Times",
+        "domain": "budapesttimes.hu",
+        "category": "ukraine",
+        "link": "https://www.budapesttimes.hu/uncategorized/orban-calls-for-eu-candidate-status-for-ukraine-moldova-georgia-bosnia-and-herzegovina/",
+        "timestamp": 1655739147,
+        "sentiment": -2,
+        "published": "June 20, 2022 11:32 AM"
+    },
+    {
+        "title": "The U.S. oil industry company Baker Hughes has stopped servicing all of Russia’s liquefied natural gas projects, putting the launch of new plants and the further operation of existing projects at risk. Baker Hughes has reportedly recalled service engineers from Gazprom projects",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/06/16/baker-hughes-withdraws-from-russias-arctic-projects-kommersant-a78015",
+        "timestamp": 1655742183,
+        "sentiment": -2,
+        "published": "June 20, 2022 12:23 PM"
     },
     {
         "title": "Russia says Lithuania's transit ban \"illegal\"",
