@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
         "timestamp": 1655873519,
-        "sentiment": -2,
+        "sentiment": -8,
         "published": "June 22, 2022 12:51 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
         "timestamp": 1655878302,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 2:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
         "timestamp": 1655879839,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 2:37 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
         "timestamp": 1655884242,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 22, 2022 3:50 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
         "timestamp": 1655885433,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 4:10 AM"
     },
     {
@@ -50,8 +50,287 @@
         "category": "worldnews",
         "link": "https://cepa.org/russia-begins-to-pay-the-price-for-sanctions/",
         "timestamp": 1655886725,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 4:32 AM"
+    },
+    {
+        "title": "Chicago police are no longer allowed to chase people on foot just for running away",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1655889518,
+        "sentiment": -8,
+        "published": "June 22, 2022 5:18 AM"
+    },
+    {
+        "title": "The Georgia election workers Trump slandered are the foundation of American democracy",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
+        "timestamp": 1655889942,
+        "sentiment": 0,
+        "published": "June 22, 2022 5:25 AM"
+    },
+    {
+        "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
+        "timestamp": 1655892950,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:15 AM"
+    },
+    {
+        "title": "Finland is ready to fight Russia if attacked - defence chief",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
+        "timestamp": 1655893545,
+        "sentiment": -8,
+        "published": "June 22, 2022 6:25 AM"
+    },
+    {
+        "title": "China plans to review every single comment before it is posted on social media",
+        "domain": "china-underground.com",
+        "category": "technology",
+        "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
+        "timestamp": 1655894453,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:40 AM"
+    },
+    {
+        "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
+        "timestamp": 1655895710,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:01 AM"
+    },
+    {
+        "title": "China plans to have every single comment reviewed before it's published on social media",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
+        "timestamp": 1655896314,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:11 AM"
+    },
+    {
+        "title": "Kherson underground continues its struggle. We are spreading leaflets every day, delivering information for our armed forces & security service. Friends, shout everywhere that Kherson is Ukraine!",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/EuromaidanPress/status/1539566441560670209",
+        "timestamp": 1655896357,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:12 AM"
+    },
+    {
+        "title": "Could the fake electors scheme prove to be Trump campaign’s achilles heel? | The justice department is investigating whether the Republicans who signed as electors could be charged",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
+        "timestamp": 1655897076,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:24 AM"
+    },
+    {
+        "title": "Human pollution likely killed 47-foot sperm whale found dead off Florida Keys",
+        "domain": "local10.com",
+        "category": "florida",
+        "link": "https://www.local10.com/news/local/2022/05/18/human-pollution-likely-killed-47-foot-sperm-whale-found-dead-off-florida-keys/",
+        "timestamp": 1655897245,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:27 AM"
+    },
+    {
+        "title": "Uvalde City Council denies Pete Arredondo's leave of absence request",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
+        "timestamp": 1655897790,
+        "sentiment": -8,
+        "published": "June 22, 2022 7:36 AM"
+    },
+    {
+        "title": "Russia warns UK will 'cease to exist' if Lithuania standoff triggers nuclear WW3",
+        "domain": "dailyrecord.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/russia-warning-uk-lithuania-standoff-27289972",
+        "timestamp": 1655898319,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:45 AM"
+    },
+    {
+        "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
+        "timestamp": 1655898917,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:55 AM"
+    },
+    {
+        "title": "The Colombian right conceded the election, acknowledged it was fair and represented the will of its people. Ron DeSantis:",
+        "domain": "twitter.com",
+        "category": "florida",
+        "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
+        "timestamp": 1655899008,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:56 AM"
+    },
+    {
+        "title": "Trump World wants to ‘burn DeSantis down’: 5 takeaways from New Yorker’s DeSantis profile",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
+        "timestamp": 1655899158,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:59 AM"
+    },
+    {
+        "title": "A GOP senator got caught pretending to be on his phone to avoid questions about the Jan. 6 insurrection",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
+        "timestamp": 1655899385,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:03 AM"
+    },
+    {
+        "title": "'Bridgerton' star Simone Ashley says she once learned how 'snails mate' in intimacy workshop to prepare for sex scenes",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
+        "timestamp": 1655900420,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:20 AM"
+    },
+    {
+        "title": "Meta's metaverse hardware business is on fire, 2024+ headsets paused says analyst Ming-Chi Kuo",
+        "domain": "tweaktown.com",
+        "category": "technology",
+        "link": "https://www.tweaktown.com/news/87026/metas-metaverse-hardware-business-is-on-fire-2024-headsets-paused/index.html",
+        "timestamp": 1655900903,
+        "sentiment": -2,
+        "published": "June 22, 2022 8:28 AM"
+    },
+    {
+        "title": "Traces of polio virus found in London sewage as health officials declare national incident",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
+        "timestamp": 1655901318,
+        "sentiment": -2,
+        "published": "June 22, 2022 8:35 AM"
+    },
+    {
+        "title": "What Are Trump Supporters So Afraid Of? The voice inside that tells them how wrong they are.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
+        "timestamp": 1655901431,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:37 AM"
+    },
+    {
+        "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
+        "timestamp": 1655901712,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:41 AM"
+    },
+    {
+        "title": "Even Fox News analysts say Donald Trump should face criminal charges as channel starts airing Jan 6 hearings",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
+        "timestamp": 1655901997,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:46 AM"
+    },
+    {
+        "title": "Amazon could run out of workers in US in two years, internal memo suggests | With exceptionally high turnover, the company risks churning though available labor pool by 2024",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortage-leaked-memo-warehouse",
+        "timestamp": 1655902229,
+        "sentiment": -2,
+        "published": "June 22, 2022 8:50 AM"
+    },
+    {
+        "title": "'The Boys' Upcoming 'Herogasm' Episode Teased with Content Warnings - \"Not Suitable For Any Audience\"",
+        "domain": "comicbookmovie.com",
+        "category": "television",
+        "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
+        "timestamp": 1655903691,
+        "sentiment": 0,
+        "published": "June 22, 2022 9:14 AM"
+    },
+    {
+        "title": "Tesla makes 4 of the 10 most American-made cars, according to a new study",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-model-y-3-most-american-made-car-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655904097,
+        "sentiment": -2,
+        "published": "June 22, 2022 9:21 AM"
+    },
+    {
+        "title": "Brazilian judge refuses abortion for 11-year-old rape victim",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/21/brazilian-judge-refuses-abortion-for-11-year-old-rape-victim/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+        "timestamp": 1655904440,
+        "sentiment": -2,
+        "published": "June 22, 2022 9:27 AM"
+    },
+    {
+        "title": "Mike Pence Is Useless: The former vice president's refusal to address his former boss's attempted coup somehow manages to straddle the line between cowardice and opportunism.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
+        "timestamp": 1655904521,
+        "sentiment": 0,
+        "published": "June 22, 2022 9:28 AM"
+    },
+    {
+        "title": "U.S. tech companies yank job offers, leaving college grads scrambling",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
+        "timestamp": 1655908070,
+        "sentiment": -2,
+        "published": "June 22, 2022 10:27 AM"
+    },
+    {
+        "title": "Ravens' Jaylon Ferguson dies at 26: Linebacker was a third-round pick in 2019 NFL Draft",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/nfl/news/ravens-jaylon-ferguson-dies-at-26-linebacker-was-a-third-round-pick-in-2019-nfl-draft/",
+        "timestamp": 1655908173,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:29 AM"
+    },
+    {
+        "title": "U.S. FDA to order Juul e-cigarettes off market",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
+        "timestamp": 1655908826,
+        "sentiment": -8,
+        "published": "June 22, 2022 10:40 AM"
+    },
+    {
+        "title": "I Have “Zero Trust” in U.S. Government: Wife of Brittney Griner, Basketball Star Detained in Russia",
+        "domain": "democracynow.org",
+        "category": "sports",
+        "link": "https://www.democracynow.org/2022/6/22/headlines/i_have_zero_trust_in_us_government_wife_of_brittney_griner_basketball_star_detained_in_russia",
+        "timestamp": 1655910235,
+        "sentiment": 0,
+        "published": "June 22, 2022 11:03 AM"
     },
     {
         "title": "World's biggest cruise ship has no buyer, 1st Voyage may be to scrapyard",
@@ -63,24 +342,6 @@
         "published": "June 22, 2022 5:09 AM"
     },
     {
-        "title": "Chicago police are no longer allowed to chase people on foot just for running away",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1655889518,
-        "sentiment": -2,
-        "published": "June 22, 2022 5:18 AM"
-    },
-    {
-        "title": "The Georgia election workers Trump slandered are the foundation of American democracy",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
-        "timestamp": 1655889942,
-        "sentiment": -3,
-        "published": "June 22, 2022 5:25 AM"
-    },
-    {
         "title": "A Russian military helicopter crossed into NATO territory for 2 minutes, further ramping up tensions with the bloc",
         "domain": "businessinsider.com",
         "category": "worldnews",
@@ -88,204 +349,6 @@
         "timestamp": 1655891791,
         "sentiment": 0,
         "published": "June 22, 2022 5:56 AM"
-    },
-    {
-        "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
-        "domain": "nbcnews.com",
-        "category": "technology",
-        "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
-        "timestamp": 1655892950,
-        "sentiment": 0,
-        "published": "June 22, 2022 6:15 AM"
-    },
-    {
-        "title": "Finland is ready to fight Russia if attacked - defence chief",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
-        "timestamp": 1655893545,
-        "sentiment": -2,
-        "published": "June 22, 2022 6:25 AM"
-    },
-    {
-        "title": "China plans to review every single comment before it is posted on social media",
-        "domain": "china-underground.com",
-        "category": "technology",
-        "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
-        "timestamp": 1655894453,
-        "sentiment": 0,
-        "published": "June 22, 2022 6:40 AM"
-    },
-    {
-        "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
-        "domain": "techcrunch.com",
-        "category": "technology",
-        "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
-        "timestamp": 1655895710,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:01 AM"
-    },
-    {
-        "title": "China plans to have every single comment reviewed before it's published on social media",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
-        "timestamp": 1655896314,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:11 AM"
-    },
-    {
-        "title": "Could the fake electors scheme prove to be Trump campaign’s achilles heel? | The justice department is investigating whether the Republicans who signed as electors could be charged",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
-        "timestamp": 1655897076,
-        "sentiment": -3,
-        "published": "June 22, 2022 7:24 AM"
-    },
-    {
-        "title": "Human pollution likely killed 47-foot sperm whale found dead off Florida Keys",
-        "domain": "local10.com",
-        "category": "florida",
-        "link": "https://www.local10.com/news/local/2022/05/18/human-pollution-likely-killed-47-foot-sperm-whale-found-dead-off-florida-keys/",
-        "timestamp": 1655897245,
-        "sentiment": -8,
-        "published": "June 22, 2022 7:27 AM"
-    },
-    {
-        "title": "Uvalde City Council denies Pete Arredondo's leave of absence request",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
-        "timestamp": 1655897790,
-        "sentiment": -2,
-        "published": "June 22, 2022 7:36 AM"
-    },
-    {
-        "title": "Russia warns UK will 'cease to exist' if Lithuania standoff triggers nuclear WW3",
-        "domain": "dailyrecord.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/russia-warning-uk-lithuania-standoff-27289972",
-        "timestamp": 1655898319,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:45 AM"
-    },
-    {
-        "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
-        "timestamp": 1655898917,
-        "sentiment": -3,
-        "published": "June 22, 2022 7:55 AM"
-    },
-    {
-        "title": "The Colombian right conceded the election, acknowledged it was fair and represented the will of its people. Ron DeSantis:",
-        "domain": "twitter.com",
-        "category": "florida",
-        "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
-        "timestamp": 1655899008,
-        "sentiment": -8,
-        "published": "June 22, 2022 7:56 AM"
-    },
-    {
-        "title": "Trump World wants to ‘burn DeSantis down’: 5 takeaways from New Yorker’s DeSantis profile",
-        "domain": "tallahassee.com",
-        "category": "florida",
-        "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
-        "timestamp": 1655899158,
-        "sentiment": -8,
-        "published": "June 22, 2022 7:59 AM"
-    },
-    {
-        "title": "A GOP senator got caught pretending to be on his phone to avoid questions about the Jan. 6 insurrection",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
-        "timestamp": 1655899385,
-        "sentiment": -3,
-        "published": "June 22, 2022 8:03 AM"
-    },
-    {
-        "title": "'Bridgerton' star Simone Ashley says she once learned how 'snails mate' in intimacy workshop to prepare for sex scenes",
-        "domain": "insider.com",
-        "category": "television",
-        "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
-        "timestamp": 1655900420,
-        "sentiment": 2,
-        "published": "June 22, 2022 8:20 AM"
-    },
-    {
-        "title": "Meta's metaverse hardware business is on fire, 2024+ headsets paused says analyst Ming-Chi Kuo",
-        "domain": "tweaktown.com",
-        "category": "technology",
-        "link": "https://www.tweaktown.com/news/87026/metas-metaverse-hardware-business-is-on-fire-2024-headsets-paused/index.html",
-        "timestamp": 1655900903,
-        "sentiment": 0,
-        "published": "June 22, 2022 8:28 AM"
-    },
-    {
-        "title": "Traces of polio virus found in London sewage as health officials declare national incident",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
-        "timestamp": 1655901318,
-        "sentiment": 0,
-        "published": "June 22, 2022 8:35 AM"
-    },
-    {
-        "title": "What Are Trump Supporters So Afraid Of? The voice inside that tells them how wrong they are.",
-        "domain": "theatlantic.com",
-        "category": "politics",
-        "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
-        "timestamp": 1655901431,
-        "sentiment": -3,
-        "published": "June 22, 2022 8:37 AM"
-    },
-    {
-        "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
-        "timestamp": 1655901712,
-        "sentiment": -3,
-        "published": "June 22, 2022 8:41 AM"
-    },
-    {
-        "title": "Even Fox News analysts say Donald Trump should face criminal charges as channel starts airing Jan 6 hearings",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
-        "timestamp": 1655901997,
-        "sentiment": -3,
-        "published": "June 22, 2022 8:46 AM"
-    },
-    {
-        "title": "Amazon could run out of workers in US in two years, internal memo suggests | With exceptionally high turnover, the company risks churning though available labor pool by 2024",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortage-leaked-memo-warehouse",
-        "timestamp": 1655902229,
-        "sentiment": 0,
-        "published": "June 22, 2022 8:50 AM"
-    },
-    {
-        "title": "'The Boys' Upcoming 'Herogasm' Episode Teased with Content Warnings - \"Not Suitable For Any Audience\"",
-        "domain": "comicbookmovie.com",
-        "category": "television",
-        "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
-        "timestamp": 1655903691,
-        "sentiment": 2,
-        "published": "June 22, 2022 9:14 AM"
-    },
-    {
-        "title": "Ravens' Jaylon Ferguson dies at 26: Linebacker was a third-round pick in 2019 NFL Draft",
-        "domain": "cbssports.com",
-        "category": "sports",
-        "link": "https://www.cbssports.com/nfl/news/ravens-jaylon-ferguson-dies-at-26-linebacker-was-a-third-round-pick-in-2019-nfl-draft/",
-        "timestamp": 1655908173,
-        "sentiment": 0,
-        "published": "June 22, 2022 10:29 AM"
     },
     {
         "title": "Brexit will leave workers poorer than they would have been and has damaged Britain's competitiveness, new study says",
