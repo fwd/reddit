@@ -5,7 +5,7 @@
         "category": "ukraine",
         "link": "https://thedailyblog.co.nz/2022/06/21/guest-blog-ben-morgan-dont-listen-to-the-news-russia-is-losing/",
         "timestamp": 1655870681,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "June 22, 2022 12:04 AM"
     },
     {
@@ -16,6 +16,15 @@
         "timestamp": 1655872008,
         "sentiment": 3,
         "published": "June 22, 2022 12:26 AM"
+    },
+    {
+        "title": "More than 1,300 Southwest Airlines pilots march on picket line, say they're overworked and underpaid",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
+        "timestamp": 1655873519,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:51 AM"
     },
     {
         "title": "Russian forces in Ukraine are tracing down gay men, raping and castrating them. Journalists on the ground spoke with war crimes investigators in search of what is being done to get justice for the victims.",
@@ -36,6 +45,42 @@
         "published": "June 22, 2022 2:37 AM"
     },
     {
+        "title": "A Ukrainian loitering munition (aka a suicide drone) hits a Russian oil refinery in Novoshakhtinsk, Rostov Oblast",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
+        "timestamp": 1655884242,
+        "sentiment": -3,
+        "published": "June 22, 2022 3:50 AM"
+    },
+    {
+        "title": "The new McDonald's in Russia sold 120,000 burgers on its opening day, surpassing daily records in its past life, CEO says",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
+        "timestamp": 1655885433,
+        "sentiment": 3,
+        "published": "June 22, 2022 4:10 AM"
+    },
+    {
+        "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
+        "timestamp": 1655892950,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:15 AM"
+    },
+    {
+        "title": "China plans to review every single comment before it is posted on social media",
+        "domain": "china-underground.com",
+        "category": "technology",
+        "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
+        "timestamp": 1655894453,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:40 AM"
+    },
+    {
         "title": "Judge bans 11-year-old rape victim from having abortion",
         "domain": "newsweek.com",
         "category": "worldnews",
@@ -52,15 +97,6 @@
         "timestamp": 1655883048,
         "sentiment": 0,
         "published": "June 22, 2022 3:30 AM"
-    },
-    {
-        "title": "A Ukrainian loitering munition (aka a suicide drone) hits a Russian oil refinery in Novoshakhtinsk, Rostov Oblast",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
-        "timestamp": 1655884242,
-        "sentiment": 1,
-        "published": "June 22, 2022 3:50 AM"
     },
     {
         "title": "Caleb Swanigan Dead at 25: Is It Related to Depression?",
