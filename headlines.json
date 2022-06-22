@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
         "timestamp": 1655879839,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 2:37 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 5:18 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": -6,
+        "sentiment": 3,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -68,17 +68,8 @@
         "category": "news",
         "link": "https://apnews.com/article/afghanistan-earthquakes-bacc4c96b7a07b5d7d397bee9eb9d3c8",
         "timestamp": 1655900370,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 8:19 AM"
-    },
-    {
-        "title": "'Bridgerton' star Simone Ashley says she once learned how 'snails mate' in intimacy workshop to prepare for sex scenes",
-        "domain": "insider.com",
-        "category": "television",
-        "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
-        "timestamp": 1655900420,
-        "sentiment": 2,
-        "published": "June 22, 2022 8:20 AM"
     },
     {
         "title": "Finland prepared for decades for Russian attack, defense chief says Finns ready.",
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 8:26 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "television",
         "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
         "timestamp": 1655903691,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 9:14 AM"
     },
     {
@@ -176,17 +167,8 @@
         "category": "sports",
         "link": "https://www.cbssports.com/nfl/news/ravens-jaylon-ferguson-dies-at-26-linebacker-was-a-third-round-pick-in-2019-nfl-draft/",
         "timestamp": 1655908173,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 10:29 AM"
-    },
-    {
-        "title": "U.S. tech companies yank job offers, leaving college grads scrambling.",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
-        "timestamp": 1655908710,
-        "sentiment": 0,
-        "published": "June 22, 2022 10:38 AM"
     },
     {
         "title": "Activision Blizzard Shareholders Vote To Require Video Game Firm To Publish Annual Report On Its Efforts To Curb Workplace Abuse",
@@ -203,7 +185,7 @@
         "category": "sports",
         "link": "https://www.democracynow.org/2022/6/22/headlines/i_have_zero_trust_in_us_government_wife_of_brittney_griner_basketball_star_detained_in_russia",
         "timestamp": 1655910235,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 11:03 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
         "timestamp": 1655910672,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 11:11 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/craig-robinson-comedy-killing-it-renewed-for-season-2-at-peacock-1235169703/",
         "timestamp": 1655911891,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:31 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": -6,
+        "sentiment": 3,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
         "timestamp": 1655912042,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/house-of-the-dragon-hbo-unveils-key-art-for-game-of-thrones-prequel-1235050015/",
         "timestamp": 1655912062,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -261,21 +243,12 @@
         "published": "June 22, 2022 11:40 AM"
     },
     {
-        "title": "Olaf Scholz on Twitter: \"Ukraine - and only Ukraine - decides what is right for it. Nothing concerning Ukraine without Ukraine! We are far from negotiations because Putin believes in a dictatorial peace. All the more crucial that we steadfastly stay our course.\"",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/Bundeskanzler/status/1539628231329988614",
-        "timestamp": 1655912770,
-        "sentiment": 2,
-        "published": "June 22, 2022 11:46 AM"
-    },
-    {
         "title": "Cement carbon dioxide emissions quietly double in 20 years",
         "domain": "apnews.com",
         "category": "worldnews",
         "link": "https://apnews.com/article/climate-science-china-pollution-3d97642acbb07fca7540edca38448266?taid=62b33337785c930001d828d3&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
         "timestamp": 1655913161,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 11:52 AM"
     },
     {
@@ -306,12 +279,21 @@
         "published": "June 22, 2022 12:27 PM"
     },
     {
+        "title": "Filmore on Miami Beach is closing for a year!",
+        "domain": "miamiherald.com",
+        "category": "miami",
+        "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
+        "timestamp": 1655915296,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:28 PM"
+    },
+    {
         "title": "Ukraine strikes Snake Island in 'significant' blow to Russia's Black Sea forces",
         "domain": "telegraph.co.uk",
         "category": "worldnews",
         "link": "https://www.telegraph.co.uk/world-news/2022/06/22/ukraine-hits-snake-island-significant-blow-russias-black-sea/",
         "timestamp": 1655915878,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 12:37 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "news",
         "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
         "timestamp": 1655917949,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 1:12 PM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "sports",
         "link": "https://www.cbssports.com/nfl/news/u-s-house-oversight-committee-will-subpoena-commanders-owner-daniel-snyder-to-testify-before-congress/",
         "timestamp": 1655918403,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 1:20 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/06/21/canada-single-use-plastic-ban-climate/",
         "timestamp": 1655918893,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 1:28 PM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
         "timestamp": 1655919933,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 1:45 PM"
     },
     {
@@ -374,7 +356,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/showtime/shameless-emmy-rossum-fiona-underrated/",
         "timestamp": 1655921553,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 2:12 PM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/slain-uvalde-teachers-officer-husband-tried-wife-gun-was-taken-away-rcna34710?cid=sm_npd_nn_fb_ma&fbclid=IwAR2ZwQCNQNYAlRbYW49z4VWsntTK9KY0k4nE8AdUrRWVjFVPBBLWfmuEXfU&fs=e&s=cl",
         "timestamp": 1655922426,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 2:27 PM"
     },
     {
@@ -401,7 +383,7 @@
         "category": "florida",
         "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
         "timestamp": 1655923670,
-        "sentiment": -6,
+        "sentiment": 3,
         "published": "June 22, 2022 2:47 PM"
     },
     {
@@ -414,21 +396,12 @@
         "published": "June 22, 2022 2:54 PM"
     },
     {
-        "title": "Gillum Charged With Fraud and Conspiracy",
-        "domain": "nytimes.com",
-        "category": "florida",
-        "link": "https://www.nytimes.com/2022/06/22/us/andrew-gillum-conspiracy-wire-fraud.html?partner=IFTTT",
-        "timestamp": 1655924712,
-        "sentiment": -6,
-        "published": "June 22, 2022 3:05 PM"
-    },
-    {
         "title": "Praise the Lord, 'The Righteous Gemstones' Season 3 Is in Production",
         "domain": "collider.com",
         "category": "television",
         "link": "https://collider.com/righteous-gemstones-season-3-production-start/",
         "timestamp": 1655924953,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 3:09 PM"
     },
     {
@@ -437,7 +410,7 @@
         "category": "television",
         "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-06-22/elliot-page-umbrella-academy-trans-character-viktor-hargreeves",
         "timestamp": 1655925069,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 3:11 PM"
     },
     {
@@ -446,7 +419,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/kate-bush-stranger-things-4-running-up-that-hill-popularity/",
         "timestamp": 1655925422,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 3:17 PM"
     },
     {
@@ -455,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/22/asia/japan-russia-china-warships-intl-hnk-ml/index.html",
         "timestamp": 1655925486,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 3:18 PM"
     },
     {
@@ -464,17 +437,17 @@
         "category": "news",
         "link": "https://www.eastbaytimes.com/2022/06/21/we-arent-going-anywhere-drag-queen-story-hour-forges-ahead-in-alameda-county/",
         "timestamp": 1655925880,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 3:24 PM"
     },
     {
-        "title": "Florida: Former Tallahassee Mayor And Florida Gubernatorial Candidate Andrew Gillum Is Indicted For Campaign Fraud By A Federal Court",
-        "domain": "reuters.com",
-        "category": "florida",
-        "link": "https://www.reuters.com/world/us/former-tallahassee-mayor-gubernatorial-candidate-gillum-indicted-fraud-2022-06-22/",
-        "timestamp": 1655926150,
-        "sentiment": -6,
-        "published": "June 22, 2022 3:29 PM"
+        "title": "Catalan parliament considers Israeli treatment of Palestinians ‘equivalent to apartheid’",
+        "domain": "catalannews.com",
+        "category": "worldnews",
+        "link": "https://www.catalannews.com/politics/item/catalan-parliament-considers-israeli-treatment-of-palestinians-equivalent-to-apartheid",
+        "timestamp": 1655927581,
+        "sentiment": -1,
+        "published": "June 22, 2022 3:53 PM"
     },
     {
         "title": "Afghanistan quake: Taliban appeal for international aid",
@@ -482,7 +455,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-61900260",
         "timestamp": 1655928381,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "June 22, 2022 4:06 PM"
     },
     {
@@ -491,7 +464,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/sri-lankas-pm-says-its-debt-laden-economy-has-collapsed-12638329",
         "timestamp": 1655928635,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 4:10 PM"
     },
     {
@@ -500,7 +473,7 @@
         "category": "sports",
         "link": "https://www.espn.com/nfl/story/_/id/34131855/ex-nfl-dt-tony-siragusa-goose-dies-age-55",
         "timestamp": 1655929019,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 4:16 PM"
     },
     {
@@ -522,6 +495,15 @@
         "published": "June 22, 2022 4:42 PM"
     },
     {
+        "title": "Juul e-cigarettes to be ordered off U.S. shelves - WSJ | Reuters",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
+        "timestamp": 1655930959,
+        "sentiment": -3,
+        "published": "June 22, 2022 4:49 PM"
+    },
+    {
         "title": "Historic Miami Beach murals, slated for demolition, saved in the nick of time",
         "domain": "m.youtube.com",
         "category": "miami",
@@ -538,6 +520,60 @@
         "timestamp": 1655934436,
         "sentiment": 0,
         "published": "June 22, 2022 5:47 PM"
+    },
+    {
+        "title": "The long nightmare ends: Patriots embrace their true uniforms",
+        "domain": "boston.com",
+        "category": "sports",
+        "link": "https://www.boston.com/sports/new-england-patriots/2022/06/22/pat-patriot-red-throwback-uniforms-2022-season/?p1=hp_secondary",
+        "timestamp": 1655939411,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:10 PM"
+    },
+    {
+        "title": "'Bridgerton' star Simone Ashley says she once learned how 'snails mate' in intimacy workshop to prepare for sex scenes",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
+        "timestamp": 1655900420,
+        "sentiment": 2,
+        "published": "June 22, 2022 8:20 AM"
+    },
+    {
+        "title": "U.S. tech companies yank job offers, leaving college grads scrambling.",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
+        "timestamp": 1655908710,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:38 AM"
+    },
+    {
+        "title": "Olaf Scholz on Twitter: \"Ukraine - and only Ukraine - decides what is right for it. Nothing concerning Ukraine without Ukraine! We are far from negotiations because Putin believes in a dictatorial peace. All the more crucial that we steadfastly stay our course.\"",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Bundeskanzler/status/1539628231329988614",
+        "timestamp": 1655912770,
+        "sentiment": 2,
+        "published": "June 22, 2022 11:46 AM"
+    },
+    {
+        "title": "Gillum Charged With Fraud and Conspiracy",
+        "domain": "nytimes.com",
+        "category": "florida",
+        "link": "https://www.nytimes.com/2022/06/22/us/andrew-gillum-conspiracy-wire-fraud.html?partner=IFTTT",
+        "timestamp": 1655924712,
+        "sentiment": -6,
+        "published": "June 22, 2022 3:05 PM"
+    },
+    {
+        "title": "Florida: Former Tallahassee Mayor And Florida Gubernatorial Candidate Andrew Gillum Is Indicted For Campaign Fraud By A Federal Court",
+        "domain": "reuters.com",
+        "category": "florida",
+        "link": "https://www.reuters.com/world/us/former-tallahassee-mayor-gubernatorial-candidate-gillum-indicted-fraud-2022-06-22/",
+        "timestamp": 1655926150,
+        "sentiment": -6,
+        "published": "June 22, 2022 3:29 PM"
     },
     {
         "title": "Dramatic moment Ukrainian kamikaze drone ploughs in to major oil refinery inside Russian territory sparking huge fireball explosion",
@@ -574,15 +610,6 @@
         "timestamp": 1655904351,
         "sentiment": 0,
         "published": "June 22, 2022 9:25 AM"
-    },
-    {
-        "title": "Filmore on Miami Beach is closing for a year!",
-        "domain": "miamiherald.com",
-        "category": "miami",
-        "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
-        "timestamp": 1655915296,
-        "sentiment": 2,
-        "published": "June 22, 2022 12:28 PM"
     },
     {
         "title": "EU plan to halve use of pesticides in ‘milestone’ legislation to restore ecosystems",
