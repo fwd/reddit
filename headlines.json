@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
         "timestamp": 1655873519,
-        "sentiment": -8,
+        "sentiment": -3,
         "published": "June 22, 2022 12:51 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
         "timestamp": 1655878302,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 22, 2022 2:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
         "timestamp": 1655879839,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 22, 2022 2:37 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
         "timestamp": 1655884242,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 22, 2022 3:50 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
         "timestamp": 1655885433,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 22, 2022 4:10 AM"
-    },
-    {
-        "title": "Russia Begins to Pay the Price for Sanctions",
-        "domain": "cepa.org",
-        "category": "worldnews",
-        "link": "https://cepa.org/russia-begins-to-pay-the-price-for-sanctions/",
-        "timestamp": 1655886725,
-        "sentiment": -2,
-        "published": "June 22, 2022 4:32 AM"
     },
     {
         "title": "Chicago police are no longer allowed to chase people on foot just for running away",
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": -8,
+        "sentiment": -3,
         "published": "June 22, 2022 5:18 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
         "timestamp": 1655889942,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 5:25 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "news",
         "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
         "timestamp": 1655893545,
-        "sentiment": -8,
+        "sentiment": -3,
         "published": "June 22, 2022 6:25 AM"
-    },
-    {
-        "title": "China plans to review every single comment before it is posted on social media",
-        "domain": "china-underground.com",
-        "category": "technology",
-        "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
-        "timestamp": 1655894453,
-        "sentiment": -2,
-        "published": "June 22, 2022 6:40 AM"
     },
     {
         "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
@@ -113,17 +95,8 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
         "timestamp": 1655896314,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 22, 2022 7:11 AM"
-    },
-    {
-        "title": "Kherson underground continues its struggle. We are spreading leaflets every day, delivering information for our armed forces & security service. Friends, shout everywhere that Kherson is Ukraine!",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/EuromaidanPress/status/1539566441560670209",
-        "timestamp": 1655896357,
-        "sentiment": -2,
-        "published": "June 22, 2022 7:12 AM"
     },
     {
         "title": "Could the fake electors scheme prove to be Trump campaign’s achilles heel? | The justice department is investigating whether the Republicans who signed as electors could be charged",
@@ -131,7 +104,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
         "timestamp": 1655897076,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 7:24 AM"
     },
     {
@@ -149,17 +122,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": -8,
+        "sentiment": -3,
         "published": "June 22, 2022 7:36 AM"
-    },
-    {
-        "title": "Russia warns UK will 'cease to exist' if Lithuania standoff triggers nuclear WW3",
-        "domain": "dailyrecord.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/russia-warning-uk-lithuania-standoff-27289972",
-        "timestamp": 1655898319,
-        "sentiment": -2,
-        "published": "June 22, 2022 7:45 AM"
     },
     {
         "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
@@ -167,7 +131,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
         "timestamp": 1655898917,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 7:55 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -203,8 +167,17 @@
         "category": "television",
         "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
         "timestamp": 1655900420,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 22, 2022 8:20 AM"
+    },
+    {
+        "title": "Finland prepared for decades for Russian attack, defense chief says Finns ready.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
+        "timestamp": 1655900811,
+        "sentiment": -5,
+        "published": "June 22, 2022 8:26 AM"
     },
     {
         "title": "Meta's metaverse hardware business is on fire, 2024+ headsets paused says analyst Ming-Chi Kuo",
@@ -221,7 +194,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
         "timestamp": 1655901431,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 8:37 AM"
     },
     {
@@ -239,8 +212,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
         "timestamp": 1655901712,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 8:41 AM"
+    },
+    {
+        "title": "Kyiv Independent:⚡️ Finnish defense chief: Finland is ready to fight Russia if attacked. According to Chief of Defense General Timo Kivinen, Finland is prepared for the type of warfare that is being waged in Ukraine.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1539576609140883457?t=BZUIV9izRP9oJvD_1ZJ3rA&s=09",
+        "timestamp": 1655901930,
+        "sentiment": -3,
+        "published": "June 22, 2022 8:45 AM"
     },
     {
         "title": "Even Fox News analysts say Donald Trump should face criminal charges as channel starts airing Jan 6 hearings",
@@ -248,7 +230,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -261,12 +243,21 @@
         "published": "June 22, 2022 8:50 AM"
     },
     {
+        "title": "Trump says McCarthy made a mistake by pulling his members from Jan 6 committee",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-committee-mccarthy-b2106834.html",
+        "timestamp": 1655902911,
+        "sentiment": -6,
+        "published": "June 22, 2022 9:01 AM"
+    },
+    {
         "title": "'The Boys' Upcoming 'Herogasm' Episode Teased with Content Warnings - \"Not Suitable For Any Audience\"",
         "domain": "comicbookmovie.com",
         "category": "television",
         "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
         "timestamp": 1655903691,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 22, 2022 9:14 AM"
     },
     {
@@ -279,22 +270,31 @@
         "published": "June 22, 2022 9:21 AM"
     },
     {
-        "title": "Brazilian judge refuses abortion for 11-year-old rape victim",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/06/21/brazilian-judge-refuses-abortion-for-11-year-old-rape-victim/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
-        "timestamp": 1655904440,
-        "sentiment": -2,
-        "published": "June 22, 2022 9:27 AM"
-    },
-    {
         "title": "Mike Pence Is Useless: The former vice president's refusal to address his former boss's attempted coup somehow manages to straddle the line between cowardice and opportunism.",
         "domain": "newrepublic.com",
         "category": "politics",
         "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
         "timestamp": 1655904521,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 9:28 AM"
+    },
+    {
+        "title": "Fox News' Martha MacCallum Calls Out 'Stunning' Lack Of Evidence For Trump Election Fraud Claim",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/martha-maccallum-stunning-lack-of-evidence_n_62b2dbd1e4b0cf43c85df5e8",
+        "timestamp": 1655905386,
+        "sentiment": -6,
+        "published": "June 22, 2022 9:43 AM"
+    },
+    {
+        "title": "Europe told to 'prepare immediately' as Russia set to turn off gas exports",
+        "domain": "business-standard.com",
+        "category": "worldnews",
+        "link": "https://www.business-standard.com/article/international/europe-told-to-prepare-immediately-as-russia-set-to-turn-off-gas-exports-122062200807_1.html?utm_source=SEO&utm_medium=ST",
+        "timestamp": 1655908018,
+        "sentiment": -5,
+        "published": "June 22, 2022 10:26 AM"
     },
     {
         "title": "U.S. tech companies yank job offers, leaving college grads scrambling",
@@ -320,8 +320,17 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
         "timestamp": 1655908826,
-        "sentiment": -8,
+        "sentiment": -3,
         "published": "June 22, 2022 10:40 AM"
+    },
+    {
+        "title": "Activision Blizzard Shareholders Vote To Require Video Game Firm To Publish Annual Report On Its Efforts To Curb Workplace Abuse",
+        "domain": "deadline.com",
+        "category": "technology",
+        "link": "https://deadline.com/2022/06/activision-blizzard-shareholders-vote-harassment-report-1235049953/",
+        "timestamp": 1655909659,
+        "sentiment": -2,
+        "published": "June 22, 2022 10:54 AM"
     },
     {
         "title": "I Have “Zero Trust” in U.S. Government: Wife of Brittney Griner, Basketball Star Detained in Russia",
@@ -331,6 +340,114 @@
         "timestamp": 1655910235,
         "sentiment": 0,
         "published": "June 22, 2022 11:03 AM"
+    },
+    {
+        "title": "Craig Robinson Comedy ‘Killing It’ Renewed for Season 2 at Peacock",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/craig-robinson-comedy-killing-it-renewed-for-season-2-at-peacock-1235169703/",
+        "timestamp": 1655911891,
+        "sentiment": -1,
+        "published": "June 22, 2022 11:31 AM"
+    },
+    {
+        "title": "Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
+        "timestamp": 1655911968,
+        "sentiment": -3,
+        "published": "June 22, 2022 11:32 AM"
+    },
+    {
+        "title": "Ex-Florida governor candidate Andrew Gillum faces indictment",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
+        "timestamp": 1655911988,
+        "sentiment": 0,
+        "published": "June 22, 2022 11:33 AM"
+    },
+    {
+        "title": "Miami police launches buy-back of weapons, will hand them over to Ukraine's Armed Forces. Police have offered $50 for pistols, $100 for shotguns, and $150 for “powerful” rifles such as the AK-47 or AR-15. Police said they did not question the origins of the weapons.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
+        "timestamp": 1655912042,
+        "sentiment": -3,
+        "published": "June 22, 2022 11:34 AM"
+    },
+    {
+        "title": "‘House Of The Dragon’: HBO Unveils Key Art For ‘Game Of Thrones’ Prequel",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/house-of-the-dragon-hbo-unveils-key-art-for-game-of-thrones-prequel-1235050015/",
+        "timestamp": 1655912062,
+        "sentiment": -1,
+        "published": "June 22, 2022 11:34 AM"
+    },
+    {
+        "title": "Former DeSantis opponent Andrew Gillum could face decades in prison",
+        "domain": "newsweek.com",
+        "category": "miami",
+        "link": "https://www.newsweek.com/former-desantis-opponent-andrew-gillum-could-face-decades-prison-1718145",
+        "timestamp": 1655915016,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:23 PM"
+    },
+    {
+        "title": "Filmore on Miami Beach is closing for a year!",
+        "domain": "miamiherald.com",
+        "category": "miami",
+        "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
+        "timestamp": 1655915296,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:28 PM"
+    },
+    {
+        "title": "Russia Begins to Pay the Price for Sanctions",
+        "domain": "cepa.org",
+        "category": "worldnews",
+        "link": "https://cepa.org/russia-begins-to-pay-the-price-for-sanctions/",
+        "timestamp": 1655886725,
+        "sentiment": -2,
+        "published": "June 22, 2022 4:32 AM"
+    },
+    {
+        "title": "China plans to review every single comment before it is posted on social media",
+        "domain": "china-underground.com",
+        "category": "technology",
+        "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
+        "timestamp": 1655894453,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:40 AM"
+    },
+    {
+        "title": "Kherson underground continues its struggle. We are spreading leaflets every day, delivering information for our armed forces & security service. Friends, shout everywhere that Kherson is Ukraine!",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/EuromaidanPress/status/1539566441560670209",
+        "timestamp": 1655896357,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:12 AM"
+    },
+    {
+        "title": "Russia warns UK will 'cease to exist' if Lithuania standoff triggers nuclear WW3",
+        "domain": "dailyrecord.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/russia-warning-uk-lithuania-standoff-27289972",
+        "timestamp": 1655898319,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:45 AM"
+    },
+    {
+        "title": "Brazilian judge refuses abortion for 11-year-old rape victim",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/21/brazilian-judge-refuses-abortion-for-11-year-old-rape-victim/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+        "timestamp": 1655904440,
+        "sentiment": -2,
+        "published": "June 22, 2022 9:27 AM"
     },
     {
         "title": "World's biggest cruise ship has no buyer, 1st Voyage may be to scrapyard",
