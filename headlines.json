@@ -1,29 +1,11 @@
 [
     {
-        "title": "More than 1,300 Southwest Airlines pilots march on picket line, say they're overworked and underpaid",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
-        "timestamp": 1655873519,
-        "sentiment": 0,
-        "published": "June 22, 2022 12:51 AM"
-    },
-    {
-        "title": "Russian forces in Ukraine are tracing down gay men, raping and castrating them. Journalists on the ground spoke with war crimes investigators in search of what is being done to get justice for the victims.",
-        "domain": "lgbtqnation.com",
-        "category": "worldnews",
-        "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
-        "timestamp": 1655878302,
-        "sentiment": 0,
-        "published": "June 22, 2022 2:11 AM"
-    },
-    {
         "title": "Jerrod Carmichael Slams The Idea Of Cancel Culture, Insists It’s ‘Not Real’: ‘We Got To Get Over That’",
         "domain": "etcanada.com",
         "category": "television",
         "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
         "timestamp": 1655879839,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 22, 2022 2:37 AM"
     },
     {
@@ -41,8 +23,17 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
         "timestamp": 1655885433,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 4:10 AM"
+    },
+    {
+        "title": "Dramatic moment Ukrainian kamikaze drone ploughs in to major oil refinery inside Russian territory sparking huge fireball explosion",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10941085/Dramatic-moment-Ukrainian-kamikaze-drone-ploughs-major-oil-refinery-inside-Russian-territory.html",
+        "timestamp": 1655888280,
+        "sentiment": -2,
+        "published": "June 22, 2022 4:58 AM"
     },
     {
         "title": "Chicago police are no longer allowed to chase people on foot just for running away",
@@ -52,6 +43,15 @@
         "timestamp": 1655889518,
         "sentiment": 0,
         "published": "June 22, 2022 5:18 AM"
+    },
+    {
+        "title": "Germany delivers first heavy weapons to Ukraine, five months into war",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/06/21/germany-delivers-first-shipment-heavy-weapons-ukraine-five-months/",
+        "timestamp": 1655892254,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:04 AM"
     },
     {
         "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
@@ -81,31 +81,13 @@
         "published": "June 22, 2022 7:01 AM"
     },
     {
-        "title": "China plans to have every single comment reviewed before it's published on social media",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
-        "timestamp": 1655896314,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:11 AM"
-    },
-    {
         "title": "Could the fake electors scheme prove to be Trump campaign’s achilles heel? | The justice department is investigating whether the Republicans who signed as electors could be charged",
         "domain": "theguardian.com",
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
         "timestamp": 1655897076,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 7:24 AM"
-    },
-    {
-        "title": "Human pollution likely killed 47-foot sperm whale found dead off Florida Keys",
-        "domain": "local10.com",
-        "category": "florida",
-        "link": "https://www.local10.com/news/local/2022/05/18/human-pollution-likely-killed-47-foot-sperm-whale-found-dead-off-florida-keys/",
-        "timestamp": 1655897245,
-        "sentiment": -8,
-        "published": "June 22, 2022 7:27 AM"
     },
     {
         "title": "Uvalde City Council denies Pete Arredondo's leave of absence request",
@@ -117,21 +99,12 @@
         "published": "June 22, 2022 7:36 AM"
     },
     {
-        "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
-        "domain": "thedailybeast.com",
-        "category": "politics",
-        "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
-        "timestamp": 1655898917,
-        "sentiment": -6,
-        "published": "June 22, 2022 7:55 AM"
-    },
-    {
         "title": "The Colombian right conceded the election, acknowledged it was fair and represented the will of its people. Ron DeSantis:",
         "domain": "twitter.com",
         "category": "florida",
         "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
         "timestamp": 1655899008,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 22, 2022 7:56 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "television",
         "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
         "timestamp": 1655900420,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 22, 2022 8:20 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 8:26 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
         "timestamp": 1655901431,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 8:37 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
         "timestamp": 1655901712,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 8:41 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-committee-mccarthy-b2106834.html",
         "timestamp": 1655902911,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 9:01 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "television",
         "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
         "timestamp": 1655903691,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 22, 2022 9:14 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
         "timestamp": 1655904521,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 9:28 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/martha-maccallum-stunning-lack-of-evidence_n_62b2dbd1e4b0cf43c85df5e8",
         "timestamp": 1655905386,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 9:43 AM"
     },
     {
@@ -293,17 +266,17 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/lauren-boebert-asks-pete-buttigieg-33-million-insulting-repeatedly/",
         "timestamp": 1655907216,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 22, 2022 10:13 AM"
     },
     {
-        "title": "Europe told to 'prepare immediately' as Russia set to turn off gas exports",
-        "domain": "business-standard.com",
-        "category": "worldnews",
-        "link": "https://www.business-standard.com/article/international/europe-told-to-prepare-immediately-as-russia-set-to-turn-off-gas-exports-122062200807_1.html?utm_source=SEO&utm_medium=ST",
-        "timestamp": 1655908018,
+        "title": "‘House of the Dragon’ Merch Gives a Sneak Peek of ‘Game of Thrones’ Spinoff",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/house-of-the-dragon-game-of-thrones-prequel-launches-merch-1235169763/",
+        "timestamp": 1655907361,
         "sentiment": 0,
-        "published": "June 22, 2022 10:26 AM"
+        "published": "June 22, 2022 10:16 AM"
     },
     {
         "title": "U.S. tech companies yank job offers, leaving college grads scrambling",
@@ -365,7 +338,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
         "timestamp": 1655910672,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 11:11 AM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/craig-robinson-comedy-killing-it-renewed-for-season-2-at-peacock-1235169703/",
         "timestamp": 1655911891,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 22, 2022 11:31 AM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -410,8 +383,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/house-of-the-dragon-hbo-unveils-key-art-for-game-of-thrones-prequel-1235050015/",
         "timestamp": 1655912062,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
+    },
+    {
+        "title": "Olaf Scholz on Twitter: \"Ukraine - and only Ukraine - decides what is right for it. Nothing concerning Ukraine without Ukraine! We are far from negotiations because Putin believes in a dictatorial peace. All the more crucial that we steadfastly stay our course.\"",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Bundeskanzler/status/1539628231329988614",
+        "timestamp": 1655912770,
+        "sentiment": -3,
+        "published": "June 22, 2022 11:46 AM"
     },
     {
         "title": "Former DeSantis opponent Andrew Gillum could face decades in prison",
@@ -419,8 +401,26 @@
         "category": "miami",
         "link": "https://www.newsweek.com/former-desantis-opponent-andrew-gillum-could-face-decades-prison-1718145",
         "timestamp": 1655915016,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 12:23 PM"
+    },
+    {
+        "title": "Russia may resort to provocations as its army is run by \"morons\" – Lithuanian defmin",
+        "domain": "delfi.lt",
+        "category": "worldnews",
+        "link": "https://delfi.lt/en/article.php?id=90562529",
+        "timestamp": 1655915091,
+        "sentiment": -2,
+        "published": "June 22, 2022 12:24 PM"
+    },
+    {
+        "title": "The Justice Department must criminally prosecute Donald Trump. The rule of law requires it",
+        "domain": "sacbee.com",
+        "category": "politics",
+        "link": "https://www.sacbee.com/opinion/op-ed/article262724992.html",
+        "timestamp": 1655915276,
+        "sentiment": -2,
+        "published": "June 22, 2022 12:27 PM"
     },
     {
         "title": "Filmore on Miami Beach is closing for a year!",
@@ -428,8 +428,17 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
         "timestamp": 1655915296,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 12:28 PM"
+    },
+    {
+        "title": "Police: Teens broke into $8M Florida mansion, held boxing matches during house party",
+        "domain": "clickorlando.com",
+        "category": "news",
+        "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
+        "timestamp": 1655917949,
+        "sentiment": 0,
+        "published": "June 22, 2022 1:12 PM"
     },
     {
         "title": "U.S. House Oversight Committee will subpoena Washington Commanders owner Daniel Snyder to testify before Congress",
@@ -439,6 +448,60 @@
         "timestamp": 1655918403,
         "sentiment": 0,
         "published": "June 22, 2022 1:20 PM"
+    },
+    {
+        "title": "More than 1,300 Southwest Airlines pilots march on picket line, say they're overworked and underpaid",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
+        "timestamp": 1655873519,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:51 AM"
+    },
+    {
+        "title": "Russian forces in Ukraine are tracing down gay men, raping and castrating them. Journalists on the ground spoke with war crimes investigators in search of what is being done to get justice for the victims.",
+        "domain": "lgbtqnation.com",
+        "category": "worldnews",
+        "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
+        "timestamp": 1655878302,
+        "sentiment": 0,
+        "published": "June 22, 2022 2:11 AM"
+    },
+    {
+        "title": "China plans to have every single comment reviewed before it's published on social media",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
+        "timestamp": 1655896314,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:11 AM"
+    },
+    {
+        "title": "Human pollution likely killed 47-foot sperm whale found dead off Florida Keys",
+        "domain": "local10.com",
+        "category": "florida",
+        "link": "https://www.local10.com/news/local/2022/05/18/human-pollution-likely-killed-47-foot-sperm-whale-found-dead-off-florida-keys/",
+        "timestamp": 1655897245,
+        "sentiment": -8,
+        "published": "June 22, 2022 7:27 AM"
+    },
+    {
+        "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
+        "timestamp": 1655898917,
+        "sentiment": -6,
+        "published": "June 22, 2022 7:55 AM"
+    },
+    {
+        "title": "Europe told to 'prepare immediately' as Russia set to turn off gas exports",
+        "domain": "business-standard.com",
+        "category": "worldnews",
+        "link": "https://www.business-standard.com/article/international/europe-told-to-prepare-immediately-as-russia-set-to-turn-off-gas-exports-122062200807_1.html?utm_source=SEO&utm_medium=ST",
+        "timestamp": 1655908018,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:26 AM"
     },
     {
         "title": "The Georgia election workers Trump slandered are the foundation of American democracy",
