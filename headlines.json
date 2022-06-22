@@ -9,30 +9,12 @@
         "published": "June 22, 2022 2:37 AM"
     },
     {
-        "title": "A Ukrainian loitering munition (aka a suicide drone) hits a Russian oil refinery in Novoshakhtinsk, Rostov Oblast",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
-        "timestamp": 1655884242,
-        "sentiment": -2,
-        "published": "June 22, 2022 3:50 AM"
-    },
-    {
-        "title": "The new McDonald's in Russia sold 120,000 burgers on its opening day, surpassing daily records in its past life, CEO says",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
-        "timestamp": 1655885433,
-        "sentiment": -1,
-        "published": "June 22, 2022 4:10 AM"
-    },
-    {
         "title": "Dramatic moment Ukrainian kamikaze drone ploughs in to major oil refinery inside Russian territory sparking huge fireball explosion",
         "domain": "dailymail.co.uk",
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10941085/Dramatic-moment-Ukrainian-kamikaze-drone-ploughs-major-oil-refinery-inside-Russian-territory.html",
         "timestamp": 1655888280,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 22, 2022 4:58 AM"
     },
     {
@@ -41,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 5:18 AM"
     },
     {
@@ -52,6 +34,15 @@
         "timestamp": 1655892950,
         "sentiment": 0,
         "published": "June 22, 2022 6:15 AM"
+    },
+    {
+        "title": "Finland is ready to fight Russia if attacked - defence chief",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
+        "timestamp": 1655893545,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:25 AM"
     },
     {
         "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
         "timestamp": 1655897076,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 7:24 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "florida",
         "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
         "timestamp": 1655899008,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 7:56 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://apnews.com/article/afghanistan-earthquakes-bacc4c96b7a07b5d7d397bee9eb9d3c8",
         "timestamp": 1655900370,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 8:19 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 22, 2022 8:26 AM"
     },
     {
@@ -140,17 +131,8 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 22, 2022 8:35 AM"
-    },
-    {
-        "title": "What Are Trump Supporters So Afraid Of? The voice inside that tells them how wrong they are.",
-        "domain": "theatlantic.com",
-        "category": "politics",
-        "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
-        "timestamp": 1655901431,
-        "sentiment": -6,
-        "published": "June 22, 2022 8:37 AM"
     },
     {
         "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
         "timestamp": 1655901712,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 8:41 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/22/demand-for-adjustable-rate-mortgages-surges-as-interest-rates-jump.html",
         "timestamp": 1655904351,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 9:25 AM"
     },
     {
@@ -212,26 +194,8 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
         "timestamp": 1655904521,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 9:28 AM"
-    },
-    {
-        "title": "Fox News' Martha MacCallum Calls Out 'Stunning' Lack Of Evidence For Trump Election Fraud Claim",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/martha-maccallum-stunning-lack-of-evidence_n_62b2dbd1e4b0cf43c85df5e8",
-        "timestamp": 1655905386,
-        "sentiment": -6,
-        "published": "June 22, 2022 9:43 AM"
-    },
-    {
-        "title": "Russian Speculation On Putin's Failing Health, Possible Succession Is Growing: Western Officials",
-        "domain": "ibtimes.com",
-        "category": "worldnews",
-        "link": "https://www.ibtimes.com/russian-speculation-putins-failing-health-possible-succession-growing-western-3547361",
-        "timestamp": 1655905608,
-        "sentiment": -1,
-        "published": "June 22, 2022 9:46 AM"
     },
     {
         "title": "Lauren Boebert asks Pete Buttigieg for $33 million after insulting him repeatedly | She didn't hesitate to launch homophobic attacks on the out Transportation Secretary and his husband, but now that she wants some of that cash for her district, she's trying to play nice.",
@@ -239,7 +203,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/lauren-boebert-asks-pete-buttigieg-33-million-insulting-repeatedly/",
         "timestamp": 1655907216,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 10:13 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "sports",
         "link": "https://www.cbssports.com/nfl/news/ravens-jaylon-ferguson-dies-at-26-linebacker-was-a-third-round-pick-in-2019-nfl-draft/",
         "timestamp": 1655908173,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 10:29 AM"
     },
     {
@@ -270,13 +234,13 @@
         "published": "June 22, 2022 10:36 AM"
     },
     {
-        "title": "U.S. FDA to order Juul e-cigarettes off market",
+        "title": "U.S. tech companies yank job offers, leaving college grads scrambling.",
         "domain": "reuters.com",
         "category": "news",
-        "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
-        "timestamp": 1655908826,
-        "sentiment": 0,
-        "published": "June 22, 2022 10:40 AM"
+        "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
+        "timestamp": 1655908710,
+        "sentiment": -2,
+        "published": "June 22, 2022 10:38 AM"
     },
     {
         "title": "Activision Blizzard Shareholders Vote To Require Video Game Firm To Publish Annual Report On Its Efforts To Curb Workplace Abuse",
@@ -293,7 +257,7 @@
         "category": "sports",
         "link": "https://www.democracynow.org/2022/6/22/headlines/i_have_zero_trust_in_us_government_wife_of_brittney_griner_basketball_star_detained_in_russia",
         "timestamp": 1655910235,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:03 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
         "timestamp": 1655910672,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 22, 2022 11:11 AM"
     },
     {
@@ -315,21 +279,12 @@
         "published": "June 22, 2022 11:31 AM"
     },
     {
-        "title": "Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
-        "timestamp": 1655911968,
-        "sentiment": 0,
-        "published": "June 22, 2022 11:32 AM"
-    },
-    {
         "title": "Ex-Florida governor candidate Andrew Gillum faces indictment",
         "domain": "wfla.com",
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
         "timestamp": 1655912042,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -365,8 +320,26 @@
         "category": "ukraine",
         "link": "https://twitter.com/Bundeskanzler/status/1539628231329988614",
         "timestamp": 1655912770,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:46 AM"
+    },
+    {
+        "title": "Cement carbon dioxide emissions quietly double in 20 years",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/climate-science-china-pollution-3d97642acbb07fca7540edca38448266?taid=62b33337785c930001d828d3&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+        "timestamp": 1655913161,
+        "sentiment": -2,
+        "published": "June 22, 2022 11:52 AM"
+    },
+    {
+        "title": "Trump aides didn't know he was being recorded on Jan 6: Reports",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-aides-didnt-know-trump-recorded-on-jan-6-reports-2022-6?amp",
+        "timestamp": 1655913335,
+        "sentiment": 0,
+        "published": "June 22, 2022 11:55 AM"
     },
     {
         "title": "Former DeSantis opponent Andrew Gillum could face decades in prison",
@@ -378,21 +351,12 @@
         "published": "June 22, 2022 12:23 PM"
     },
     {
-        "title": "Russia may resort to provocations as its army is run by \"morons\" – Lithuanian defmin",
-        "domain": "delfi.lt",
-        "category": "worldnews",
-        "link": "https://delfi.lt/en/article.php?id=90562529",
-        "timestamp": 1655915091,
-        "sentiment": -1,
-        "published": "June 22, 2022 12:24 PM"
-    },
-    {
         "title": "The Justice Department must criminally prosecute Donald Trump. The rule of law requires it",
         "domain": "sacbee.com",
         "category": "politics",
         "link": "https://www.sacbee.com/opinion/op-ed/article262724992.html",
         "timestamp": 1655915276,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 12:27 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166864/trump-mental-state-delusional",
         "timestamp": 1655916716,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 12:51 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "news",
         "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
         "timestamp": 1655917949,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 1:12 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "sports",
         "link": "https://www.cbssports.com/nfl/news/u-s-house-oversight-committee-will-subpoena-commanders-owner-daniel-snyder-to-testify-before-congress/",
         "timestamp": 1655918403,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 1:20 PM"
     },
     {
@@ -437,8 +401,17 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/06/21/canada-single-use-plastic-ban-climate/",
         "timestamp": 1655918893,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 22, 2022 1:28 PM"
+    },
+    {
+        "title": "Oops: Unearthed Footage Shows Ivanka Trump Was All In on Her Father’s Attempt to Overturn the Election",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/06/ivanka-trump-donald-trump-2020-documentary-footage",
+        "timestamp": 1655919293,
+        "sentiment": 0,
+        "published": "June 22, 2022 1:34 PM"
     },
     {
         "title": "It Still Stings: Emmy Rossum Never Got Enough Praise for Shameless",
@@ -455,7 +428,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/slain-uvalde-teachers-officer-husband-tried-wife-gun-was-taken-away-rcna34710?cid=sm_npd_nn_fb_ma&fbclid=IwAR2ZwQCNQNYAlRbYW49z4VWsntTK9KY0k4nE8AdUrRWVjFVPBBLWfmuEXfU&fs=e&s=cl",
         "timestamp": 1655922426,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 22, 2022 2:27 PM"
     },
     {
@@ -473,8 +446,116 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/22/us/andrew-gillum-conspiracy-wire-fraud.html?partner=IFTTT",
         "timestamp": 1655924712,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 3:05 PM"
+    },
+    {
+        "title": "Praise the Lord, 'The Righteous Gemstones' Season 3 Is in Production",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/righteous-gemstones-season-3-production-start/",
+        "timestamp": 1655924953,
+        "sentiment": 0,
+        "published": "June 22, 2022 3:09 PM"
+    },
+    {
+        "title": "Kate Bush Says ‘The Whole World’s Gone Mad’ After ‘Stranger Things 4’ Made ‘Running Up That Hill’ a Chart-Topper",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/kate-bush-stranger-things-4-running-up-that-hill-popularity/",
+        "timestamp": 1655925422,
+        "sentiment": 0,
+        "published": "June 22, 2022 3:17 PM"
+    },
+    {
+        "title": "Japan tracks eight Russian and Chinese warships near its territory",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/22/asia/japan-russia-china-warships-intl-hnk-ml/index.html",
+        "timestamp": 1655925486,
+        "sentiment": -2,
+        "published": "June 22, 2022 3:18 PM"
+    },
+    {
+        "title": "Ex-NFL DT Siragusa, 'The Goose,' dies at age 55",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/nfl/story/_/id/34131855/ex-nfl-dt-tony-siragusa-goose-dies-age-55",
+        "timestamp": 1655929019,
+        "sentiment": 0,
+        "published": "June 22, 2022 4:16 PM"
+    },
+    {
+        "title": "A Ukrainian loitering munition (aka a suicide drone) hits a Russian oil refinery in Novoshakhtinsk, Rostov Oblast",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
+        "timestamp": 1655884242,
+        "sentiment": -2,
+        "published": "June 22, 2022 3:50 AM"
+    },
+    {
+        "title": "The new McDonald's in Russia sold 120,000 burgers on its opening day, surpassing daily records in its past life, CEO says",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
+        "timestamp": 1655885433,
+        "sentiment": -1,
+        "published": "June 22, 2022 4:10 AM"
+    },
+    {
+        "title": "What Are Trump Supporters So Afraid Of? The voice inside that tells them how wrong they are.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
+        "timestamp": 1655901431,
+        "sentiment": -6,
+        "published": "June 22, 2022 8:37 AM"
+    },
+    {
+        "title": "Fox News' Martha MacCallum Calls Out 'Stunning' Lack Of Evidence For Trump Election Fraud Claim",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/martha-maccallum-stunning-lack-of-evidence_n_62b2dbd1e4b0cf43c85df5e8",
+        "timestamp": 1655905386,
+        "sentiment": -6,
+        "published": "June 22, 2022 9:43 AM"
+    },
+    {
+        "title": "Russian Speculation On Putin's Failing Health, Possible Succession Is Growing: Western Officials",
+        "domain": "ibtimes.com",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.com/russian-speculation-putins-failing-health-possible-succession-growing-western-3547361",
+        "timestamp": 1655905608,
+        "sentiment": -1,
+        "published": "June 22, 2022 9:46 AM"
+    },
+    {
+        "title": "U.S. FDA to order Juul e-cigarettes off market",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
+        "timestamp": 1655908826,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:40 AM"
+    },
+    {
+        "title": "Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
+        "timestamp": 1655911968,
+        "sentiment": 0,
+        "published": "June 22, 2022 11:32 AM"
+    },
+    {
+        "title": "Russia may resort to provocations as its army is run by \"morons\" – Lithuanian defmin",
+        "domain": "delfi.lt",
+        "category": "worldnews",
+        "link": "https://delfi.lt/en/article.php?id=90562529",
+        "timestamp": 1655915091,
+        "sentiment": -1,
+        "published": "June 22, 2022 12:24 PM"
     },
     {
         "title": "The Home Golf MicroSimulator tracks your swing metrics and gives you a way to practice when the weather won't cooperate",
@@ -493,15 +574,6 @@
         "timestamp": 1655892254,
         "sentiment": -2,
         "published": "June 22, 2022 6:04 AM"
-    },
-    {
-        "title": "Finland is ready to fight Russia if attacked - defence chief",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
-        "timestamp": 1655893545,
-        "sentiment": 0,
-        "published": "June 22, 2022 6:25 AM"
     },
     {
         "title": "Kyiv Independent:⚡️ Finnish defense chief: Finland is ready to fight Russia if attacked. According to Chief of Defense General Timo Kivinen, Finland is prepared for the type of warfare that is being waged in Ukraine.",
