@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
         "timestamp": 1655873519,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 12:51 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
         "timestamp": 1655878302,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 2:11 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
         "timestamp": 1655885433,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 4:10 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 5:18 AM"
-    },
-    {
-        "title": "The Georgia election workers Trump slandered are the foundation of American democracy",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
-        "timestamp": 1655889942,
-        "sentiment": -6,
-        "published": "June 22, 2022 5:25 AM"
     },
     {
         "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
         "timestamp": 1655892950,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 6:15 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
         "timestamp": 1655893545,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 6:25 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
         "timestamp": 1655895710,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 7:01 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
         "timestamp": 1655896314,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 7:11 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "florida",
         "link": "https://www.local10.com/news/local/2022/05/18/human-pollution-likely-killed-47-foot-sperm-whale-found-dead-off-florida-keys/",
         "timestamp": 1655897245,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "June 22, 2022 7:27 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "florida",
         "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
         "timestamp": 1655899008,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "June 22, 2022 7:56 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -160,6 +151,15 @@
         "timestamp": 1655899385,
         "sentiment": -6,
         "published": "June 22, 2022 8:03 AM"
+    },
+    {
+        "title": "Afghanistan quake kills 1,000 people, deadliest in decades",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/afghanistan-earthquakes-bacc4c96b7a07b5d7d397bee9eb9d3c8",
+        "timestamp": 1655900370,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:19 AM"
     },
     {
         "title": "'Bridgerton' star Simone Ashley says she once learned how 'snails mate' in intimacy workshop to prepare for sex scenes",
@@ -176,17 +176,8 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 8:26 AM"
-    },
-    {
-        "title": "Meta's metaverse hardware business is on fire, 2024+ headsets paused says analyst Ming-Chi Kuo",
-        "domain": "tweaktown.com",
-        "category": "technology",
-        "link": "https://www.tweaktown.com/news/87026/metas-metaverse-hardware-business-is-on-fire-2024-headsets-paused/index.html",
-        "timestamp": 1655900903,
-        "sentiment": -2,
-        "published": "June 22, 2022 8:28 AM"
     },
     {
         "title": "Traces of polio virus found in London sewage as health officials declare national incident",
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortage-leaked-memo-warehouse",
         "timestamp": 1655902229,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 8:50 AM"
     },
     {
@@ -266,8 +257,17 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-model-y-3-most-american-made-car-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655904097,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 9:21 AM"
+    },
+    {
+        "title": "Demand for adjustable-rate mortgages surges, as interest rates make biggest jump in 13 years",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/22/demand-for-adjustable-rate-mortgages-surges-as-interest-rates-jump.html",
+        "timestamp": 1655904351,
+        "sentiment": 0,
+        "published": "June 22, 2022 9:25 AM"
     },
     {
         "title": "Mike Pence Is Useless: The former vice president's refusal to address his former boss's attempted coup somehow manages to straddle the line between cowardice and opportunism.",
@@ -288,12 +288,21 @@
         "published": "June 22, 2022 9:43 AM"
     },
     {
+        "title": "Lauren Boebert asks Pete Buttigieg for $33 million after insulting him repeatedly | She didn't hesitate to launch homophobic attacks on the out Transportation Secretary and his husband, but now that she wants some of that cash for her district, she's trying to play nice.",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/06/lauren-boebert-asks-pete-buttigieg-33-million-insulting-repeatedly/",
+        "timestamp": 1655907216,
+        "sentiment": -6,
+        "published": "June 22, 2022 10:13 AM"
+    },
+    {
         "title": "Europe told to 'prepare immediately' as Russia set to turn off gas exports",
         "domain": "business-standard.com",
         "category": "worldnews",
         "link": "https://www.business-standard.com/article/international/europe-told-to-prepare-immediately-as-russia-set-to-turn-off-gas-exports-122062200807_1.html?utm_source=SEO&utm_medium=ST",
         "timestamp": 1655908018,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 10:26 AM"
     },
     {
@@ -302,7 +311,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
         "timestamp": 1655908070,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 10:27 AM"
     },
     {
@@ -315,12 +324,21 @@
         "published": "June 22, 2022 10:29 AM"
     },
     {
+        "title": "How a Hollywood star lobbies the EU for more surveillance | The European Union debates a new law that could force platforms to scan all private messages for signs of child abuse. Its most prominent advocate is the actor Ashton Kutcher",
+        "domain": "netzpolitik.org",
+        "category": "technology",
+        "link": "https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/",
+        "timestamp": 1655908591,
+        "sentiment": -1,
+        "published": "June 22, 2022 10:36 AM"
+    },
+    {
         "title": "U.S. FDA to order Juul e-cigarettes off market",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
         "timestamp": 1655908826,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 10:40 AM"
     },
     {
@@ -329,7 +347,7 @@
         "category": "technology",
         "link": "https://deadline.com/2022/06/activision-blizzard-shareholders-vote-harassment-report-1235049953/",
         "timestamp": 1655909659,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 10:54 AM"
     },
     {
@@ -340,6 +358,15 @@
         "timestamp": 1655910235,
         "sentiment": 0,
         "published": "June 22, 2022 11:03 AM"
+    },
+    {
+        "title": "Ukrainian Journalist ‘Executed in Cold Blood’ by Russian Troops, Investigation Says",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
+        "timestamp": 1655910672,
+        "sentiment": 0,
+        "published": "June 22, 2022 11:11 AM"
     },
     {
         "title": "Craig Robinson Comedy ‘Killing It’ Renewed for Season 2 at Peacock",
@@ -356,7 +383,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
         "timestamp": 1655911968,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 11:32 AM"
     },
     {
@@ -365,7 +392,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -392,7 +419,7 @@
         "category": "miami",
         "link": "https://www.newsweek.com/former-desantis-opponent-andrew-gillum-could-face-decades-prison-1718145",
         "timestamp": 1655915016,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 22, 2022 12:23 PM"
     },
     {
@@ -401,8 +428,35 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
         "timestamp": 1655915296,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 22, 2022 12:28 PM"
+    },
+    {
+        "title": "U.S. House Oversight Committee will subpoena Washington Commanders owner Daniel Snyder to testify before Congress",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/nfl/news/u-s-house-oversight-committee-will-subpoena-commanders-owner-daniel-snyder-to-testify-before-congress/",
+        "timestamp": 1655918403,
+        "sentiment": 0,
+        "published": "June 22, 2022 1:20 PM"
+    },
+    {
+        "title": "The Georgia election workers Trump slandered are the foundation of American democracy",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
+        "timestamp": 1655889942,
+        "sentiment": -6,
+        "published": "June 22, 2022 5:25 AM"
+    },
+    {
+        "title": "Meta's metaverse hardware business is on fire, 2024+ headsets paused says analyst Ming-Chi Kuo",
+        "domain": "tweaktown.com",
+        "category": "technology",
+        "link": "https://www.tweaktown.com/news/87026/metas-metaverse-hardware-business-is-on-fire-2024-headsets-paused/index.html",
+        "timestamp": 1655900903,
+        "sentiment": -2,
+        "published": "June 22, 2022 8:28 AM"
     },
     {
         "title": "Russia Begins to Pay the Price for Sanctions",
