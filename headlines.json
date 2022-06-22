@@ -1,20 +1,11 @@
 [
     {
-        "title": "Don’t listen to the news, Russia is losing.",
-        "domain": "thedailyblog.co.nz",
-        "category": "ukraine",
-        "link": "https://thedailyblog.co.nz/2022/06/21/guest-blog-ben-morgan-dont-listen-to-the-news-russia-is-losing/",
-        "timestamp": 1655870681,
-        "sentiment": -3,
-        "published": "June 22, 2022 12:04 AM"
-    },
-    {
         "title": "Brexit will leave workers poorer than they would have been and has damaged Britain's competitiveness, new study says",
         "domain": "news.sky.com",
         "category": "worldnews",
         "link": "https://news.sky.com/story/brexit-will-leave-workers-poorer-than-they-would-have-been-and-has-damaged-britains-competitiveness-new-study-says-12638190",
         "timestamp": 1655872008,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 22, 2022 12:26 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
         "timestamp": 1655873519,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 22, 2022 12:51 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.lgbtqnation.com/2022/06/war-crimes-lgbtq-people-ukraine-worse-people-can-imagine/",
         "timestamp": 1655878302,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 22, 2022 2:11 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
         "timestamp": 1655884242,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 22, 2022 3:50 AM"
     },
     {
@@ -59,8 +50,26 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/mcdonalds-russia-sold-record-burgers-opening-day-vkusno-tochka-rebranded-2022-6",
         "timestamp": 1655885433,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "June 22, 2022 4:10 AM"
+    },
+    {
+        "title": "Russia Begins to Pay the Price for Sanctions",
+        "domain": "cepa.org",
+        "category": "worldnews",
+        "link": "https://cepa.org/russia-begins-to-pay-the-price-for-sanctions/",
+        "timestamp": 1655886725,
+        "sentiment": -2,
+        "published": "June 22, 2022 4:32 AM"
+    },
+    {
+        "title": "World's biggest cruise ship has no buyer, 1st Voyage may be to scrapyard",
+        "domain": "ndtv.com",
+        "category": "news",
+        "link": "https://www.ndtv.com/world-news/worlds-biggest-cruise-ship-has-no-buyer-1st-voyage-may-be-to-scrapyard-3085818",
+        "timestamp": 1655888959,
+        "sentiment": -7,
+        "published": "June 22, 2022 5:09 AM"
     },
     {
         "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
@@ -68,7 +77,7 @@
         "category": "technology",
         "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
         "timestamp": 1655892950,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 22, 2022 6:15 AM"
     },
     {
@@ -77,8 +86,44 @@
         "category": "technology",
         "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
         "timestamp": 1655894453,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 22, 2022 6:40 AM"
+    },
+    {
+        "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
+        "timestamp": 1655895710,
+        "sentiment": -4,
+        "published": "June 22, 2022 7:01 AM"
+    },
+    {
+        "title": "Police shoot and kill bear that wandered into suburbs after being told by wildlife authorities to leave it alone. They then lie in the police report stating wildlife authorities told them otherwise.",
+        "domain": "wptv.com",
+        "category": "news",
+        "link": "https://www.wptv.com/news/region-c-palm-beach-county/royal-palm-beach/questions-growing-after-black-bear-is-shot-killed-in-royal-palm-beach",
+        "timestamp": 1655898276,
+        "sentiment": -7,
+        "published": "June 22, 2022 7:44 AM"
+    },
+    {
+        "title": "Russia warns UK will 'cease to exist' if Lithuania standoff triggers nuclear WW3",
+        "domain": "dailyrecord.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailyrecord.co.uk/news/uk-world-news/russia-warning-uk-lithuania-standoff-27289972",
+        "timestamp": 1655898319,
+        "sentiment": -2,
+        "published": "June 22, 2022 7:45 AM"
+    },
+    {
+        "title": "Don’t listen to the news, Russia is losing.",
+        "domain": "thedailyblog.co.nz",
+        "category": "ukraine",
+        "link": "https://thedailyblog.co.nz/2022/06/21/guest-blog-ben-morgan-dont-listen-to-the-news-russia-is-losing/",
+        "timestamp": 1655870681,
+        "sentiment": -3,
+        "published": "June 22, 2022 12:04 AM"
     },
     {
         "title": "Judge bans 11-year-old rape victim from having abortion",
