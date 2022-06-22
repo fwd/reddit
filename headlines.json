@@ -23,7 +23,7 @@
         "category": "miami",
         "link": "https://www.ibtimes.sg/miami-cop-under-investigation-after-telling-black-driver-this-how-you-guys-get-killed-during-65346",
         "timestamp": 1655801088,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 21, 2022 4:44 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/uvalde-texas-school-shooting-yet-another-report-police-response-doubt/",
         "timestamp": 1655807668,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 6:34 AM"
-    },
-    {
-        "title": "Kellogg to split into three independent companies",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/21/kellogg-to-split-into-three-independent-companies.html",
-        "timestamp": 1655811119,
-        "sentiment": -7,
-        "published": "June 21, 2022 7:31 AM"
     },
     {
         "title": "Uvalde mass shooting: Photos show armed police waiting in school hallway",
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61877914",
         "timestamp": 1655812902,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 8:01 AM"
     },
     {
@@ -79,15 +70,6 @@
         "timestamp": 1655815389,
         "sentiment": 2,
         "published": "June 21, 2022 8:43 AM"
-    },
-    {
-        "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
-        "timestamp": 1655815477,
-        "sentiment": 4,
-        "published": "June 21, 2022 8:44 AM"
     },
     {
         "title": "Katie Ledecky finished 14 seconds ahead of the next-fastest swimmer in her latest World Championship win.",
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166848/gop-minority-rule-gun-safety",
         "timestamp": 1655818764,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 9:39 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://thehill.com/changing-america/well-being/prevention-cures/3525017-american-medical-association-declares-abortion-bans-violation-of-human-rights/",
         "timestamp": 1655824847,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 11:20 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3530982-sotomayor-accuses-conservatives-of-dismantling-church-state-separation/",
         "timestamp": 1655826099,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 11:41 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/us-supreme-court-backs-public-money-religious-schools-maine-case-2022-06-21/",
         "timestamp": 1655827852,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 12:10 PM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.union-bulletin.com/this-is-how-you-guys-get-killed-out-here-florida-cop-tells-black-driver-questioning/article_c56c8e32-7298-5104-acd9-8df7af3a03d5.html",
         "timestamp": 1655828960,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 12:29 PM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/21/us/5-year-old-hot-car-death-houston/index.html",
         "timestamp": 1655832205,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 1:23 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/alex-holder-jan-6-committee-subpoena-1371644/",
         "timestamp": 1655833457,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 1:44 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-state-elector-scheme-jan-6-hearing-1371788/",
         "timestamp": 1655834161,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 1:56 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/jun/21/man-arrested-for-stealing-sausage-rolls-killed-himself-after-police-labelled-him-a-paedophile",
         "timestamp": 1655836576,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 2:36 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "politics",
         "link": "https://madison.com/news/local/govt-and-politics/aide-ron-johnson-wanted-to-hand-mike-pence-documents-falsely-stating-donald-trump-won-wisconsin/article_966cf89f-5704-5451-8842-725f6f921a38.html",
         "timestamp": 1655838234,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 3:03 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/jan-6-hearing-exposes-sitting-members-of-congress-involvement-in-fake-electors-scheme-142535237941",
         "timestamp": 1655838295,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 3:04 PM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655839826,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 3:30 PM"
     },
     {
@@ -365,26 +347,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/poll-stock-trading-ban-congress-2022-6",
         "timestamp": 1655839896,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 3:31 PM"
-    },
-    {
-        "title": "NASA begins switching off Voyager instruments after almost 45 years",
-        "domain": "techspot.com",
-        "category": "technology",
-        "link": "https://www.techspot.com/news/95012-nasa-begins-switching-off-voyager-instruments-after-almost.html",
-        "timestamp": 1655840704,
-        "sentiment": 0,
-        "published": "June 21, 2022 3:45 PM"
-    },
-    {
-        "title": "Giant sunspot has doubled in size in 24 hours and it's pointed at Earth",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/sunspot-surface-sun-doubles-size-solar-flare-earth-1717343",
-        "timestamp": 1655840839,
-        "sentiment": 2,
-        "published": "June 21, 2022 3:47 PM"
     },
     {
         "title": "Former Cleveland police ‘Officer of the Year’ under investigation for anti-Semitic social media posts",
@@ -392,7 +356,7 @@
         "category": "news",
         "link": "https://www.cleveland.com/metro/2022/06/former-cleveland-police-officer-of-the-year-under-investigation-for-anti-semitic-social-media-posts.html",
         "timestamp": 1655841338,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 3:55 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "florida",
         "link": "https://wusfnews.wusf.usf.edu/health-news-florida/2022-06-19/desantis-okays-law-to-let-local-governments-restrict-smoking-at-parks-and-beaches",
         "timestamp": 1655842011,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 21, 2022 4:06 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "politics",
         "link": "https://www.reuters.com/world/us/fox-news-parent-must-face-defamation-lawsuit-over-election-coverage-2022-06-21/",
         "timestamp": 1655846659,
-        "sentiment": 4,
+        "sentiment": -12,
         "published": "June 21, 2022 5:24 PM"
     },
     {
@@ -466,6 +430,33 @@
         "timestamp": 1655848752,
         "sentiment": 0,
         "published": "June 21, 2022 5:59 PM"
+    },
+    {
+        "title": "Australia Sends First Armored Personnel Carriers to Ukraine",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/australia-sends-first-armored-personnel-carriers-ukraine-1717863",
+        "timestamp": 1655848905,
+        "sentiment": 2,
+        "published": "June 21, 2022 6:01 PM"
+    },
+    {
+        "title": "American Airlines Will Stop Flying to Three Cities Due to Pilot Shortage",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/business/american-airlines-will-stop-flying-to-three-cities-due-to-pilot-shortage/2996384/",
+        "timestamp": 1655850565,
+        "sentiment": -3,
+        "published": "June 21, 2022 6:29 PM"
+    },
+    {
+        "title": "South Dakota Attorney General Jason Ravnsborg convicted on both impeachment charges in fatal crash, removed from office",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/politics-ap-news-alert-south-dakota-sd-state-wire-impeachments-92bb7fc45bfe29d3da7f59b68ffc87b7",
+        "timestamp": 1655851230,
+        "sentiment": -12,
+        "published": "June 21, 2022 6:40 PM"
     },
     {
         "title": "Catholic priests slaughtered inside church by Mexican cartel, bodies stolen",
@@ -500,8 +491,53 @@
         "category": "news",
         "link": "https://apnews.com/article/jason-ravnsborg-south-dakota-impeachments-e5d62c76eedecf4c9290fecd821496aa",
         "timestamp": 1655852633,
-        "sentiment": -7,
+        "sentiment": -3,
         "published": "June 21, 2022 7:03 PM"
+    },
+    {
+        "title": "A.I. that guesses your emotions could be misused and shouldn't be available to everyone, Microsoft decides",
+        "domain": "fortune.com",
+        "category": "technology",
+        "link": "https://fortune.com/2022/06/21/microsoft-limits-access-facial-recognition/",
+        "timestamp": 1655854192,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:29 PM"
+    },
+    {
+        "title": "Kellogg to split into three independent companies",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/21/kellogg-to-split-into-three-independent-companies.html",
+        "timestamp": 1655811119,
+        "sentiment": -7,
+        "published": "June 21, 2022 7:31 AM"
+    },
+    {
+        "title": "Jan 6 committee subpoenas previously unknown film of Trump and family at time of riot",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-riot-video-b2105857.html",
+        "timestamp": 1655815477,
+        "sentiment": 4,
+        "published": "June 21, 2022 8:44 AM"
+    },
+    {
+        "title": "NASA begins switching off Voyager instruments after almost 45 years",
+        "domain": "techspot.com",
+        "category": "technology",
+        "link": "https://www.techspot.com/news/95012-nasa-begins-switching-off-voyager-instruments-after-almost.html",
+        "timestamp": 1655840704,
+        "sentiment": 0,
+        "published": "June 21, 2022 3:45 PM"
+    },
+    {
+        "title": "Giant sunspot has doubled in size in 24 hours and it's pointed at Earth",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/sunspot-surface-sun-doubles-size-solar-flare-earth-1717343",
+        "timestamp": 1655840839,
+        "sentiment": 2,
+        "published": "June 21, 2022 3:47 PM"
     },
     {
         "title": "Judge Recommends $150k Piracy Judgment Against Torrent Site Operator",
