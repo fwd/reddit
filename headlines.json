@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-10941085/Dramatic-moment-Ukrainian-kamikaze-drone-ploughs-major-oil-refinery-inside-Russian-territory.html",
         "timestamp": 1655888280,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 4:58 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 5:18 AM"
     },
     {
@@ -34,15 +34,6 @@
         "timestamp": 1655892950,
         "sentiment": 0,
         "published": "June 22, 2022 6:15 AM"
-    },
-    {
-        "title": "Finland is ready to fight Russia if attacked - defence chief",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
-        "timestamp": 1655893545,
-        "sentiment": -2,
-        "published": "June 22, 2022 6:25 AM"
     },
     {
         "title": "CEO And COO Of Pornhub Parent Company MindGeek Abruptly Resign",
@@ -59,7 +50,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
         "timestamp": 1655897076,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 7:24 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "florida",
         "link": "https://twitter.com/govrondesantis/status/1538900964211564544?s=21&t=xbe7GcGw8SWzgg1BlUOLjA",
         "timestamp": 1655899008,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 7:56 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://apnews.com/article/afghanistan-earthquakes-bacc4c96b7a07b5d7d397bee9eb9d3c8",
         "timestamp": 1655900370,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 8:19 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 8:26 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
         "timestamp": 1655901712,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 8:41 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/22/demand-for-adjustable-rate-mortgages-surges-as-interest-rates-jump.html",
         "timestamp": 1655904351,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 9:25 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
         "timestamp": 1655904521,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 9:28 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/lauren-boebert-asks-pete-buttigieg-33-million-insulting-repeatedly/",
         "timestamp": 1655907216,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 10:13 AM"
     },
     {
@@ -225,21 +216,12 @@
         "published": "June 22, 2022 10:29 AM"
     },
     {
-        "title": "How a Hollywood star lobbies the EU for more surveillance | The European Union debates a new law that could force platforms to scan all private messages for signs of child abuse. Its most prominent advocate is the actor Ashton Kutcher",
-        "domain": "netzpolitik.org",
-        "category": "technology",
-        "link": "https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/",
-        "timestamp": 1655908591,
-        "sentiment": 0,
-        "published": "June 22, 2022 10:36 AM"
-    },
-    {
         "title": "U.S. tech companies yank job offers, leaving college grads scrambling.",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
         "timestamp": 1655908710,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 10:38 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
         "timestamp": 1655910672,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 11:11 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
         "timestamp": 1655912042,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/Bundeskanzler/status/1539628231329988614",
         "timestamp": 1655912770,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 22, 2022 11:46 AM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/climate-science-china-pollution-3d97642acbb07fca7540edca38448266?taid=62b33337785c930001d828d3&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
         "timestamp": 1655913161,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 11:52 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-aides-didnt-know-trump-recorded-on-jan-6-reports-2022-6?amp",
         "timestamp": 1655913335,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 11:55 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "miami",
         "link": "https://www.newsweek.com/former-desantis-opponent-andrew-gillum-could-face-decades-prison-1718145",
         "timestamp": 1655915016,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 12:23 PM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "politics",
         "link": "https://www.sacbee.com/opinion/op-ed/article262724992.html",
         "timestamp": 1655915276,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 12:27 PM"
     },
     {
@@ -365,8 +347,17 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
         "timestamp": 1655915296,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 12:28 PM"
+    },
+    {
+        "title": "Ukraine strikes Snake Island in 'significant' blow to Russia's Black Sea forces",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/06/22/ukraine-hits-snake-island-significant-blow-russias-black-sea/",
+        "timestamp": 1655915878,
+        "sentiment": 1,
+        "published": "June 22, 2022 12:37 PM"
     },
     {
         "title": "I Don’t Give a Rat’s Ass About Trump’s “State of Mind” — He may well be incapable of feeling guilt. So was Mao. And that’s a defense?",
@@ -374,7 +365,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166864/trump-mental-state-delusional",
         "timestamp": 1655916716,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 12:51 PM"
     },
     {
@@ -383,8 +374,17 @@
         "category": "news",
         "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
         "timestamp": 1655917949,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 1:12 PM"
+    },
+    {
+        "title": "EU plan to halve use of pesticides in ‘milestone’ legislation to restore ecosystems",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jun/22/eu-legislation-restoration-ecosystems-biodiversity-aoe",
+        "timestamp": 1655918382,
+        "sentiment": 1,
+        "published": "June 22, 2022 1:19 PM"
     },
     {
         "title": "U.S. House Oversight Committee will subpoena Washington Commanders owner Daniel Snyder to testify before Congress",
@@ -401,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/06/21/canada-single-use-plastic-ban-climate/",
         "timestamp": 1655918893,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 1:28 PM"
     },
     {
@@ -410,7 +410,7 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/06/ivanka-trump-donald-trump-2020-documentary-footage",
         "timestamp": 1655919293,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 22, 2022 1:34 PM"
     },
     {
@@ -428,7 +428,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/slain-uvalde-teachers-officer-husband-tried-wife-gun-was-taken-away-rcna34710?cid=sm_npd_nn_fb_ma&fbclid=IwAR2ZwQCNQNYAlRbYW49z4VWsntTK9KY0k4nE8AdUrRWVjFVPBBLWfmuEXfU&fs=e&s=cl",
         "timestamp": 1655922426,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 22, 2022 2:27 PM"
     },
     {
@@ -441,12 +441,21 @@
         "published": "June 22, 2022 2:47 PM"
     },
     {
+        "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
+        "domain": "nationalgeographic.com",
+        "category": "florida",
+        "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
+        "timestamp": 1655923670,
+        "sentiment": 2,
+        "published": "June 22, 2022 2:47 PM"
+    },
+    {
         "title": "Gillum Charged With Fraud and Conspiracy",
         "domain": "nytimes.com",
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/22/us/andrew-gillum-conspiracy-wire-fraud.html?partner=IFTTT",
         "timestamp": 1655924712,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 3:05 PM"
     },
     {
@@ -457,6 +466,15 @@
         "timestamp": 1655924953,
         "sentiment": 0,
         "published": "June 22, 2022 3:09 PM"
+    },
+    {
+        "title": "Elliot Page is 'proud' and 'excited' to debut trans character on 'Umbrella Academy'",
+        "domain": "latimes.com",
+        "category": "television",
+        "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-06-22/elliot-page-umbrella-academy-trans-character-viktor-hargreeves",
+        "timestamp": 1655925069,
+        "sentiment": 0,
+        "published": "June 22, 2022 3:11 PM"
     },
     {
         "title": "Kate Bush Says ‘The Whole World’s Gone Mad’ After ‘Stranger Things 4’ Made ‘Running Up That Hill’ a Chart-Topper",
@@ -473,8 +491,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/22/asia/japan-russia-china-warships-intl-hnk-ml/index.html",
         "timestamp": 1655925486,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 22, 2022 3:18 PM"
+    },
+    {
+        "title": "‘We aren’t going anywhere:’ Drag Queen Story Hour forges ahead after Proud Boys’ disruption",
+        "domain": "eastbaytimes.com",
+        "category": "news",
+        "link": "https://www.eastbaytimes.com/2022/06/21/we-arent-going-anywhere-drag-queen-story-hour-forges-ahead-in-alameda-county/",
+        "timestamp": 1655925880,
+        "sentiment": 0,
+        "published": "June 22, 2022 3:24 PM"
     },
     {
         "title": "Ex-NFL DT Siragusa, 'The Goose,' dies at age 55",
@@ -484,6 +511,51 @@
         "timestamp": 1655929019,
         "sentiment": 0,
         "published": "June 22, 2022 4:16 PM"
+    },
+    {
+        "title": "Amazon CEO acknowledges loss of Black leaders in internal memo",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/06/22/amazon-ceo-acknowledges-loss-of-black-leaders-in-internal-memo.html",
+        "timestamp": 1655929927,
+        "sentiment": 0,
+        "published": "June 22, 2022 4:32 PM"
+    },
+    {
+        "title": "Musk says Tesla's new car factories 'losing billions of dollars'",
+        "domain": "channelnewsasia.com",
+        "category": "technology",
+        "link": "https://www.channelnewsasia.com/business/musk-says-teslas-new-car-factories-losing-billions-dollars-2764456",
+        "timestamp": 1655930532,
+        "sentiment": 0,
+        "published": "June 22, 2022 4:42 PM"
+    },
+    {
+        "title": "Historic Miami Beach murals, slated for demolition, saved in the nick of time",
+        "domain": "m.youtube.com",
+        "category": "miami",
+        "link": "https://m.youtube.com/watch?v=YaGt3-MTGd4",
+        "timestamp": 1655931819,
+        "sentiment": 2,
+        "published": "June 22, 2022 5:03 PM"
+    },
+    {
+        "title": "Finland is ready to fight Russia if attacked - defence chief",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
+        "timestamp": 1655893545,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:25 AM"
+    },
+    {
+        "title": "How a Hollywood star lobbies the EU for more surveillance | The European Union debates a new law that could force platforms to scan all private messages for signs of child abuse. Its most prominent advocate is the actor Ashton Kutcher",
+        "domain": "netzpolitik.org",
+        "category": "technology",
+        "link": "https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/",
+        "timestamp": 1655908591,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:36 AM"
     },
     {
         "title": "A Ukrainian loitering munition (aka a suicide drone) hits a Russian oil refinery in Novoshakhtinsk, Rostov Oblast",
