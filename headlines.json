@@ -1,20 +1,11 @@
 [
     {
-        "title": "Brexit will leave workers poorer than they would have been and has damaged Britain's competitiveness, new study says",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/brexit-will-leave-workers-poorer-than-they-would-have-been-and-has-damaged-britains-competitiveness-new-study-says-12638190",
-        "timestamp": 1655872008,
-        "sentiment": 0,
-        "published": "June 22, 2022 12:26 AM"
-    },
-    {
         "title": "More than 1,300 Southwest Airlines pilots march on picket line, say they're overworked and underpaid",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/business/travel/southwest-airlines-pilots-picket-line-overworked-underpaid-rcna34625",
         "timestamp": 1655873519,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 22, 2022 12:51 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
         "timestamp": 1655879839,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "June 22, 2022 2:37 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/JimmySecUK/status/1539514526428803072",
         "timestamp": 1655884242,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 22, 2022 3:50 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.ndtv.com/world-news/worlds-biggest-cruise-ship-has-no-buyer-1st-voyage-may-be-to-scrapyard-3085818",
         "timestamp": 1655888959,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 22, 2022 5:09 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
         "timestamp": 1655889518,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 22, 2022 5:18 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://edition.cnn.com/2022/06/22/politics/georgia-election-workers-american-democracy-trump/index.html",
         "timestamp": 1655889942,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 5:25 AM"
     },
     {
@@ -104,8 +95,17 @@
         "category": "technology",
         "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
         "timestamp": 1655892950,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 6:15 AM"
+    },
+    {
+        "title": "Finland is ready to fight Russia if attacked - defence chief",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/aerospace-defense/finland-is-ready-fight-russia-if-attacked-defence-chief-2022-06-22/",
+        "timestamp": 1655893545,
+        "sentiment": -2,
+        "published": "June 22, 2022 6:25 AM"
     },
     {
         "title": "China plans to review every single comment before it is posted on social media",
@@ -113,7 +113,7 @@
         "category": "technology",
         "link": "https://china-underground.com/2022/06/22/china-plans-to-review-every-single-comment-before-it-is-posted-on-social-media/",
         "timestamp": 1655894453,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 6:40 AM"
     },
     {
@@ -122,8 +122,17 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
         "timestamp": 1655895710,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 7:01 AM"
+    },
+    {
+        "title": "China plans to have every single comment reviewed before it's published on social media",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
+        "timestamp": 1655896314,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:11 AM"
     },
     {
         "title": "Could the fake electors scheme prove to be Trump campaign’s achilles heel? | The justice department is investigating whether the Republicans who signed as electors could be charged",
@@ -131,7 +140,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-fake-electors-scheme-trump",
         "timestamp": 1655897076,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 7:24 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -160,6 +169,15 @@
         "timestamp": 1655898319,
         "sentiment": 0,
         "published": "June 22, 2022 7:45 AM"
+    },
+    {
+        "title": "Intel Reveals Putin Plan to Weasel His Way Into American Hearts",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/how-vladimir-putin-is-plotting-to-weasel-his-way-into-american-hearts?ref=home",
+        "timestamp": 1655898917,
+        "sentiment": -3,
+        "published": "June 22, 2022 7:55 AM"
     },
     {
         "title": "The Colombian right conceded the election, acknowledged it was fair and represented the will of its people. Ron DeSantis:",
@@ -185,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -194,7 +212,7 @@
         "category": "television",
         "link": "https://www.insider.com/simone-ashley-snails-mate-intimacy-workshop-bridgerton-sex-education-2022-6",
         "timestamp": 1655900420,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "June 22, 2022 8:20 AM"
     },
     {
@@ -203,8 +221,35 @@
         "category": "technology",
         "link": "https://www.tweaktown.com/news/87026/metas-metaverse-hardware-business-is-on-fire-2024-headsets-paused/index.html",
         "timestamp": 1655900903,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 22, 2022 8:28 AM"
+    },
+    {
+        "title": "Traces of polio virus found in London sewage as health officials declare national incident",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
+        "timestamp": 1655901318,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:35 AM"
+    },
+    {
+        "title": "What Are Trump Supporters So Afraid Of? The voice inside that tells them how wrong they are.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/newsletters/archive/2022/06/what-are-trump-supporters-so-afraid-of/661346/",
+        "timestamp": 1655901431,
+        "sentiment": -3,
+        "published": "June 22, 2022 8:37 AM"
+    },
+    {
+        "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
+        "timestamp": 1655901712,
+        "sentiment": -3,
+        "published": "June 22, 2022 8:41 AM"
     },
     {
         "title": "Even Fox News analysts say Donald Trump should face criminal charges as channel starts airing Jan 6 hearings",
@@ -212,8 +257,44 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 22, 2022 8:46 AM"
+    },
+    {
+        "title": "Amazon could run out of workers in US in two years, internal memo suggests | With exceptionally high turnover, the company risks churning though available labor pool by 2024",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortage-leaked-memo-warehouse",
+        "timestamp": 1655902229,
+        "sentiment": 0,
+        "published": "June 22, 2022 8:50 AM"
+    },
+    {
+        "title": "'The Boys' Upcoming 'Herogasm' Episode Teased with Content Warnings - \"Not Suitable For Any Audience\"",
+        "domain": "comicbookmovie.com",
+        "category": "television",
+        "link": "https://comicbookmovie.com/tv/amazon/the_boys/the-boys-check-out-a-teaser-for-fridays-not-suitable-for-any-audience-herogasm-episode-a194403",
+        "timestamp": 1655903691,
+        "sentiment": 2,
+        "published": "June 22, 2022 9:14 AM"
+    },
+    {
+        "title": "Ravens' Jaylon Ferguson dies at 26: Linebacker was a third-round pick in 2019 NFL Draft",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/nfl/news/ravens-jaylon-ferguson-dies-at-26-linebacker-was-a-third-round-pick-in-2019-nfl-draft/",
+        "timestamp": 1655908173,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:29 AM"
+    },
+    {
+        "title": "Brexit will leave workers poorer than they would have been and has damaged Britain's competitiveness, new study says",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/brexit-will-leave-workers-poorer-than-they-would-have-been-and-has-damaged-britains-competitiveness-new-study-says-12638190",
+        "timestamp": 1655872008,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:26 AM"
     },
     {
         "title": "Police shoot and kill bear that wandered into suburbs after being told by wildlife authorities to leave it alone. They then lie in the police report stating wildlife authorities told them otherwise.",
