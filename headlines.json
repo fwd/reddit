@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/us-ban-on-cotton-from-forced-uyghur-labour-comes-into-force",
         "timestamp": 1655799253,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 4:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "miami",
         "link": "https://www.ibtimes.sg/miami-cop-under-investigation-after-telling-black-driver-this-how-you-guys-get-killed-during-65346",
         "timestamp": 1655801088,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 21, 2022 4:44 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-21/switzerland-imports-russian-gold-for-first-time-since-invasion",
         "timestamp": 1655804828,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 5:47 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/uvalde-texas-school-shooting-yet-another-report-police-response-doubt/",
         "timestamp": 1655807668,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 6:34 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61877914",
         "timestamp": 1655812902,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 8:01 AM"
     },
     {
@@ -61,15 +61,6 @@
         "timestamp": 1655814892,
         "sentiment": 0,
         "published": "June 21, 2022 8:34 AM"
-    },
-    {
-        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
-        "timestamp": 1655815389,
-        "sentiment": 2,
-        "published": "June 21, 2022 8:43 AM"
     },
     {
         "title": "Katie Ledecky finished 14 seconds ahead of the next-fastest swimmer in her latest World Championship win.",
@@ -90,21 +81,12 @@
         "published": "June 21, 2022 8:49 AM"
     },
     {
-        "title": "Panzerhaubitze 2000 are finally part of 155 mm howitzer arsenal of the Ukrainian artillery.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
-        "timestamp": 1655815945,
-        "sentiment": 0,
-        "published": "June 21, 2022 8:52 AM"
-    },
-    {
         "title": "Russian border guard helicopter violates Estonia’s airspace.",
         "domain": "english.alarabiya.net",
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/21/Russian-border-guard-helicopter-violates-Estonia-s-airspace",
         "timestamp": 1655816454,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 9:00 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166848/gop-minority-rule-gun-safety",
         "timestamp": 1655818764,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 9:39 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "politics",
         "link": "https://thehill.com/changing-america/well-being/prevention-cures/3525017-american-medical-association-declares-abortion-bans-violation-of-human-rights/",
         "timestamp": 1655824847,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 11:20 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/21/kaliningrad-russia-threatens-serious-consequences-as-lithuania-blocks-rail-goods",
         "timestamp": 1655825246,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 11:27 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3530982-sotomayor-accuses-conservatives-of-dismantling-church-state-separation/",
         "timestamp": 1655826099,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 11:41 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/us-supreme-court-backs-public-money-religious-schools-maine-case-2022-06-21/",
         "timestamp": 1655827852,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 12:10 PM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://www.union-bulletin.com/this-is-how-you-guys-get-killed-out-here-florida-cop-tells-black-driver-questioning/article_c56c8e32-7298-5104-acd9-8df7af3a03d5.html",
         "timestamp": 1655828960,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 12:29 PM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "worldnews",
         "link": "https://yle.fi/news/3-12505348",
         "timestamp": 1655829022,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 12:30 PM"
     },
     {
@@ -205,6 +187,15 @@
         "timestamp": 1655829421,
         "sentiment": 0,
         "published": "June 21, 2022 12:37 PM"
+    },
+    {
+        "title": "Browns' Watson settles 20 of 24 civil suits",
+        "domain": "theathletic.com",
+        "category": "sports",
+        "link": "https://theathletic.com/news/deshaun-watson-lawsuits/vORuMRdmXlPo/?amp=1",
+        "timestamp": 1655829964,
+        "sentiment": 0,
+        "published": "June 21, 2022 12:46 PM"
     },
     {
         "title": "The James Webb Space Telescope is finally ready to do science — and it's seeing the universe more clearly than even its own engineers hoped for",
@@ -221,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.spiegel.de/international/world/syrian-drug-smuggling-the-assad-regime-would-not-survive-loss-of-captagon-revenues-a-b4302356-e562-4088-95a1-45d557a3952a?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
         "timestamp": 1655831476,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 1:11 PM"
     },
     {
@@ -230,17 +221,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/21/us/5-year-old-hot-car-death-houston/index.html",
         "timestamp": 1655832205,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 1:23 PM"
-    },
-    {
-        "title": "Transgender women banned from playing in women's international rugby league matches",
-        "domain": "cnn.com",
-        "category": "sports",
-        "link": "https://www.cnn.com/2022/06/21/sport/rugby-league-bans-trans-women-spt-intl/index.html",
-        "timestamp": 1655833316,
-        "sentiment": 0,
-        "published": "June 21, 2022 1:41 PM"
     },
     {
         "title": "'What the F-ck Is This?': Team Trump Blindsided by Jan. 6 Committee Getting Doc Footage",
@@ -248,7 +230,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/alex-holder-jan-6-committee-subpoena-1371644/",
         "timestamp": 1655833457,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 1:44 PM"
     },
     {
@@ -266,8 +248,17 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-state-elector-scheme-jan-6-hearing-1371788/",
         "timestamp": 1655834161,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 1:56 PM"
+    },
+    {
+        "title": "Once empowered by Title IX, female athletes are now among big winners in new NIL era",
+        "domain": "latimes.com",
+        "category": "sports",
+        "link": "https://www.latimes.com/sports/story/2022-06-21/once-empowered-by-title-ix-female-athletes-are-now-among-big-winners-in-new-nil-era",
+        "timestamp": 1655835352,
+        "sentiment": 0,
+        "published": "June 21, 2022 2:15 PM"
     },
     {
         "title": "Florence Pugh To Star In ‘East Of Eden’ Limited Series For Netflix",
@@ -284,7 +275,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/uk-news/2022/jun/21/man-arrested-for-stealing-sausage-rolls-killed-himself-after-police-labelled-him-a-paedophile",
         "timestamp": 1655836576,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 2:36 PM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "politics",
         "link": "https://madison.com/news/local/govt-and-politics/aide-ron-johnson-wanted-to-hand-mike-pence-documents-falsely-stating-donald-trump-won-wisconsin/article_966cf89f-5704-5451-8842-725f6f921a38.html",
         "timestamp": 1655838234,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 3:03 PM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/jan-6-hearing-exposes-sitting-members-of-congress-involvement-in-fake-electors-scheme-142535237941",
         "timestamp": 1655838295,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 3:04 PM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.ukrinform.net/rubric-polytics/3512004-luxembourg-commits-15-of-defense-budget-to-support-ukraine-army-zelensky.html",
         "timestamp": 1655838632,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 3:10 PM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/film/2022/jun/20/paramount-not-remove-content-eras-different-tastes-sensibilities",
         "timestamp": 1655839826,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 3:30 PM"
     },
     {
@@ -347,17 +338,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/poll-stock-trading-ban-congress-2022-6",
         "timestamp": 1655839896,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 3:31 PM"
     },
     {
-        "title": "Former Cleveland police ‘Officer of the Year’ under investigation for anti-Semitic social media posts",
-        "domain": "cleveland.com",
-        "category": "news",
-        "link": "https://www.cleveland.com/metro/2022/06/former-cleveland-police-officer-of-the-year-under-investigation-for-anti-semitic-social-media-posts.html",
-        "timestamp": 1655841338,
-        "sentiment": -3,
-        "published": "June 21, 2022 3:55 PM"
+        "title": "GOP Sen. Ron Johnson Tried To Give Mike Pence Fake Ballots",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ron-johnson-mike-pence-fake-ballots_n_62b20936e4b0cf43c85cb920",
+        "timestamp": 1655840496,
+        "sentiment": 0,
+        "published": "June 21, 2022 3:41 PM"
     },
     {
         "title": "‘Jeopardy!’ Host Mayim Bialik Tests Positive for COVID-19: “It’s Very, Very Exhausting”",
@@ -396,15 +387,6 @@
         "published": "June 21, 2022 4:54 PM"
     },
     {
-        "title": "Fox News parent company must face defamation lawsuit over election coverage",
-        "domain": "reuters.com",
-        "category": "politics",
-        "link": "https://www.reuters.com/world/us/fox-news-parent-must-face-defamation-lawsuit-over-election-coverage-2022-06-21/",
-        "timestamp": 1655846659,
-        "sentiment": -12,
-        "published": "June 21, 2022 5:24 PM"
-    },
-    {
         "title": "Amazon is flying internet influencers to luxurious resorts in bid for social media clout",
         "domain": "cnbc.com",
         "category": "technology",
@@ -432,30 +414,12 @@
         "published": "June 21, 2022 5:59 PM"
     },
     {
-        "title": "Australia Sends First Armored Personnel Carriers to Ukraine",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/australia-sends-first-armored-personnel-carriers-ukraine-1717863",
-        "timestamp": 1655848905,
-        "sentiment": 2,
-        "published": "June 21, 2022 6:01 PM"
-    },
-    {
-        "title": "American Airlines Will Stop Flying to Three Cities Due to Pilot Shortage",
-        "domain": "nbcdfw.com",
-        "category": "news",
-        "link": "https://www.nbcdfw.com/news/business/american-airlines-will-stop-flying-to-three-cities-due-to-pilot-shortage/2996384/",
-        "timestamp": 1655850565,
-        "sentiment": -3,
-        "published": "June 21, 2022 6:29 PM"
-    },
-    {
         "title": "South Dakota Attorney General Jason Ravnsborg convicted on both impeachment charges in fatal crash, removed from office",
         "domain": "apnews.com",
         "category": "politics",
         "link": "https://apnews.com/article/politics-ap-news-alert-south-dakota-sd-state-wire-impeachments-92bb7fc45bfe29d3da7f59b68ffc87b7",
         "timestamp": 1655851230,
-        "sentiment": -12,
+        "sentiment": 0,
         "published": "June 21, 2022 6:40 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonexaminer.com/news/catholic-priests-slaughtered-church-mexican-cartel-bodies-stolen",
         "timestamp": 1655851320,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 21, 2022 6:42 PM"
     },
     {
@@ -475,6 +439,15 @@
         "timestamp": 1655851482,
         "sentiment": 0,
         "published": "June 21, 2022 6:44 PM"
+    },
+    {
+        "title": "A life ring from the Russian cruiser Moskva washed up in Odessa",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Osinttechnical/status/1539372850515165186?s=20&t=niE1sTJSDFMj3lY9hzbGzQ",
+        "timestamp": 1655851716,
+        "sentiment": 0,
+        "published": "June 21, 2022 6:48 PM"
     },
     {
         "title": "Texas to spend $408 million to install EV charging stations every 50 miles on its highways",
@@ -491,7 +464,7 @@
         "category": "news",
         "link": "https://apnews.com/article/jason-ravnsborg-south-dakota-impeachments-e5d62c76eedecf4c9290fecd821496aa",
         "timestamp": 1655852633,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 21, 2022 7:03 PM"
     },
     {
@@ -502,6 +475,123 @@
         "timestamp": 1655854192,
         "sentiment": 0,
         "published": "June 21, 2022 7:29 PM"
+    },
+    {
+        "title": "Goat Injures Russian Soldiers By Triggering Tripwires With Grenades",
+        "domain": "ibtimes.com",
+        "category": "ukraine",
+        "link": "https://www.ibtimes.com/goat-injures-russian-soldiers-triggering-tripwires-grenades-3546435",
+        "timestamp": 1655855528,
+        "sentiment": 0,
+        "published": "June 21, 2022 7:52 PM"
+    },
+    {
+        "title": "Wisconsin’s Johnson under heat for fake elector revelation",
+        "domain": "nbc15.com",
+        "category": "news",
+        "link": "https://www.nbc15.com/2022/06/21/wisconsins-johnson-under-heat-fake-elector-revelation/",
+        "timestamp": 1655855783,
+        "sentiment": -1,
+        "published": "June 21, 2022 7:56 PM"
+    },
+    {
+        "title": "Estonia says Russia has violated its airspace for first time by helicopter in highly provocative move",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/estonia-says-russia-has-violated-its-airspace-for-first-time-by-helicopter-in-highly-provocative-move-12638006",
+        "timestamp": 1655858427,
+        "sentiment": -3,
+        "published": "June 21, 2022 8:40 PM"
+    },
+    {
+        "title": "Russia's ruble is the strongest currency in the world this year",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/russia-ukraine-ruble-currency-russian-economy-2022/",
+        "timestamp": 1655858907,
+        "sentiment": -3,
+        "published": "June 21, 2022 8:48 PM"
+    },
+    {
+        "title": "You’re Still Watching Almost 3 Hours of Live TV a Day, Says Nielsen Report",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/06/21/live-tv-versus-streaming-viewership-nielsen-report/",
+        "timestamp": 1655860211,
+        "sentiment": 0,
+        "published": "June 21, 2022 9:10 PM"
+    },
+    {
+        "title": "Texas shooting: School where 19 pupils and two teachers were shot dead is to be demolished",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/texas-shooting-school-where-19-pupils-and-two-teachers-were-shot-dead-is-to-be-demolished-12638192?repost2",
+        "timestamp": 1655862585,
+        "sentiment": -1,
+        "published": "June 21, 2022 9:49 PM"
+    },
+    {
+        "title": "Dutch Senators voted in favour of abolishing the five day wait before an abortion",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/senators-vote-to-abolish-five-day-wait-before-an-abortion/",
+        "timestamp": 1655815389,
+        "sentiment": 2,
+        "published": "June 21, 2022 8:43 AM"
+    },
+    {
+        "title": "Panzerhaubitze 2000 are finally part of 155 mm howitzer arsenal of the Ukrainian artillery.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/oleksiireznikov/status/1539225560588734466",
+        "timestamp": 1655815945,
+        "sentiment": 0,
+        "published": "June 21, 2022 8:52 AM"
+    },
+    {
+        "title": "Transgender women banned from playing in women's international rugby league matches",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/06/21/sport/rugby-league-bans-trans-women-spt-intl/index.html",
+        "timestamp": 1655833316,
+        "sentiment": 0,
+        "published": "June 21, 2022 1:41 PM"
+    },
+    {
+        "title": "Former Cleveland police ‘Officer of the Year’ under investigation for anti-Semitic social media posts",
+        "domain": "cleveland.com",
+        "category": "news",
+        "link": "https://www.cleveland.com/metro/2022/06/former-cleveland-police-officer-of-the-year-under-investigation-for-anti-semitic-social-media-posts.html",
+        "timestamp": 1655841338,
+        "sentiment": -3,
+        "published": "June 21, 2022 3:55 PM"
+    },
+    {
+        "title": "Fox News parent company must face defamation lawsuit over election coverage",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/fox-news-parent-must-face-defamation-lawsuit-over-election-coverage-2022-06-21/",
+        "timestamp": 1655846659,
+        "sentiment": -12,
+        "published": "June 21, 2022 5:24 PM"
+    },
+    {
+        "title": "Australia Sends First Armored Personnel Carriers to Ukraine",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/australia-sends-first-armored-personnel-carriers-ukraine-1717863",
+        "timestamp": 1655848905,
+        "sentiment": 2,
+        "published": "June 21, 2022 6:01 PM"
+    },
+    {
+        "title": "American Airlines Will Stop Flying to Three Cities Due to Pilot Shortage",
+        "domain": "nbcdfw.com",
+        "category": "news",
+        "link": "https://www.nbcdfw.com/news/business/american-airlines-will-stop-flying-to-three-cities-due-to-pilot-shortage/2996384/",
+        "timestamp": 1655850565,
+        "sentiment": -3,
+        "published": "June 21, 2022 6:29 PM"
     },
     {
         "title": "Kellogg to split into three independent companies",
@@ -808,24 +898,6 @@
         "timestamp": 1655817863,
         "sentiment": 0,
         "published": "June 21, 2022 9:24 AM"
-    },
-    {
-        "title": "Browns' Watson settles 20 of 24 civil suits",
-        "domain": "theathletic.com",
-        "category": "sports",
-        "link": "https://theathletic.com/news/deshaun-watson-lawsuits/vORuMRdmXlPo/?amp=1",
-        "timestamp": 1655829964,
-        "sentiment": 1,
-        "published": "June 21, 2022 12:46 PM"
-    },
-    {
-        "title": "Once empowered by Title IX, female athletes are now among big winners in new NIL era",
-        "domain": "latimes.com",
-        "category": "sports",
-        "link": "https://www.latimes.com/sports/story/2022-06-21/once-empowered-by-title-ix-female-athletes-are-now-among-big-winners-in-new-nil-era",
-        "timestamp": 1655835352,
-        "sentiment": 1,
-        "published": "June 21, 2022 2:15 PM"
     },
     {
         "title": "BBC News have stopped their live news coverage of Russia's invasion of Ukraine. This is music to putin’s propaganda ears, as he hopes his continued genocide in 🇺🇦 will fade from world view",
