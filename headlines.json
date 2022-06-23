@@ -1,20 +1,11 @@
 [
     {
-        "title": "Germany faces gas supply ‘crisis,’ declares alarm level",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
-        "timestamp": 1655971732,
-        "sentiment": -2,
-        "published": "June 23, 2022 4:08 AM"
-    },
-    {
         "title": "Intel really just asked the EU for $624M to pay it back for overturned anti-AMD fine",
         "domain": "pcgamer.com",
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
         "timestamp": 1655981852,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 6:57 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -117,21 +108,12 @@
         "published": "June 23, 2022 7:10 AM"
     },
     {
-        "title": "In Boebert’s district, as elsewhere, Democrats surge into G.O.P. primary | Thousands of Democrats in Western Colorado are voting in the primary on Tuesday against Representative Lauren Boebert, part of a broader effort to defeat far-right Republicans.",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/06/22/us/politics/boebert-colorado-primary-democrats.html",
-        "timestamp": 1655984158,
-        "sentiment": -2,
-        "published": "June 23, 2022 7:35 AM"
-    },
-    {
         "title": "Ted Sarandos Confirms Netflix Adding New Ad-Supported Tier to Streaming Service",
         "domain": "hollywoodreporter.com",
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 7:49 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/06/23/january-6-committee-threats-social-wing-social-media-osullivan-newday-vpx.cnn",
         "timestamp": 1655986676,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 8:17 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
         "timestamp": 1655987522,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 8:32 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 9:11 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/23/and-his-stooges-must-be-punished-its-the-only-way-to-save-america/",
         "timestamp": 1655990195,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 9:16 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -239,8 +221,17 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 9:33 AM"
+    },
+    {
+        "title": "Mo Brooks, betrayed by Trump in losing re-election bid, says he's willing to testify about Jan. 6",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/23/mo-brooks-betrayed-by-in-losing-re-bid-says-hes-willing-to-testify-about-jan-6/",
+        "timestamp": 1655991965,
+        "sentiment": -6,
+        "published": "June 23, 2022 9:46 AM"
     },
     {
         "title": "Ukraine celebrates US long-range rocket systems arriving after months of asking. 'Summer will be hot for Russian occupiers.'",
@@ -257,7 +248,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 9:55 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-23/supreme-court-shields-police-from-being-sued-for-ignoring-miranda-warnings",
         "timestamp": 1655995942,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 10:52 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
         "timestamp": 1655996721,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 11:05 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
         "timestamp": 1655997528,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 11:18 AM"
     },
     {
@@ -347,7 +338,7 @@
         "category": "technology",
         "link": "https://www.ft.com/content/aab59edd-2a14-409c-8d31-6d64831f633f",
         "timestamp": 1655997989,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 11:26 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "florida",
         "link": "https://apnews.com/article/miami-florida-surfside-building-collapse-3b95c4fb474b57bb48923a3c321c3c3e",
         "timestamp": 1655998522,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 11:35 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
         "timestamp": 1655999524,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 11:52 AM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "ukraine",
         "link": "https://podclips.com/c/garry-kasparov-on-putin-invading-ukraine-this-is-already-world-war-iii?ss=r&ss2=ukraine&d=2022-06-23&m=true",
         "timestamp": 1655999642,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 11:54 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
         "timestamp": 1656000021,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 12:00 PM"
     },
     {
@@ -410,7 +401,7 @@
         "category": "miami",
         "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
         "timestamp": 1656001381,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 23, 2022 12:23 PM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
         "timestamp": 1656001915,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 12:31 PM"
     },
     {
@@ -437,7 +428,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-avidly-watching-jan-6-hearings-almost-screaming-tv-report-2022-6",
         "timestamp": 1656004257,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 23, 2022 1:10 PM"
     },
     {
@@ -446,8 +437,35 @@
         "category": "ukraine",
         "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
         "timestamp": 1656004516,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 1:15 PM"
+    },
+    {
+        "title": "Man who carried Vladimir Putin's nuclear controls briefcase found shot at home",
+        "domain": "mirror.co.uk",
+        "category": "worldnews",
+        "link": "https://www.mirror.co.uk/news/world-news/man-who-carried-vladimir-putins-27296967",
+        "timestamp": 1656008904,
+        "sentiment": -2,
+        "published": "June 23, 2022 2:28 PM"
+    },
+    {
+        "title": "Germany faces gas supply ‘crisis,’ declares alarm level",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
+        "timestamp": 1655971732,
+        "sentiment": -2,
+        "published": "June 23, 2022 4:08 AM"
+    },
+    {
+        "title": "In Boebert’s district, as elsewhere, Democrats surge into G.O.P. primary | Thousands of Democrats in Western Colorado are voting in the primary on Tuesday against Representative Lauren Boebert, part of a broader effort to defeat far-right Republicans.",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/22/us/politics/boebert-colorado-primary-democrats.html",
+        "timestamp": 1655984158,
+        "sentiment": -2,
+        "published": "June 23, 2022 7:35 AM"
     },
     {
         "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
