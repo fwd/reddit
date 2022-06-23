@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/23/we-are-not-pollution-producers-dutch-farmers-block-roads-in-protest-against-emissions-targ",
         "timestamp": 1655975884,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 5:18 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-set-to-agree-biggest-overhaul-of-defences-since-the-cold-war-including-expansion-of-40-000-strong-response-force-12638817",
         "timestamp": 1655976869,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 5:34 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://au.news.yahoo.com/european-parliament-overwhelmingly-approves-eu-102231942.html?soc_src=community&soc_trk=tw",
         "timestamp": 1655981441,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:50 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "sports",
         "link": "https://www.sportsnet.ca/juniors/article/federal-government-freezing-hockey-canada-funding/",
         "timestamp": 1655982640,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 23, 2022 7:10 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 23, 2022 7:49 AM"
     },
     {
@@ -95,16 +95,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": 0,
-        "published": "June 23, 2022 8:01 AM"
-    },
-    {
-        "title": "Vladimir Putin's approval rating hits 20-year low",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/vladimir-putin-approval-rating-twenty-year-low-ukraine-war-invasion-1718399",
-        "timestamp": 1655985715,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/us-swimmer-anita-alvarezs-coach-saves-her-after-she-fainted-in-the-water-during-world-championships-12638885",
         "timestamp": 1655986388,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion",
         "timestamp": 1655988113,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 8:41 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 9:11 AM"
     },
     {
@@ -194,17 +185,8 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": -5,
-        "published": "June 23, 2022 9:33 AM"
-    },
-    {
-        "title": "Mo Brooks, betrayed by Trump in losing re-election bid, says he's willing to testify about Jan. 6",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/06/23/mo-brooks-betrayed-by-in-losing-re-bid-says-hes-willing-to-testify-about-jan-6/",
-        "timestamp": 1655991965,
         "sentiment": 0,
-        "published": "June 23, 2022 9:46 AM"
+        "published": "June 23, 2022 9:33 AM"
     },
     {
         "title": "Mark Zuckerberg is more interested in the metaverse than election integrity, report says",
@@ -212,7 +194,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 9:55 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/23/politics/supreme-court-death-row-inmates/index.html",
         "timestamp": 1655994098,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 10:21 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
         "timestamp": 1655995189,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 10:39 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
         "timestamp": 1655995389,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 10:43 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
         "timestamp": 1655996721,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 11:05 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
         "timestamp": 1655997528,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 23, 2022 11:18 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "sports",
         "link": "https://twitter.com/englandcricket/status/1539982449958014976?s=20&t=w8_IRb4DcTuAVA4Rq2_pwQ",
         "timestamp": 1655997626,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 23, 2022 11:20 AM"
     },
     {
@@ -293,8 +275,269 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/ukraine-warns-russia-massive-missile-strikes-after-u-s-rockets-arrive-1718493",
         "timestamp": 1655997841,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 11:24 AM"
+    },
+    {
+        "title": "Meta Made Millions From Ads That Spread Disinformation",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
+        "timestamp": 1655999524,
+        "sentiment": 0,
+        "published": "June 23, 2022 11:52 AM"
+    },
+    {
+        "title": "New dress code outlaws dresses and skirts in Texas school district",
+        "domain": "cbs7.com",
+        "category": "news",
+        "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
+        "timestamp": 1655999593,
+        "sentiment": -1,
+        "published": "June 23, 2022 11:53 AM"
+    },
+    {
+        "title": "Gary Kasparov: \"This is already World War III. And this is not just a war against Ukraine; Vladimir Putin is attacking the very foundation of the world we used to live since World War II. And if he succeeds in Ukraine, all bets are off.\"",
+        "domain": "podclips.com",
+        "category": "ukraine",
+        "link": "https://podclips.com/c/garry-kasparov-on-putin-invading-ukraine-this-is-already-world-war-iii?ss=r&ss2=ukraine&d=2022-06-23&m=true",
+        "timestamp": 1655999642,
+        "sentiment": 0,
+        "published": "June 23, 2022 11:54 AM"
+    },
+    {
+        "title": "Nigerian politician and wife charged with child organ-harvesting plot",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-61908876",
+        "timestamp": 1655999726,
+        "sentiment": -3,
+        "published": "June 23, 2022 11:55 AM"
+    },
+    {
+        "title": "64 percent in new poll say they think Jan. 6 attack was planned",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
+        "timestamp": 1656000021,
+        "sentiment": 0,
+        "published": "June 23, 2022 12:00 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell deserves at least 30 years in prison, prosecutors say",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
+        "timestamp": 1656000529,
+        "sentiment": -1,
+        "published": "June 23, 2022 12:08 PM"
+    },
+    {
+        "title": "Ken Griffin Citadel From Chicago to Miami Following Crime Complaints",
+        "domain": "wsj.com",
+        "category": "miami",
+        "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
+        "timestamp": 1656001381,
+        "sentiment": 0,
+        "published": "June 23, 2022 12:23 PM"
+    },
+    {
+        "title": "Netflix Lays Off 300 More Employees",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
+        "timestamp": 1656001915,
+        "sentiment": 0,
+        "published": "June 23, 2022 12:31 PM"
+    },
+    {
+        "title": "City contractor goes out for drinks after work, loses memory stick containing personal data on nearly half a million residents",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/amagasaki-japan-lost-usb-data-460000-residents/",
+        "timestamp": 1656002338,
+        "sentiment": -1,
+        "published": "June 23, 2022 12:38 PM"
+    },
+    {
+        "title": "The Russian State Duma called for a strike on the US embassy in Kyiv due to the supply of MLRS to Ukraine",
+        "domain": "lenta-ru.translate.goog",
+        "category": "ukraine",
+        "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+        "timestamp": 1656004516,
+        "sentiment": 0,
+        "published": "June 23, 2022 1:15 PM"
+    },
+    {
+        "title": "Russian navy ordered to lay mines at Ukraine’s Black Sea ports, says US | Ukraine",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/23/russian-navy-ordered-to-lay-mines-at-ukraines-black-sea-ports-says-us",
+        "timestamp": 1656005469,
+        "sentiment": -3,
+        "published": "June 23, 2022 1:31 PM"
+    },
+    {
+        "title": "Mexican scientist sentenced to four years for spying for Russia in Miami",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/23/hector-cabrera-fuentes-sentenced-to-4-years-for-spying-for-russia/",
+        "timestamp": 1656007466,
+        "sentiment": -3,
+        "published": "June 23, 2022 2:04 PM"
+    },
+    {
+        "title": "Trump electors in Michigan being served with federal subpoenas",
+        "domain": "detroitnews.com",
+        "category": "politics",
+        "link": "https://www.detroitnews.com/story/news/politics/2022/06/23/trump-electors-michigan-being-served-federal-subpoenas/7705888001/",
+        "timestamp": 1656009258,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:34 PM"
+    },
+    {
+        "title": "Ukraine and Moldova accepted as candidates to join European Union",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-and-moldova-accepted-as-candidates-to-join-european-union-12639355",
+        "timestamp": 1656009641,
+        "sentiment": -3,
+        "published": "June 23, 2022 2:40 PM"
+    },
+    {
+        "title": "Feds search home of Jeffrey Clark, former DOJ official who pushed Trump's false election fraud claims",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
+        "timestamp": 1656010320,
+        "sentiment": -1,
+        "published": "June 23, 2022 2:52 PM"
+    },
+    {
+        "title": "Netflix Axes Another 300 Staff, Taking Total Layoffs To More Than 450",
+        "domain": "deadline.com",
+        "category": "technology",
+        "link": "https://deadline.com/2022/06/netflix-axes-another-300-staff-taking-total-layoffs-to-around-450-1235050799/",
+        "timestamp": 1656010479,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:54 PM"
+    },
+    {
+        "title": "'The Santa Clauses': First Look at New Disney+ Series Starring Tim Allen & Elizabeth Mitchell",
+        "domain": "disneyparks.disney.go.com",
+        "category": "television",
+        "link": "https://disneyparks.disney.go.com/blog/2022/06/first-look-at-the-disneyplus-original-series-the-santa-clauses-for-halfway-to-the-holidays/",
+        "timestamp": 1656012021,
+        "sentiment": 0,
+        "published": "June 23, 2022 3:20 PM"
+    },
+    {
+        "title": "States can’t regulate guns, but they can ban abortions — why?",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/opinion/judiciary/3534784-states-cant-regulate-guns-but-they-can-ban-abortions-why/",
+        "timestamp": 1656012513,
+        "sentiment": 0,
+        "published": "June 23, 2022 3:28 PM"
+    },
+    {
+        "title": "American woman who had incomplete miscarriage while vacationing in Malta not allowed to get abortion for the remainder of the fetus",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/andrea-prudente-incomplete-miscarriage-malta-not-allowed-to-get-abortion/",
+        "timestamp": 1656013198,
+        "sentiment": -3,
+        "published": "June 23, 2022 3:39 PM"
+    },
+    {
+        "title": "Roku, Netflix, Start Behaving More Like The Annoying Cable Giants They Once Disrupted",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/2022/06/22/roku-netflix-start-behaving-more-like-the-annoying-cable-giants-they-once-disrupted/",
+        "timestamp": 1656013447,
+        "sentiment": 0,
+        "published": "June 23, 2022 3:44 PM"
+    },
+    {
+        "title": "Alzheimer’s & Dementia education, training legislation becomes law",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/community/health/alzheimers-dementia-education-training-legislation-becomes-law/",
+        "timestamp": 1656014420,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:00 PM"
+    },
+    {
+        "title": "Florida leads US for bicycle fatalities, data shows",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/florida-leads-us-for-bicycle-fatalities-data-shows/",
+        "timestamp": 1656014493,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:01 PM"
+    },
+    {
+        "title": "HBO Max Is Doing Well — So Of Course Changes Are Coming",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2022/06/hbo-max-changes-warner-discovery-zaslav.html",
+        "timestamp": 1656014673,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:04 PM"
+    },
+    {
+        "title": "Never seen Belgium loving basketball this much! Belgium has won every group stage game against the USA, Slovenia, Austria and Egypt. Onto the quarter finals!",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/FIBA3x3/status/1540020015763787776",
+        "timestamp": 1656015394,
+        "sentiment": 4,
+        "published": "June 23, 2022 4:16 PM"
+    },
+    {
+        "title": "‘I felt very unsafe’: Parents speak out after Proud Boys show up at children’s library event",
+        "domain": "wect.com",
+        "category": "news",
+        "link": "https://www.wect.com/2022/06/22/i-felt-very-unsafe-parents-speak-out-after-proud-boys-show-up-childrens-library-event/",
+        "timestamp": 1656015684,
+        "sentiment": -1,
+        "published": "June 23, 2022 4:21 PM"
+    },
+    {
+        "title": "George R.R. Martin Confirms Involvement in the ‘Game of Thrones’ Sequel Series - Working Title is 'Snow'",
+        "domain": "georgerrmartin.com",
+        "category": "television",
+        "link": "https://georgerrmartin.com/notablog/2022/06/23/snow-and-other-stuff",
+        "timestamp": 1656016767,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:39 PM"
+    },
+    {
+        "title": "Everglades Foundation CEO refers to Black Opponents of DeSantis Agenda “Knuckle Draggers”",
+        "domain": "twitter.com",
+        "category": "florida",
+        "link": "https://twitter.com/womenonthemove1/status/1539999773050040320?s=10&t=PpQxxoEIs029Mi0XRTQi2g",
+        "timestamp": 1656016956,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:42 PM"
+    },
+    {
+        "title": "Vladimir Putin's approval rating hits 20-year low",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/vladimir-putin-approval-rating-twenty-year-low-ukraine-war-invasion-1718399",
+        "timestamp": 1655985715,
+        "sentiment": -2,
+        "published": "June 23, 2022 8:01 AM"
+    },
+    {
+        "title": "Mo Brooks, betrayed by Trump in losing re-election bid, says he's willing to testify about Jan. 6",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/23/mo-brooks-betrayed-by-in-losing-re-bid-says-hes-willing-to-testify-about-jan-6/",
+        "timestamp": 1655991965,
+        "sentiment": 0,
+        "published": "June 23, 2022 9:46 AM"
     },
     {
         "title": "Toyota recalls EV fleet as challenge to Tesla dominance suffers setback",
@@ -315,105 +558,6 @@
         "published": "June 23, 2022 11:35 AM"
     },
     {
-        "title": "Meta Made Millions From Ads That Spread Disinformation",
-        "domain": "wired.com",
-        "category": "technology",
-        "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
-        "timestamp": 1655999524,
-        "sentiment": -3,
-        "published": "June 23, 2022 11:52 AM"
-    },
-    {
-        "title": "New dress code outlaws dresses and skirts in Texas school district",
-        "domain": "cbs7.com",
-        "category": "news",
-        "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
-        "timestamp": 1655999593,
-        "sentiment": 0,
-        "published": "June 23, 2022 11:53 AM"
-    },
-    {
-        "title": "Gary Kasparov: \"This is already World War III. And this is not just a war against Ukraine; Vladimir Putin is attacking the very foundation of the world we used to live since World War II. And if he succeeds in Ukraine, all bets are off.\"",
-        "domain": "podclips.com",
-        "category": "ukraine",
-        "link": "https://podclips.com/c/garry-kasparov-on-putin-invading-ukraine-this-is-already-world-war-iii?ss=r&ss2=ukraine&d=2022-06-23&m=true",
-        "timestamp": 1655999642,
-        "sentiment": 2,
-        "published": "June 23, 2022 11:54 AM"
-    },
-    {
-        "title": "Nigerian politician and wife charged with child organ-harvesting plot",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/uk-england-london-61908876",
-        "timestamp": 1655999726,
-        "sentiment": -2,
-        "published": "June 23, 2022 11:55 AM"
-    },
-    {
-        "title": "64 percent in new poll say they think Jan. 6 attack was planned",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
-        "timestamp": 1656000021,
-        "sentiment": 0,
-        "published": "June 23, 2022 12:00 PM"
-    },
-    {
-        "title": "Ghislaine Maxwell deserves at least 30 years in prison, prosecutors say",
-        "domain": "globalnews.ca",
-        "category": "news",
-        "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
-        "timestamp": 1656000529,
-        "sentiment": 0,
-        "published": "June 23, 2022 12:08 PM"
-    },
-    {
-        "title": "Ken Griffin Citadel From Chicago to Miami Following Crime Complaints",
-        "domain": "wsj.com",
-        "category": "miami",
-        "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
-        "timestamp": 1656001381,
-        "sentiment": 0,
-        "published": "June 23, 2022 12:23 PM"
-    },
-    {
-        "title": "Netflix Lays Off 300 More Employees",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
-        "timestamp": 1656001915,
-        "sentiment": -5,
-        "published": "June 23, 2022 12:31 PM"
-    },
-    {
-        "title": "City contractor goes out for drinks after work, loses memory stick containing personal data on nearly half a million residents",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/amagasaki-japan-lost-usb-data-460000-residents/",
-        "timestamp": 1656002338,
-        "sentiment": 0,
-        "published": "June 23, 2022 12:38 PM"
-    },
-    {
-        "title": "The Russian State Duma called for a strike on the US embassy in Kyiv due to the supply of MLRS to Ukraine",
-        "domain": "lenta-ru.translate.goog",
-        "category": "ukraine",
-        "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
-        "timestamp": 1656004516,
-        "sentiment": 2,
-        "published": "June 23, 2022 1:15 PM"
-    },
-    {
-        "title": "Russian navy ordered to lay mines at Ukraine’s Black Sea ports, says US | Ukraine",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/23/russian-navy-ordered-to-lay-mines-at-ukraines-black-sea-ports-says-us",
-        "timestamp": 1656005469,
-        "sentiment": -2,
-        "published": "June 23, 2022 1:31 PM"
-    },
-    {
         "title": "Mandy Patinkin & Kathryn Grody To Star In ‘Seasoned’ Showtime Comedy Pilot",
         "domain": "deadline.com",
         "category": "television",
@@ -423,15 +567,6 @@
         "published": "June 23, 2022 1:57 PM"
     },
     {
-        "title": "Mexican scientist sentenced to four years for spying for Russia in Miami",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/06/23/hector-cabrera-fuentes-sentenced-to-4-years-for-spying-for-russia/",
-        "timestamp": 1656007466,
-        "sentiment": -2,
-        "published": "June 23, 2022 2:04 PM"
-    },
-    {
         "title": "SpaceX says 5G expansion would make Starlink 'unusable' for most Americans",
         "domain": "cnn.com",
         "category": "news",
@@ -439,69 +574,6 @@
         "timestamp": 1656007752,
         "sentiment": 0,
         "published": "June 23, 2022 2:09 PM"
-    },
-    {
-        "title": "Trump electors in Michigan being served with federal subpoenas",
-        "domain": "detroitnews.com",
-        "category": "politics",
-        "link": "https://www.detroitnews.com/story/news/politics/2022/06/23/trump-electors-michigan-being-served-federal-subpoenas/7705888001/",
-        "timestamp": 1656009258,
-        "sentiment": 0,
-        "published": "June 23, 2022 2:34 PM"
-    },
-    {
-        "title": "Ukraine and Moldova accepted as candidates to join European Union",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/ukraine-and-moldova-accepted-as-candidates-to-join-european-union-12639355",
-        "timestamp": 1656009641,
-        "sentiment": -2,
-        "published": "June 23, 2022 2:40 PM"
-    },
-    {
-        "title": "Feds search home of Jeffrey Clark, former DOJ official who pushed Trump's false election fraud claims",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
-        "timestamp": 1656010320,
-        "sentiment": 0,
-        "published": "June 23, 2022 2:52 PM"
-    },
-    {
-        "title": "Netflix Axes Another 300 Staff, Taking Total Layoffs To More Than 450",
-        "domain": "deadline.com",
-        "category": "technology",
-        "link": "https://deadline.com/2022/06/netflix-axes-another-300-staff-taking-total-layoffs-to-around-450-1235050799/",
-        "timestamp": 1656010479,
-        "sentiment": -3,
-        "published": "June 23, 2022 2:54 PM"
-    },
-    {
-        "title": "'The Santa Clauses': First Look at New Disney+ Series Starring Tim Allen & Elizabeth Mitchell",
-        "domain": "disneyparks.disney.go.com",
-        "category": "television",
-        "link": "https://disneyparks.disney.go.com/blog/2022/06/first-look-at-the-disneyplus-original-series-the-santa-clauses-for-halfway-to-the-holidays/",
-        "timestamp": 1656012021,
-        "sentiment": -5,
-        "published": "June 23, 2022 3:20 PM"
-    },
-    {
-        "title": "Alzheimer’s & Dementia education, training legislation becomes law",
-        "domain": "wfla.com",
-        "category": "FLgovernment",
-        "link": "https://www.wfla.com/community/health/alzheimers-dementia-education-training-legislation-becomes-law/",
-        "timestamp": 1656014420,
-        "sentiment": 0,
-        "published": "June 23, 2022 4:00 PM"
-    },
-    {
-        "title": "Florida leads US for bicycle fatalities, data shows",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/florida/florida-leads-us-for-bicycle-fatalities-data-shows/",
-        "timestamp": 1656014493,
-        "sentiment": 0,
-        "published": "June 23, 2022 4:01 PM"
     },
     {
         "title": "Ukraine to begin first trial of Russian soldier accused of rape",
