@@ -1,14 +1,5 @@
 [
     {
-        "title": "Video shows passengers viciously attack Las Vegas Uber driver",
-        "domain": "news3lv.com",
-        "category": "news",
-        "link": "https://news3lv.com/news/local/video-shows-passengers-viciously-attack-las-vegas-uber-driver",
-        "timestamp": 1655970666,
-        "sentiment": -1,
-        "published": "June 23, 2022 3:51 AM"
-    },
-    {
         "title": "Germany faces gas supply ‘crisis,’ declares alarm level",
         "domain": "apnews.com",
         "category": "worldnews",
@@ -23,7 +14,7 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "florida",
         "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
         "timestamp": 1655975611,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 23, 2022 5:13 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3533609-ron-johnson-embroiled-in-controversy-over-staff-handing-pence-fake-electors-list/",
         "timestamp": 1655979145,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 6:12 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -86,8 +77,17 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/tech/news/amazon-is-working-on-a-creepy-feature-that-will-enable-alexa-to-speak-in-your-dead-relatives-voice/articleshow/92407969.cms",
         "timestamp": 1655980721,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:38 AM"
+    },
+    {
+        "title": "Update: US woman to be airlifted to Mallorca to terminate unviable pregnancy after Malta denied procedure",
+        "domain": "timesofmalta.com",
+        "category": "worldnews",
+        "link": "https://timesofmalta.com/articles/view/american-couple-evacuated-spain-terminate-unviable-pregnancy.963662",
+        "timestamp": 1655980791,
+        "sentiment": -2,
+        "published": "June 23, 2022 6:39 AM"
     },
     {
         "title": "Germany faces gas supply 'crisis,' declares alarm level",
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
         "timestamp": 1655981025,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 6:43 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
         "timestamp": 1655981852,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 23, 2022 6:57 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/22/us/politics/boebert-colorado-primary-democrats.html",
         "timestamp": 1655984158,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 7:35 AM"
     },
     {
@@ -158,17 +158,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": 3,
-        "published": "June 23, 2022 7:49 AM"
-    },
-    {
-        "title": "EU leaders to grant Ukraine candidate status in blow to Putin | Ukraine",
-        "domain": "theguardian.com",
-        "category": "ukraine",
-        "link": "https://www.theguardian.com/world/2022/jun/23/eu-leaders-ukraine-candidate-status-russian-attack",
-        "timestamp": 1655985298,
         "sentiment": -1,
-        "published": "June 23, 2022 7:54 AM"
+        "published": "June 23, 2022 7:49 AM"
     },
     {
         "title": "Starbucks used \"array of illegal tactics\" against unionizing workers, labor regulators say",
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/python-measuring-nearly-18-feet-weighing-215-pounds-sets-new-florida-record",
         "timestamp": 1655985930,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 8:05 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -221,17 +212,8 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/06/23/january-6-committee-threats-social-wing-social-media-osullivan-newday-vpx.cnn",
         "timestamp": 1655986676,
-        "sentiment": -3,
-        "published": "June 23, 2022 8:17 AM"
-    },
-    {
-        "title": "Ukrainians donate almost $10 million in a day to buy Bayraktar drones for army",
-        "domain": "english.nv.ua",
-        "category": "ukraine",
-        "link": "https://english.nv.ua/life/ukrainians-donate-almost-10-million-in-a-day-to-buy-bayraktar-drones-for-army-ukraine-news-50251825.html",
-        "timestamp": 1655987404,
         "sentiment": -1,
-        "published": "June 23, 2022 8:30 AM"
+        "published": "June 23, 2022 8:17 AM"
     },
     {
         "title": "Ivanka Trump Told Filmmaker Her Dad Should 'Continue to Fight' After 2020 Election, Countering House Testimony",
@@ -239,17 +221,8 @@
         "category": "politics",
         "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
         "timestamp": 1655987522,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 8:32 AM"
-    },
-    {
-        "title": "The Ten Best Things to Do in Miami This Weekend",
-        "domain": "miaminewtimes.com",
-        "category": "miami",
-        "link": "https://www.miaminewtimes.com/arts/best-things-to-do-in-miami-this-weekend-june-24-26-2022-14741341",
-        "timestamp": 1655987736,
-        "sentiment": 3,
-        "published": "June 23, 2022 8:35 AM"
     },
     {
         "title": "Nike Decides to Leave Russia Entirely Following Ukraine Invasion",
@@ -266,7 +239,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 9:11 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/23/and-his-stooges-must-be-punished-its-the-only-way-to-save-america/",
         "timestamp": 1655990195,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 9:16 AM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 23, 2022 9:33 AM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -329,17 +302,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 23, 2022 9:55 AM"
-    },
-    {
-        "title": "⚡️Reuters: Nike to fully exit Russia. The brand confirmed in an emailed statement to Reuters on June 23 that it would leave the country completely after scaling down its operations.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/KyivIndependent/status/1539951502491619328?t=BAnm22wgJ0TSL0qUPy2C0Q&s=09",
-        "timestamp": 1655992843,
-        "sentiment": -1,
-        "published": "June 23, 2022 10:00 AM"
     },
     {
         "title": "Supreme Court sides with inmate who wants to die by firing squad",
@@ -347,7 +311,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/23/politics/supreme-court-death-row-inmates/index.html",
         "timestamp": 1655994098,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 10:21 AM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
         "timestamp": 1655995189,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 10:39 AM"
     },
     {
@@ -374,8 +338,26 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
         "timestamp": 1655995389,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 10:43 AM"
+    },
+    {
+        "title": "Supreme Court shields police from being sued for ignoring Miranda warnings",
+        "domain": "latimes.com",
+        "category": "politics",
+        "link": "https://www.latimes.com/politics/story/2022-06-23/supreme-court-shields-police-from-being-sued-for-ignoring-miranda-warnings",
+        "timestamp": 1655995942,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:52 AM"
+    },
+    {
+        "title": "Ukraine will receive the latest air defense from Germany, which is not in service even with the Bundeswehr, said Ukrainian Ambassador to Germany Andriy Melnyk. The diplomats managed to achieve a contract for the purchase of the 10 air defense system worth 178 million euros, IRIS-T SLS missile sys.",
+        "domain": "ukrinform.ua",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.ua/rubric-world/3513328-andrij-melnik-posol-ukraini-v-nimeccini.html",
+        "timestamp": 1655996107,
+        "sentiment": 2,
+        "published": "June 23, 2022 10:55 AM"
     },
     {
         "title": "FDA bans Juul e-cigarettes as government pursues broader crackdown on nicotine products",
@@ -383,7 +365,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
         "timestamp": 1655996721,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 11:05 AM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
         "timestamp": 1655997528,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "June 23, 2022 11:18 AM"
     },
     {
@@ -419,8 +401,125 @@
         "category": "florida",
         "link": "https://apnews.com/article/miami-florida-surfside-building-collapse-3b95c4fb474b57bb48923a3c321c3c3e",
         "timestamp": 1655998522,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 23, 2022 11:35 AM"
+    },
+    {
+        "title": "Meta Made Millions From Ads That Spread Disinformation",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
+        "timestamp": 1655999524,
+        "sentiment": -3,
+        "published": "June 23, 2022 11:52 AM"
+    },
+    {
+        "title": "New dress code outlaws dresses and skirts in Texas school district",
+        "domain": "cbs7.com",
+        "category": "news",
+        "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
+        "timestamp": 1655999593,
+        "sentiment": 0,
+        "published": "June 23, 2022 11:53 AM"
+    },
+    {
+        "title": "64 percent in new poll say they think Jan. 6 attack was planned",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
+        "timestamp": 1656000021,
+        "sentiment": -1,
+        "published": "June 23, 2022 12:00 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell deserves at least 30 years in prison, prosecutors say",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
+        "timestamp": 1656000529,
+        "sentiment": 0,
+        "published": "June 23, 2022 12:08 PM"
+    },
+    {
+        "title": "Ken Griffin Citadel From Chicago to Miami Following Crime Complaints",
+        "domain": "wsj.com",
+        "category": "miami",
+        "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
+        "timestamp": 1656001381,
+        "sentiment": -3,
+        "published": "June 23, 2022 12:23 PM"
+    },
+    {
+        "title": "Netflix Lays Off 300 More Employees",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
+        "timestamp": 1656001915,
+        "sentiment": -1,
+        "published": "June 23, 2022 12:31 PM"
+    },
+    {
+        "title": "Publix won’t give COVID vaccine to children under 5",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/health/2022/06/22/publix-wont-give-covid-vaccine-to-children-under-5/",
+        "timestamp": 1656003671,
+        "sentiment": 2,
+        "published": "June 23, 2022 1:01 PM"
+    },
+    {
+        "title": "Just in case you thought rent prices were going to get any worse... I present to you!",
+        "domain": "wsj.com",
+        "category": "miami",
+        "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
+        "timestamp": 1656003942,
+        "sentiment": -3,
+        "published": "June 23, 2022 1:05 PM"
+    },
+    {
+        "title": "Video shows passengers viciously attack Las Vegas Uber driver",
+        "domain": "news3lv.com",
+        "category": "news",
+        "link": "https://news3lv.com/news/local/video-shows-passengers-viciously-attack-las-vegas-uber-driver",
+        "timestamp": 1655970666,
+        "sentiment": -1,
+        "published": "June 23, 2022 3:51 AM"
+    },
+    {
+        "title": "EU leaders to grant Ukraine candidate status in blow to Putin | Ukraine",
+        "domain": "theguardian.com",
+        "category": "ukraine",
+        "link": "https://www.theguardian.com/world/2022/jun/23/eu-leaders-ukraine-candidate-status-russian-attack",
+        "timestamp": 1655985298,
+        "sentiment": -1,
+        "published": "June 23, 2022 7:54 AM"
+    },
+    {
+        "title": "Ukrainians donate almost $10 million in a day to buy Bayraktar drones for army",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/life/ukrainians-donate-almost-10-million-in-a-day-to-buy-bayraktar-drones-for-army-ukraine-news-50251825.html",
+        "timestamp": 1655987404,
+        "sentiment": -1,
+        "published": "June 23, 2022 8:30 AM"
+    },
+    {
+        "title": "The Ten Best Things to Do in Miami This Weekend",
+        "domain": "miaminewtimes.com",
+        "category": "miami",
+        "link": "https://www.miaminewtimes.com/arts/best-things-to-do-in-miami-this-weekend-june-24-26-2022-14741341",
+        "timestamp": 1655987736,
+        "sentiment": 3,
+        "published": "June 23, 2022 8:35 AM"
+    },
+    {
+        "title": "⚡️Reuters: Nike to fully exit Russia. The brand confirmed in an emailed statement to Reuters on June 23 that it would leave the country completely after scaling down its operations.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1539951502491619328?t=BAnm22wgJ0TSL0qUPy2C0Q&s=09",
+        "timestamp": 1655992843,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:00 AM"
     },
     {
         "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
@@ -493,15 +592,6 @@
         "timestamp": 1655979495,
         "sentiment": 0,
         "published": "June 23, 2022 6:18 AM"
-    },
-    {
-        "title": "Update: US woman to be airlifted to Mallorca to terminate unviable pregnancy after Malta denied procedure",
-        "domain": "timesofmalta.com",
-        "category": "worldnews",
-        "link": "https://timesofmalta.com/articles/view/american-couple-evacuated-spain-terminate-unviable-pregnancy.963662",
-        "timestamp": 1655980791,
-        "sentiment": -2,
-        "published": "June 23, 2022 6:39 AM"
     },
     {
         "title": "Emilia Clarke confirms Jon Snow ‘Game of Thrones’ sequel is real and ‘certified’ by Kit Harington",
@@ -1105,15 +1195,6 @@
         "timestamp": 1655950425,
         "sentiment": 0,
         "published": "June 22, 2022 10:13 PM"
-    },
-    {
-        "title": "Publix won’t give COVID vaccine to children under 5",
-        "domain": "tampabay.com",
-        "category": "florida",
-        "link": "https://www.tampabay.com/news/health/2022/06/22/publix-wont-give-covid-vaccine-to-children-under-5/",
-        "timestamp": 1655952807,
-        "sentiment": -6,
-        "published": "June 22, 2022 10:53 PM"
     },
     {
         "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
