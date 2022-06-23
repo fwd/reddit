@@ -1,14 +1,5 @@
 [
     {
-        "title": "Russian soldiers in temporarily occupied Tokmak, Zaporizhia Oblast, are appealing to local Ukrainian doctors to issue them certificates alleging medical inability to continue military service, according to Ukraine’s Security Service",
-        "domain": "understandingwar.org",
-        "category": "ukraine",
-        "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-22",
-        "timestamp": 1655958786,
-        "sentiment": 0,
-        "published": "June 23, 2022 12:33 AM"
-    },
-    {
         "title": "Chinese influencers must now have a qualification to talk about certain topics like law and medicine",
         "domain": "cnbc.com",
         "category": "worldnews",
@@ -23,8 +14,98 @@
         "category": "technology",
         "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
         "timestamp": 1655965217,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 23, 2022 2:20 AM"
+    },
+    {
+        "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
+        "timestamp": 1655970502,
+        "sentiment": -3,
+        "published": "June 23, 2022 3:48 AM"
+    },
+    {
+        "title": "Germany faces gas supply ‘crisis,’ declares alarm level",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
+        "timestamp": 1655971732,
+        "sentiment": -2,
+        "published": "June 23, 2022 4:08 AM"
+    },
+    {
+        "title": "Intel really just asked the EU for $624M to pay it back for overturned anti-AMD fine",
+        "domain": "pcgamer.com",
+        "category": "technology",
+        "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
+        "timestamp": 1655974979,
+        "sentiment": -3,
+        "published": "June 23, 2022 5:02 AM"
+    },
+    {
+        "title": "'We are not pollution producers': Dutch farmers block roads in protest against emissions targets",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/06/23/we-are-not-pollution-producers-dutch-farmers-block-roads-in-protest-against-emissions-targ",
+        "timestamp": 1655975884,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:18 AM"
+    },
+    {
+        "title": "NATO set to agree biggest overhaul of defences since the Cold War - including expansion of 40,000-strong response force",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/nato-set-to-agree-biggest-overhaul-of-defences-since-the-cold-war-including-expansion-of-40-000-strong-response-force-12638817",
+        "timestamp": 1655976869,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:34 AM"
+    },
+    {
+        "title": "Juul's e-cigarettes could be banned from sale in the US | The FDA is set to announce the move imminently, according to The Wall Street Journal.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
+        "timestamp": 1655979845,
+        "sentiment": -3,
+        "published": "June 23, 2022 6:24 AM"
+    },
+    {
+        "title": "Pinellas County prepares to pass Tenants Bill of Rights as rental costs soar",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
+        "timestamp": 1655981852,
+        "sentiment": 2,
+        "published": "June 23, 2022 6:57 AM"
+    },
+    {
+        "title": "Emilia Clarke confirms Jon Snow ‘Game of Thrones’ sequel is real and ‘certified’ by Kit Harington",
+        "domain": "screenshot-media.com",
+        "category": "television",
+        "link": "https://screenshot-media.com/culture/entertainment/got-sequel-confirmed/",
+        "timestamp": 1655982101,
+        "sentiment": 0,
+        "published": "June 23, 2022 7:01 AM"
+    },
+    {
+        "title": "Federal government freezing Hockey Canada funding",
+        "domain": "sportsnet.ca",
+        "category": "sports",
+        "link": "https://www.sportsnet.ca/juniors/article/federal-government-freezing-hockey-canada-funding/",
+        "timestamp": 1655982640,
+        "sentiment": 0,
+        "published": "June 23, 2022 7:10 AM"
+    },
+    {
+        "title": "Russian soldiers in temporarily occupied Tokmak, Zaporizhia Oblast, are appealing to local Ukrainian doctors to issue them certificates alleging medical inability to continue military service, according to Ukraine’s Security Service",
+        "domain": "understandingwar.org",
+        "category": "ukraine",
+        "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-22",
+        "timestamp": 1655958786,
+        "sentiment": 0,
+        "published": "June 23, 2022 12:33 AM"
     },
     {
         "title": "'Barbaric': Malta abortion refusal threatens woman's life, say doctors",
@@ -36,15 +117,6 @@
         "published": "June 23, 2022 2:41 AM"
     },
     {
-        "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
-        "domain": "reuters.com",
-        "category": "technology",
-        "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
-        "timestamp": 1655970502,
-        "sentiment": -4,
-        "published": "June 23, 2022 3:48 AM"
-    },
-    {
         "title": "Proud Boys harass young children and their families at Pride Storytime at a Wilmington, NC library",
         "domain": "portcitydaily.com",
         "category": "news",
@@ -52,15 +124,6 @@
         "timestamp": 1655971965,
         "sentiment": -2,
         "published": "June 23, 2022 4:12 AM"
-    },
-    {
-        "title": "Intel really just asked the EU for $624M to pay it back for overturned anti-AMD fine",
-        "domain": "pcgamer.com",
-        "category": "technology",
-        "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
-        "timestamp": 1655974979,
-        "sentiment": -4,
-        "published": "June 23, 2022 5:02 AM"
     },
     {
         "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
