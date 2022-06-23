@@ -1,23 +1,5 @@
 [
     {
-        "title": "Jerrod Carmichael Slams The Idea Of Cancel Culture, Insists It’s ‘Not Real’: ‘We Got To Get Over That’",
-        "domain": "etcanada.com",
-        "category": "television",
-        "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
-        "timestamp": 1655879839,
-        "sentiment": 0,
-        "published": "June 22, 2022 2:37 AM"
-    },
-    {
-        "title": "Chicago police are no longer allowed to chase people on foot just for running away",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1655889518,
-        "sentiment": 0,
-        "published": "June 22, 2022 5:18 AM"
-    },
-    {
         "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
         "domain": "nbcnews.com",
         "category": "technology",
@@ -41,17 +23,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 7:36 AM"
-    },
-    {
-        "title": "Trump World wants to ‘burn DeSantis down’: 5 takeaways from New Yorker’s DeSantis profile",
-        "domain": "tallahassee.com",
-        "category": "florida",
-        "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
-        "timestamp": 1655899158,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:59 AM"
     },
     {
         "title": "A GOP senator got caught pretending to be on his phone to avoid questions about the Jan. 6 insurrection",
@@ -59,7 +32,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -86,7 +59,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
         "timestamp": 1655901712,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 8:41 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -124,15 +97,6 @@
         "timestamp": 1655904097,
         "sentiment": -3,
         "published": "June 22, 2022 9:21 AM"
-    },
-    {
-        "title": "Mike Pence Is Useless: The former vice president's refusal to address his former boss's attempted coup somehow manages to straddle the line between cowardice and opportunism.",
-        "domain": "newrepublic.com",
-        "category": "politics",
-        "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
-        "timestamp": 1655904521,
-        "sentiment": -2,
-        "published": "June 22, 2022 9:28 AM"
     },
     {
         "title": "U.S. tech companies yank job offers, leaving college grads scrambling",
@@ -189,6 +153,15 @@
         "published": "June 22, 2022 11:31 AM"
     },
     {
+        "title": "Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
+        "timestamp": 1655911968,
+        "sentiment": -5,
+        "published": "June 22, 2022 11:32 AM"
+    },
+    {
         "title": "Ex-Florida governor candidate Andrew Gillum faces indictment",
         "domain": "wfla.com",
         "category": "florida",
@@ -203,7 +176,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
         "timestamp": 1655912042,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -214,15 +187,6 @@
         "timestamp": 1655912062,
         "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
-    },
-    {
-        "title": "Trump aides didn't know he was being recorded on Jan 6: Reports",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-aides-didnt-know-trump-recorded-on-jan-6-reports-2022-6?amp",
-        "timestamp": 1655913335,
-        "sentiment": -2,
-        "published": "June 22, 2022 11:55 AM"
     },
     {
         "title": "Former DeSantis opponent Andrew Gillum could face decades in prison",
@@ -239,7 +203,7 @@
         "category": "politics",
         "link": "https://www.sacbee.com/opinion/op-ed/article262724992.html",
         "timestamp": 1655915276,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 12:27 PM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166864/trump-mental-state-delusional",
         "timestamp": 1655916716,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 12:51 PM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "news",
         "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
         "timestamp": 1655917949,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 1:12 PM"
     },
     {
@@ -293,17 +257,8 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/06/ivanka-trump-donald-trump-2020-documentary-footage",
         "timestamp": 1655919293,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 1:34 PM"
-    },
-    {
-        "title": "Russian refinery says it was struck by drones from direction of Ukraine",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
-        "timestamp": 1655919933,
-        "sentiment": -1,
-        "published": "June 22, 2022 1:45 PM"
     },
     {
         "title": "It Still Stings: Emmy Rossum Never Got Enough Praise for Shameless",
@@ -320,7 +275,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/slain-uvalde-teachers-officer-husband-tried-wife-gun-was-taken-away-rcna34710?cid=sm_npd_nn_fb_ma&fbclid=IwAR2ZwQCNQNYAlRbYW49z4VWsntTK9KY0k4nE8AdUrRWVjFVPBBLWfmuEXfU&fs=e&s=cl",
         "timestamp": 1655922426,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 2:27 PM"
     },
     {
@@ -347,7 +302,7 @@
         "category": "politics",
         "link": "https://www.bangordailynews.com/2022/06/22/opinion/opinion-contributor/those-who-blame-high-gas-prices-on-joe-bidens-climate-policies-are-gaslighting-americans/",
         "timestamp": 1655924041,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 2:54 PM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "news",
         "link": "https://www.eastbaytimes.com/2022/06/21/we-arent-going-anywhere-drag-queen-story-hour-forges-ahead-in-alameda-county/",
         "timestamp": 1655925880,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 3:24 PM"
     },
     {
@@ -405,6 +360,15 @@
         "published": "June 22, 2022 3:53 PM"
     },
     {
+        "title": "Progressives Say Windfall Profits Tax a 'Better Solution' Than Biden's Gas Tax Holiday",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/22/progressives-say-windfall-profits-tax-better-solution-bidens-gas-tax-holiday",
+        "timestamp": 1655928202,
+        "sentiment": -10,
+        "published": "June 22, 2022 4:03 PM"
+    },
+    {
         "title": "Afghanistan quake: Taliban appeal for international aid",
         "domain": "bbc.com",
         "category": "worldnews",
@@ -419,7 +383,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/sri-lankas-pm-says-its-debt-laden-economy-has-collapsed-12638329",
         "timestamp": 1655928635,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 4:10 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "politics",
         "link": "https://abovethelaw.com/2022/06/the-evidence-of-trumps-criminal-intent-is-unequivocal-undeniable-and-overwhelming/",
         "timestamp": 1655930719,
-        "sentiment": -2,
+        "sentiment": -10,
         "published": "June 22, 2022 4:45 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
         "timestamp": 1655930959,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 4:49 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "ukraine",
         "link": "https://www.businessinsider.com/mounting-signs-the-kremlin-is-purging-top-generals-in-ukraine-experts-2022-6",
         "timestamp": 1655931450,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 22, 2022 4:57 PM"
     },
     {
@@ -495,13 +459,13 @@
         "published": "June 22, 2022 5:47 PM"
     },
     {
-        "title": "Man claims pet alligator is being held hostage after she was taken during Michigan police chase",
-        "domain": "fox2detroit.com",
+        "title": "Brazilian judge probed for blocking abortion for raped child",
+        "domain": "abcnews.go.com",
         "category": "news",
-        "link": "https://www.fox2detroit.com/news/man-claims-pet-alligator-is-being-held-hostage-after-she-was-found-during-michigan-police-chase",
-        "timestamp": 1655934974,
-        "sentiment": 0,
-        "published": "June 22, 2022 5:56 PM"
+        "link": "https://abcnews.go.com/International/wireStory/brazilian-judge-probed-blocking-abortion-raped-child-85569779",
+        "timestamp": 1655934533,
+        "sentiment": -5,
+        "published": "June 22, 2022 5:48 PM"
     },
     {
         "title": "Uvalde school district places Chief Pete Arrendondo on administrative leave",
@@ -509,8 +473,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
         "timestamp": 1655939067,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 7:04 PM"
+    },
+    {
+        "title": "The Supreme Court Just Fused Church and State -- and It Has Even Uglier Plans Ahead",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/political-commentary/supreme-court-carson-makin-maine-religious-school-1372103/",
+        "timestamp": 1655939354,
+        "sentiment": -10,
+        "published": "June 22, 2022 7:09 PM"
     },
     {
         "title": "The long nightmare ends: Patriots embrace their true uniforms",
@@ -536,7 +509,7 @@
         "category": "news",
         "link": "https://apnews.com/article/death-of-george-floyd-politics-minneapolis-race-and-ethnicity-aa2d4270d9ea110db2ee0aa1bc095304",
         "timestamp": 1655939562,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 22, 2022 7:12 PM"
     },
     {
@@ -556,6 +529,87 @@
         "timestamp": 1655944774,
         "sentiment": -3,
         "published": "June 22, 2022 8:39 PM"
+    },
+    {
+        "title": "Russian colonel who carried Putin's nuclear codes briefcase found shot",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/russian-colonel-who-carried-putin-s-nuclear-codes-briefcase-found-shot/ar-AAYKutK?ocid=msedgntp&cvid=b2a6ddc584a5483ead4f847b415479a6",
+        "timestamp": 1655947385,
+        "sentiment": -1,
+        "published": "June 22, 2022 9:23 PM"
+    },
+    {
+        "title": "Emilia Clarke on Jon Snow sequel. \"He has told me about it. And I know it exists. It's happening. It's been created by Kit as far as I can understand, so he's in it from the ground up.\"",
+        "domain": "bbc.com",
+        "category": "television",
+        "link": "https://www.bbc.com/news/entertainment-arts-61896580",
+        "timestamp": 1655949366,
+        "sentiment": 0,
+        "published": "June 22, 2022 9:56 PM"
+    },
+    {
+        "title": "Jerrod Carmichael Slams The Idea Of Cancel Culture, Insists It’s ‘Not Real’: ‘We Got To Get Over That’",
+        "domain": "etcanada.com",
+        "category": "television",
+        "link": "https://etcanada.com/news/902401/jerrod-carmichael-slams-the-idea-of-cancel-culture-insists-its-not-real-we-got-to-get-over-that/",
+        "timestamp": 1655879839,
+        "sentiment": 0,
+        "published": "June 22, 2022 2:37 AM"
+    },
+    {
+        "title": "Chicago police are no longer allowed to chase people on foot just for running away",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/chicago-police-are-no-longer-allowed-chase-people-foot-just-running-aw-rcna34599?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1655889518,
+        "sentiment": 0,
+        "published": "June 22, 2022 5:18 AM"
+    },
+    {
+        "title": "Trump World wants to ‘burn DeSantis down’: 5 takeaways from New Yorker’s DeSantis profile",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
+        "timestamp": 1655899158,
+        "sentiment": 0,
+        "published": "June 22, 2022 7:59 AM"
+    },
+    {
+        "title": "Mike Pence Is Useless: The former vice president's refusal to address his former boss's attempted coup somehow manages to straddle the line between cowardice and opportunism.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/166859/mike-pence-january-6-hanged",
+        "timestamp": 1655904521,
+        "sentiment": -2,
+        "published": "June 22, 2022 9:28 AM"
+    },
+    {
+        "title": "Trump aides didn't know he was being recorded on Jan 6: Reports",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-aides-didnt-know-trump-recorded-on-jan-6-reports-2022-6?amp",
+        "timestamp": 1655913335,
+        "sentiment": -2,
+        "published": "June 22, 2022 11:55 AM"
+    },
+    {
+        "title": "Russian refinery says it was struck by drones from direction of Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
+        "timestamp": 1655919933,
+        "sentiment": -1,
+        "published": "June 22, 2022 1:45 PM"
+    },
+    {
+        "title": "Man claims pet alligator is being held hostage after she was taken during Michigan police chase",
+        "domain": "fox2detroit.com",
+        "category": "news",
+        "link": "https://www.fox2detroit.com/news/man-claims-pet-alligator-is-being-held-hostage-after-she-was-found-during-michigan-police-chase",
+        "timestamp": 1655934974,
+        "sentiment": 0,
+        "published": "June 22, 2022 5:56 PM"
     },
     {
         "title": "Cement carbon dioxide emissions quietly double in 20 years",
@@ -781,15 +835,6 @@
         "timestamp": 1655908826,
         "sentiment": 0,
         "published": "June 22, 2022 10:40 AM"
-    },
-    {
-        "title": "Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
-        "timestamp": 1655911968,
-        "sentiment": 0,
-        "published": "June 22, 2022 11:32 AM"
     },
     {
         "title": "Russia may resort to provocations as its army is run by \"morons\" – Lithuanian defmin",
