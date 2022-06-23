@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/uvalde-city-council-denies-pete-arredondos-leave-absence/story?id=85544930",
         "timestamp": 1655897790,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 7:36 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-sen-johnson-pretends-phone-dodge-jan-6-questions-video-2022-6",
         "timestamp": 1655899385,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 8:03 AM"
     },
     {
@@ -54,21 +54,12 @@
         "published": "June 22, 2022 8:35 AM"
     },
     {
-        "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
-        "timestamp": 1655901712,
-        "sentiment": -10,
-        "published": "June 22, 2022 8:41 AM"
-    },
-    {
         "title": "Even Fox News analysts say Donald Trump should face criminal charges as channel starts airing Jan 6 hearings",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-jan-6-hearings-trump-charges-b2106580.html",
         "timestamp": 1655901997,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 8:46 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
         "timestamp": 1655911968,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 11:32 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "politics",
         "link": "https://www.sacbee.com/opinion/op-ed/article262724992.html",
         "timestamp": 1655915276,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 12:27 PM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166864/trump-mental-state-delusional",
         "timestamp": 1655916716,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 12:51 PM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "news",
         "link": "https://www.clickorlando.com/video/news/2022/06/22/police-teens-broke-into-8m-florida-mansion-held-boxing-matches-during-house-party-2/",
         "timestamp": 1655917949,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 1:12 PM"
     },
     {
@@ -257,8 +248,17 @@
         "category": "politics",
         "link": "https://www.vanityfair.com/news/2022/06/ivanka-trump-donald-trump-2020-documentary-footage",
         "timestamp": 1655919293,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 1:34 PM"
+    },
+    {
+        "title": "Russian refinery says it was struck by drones from direction of Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
+        "timestamp": 1655919933,
+        "sentiment": -1,
+        "published": "June 22, 2022 1:45 PM"
     },
     {
         "title": "It Still Stings: Emmy Rossum Never Got Enough Praise for Shameless",
@@ -275,7 +275,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/slain-uvalde-teachers-officer-husband-tried-wife-gun-was-taken-away-rcna34710?cid=sm_npd_nn_fb_ma&fbclid=IwAR2ZwQCNQNYAlRbYW49z4VWsntTK9KY0k4nE8AdUrRWVjFVPBBLWfmuEXfU&fs=e&s=cl",
         "timestamp": 1655922426,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 2:27 PM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "florida",
         "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
         "timestamp": 1655923670,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 2:47 PM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "politics",
         "link": "https://www.bangordailynews.com/2022/06/22/opinion/opinion-contributor/those-who-blame-high-gas-prices-on-joe-bidens-climate-policies-are-gaslighting-americans/",
         "timestamp": 1655924041,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 2:54 PM"
     },
     {
@@ -338,7 +338,7 @@
         "category": "news",
         "link": "https://www.eastbaytimes.com/2022/06/21/we-arent-going-anywhere-drag-queen-story-hour-forges-ahead-in-alameda-county/",
         "timestamp": 1655925880,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 3:24 PM"
     },
     {
@@ -347,7 +347,7 @@
         "category": "florida",
         "link": "https://www.reuters.com/world/us/former-tallahassee-mayor-gubernatorial-candidate-gillum-indicted-fraud-2022-06-22/",
         "timestamp": 1655926150,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 22, 2022 3:29 PM"
     },
     {
@@ -365,7 +365,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/progressives-say-windfall-profits-tax-better-solution-bidens-gas-tax-holiday",
         "timestamp": 1655928202,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 4:03 PM"
     },
     {
@@ -383,7 +383,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/sri-lankas-pm-says-its-debt-laden-economy-has-collapsed-12638329",
         "timestamp": 1655928635,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 4:10 PM"
     },
     {
@@ -419,7 +419,7 @@
         "category": "politics",
         "link": "https://abovethelaw.com/2022/06/the-evidence-of-trumps-criminal-intent-is-unequivocal-undeniable-and-overwhelming/",
         "timestamp": 1655930719,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 4:45 PM"
     },
     {
@@ -428,7 +428,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-fda-order-juul-e-cigarettes-off-market-wsj-2022-06-22/",
         "timestamp": 1655930959,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 4:49 PM"
     },
     {
@@ -459,21 +459,12 @@
         "published": "June 22, 2022 5:47 PM"
     },
     {
-        "title": "Brazilian judge probed for blocking abortion for raped child",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/brazilian-judge-probed-blocking-abortion-raped-child-85569779",
-        "timestamp": 1655934533,
-        "sentiment": -5,
-        "published": "June 22, 2022 5:48 PM"
-    },
-    {
         "title": "Uvalde school district places Chief Pete Arrendondo on administrative leave",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/06/22/us/uvalde-texas-elementary-school-shooting-officials-wednesday/index.html",
         "timestamp": 1655939067,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 7:04 PM"
     },
     {
@@ -482,7 +473,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/political-commentary/supreme-court-carson-makin-maine-religious-school-1372103/",
         "timestamp": 1655939354,
-        "sentiment": -10,
+        "sentiment": 2,
         "published": "June 22, 2022 7:09 PM"
     },
     {
@@ -509,17 +500,8 @@
         "category": "news",
         "link": "https://apnews.com/article/death-of-george-floyd-politics-minneapolis-race-and-ethnicity-aa2d4270d9ea110db2ee0aa1bc095304",
         "timestamp": 1655939562,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 22, 2022 7:12 PM"
-    },
-    {
-        "title": "Mexico dissolves U.S.-trained special unit fighting drug cartels after it was \"infiltrated\" by criminals, president says",
-        "domain": "cbsnews.com",
-        "category": "worldnews",
-        "link": "https://www.cbsnews.com/news/mexico-ends-us-trained-special-unit-fighting-drug-cartels/",
-        "timestamp": 1655942762,
-        "sentiment": -1,
-        "published": "June 22, 2022 8:06 PM"
     },
     {
         "title": "Mark Zuckerberg just hinted at an operating system for Meta and said he expects the metaverse to generate hundreds of billions in revenue by the end of the decade",
@@ -529,6 +511,15 @@
         "timestamp": 1655944774,
         "sentiment": -3,
         "published": "June 22, 2022 8:39 PM"
+    },
+    {
+        "title": "Citing 'Deluge of New Evidence,' House Jan. 6 Committee Delays Hearings",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/22/citing-deluge-new-evidence-house-jan-6-committee-delays-hearings",
+        "timestamp": 1655946048,
+        "sentiment": 2,
+        "published": "June 22, 2022 9:00 PM"
     },
     {
         "title": "Russian colonel who carried Putin's nuclear codes briefcase found shot",
@@ -547,6 +538,51 @@
         "timestamp": 1655949366,
         "sentiment": 0,
         "published": "June 22, 2022 9:56 PM"
+    },
+    {
+        "title": "Jan. 6 probe expands with fresh subpoenas in multiple states",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/national-security/2022/06/22/jan6-fbi-electors-subpoenas/",
+        "timestamp": 1655950425,
+        "sentiment": 0,
+        "published": "June 22, 2022 10:13 PM"
+    },
+    {
+        "title": "Publix won’t give COVID vaccine to children under 5",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/health/2022/06/22/publix-wont-give-covid-vaccine-to-children-under-5/",
+        "timestamp": 1655952807,
+        "sentiment": -6,
+        "published": "June 22, 2022 10:53 PM"
+    },
+    {
+        "title": "'He Must Resign': Staff Texts Over Fake Elector Slates Implicate Ron Johnson | \"Trump and his MAGA allies planned, promoted, and paid for a seditious conspiracy to overturn an election they lost,\" said one Democratic Senate candidate. \"And Ron Johnson attempted to deliver it to D.C. on a platter.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/21/he-must-resign-staff-texts-over-fake-elector-slates-implicate-ron-johnson",
+        "timestamp": 1655901712,
+        "sentiment": -10,
+        "published": "June 22, 2022 8:41 AM"
+    },
+    {
+        "title": "Brazilian judge probed for blocking abortion for raped child",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/brazilian-judge-probed-blocking-abortion-raped-child-85569779",
+        "timestamp": 1655934533,
+        "sentiment": -5,
+        "published": "June 22, 2022 5:48 PM"
+    },
+    {
+        "title": "Mexico dissolves U.S.-trained special unit fighting drug cartels after it was \"infiltrated\" by criminals, president says",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/mexico-ends-us-trained-special-unit-fighting-drug-cartels/",
+        "timestamp": 1655942762,
+        "sentiment": -1,
+        "published": "June 22, 2022 8:06 PM"
     },
     {
         "title": "Jerrod Carmichael Slams The Idea Of Cancel Culture, Insists It’s ‘Not Real’: ‘We Got To Get Over That’",
@@ -592,15 +628,6 @@
         "timestamp": 1655913335,
         "sentiment": -2,
         "published": "June 22, 2022 11:55 AM"
-    },
-    {
-        "title": "Russian refinery says it was struck by drones from direction of Ukraine",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
-        "timestamp": 1655919933,
-        "sentiment": -1,
-        "published": "June 22, 2022 1:45 PM"
     },
     {
         "title": "Man claims pet alligator is being held hostage after she was taken during Michigan police chase",
