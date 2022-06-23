@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/maradona-eight-doctors-and-nurses-who-cared-for-footballer-face-homicide-charges-12638816",
         "timestamp": 1655957166,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 23, 2022 12:06 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-22",
         "timestamp": 1655958786,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 12:33 AM"
     },
     {
@@ -27,6 +27,24 @@
         "published": "June 23, 2022 1:38 AM"
     },
     {
+        "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
+        "domain": "niemanlab.org",
+        "category": "technology",
+        "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
+        "timestamp": 1655965217,
+        "sentiment": -1,
+        "published": "June 23, 2022 2:20 AM"
+    },
+    {
+        "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
+        "timestamp": 1655970502,
+        "sentiment": -1,
+        "published": "June 23, 2022 3:48 AM"
+    },
+    {
         "title": "Western sanctions are 'weaponizing' world economy, China's Xi Jinping says ahead of BRICS summit",
         "domain": "cnn.com",
         "category": "worldnews",
@@ -34,15 +52,6 @@
         "timestamp": 1655964090,
         "sentiment": -2,
         "published": "June 23, 2022 2:01 AM"
-    },
-    {
-        "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
-        "domain": "niemanlab.org",
-        "category": "technology",
-        "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
-        "timestamp": 1655965217,
-        "sentiment": 0,
-        "published": "June 23, 2022 2:20 AM"
     },
     {
         "title": "Tesla worker rejects $15 million payout in race bias lawsuit",
