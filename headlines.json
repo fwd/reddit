@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -16,15 +16,6 @@
         "timestamp": 1655975884,
         "sentiment": -2,
         "published": "June 23, 2022 5:18 AM"
-    },
-    {
-        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-710170",
-        "timestamp": 1655976451,
-        "sentiment": -2,
-        "published": "June 23, 2022 5:27 AM"
     },
     {
         "title": "NATO set to agree biggest overhaul of defences since the Cold War - including expansion of 40,000-strong response force",
@@ -41,26 +32,8 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 6:24 AM"
-    },
-    {
-        "title": "Update: US woman to be airlifted to Mallorca to terminate unviable pregnancy after Malta denied procedure",
-        "domain": "timesofmalta.com",
-        "category": "worldnews",
-        "link": "https://timesofmalta.com/articles/view/american-couple-evacuated-spain-terminate-unviable-pregnancy.963662",
-        "timestamp": 1655980791,
-        "sentiment": -2,
-        "published": "June 23, 2022 6:39 AM"
-    },
-    {
-        "title": "Germany faces gas supply 'crisis,' declares alarm level",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
-        "timestamp": 1655981025,
-        "sentiment": -2,
-        "published": "June 23, 2022 6:43 AM"
     },
     {
         "title": "'Unconscionable': House Committee Adds $37 Billion to Biden's $813 Billion Military Budget | The proposed increase costs 10 times more than preserving the free school lunch program that Congress is allowing to expire \"because it's 'too expensive,'\" Public Citizen noted.",
@@ -68,7 +41,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 23, 2022 7:49 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/06/23/january-6-committee-threats-social-wing-social-media-osullivan-newday-vpx.cnn",
         "timestamp": 1655986676,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 8:17 AM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "politics",
         "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
         "timestamp": 1655987522,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 8:32 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 9:11 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/23/and-his-stooges-must-be-punished-its-the-only-way-to-save-america/",
         "timestamp": 1655990195,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 9:16 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 23, 2022 9:33 AM"
     },
     {
@@ -230,17 +203,8 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/23/mo-brooks-betrayed-by-in-losing-re-bid-says-hes-willing-to-testify-about-jan-6/",
         "timestamp": 1655991965,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 9:46 AM"
-    },
-    {
-        "title": "Ukraine celebrates US long-range rocket systems arriving after months of asking. 'Summer will be hot for Russian occupiers.'",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/ukraine-celebrates-us-long-range-rocket-systems-arriving-after-months-of-asking-summer-will-be-hot-for-russian-occupiers/ar-AAYM9VI?li=BBnb7Kz",
-        "timestamp": 1655992184,
-        "sentiment": -2,
-        "published": "June 23, 2022 9:49 AM"
     },
     {
         "title": "Mark Zuckerberg is more interested in the metaverse than election integrity, report says",
@@ -248,7 +212,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 23, 2022 9:55 AM"
     },
     {
@@ -266,7 +230,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/23/politics/supreme-court-death-row-inmates/index.html",
         "timestamp": 1655994098,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 10:21 AM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
         "timestamp": 1655995189,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 10:39 AM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
         "timestamp": 1655995389,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 10:43 AM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-23/supreme-court-shields-police-from-being-sued-for-ignoring-miranda-warnings",
         "timestamp": 1655995942,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 10:52 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
         "timestamp": 1655996721,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 11:05 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
         "timestamp": 1655997528,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 23, 2022 11:18 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "technology",
         "link": "https://www.ft.com/content/aab59edd-2a14-409c-8d31-6d64831f633f",
         "timestamp": 1655997989,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 11:26 AM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
         "timestamp": 1655999524,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 11:52 AM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "news",
         "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
         "timestamp": 1655999593,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 11:53 AM"
     },
     {
@@ -374,8 +338,17 @@
         "category": "ukraine",
         "link": "https://podclips.com/c/garry-kasparov-on-putin-invading-ukraine-this-is-already-world-war-iii?ss=r&ss2=ukraine&d=2022-06-23&m=true",
         "timestamp": 1655999642,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 23, 2022 11:54 AM"
+    },
+    {
+        "title": "Nigerian politician and wife charged with child organ-harvesting plot",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-61908876",
+        "timestamp": 1655999726,
+        "sentiment": -2,
+        "published": "June 23, 2022 11:55 AM"
     },
     {
         "title": "64 percent in new poll say they think Jan. 6 attack was planned",
@@ -383,7 +356,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
         "timestamp": 1656000021,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 23, 2022 12:00 PM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
         "timestamp": 1656000529,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 12:08 PM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "miami",
         "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
         "timestamp": 1656001381,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 23, 2022 12:23 PM"
     },
     {
@@ -410,7 +383,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
         "timestamp": 1656001915,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 23, 2022 12:31 PM"
     },
     {
@@ -419,8 +392,152 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/amagasaki-japan-lost-usb-data-460000-residents/",
         "timestamp": 1656002338,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 12:38 PM"
+    },
+    {
+        "title": "The Russian State Duma called for a strike on the US embassy in Kyiv due to the supply of MLRS to Ukraine",
+        "domain": "lenta-ru.translate.goog",
+        "category": "ukraine",
+        "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+        "timestamp": 1656004516,
+        "sentiment": 2,
+        "published": "June 23, 2022 1:15 PM"
+    },
+    {
+        "title": "Russian navy ordered to lay mines at Ukraine’s Black Sea ports, says US | Ukraine",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/23/russian-navy-ordered-to-lay-mines-at-ukraines-black-sea-ports-says-us",
+        "timestamp": 1656005469,
+        "sentiment": -2,
+        "published": "June 23, 2022 1:31 PM"
+    },
+    {
+        "title": "Mandy Patinkin & Kathryn Grody To Star In ‘Seasoned’ Showtime Comedy Pilot",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/mandy-patinkin-kathryn-grody-star-seasoned-comedy-pilot-ordered-by-showtime-1235050846/",
+        "timestamp": 1656007026,
+        "sentiment": -5,
+        "published": "June 23, 2022 1:57 PM"
+    },
+    {
+        "title": "Mexican scientist sentenced to four years for spying for Russia in Miami",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/23/hector-cabrera-fuentes-sentenced-to-4-years-for-spying-for-russia/",
+        "timestamp": 1656007466,
+        "sentiment": -2,
+        "published": "June 23, 2022 2:04 PM"
+    },
+    {
+        "title": "SpaceX says 5G expansion would make Starlink 'unusable' for most Americans",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/23/tech/spacex-dish-fcc-spectrum-scn/index.html",
+        "timestamp": 1656007752,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:09 PM"
+    },
+    {
+        "title": "Trump electors in Michigan being served with federal subpoenas",
+        "domain": "detroitnews.com",
+        "category": "politics",
+        "link": "https://www.detroitnews.com/story/news/politics/2022/06/23/trump-electors-michigan-being-served-federal-subpoenas/7705888001/",
+        "timestamp": 1656009258,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:34 PM"
+    },
+    {
+        "title": "Ukraine and Moldova accepted as candidates to join European Union",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/ukraine-and-moldova-accepted-as-candidates-to-join-european-union-12639355",
+        "timestamp": 1656009641,
+        "sentiment": -2,
+        "published": "June 23, 2022 2:40 PM"
+    },
+    {
+        "title": "Feds search home of Jeffrey Clark, former DOJ official who pushed Trump's false election fraud claims",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
+        "timestamp": 1656010320,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:52 PM"
+    },
+    {
+        "title": "Netflix Axes Another 300 Staff, Taking Total Layoffs To More Than 450",
+        "domain": "deadline.com",
+        "category": "technology",
+        "link": "https://deadline.com/2022/06/netflix-axes-another-300-staff-taking-total-layoffs-to-around-450-1235050799/",
+        "timestamp": 1656010479,
+        "sentiment": -3,
+        "published": "June 23, 2022 2:54 PM"
+    },
+    {
+        "title": "'The Santa Clauses': First Look at New Disney+ Series Starring Tim Allen & Elizabeth Mitchell",
+        "domain": "disneyparks.disney.go.com",
+        "category": "television",
+        "link": "https://disneyparks.disney.go.com/blog/2022/06/first-look-at-the-disneyplus-original-series-the-santa-clauses-for-halfway-to-the-holidays/",
+        "timestamp": 1656012021,
+        "sentiment": -5,
+        "published": "June 23, 2022 3:20 PM"
+    },
+    {
+        "title": "Alzheimer’s & Dementia education, training legislation becomes law",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/community/health/alzheimers-dementia-education-training-legislation-becomes-law/",
+        "timestamp": 1656014420,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:00 PM"
+    },
+    {
+        "title": "Florida leads US for bicycle fatalities, data shows",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/florida-leads-us-for-bicycle-fatalities-data-shows/",
+        "timestamp": 1656014493,
+        "sentiment": 0,
+        "published": "June 23, 2022 4:01 PM"
+    },
+    {
+        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-710170",
+        "timestamp": 1655976451,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:27 AM"
+    },
+    {
+        "title": "Update: US woman to be airlifted to Mallorca to terminate unviable pregnancy after Malta denied procedure",
+        "domain": "timesofmalta.com",
+        "category": "worldnews",
+        "link": "https://timesofmalta.com/articles/view/american-couple-evacuated-spain-terminate-unviable-pregnancy.963662",
+        "timestamp": 1655980791,
+        "sentiment": -2,
+        "published": "June 23, 2022 6:39 AM"
+    },
+    {
+        "title": "Germany faces gas supply 'crisis,' declares alarm level",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
+        "timestamp": 1655981025,
+        "sentiment": -2,
+        "published": "June 23, 2022 6:43 AM"
+    },
+    {
+        "title": "Ukraine celebrates US long-range rocket systems arriving after months of asking. 'Summer will be hot for Russian occupiers.'",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/ukraine-celebrates-us-long-range-rocket-systems-arriving-after-months-of-asking-summer-will-be-hot-for-russian-occupiers/ar-AAYM9VI?li=BBnb7Kz",
+        "timestamp": 1655992184,
+        "sentiment": -2,
+        "published": "June 23, 2022 9:49 AM"
     },
     {
         "title": "Trump is hate-watching every Jan. 6 hearing and almost screams at the TV because he feels nobody is defending him, report says",
@@ -430,15 +547,6 @@
         "timestamp": 1656004257,
         "sentiment": -6,
         "published": "June 23, 2022 1:10 PM"
-    },
-    {
-        "title": "The Russian State Duma called for a strike on the US embassy in Kyiv due to the supply of MLRS to Ukraine",
-        "domain": "lenta-ru.translate.goog",
-        "category": "ukraine",
-        "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
-        "timestamp": 1656004516,
-        "sentiment": 0,
-        "published": "June 23, 2022 1:15 PM"
     },
     {
         "title": "Man who carried Vladimir Putin's nuclear controls briefcase found shot at home",
