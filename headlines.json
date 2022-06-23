@@ -1,20 +1,11 @@
 [
     {
-        "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
-        "domain": "niemanlab.org",
-        "category": "technology",
-        "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
-        "timestamp": 1655965217,
-        "sentiment": 0,
-        "published": "June 23, 2022 2:20 AM"
-    },
-    {
         "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
         "domain": "reuters.com",
         "category": "technology",
         "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
         "timestamp": 1655970502,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 3:48 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "news",
         "link": "https://news3lv.com/news/local/video-shows-passengers-viciously-attack-las-vegas-uber-driver",
         "timestamp": 1655970666,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 23, 2022 3:51 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
         "timestamp": 1655971732,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 4:08 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -59,17 +50,8 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/23/we-are-not-pollution-producers-dutch-farmers-block-roads-in-protest-against-emissions-targ",
         "timestamp": 1655975884,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 5:18 AM"
-    },
-    {
-        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-710170",
-        "timestamp": 1655976451,
-        "sentiment": -6,
-        "published": "June 23, 2022 5:27 AM"
     },
     {
         "title": "NATO set to agree biggest overhaul of defences since the Cold War - including expansion of 40,000-strong response force",
@@ -77,7 +59,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-set-to-agree-biggest-overhaul-of-defences-since-the-cold-war-including-expansion-of-40-000-strong-response-force-12638817",
         "timestamp": 1655976869,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 5:34 AM"
     },
     {
@@ -86,17 +68,8 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-23/swiss-gold-refiners-say-they-didn-t-import-mystery-russian-metal",
         "timestamp": 1655977778,
-        "sentiment": -6,
-        "published": "June 23, 2022 5:49 AM"
-    },
-    {
-        "title": "Veteran Lt. Colonel Adam Kinzinger of the USAF and representative of Illinois presents a bill in congress to train Ukranian pilots in the US with NATO systems, including the F-16, to transition to them",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/AdamKinzinger/status/1539728315732328449",
-        "timestamp": 1655977816,
         "sentiment": -2,
-        "published": "June 23, 2022 5:50 AM"
+        "published": "June 23, 2022 5:49 AM"
     },
     {
         "title": "Ron Johnson embroiled in controversy over staff handing Pence fake electors list",
@@ -104,17 +77,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3533609-ron-johnson-embroiled-in-controversy-over-staff-handing-pence-fake-electors-list/",
         "timestamp": 1655979145,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 6:12 AM"
-    },
-    {
-        "title": "Commanders owner launched a 'shadow investigation' to detract from probe, says panel",
-        "domain": "npr.org",
-        "category": "sports",
-        "link": "https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe",
-        "timestamp": 1655979495,
-        "sentiment": 0,
-        "published": "June 23, 2022 6:18 AM"
     },
     {
         "title": "Juul's e-cigarettes could be banned from sale in the US | The FDA is set to announce the move imminently, according to The Wall Street Journal.",
@@ -122,7 +86,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -131,7 +95,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/tech/news/amazon-is-working-on-a-creepy-feature-that-will-enable-alexa-to-speak-in-your-dead-relatives-voice/articleshow/92407969.cms",
         "timestamp": 1655980721,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 6:38 AM"
     },
     {
@@ -140,7 +104,7 @@
         "category": "news",
         "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
         "timestamp": 1655981025,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 23, 2022 6:43 AM"
     },
     {
@@ -149,7 +113,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -158,7 +122,7 @@
         "category": "worldnews",
         "link": "https://au.news.yahoo.com/european-parliament-overwhelmingly-approves-eu-102231942.html?soc_src=community&soc_trk=tw",
         "timestamp": 1655981441,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 6:50 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/thousands-convicted-of-witchcraft-could-be-pardoned-under-new-bill-12638629",
         "timestamp": 1655981901,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 6:58 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/22/us/politics/boebert-colorado-primary-democrats.html",
         "timestamp": 1655984158,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 7:35 AM"
     },
     {
@@ -212,8 +176,17 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 7:49 AM"
+    },
+    {
+        "title": "EU leaders to grant Ukraine candidate status in blow to Putin | Ukraine",
+        "domain": "theguardian.com",
+        "category": "ukraine",
+        "link": "https://www.theguardian.com/world/2022/jun/23/eu-leaders-ukraine-candidate-status-russian-attack",
+        "timestamp": 1655985298,
+        "sentiment": 0,
+        "published": "June 23, 2022 7:54 AM"
     },
     {
         "title": "Starbucks used \"array of illegal tactics\" against unionizing workers, labor regulators say",
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/vladimir-putin-approval-rating-twenty-year-low-ukraine-war-invasion-1718399",
         "timestamp": 1655985715,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/python-measuring-nearly-18-feet-weighing-215-pounds-sets-new-florida-record",
         "timestamp": 1655985930,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 23, 2022 8:05 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion?srnd=premium-middle-east",
         "timestamp": 1655986160,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "June 23, 2022 8:09 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -275,8 +248,17 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/06/23/january-6-committee-threats-social-wing-social-media-osullivan-newday-vpx.cnn",
         "timestamp": 1655986676,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 8:17 AM"
+    },
+    {
+        "title": "Ukrainians donate almost $10 million in a day to buy Bayraktar drones for army",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/life/ukrainians-donate-almost-10-million-in-a-day-to-buy-bayraktar-drones-for-army-ukraine-news-50251825.html",
+        "timestamp": 1655987404,
+        "sentiment": 0,
+        "published": "June 23, 2022 8:30 AM"
     },
     {
         "title": "Ivanka Trump Told Filmmaker Her Dad Should 'Continue to Fight' After 2020 Election, Countering House Testimony",
@@ -284,8 +266,17 @@
         "category": "politics",
         "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
         "timestamp": 1655987522,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 8:32 AM"
+    },
+    {
+        "title": "No Shirt Buttons, No Airbags, Buggy Smartphones: Russia's Economy Enters The 'Twilight Zone'",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/russia-economy-western-sanctions-twilight-zone/31911576.html",
+        "timestamp": 1655987983,
+        "sentiment": -2,
+        "published": "June 23, 2022 8:39 AM"
     },
     {
         "title": "Valve’s Steam Deck makes a brilliant case against walled gardens - Rather than boxing you into its own store, Valve’s portable gaming system lets you install software from anywhere, and it’s glorious.",
@@ -293,7 +284,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -302,8 +293,17 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 9:11 AM"
+    },
+    {
+        "title": "Trump and his stooges must be punished: It's the only way to save America If one man is above the law, then America is done. The Jan. 6 committee is literally fighting for our future",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/23/and-his-stooges-must-be-punished-its-the-only-way-to-save-america/",
+        "timestamp": 1655990195,
+        "sentiment": -2,
+        "published": "June 23, 2022 9:16 AM"
     },
     {
         "title": "Fetterman leads Oz in Pennsylvania Senate race: poll",
@@ -311,7 +311,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -320,8 +320,98 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 9:33 AM"
+    },
+    {
+        "title": "Ukraine must accept every single one of our demands before peace—Russia",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-ukraine-peskov-kremlin-war-end-terms-peace-1718445",
+        "timestamp": 1655991533,
+        "sentiment": -2,
+        "published": "June 23, 2022 9:38 AM"
+    },
+    {
+        "title": "Mark Zuckerberg is more interested in the metaverse than election integrity, report says",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
+        "timestamp": 1655992214,
+        "sentiment": -1,
+        "published": "June 23, 2022 9:50 AM"
+    },
+    {
+        "title": "Chechens have been silent on TikTok recently. Seems like a large portion of their Tiktokers were destroyed around the industrial zone Severodonetsk",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
+        "timestamp": 1655992512,
+        "sentiment": 0,
+        "published": "June 23, 2022 9:55 AM"
+    },
+    {
+        "title": "Supreme Court Rules Against New York's Gun Permit Law",
+        "domain": "nbcchicago.com",
+        "category": "news",
+        "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
+        "timestamp": 1655995189,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:39 AM"
+    },
+    {
+        "title": "U.S. Supreme Court protects police from 'Miranda' lawsuits",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
+        "timestamp": 1655995389,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:43 AM"
+    },
+    {
+        "title": "Cricketer Henry Nicholls is caught out in an exceptionally rare fashion.",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/englandcricket/status/1539982449958014976?s=20&t=w8_IRb4DcTuAVA4Rq2_pwQ",
+        "timestamp": 1655997626,
+        "sentiment": 0,
+        "published": "June 23, 2022 11:20 AM"
+    },
+    {
+        "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
+        "domain": "niemanlab.org",
+        "category": "technology",
+        "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
+        "timestamp": 1655965217,
+        "sentiment": 0,
+        "published": "June 23, 2022 2:20 AM"
+    },
+    {
+        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-710170",
+        "timestamp": 1655976451,
+        "sentiment": -6,
+        "published": "June 23, 2022 5:27 AM"
+    },
+    {
+        "title": "Veteran Lt. Colonel Adam Kinzinger of the USAF and representative of Illinois presents a bill in congress to train Ukranian pilots in the US with NATO systems, including the F-16, to transition to them",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/AdamKinzinger/status/1539728315732328449",
+        "timestamp": 1655977816,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:50 AM"
+    },
+    {
+        "title": "Commanders owner launched a 'shadow investigation' to detract from probe, says panel",
+        "domain": "npr.org",
+        "category": "sports",
+        "link": "https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe",
+        "timestamp": 1655979495,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:18 AM"
     },
     {
         "title": "Update: US woman to be airlifted to Mallorca to terminate unviable pregnancy after Malta denied procedure",
