@@ -1,14 +1,5 @@
 [
     {
-        "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
-        "domain": "reuters.com",
-        "category": "technology",
-        "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
-        "timestamp": 1655970502,
-        "sentiment": -1,
-        "published": "June 23, 2022 3:48 AM"
-    },
-    {
         "title": "Video shows passengers viciously attack Las Vegas Uber driver",
         "domain": "news3lv.com",
         "category": "news",
@@ -32,7 +23,7 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 5:02 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "florida",
         "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
         "timestamp": 1655975611,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 5:13 AM"
     },
     {
@@ -54,6 +45,15 @@
         "published": "June 23, 2022 5:18 AM"
     },
     {
+        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-710170",
+        "timestamp": 1655976451,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:27 AM"
+    },
+    {
         "title": "NATO set to agree biggest overhaul of defences since the Cold War - including expansion of 40,000-strong response force",
         "domain": "news.sky.com",
         "category": "worldnews",
@@ -63,21 +63,12 @@
         "published": "June 23, 2022 5:34 AM"
     },
     {
-        "title": "Swiss customs data show over 3 tons of gold – worth about $200 million – were shipped from Russia to Switzerland in May. Switzerland’s gold refiners said its members didn’t import gold from Russia last month, raising questions about who bought Russia’s precious metals",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-23/swiss-gold-refiners-say-they-didn-t-import-mystery-russian-metal",
-        "timestamp": 1655977778,
-        "sentiment": -2,
-        "published": "June 23, 2022 5:49 AM"
-    },
-    {
         "title": "Ron Johnson embroiled in controversy over staff handing Pence fake electors list",
         "domain": "thehill.com",
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3533609-ron-johnson-embroiled-in-controversy-over-staff-handing-pence-fake-electors-list/",
         "timestamp": 1655979145,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:12 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/tech/news/amazon-is-working-on-a-creepy-feature-that-will-enable-alexa-to-speak-in-your-dead-relatives-voice/articleshow/92407969.cms",
         "timestamp": 1655980721,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 6:38 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -131,17 +122,8 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
         "timestamp": 1655981852,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 23, 2022 6:57 AM"
-    },
-    {
-        "title": "Thousands convicted of witchcraft could be pardoned under new bill | Around 4,000 Scots are estimated to have been accused of the crime, which was in law until 1736, with around 85% of those convicted being women.",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/thousands-convicted-of-witchcraft-could-be-pardoned-under-new-bill-12638629",
-        "timestamp": 1655981901,
-        "sentiment": -2,
-        "published": "June 23, 2022 6:58 AM"
     },
     {
         "title": "Lauren Boebert Faces Bipartisan Bid by GOP and Democrats to Oust Her",
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/22/us/politics/boebert-colorado-primary-democrats.html",
         "timestamp": 1655984158,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 7:35 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 23, 2022 7:49 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "ukraine",
         "link": "https://www.theguardian.com/world/2022/jun/23/eu-leaders-ukraine-candidate-status-russian-attack",
         "timestamp": 1655985298,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 7:54 AM"
     },
     {
@@ -216,15 +198,6 @@
         "published": "June 23, 2022 8:05 AM"
     },
     {
-        "title": "Nike Decides to Leave Russia Entirely Following Ukraine Invasion",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion?srnd=premium-middle-east",
-        "timestamp": 1655986160,
-        "sentiment": -2,
-        "published": "June 23, 2022 8:09 AM"
-    },
-    {
         "title": "US swimmer Anita Alvarez's coach saves her after she fainted in the water during World Championships",
         "domain": "news.sky.com",
         "category": "sports",
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/06/23/january-6-committee-threats-social-wing-social-media-osullivan-newday-vpx.cnn",
         "timestamp": 1655986676,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 8:17 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/life/ukrainians-donate-almost-10-million-in-a-day-to-buy-bayraktar-drones-for-army-ukraine-news-50251825.html",
         "timestamp": 1655987404,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 8:30 AM"
     },
     {
@@ -266,17 +239,26 @@
         "category": "politics",
         "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
         "timestamp": 1655987522,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 8:32 AM"
     },
     {
-        "title": "No Shirt Buttons, No Airbags, Buggy Smartphones: Russia's Economy Enters The 'Twilight Zone'",
-        "domain": "rferl.org",
+        "title": "The Ten Best Things to Do in Miami This Weekend",
+        "domain": "miaminewtimes.com",
+        "category": "miami",
+        "link": "https://www.miaminewtimes.com/arts/best-things-to-do-in-miami-this-weekend-june-24-26-2022-14741341",
+        "timestamp": 1655987736,
+        "sentiment": 3,
+        "published": "June 23, 2022 8:35 AM"
+    },
+    {
+        "title": "Nike Decides to Leave Russia Entirely Following Ukraine Invasion",
+        "domain": "bloomberg.com",
         "category": "worldnews",
-        "link": "https://www.rferl.org/a/russia-economy-western-sanctions-twilight-zone/31911576.html",
-        "timestamp": 1655987983,
+        "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion",
+        "timestamp": 1655988113,
         "sentiment": -2,
-        "published": "June 23, 2022 8:39 AM"
+        "published": "June 23, 2022 8:41 AM"
     },
     {
         "title": "Valve’s Steam Deck makes a brilliant case against walled gardens - Rather than boxing you into its own store, Valve’s portable gaming system lets you install software from anywhere, and it’s glorious.",
@@ -284,7 +266,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 9:11 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/23/and-his-stooges-must-be-punished-its-the-only-way-to-save-america/",
         "timestamp": 1655990195,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 9:16 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -320,17 +302,17 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 23, 2022 9:33 AM"
     },
     {
-        "title": "Ukraine must accept every single one of our demands before peace—Russia",
-        "domain": "newsweek.com",
+        "title": "Ukraine celebrates US long-range rocket systems arriving after months of asking. 'Summer will be hot for Russian occupiers.'",
+        "domain": "msn.com",
         "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-ukraine-peskov-kremlin-war-end-terms-peace-1718445",
-        "timestamp": 1655991533,
+        "link": "https://www.msn.com/en-us/news/world/ukraine-celebrates-us-long-range-rocket-systems-arriving-after-months-of-asking-summer-will-be-hot-for-russian-occupiers/ar-AAYM9VI?li=BBnb7Kz",
+        "timestamp": 1655992184,
         "sentiment": -2,
-        "published": "June 23, 2022 9:38 AM"
+        "published": "June 23, 2022 9:49 AM"
     },
     {
         "title": "Mark Zuckerberg is more interested in the metaverse than election integrity, report says",
@@ -338,7 +320,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -347,8 +329,35 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 9:55 AM"
+    },
+    {
+        "title": "⚡️Reuters: Nike to fully exit Russia. The brand confirmed in an emailed statement to Reuters on June 23 that it would leave the country completely after scaling down its operations.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1539951502491619328?t=BAnm22wgJ0TSL0qUPy2C0Q&s=09",
+        "timestamp": 1655992843,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:00 AM"
+    },
+    {
+        "title": "Supreme Court sides with inmate who wants to die by firing squad",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/23/politics/supreme-court-death-row-inmates/index.html",
+        "timestamp": 1655994098,
+        "sentiment": -1,
+        "published": "June 23, 2022 10:21 AM"
+    },
+    {
+        "title": "World Cup: Qatar will enforce sex ban for unmarried couples",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/video/20220622-world-cup-qatar-will-enforce-sex-ban-for-unmarried-couples",
+        "timestamp": 1655994920,
+        "sentiment": -2,
+        "published": "June 23, 2022 10:35 AM"
     },
     {
         "title": "Supreme Court Rules Against New York's Gun Permit Law",
@@ -369,6 +378,24 @@
         "published": "June 23, 2022 10:43 AM"
     },
     {
+        "title": "FDA bans Juul e-cigarettes as government pursues broader crackdown on nicotine products",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
+        "timestamp": 1655996721,
+        "sentiment": -2,
+        "published": "June 23, 2022 11:05 AM"
+    },
+    {
+        "title": "Netflix’s ‘Three Body Problem’ casts Jonathan Pryce, Rosalind Chao, Ben Schnetzer and Eve Ridley",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
+        "timestamp": 1655997528,
+        "sentiment": 3,
+        "published": "June 23, 2022 11:18 AM"
+    },
+    {
         "title": "Cricketer Henry Nicholls is caught out in an exceptionally rare fashion.",
         "domain": "twitter.com",
         "category": "sports",
@@ -378,6 +405,69 @@
         "published": "June 23, 2022 11:20 AM"
     },
     {
+        "title": "Ukraine warns Russia of massive missile strikes after U.S. rockets arrive",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukraine-warns-russia-massive-missile-strikes-after-u-s-rockets-arrive-1718493",
+        "timestamp": 1655997841,
+        "sentiment": -2,
+        "published": "June 23, 2022 11:24 AM"
+    },
+    {
+        "title": "Judge approves $1B+ deal in deadly Florida condo collapse",
+        "domain": "apnews.com",
+        "category": "florida",
+        "link": "https://apnews.com/article/miami-florida-surfside-building-collapse-3b95c4fb474b57bb48923a3c321c3c3e",
+        "timestamp": 1655998522,
+        "sentiment": -3,
+        "published": "June 23, 2022 11:35 AM"
+    },
+    {
+        "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
+        "timestamp": 1655970502,
+        "sentiment": -1,
+        "published": "June 23, 2022 3:48 AM"
+    },
+    {
+        "title": "Swiss customs data show over 3 tons of gold – worth about $200 million – were shipped from Russia to Switzerland in May. Switzerland’s gold refiners said its members didn’t import gold from Russia last month, raising questions about who bought Russia’s precious metals",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-23/swiss-gold-refiners-say-they-didn-t-import-mystery-russian-metal",
+        "timestamp": 1655977778,
+        "sentiment": -2,
+        "published": "June 23, 2022 5:49 AM"
+    },
+    {
+        "title": "Thousands convicted of witchcraft could be pardoned under new bill | Around 4,000 Scots are estimated to have been accused of the crime, which was in law until 1736, with around 85% of those convicted being women.",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/thousands-convicted-of-witchcraft-could-be-pardoned-under-new-bill-12638629",
+        "timestamp": 1655981901,
+        "sentiment": -2,
+        "published": "June 23, 2022 6:58 AM"
+    },
+    {
+        "title": "No Shirt Buttons, No Airbags, Buggy Smartphones: Russia's Economy Enters The 'Twilight Zone'",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/russia-economy-western-sanctions-twilight-zone/31911576.html",
+        "timestamp": 1655987983,
+        "sentiment": -2,
+        "published": "June 23, 2022 8:39 AM"
+    },
+    {
+        "title": "Ukraine must accept every single one of our demands before peace—Russia",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-ukraine-peskov-kremlin-war-end-terms-peace-1718445",
+        "timestamp": 1655991533,
+        "sentiment": -2,
+        "published": "June 23, 2022 9:38 AM"
+    },
+    {
         "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
         "domain": "niemanlab.org",
         "category": "technology",
@@ -385,15 +475,6 @@
         "timestamp": 1655965217,
         "sentiment": 0,
         "published": "June 23, 2022 2:20 AM"
-    },
-    {
-        "title": "Ukraine to begin first trial of Russian soldier accused of rape",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-710170",
-        "timestamp": 1655976451,
-        "sentiment": -6,
-        "published": "June 23, 2022 5:27 AM"
     },
     {
         "title": "Veteran Lt. Colonel Adam Kinzinger of the USAF and representative of Illinois presents a bill in congress to train Ukranian pilots in the US with NATO systems, including the F-16, to transition to them",
