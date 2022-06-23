@@ -1,20 +1,11 @@
 [
     {
-        "title": "Chinese influencers must now have a qualification to talk about certain topics like law and medicine",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/06/23/china-livestreamers-need-qualifications-for-certain-topics-regulators.html",
-        "timestamp": 1655962738,
-        "sentiment": -2,
-        "published": "June 23, 2022 1:38 AM"
-    },
-    {
         "title": "“The differences seem to be growing”: A look at the rising generation of news consumers",
         "domain": "niemanlab.org",
         "category": "technology",
         "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
         "timestamp": 1655965217,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 2:20 AM"
     },
     {
@@ -23,8 +14,17 @@
         "category": "technology",
         "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
         "timestamp": 1655970502,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 3:48 AM"
+    },
+    {
+        "title": "Video shows passengers viciously attack Las Vegas Uber driver",
+        "domain": "news3lv.com",
+        "category": "news",
+        "link": "https://news3lv.com/news/local/video-shows-passengers-viciously-attack-las-vegas-uber-driver",
+        "timestamp": 1655970666,
+        "sentiment": 0,
+        "published": "June 23, 2022 3:51 AM"
     },
     {
         "title": "Germany faces gas supply ‘crisis,’ declares alarm level",
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
         "timestamp": 1655971732,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 4:08 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "technology",
         "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
         "timestamp": 1655974979,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 5:02 AM"
+    },
+    {
+        "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
+        "domain": "nationalgeographic.com",
+        "category": "florida",
+        "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
+        "timestamp": 1655975611,
+        "sentiment": 2,
+        "published": "June 23, 2022 5:13 AM"
     },
     {
         "title": "'We are not pollution producers': Dutch farmers block roads in protest against emissions targets",
@@ -50,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/23/we-are-not-pollution-producers-dutch-farmers-block-roads-in-protest-against-emissions-targ",
         "timestamp": 1655975884,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 5:18 AM"
     },
     {
@@ -59,8 +68,35 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-set-to-agree-biggest-overhaul-of-defences-since-the-cold-war-including-expansion-of-40-000-strong-response-force-12638817",
         "timestamp": 1655976869,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 23, 2022 5:34 AM"
+    },
+    {
+        "title": "Swiss customs data show over 3 tons of gold – worth about $200 million – were shipped from Russia to Switzerland in May. Switzerland’s gold refiners said its members didn’t import gold from Russia last month, raising questions about who bought Russia’s precious metals",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-23/swiss-gold-refiners-say-they-didn-t-import-mystery-russian-metal",
+        "timestamp": 1655977778,
+        "sentiment": 0,
+        "published": "June 23, 2022 5:49 AM"
+    },
+    {
+        "title": "Veteran Lt. Colonel Adam Kinzinger of the USAF and representative of Illinois presents a bill in congress to train Ukranian pilots in the US with NATO systems, including the F-16, to transition to them",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/AdamKinzinger/status/1539728315732328449",
+        "timestamp": 1655977816,
+        "sentiment": 0,
+        "published": "June 23, 2022 5:50 AM"
+    },
+    {
+        "title": "Commanders owner launched a 'shadow investigation' to detract from probe, says panel",
+        "domain": "npr.org",
+        "category": "sports",
+        "link": "https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe",
+        "timestamp": 1655979495,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:18 AM"
     },
     {
         "title": "Juul's e-cigarettes could be banned from sale in the US | The FDA is set to announce the move imminently, according to The Wall Street Journal.",
@@ -68,8 +104,35 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "June 23, 2022 6:24 AM"
+    },
+    {
+        "title": "Amazon is working on a creepy feature that will enable Alexa to speak in your dead relative’s voice",
+        "domain": "businessinsider.in",
+        "category": "technology",
+        "link": "https://www.businessinsider.in/tech/news/amazon-is-working-on-a-creepy-feature-that-will-enable-alexa-to-speak-in-your-dead-relatives-voice/articleshow/92407969.cms",
+        "timestamp": 1655980721,
+        "sentiment": -1,
+        "published": "June 23, 2022 6:38 AM"
+    },
+    {
+        "title": "Germany faces gas supply 'crisis,' declares alarm level",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/russia-ukraine-germany-government-and-politics-bc7bdf033d249f673275b537bf2d3d19",
+        "timestamp": 1655981025,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:43 AM"
+    },
+    {
+        "title": "'Unconscionable': House Committee Adds $37 Billion to Biden's $813 Billion Military Budget | The proposed increase costs 10 times more than preserving the free school lunch program that Congress is allowing to expire \"because it's 'too expensive,'\" Public Citizen noted.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
+        "timestamp": 1655981339,
+        "sentiment": 1,
+        "published": "June 23, 2022 6:48 AM"
     },
     {
         "title": "Pinellas County prepares to pass Tenants Bill of Rights as rental costs soar",
@@ -81,12 +144,30 @@
         "published": "June 23, 2022 6:57 AM"
     },
     {
+        "title": "Thousands convicted of witchcraft could be pardoned under new bill | Around 4,000 Scots are estimated to have been accused of the crime, which was in law until 1736, with around 85% of those convicted being women.",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/thousands-convicted-of-witchcraft-could-be-pardoned-under-new-bill-12638629",
+        "timestamp": 1655981901,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:58 AM"
+    },
+    {
+        "title": "Lauren Boebert Faces Bipartisan Bid by GOP and Democrats to Oust Her",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
+        "timestamp": 1655981946,
+        "sentiment": 1,
+        "published": "June 23, 2022 6:59 AM"
+    },
+    {
         "title": "Emilia Clarke confirms Jon Snow ‘Game of Thrones’ sequel is real and ‘certified’ by Kit Harington",
         "domain": "screenshot-media.com",
         "category": "television",
         "link": "https://screenshot-media.com/culture/entertainment/got-sequel-confirmed/",
         "timestamp": 1655982101,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 23, 2022 7:01 AM"
     },
     {
@@ -97,6 +178,15 @@
         "timestamp": 1655982640,
         "sentiment": 0,
         "published": "June 23, 2022 7:10 AM"
+    },
+    {
+        "title": "Chinese influencers must now have a qualification to talk about certain topics like law and medicine",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/06/23/china-livestreamers-need-qualifications-for-certain-topics-regulators.html",
+        "timestamp": 1655962738,
+        "sentiment": -2,
+        "published": "June 23, 2022 1:38 AM"
     },
     {
         "title": "Russian soldiers in temporarily occupied Tokmak, Zaporizhia Oblast, are appealing to local Ukrainian doctors to issue them certificates alleging medical inability to continue military service, according to Ukraine’s Security Service",
@@ -124,15 +214,6 @@
         "timestamp": 1655971965,
         "sentiment": -2,
         "published": "June 23, 2022 4:12 AM"
-    },
-    {
-        "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
-        "domain": "nationalgeographic.com",
-        "category": "florida",
-        "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
-        "timestamp": 1655975611,
-        "sentiment": 2,
-        "published": "June 23, 2022 5:13 AM"
     },
     {
         "title": "Maradona: Eight doctors and nurses who cared for footballer face homicide charges | UK News",
