@@ -1,20 +1,11 @@
 [
     {
-        "title": "Maradona: Eight doctors and nurses who cared for footballer face homicide charges | UK News",
-        "domain": "news.sky.com",
-        "category": "sports",
-        "link": "https://news.sky.com/story/maradona-eight-doctors-and-nurses-who-cared-for-footballer-face-homicide-charges-12638816",
-        "timestamp": 1655957166,
-        "sentiment": -4,
-        "published": "June 23, 2022 12:06 AM"
-    },
-    {
         "title": "Russian soldiers in temporarily occupied Tokmak, Zaporizhia Oblast, are appealing to local Ukrainian doctors to issue them certificates alleging medical inability to continue military service, according to Ukraine’s Security Service",
         "domain": "understandingwar.org",
         "category": "ukraine",
         "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-22",
         "timestamp": 1655958786,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 23, 2022 12:33 AM"
     },
     {
@@ -32,8 +23,17 @@
         "category": "technology",
         "link": "https://www.niemanlab.org/2022/06/the-differences-seem-to-be-growing-a-look-at-the-rising-generation-of-news-consumers/",
         "timestamp": 1655965217,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 23, 2022 2:20 AM"
+    },
+    {
+        "title": "'Barbaric': Malta abortion refusal threatens woman's life, say doctors",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/06/23/barbaric-maltas-abortion-law-threatens-us-womans-life-say-doctors",
+        "timestamp": 1655966517,
+        "sentiment": -2,
+        "published": "June 23, 2022 2:41 AM"
     },
     {
         "title": "Samsung Australia fined $9.7 mln over false water-resistance claims",
@@ -41,8 +41,44 @@
         "category": "technology",
         "link": "https://www.reuters.com/technology/samsung-australia-fined-97-mln-over-false-water-resistance-claims-2022-06-23/",
         "timestamp": 1655970502,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 23, 2022 3:48 AM"
+    },
+    {
+        "title": "Proud Boys harass young children and their families at Pride Storytime at a Wilmington, NC library",
+        "domain": "portcitydaily.com",
+        "category": "news",
+        "link": "https://portcitydaily.com/local-news/2022/06/22/proud-boys-other-demonstrators-disrupt-childrens-pride-storytime/",
+        "timestamp": 1655971965,
+        "sentiment": -2,
+        "published": "June 23, 2022 4:12 AM"
+    },
+    {
+        "title": "Intel really just asked the EU for $624M to pay it back for overturned anti-AMD fine",
+        "domain": "pcgamer.com",
+        "category": "technology",
+        "link": "https://www.pcgamer.com/intel-really-just-asked-the-eu-for-dollar624m-to-pay-it-back-for-overturned-anti-amd-fine/",
+        "timestamp": 1655974979,
+        "sentiment": -4,
+        "published": "June 23, 2022 5:02 AM"
+    },
+    {
+        "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
+        "domain": "nationalgeographic.com",
+        "category": "florida",
+        "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
+        "timestamp": 1655975611,
+        "sentiment": 2,
+        "published": "June 23, 2022 5:13 AM"
+    },
+    {
+        "title": "Maradona: Eight doctors and nurses who cared for footballer face homicide charges | UK News",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/maradona-eight-doctors-and-nurses-who-cared-for-footballer-face-homicide-charges-12638816",
+        "timestamp": 1655957166,
+        "sentiment": -4,
+        "published": "June 23, 2022 12:06 AM"
     },
     {
         "title": "Western sanctions are 'weaponizing' world economy, China's Xi Jinping says ahead of BRICS summit",
@@ -339,15 +375,6 @@
         "link": "http://crweworld.com/fl/trendingnow/news/2425255/former-tallahassee-mayor-and-gubernatorial-candidate-and-associate-charged-with-conspiracy-wire-fraud-and-making-false-statements",
         "timestamp": 1655923644,
         "sentiment": -1,
-        "published": "June 22, 2022 2:47 PM"
-    },
-    {
-        "title": "Florida’s largest-ever python has been found. In its stomach was a deer, meaning the snakes are now competing with native species like endangered Florida panthers for prey. Here’s the untold story of its discovery.",
-        "domain": "nationalgeographic.com",
-        "category": "florida",
-        "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
-        "timestamp": 1655923670,
-        "sentiment": -6,
         "published": "June 22, 2022 2:47 PM"
     },
     {
