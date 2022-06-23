@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.nbcnews.com/business/business-news/tesla-racism-lawsuit-worker-rejects-15-million-payout-rcna34655",
         "timestamp": 1655892950,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 6:15 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/",
         "timestamp": 1655895710,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 7:01 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/politics/2022/06/22/new-yorker-profile-ron-desantis-includes-donald-trump-interview/7690731001/",
         "timestamp": 1655899158,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 7:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/22/Finland-prepared-for-decades-for-Russian-attack-defense-chief-says-Finns-ready",
         "timestamp": 1655900811,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 8:26 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/traces-of-polio-virus-found-in-london-sewage-as-health-officials-declare-national-incident-12638443",
         "timestamp": 1655901318,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 8:35 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortage-leaked-memo-warehouse",
         "timestamp": 1655902229,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 8:50 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-model-y-3-most-american-made-car-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1655904097,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 9:21 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/us-tech-companies-yank-job-offers-leaving-college-grads-scrambling-2022-06-22/",
         "timestamp": 1655908070,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 10:27 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "technology",
         "link": "https://deadline.com/2022/06/activision-blizzard-shareholders-vote-harassment-report-1235049953/",
         "timestamp": 1655909659,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 10:54 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/ukrainian-journalist-maks-levin-executed-in-cold-blood-by-russian-troops-investigation-says",
         "timestamp": 1655910672,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 11:11 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/breaking-news/andrew-gillum-desantis-2018-opponent-faces-indictment/",
         "timestamp": 1655911988,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 11:33 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/KyivIndependent/status/1539626553738412033",
         "timestamp": 1655912042,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 22, 2022 11:34 AM"
     },
     {
@@ -214,15 +214,6 @@
         "timestamp": 1655912062,
         "sentiment": 0,
         "published": "June 22, 2022 11:34 AM"
-    },
-    {
-        "title": "Cement carbon dioxide emissions quietly double in 20 years",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/climate-science-china-pollution-3d97642acbb07fca7540edca38448266?taid=62b33337785c930001d828d3&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-        "timestamp": 1655913161,
-        "sentiment": -2,
-        "published": "June 22, 2022 11:52 AM"
     },
     {
         "title": "Trump aides didn't know he was being recorded on Jan 6: Reports",
@@ -239,7 +230,7 @@
         "category": "miami",
         "link": "https://www.newsweek.com/former-desantis-opponent-andrew-gillum-could-face-decades-prison-1718145",
         "timestamp": 1655915016,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 12:23 PM"
     },
     {
@@ -252,21 +243,12 @@
         "published": "June 22, 2022 12:27 PM"
     },
     {
-        "title": "Filmore on Miami Beach is closing for a year!",
-        "domain": "miamiherald.com",
-        "category": "miami",
-        "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
-        "timestamp": 1655915296,
-        "sentiment": 0,
-        "published": "June 22, 2022 12:28 PM"
-    },
-    {
         "title": "Ukraine strikes Snake Island in 'significant' blow to Russia's Black Sea forces",
         "domain": "telegraph.co.uk",
         "category": "worldnews",
         "link": "https://www.telegraph.co.uk/world-news/2022/06/22/ukraine-hits-snake-island-significant-blow-russias-black-sea/",
         "timestamp": 1655915878,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 12:37 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/06/21/canada-single-use-plastic-ban-climate/",
         "timestamp": 1655918893,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 1:28 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/fire-broke-out-russias-novoshakhtinsk-oil-refinery-2022-06-22/",
         "timestamp": 1655919933,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 1:45 PM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "florida",
         "link": "https://www.nationalgeographic.com/magazine/article/largest-burmese-python-ever-found-in-florida",
         "timestamp": 1655923670,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 2:47 PM"
     },
     {
@@ -410,17 +392,8 @@
         "category": "florida",
         "link": "https://www.reuters.com/world/us/former-tallahassee-mayor-gubernatorial-candidate-gillum-indicted-fraud-2022-06-22/",
         "timestamp": 1655926150,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 22, 2022 3:29 PM"
-    },
-    {
-        "title": "Kaliningrad row: Lithuania accuses Russia of lying about rail 'blockade'",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-61901764",
-        "timestamp": 1655926673,
-        "sentiment": -2,
-        "published": "June 22, 2022 3:37 PM"
     },
     {
         "title": "Catalan parliament considers Israeli treatment of Palestinians ‘equivalent to apartheid’",
@@ -428,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.catalannews.com/politics/item/catalan-parliament-considers-israeli-treatment-of-palestinians-equivalent-to-apartheid",
         "timestamp": 1655927581,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 3:53 PM"
     },
     {
@@ -437,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-asia-61900260",
         "timestamp": 1655928381,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 22, 2022 4:06 PM"
     },
     {
@@ -464,7 +437,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/22/amazon-ceo-acknowledges-loss-of-black-leaders-in-internal-memo.html",
         "timestamp": 1655929927,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 4:32 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "technology",
         "link": "https://www.channelnewsasia.com/business/musk-says-teslas-new-car-factories-losing-billions-dollars-2764456",
         "timestamp": 1655930532,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "June 22, 2022 4:42 PM"
     },
     {
@@ -495,12 +468,21 @@
         "published": "June 22, 2022 4:49 PM"
     },
     {
+        "title": "Experts say there are mounting signs that the Kremlin is purging its top generals in Ukraine, the latest hint of deep dysfunction in Putin's army",
+        "domain": "businessinsider.com",
+        "category": "ukraine",
+        "link": "https://www.businessinsider.com/mounting-signs-the-kremlin-is-purging-top-generals-in-ukraine-experts-2022-6",
+        "timestamp": 1655931450,
+        "sentiment": 2,
+        "published": "June 22, 2022 4:57 PM"
+    },
+    {
         "title": "Historic Miami Beach murals, slated for demolition, saved in the nick of time",
         "domain": "m.youtube.com",
         "category": "miami",
         "link": "https://m.youtube.com/watch?v=YaGt3-MTGd4",
         "timestamp": 1655931819,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 5:03 PM"
     },
     {
@@ -509,17 +491,17 @@
         "category": "miami",
         "link": "https://www.local10.com/news/local/2022/06/22/feds-say-he-was-a-russian-spy-in-miami-now-scientist-gets-4-years-behind-bars/",
         "timestamp": 1655934436,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 22, 2022 5:47 PM"
     },
     {
-        "title": "Victory: Court rules that DMCA does not override First Amendment’s anonymous speech protections",
-        "domain": "eff.org",
-        "category": "technology",
-        "link": "https://www.eff.org/deeplinks/2022/06/victory-court-rules-dmca-does-not-override-first-amendments-anonymous-speech",
-        "timestamp": 1655935417,
-        "sentiment": 3,
-        "published": "June 22, 2022 6:03 PM"
+        "title": "Man claims pet alligator is being held hostage after she was taken during Michigan police chase",
+        "domain": "fox2detroit.com",
+        "category": "news",
+        "link": "https://www.fox2detroit.com/news/man-claims-pet-alligator-is-being-held-hostage-after-she-was-found-during-michigan-police-chase",
+        "timestamp": 1655934974,
+        "sentiment": 0,
+        "published": "June 22, 2022 5:56 PM"
     },
     {
         "title": "Uvalde school district places Chief Pete Arrendondo on administrative leave",
@@ -540,6 +522,15 @@
         "published": "June 22, 2022 7:10 PM"
     },
     {
+        "title": "China plans to have every single comment reviewed before it's published on social media",
+        "domain": "insider.com",
+        "category": "worldnews",
+        "link": "https://www.insider.com/china-social-media-censorship-review-every-single-comment-weibo-2022-6",
+        "timestamp": 1655939531,
+        "sentiment": -1,
+        "published": "June 22, 2022 7:12 PM"
+    },
+    {
         "title": "Feds want 25 years for Chauvin for violating Floyd's rights",
         "domain": "apnews.com",
         "category": "news",
@@ -547,6 +538,60 @@
         "timestamp": 1655939562,
         "sentiment": 0,
         "published": "June 22, 2022 7:12 PM"
+    },
+    {
+        "title": "Mexico dissolves U.S.-trained special unit fighting drug cartels after it was \"infiltrated\" by criminals, president says",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/mexico-ends-us-trained-special-unit-fighting-drug-cartels/",
+        "timestamp": 1655942762,
+        "sentiment": -1,
+        "published": "June 22, 2022 8:06 PM"
+    },
+    {
+        "title": "Mark Zuckerberg just hinted at an operating system for Meta and said he expects the metaverse to generate hundreds of billions in revenue by the end of the decade",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mark-zuckerberg-on-meta-os-revenue-expectations-for-metaverse-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1655944774,
+        "sentiment": -3,
+        "published": "June 22, 2022 8:39 PM"
+    },
+    {
+        "title": "Cement carbon dioxide emissions quietly double in 20 years",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/climate-science-china-pollution-3d97642acbb07fca7540edca38448266?taid=62b33337785c930001d828d3&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+        "timestamp": 1655913161,
+        "sentiment": -2,
+        "published": "June 22, 2022 11:52 AM"
+    },
+    {
+        "title": "Filmore on Miami Beach is closing for a year!",
+        "domain": "miamiherald.com",
+        "category": "miami",
+        "link": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article261870640.html",
+        "timestamp": 1655915296,
+        "sentiment": 0,
+        "published": "June 22, 2022 12:28 PM"
+    },
+    {
+        "title": "Kaliningrad row: Lithuania accuses Russia of lying about rail 'blockade'",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61901764",
+        "timestamp": 1655926673,
+        "sentiment": -2,
+        "published": "June 22, 2022 3:37 PM"
+    },
+    {
+        "title": "Victory: Court rules that DMCA does not override First Amendment’s anonymous speech protections",
+        "domain": "eff.org",
+        "category": "technology",
+        "link": "https://www.eff.org/deeplinks/2022/06/victory-court-rules-dmca-does-not-override-first-amendments-anonymous-speech",
+        "timestamp": 1655935417,
+        "sentiment": 3,
+        "published": "June 22, 2022 6:03 PM"
     },
     {
         "title": "Afghanistan quake kills 1,000 people, deadliest in decades",
@@ -817,15 +862,6 @@
         "timestamp": 1655878302,
         "sentiment": 0,
         "published": "June 22, 2022 2:11 AM"
-    },
-    {
-        "title": "China plans to have every single comment reviewed before it's published on social media",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/news/china-plans-every-single-reviewed-083048209.html",
-        "timestamp": 1655896314,
-        "sentiment": 0,
-        "published": "June 22, 2022 7:11 AM"
     },
     {
         "title": "Human pollution likely killed 47-foot sperm whale found dead off Florida Keys",
