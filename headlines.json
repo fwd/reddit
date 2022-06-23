@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/23/we-are-not-pollution-producers-dutch-farmers-block-roads-in-protest-against-emissions-targ",
         "timestamp": 1655975884,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 5:18 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-set-to-agree-biggest-overhaul-of-defences-since-the-cold-war-including-expansion-of-40-000-strong-response-force-12638817",
         "timestamp": 1655976869,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 5:34 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/22/unconscionable-house-committee-adds-37-billion-bidens-813-billion-military-budget",
         "timestamp": 1655981339,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 6:48 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "worldnews",
         "link": "https://au.news.yahoo.com/european-parliament-overwhelmingly-approves-eu-102231942.html?soc_src=community&soc_trk=tw",
         "timestamp": 1655981441,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 6:50 AM"
-    },
-    {
-        "title": "Pinellas County prepares to pass Tenants Bill of Rights as rental costs soar",
-        "domain": "tampabay.com",
-        "category": "florida",
-        "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
-        "timestamp": 1655981852,
-        "sentiment": 0,
-        "published": "June 23, 2022 6:57 AM"
     },
     {
         "title": "Lauren Boebert Faces Bipartisan Bid by GOP and Democrats to Oust Her",
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-faces-bipartisan-bid-gop-democrats-oust-her-1718325",
         "timestamp": 1655981946,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 6:59 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "sports",
         "link": "https://www.sportsnet.ca/juniors/article/federal-government-freezing-hockey-canada-funding/",
         "timestamp": 1655982640,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 23, 2022 7:10 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/us-swimmer-anita-alvarezs-coach-saves-her-after-she-fainted-in-the-water-during-world-championships-12638885",
         "timestamp": 1655986388,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -113,26 +104,8 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": -3,
-        "published": "June 23, 2022 8:13 AM"
-    },
-    {
-        "title": "Ivanka Trump Told Filmmaker Her Dad Should 'Continue to Fight' After 2020 Election, Countering House Testimony",
-        "domain": "people.com",
-        "category": "politics",
-        "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
-        "timestamp": 1655987522,
         "sentiment": 0,
-        "published": "June 23, 2022 8:32 AM"
-    },
-    {
-        "title": "Nike Decides to Leave Russia Entirely Following Ukraine Invasion",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion",
-        "timestamp": 1655988113,
-        "sentiment": -2,
-        "published": "June 23, 2022 8:41 AM"
+        "published": "June 23, 2022 8:13 AM"
     },
     {
         "title": "Valve’s Steam Deck makes a brilliant case against walled gardens - Rather than boxing you into its own store, Valve’s portable gaming system lets you install software from anywhere, and it’s glorious.",
@@ -158,7 +131,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
         "timestamp": 1655991127,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 9:32 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/WarMonitor3/status/1539965048625299458?t=7yo3LU12YiBf99OmQeXfmQ&s=19",
         "timestamp": 1655992512,
-        "sentiment": 3,
+        "sentiment": 4,
         "published": "June 23, 2022 9:55 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
         "timestamp": 1655995189,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 10:39 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
         "timestamp": 1655995389,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 10:43 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-23/supreme-court-shields-police-from-being-sued-for-ignoring-miranda-warnings",
         "timestamp": 1655995942,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 10:52 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "sports",
         "link": "https://twitter.com/englandcricket/status/1539982449958014976?s=20&t=w8_IRb4DcTuAVA4Rq2_pwQ",
         "timestamp": 1655997626,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 23, 2022 11:20 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/ukraine-warns-russia-massive-missile-strikes-after-u-s-rockets-arrive-1718493",
         "timestamp": 1655997841,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 11:24 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
         "timestamp": 1655999593,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 11:53 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "ukraine",
         "link": "https://podclips.com/c/garry-kasparov-on-putin-invading-ukraine-this-is-already-world-war-iii?ss=r&ss2=ukraine&d=2022-06-23&m=true",
         "timestamp": 1655999642,
-        "sentiment": 3,
+        "sentiment": 4,
         "published": "June 23, 2022 11:54 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
         "timestamp": 1656000021,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 12:00 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
         "timestamp": 1656000529,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 12:08 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/amagasaki-japan-lost-usb-data-460000-residents/",
         "timestamp": 1656002338,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 12:38 PM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "ukraine",
         "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
         "timestamp": 1656004516,
-        "sentiment": 3,
+        "sentiment": 4,
         "published": "June 23, 2022 1:15 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/23/russian-navy-ordered-to-lay-mines-at-ukraines-black-sea-ports-says-us",
         "timestamp": 1656005469,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 1:31 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "worldnews",
         "link": "https://nypost.com/2022/06/23/hector-cabrera-fuentes-sentenced-to-4-years-for-spying-for-russia/",
         "timestamp": 1656007466,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 2:04 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "politics",
         "link": "https://www.detroitnews.com/story/news/politics/2022/06/23/trump-electors-michigan-being-served-federal-subpoenas/7705888001/",
         "timestamp": 1656009258,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 2:34 PM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/ukraine-and-moldova-accepted-as-candidates-to-join-european-union-12639355",
         "timestamp": 1656009641,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 2:40 PM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
         "timestamp": 1656010320,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 2:52 PM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "politics",
         "link": "https://thehill.com/opinion/judiciary/3534784-states-cant-regulate-guns-but-they-can-ban-abortions-why/",
         "timestamp": 1656012513,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 3:28 PM"
     },
     {
@@ -410,7 +383,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/national-security/2022/06/23/united-states-havana-syndrome-payments/",
         "timestamp": 1656012561,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 3:29 PM"
     },
     {
@@ -419,7 +392,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/andrea-prudente-incomplete-miscarriage-malta-not-allowed-to-get-abortion/",
         "timestamp": 1656013198,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 3:39 PM"
     },
     {
@@ -464,7 +437,7 @@
         "category": "sports",
         "link": "https://twitter.com/FIBA3x3/status/1540020015763787776",
         "timestamp": 1656015394,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 23, 2022 4:16 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3534955-confidence-in-supreme-court-is-at-lowest-level-in-50-year-recorded-history-gallup-poll-finds/",
         "timestamp": 1656015630,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 4:20 PM"
     },
     {
@@ -482,7 +455,7 @@
         "category": "news",
         "link": "https://www.wect.com/2022/06/22/i-felt-very-unsafe-parents-speak-out-after-proud-boys-show-up-childrens-library-event/",
         "timestamp": 1656015684,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 4:21 PM"
     },
     {
@@ -509,8 +482,17 @@
         "category": "worldnews",
         "link": "http://boingboing.net/2022/06/23/the-temperature-in-iran-reached-126f-the-hottest-recorded-on-earth-this-year.html",
         "timestamp": 1656017708,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 23, 2022 4:55 PM"
+    },
+    {
+        "title": "Biden administration announces $450 million in additional military assistance for Ukraine",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/23/politics/biden-administration-ukraine-military-assistance/index.html",
+        "timestamp": 1656018791,
+        "sentiment": 2,
+        "published": "June 23, 2022 5:13 PM"
     },
     {
         "title": "Here are the members of Congress who asked Trump for a pardon after January 6",
@@ -518,8 +500,17 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/january-6-congress-pardon-trump-b2108186.html?amp",
         "timestamp": 1656019083,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 23, 2022 5:18 PM"
+    },
+    {
+        "title": "Mo Brooks Asked for Trump to Pardon All 147 Republicans Who Voted to Overturn Election",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/mo-brooks-matt-gaetz-pardons-overturn-election-1373475/",
+        "timestamp": 1656020522,
+        "sentiment": -1,
+        "published": "June 23, 2022 5:42 PM"
     },
     {
         "title": "Matt Gaetz, Mo Brooks and Louie Gohmert among lawmakers who asked for pardons from Trump",
@@ -529,6 +520,42 @@
         "timestamp": 1656020822,
         "sentiment": 0,
         "published": "June 23, 2022 5:47 PM"
+    },
+    {
+        "title": "Donald Trump attorney links Florida to efforts to use alternate electors to undermine Joe Biden victory",
+        "domain": "floridapolitics.com",
+        "category": "FLgovernment",
+        "link": "https://floridapolitics.com/archives/534560-donald-trump-attorney-links-florida-to-efforts-to-use-alternate-electors-to-undermine-joe-biden-victory/",
+        "timestamp": 1656025757,
+        "sentiment": 0,
+        "published": "June 23, 2022 7:09 PM"
+    },
+    {
+        "title": "Pinellas County prepares to pass Tenants Bill of Rights as rental costs soar",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/pinellas/2022/06/22/pinellas-county-prepares-to-pass-tenants-bill-of-rights-as-rental-costs-soar/",
+        "timestamp": 1655981852,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:57 AM"
+    },
+    {
+        "title": "Ivanka Trump Told Filmmaker Her Dad Should 'Continue to Fight' After 2020 Election, Countering House Testimony",
+        "domain": "people.com",
+        "category": "politics",
+        "link": "https://people.com/politics/ivanka-trump-told-filmmaker-her-dad-should-continue-to-fight-after-2020-election/",
+        "timestamp": 1655987522,
+        "sentiment": 0,
+        "published": "June 23, 2022 8:32 AM"
+    },
+    {
+        "title": "Nike Decides to Leave Russia Entirely Following Ukraine Invasion",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-23/nike-decides-to-leave-russia-entirely-following-ukraine-invasion",
+        "timestamp": 1655988113,
+        "sentiment": -2,
+        "published": "June 23, 2022 8:41 AM"
     },
     {
         "title": "New calls for violence circulate on right-wing social media",
