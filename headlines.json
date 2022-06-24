@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.abc.net.au/news/2022-06-24/bluey-shows-that-sport-is-more-than-game/101179078",
         "timestamp": 1656044144,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 24, 2022 12:15 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61919752?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_custom3=%40BBCWorld&at_custom4=FA470BA0-F367-11EC-A3A5-4BB44744363C&at_custom2=twitter&at_medium=custom7&at_campaign=64",
         "timestamp": 1656045830,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 24, 2022 12:43 AM"
     },
     {
@@ -27,6 +27,15 @@
         "published": "June 24, 2022 12:47 AM"
     },
     {
+        "title": "Estonian PM says Baltic states would be \"wiped off the map\" under current NATO plans",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1725924/estonian-pm-says-baltic-states-would-be-wiped-off-the-map-under-current-nato-plans",
+        "timestamp": 1656052954,
+        "sentiment": -2,
+        "published": "June 24, 2022 2:42 AM"
+    },
+    {
         "title": "Japanese city worker loses USB containing personal details of every resident.",
         "domain": "theguardian.com",
         "category": "technology",
@@ -36,13 +45,40 @@
         "published": "June 24, 2022 4:15 AM"
     },
     {
+        "title": "In Kherson blew up the car of one of the famous local collaborators about Dmytro Savluchenko. He died at the scene. Savluchenko has long been engaged in anti-Ukrainian activities in the city. He was a member of the youth organization \"New Rus\", and a pro-Russian activist",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
+        "timestamp": 1656058965,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:22 AM"
+    },
+    {
+        "title": "Man vs Bee review – Rowan Atkinson channels Bean and Baldrick in his new slapstick sitcom",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/24/man-vs-bee-review-rowan-atkinson-channels-bean-and-baldrick-in-his-new-slapstick-sitcom",
+        "timestamp": 1656060316,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:45 AM"
+    },
+    {
         "title": "Gay Football Fans Could Legally Be Punished By Death For Having Sex At Qatar World Cup",
         "domain": "unilad.co.uk",
         "category": "sports",
         "link": "https://www.unilad.co.uk/news/gay-football-fans-death-sex-qatar-world-cup-20220621",
         "timestamp": 1656060565,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 24, 2022 4:49 AM"
+    },
+    {
+        "title": "Reddit moderators do $3.4 million worth of unpaid work each year",
+        "domain": "newscientist.com",
+        "category": "technology",
+        "link": "https://www.newscientist.com/article/2325828-reddit-moderators-do-3-4-million-worth-of-unpaid-work-each-year/?utm_medium=social&utm_campaign=echobox&utm_source=Facebook&fbclid=IwAR0Qgd_IN7VS7H0uML95VsyG8DvH5FkH_n16Ez99MUMhFJBmes0mmh0rSEs&fs=e&s=cl#Echobox=1656061514-1",
+        "timestamp": 1656063828,
+        "sentiment": 0,
+        "published": "June 24, 2022 5:43 AM"
     },
     {
         "title": "Uganda to Fetch $12 Trillion from New-Found Gold Deposits - Kenyan Wallstreet",
