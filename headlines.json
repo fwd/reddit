@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61919752?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_custom3=%40BBCWorld&at_custom4=FA470BA0-F367-11EC-A3A5-4BB44744363C&at_custom2=twitter&at_medium=custom7&at_campaign=64",
         "timestamp": 1656045830,
-        "sentiment": 3,
+        "sentiment": -5,
         "published": "June 24, 2022 12:43 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
         "timestamp": 1656046043,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 24, 2022 12:47 AM"
     },
     {
@@ -36,12 +36,21 @@
         "published": "June 24, 2022 2:42 AM"
     },
     {
+        "title": "Arizona Republican Party chair Kelli Ward subpoenaed by DOJ in fake elector scheme",
+        "domain": "azcentral.com",
+        "category": "politics",
+        "link": "https://www.azcentral.com/story/news/politics/arizona/2022/06/23/arizona-gop-chair-kelli-ward-subpoenaed-fake-elector-scheme/7719149001/",
+        "timestamp": 1656056598,
+        "sentiment": -3,
+        "published": "June 24, 2022 3:43 AM"
+    },
+    {
         "title": "US Senate committee adopted a resolution recognizing #Russia as State Sponsor of Terrorism. If approved by the Secretary of State, #Russia would become the fifth country on the U.S. State Department list, which includes Cuba, the DPRK, Iran, and Syria.",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1540238560707616768",
         "timestamp": 1656057306,
-        "sentiment": 4,
+        "sentiment": -5,
         "published": "June 24, 2022 3:55 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/Arslon_Xudosi/status/1540238252468187136?s=20&t=znHZQM6YWLXGr5Ve3qMEvw",
         "timestamp": 1656057416,
-        "sentiment": 4,
+        "sentiment": -5,
         "published": "June 24, 2022 3:56 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/world/2022/jun/24/japanese-city-worker-loses-usb-containing-personal-details-of-every-resident",
         "timestamp": 1656058507,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 24, 2022 4:15 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
         "timestamp": 1656058965,
-        "sentiment": 4,
+        "sentiment": -5,
         "published": "June 24, 2022 4:22 AM"
     },
     {
@@ -99,6 +108,24 @@
         "published": "June 24, 2022 4:49 AM"
     },
     {
+        "title": "Trump feeling fallout of Capitol attack hearings as allies abandon ship",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/23/trump-january-6-hearings-allies-fallout",
+        "timestamp": 1656061514,
+        "sentiment": -3,
+        "published": "June 24, 2022 5:05 AM"
+    },
+    {
+        "title": "Car Bomb Kills Russia-Installed Official in Occupied Ukraine – Agencies - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "ukraine",
+        "link": "https://www.themoscowtimes.com/2022/06/24/car-bomb-kills-russia-installed-official-in-occupied-ukraine-agencies-a78094",
+        "timestamp": 1656061965,
+        "sentiment": -5,
+        "published": "June 24, 2022 5:12 AM"
+    },
+    {
         "title": "Car Bomb Kills Russia-Installed Official in Occupied Ukraine",
         "domain": "themoscowtimes.com",
         "category": "worldnews",
@@ -113,17 +140,8 @@
         "category": "technology",
         "link": "https://www.newscientist.com/article/2325828-reddit-moderators-do-3-4-million-worth-of-unpaid-work-each-year/?utm_medium=social&utm_campaign=echobox&utm_source=Facebook&fbclid=IwAR0Qgd_IN7VS7H0uML95VsyG8DvH5FkH_n16Ez99MUMhFJBmes0mmh0rSEs&fs=e&s=cl#Echobox=1656061514-1",
         "timestamp": 1656063828,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 24, 2022 5:43 AM"
-    },
-    {
-        "title": "Prosecutors seek 15 year term for ex-\"Cheer\" star Jerry Harris for obscenity, sex acts with male teens",
-        "domain": "cbsnews.com",
-        "category": "television",
-        "link": "https://www.cbsnews.com/news/prosecutors-15-year-sentence-ex-cheer-star-jerry-harris-obscenity-sex-acts-male-teens/",
-        "timestamp": 1656064760,
-        "sentiment": 0,
-        "published": "June 24, 2022 5:59 AM"
     },
     {
         "title": "Taliban begs US to unfreeze Afghan govt. assets to help respond to earthquake that killed 1,000 people",
@@ -133,6 +151,114 @@
         "timestamp": 1656065994,
         "sentiment": -2,
         "published": "June 24, 2022 6:19 AM"
+    },
+    {
+        "title": "‘Harley Quinn’ Season 3 Premieres July 2022 on HBO Max",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/harley-quinn-season-3-finally-arrives-on-hbo-max-this-july",
+        "timestamp": 1656067865,
+        "sentiment": 0,
+        "published": "June 24, 2022 6:51 AM"
+    },
+    {
+        "title": "'Smoking gun': Former AG Eric Holder said a note where Trump told DOJ 'just say the election was corrupt' is proof of a crime",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/eric-holder-calls-trump-note-doj-smoking-gun-proves-crime-2022-6",
+        "timestamp": 1656068197,
+        "sentiment": -3,
+        "published": "June 24, 2022 6:56 AM"
+    },
+    {
+        "title": "Japanese man loses USB stick with entire city's personal details after several hours of drinking, effecting half a million residents",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-61921222",
+        "timestamp": 1656068274,
+        "sentiment": -2,
+        "published": "June 24, 2022 6:57 AM"
+    },
+    {
+        "title": "'Corporate Greed Is Destroying This Economy': Sanders Pushes for Windfall Profits Tax",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/24/corporate-greed-destroying-economy-sanders-pushes-windfall-profits-tax",
+        "timestamp": 1656069241,
+        "sentiment": -3,
+        "published": "June 24, 2022 7:14 AM"
+    },
+    {
+        "title": "Matt Gaetz mysteriously sought Trump pardon way before Jan. 6—committee",
+        "domain": "newsweek.com",
+        "category": "florida",
+        "link": "https://www.newsweek.com/matt-gaetz-pardon-december-trump-jan6-1718777",
+        "timestamp": 1656069808,
+        "sentiment": 0,
+        "published": "June 24, 2022 7:23 AM"
+    },
+    {
+        "title": "NATO allies split over how to avoid 'World War III' with Russia",
+        "domain": "washingtonexaminer.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonexaminer.com/policy/defense-national-security/nato-allies-split-russia-war",
+        "timestamp": 1656070015,
+        "sentiment": -2,
+        "published": "June 24, 2022 7:26 AM"
+    },
+    {
+        "title": "UN: Israelis fired shots that killed journalist Shireen Abu Akleh | News",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2022/6/24/un-israelis-fired-shots-that-killed-journalist-abu-akleh",
+        "timestamp": 1656070535,
+        "sentiment": -5,
+        "published": "June 24, 2022 7:35 AM"
+    },
+    {
+        "title": "DeSantis said legislatures could give election to Trump, a month before Eastman",
+        "domain": "orlandosentinel.com",
+        "category": "florida",
+        "link": "https://www.orlandosentinel.com/politics/os-ne-eastman-desantis-alternate-electors-20220623-vogwlxv6vvgjhamtg4fqmqiama-story.html",
+        "timestamp": 1656070886,
+        "sentiment": 0,
+        "published": "June 24, 2022 7:41 AM"
+    },
+    {
+        "title": "Juul Is an Easy Target—Let's Ban More Tech Products That Harm Us",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjk4q5/juul-is-an-easy-targetlets-ban-more-tech-products-that-harm-us",
+        "timestamp": 1656071352,
+        "sentiment": -2,
+        "published": "June 24, 2022 7:49 AM"
+    },
+    {
+        "title": "A year on, Surfside remembers 98 victims of condo collapse",
+        "domain": "apnews.com",
+        "category": "florida",
+        "link": "https://apnews.com/article/551ad6062610d66ba204b556b93d69b9",
+        "timestamp": 1656071485,
+        "sentiment": 0,
+        "published": "June 24, 2022 7:51 AM"
+    },
+    {
+        "title": "Germany Fears Russia Will Shut Main Gas Pipeline Within Weeks",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/germany-russia-ukraine-gas-flows-nordstream-pipeline-shortages-2022-6",
+        "timestamp": 1656072717,
+        "sentiment": -2,
+        "published": "June 24, 2022 8:11 AM"
+    },
+    {
+        "title": "Prosecutors seek 15 year term for ex-\"Cheer\" star Jerry Harris for obscenity, sex acts with male teens",
+        "domain": "cbsnews.com",
+        "category": "television",
+        "link": "https://www.cbsnews.com/news/prosecutors-15-year-sentence-ex-cheer-star-jerry-harris-obscenity-sex-acts-male-teens/",
+        "timestamp": 1656064760,
+        "sentiment": 0,
+        "published": "June 24, 2022 5:59 AM"
     },
     {
         "title": "German Industry Ready to Sell 100 PzH 2000 SPGs to Ukraine At Once – Ukraine’s Ambassador in Germany | Defense Express",
@@ -151,60 +277,6 @@
         "timestamp": 1656067157,
         "sentiment": 0,
         "published": "June 24, 2022 6:39 AM"
-    },
-    {
-        "title": "‘Harley Quinn’ Season 3 Premieres July 2022 on HBO Max",
-        "domain": "ign.com",
-        "category": "television",
-        "link": "https://www.ign.com/articles/harley-quinn-season-3-finally-arrives-on-hbo-max-this-july",
-        "timestamp": 1656067865,
-        "sentiment": 0,
-        "published": "June 24, 2022 6:51 AM"
-    },
-    {
-        "title": "'Smoking gun': Former AG Eric Holder said a note where Trump told DOJ 'just say the election was corrupt' is proof of a crime",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/eric-holder-calls-trump-note-doj-smoking-gun-proves-crime-2022-6",
-        "timestamp": 1656068197,
-        "sentiment": 0,
-        "published": "June 24, 2022 6:56 AM"
-    },
-    {
-        "title": "Japanese man loses USB stick with entire city's personal details after several hours of drinking, effecting half a million residents",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-61921222",
-        "timestamp": 1656068274,
-        "sentiment": -2,
-        "published": "June 24, 2022 6:57 AM"
-    },
-    {
-        "title": "Matt Gaetz mysteriously sought Trump pardon way before Jan. 6—committee",
-        "domain": "newsweek.com",
-        "category": "florida",
-        "link": "https://www.newsweek.com/matt-gaetz-pardon-december-trump-jan6-1718777",
-        "timestamp": 1656069808,
-        "sentiment": -5,
-        "published": "June 24, 2022 7:23 AM"
-    },
-    {
-        "title": "NATO allies split over how to avoid 'World War III' with Russia",
-        "domain": "washingtonexaminer.com",
-        "category": "worldnews",
-        "link": "https://www.washingtonexaminer.com/policy/defense-national-security/nato-allies-split-russia-war",
-        "timestamp": 1656070015,
-        "sentiment": -2,
-        "published": "June 24, 2022 7:26 AM"
-    },
-    {
-        "title": "A year on, Surfside remembers 98 victims of condo collapse",
-        "domain": "apnews.com",
-        "category": "florida",
-        "link": "https://apnews.com/article/551ad6062610d66ba204b556b93d69b9",
-        "timestamp": 1656071485,
-        "sentiment": -5,
-        "published": "June 24, 2022 7:51 AM"
     },
     {
         "title": "Severodonetsk: Ukrainian forces told to retreat from key eastern city",
