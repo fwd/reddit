@@ -23,8 +23,17 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1725924/estonian-pm-says-baltic-states-would-be-wiped-off-the-map-under-current-nato-plans",
         "timestamp": 1656052954,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 24, 2022 2:42 AM"
+    },
+    {
+        "title": "Severodonetsk: Ukrainian forces told to retreat from key eastern city",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61920708",
+        "timestamp": 1656056589,
+        "sentiment": -1,
+        "published": "June 24, 2022 3:43 AM"
     },
     {
         "title": "Arizona Republican Party chair Kelli Ward subpoenaed by DOJ in fake elector scheme",
@@ -32,7 +41,7 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/news/politics/arizona/2022/06/23/arizona-gop-chair-kelli-ward-subpoenaed-fake-elector-scheme/7719149001/",
         "timestamp": 1656056598,
-        "sentiment": 5,
+        "sentiment": 2,
         "published": "June 24, 2022 3:43 AM"
     },
     {
@@ -41,17 +50,8 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1540238560707616768",
         "timestamp": 1656057306,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 3:55 AM"
-    },
-    {
-        "title": "First documented footage of M142 HIMARS being used in Ukraine.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/Arslon_Xudosi/status/1540238252468187136?s=20&t=znHZQM6YWLXGr5Ve3qMEvw",
-        "timestamp": 1656057416,
-        "sentiment": 0,
-        "published": "June 24, 2022 3:56 AM"
     },
     {
         "title": "Japanese city worker loses USB containing personal details of every resident.",
@@ -63,12 +63,21 @@
         "published": "June 24, 2022 4:15 AM"
     },
     {
+        "title": "All the European countries returning to ‘dirty’ coal as Russia threatens to turn off the gas tap",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas",
+        "timestamp": 1656058679,
+        "sentiment": -1,
+        "published": "June 24, 2022 4:17 AM"
+    },
+    {
         "title": "In Kherson blew up the car of one of the famous local collaborators about Dmytro Savluchenko. He died at the scene. Savluchenko has long been engaged in anti-Ukrainian activities in the city. He was a member of the youth organization \"New Rus\", and a pro-Russian activist",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
         "timestamp": 1656058965,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 4:22 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/23/trump-january-6-hearings-allies-fallout",
         "timestamp": 1656061514,
-        "sentiment": 5,
+        "sentiment": 2,
         "published": "June 24, 2022 5:05 AM"
     },
     {
@@ -104,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/24/car-bomb-kills-russia-installed-official-in-occupied-ukraine-agencies-a78094",
         "timestamp": 1656063753,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 24, 2022 5:42 AM"
     },
     {
@@ -117,21 +126,12 @@
         "published": "June 24, 2022 5:43 AM"
     },
     {
-        "title": "Zelensky thanks U.S. for additional HIMARS systems",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3514120-zelensky-thanks-us-for-additional-himars-systems.html",
-        "timestamp": 1656065371,
-        "sentiment": 0,
-        "published": "June 24, 2022 6:09 AM"
-    },
-    {
         "title": "Taliban begs US to unfreeze Afghan govt. assets to help respond to earthquake that killed 1,000 people",
         "domain": "businessinsider.com",
         "category": "worldnews",
         "link": "https://www.businessinsider.com/taliban-begs-biden-unfreeze-billions-assets-earthquake-response-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656065994,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 24, 2022 6:19 AM"
     },
     {
@@ -149,17 +149,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/eric-holder-calls-trump-note-doj-smoking-gun-proves-crime-2022-6",
         "timestamp": 1656068197,
-        "sentiment": 5,
+        "sentiment": 2,
         "published": "June 24, 2022 6:56 AM"
     },
     {
-        "title": "Japanese man loses USB stick with entire city's personal details after several hours of drinking, effecting half a million residents",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-asia-61921222",
-        "timestamp": 1656068274,
-        "sentiment": -2,
-        "published": "June 24, 2022 6:57 AM"
+        "title": "Top GOP pollster says Trump is 'paying a price' — even among Republicans — for what the January 6 hearings have revealed",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-pollster-says-january-6-hearings-are-damaging-trump-2022-6",
+        "timestamp": 1656068737,
+        "sentiment": 2,
+        "published": "June 24, 2022 7:05 AM"
     },
     {
         "title": "The January 6 Hearings Are Working",
@@ -167,7 +167,7 @@
         "category": "politics",
         "link": "https://newsletters.theatlantic.com/wait-what/62b46e0eda4cea0020ee298a/january-6-committee-hearings-liz-cheney/",
         "timestamp": 1656069043,
-        "sentiment": 5,
+        "sentiment": 2,
         "published": "June 24, 2022 7:10 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/24/corporate-greed-destroying-economy-sanders-pushes-windfall-profits-tax",
         "timestamp": 1656069241,
-        "sentiment": 5,
+        "sentiment": 2,
         "published": "June 24, 2022 7:14 AM"
     },
     {
@@ -185,17 +185,8 @@
         "category": "florida",
         "link": "https://www.newsweek.com/matt-gaetz-pardon-december-trump-jan6-1718777",
         "timestamp": 1656069808,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 24, 2022 7:23 AM"
-    },
-    {
-        "title": "NATO allies split over how to avoid 'World War III' with Russia",
-        "domain": "washingtonexaminer.com",
-        "category": "worldnews",
-        "link": "https://www.washingtonexaminer.com/policy/defense-national-security/nato-allies-split-russia-war",
-        "timestamp": 1656070015,
-        "sentiment": -2,
-        "published": "June 24, 2022 7:26 AM"
     },
     {
         "title": "UN: Israelis fired shots that killed journalist Shireen Abu Akleh | News",
@@ -203,7 +194,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/6/24/un-israelis-fired-shots-that-killed-journalist-abu-akleh",
         "timestamp": 1656070535,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 24, 2022 7:35 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "florida",
         "link": "https://www.orlandosentinel.com/politics/os-ne-eastman-desantis-alternate-electors-20220623-vogwlxv6vvgjhamtg4fqmqiama-story.html",
         "timestamp": 1656070886,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 24, 2022 7:41 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/germany-russia-ukraine-gas-flows-nordstream-pipeline-shortages-2022-6",
         "timestamp": 1656072717,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 24, 2022 8:11 AM"
     },
     {
@@ -239,17 +230,8 @@
         "category": "worldnews",
         "link": "https://www.forbes.com/sites/davidaxe/2022/06/24/russian-jets-are-flying-so-low-to-dodge-ukrainian-air-defenses-that-theyre-running-into-the-ground/?sh=34a5ed63a251",
         "timestamp": 1656073095,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 24, 2022 8:18 AM"
-    },
-    {
-        "title": "Russian lawmaker calls for airstrikes on US Embassy in Kyiv, revenge for giving Ukraine long-range artillery",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/us-sends-artillery-ukraine-russian-mp-calls-for-strikes-embassy-2022-6?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1656075110,
-        "sentiment": -2,
-        "published": "June 24, 2022 8:51 AM"
     },
     {
         "title": "Retail’s Going Metaverse Crazy, but 85 Percent of Gen Z ‘Indifferent’ About Brands’ Virtual Presence, Study Finds",
@@ -261,6 +243,24 @@
         "published": "June 24, 2022 8:59 AM"
     },
     {
+        "title": "A bill on training Ukrainian pilots and crews on US made combat aircraft has been submitted to the US Congress. Let's hope the bill passes and Ukraine receive some F-15 and F-16 alongside with some AIM-120 AMRAAM.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivPost/status/1539912288387272705",
+        "timestamp": 1656076309,
+        "sentiment": 4,
+        "published": "June 24, 2022 9:11 AM"
+    },
+    {
+        "title": "Russia’s republics, bled dry by Putin, begin to demand independence from his rule",
+        "domain": "inews.co.uk",
+        "category": "worldnews",
+        "link": "https://inews.co.uk/news/world/putin-using-ukraine-war-russia-independence-moscow-1698699",
+        "timestamp": 1656076428,
+        "sentiment": -1,
+        "published": "June 24, 2022 9:13 AM"
+    },
+    {
         "title": "Erotic Fan Fiction Puppet Show 'The Really Really Rude Puppet Show' Hosted by Mel Giedroyc Set for Channel 4",
         "domain": "variety.com",
         "category": "television",
@@ -270,13 +270,22 @@
         "published": "June 24, 2022 9:22 AM"
     },
     {
-        "title": "A Florida power company didn’t like a journalist’s commentary. Its consultants had him followed",
-        "domain": "theguardian.com",
-        "category": "florida",
-        "link": "https://www.theguardian.com/environment/2022/jun/24/a-florida-power-company-didnt-like-a-journalists-commentary-its-consultants-had-him-followed",
-        "timestamp": 1656078014,
+        "title": "Trump Canceled Interview for Unscheduled Putin Call, Filmmaker Says: The former president spoke to the Russian leader on Air Force One just before the 2020 election, documentarian Alex Holder told Politico",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-putin-call-alex-holder-interview-1373678/",
+        "timestamp": 1656077416,
+        "sentiment": 2,
+        "published": "June 24, 2022 9:30 AM"
+    },
+    {
+        "title": "Feds still looking for Alcatraz fugitives, 3 men in their 90s 'if they're still alive'",
+        "domain": "abc7news.com",
+        "category": "news",
+        "link": "https://abc7news.com/did-anyone-escape-alcatraz-prisoners-john-anglin-frank-morris/11985690/",
+        "timestamp": 1656077912,
         "sentiment": 0,
-        "published": "June 24, 2022 9:40 AM"
+        "published": "June 24, 2022 9:38 AM"
     },
     {
         "title": "Butterfly In The Sky Review: A Loving Tribute To The Power Of Reading Rainbow And The Magic Of LeVar Burton [Tribeca]",
@@ -302,8 +311,98 @@
         "category": "news",
         "link": "https://apnews.com/article/854f60302f21c2c35129e58cf8d8a7b0",
         "timestamp": 1656080046,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 24, 2022 10:14 AM"
+    },
+    {
+        "title": "Supreme Court Overturns Roe v. Wade",
+        "domain": "nytimes.com",
+        "category": "florida",
+        "link": "https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court?referringSource=articleShare",
+        "timestamp": 1656080834,
+        "sentiment": -3,
+        "published": "June 24, 2022 10:27 AM"
+    },
+    {
+        "title": "Val Demings is pro-women’s health care. Rubio worked to end Roe. Val has my vote this fall.",
+        "domain": "wftv.com",
+        "category": "florida",
+        "link": "https://www.wftv.com/news/local/rubio-demings-weigh-national-abortion-debate/RHGZFOPSIJEUPM6GZOZFILOBEQ/?outputType=amp",
+        "timestamp": 1656081746,
+        "sentiment": -3,
+        "published": "June 24, 2022 10:42 AM"
+    },
+    {
+        "title": "After telling Susan Collins that Roe was ‘settled law,’ Brett Kavanaugh calls it ‘wrongly decided’",
+        "domain": "bangordailynews.com",
+        "category": "politics",
+        "link": "https://www.bangordailynews.com/2022/06/24/politics/after-telling-susan-collins-that-roe-was-settled-law-brett-kavanaugh-calls-it-wrongly-decided/",
+        "timestamp": 1656082557,
+        "sentiment": 2,
+        "published": "June 24, 2022 10:55 AM"
+    },
+    {
+        "title": "March planned for 5pm tonight in Wynwood to protest the overturning of Roe v. Wade.",
+        "domain": "act.wewontgoback.com",
+        "category": "miami",
+        "link": "https://act.wewontgoback.com/event/bans-off-our-bodies-events/3727?source=flnow&akid=",
+        "timestamp": 1656083537,
+        "sentiment": 0,
+        "published": "June 24, 2022 11:12 AM"
+    },
+    {
+        "title": "First documented footage of M142 HIMARS being used in Ukraine.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Arslon_Xudosi/status/1540238252468187136?s=20&t=znHZQM6YWLXGr5Ve3qMEvw",
+        "timestamp": 1656057416,
+        "sentiment": 0,
+        "published": "June 24, 2022 3:56 AM"
+    },
+    {
+        "title": "Zelensky thanks U.S. for additional HIMARS systems",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3514120-zelensky-thanks-us-for-additional-himars-systems.html",
+        "timestamp": 1656065371,
+        "sentiment": 0,
+        "published": "June 24, 2022 6:09 AM"
+    },
+    {
+        "title": "Japanese man loses USB stick with entire city's personal details after several hours of drinking, effecting half a million residents",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-asia-61921222",
+        "timestamp": 1656068274,
+        "sentiment": -2,
+        "published": "June 24, 2022 6:57 AM"
+    },
+    {
+        "title": "NATO allies split over how to avoid 'World War III' with Russia",
+        "domain": "washingtonexaminer.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonexaminer.com/policy/defense-national-security/nato-allies-split-russia-war",
+        "timestamp": 1656070015,
+        "sentiment": -2,
+        "published": "June 24, 2022 7:26 AM"
+    },
+    {
+        "title": "Russian lawmaker calls for airstrikes on US Embassy in Kyiv, revenge for giving Ukraine long-range artillery",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/us-sends-artillery-ukraine-russian-mp-calls-for-strikes-embassy-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656075110,
+        "sentiment": -2,
+        "published": "June 24, 2022 8:51 AM"
+    },
+    {
+        "title": "A Florida power company didn’t like a journalist’s commentary. Its consultants had him followed",
+        "domain": "theguardian.com",
+        "category": "florida",
+        "link": "https://www.theguardian.com/environment/2022/jun/24/a-florida-power-company-didnt-like-a-journalists-commentary-its-consultants-had-him-followed",
+        "timestamp": 1656078014,
+        "sentiment": 0,
+        "published": "June 24, 2022 9:40 AM"
     },
     {
         "title": "The Supreme Court has overturned Roe v. Wade",
@@ -322,15 +421,6 @@
         "timestamp": 1656045830,
         "sentiment": -5,
         "published": "June 24, 2022 12:43 AM"
-    },
-    {
-        "title": "All the European countries returning to ‘dirty’ coal as Russia threatens to turn off the gas tap",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas",
-        "timestamp": 1656058679,
-        "sentiment": -2,
-        "published": "June 24, 2022 4:17 AM"
     },
     {
         "title": "Car Bomb Kills Russia-Installed Official in Occupied Ukraine – Agencies - The Moscow Times",
@@ -376,15 +466,6 @@
         "timestamp": 1656067157,
         "sentiment": 0,
         "published": "June 24, 2022 6:39 AM"
-    },
-    {
-        "title": "Severodonetsk: Ukrainian forces told to retreat from key eastern city",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-61920708",
-        "timestamp": 1656056589,
-        "sentiment": 0,
-        "published": "June 24, 2022 3:43 AM"
     },
     {
         "title": "Uganda to Fetch $12 Trillion from New-Found Gold Deposits - Kenyan Wallstreet",
