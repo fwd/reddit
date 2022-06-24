@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/world/2022/jun/24/japanese-city-worker-loses-usb-containing-personal-details-of-every-resident",
         "timestamp": 1656058507,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 4:15 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.newscientist.com/article/2325828-reddit-moderators-do-3-4-million-worth-of-unpaid-work-each-year/?utm_medium=social&utm_campaign=echobox&utm_source=Facebook&fbclid=IwAR0Qgd_IN7VS7H0uML95VsyG8DvH5FkH_n16Ez99MUMhFJBmes0mmh0rSEs&fs=e&s=cl#Echobox=1656061514-1",
         "timestamp": 1656063828,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 5:43 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "June 24, 2022 7:35 AM"
     },
     {
-        "title": "Juul Is an Easy Target—Let's Ban More Tech Products That Harm Us",
-        "domain": "vice.com",
-        "category": "technology",
-        "link": "https://www.vice.com/en/article/qjk4q5/juul-is-an-easy-targetlets-ban-more-tech-products-that-harm-us",
-        "timestamp": 1656071352,
-        "sentiment": 0,
-        "published": "June 24, 2022 7:49 AM"
-    },
-    {
         "title": "Retail’s Going Metaverse Crazy, but 85 Percent of Gen Z ‘Indifferent’ About Brands’ Virtual Presence, Study Finds",
         "domain": "ca.news.yahoo.com",
         "category": "technology",
         "link": "https://ca.news.yahoo.com/retail-going-metaverse-crazy-85-160117957.html",
         "timestamp": 1656075596,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 8:59 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/24/23181367/netflix-ad-supported-tier-confirmed-partners-growth-hardware-acquisition",
         "timestamp": 1656079164,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 9:59 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/24/roe-v-wade-overturned-how-tech-companies-and-users-can-protect-privacy.html",
         "timestamp": 1656082130,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 10:48 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/24/7354451/",
         "timestamp": 1656083451,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 24, 2022 11:10 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "technology",
         "link": "https://www.eff.org/deeplinks/2022/06/security-and-privacy-tips-people-seeking-abortion",
         "timestamp": 1656085095,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 11:38 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/3adn8j/no-big-deal-but-it-looks-like-facebook-is-giving-up-on-election-misinformation",
         "timestamp": 1656087889,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 12:24 PM"
     },
     {
@@ -331,15 +322,6 @@
         "timestamp": 1656089314,
         "sentiment": -2,
         "published": "June 24, 2022 12:48 PM"
-    },
-    {
-        "title": "Facebook and Anti-Abortion Clinics Are Collecting Highly Sensitive Info on Would-Be Patients",
-        "domain": "themarkup.org",
-        "category": "technology",
-        "link": "https://themarkup.org/pixel-hunt/2022/06/15/facebook-and-anti-abortion-clinics-are-collecting-highly-sensitive-info-on-would-be-patients",
-        "timestamp": 1656090189,
-        "sentiment": 0,
-        "published": "June 24, 2022 1:03 PM"
     },
     {
         "title": "AG Garland says states can't ban FDA-approved abortion pills",
@@ -392,7 +374,7 @@
         "category": "ukraine",
         "link": "https://www.tf1info.fr/international/en-direct-guerre-en-ukraine-russie-adhesion-ue-donbass-severodonetsk-vladimir-poutine-volodymyr-zelensky-union-europeenne-bruxelles-les-informations-de-ce-vendredi-24-juin-2224191.html",
         "timestamp": 1656093627,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 24, 2022 2:00 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/serhiyprytula/status/1540394135202430980?t=QkleolU3DFI3fWbAjHmEOg&s=19",
         "timestamp": 1656099590,
-        "sentiment": 9,
+        "sentiment": 0,
         "published": "June 24, 2022 3:39 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "technology",
         "link": "https://www.nbcnewyork.com/news/local/amazon-apple-among-companies-that-will-cover-abortion-travel-costs-for-employees/3748609/",
         "timestamp": 1656102271,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 24, 2022 4:24 PM"
     },
     {
@@ -567,6 +549,24 @@
         "published": "June 24, 2022 5:53 PM"
     },
     {
+        "title": "Period tracker app Flo developing 'anonymous mode' following Supreme Court ruling",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/flo-period-tracker-app-anonymous-mode-212157123.html",
+        "timestamp": 1656107895,
+        "sentiment": 4,
+        "published": "June 24, 2022 5:58 PM"
+    },
+    {
+        "title": "Here’s Google’s letter saying employees can relocate to states with abortion rights",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision",
+        "timestamp": 1656108456,
+        "sentiment": 4,
+        "published": "June 24, 2022 6:07 PM"
+    },
+    {
         "title": "Thousands travel to Florida for abortions. The Supreme Court’s ruling could change that.",
         "domain": "politico.com",
         "category": "FLgovernment",
@@ -574,6 +574,24 @@
         "timestamp": 1656109063,
         "sentiment": 0,
         "published": "June 24, 2022 6:17 PM"
+    },
+    {
+        "title": "Juul Is an Easy Target—Let's Ban More Tech Products That Harm Us",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjk4q5/juul-is-an-easy-targetlets-ban-more-tech-products-that-harm-us",
+        "timestamp": 1656071352,
+        "sentiment": 0,
+        "published": "June 24, 2022 7:49 AM"
+    },
+    {
+        "title": "Facebook and Anti-Abortion Clinics Are Collecting Highly Sensitive Info on Would-Be Patients",
+        "domain": "themarkup.org",
+        "category": "technology",
+        "link": "https://themarkup.org/pixel-hunt/2022/06/15/facebook-and-anti-abortion-clinics-are-collecting-highly-sensitive-info-on-would-be-patients",
+        "timestamp": 1656090189,
+        "sentiment": 0,
+        "published": "June 24, 2022 1:03 PM"
     },
     {
         "title": "Estonian PM says Baltic states would be \"wiped off the map\" under current NATO plans",
