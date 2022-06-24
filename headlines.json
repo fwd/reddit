@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1725924/estonian-pm-says-baltic-states-would-be-wiped-off-the-map-under-current-nato-plans",
         "timestamp": 1656052954,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 2:42 AM"
     },
     {
@@ -25,33 +25,6 @@
         "timestamp": 1656058507,
         "sentiment": 1,
         "published": "June 24, 2022 4:15 AM"
-    },
-    {
-        "title": "All the European countries returning to ‘dirty’ coal as Russia threatens to turn off the gas tap",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas",
-        "timestamp": 1656058679,
-        "sentiment": -2,
-        "published": "June 24, 2022 4:17 AM"
-    },
-    {
-        "title": "In Kherson blew up the car of one of the famous local collaborators about Dmytro Savluchenko. He died at the scene. Savluchenko has long been engaged in anti-Ukrainian activities in the city. He was a member of the youth organization \"New Rus\", and a pro-Russian activist",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
-        "timestamp": 1656058965,
-        "sentiment": -1,
-        "published": "June 24, 2022 4:22 AM"
-    },
-    {
-        "title": "Man vs Bee review – Rowan Atkinson channels Bean and Baldrick in his new slapstick sitcom",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/24/man-vs-bee-review-rowan-atkinson-channels-bean-and-baldrick-in-his-new-slapstick-sitcom",
-        "timestamp": 1656060316,
-        "sentiment": 0,
-        "published": "June 24, 2022 4:45 AM"
     },
     {
         "title": "Gay Football Fans Could Legally Be Punished By Death For Having Sex At Qatar World Cup",
@@ -68,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/24/car-bomb-kills-russia-installed-official-in-occupied-ukraine-agencies-a78094",
         "timestamp": 1656063753,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 5:42 AM"
     },
     {
@@ -86,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/taliban-begs-biden-unfreeze-billions-assets-earthquake-response-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656065994,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 6:19 AM"
     },
     {
@@ -104,17 +77,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/eric-holder-calls-trump-note-doj-smoking-gun-proves-crime-2022-6",
         "timestamp": 1656068197,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 6:56 AM"
-    },
-    {
-        "title": "'Corporate Greed Is Destroying This Economy': Sanders Pushes for Windfall Profits Tax",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/24/corporate-greed-destroying-economy-sanders-pushes-windfall-profits-tax",
-        "timestamp": 1656069241,
-        "sentiment": -4,
-        "published": "June 24, 2022 7:14 AM"
     },
     {
         "title": "Matt Gaetz mysteriously sought Trump pardon way before Jan. 6—committee",
@@ -149,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/24/asia/chinese-ships-japan-territory-senkaku-diaoyu-islands-intl-hnk/index.html",
         "timestamp": 1656071386,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 7:49 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivPost/status/1539912288387272705",
         "timestamp": 1656076309,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 24, 2022 9:11 AM"
     },
     {
@@ -176,8 +140,17 @@
         "category": "worldnews",
         "link": "https://inews.co.uk/news/world/putin-using-ukraine-war-russia-independence-moscow-1698699",
         "timestamp": 1656076428,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 9:13 AM"
+    },
+    {
+        "title": "Zelenskyy pledges to return captured Americans to families",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/zelenskyy-return-americans-captured-fighting-russia-war-rcna35139",
+        "timestamp": 1656076724,
+        "sentiment": 0,
+        "published": "June 24, 2022 9:18 AM"
     },
     {
         "title": "Erotic Fan Fiction Puppet Show 'The Really Really Rude Puppet Show' Hosted by Mel Giedroyc Set for Channel 4",
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/24/germany-scraps-nazi-era-abortion-law-that-criminalises-doctors",
         "timestamp": 1656079720,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 10:08 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/same-sex-marriage-contraception-roe-v-wade-decision-1373759/",
         "timestamp": 1656082497,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 10:54 AM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://www.bangordailynews.com/2022/06/24/politics/after-telling-susan-collins-that-roe-was-settled-law-brett-kavanaugh-calls-it-wrongly-decided/",
         "timestamp": 1656082557,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 10:55 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/24/abortion-black-congresswomen-ask-biden-declare-national-emergency/7712543001/",
         "timestamp": 1656082591,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 10:56 AM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/24/7354451/",
         "timestamp": 1656083451,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 24, 2022 11:10 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3535841-thomas-calls-for-overturning-precedents-on-contraceptives-lgbtq-rights/",
         "timestamp": 1656083646,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 11:14 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "politics",
         "link": "https://www.newyorker.com/magazine/2022/07/04/we-are-not-going-back-to-the-time-before-roe-we-are-going-somewhere-worse/amp",
         "timestamp": 1656083750,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 11:15 AM"
     },
     {
@@ -367,6 +340,15 @@
         "timestamp": 1656085095,
         "sentiment": 1,
         "published": "June 24, 2022 11:38 AM"
+    },
+    {
+        "title": "Florida abortion laws unchanged by SCOTUS decision, for now",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/politics/florida-abortion-laws-unchanged-by-scotus-decision-for-now/",
+        "timestamp": 1656085187,
+        "sentiment": 0,
+        "published": "June 24, 2022 11:39 AM"
     },
     {
         "title": "Ezra Miller accused of housing children on a farm with guns and marijuana",
@@ -392,7 +374,7 @@
         "category": "politics",
         "link": "https://variety.com/2022/film/news/paramount-disney-netflix-employee-abortion-travel-costs-1235302706/",
         "timestamp": 1656086939,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 12:08 PM"
     },
     {
@@ -401,7 +383,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/politics-news/pelosi-blasting-abortion-decision-suggests-kavanaugh-gorsuch-lied-hear-rcna35208?cid=sm_npd_nn_fb_ma&fbclid=IwAR39Fm0q54ahxyqvJr3iDgXliiAVzsgirqLZ1wkMQlUe4Dq80toWhbsL3HE&fs=e&s=cl",
         "timestamp": 1656087781,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 12:23 PM"
     },
     {
@@ -423,13 +405,22 @@
         "published": "June 24, 2022 12:36 PM"
     },
     {
-        "title": "Woman who had miscarriage in Malta taken to Spain to abort",
+        "title": "Auschwitz Museum says it's a target of Russian propaganda",
         "domain": "apnews.com",
         "category": "worldnews",
-        "link": "https://apnews.com/article/abortion-politics-health-malta-c57dc8b9f79199ec1a0c12940e59cce4",
-        "timestamp": 1656089428,
-        "sentiment": -2,
-        "published": "June 24, 2022 12:50 PM"
+        "link": "https://apnews.com/article/russia-ukraine-religion-poland-social-media-42071c41564e7816645009e5f9e8b0fa",
+        "timestamp": 1656089314,
+        "sentiment": 0,
+        "published": "June 24, 2022 12:48 PM"
+    },
+    {
+        "title": "Facebook and Anti-Abortion Clinics Are Collecting Highly Sensitive Info on Would-Be Patients",
+        "domain": "themarkup.org",
+        "category": "technology",
+        "link": "https://themarkup.org/pixel-hunt/2022/06/15/facebook-and-anti-abortion-clinics-are-collecting-highly-sensitive-info-on-would-be-patients",
+        "timestamp": 1656090189,
+        "sentiment": 1,
+        "published": "June 24, 2022 1:03 PM"
     },
     {
         "title": "AG Garland says states can't ban FDA-approved abortion pills",
@@ -437,7 +428,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/24/merrick-garland-fda-abortion-pills-state-bans",
         "timestamp": 1656090460,
-        "sentiment": -4,
+        "sentiment": -3,
         "published": "June 24, 2022 1:07 PM"
     },
     {
@@ -455,7 +446,7 @@
         "category": "worldnews",
         "link": "https://www.aa.com.tr/en/russia-ukraine-war/moscow-says-eu-nato-gathering-countries-for-war-with-russia/2621725",
         "timestamp": 1656092647,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 1:44 PM"
     },
     {
@@ -477,13 +468,94 @@
         "published": "June 24, 2022 2:06 PM"
     },
     {
+        "title": "House Democrats called ‘f***ing useless’ for singing ‘God Bless America’ by Capitol after Roe ruling",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-roe-v-wade-singing-b2108959.html",
+        "timestamp": 1656094804,
+        "sentiment": -3,
+        "published": "June 24, 2022 2:20 PM"
+    },
+    {
+        "title": "\"The Boys’ “Ruined” Superhero Movies for Series Star Tomer Capone",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-boys-star-tomer-capone-frenchie-1235171490/",
+        "timestamp": 1656095305,
+        "sentiment": 0,
+        "published": "June 24, 2022 2:28 PM"
+    },
+    {
         "title": "Russia is days away from a historic debt default as a $100 million payment comes due with Moscow cut off from the global financial system",
         "domain": "markets.businessinsider.com",
         "category": "worldnews",
         "link": "https://markets.businessinsider.com/news/bonds/russia-historic-default-debt-payment-war-sanctions-ukraine-finance-banks-2022-6",
         "timestamp": 1656095341,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 2:29 PM"
+    },
+    {
+        "title": "Arkansas attorney general certifies 'trigger law' banning abortions in state",
+        "domain": "arkansasonline.com",
+        "category": "news",
+        "link": "https://www.arkansasonline.com/news/2022/jun/24/watch-live-arkansas-attorney-general-governor-to-certify-trigger-law-discuss-rulings-effect-on-state/?utm_medium=email&utm_campaign=breaking2-6-24-22&utm_content=breaking2-6-24-22+CID_9a60723469d6a1ff7b9f2a9161c57ae5&utm_source=Email%20Marketing%20Platform&utm_term=READ%20MORE",
+        "timestamp": 1656099203,
+        "sentiment": 0,
+        "published": "June 24, 2022 3:33 PM"
+    },
+    {
+        "title": "Planned Parenthood advocates of Florida - Sign up to volunteer or get updates",
+        "domain": "weareplannedparenthoodaction.org",
+        "category": "miami",
+        "link": "https://www.weareplannedparenthoodaction.org/onlineactions/NeIRQKIqSU2pGKomLtDiPg2?sourceid=1006938",
+        "timestamp": 1656101203,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:06 PM"
+    },
+    {
+        "title": "All the European countries returning to ‘dirty’ coal as Russia threatens to turn off the gas tap",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas",
+        "timestamp": 1656058679,
+        "sentiment": -2,
+        "published": "June 24, 2022 4:17 AM"
+    },
+    {
+        "title": "In Kherson blew up the car of one of the famous local collaborators about Dmytro Savluchenko. He died at the scene. Savluchenko has long been engaged in anti-Ukrainian activities in the city. He was a member of the youth organization \"New Rus\", and a pro-Russian activist",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
+        "timestamp": 1656058965,
+        "sentiment": -1,
+        "published": "June 24, 2022 4:22 AM"
+    },
+    {
+        "title": "Man vs Bee review – Rowan Atkinson channels Bean and Baldrick in his new slapstick sitcom",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/24/man-vs-bee-review-rowan-atkinson-channels-bean-and-baldrick-in-his-new-slapstick-sitcom",
+        "timestamp": 1656060316,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:45 AM"
+    },
+    {
+        "title": "'Corporate Greed Is Destroying This Economy': Sanders Pushes for Windfall Profits Tax",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/24/corporate-greed-destroying-economy-sanders-pushes-windfall-profits-tax",
+        "timestamp": 1656069241,
+        "sentiment": -4,
+        "published": "June 24, 2022 7:14 AM"
+    },
+    {
+        "title": "Woman who had miscarriage in Malta taken to Spain to abort",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/abortion-politics-health-malta-c57dc8b9f79199ec1a0c12940e59cce4",
+        "timestamp": 1656089428,
+        "sentiment": -2,
+        "published": "June 24, 2022 12:50 PM"
     },
     {
         "title": "Germany Fears Russia Will Shut Main Gas Pipeline Within Weeks",
@@ -547,15 +619,6 @@
         "timestamp": 1656080435,
         "sentiment": 0,
         "published": "June 24, 2022 10:20 AM"
-    },
-    {
-        "title": "Florida abortion laws unchanged by SCOTUS decision, for now",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/politics/florida-abortion-laws-unchanged-by-scotus-decision-for-now/",
-        "timestamp": 1656085187,
-        "sentiment": 0,
-        "published": "June 24, 2022 11:39 AM"
     },
     {
         "title": "Putin Has a Problem: Ukraine Now Has Himars Rocket Artillery",
