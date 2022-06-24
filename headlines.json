@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.abc.net.au/news/2022-06-24/bluey-shows-that-sport-is-more-than-game/101179078",
         "timestamp": 1656044144,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 24, 2022 12:15 AM"
     },
     {
@@ -32,8 +32,26 @@
         "category": "worldnews",
         "link": "https://www.lrt.lt/en/news-in-english/19/1725924/estonian-pm-says-baltic-states-would-be-wiped-off-the-map-under-current-nato-plans",
         "timestamp": 1656052954,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 24, 2022 2:42 AM"
+    },
+    {
+        "title": "Severodonetsk: Ukrainian forces told to retreat from key eastern city",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61920708",
+        "timestamp": 1656056589,
+        "sentiment": 0,
+        "published": "June 24, 2022 3:43 AM"
+    },
+    {
+        "title": "First documented footage of M142 HIMARS being used in Ukraine.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Arslon_Xudosi/status/1540238252468187136?s=20&t=znHZQM6YWLXGr5Ve3qMEvw",
+        "timestamp": 1656057416,
+        "sentiment": -1,
+        "published": "June 24, 2022 3:56 AM"
     },
     {
         "title": "Japanese city worker loses USB containing personal details of every resident.",
@@ -45,12 +63,21 @@
         "published": "June 24, 2022 4:15 AM"
     },
     {
+        "title": "All the European countries returning to ‘dirty’ coal as Russia threatens to turn off the gas tap",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas",
+        "timestamp": 1656058679,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:17 AM"
+    },
+    {
         "title": "In Kherson blew up the car of one of the famous local collaborators about Dmytro Savluchenko. He died at the scene. Savluchenko has long been engaged in anti-Ukrainian activities in the city. He was a member of the youth organization \"New Rus\", and a pro-Russian activist",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1540237041274966016",
         "timestamp": 1656058965,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 24, 2022 4:22 AM"
     },
     {
@@ -68,8 +95,17 @@
         "category": "sports",
         "link": "https://www.unilad.co.uk/news/gay-football-fans-death-sex-qatar-world-cup-20220621",
         "timestamp": 1656060565,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 24, 2022 4:49 AM"
+    },
+    {
+        "title": "Car Bomb Kills Russia-Installed Official in Occupied Ukraine",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/06/24/car-bomb-kills-russia-installed-official-in-occupied-ukraine-agencies-a78094",
+        "timestamp": 1656063753,
+        "sentiment": 0,
+        "published": "June 24, 2022 5:42 AM"
     },
     {
         "title": "Reddit moderators do $3.4 million worth of unpaid work each year",
@@ -79,6 +115,33 @@
         "timestamp": 1656063828,
         "sentiment": 0,
         "published": "June 24, 2022 5:43 AM"
+    },
+    {
+        "title": "Prosecutors seek 15 year term for ex-\"Cheer\" star Jerry Harris for obscenity, sex acts with male teens",
+        "domain": "cbsnews.com",
+        "category": "television",
+        "link": "https://www.cbsnews.com/news/prosecutors-15-year-sentence-ex-cheer-star-jerry-harris-obscenity-sex-acts-male-teens/",
+        "timestamp": 1656064760,
+        "sentiment": 0,
+        "published": "June 24, 2022 5:59 AM"
+    },
+    {
+        "title": "Taliban begs US to unfreeze Afghan govt. assets to help respond to earthquake that killed 1,000 people",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/taliban-begs-biden-unfreeze-billions-assets-earthquake-response-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656065994,
+        "sentiment": 0,
+        "published": "June 24, 2022 6:19 AM"
+    },
+    {
+        "title": "‘Harley Quinn’ Season 3 Premieres July 2022 on HBO Max",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/harley-quinn-season-3-finally-arrives-on-hbo-max-this-july",
+        "timestamp": 1656067865,
+        "sentiment": 0,
+        "published": "June 24, 2022 6:51 AM"
     },
     {
         "title": "Uganda to Fetch $12 Trillion from New-Found Gold Deposits - Kenyan Wallstreet",
