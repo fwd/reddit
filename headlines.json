@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/juul-ban-vape-pen-fda-report-183333084.html",
         "timestamp": 1655979845,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 6:24 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1655984947,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 7:49 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/starbucks-union-workers-nlrb/#app",
         "timestamp": 1655985675,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 8:01 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://wgme.com/news/local/allstate-progressive-end-relationships-with-maine-company-after-juneteenth-sign-backlash-racism-harry-e-reed-insurance-agency-millinocket-enjoy-your-fried-chicken-and-collard-greens",
         "timestamp": 1655986419,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 8:13 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://www.fastcompany.com/90761990/steam-deck-install-apps-operating-systems",
         "timestamp": 1655988567,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 8:49 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "technology",
         "link": "https://www.scmp.com/tech/big-tech/article/3182767/china-bans-over-30-live-streaming-behaviours-demands-qualifications?module=lead_hero_story&pgtype=homepage",
         "timestamp": 1655989892,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 9:11 AM"
-    },
-    {
-        "title": "Fetterman leads Oz in Pennsylvania Senate race: poll",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
-        "timestamp": 1655991127,
-        "sentiment": 2,
-        "published": "June 23, 2022 9:32 AM"
     },
     {
         "title": "Gwendoline Christie would \"relish\" return as Brienne amid Jon Snow spinoff",
@@ -95,7 +86,7 @@
         "category": "television",
         "link": "https://www.newsweek.com/gwendoline-christie-game-thrones-brienne-tarth-jon-snow-kit-harington-spinoff-1718405?",
         "timestamp": 1655991216,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 9:33 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/mark-zuckerberg-prioritizes-metaverse-over-elections-integrity-report-2022-6",
         "timestamp": 1655992214,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 9:50 AM"
     },
     {
@@ -113,17 +104,8 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/national-international/supreme-court-rules-against-new-yorks-gun-permit-law/2864016/",
         "timestamp": 1655995189,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 10:39 AM"
-    },
-    {
-        "title": "U.S. Supreme Court protects police from 'Miranda' lawsuits",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
-        "timestamp": 1655995389,
-        "sentiment": 0,
-        "published": "June 23, 2022 10:43 AM"
     },
     {
         "title": "FDA bans Juul e-cigarettes as government pursues broader crackdown on nicotine products",
@@ -131,7 +113,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/amp/2022/06/23/fda-bans-juul-e-cigarettes-as-us-cracks-down-on-nicotine-products.html",
         "timestamp": 1655996721,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 11:05 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-3-body-cast-1235169990/",
         "timestamp": 1655997528,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 11:18 AM"
     },
     {
@@ -162,21 +144,12 @@
         "published": "June 23, 2022 11:24 AM"
     },
     {
-        "title": "Meta Made Millions From Ads That Spread Disinformation",
-        "domain": "wired.com",
-        "category": "technology",
-        "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
-        "timestamp": 1655999524,
-        "sentiment": 0,
-        "published": "June 23, 2022 11:52 AM"
-    },
-    {
         "title": "New dress code outlaws dresses and skirts in Texas school district",
         "domain": "cbs7.com",
         "category": "news",
         "link": "https://www.cbs7.com/2022/06/23/new-dress-code-outlaws-dresses-skirts-texas-school-district/",
         "timestamp": 1655999593,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 11:53 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/3534294-64-percent-in-new-poll-say-they-think-jan-6-attack-was-planned/",
         "timestamp": 1656000021,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 12:00 PM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8941812/ghislaine-maxwell-deserves-at-least-30-years-prison/",
         "timestamp": 1656000529,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 12:08 PM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "miami",
         "link": "https://www.wsj.com/articles/ken-griffin-moving-citadel-from-chicago-to-miami-following-crime-complaints-11655994600",
         "timestamp": 1656001381,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 23, 2022 12:23 PM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/netflix-layoffs-fired-jobs-lost-1235301553/",
         "timestamp": 1656001915,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 12:31 PM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "ukraine",
         "link": "https://lenta-ru.translate.goog/news/2022/06/23/ukraineusarocket/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
         "timestamp": 1656004516,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "June 23, 2022 1:15 PM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.detroitnews.com/story/news/politics/2022/06/23/trump-electors-michigan-being-served-federal-subpoenas/7705888001/",
         "timestamp": 1656009258,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 2:34 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
         "timestamp": 1656010320,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 2:52 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "technology",
         "link": "https://deadline.com/2022/06/netflix-axes-another-300-staff-taking-total-layoffs-to-around-450-1235050799/",
         "timestamp": 1656010479,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 2:54 PM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "television",
         "link": "https://disneyparks.disney.go.com/blog/2022/06/first-look-at-the-disneyplus-original-series-the-santa-clauses-for-halfway-to-the-holidays/",
         "timestamp": 1656012021,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 3:20 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://thehill.com/opinion/judiciary/3534784-states-cant-regulate-guns-but-they-can-ban-abortions-why/",
         "timestamp": 1656012513,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 3:28 PM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "technology",
         "link": "https://www.techdirt.com/2022/06/22/roku-netflix-start-behaving-more-like-the-annoying-cable-giants-they-once-disrupted/",
         "timestamp": 1656013447,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 3:44 PM"
     },
     {
@@ -324,21 +297,12 @@
         "published": "June 23, 2022 4:00 PM"
     },
     {
-        "title": "Florida leads US for bicycle fatalities, data shows",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/florida/florida-leads-us-for-bicycle-fatalities-data-shows/",
-        "timestamp": 1656014493,
-        "sentiment": -3,
-        "published": "June 23, 2022 4:01 PM"
-    },
-    {
         "title": "HBO Max Is Doing Well — So Of Course Changes Are Coming",
         "domain": "vulture.com",
         "category": "television",
         "link": "https://www.vulture.com/2022/06/hbo-max-changes-warner-discovery-zaslav.html",
         "timestamp": 1656014673,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 4:04 PM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3534955-confidence-in-supreme-court-is-at-lowest-level-in-50-year-recorded-history-gallup-poll-finds/",
         "timestamp": 1656015630,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 4:20 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "news",
         "link": "https://www.wect.com/2022/06/22/i-felt-very-unsafe-parents-speak-out-after-proud-boys-show-up-childrens-library-event/",
         "timestamp": 1656015684,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 4:21 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "technology",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-ted-sarandos-talks-strategy-at-cannes-lions-1235170626/",
         "timestamp": 1656016642,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 4:37 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "television",
         "link": "https://georgerrmartin.com/notablog/2022/06/23/snow-and-other-stuff",
         "timestamp": 1656016767,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 23, 2022 4:39 PM"
     },
     {
@@ -396,21 +360,12 @@
         "published": "June 23, 2022 4:55 PM"
     },
     {
-        "title": "Biden administration announces $450 million in additional military assistance for Ukraine",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/06/23/politics/biden-administration-ukraine-military-assistance/index.html",
-        "timestamp": 1656018791,
-        "sentiment": -1,
-        "published": "June 23, 2022 5:13 PM"
-    },
-    {
         "title": "Here are the members of Congress who asked Trump for a pardon after January 6",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/january-6-congress-pardon-trump-b2108186.html?amp",
         "timestamp": 1656019083,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 5:18 PM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/mo-brooks-matt-gaetz-pardons-overturn-election-1373475/",
         "timestamp": 1656020522,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 5:42 PM"
     },
     {
@@ -428,7 +383,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/23/tech/spacex-dish-fcc-spectrum-scn/index.html",
         "timestamp": 1656020526,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "June 23, 2022 5:42 PM"
     },
     {
@@ -437,7 +392,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/06/23/there-more-enough-evidence-indict-trump",
         "timestamp": 1656020714,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 5:45 PM"
     },
     {
@@ -446,17 +401,8 @@
         "category": "florida",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/january-6-congress-pardon-trump-b2108186.html",
         "timestamp": 1656020822,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 23, 2022 5:47 PM"
-    },
-    {
-        "title": "HBO Max and A24 to Develop Megan Stalter Comedy Pilot 'Church Girls'",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/megan-stalter-pilot-hbo-max-a24-church-girls-1235301624/",
-        "timestamp": 1656023142,
-        "sentiment": 1,
-        "published": "June 23, 2022 6:25 PM"
     },
     {
         "title": "Lake Mead is nearing dead pool status. The engineer for whom it was named would be 'horrified.'",
@@ -464,8 +410,26 @@
         "category": "news",
         "link": "https://www.nbcnews.com/science/environment/lake-mead-nearing-dead-pool-status-engineer-was-named-horrified-rcna35030",
         "timestamp": 1656023238,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 6:27 PM"
+    },
+    {
+        "title": "Fox News’s Bret Baier: ‘Patriots’ testifying before Jan. 6 panel ‘stood up’ to Trump’s bid to overturn election",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/blogs/pundits-blog/media/3535023-fox-newss-bret-baier-patriots-testifying-before-jan-6-panel-stood-up-to-trumps-bid-to-overturn-election/",
+        "timestamp": 1656024100,
+        "sentiment": 0,
+        "published": "June 23, 2022 6:41 PM"
+    },
+    {
+        "title": "Drag queen story hour at ZooMontana draws hundreds of kids, supporters",
+        "domain": "mtpr.org",
+        "category": "news",
+        "link": "https://www.mtpr.org/montana-news/2022-06-23/drag-queen-story-hour-at-zoomontana-draws-hundreds-of-kids-supporters",
+        "timestamp": 1656025132,
+        "sentiment": -2,
+        "published": "June 23, 2022 6:58 PM"
     },
     {
         "title": "GOP Sen. Ron Johnson says the fake electors he tried to give Pence on January 6 came from GOP Rep. Mike Kelly",
@@ -473,7 +437,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republican-senator-ron-johnson-pence-fake-electors-mike-kelly-2022-6",
         "timestamp": 1656025133,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 6:58 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/matt-gaetz-trump-pardon-january-6-committee-december-2022-6",
         "timestamp": 1656025524,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 23, 2022 7:05 PM"
     },
     {
@@ -504,6 +468,15 @@
         "published": "June 23, 2022 7:44 PM"
     },
     {
+        "title": "Trudeau announces $250M in food aid, blames Russia for skyrocketing prices",
+        "domain": "ctvnews.ca",
+        "category": "worldnews",
+        "link": "https://www.ctvnews.ca/canada/trudeau-announces-250m-in-food-aid-blames-russia-for-skyrocketing-prices-1.5959458",
+        "timestamp": 1656030732,
+        "sentiment": -1,
+        "published": "June 23, 2022 8:32 PM"
+    },
+    {
         "title": "Judge bans 11-year-old rape victim from having abortion",
         "domain": "newsweek.com",
         "category": "worldnews",
@@ -518,8 +491,26 @@
         "category": "news",
         "link": "https://www.savannahnow.com/story/news/2022/06/23/fbi-raids-house-prayer-churches-hinesville-augusta-savannah-ga/7718662001/",
         "timestamp": 1656033465,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 23, 2022 9:17 PM"
+    },
+    {
+        "title": "New Airline Offers $149 Flights from Fort Lauderdale to Norway",
+        "domain": "coralspringstalk.com",
+        "category": "florida",
+        "link": "https://coralspringstalk.com/airline-offers-flights-fort-lauderdale-40782",
+        "timestamp": 1656035110,
+        "sentiment": 0,
+        "published": "June 23, 2022 9:45 PM"
+    },
+    {
+        "title": "Taiwan top memory chipmaker sees demand slowdown spreading",
+        "domain": "asia.nikkei.com",
+        "category": "technology",
+        "link": "https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-top-memory-chipmaker-sees-demand-slowdown-spreading",
+        "timestamp": 1656035793,
+        "sentiment": 6,
+        "published": "June 23, 2022 9:56 PM"
     },
     {
         "title": "I love it when people say companies aren’t buying up all the homes in FL and other markets, then I see this:",
@@ -527,8 +518,62 @@
         "category": "miami",
         "link": "https://www.yahoo.com/finance/news/real-estate-fund-backed-goldman-093601700.html",
         "timestamp": 1656038117,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 23, 2022 10:35 PM"
+    },
+    {
+        "title": "Fetterman leads Oz in Pennsylvania Senate race: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/3533557-fetterman-leads-oz-in-pennsylvania-senate-race-poll/",
+        "timestamp": 1655991127,
+        "sentiment": 2,
+        "published": "June 23, 2022 9:32 AM"
+    },
+    {
+        "title": "U.S. Supreme Court protects police from 'Miranda' lawsuits",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-supreme-court-protects-police-miranda-lawsuits-2022-06-23/",
+        "timestamp": 1655995389,
+        "sentiment": 0,
+        "published": "June 23, 2022 10:43 AM"
+    },
+    {
+        "title": "Meta Made Millions From Ads That Spread Disinformation",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/",
+        "timestamp": 1655999524,
+        "sentiment": 0,
+        "published": "June 23, 2022 11:52 AM"
+    },
+    {
+        "title": "Florida leads US for bicycle fatalities, data shows",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/florida-leads-us-for-bicycle-fatalities-data-shows/",
+        "timestamp": 1656014493,
+        "sentiment": -3,
+        "published": "June 23, 2022 4:01 PM"
+    },
+    {
+        "title": "Biden administration announces $450 million in additional military assistance for Ukraine",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/23/politics/biden-administration-ukraine-military-assistance/index.html",
+        "timestamp": 1656018791,
+        "sentiment": -1,
+        "published": "June 23, 2022 5:13 PM"
+    },
+    {
+        "title": "HBO Max and A24 to Develop Megan Stalter Comedy Pilot 'Church Girls'",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/megan-stalter-pilot-hbo-max-a24-church-girls-1235301624/",
+        "timestamp": 1656023142,
+        "sentiment": 1,
+        "published": "June 23, 2022 6:25 PM"
     },
     {
         "title": "'Unconscionable': House Committee Adds $37 Billion to Biden's $813 Billion Military Budget | The proposed increase costs 10 times more than preserving the free school lunch program that Congress is allowing to expire \"because it's 'too expensive,'\" Public Citizen noted.",
