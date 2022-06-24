@@ -5,8 +5,17 @@
         "category": "sports",
         "link": "https://www.abc.net.au/news/2022-06-24/bluey-shows-that-sport-is-more-than-game/101179078",
         "timestamp": 1656044144,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "June 24, 2022 12:15 AM"
+    },
+    {
+        "title": "US Senate passes first gun control bill in decades",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-61919752?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom1=%5Bpost+type%5D&at_custom3=%40BBCWorld&at_custom4=FA470BA0-F367-11EC-A3A5-4BB44744363C&at_custom2=twitter&at_medium=custom7&at_campaign=64",
+        "timestamp": 1656045830,
+        "sentiment": -1,
+        "published": "June 24, 2022 12:43 AM"
     },
     {
         "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
@@ -16,6 +25,24 @@
         "timestamp": 1656046043,
         "sentiment": 0,
         "published": "June 24, 2022 12:47 AM"
+    },
+    {
+        "title": "Japanese city worker loses USB containing personal details of every resident.",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/world/2022/jun/24/japanese-city-worker-loses-usb-containing-personal-details-of-every-resident",
+        "timestamp": 1656058507,
+        "sentiment": 0,
+        "published": "June 24, 2022 4:15 AM"
+    },
+    {
+        "title": "Gay Football Fans Could Legally Be Punished By Death For Having Sex At Qatar World Cup",
+        "domain": "unilad.co.uk",
+        "category": "sports",
+        "link": "https://www.unilad.co.uk/news/gay-football-fans-death-sex-qatar-world-cup-20220621",
+        "timestamp": 1656060565,
+        "sentiment": -3,
+        "published": "June 24, 2022 4:49 AM"
     },
     {
         "title": "Uganda to Fetch $12 Trillion from New-Found Gold Deposits - Kenyan Wallstreet",
