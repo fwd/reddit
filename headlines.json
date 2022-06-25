@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/worker-japan-loses-usb-entire-city-amagasaki-data-night-colleagues-rcna35227?cid=sm_npd_nn_tw_ma",
         "timestamp": 1656137062,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 25, 2022 2:04 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "sports",
         "link": "https://www.cyclingweekly.com/racing/women-pro-cyclists-take-a-knee-during-nation-anthem-at-us-pro-nationals-to-protest-abortion-ruling",
         "timestamp": 1656138721,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "June 25, 2022 2:32 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://p.dw.com/p/4DDxp",
         "timestamp": 1656143787,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 25, 2022 3:56 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
         "timestamp": 1656146005,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 4:33 AM"
     },
     {
@@ -59,8 +59,35 @@
         "category": "technology",
         "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
         "timestamp": 1656146824,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 25, 2022 4:47 AM"
+    },
+    {
+        "title": "Internet Explorer shutdown to cause Japan problems ‘for months’",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://ft.com/content/a71ace1b-37b8-49f4-b8a5-baddbdb67b8b",
+        "timestamp": 1656151240,
+        "sentiment": 2,
+        "published": "June 25, 2022 6:00 AM"
+    },
+    {
+        "title": "Taika Waititi returning to direct season 3 of The Mandalorian",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/907050/our-flag-means-death-turned-editing-thor-love-and-thunder-into-a-nightmare-for-taika-waititi/",
+        "timestamp": 1656152308,
+        "sentiment": 4,
+        "published": "June 25, 2022 6:18 AM"
+    },
+    {
+        "title": "Fiji sing the 'Noqu Masu' hymn",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/NRLonNine/status/1540637916573175808?t=usLiDpn4gyy8ozjLb5u2gQ&s=19",
+        "timestamp": 1656156060,
+        "sentiment": 4,
+        "published": "June 25, 2022 7:21 AM"
     },
     {
         "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
