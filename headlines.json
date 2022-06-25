@@ -1,12 +1,21 @@
 [
     {
-        "title": "Russia’s republics, bled dry by Putin, begin to demand independence from his rule",
-        "domain": "inews.co.uk",
-        "category": "news",
-        "link": "https://inews.co.uk/news/world/putin-using-ukraine-war-russia-independence-moscow-1698699",
-        "timestamp": 1656133972,
-        "sentiment": -3,
-        "published": "June 25, 2022 1:12 AM"
+        "title": "Ukraine’s aviation hits invaders in south: howitzer, two tanks, 46 Russians eliminated",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3514686-ukraines-aviation-hits-invaders-in-south-howitzer-two-tanks-46-russians-eliminated.html",
+        "timestamp": 1656132926,
+        "sentiment": 7,
+        "published": "June 25, 2022 12:55 AM"
+    },
+    {
+        "title": "Japanese worker loses USB with entire city’s data after night out with colleagues",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/worker-japan-loses-usb-entire-city-amagasaki-data-night-colleagues-rcna35227?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1656137062,
+        "sentiment": 0,
+        "published": "June 25, 2022 2:04 AM"
     },
     {
         "title": "Women pro cyclists take a knee during national anthem at US Pro Nationals to protest abortion ruling",
@@ -14,7 +23,7 @@
         "category": "sports",
         "link": "https://www.cyclingweekly.com/racing/women-pro-cyclists-take-a-knee-during-nation-anthem-at-us-pro-nationals-to-protest-abortion-ruling",
         "timestamp": 1656138721,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "June 25, 2022 2:32 AM"
     },
     {
@@ -34,6 +43,42 @@
         "timestamp": 1656142382,
         "sentiment": 0,
         "published": "June 25, 2022 3:33 AM"
+    },
+    {
+        "title": "Berlin mayor holds 15-minute video call with deepfake of Kyiv mayor Vitali Klitschko",
+        "domain": "p.dw.com",
+        "category": "technology",
+        "link": "https://p.dw.com/p/4DDxp",
+        "timestamp": 1656143787,
+        "sentiment": 1,
+        "published": "June 25, 2022 3:56 AM"
+    },
+    {
+        "title": "Iranian man shoots 2 dead, wounds 14 at a gay bar in Oslo Norway the day before pride parade.",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/norwegian-police-say-2-killed-in-mass-shooting-in-oslo/2022/06/24/175d416a-f434-11ec-ac16-8fbf7194cd78_story.html",
+        "timestamp": 1656144173,
+        "sentiment": 0,
+        "published": "June 25, 2022 4:02 AM"
+    },
+    {
+        "title": "Westworld: how the most glorious show on TV became the biggest mess",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
+        "timestamp": 1656146005,
+        "sentiment": 0,
+        "published": "June 25, 2022 4:33 AM"
+    },
+    {
+        "title": "Russia’s republics, bled dry by Putin, begin to demand independence from his rule",
+        "domain": "inews.co.uk",
+        "category": "news",
+        "link": "https://inews.co.uk/news/world/putin-using-ukraine-war-russia-independence-moscow-1698699",
+        "timestamp": 1656133972,
+        "sentiment": -3,
+        "published": "June 25, 2022 1:12 AM"
     },
     {
         "title": "'Encapsulates the feeling of a generation': Bluey nails sporting fandom and farewells Ray Warren in style",
