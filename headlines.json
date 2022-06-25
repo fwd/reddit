@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/24/car-bomb-kills-russia-installed-official-in-occupied-ukraine-agencies-a78094",
         "timestamp": 1656063753,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 5:42 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/taliban-begs-biden-unfreeze-billions-assets-earthquake-response-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656065994,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 6:19 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://inews.co.uk/news/world/putin-using-ukraine-war-russia-independence-moscow-1698699",
         "timestamp": 1656076428,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 9:13 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/24/germany-scraps-nazi-era-abortion-law-that-criminalises-doctors",
         "timestamp": 1656079720,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 10:08 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "news",
         "link": "https://apnews.com/article/854f60302f21c2c35129e58cf8d8a7b0",
         "timestamp": 1656080046,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 10:14 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "politics",
         "link": "https://www.bangordailynews.com/2022/06/24/politics/after-telling-susan-collins-that-roe-was-settled-law-brett-kavanaugh-calls-it-wrongly-decided/",
         "timestamp": 1656082557,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 10:55 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3535841-thomas-calls-for-overturning-precedents-on-contraceptives-lgbtq-rights/",
         "timestamp": 1656083646,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 11:14 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/24/us-transport-workers-rising-violence-job-unions",
         "timestamp": 1656084950,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 11:35 AM"
     },
     {
@@ -230,17 +230,8 @@
         "category": "politics",
         "link": "https://variety.com/2022/film/news/paramount-disney-netflix-employee-abortion-travel-costs-1235302706/",
         "timestamp": 1656086939,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 12:08 PM"
-    },
-    {
-        "title": "Pelosi, blasting abortion decision, suggests Kavanaugh and Gorsuch lied at hearings",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/politics-news/pelosi-blasting-abortion-decision-suggests-kavanaugh-gorsuch-lied-hear-rcna35208?cid=sm_npd_nn_fb_ma&fbclid=IwAR39Fm0q54ahxyqvJr3iDgXliiAVzsgirqLZ1wkMQlUe4Dq80toWhbsL3HE&fs=e&s=cl",
-        "timestamp": 1656087781,
-        "sentiment": -2,
-        "published": "June 24, 2022 12:23 PM"
     },
     {
         "title": "No Big Deal, but It Looks Like Facebook Is Giving Up On Election Misinformation",
@@ -257,7 +248,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/24/merrick-garland-fda-abortion-pills-state-bans",
         "timestamp": 1656090460,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 1:07 PM"
     },
     {
@@ -266,8 +257,17 @@
         "category": "news",
         "link": "https://www.kansascity.com/news/politics-government/article262796208.html",
         "timestamp": 1656091938,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 1:32 PM"
+    },
+    {
+        "title": "The Supreme Court Is Not Supposed to Have This Much Power",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/ideas/archive/2022/06/supreme-court-power-overrule-congress/661212/",
+        "timestamp": 1656092068,
+        "sentiment": 4,
+        "published": "June 24, 2022 1:34 PM"
     },
     {
         "title": "Moscow says EU, NATO gathering countries 'for war' with Russia",
@@ -275,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.aa.com.tr/en/russia-ukraine-war/moscow-says-eu-nato-gathering-countries-for-war-with-russia/2621725",
         "timestamp": 1656092647,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 1:44 PM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/24/plummets-to-all-time-low-poll-shows-americans-have-no-confidence-in-conservatives/",
         "timestamp": 1656093000,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 1:50 PM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "ukraine",
         "link": "https://www.tf1info.fr/international/en-direct-guerre-en-ukraine-russie-adhesion-ue-donbass-severodonetsk-vladimir-poutine-volodymyr-zelensky-union-europeenne-bruxelles-les-informations-de-ce-vendredi-24-juin-2224191.html",
         "timestamp": 1656093627,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 24, 2022 2:00 PM"
     },
     {
@@ -311,7 +311,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/disney-says-it-will-offer-travel-benefits-employees-seeking-reproductive-care-2022-06-24/",
         "timestamp": 1656094017,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 2:06 PM"
     },
     {
@@ -320,7 +320,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-roe-v-wade-singing-b2108959.html",
         "timestamp": 1656094804,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 2:20 PM"
     },
     {
@@ -338,7 +338,7 @@
         "category": "worldnews",
         "link": "https://markets.businessinsider.com/news/bonds/russia-historic-default-debt-payment-war-sanctions-ukraine-finance-banks-2022-6",
         "timestamp": 1656095341,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 2:29 PM"
     },
     {
@@ -347,7 +347,7 @@
         "category": "news",
         "link": "https://www.arkansasonline.com/news/2022/jun/24/watch-live-arkansas-attorney-general-governor-to-certify-trigger-law-discuss-rulings-effect-on-state/?utm_medium=email&utm_campaign=breaking2-6-24-22&utm_content=breaking2-6-24-22+CID_9a60723469d6a1ff7b9f2a9161c57ae5&utm_source=Email%20Marketing%20Platform&utm_term=READ%20MORE",
         "timestamp": 1656099203,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 3:33 PM"
     },
     {
@@ -356,7 +356,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/serhiyprytula/status/1540394135202430980?t=QkleolU3DFI3fWbAjHmEOg&s=19",
         "timestamp": 1656099590,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 24, 2022 3:39 PM"
     },
     {
@@ -365,7 +365,7 @@
         "category": "news",
         "link": "https://wfpl.org/after-dobbs-decision-nearly-all-abortions-now-illegal-in-kentucky/",
         "timestamp": 1656099889,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 3:44 PM"
     },
     {
@@ -374,7 +374,7 @@
         "category": "news",
         "link": "https://www.stripes.com/branches/army/2022-06-23/army-tattoo-policy-recruits-6435811.html",
         "timestamp": 1656100195,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 3:49 PM"
     },
     {
@@ -383,7 +383,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/88qa9v/abortion-clarence-thomas-trans-rights",
         "timestamp": 1656100451,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 3:54 PM"
     },
     {
@@ -410,7 +410,7 @@
         "category": "news",
         "link": "https://www.theadvertiser.com/story/news/2022/06/24/abortion-louisiana-illegal-now-after-supreme-court-ruling/7694143001/",
         "timestamp": 1656101480,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 4:11 PM"
     },
     {
@@ -437,17 +437,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/us/french-president-macron-abortion-is-fundamental-right-women-2022-06-24/",
         "timestamp": 1656104537,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 5:02 PM"
-    },
-    {
-        "title": "Idaho will ban most abortions after US Supreme Court ruling",
-        "domain": "opb.org",
-        "category": "news",
-        "link": "https://www.opb.org/article/2022/06/24/idaho-will-ban-most-abortions-after-us-supreme-court-ruling/",
-        "timestamp": 1656104822,
-        "sentiment": 2,
-        "published": "June 24, 2022 5:07 PM"
     },
     {
         "title": "Russia says EU candidate status for Ukraine, Moldova will have negative consequences",
@@ -455,7 +446,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/russia-eu-candidate-status-ukraine-170003501.html",
         "timestamp": 1656105706,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 5:21 PM"
     },
     {
@@ -473,17 +464,8 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/world/2022/06/24/global-reaction-roe-abortion-supreme-court/",
         "timestamp": 1656106475,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 5:34 PM"
-    },
-    {
-        "title": "Patagonia will post bail for any employees arrested at abortion protests",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/roe-v-wade-abortion-patagonia-protest-bail-out-2022-6",
-        "timestamp": 1656106889,
-        "sentiment": -2,
-        "published": "June 24, 2022 5:41 PM"
     },
     {
         "title": "Organize",
@@ -509,8 +491,17 @@
         "category": "ukraine",
         "link": "https://www.forbes.com/sites/davidaxe/2022/06/24/russian-jets-are-flying-so-low-to-dodge-ukrainian-air-defenses-that-theyre-running-into-the-ground",
         "timestamp": 1656108163,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 24, 2022 6:02 PM"
+    },
+    {
+        "title": "Biden urged to take a blowtorch to the court after Roe ruling",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/24/biden-supreme-court-roe-00042376",
+        "timestamp": 1656108213,
+        "sentiment": 4,
+        "published": "June 24, 2022 6:03 PM"
     },
     {
         "title": "Senator Elizabeth Warren calls on Biden to use federal lands to protect abortion access",
@@ -518,7 +509,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/06/24/metro/senator-elizabeth-warren-calls-biden-use-federal-lands-protect-abortion-access/",
         "timestamp": 1656108437,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 24, 2022 6:07 PM"
     },
     {
@@ -540,21 +531,12 @@
         "published": "June 24, 2022 6:17 PM"
     },
     {
-        "title": "Polish parliament rejects abortion bill",
-        "domain": "euractiv.com",
-        "category": "worldnews",
-        "link": "https://www.euractiv.com/section/politics/short_news/polish-parliament-rejects-abortion-bill/",
-        "timestamp": 1656110163,
-        "sentiment": -1,
-        "published": "June 24, 2022 6:36 PM"
-    },
-    {
         "title": "UK’s Boris Johnson says U.S. abortion decision is a “big step backwards”",
         "domain": "reuters.com",
         "category": "worldnews",
         "link": "https://www.reuters.com/world/uk/uks-boris-johnson-says-us-abortion-decision-is-big-step-backwards-2022-06-24/",
         "timestamp": 1656114121,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "June 24, 2022 7:42 PM"
     },
     {
@@ -572,8 +554,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/politics/dhs-warning-abortion-ruling/index.html",
         "timestamp": 1656117237,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 24, 2022 8:33 PM"
+    },
+    {
+        "title": "Truck strikes protestor in Cedar Rapids",
+        "domain": "kcrg.com",
+        "category": "news",
+        "link": "https://www.kcrg.com/2022/06/25/truck-strikes-protestor-cedar-rapids/",
+        "timestamp": 1656121688,
+        "sentiment": -3,
+        "published": "June 24, 2022 9:48 PM"
     },
     {
         "title": "Antony Starr As Homelander Is The Best Performance On TV",
@@ -583,6 +574,60 @@
         "timestamp": 1656122243,
         "sentiment": 0,
         "published": "June 24, 2022 9:57 PM"
+    },
+    {
+        "title": "Vatican praises U.S. court abortion decision, saying it challenges world",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/us/vatican-praises-us-court-decision-abortion-saying-it-challenges-world-2022-06-24/",
+        "timestamp": 1656123095,
+        "sentiment": -4,
+        "published": "June 24, 2022 10:11 PM"
+    },
+    {
+        "title": "“The WNBA firmly believes people have the right to make their own personal decisions regarding their health. We stand in solidarity with those who fear for the repercussions of the Supreme Court decision today and remain committed to our 2022 WNBA season focus on civic engagement.” WNBA on Twitter",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/WNBA/status/1540447573617496064?s=20&t=hxIe7uRp6_DHtNe4XdgyuA",
+        "timestamp": 1656124815,
+        "sentiment": 0,
+        "published": "June 24, 2022 10:40 PM"
+    },
+    {
+        "title": "Pelosi, blasting abortion decision, suggests Kavanaugh and Gorsuch lied at hearings",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/politics-news/pelosi-blasting-abortion-decision-suggests-kavanaugh-gorsuch-lied-hear-rcna35208?cid=sm_npd_nn_fb_ma&fbclid=IwAR39Fm0q54ahxyqvJr3iDgXliiAVzsgirqLZ1wkMQlUe4Dq80toWhbsL3HE&fs=e&s=cl",
+        "timestamp": 1656087781,
+        "sentiment": -2,
+        "published": "June 24, 2022 12:23 PM"
+    },
+    {
+        "title": "Idaho will ban most abortions after US Supreme Court ruling",
+        "domain": "opb.org",
+        "category": "news",
+        "link": "https://www.opb.org/article/2022/06/24/idaho-will-ban-most-abortions-after-us-supreme-court-ruling/",
+        "timestamp": 1656104822,
+        "sentiment": 2,
+        "published": "June 24, 2022 5:07 PM"
+    },
+    {
+        "title": "Patagonia will post bail for any employees arrested at abortion protests",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/roe-v-wade-abortion-patagonia-protest-bail-out-2022-6",
+        "timestamp": 1656106889,
+        "sentiment": -2,
+        "published": "June 24, 2022 5:41 PM"
+    },
+    {
+        "title": "Polish parliament rejects abortion bill",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/politics/short_news/polish-parliament-rejects-abortion-bill/",
+        "timestamp": 1656110163,
+        "sentiment": -1,
+        "published": "June 24, 2022 6:36 PM"
     },
     {
         "title": "UN: Israelis fired shots that killed journalist Shireen Abu Akleh | News",
