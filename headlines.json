@@ -5,7 +5,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3514686-ukraines-aviation-hits-invaders-in-south-howitzer-two-tanks-46-russians-eliminated.html",
         "timestamp": 1656132926,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 25, 2022 12:55 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/worker-japan-loses-usb-entire-city-amagasaki-data-night-colleagues-rcna35227?cid=sm_npd_nn_tw_ma",
         "timestamp": 1656137062,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 25, 2022 2:04 AM"
     },
     {
@@ -32,8 +32,44 @@
         "category": "ukraine",
         "link": "https://en.hromadske.ua/posts/ex-mp-turned-collaborator-found-to-store-over-6000-unique-artifacts-from-crimea-worth-millions-of-dollars",
         "timestamp": 1656139189,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "June 25, 2022 2:39 AM"
+    },
+    {
+        "title": "Berlin mayor holds 15-minute video call with deepfake of Kyiv mayor Vitali Klitschko",
+        "domain": "p.dw.com",
+        "category": "technology",
+        "link": "https://p.dw.com/p/4DDxp",
+        "timestamp": 1656143787,
+        "sentiment": -2,
+        "published": "June 25, 2022 3:56 AM"
+    },
+    {
+        "title": "Westworld: how the most glorious show on TV became the biggest mess",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
+        "timestamp": 1656146005,
+        "sentiment": 0,
+        "published": "June 25, 2022 4:33 AM"
+    },
+    {
+        "title": "Meta clamps down on internal discussion of Roe v. Wade’s overturning.",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
+        "timestamp": 1656146824,
+        "sentiment": -2,
+        "published": "June 25, 2022 4:47 AM"
+    },
+    {
+        "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/2022/06/25/ukraine-russia-balance-of-forces/",
+        "timestamp": 1656148007,
+        "sentiment": -1,
+        "published": "June 25, 2022 5:06 AM"
     },
     {
         "title": "Boris Johnson Slams US Abortion Ruling As A 'Big Step Backwards'",
@@ -45,15 +81,6 @@
         "published": "June 25, 2022 3:33 AM"
     },
     {
-        "title": "Berlin mayor holds 15-minute video call with deepfake of Kyiv mayor Vitali Klitschko",
-        "domain": "p.dw.com",
-        "category": "technology",
-        "link": "https://p.dw.com/p/4DDxp",
-        "timestamp": 1656143787,
-        "sentiment": 1,
-        "published": "June 25, 2022 3:56 AM"
-    },
-    {
         "title": "Iranian man shoots 2 dead, wounds 14 at a gay bar in Oslo Norway the day before pride parade.",
         "domain": "washingtonpost.com",
         "category": "worldnews",
@@ -61,15 +88,6 @@
         "timestamp": 1656144173,
         "sentiment": 0,
         "published": "June 25, 2022 4:02 AM"
-    },
-    {
-        "title": "Westworld: how the most glorious show on TV became the biggest mess",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
-        "timestamp": 1656146005,
-        "sentiment": 0,
-        "published": "June 25, 2022 4:33 AM"
     },
     {
         "title": "Russia’s republics, bled dry by Putin, begin to demand independence from his rule",
