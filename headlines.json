@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://en.hromadske.ua/posts/ex-mp-turned-collaborator-found-to-store-over-6000-unique-artifacts-from-crimea-worth-millions-of-dollars",
         "timestamp": 1656139189,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 25, 2022 2:39 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://p.dw.com/p/4DDxp",
         "timestamp": 1656143787,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 25, 2022 3:56 AM"
     },
     {
@@ -59,8 +59,17 @@
         "category": "technology",
         "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
         "timestamp": 1656146824,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 25, 2022 4:47 AM"
+    },
+    {
+        "title": "Army Guard troops risk dismissal as vaccine deadline looms",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/covid-health-army-government-and-politics-bd5631ebc71875f6edeb0e8eb34103fb",
+        "timestamp": 1656148890,
+        "sentiment": -3,
+        "published": "June 25, 2022 5:21 AM"
     },
     {
         "title": "48 cruise missiles rain across exclusively civilian targets in Ukraine overnight (06.24.2022) to terrorize population",
@@ -68,8 +77,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/Biz_Ukraine_Mag/status/1540608419199176704",
         "timestamp": 1656149563,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 25, 2022 5:32 AM"
+    },
+    {
+        "title": "Boris Johnson says he would rather resign than stop supporting Ukraine",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/news/2022/06/25/7354586/",
+        "timestamp": 1656150556,
+        "sentiment": -4,
+        "published": "June 25, 2022 5:49 AM"
     },
     {
         "title": "Internet Explorer shutdown to cause Japan problems ‘for months’",
@@ -77,7 +95,7 @@
         "category": "technology",
         "link": "https://ft.com/content/a71ace1b-37b8-49f4-b8a5-baddbdb67b8b",
         "timestamp": 1656151240,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 25, 2022 6:00 AM"
     },
     {
@@ -86,17 +104,17 @@
         "category": "technology",
         "link": "https://www.extremetech.com/extreme/337330-china-accused-of-weaponizing-its-covid-tracker-to-stifle-dissent",
         "timestamp": 1656152226,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 25, 2022 6:17 AM"
     },
     {
-        "title": "Taika Waititi returning to direct season 3 of The Mandalorian",
-        "domain": "slashfilm.com",
-        "category": "television",
-        "link": "https://www.slashfilm.com/907050/our-flag-means-death-turned-editing-thor-love-and-thunder-into-a-nightmare-for-taika-waititi/",
-        "timestamp": 1656152308,
+        "title": "How the Christian right took over the judiciary and changed America",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/world/2022/jun/25/roe-v-wade-abortion-christian-right-america?CMP=share_btn_tw/",
+        "timestamp": 1656153417,
         "sentiment": 0,
-        "published": "June 25, 2022 6:18 AM"
+        "published": "June 25, 2022 6:36 AM"
     },
     {
         "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
@@ -131,7 +149,7 @@
         "category": "technology",
         "link": "https://www.scientificamerican.com/article/how-abortion-misinformation-and-disinformation-spread-online/",
         "timestamp": 1656155860,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 25, 2022 7:17 AM"
     },
     {
@@ -149,7 +167,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
         "timestamp": 1656156148,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "June 25, 2022 7:22 AM"
     },
     {
@@ -187,6 +205,51 @@
         "timestamp": 1656160590,
         "sentiment": -3,
         "published": "June 25, 2022 8:36 AM"
+    },
+    {
+        "title": "Putin´s puppet and Head of the Russian Orthodox Church, Patriarch Kirill, fell to the floor during a church ceremony. An omen of things to come?",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/nexta_tv/status/1540624946464002050",
+        "timestamp": 1656161160,
+        "sentiment": -4,
+        "published": "June 25, 2022 8:46 AM"
+    },
+    {
+        "title": "Dutch power grid can't handle influx of electric car charging points",
+        "domain": "nltimes.nl",
+        "category": "technology",
+        "link": "https://nltimes.nl/2022/06/21/dutch-power-grid-cant-handle-influx-electric-car-charging-points",
+        "timestamp": 1656161167,
+        "sentiment": 0,
+        "published": "June 25, 2022 8:46 AM"
+    },
+    {
+        "title": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
+        "timestamp": 1656163202,
+        "sentiment": 0,
+        "published": "June 25, 2022 9:20 AM"
+    },
+    {
+        "title": "'Young and Restless' Mishael Morgan Makes Daytime Emmys History as First Black Woman to Win Lead Actress in a Drama",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/06/24/daytime-emmys-mishael-morgan-first-black-lead-actress-winner/",
+        "timestamp": 1656163485,
+        "sentiment": 0,
+        "published": "June 25, 2022 9:24 AM"
+    },
+    {
+        "title": "Taika Waititi returning to direct season 3 of The Mandalorian",
+        "domain": "slashfilm.com",
+        "category": "television",
+        "link": "https://www.slashfilm.com/907050/our-flag-means-death-turned-editing-thor-love-and-thunder-into-a-nightmare-for-taika-waititi/",
+        "timestamp": 1656152308,
+        "sentiment": 0,
+        "published": "June 25, 2022 6:18 AM"
     },
     {
         "title": "Ukraine’s aviation hits invaders in south: howitzer, two tanks, 46 Russians eliminated",
