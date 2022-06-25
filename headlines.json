@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.cyclingweekly.com/racing/women-pro-cyclists-take-a-knee-during-nation-anthem-at-us-pro-nationals-to-protest-abortion-ruling",
         "timestamp": 1656138721,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 25, 2022 2:32 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://en.hromadske.ua/posts/ex-mp-turned-collaborator-found-to-store-over-6000-unique-artifacts-from-crimea-worth-millions-of-dollars",
         "timestamp": 1656139189,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 25, 2022 2:39 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
         "timestamp": 1656146005,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 4:33 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://apnews.com/article/covid-health-army-government-and-politics-bd5631ebc71875f6edeb0e8eb34103fb",
         "timestamp": 1656148890,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 25, 2022 5:21 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/Biz_Ukraine_Mag/status/1540608419199176704",
         "timestamp": 1656149563,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 25, 2022 5:32 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/news/2022/06/25/7354586/",
         "timestamp": 1656150556,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 25, 2022 5:49 AM"
     },
     {
@@ -113,17 +113,17 @@
         "category": "politics",
         "link": "https://www.theguardian.com/world/2022/jun/25/roe-v-wade-abortion-christian-right-america?CMP=share_btn_tw/",
         "timestamp": 1656153417,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 6:36 AM"
     },
     {
-        "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
-        "domain": "usnews.com",
+        "title": "DeepFake technology dupes Berlin, Madrid mayors into thinking they speak with Klitschko",
+        "domain": "ukrinform.net",
         "category": "worldnews",
-        "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
-        "timestamp": 1656154397,
+        "link": "https://www.ukrinform.net/rubric-society/3514868-deepfake-technology-dupes-berlin-madrid-mayors-into-thinking-they-speak-with-klitschko.html",
+        "timestamp": 1656155186,
         "sentiment": 0,
-        "published": "June 25, 2022 6:53 AM"
+        "published": "June 25, 2022 7:06 AM"
     },
     {
         "title": "It’s time to say it: the US supreme court has become an illegitimate institution",
@@ -131,7 +131,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/25/us-supreme-court-illegitimate-institution",
         "timestamp": 1656155577,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 7:12 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/sumlenny/status/1540317187470237696",
         "timestamp": 1656155615,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 25, 2022 7:13 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
         "timestamp": 1656155700,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 7:15 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "sports",
         "link": "https://twitter.com/NRLonNine/status/1540637916573175808?t=usLiDpn4gyy8ozjLb5u2gQ&s=19",
         "timestamp": 1656156060,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 25, 2022 7:21 AM"
     },
     {
@@ -176,17 +176,8 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
         "timestamp": 1656156148,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 25, 2022 7:22 AM"
-    },
-    {
-        "title": "French MPs want abortion rights inscribed in constitution",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/abortion-us-supreme-court-politics-health-c8ba0d01fda50adacec2a8fbec0fab29",
-        "timestamp": 1656157219,
-        "sentiment": 0,
-        "published": "June 25, 2022 7:40 AM"
     },
     {
         "title": "Barack Obama Blasted for Not Codifying Roe v. Wade: 'Dem Failure'",
@@ -194,7 +185,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/barack-obama-blasted-not-codifying-roe-v-wade-democrat-failure-1719156",
         "timestamp": 1656157541,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 7:45 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "television",
         "link": "https://www.theringer.com/star-wars/2022/6/23/23180029/obi-wan-kenobi-prequels-nostalgia-disney-ewan-mcgregor",
         "timestamp": 1656157949,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 7:52 AM"
     },
     {
@@ -221,17 +212,8 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166890/democrats-roe-overturn-midterms-2022",
         "timestamp": 1656159232,
-        "sentiment": 1,
-        "published": "June 25, 2022 8:13 AM"
-    },
-    {
-        "title": "Putin´s puppet and Head of the Russian Orthodox Church, Patriarch Kirill, fell to the floor during a church ceremony. An omen of things to come?",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/nexta_tv/status/1540624946464002050",
-        "timestamp": 1656161160,
         "sentiment": -5,
-        "published": "June 25, 2022 8:46 AM"
+        "published": "June 25, 2022 8:13 AM"
     },
     {
         "title": "Dutch power grid can't handle influx of electric car charging points",
@@ -243,12 +225,21 @@
         "published": "June 25, 2022 8:46 AM"
     },
     {
+        "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
+        "domain": "usnews.com",
+        "category": "politics",
+        "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
+        "timestamp": 1656162799,
+        "sentiment": -5,
+        "published": "June 25, 2022 9:13 AM"
+    },
+    {
         "title": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
         "timestamp": 1656163202,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 9:20 AM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/24/daytime-emmys-mishael-morgan-first-black-lead-actress-winner/",
         "timestamp": 1656163485,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 9:24 AM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
         "timestamp": 1656164829,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "June 25, 2022 9:47 AM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/25/the-boys-herogasm-season-3-episode-6-cast-performances",
         "timestamp": 1656165785,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 10:03 AM"
     },
     {
@@ -293,8 +284,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
         "timestamp": 1656166203,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "June 25, 2022 10:10 AM"
+    },
+    {
+        "title": "The Constitution Is Whatever the Right Wing Says It Is",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
+        "timestamp": 1656166640,
+        "sentiment": -5,
+        "published": "June 25, 2022 10:17 AM"
     },
     {
         "title": "Meta bans staff from open discussion of Roe v. Wade decision and is deleting internal messages that mention abortion: report",
@@ -304,6 +304,33 @@
         "timestamp": 1656166742,
         "sentiment": -2,
         "published": "June 25, 2022 10:19 AM"
+    },
+    {
+        "title": "USA: Which (Alleged) Crime Did Florida Republican US House Rep. Matt Gaetz Want A Presidential Pardon For?",
+        "domain": "thedailybeast.com",
+        "category": "florida",
+        "link": "https://www.thedailybeast.com/which-alleged-crime-did-matt-gaetz-want-a-pardon-for?via=mobile&source=Reddit",
+        "timestamp": 1656174097,
+        "sentiment": 0,
+        "published": "June 25, 2022 12:21 PM"
+    },
+    {
+        "title": "French MPs want abortion rights inscribed in constitution",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/abortion-us-supreme-court-politics-health-c8ba0d01fda50adacec2a8fbec0fab29",
+        "timestamp": 1656157219,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:40 AM"
+    },
+    {
+        "title": "Putin´s puppet and Head of the Russian Orthodox Church, Patriarch Kirill, fell to the floor during a church ceremony. An omen of things to come?",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/nexta_tv/status/1540624946464002050",
+        "timestamp": 1656161160,
+        "sentiment": -5,
+        "published": "June 25, 2022 8:46 AM"
     },
     {
         "title": "Japanese worker loses USB with entire city’s data after night out with colleagues",
