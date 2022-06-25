@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.cyclingweekly.com/racing/women-pro-cyclists-take-a-knee-during-nation-anthem-at-us-pro-nationals-to-protest-abortion-ruling",
         "timestamp": 1656138721,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 25, 2022 2:32 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
         "timestamp": 1656146005,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 4:33 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://apnews.com/article/covid-health-army-government-and-politics-bd5631ebc71875f6edeb0e8eb34103fb",
         "timestamp": 1656148890,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 5:21 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/kyiv-will-need-at-least-10-years-to-demine-all-ukrainian-territory/ar-AAYNZ28?ocid=msedgdhphdr&cvid=e298decbfde141a4929e5c702357eb87",
         "timestamp": 1656151604,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 6:06 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
         "timestamp": 1656154397,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 6:53 AM"
     },
     {
@@ -86,17 +86,8 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/25/us-supreme-court-illegitimate-institution",
         "timestamp": 1656155577,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 7:12 AM"
-    },
-    {
-        "title": "Ukrainian intelligence warns that Russia plans to blow up civilian houses in Belarusian Mozyr to blame Ukraine and force Lukashenka to attack. According to many scholars, Putin and Patrushev have blown residential buildings in Moscow in 1999 in order to invade Chechnya.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/sumlenny/status/1540317187470237696",
-        "timestamp": 1656155615,
-        "sentiment": -2,
-        "published": "June 25, 2022 7:13 AM"
     },
     {
         "title": "Standing among protestors after the fall of Roe vs. Wade, AOC calls on Biden to create abortion clinics on federal land",
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
         "timestamp": 1656155700,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 7:15 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "sports",
         "link": "https://twitter.com/NRLonNine/status/1540637916573175808?t=usLiDpn4gyy8ozjLb5u2gQ&s=19",
         "timestamp": 1656156060,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 25, 2022 7:21 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
         "timestamp": 1656156148,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 7:22 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/barack-obama-blasted-not-codifying-roe-v-wade-democrat-failure-1719156",
         "timestamp": 1656157541,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 7:45 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "television",
         "link": "https://www.theringer.com/star-wars/2022/6/23/23180029/obi-wan-kenobi-prequels-nostalgia-disney-ewan-mcgregor",
         "timestamp": 1656157949,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 7:52 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.lemonde.fr/en/france/article/2022/06/25/french-center-and-left-parties-vow-to-bring-in-a-bill-to-enshrine-constitutional-right-to-abortion_5987943_7.html",
         "timestamp": 1656158555,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 8:02 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166890/democrats-roe-overturn-midterms-2022",
         "timestamp": 1656159232,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 8:13 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
         "timestamp": 1656163202,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 9:20 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/24/daytime-emmys-mishael-morgan-first-black-lead-actress-winner/",
         "timestamp": 1656163485,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 9:24 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
         "timestamp": 1656164829,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 9:47 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
         "timestamp": 1656165221,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 9:53 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/25/the-boys-herogasm-season-3-episode-6-cast-performances",
         "timestamp": 1656165785,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 10:03 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
         "timestamp": 1656166203,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 10:10 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
         "timestamp": 1656166553,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 10:15 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
         "timestamp": 1656166640,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 10:17 AM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/25/Moscow-removes-Polish-flag-from-Soviet-massacre-memorial",
         "timestamp": 1656169983,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 11:13 AM"
     },
     {
@@ -293,8 +284,17 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-europe-61933817",
         "timestamp": 1656172538,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 11:55 AM"
+    },
+    {
+        "title": "Severodonetsk: Russia has full control of eastern city, Ukraine says",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61936820",
+        "timestamp": 1656173268,
+        "sentiment": 0,
+        "published": "June 25, 2022 12:07 PM"
     },
     {
         "title": "Inside Herogasm: How The Boys finally pulled off the superhero orgy",
@@ -302,7 +302,7 @@
         "category": "television",
         "link": "https://ew.com/tv/herogasm-explained-how-the-boys-season-3-pulled-off-superhero-orgy",
         "timestamp": 1656173530,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 12:12 PM"
     },
     {
@@ -311,7 +311,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/clarence-thomas-told-clerks-he-wants-to-make-liberals-miserable-2022-6",
         "timestamp": 1656173942,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 25, 2022 12:19 PM"
     },
     {
@@ -320,7 +320,7 @@
         "category": "worldnews",
         "link": "https://ukranews.com/en/news/865184-russia-carried-out-airstrikes-from-territory-of-belarus-for-first-time-defense-intelligence",
         "timestamp": 1656174026,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 12:20 PM"
     },
     {
@@ -329,7 +329,16 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/which-alleged-crime-did-matt-gaetz-want-a-pardon-for?via=mobile&source=Reddit",
         "timestamp": 1656174097,
-        "sentiment": -1,
+        "sentiment": 0,
+        "published": "June 25, 2022 12:21 PM"
+    },
+    {
+        "title": "US, Japan and allies form new Pacific group to blunt China’s influence",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-710350",
+        "timestamp": 1656174111,
+        "sentiment": 0,
         "published": "June 25, 2022 12:21 PM"
     },
     {
@@ -347,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128",
         "timestamp": 1656175387,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 12:43 PM"
     },
     {
@@ -356,7 +365,7 @@
         "category": "news",
         "link": "https://washingtoncitypaper.com/article/560895/shane-lamond-mpd-lieutenant-under-investigation-for-ties-to-proud-boys-was-accused-of-time-theft-two-years-prior/",
         "timestamp": 1656175818,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 12:50 PM"
     },
     {
@@ -374,17 +383,8 @@
         "category": "sports",
         "link": "https://www.insider.com/katie-ledecky-dominates-best-race-waits-10-seconds-next-swimmer-2022-6",
         "timestamp": 1656177844,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 25, 2022 1:24 PM"
-    },
-    {
-        "title": "Dutch ministers condemn Roe v Wade decision, say safe abortion is a right",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/dutch-ministers-condemn-roe-v-wade-decision-say-safe-abortion-is-a-right/",
-        "timestamp": 1656178142,
-        "sentiment": 3,
-        "published": "June 25, 2022 1:29 PM"
     },
     {
         "title": "Russia says EU candidate status for Ukraine, Moldova will have negative consequences",
@@ -401,7 +401,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/awards/daytime-emmys-2022-winners-list-1235303165/",
         "timestamp": 1656178488,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 25, 2022 1:34 PM"
     },
     {
@@ -410,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.dutchnews.nl/news/2022/06/banning-tourists-from-cannabis-cafes-will-cut-back-on-crime-halsema/",
         "timestamp": 1656178875,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 25, 2022 1:41 PM"
     },
     {
@@ -423,6 +423,15 @@
         "published": "June 25, 2022 1:42 PM"
     },
     {
+        "title": "\"The Handsmaid’s Tale\" EP Warren Littlefield on “hauntingly relevant” dystopian drama, finding hope & mobilizing after Roe vs. Wade is overturned",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/handmaids-tale-series-roe-v-wade-decision-reaction-warren-littlefield-1235051953/",
+        "timestamp": 1656180732,
+        "sentiment": 2,
+        "published": "June 25, 2022 2:12 PM"
+    },
+    {
         "title": "Why Florida isn’t losing the right to an abortion … yet",
         "domain": "tampabay.com",
         "category": "miami",
@@ -430,6 +439,69 @@
         "timestamp": 1656181377,
         "sentiment": 3,
         "published": "June 25, 2022 2:22 PM"
+    },
+    {
+        "title": "\"Impeach Justice Clarence Thomas\" petition passes 230K signatures",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-passes-230k-signatures-1716379",
+        "timestamp": 1656182038,
+        "sentiment": 1,
+        "published": "June 25, 2022 2:33 PM"
+    },
+    {
+        "title": "Electric Mercedes Completes 747-Mile Drive Without Charging",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mercedes-electric-car-longest-range-tesla-model-s-eqs-eqxx-2022-6",
+        "timestamp": 1656182224,
+        "sentiment": 0,
+        "published": "June 25, 2022 2:37 PM"
+    },
+    {
+        "title": "Peaky Blinders Season 6 Proves Thomas Shelby Is the Most Underrated Leading Man on TV",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-season-6-tommy-shelby-cillian-murphy-underrated-/",
+        "timestamp": 1656183055,
+        "sentiment": 2,
+        "published": "June 25, 2022 2:50 PM"
+    },
+    {
+        "title": "Ukrainian city of Severodonetsk now 'completely under Russian occupation' after months of fighting",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/25/europe/russia-invasion-ukraine-06-25-intl/index.html",
+        "timestamp": 1656183304,
+        "sentiment": 0,
+        "published": "June 25, 2022 2:55 PM"
+    },
+    {
+        "title": "Crist calls for Kavanaugh, Gorsuch to be impeached over abortion ruling",
+        "domain": "kpvi.com",
+        "category": "florida",
+        "link": "https://www.kpvi.com/news/national_news/crist-calls-for-kavanaugh-gorsuch-to-be-impeached-over-abortion-ruling/article_73614887-1ece-58d5-b353-388aad8bb3de.html",
+        "timestamp": 1656184841,
+        "sentiment": 0,
+        "published": "June 25, 2022 3:20 PM"
+    },
+    {
+        "title": "Ukrainian intelligence warns that Russia plans to blow up civilian houses in Belarusian Mozyr to blame Ukraine and force Lukashenka to attack. According to many scholars, Putin and Patrushev have blown residential buildings in Moscow in 1999 in order to invade Chechnya.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/sumlenny/status/1540317187470237696",
+        "timestamp": 1656155615,
+        "sentiment": -2,
+        "published": "June 25, 2022 7:13 AM"
+    },
+    {
+        "title": "Dutch ministers condemn Roe v Wade decision, say safe abortion is a right",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/dutch-ministers-condemn-roe-v-wade-decision-say-safe-abortion-is-a-right/",
+        "timestamp": 1656178142,
+        "sentiment": 3,
+        "published": "June 25, 2022 1:29 PM"
     },
     {
         "title": "48 cruise missiles rain across exclusively civilian targets in Ukraine overnight (06.24.2022) to terrorize population",
