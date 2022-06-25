@@ -1,14 +1,5 @@
 [
     {
-        "title": "Ukraine’s aviation hits invaders in south: howitzer, two tanks, 46 Russians eliminated",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3514686-ukraines-aviation-hits-invaders-in-south-howitzer-two-tanks-46-russians-eliminated.html",
-        "timestamp": 1656132926,
-        "sentiment": 0,
-        "published": "June 25, 2022 12:55 AM"
-    },
-    {
         "title": "Japanese worker loses USB with entire city’s data after night out with colleagues",
         "domain": "nbcnews.com",
         "category": "worldnews",
@@ -32,7 +23,7 @@
         "category": "ukraine",
         "link": "https://en.hromadske.ua/posts/ex-mp-turned-collaborator-found-to-store-over-6000-unique-artifacts-from-crimea-worth-millions-of-dollars",
         "timestamp": 1656139189,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 2:39 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://p.dw.com/p/4DDxp",
         "timestamp": 1656143787,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 25, 2022 3:56 AM"
     },
     {
@@ -59,8 +50,17 @@
         "category": "technology",
         "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
         "timestamp": 1656146824,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 25, 2022 4:47 AM"
+    },
+    {
+        "title": "48 cruise missiles rain across exclusively civilian targets in Ukraine overnight (06.24.2022) to terrorize population",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Biz_Ukraine_Mag/status/1540608419199176704",
+        "timestamp": 1656149563,
+        "sentiment": -3,
+        "published": "June 25, 2022 5:32 AM"
     },
     {
         "title": "Internet Explorer shutdown to cause Japan problems ‘for months’",
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://ft.com/content/a71ace1b-37b8-49f4-b8a5-baddbdb67b8b",
         "timestamp": 1656151240,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 25, 2022 6:00 AM"
     },
     {
@@ -81,6 +81,33 @@
         "published": "June 25, 2022 6:18 AM"
     },
     {
+        "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
+        "timestamp": 1656154397,
+        "sentiment": 0,
+        "published": "June 25, 2022 6:53 AM"
+    },
+    {
+        "title": "It’s time to say it: the US supreme court has become an illegitimate institution",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/25/us-supreme-court-illegitimate-institution",
+        "timestamp": 1656155577,
+        "sentiment": 4,
+        "published": "June 25, 2022 7:12 AM"
+    },
+    {
+        "title": "How Abortion Misinformation and Disinformation Spread Online",
+        "domain": "scientificamerican.com",
+        "category": "technology",
+        "link": "https://www.scientificamerican.com/article/how-abortion-misinformation-and-disinformation-spread-online/",
+        "timestamp": 1656155860,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:17 AM"
+    },
+    {
         "title": "Fiji sing the 'Noqu Masu' hymn",
         "domain": "twitter.com",
         "category": "sports",
@@ -88,6 +115,24 @@
         "timestamp": 1656156060,
         "sentiment": 4,
         "published": "June 25, 2022 7:21 AM"
+    },
+    {
+        "title": "U.S. Army private admits plotting attack on military unit",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
+        "timestamp": 1656156148,
+        "sentiment": 2,
+        "published": "June 25, 2022 7:22 AM"
+    },
+    {
+        "title": "Ukraine’s aviation hits invaders in south: howitzer, two tanks, 46 Russians eliminated",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3514686-ukraines-aviation-hits-invaders-in-south-howitzer-two-tanks-46-russians-eliminated.html",
+        "timestamp": 1656132926,
+        "sentiment": 0,
+        "published": "June 25, 2022 12:55 AM"
     },
     {
         "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
