@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://en.hromadske.ua/posts/ex-mp-turned-collaborator-found-to-store-over-6000-unique-artifacts-from-crimea-worth-millions-of-dollars",
         "timestamp": 1656139189,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 25, 2022 2:39 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/25/us-supreme-court-illegitimate-institution",
         "timestamp": 1656155577,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 7:12 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
         "timestamp": 1656155700,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 7:15 AM"
     },
     {
@@ -104,17 +104,8 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
         "timestamp": 1656156148,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 7:22 AM"
-    },
-    {
-        "title": "Barack Obama Blasted for Not Codifying Roe v. Wade: 'Dem Failure'",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/barack-obama-blasted-not-codifying-roe-v-wade-democrat-failure-1719156",
-        "timestamp": 1656157541,
-        "sentiment": 0,
-        "published": "June 25, 2022 7:45 AM"
     },
     {
         "title": "‘Obi-Wan Kenobi’ embraced the prequels. Disney still doesn’t understand them. The latest ‘Star Wars’ series managed to rehabilitate George Lucas’s prequels while still overlooking the more youthful qualities that earned the prequels so much nostalgia in the first place.",
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
         "timestamp": 1656163202,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 9:20 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
         "timestamp": 1656164829,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 9:47 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
         "timestamp": 1656165221,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 9:53 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
         "timestamp": 1656166203,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 10:10 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "news",
         "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
         "timestamp": 1656166553,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 10:15 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
         "timestamp": 1656166640,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 10:17 AM"
     },
     {
@@ -223,15 +214,6 @@
         "timestamp": 1656166742,
         "sentiment": 0,
         "published": "June 25, 2022 10:19 AM"
-    },
-    {
-        "title": "Huge explosions and fires in ammunition warehouses in Russian-occupied Svatove, 60km behind the front lines",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/euromaidanpress/status/1540709476956655616?s=21&t=iEx3_fvuenxHmNc5yz3wZQ",
-        "timestamp": 1656169633,
-        "sentiment": 1,
-        "published": "June 25, 2022 11:07 AM"
     },
     {
         "title": "Moscow removes Polish flag from Soviet massacre memorial.",
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-europe-61933817",
         "timestamp": 1656172538,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 11:55 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/clarence-thomas-told-clerks-he-wants-to-make-liberals-miserable-2022-6",
         "timestamp": 1656173942,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 12:19 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/which-alleged-crime-did-matt-gaetz-want-a-pardon-for?via=mobile&source=Reddit",
         "timestamp": 1656174097,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 25, 2022 12:21 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "news",
         "link": "https://washingtoncitypaper.com/article/560895/shane-lamond-mpd-lieutenant-under-investigation-for-ties-to-proud-boys-was-accused-of-time-theft-two-years-prior/",
         "timestamp": 1656175818,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 12:50 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/gun-control-biden-bill-into-law/",
         "timestamp": 1656177544,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 1:19 PM"
     },
     {
@@ -365,6 +347,15 @@
         "category": "ukraine",
         "link": "https://news.yahoo.com/russia-eu-candidate-status-ukraine-170003501.html",
         "timestamp": 1656178442,
+        "sentiment": 0,
+        "published": "June 25, 2022 1:34 PM"
+    },
+    {
+        "title": "US to Join G-7 in Ban of New Russian Gold Imports to Hit Putin",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-25/us-to-join-g-7-in-ban-of-new-russian-gold-imports-to-hit-putin?srnd=premium",
+        "timestamp": 1656178477,
         "sentiment": 1,
         "published": "June 25, 2022 1:34 PM"
     },
@@ -414,12 +405,21 @@
         "published": "June 25, 2022 2:22 PM"
     },
     {
+        "title": "The Supreme Court rulings represent the tyranny of the minority",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/25/supreme-court-rulings-abortion-roe-guns-represent-minority-tyranny/",
+        "timestamp": 1656181976,
+        "sentiment": 4,
+        "published": "June 25, 2022 2:32 PM"
+    },
+    {
         "title": "\"Impeach Justice Clarence Thomas\" petition passes 230K signatures",
         "domain": "newsweek.com",
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-passes-230k-signatures-1716379",
         "timestamp": 1656182038,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 2:33 PM"
     },
     {
@@ -446,7 +446,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/25/europe/russia-invasion-ukraine-06-25-intl/index.html",
         "timestamp": 1656183304,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 2:55 PM"
     },
     {
@@ -455,8 +455,17 @@
         "category": "politics",
         "link": "https://www.kpvi.com/news/national_news/crist-calls-for-kavanaugh-gorsuch-to-be-impeached-over-abortion-ruling/article_73614887-1ece-58d5-b353-388aad8bb3de.html",
         "timestamp": 1656183498,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 25, 2022 2:58 PM"
+    },
+    {
+        "title": "Tech firms under pressure to safeguard user data as abortion prosecutions loom | Roe v Wade",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/us-news/2022/jun/25/tech-companies-health-data-security-abortion-prosecution",
+        "timestamp": 1656184655,
+        "sentiment": 0,
+        "published": "June 25, 2022 3:17 PM"
     },
     {
         "title": "Putin promises Belarus nuclear-capable missiles to counter aggressive West",
@@ -473,7 +482,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/25/us/weathertech-bolingbrook-shooting-illinois/index.html",
         "timestamp": 1656186966,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 3:56 PM"
     },
     {
@@ -482,8 +491,17 @@
         "category": "news",
         "link": "https://www.abc6.com/providence-police-off-duty-officer-under-investigation-after-woman-assaulted-at-protest/",
         "timestamp": 1656187017,
-        "sentiment": -7,
+        "sentiment": 2,
         "published": "June 25, 2022 3:56 PM"
+    },
+    {
+        "title": "New video shows the moment a motorist drives through Rincon’s ‘Let Freedom Ring Parade’",
+        "domain": "wtoc.com",
+        "category": "news",
+        "link": "https://www.wtoc.com/2022/06/25/motorist-arrested-after-driving-through-rincons-let-freedom-ring-parade/",
+        "timestamp": 1656187123,
+        "sentiment": 2,
+        "published": "June 25, 2022 3:58 PM"
     },
     {
         "title": "Russian ally Belarus unleashes rocket air strike into northern Ukraine",
@@ -493,6 +511,42 @@
         "timestamp": 1656190704,
         "sentiment": 1,
         "published": "June 25, 2022 4:58 PM"
+    },
+    {
+        "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
+        "domain": "msn.com",
+        "category": "ukraine",
+        "link": "https://www.msn.com/ru-xl/news/newsworld/russia-will-soon-exhaust-its-combat-capabilities-western-assessments-predict/ar-AAYQXFi",
+        "timestamp": 1656192780,
+        "sentiment": 0,
+        "published": "June 25, 2022 5:33 PM"
+    },
+    {
+        "title": "USFL playoffs 2022: Semifinals scores, live updates, highlights for Stars-Generals and Breakers-Stallions",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/usfl/news/usfl-playoffs-2022-semifinals-scores-live-updates-highlights-for-stars-generals-and-breakers-stallions/live/",
+        "timestamp": 1656197547,
+        "sentiment": 0,
+        "published": "June 25, 2022 6:52 PM"
+    },
+    {
+        "title": "Barack Obama Blasted for Not Codifying Roe v. Wade: 'Dem Failure'",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/barack-obama-blasted-not-codifying-roe-v-wade-democrat-failure-1719156",
+        "timestamp": 1656157541,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:45 AM"
+    },
+    {
+        "title": "Huge explosions and fires in ammunition warehouses in Russian-occupied Svatove, 60km behind the front lines",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/euromaidanpress/status/1540709476956655616?s=21&t=iEx3_fvuenxHmNc5yz3wZQ",
+        "timestamp": 1656169633,
+        "sentiment": 1,
+        "published": "June 25, 2022 11:07 AM"
     },
     {
         "title": "Kyiv will need 'at least 10 years to demine' all Ukrainian territory",
@@ -691,15 +745,6 @@
         "timestamp": 1656132926,
         "sentiment": 0,
         "published": "June 25, 2022 12:55 AM"
-    },
-    {
-        "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
-        "domain": "washingtonpost.com",
-        "category": "worldnews",
-        "link": "https://www.washingtonpost.com/world/2022/06/25/ukraine-russia-balance-of-forces/",
-        "timestamp": 1656148007,
-        "sentiment": -1,
-        "published": "June 25, 2022 5:06 AM"
     },
     {
         "title": "Boris Johnson Slams US Abortion Ruling As A 'Big Step Backwards'",
