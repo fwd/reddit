@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/world/2022/jun/24/japanese-city-worker-loses-usb-containing-personal-details-of-every-resident",
         "timestamp": 1656058507,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 4:15 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.newscientist.com/article/2325828-reddit-moderators-do-3-4-million-worth-of-unpaid-work-each-year/?utm_medium=social&utm_campaign=echobox&utm_source=Facebook&fbclid=IwAR0Qgd_IN7VS7H0uML95VsyG8DvH5FkH_n16Ez99MUMhFJBmes0mmh0rSEs&fs=e&s=cl#Echobox=1656061514-1",
         "timestamp": 1656063828,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 5:43 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/harley-quinn-season-3-finally-arrives-on-hbo-max-this-july",
         "timestamp": 1656067865,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 6:51 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "technology",
         "link": "https://ca.news.yahoo.com/retail-going-metaverse-crazy-85-160117957.html",
         "timestamp": 1656075596,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 8:59 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/the-really-really-rude-puppet-show-1235302555/",
         "timestamp": 1656076968,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 9:22 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/893915/butterfly-in-the-sky-review-a-loving-tribute-to-the-power-of-reading-rainbow-and-the-magic-of-levar-burton-tribeca/",
         "timestamp": 1656078262,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 9:44 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/24/23181367/netflix-ad-supported-tier-confirmed-partners-growth-hardware-acquisition",
         "timestamp": 1656079164,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 9:59 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/24/roe-v-wade-overturned-how-tech-companies-and-users-can-protect-privacy.html",
         "timestamp": 1656082130,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 10:48 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/24/7354451/",
         "timestamp": 1656083451,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "June 24, 2022 11:10 AM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "technology",
         "link": "https://www.eff.org/deeplinks/2022/06/security-and-privacy-tips-people-seeking-abortion",
         "timestamp": 1656085095,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 11:38 AM"
     },
     {
@@ -275,7 +275,7 @@
         "category": "television",
         "link": "https://www.avclub.com/steve-o-says-the-early-years-of-jackass-were-a-bad-inf-1849104982?",
         "timestamp": 1656086018,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 11:53 AM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/3adn8j/no-big-deal-but-it-looks-like-facebook-is-giving-up-on-election-misinformation",
         "timestamp": 1656087889,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 12:24 PM"
     },
     {
@@ -313,15 +313,6 @@
         "timestamp": 1656088571,
         "sentiment": -3,
         "published": "June 24, 2022 12:36 PM"
-    },
-    {
-        "title": "Auschwitz Museum says it's a target of Russian propaganda",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-religion-poland-social-media-42071c41564e7816645009e5f9e8b0fa",
-        "timestamp": 1656089314,
-        "sentiment": -2,
-        "published": "June 24, 2022 12:48 PM"
     },
     {
         "title": "AG Garland says states can't ban FDA-approved abortion pills",
@@ -374,7 +365,7 @@
         "category": "ukraine",
         "link": "https://www.tf1info.fr/international/en-direct-guerre-en-ukraine-russie-adhesion-ue-donbass-severodonetsk-vladimir-poutine-volodymyr-zelensky-union-europeenne-bruxelles-les-informations-de-ce-vendredi-24-juin-2224191.html",
         "timestamp": 1656093627,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "June 24, 2022 2:00 PM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/the-boys-star-tomer-capone-frenchie-1235171490/",
         "timestamp": 1656095305,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 2:28 PM"
     },
     {
@@ -428,7 +419,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/serhiyprytula/status/1540394135202430980?t=QkleolU3DFI3fWbAjHmEOg&s=19",
         "timestamp": 1656099590,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "June 24, 2022 3:39 PM"
     },
     {
@@ -439,15 +430,6 @@
         "timestamp": 1656099889,
         "sentiment": -3,
         "published": "June 24, 2022 3:44 PM"
-    },
-    {
-        "title": "Kremlin Official Sees NATO Preparing for War With Russia",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/kremlin-official-sees-nato-preparing-war-russia-1718934",
-        "timestamp": 1656100053,
-        "sentiment": -2,
-        "published": "June 24, 2022 3:47 PM"
     },
     {
         "title": "Army relaxes tattoo policy, approves some hand, neck ink as it faces recruiting shortfall",
@@ -473,7 +455,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/woke-canceled-hulu-after-two-seasons-1235051543/",
         "timestamp": 1656100888,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 4:01 PM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "technology",
         "link": "https://www.nbcnewyork.com/news/local/amazon-apple-among-companies-that-will-cover-abortion-travel-costs-for-employees/3748609/",
         "timestamp": 1656102271,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 4:24 PM"
     },
     {
@@ -509,7 +491,7 @@
         "category": "television",
         "link": "https://ew.com/tv/duffer-brothers-stranger-things-spinoff-different-than-anyone-is-expecting/",
         "timestamp": 1656102332,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 24, 2022 4:25 PM"
     },
     {
@@ -520,6 +502,15 @@
         "timestamp": 1656104537,
         "sentiment": -2,
         "published": "June 24, 2022 5:02 PM"
+    },
+    {
+        "title": "Russia says EU candidate status for Ukraine, Moldova will have negative consequences",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russia-eu-candidate-status-ukraine-170003501.html",
+        "timestamp": 1656105706,
+        "sentiment": -2,
+        "published": "June 24, 2022 5:21 PM"
     },
     {
         "title": "Let’s talk about why Saudi Arabia is so interested in golf",
@@ -554,7 +545,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/flo-period-tracker-app-anonymous-mode-212157123.html",
         "timestamp": 1656107895,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 5:58 PM"
     },
     {
@@ -563,7 +554,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision",
         "timestamp": 1656108456,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 24, 2022 6:07 PM"
     },
     {
@@ -574,6 +565,42 @@
         "timestamp": 1656109063,
         "sentiment": 0,
         "published": "June 24, 2022 6:17 PM"
+    },
+    {
+        "title": "UK’s Boris Johnson says U.S. abortion decision is a “big step backwards”",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/uks-boris-johnson-says-us-abortion-decision-is-big-step-backwards-2022-06-24/",
+        "timestamp": 1656114121,
+        "sentiment": -2,
+        "published": "June 24, 2022 7:42 PM"
+    },
+    {
+        "title": "‘The Umbrella Academy’ Season 4 ‘Would Be a Great Ending’ for the Show, Showrunner Steve Blackman Says",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/the-umbrella-academy-season-4-ending/",
+        "timestamp": 1656115473,
+        "sentiment": 3,
+        "published": "June 24, 2022 8:04 PM"
+    },
+    {
+        "title": "Auschwitz Museum says it's a target of Russian propaganda",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-religion-poland-social-media-42071c41564e7816645009e5f9e8b0fa",
+        "timestamp": 1656089314,
+        "sentiment": -2,
+        "published": "June 24, 2022 12:48 PM"
+    },
+    {
+        "title": "Kremlin Official Sees NATO Preparing for War With Russia",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/kremlin-official-sees-nato-preparing-war-russia-1718934",
+        "timestamp": 1656100053,
+        "sentiment": -2,
+        "published": "June 24, 2022 3:47 PM"
     },
     {
         "title": "Juul Is an Easy Target—Let's Ban More Tech Products That Harm Us",
