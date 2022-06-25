@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/harley-quinn-season-3-finally-arrives-on-hbo-max-this-july",
         "timestamp": 1656067865,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 6:51 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/6/24/un-israelis-fired-shots-that-killed-journalist-abu-akleh",
         "timestamp": 1656070535,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 7:35 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/the-really-really-rude-puppet-show-1235302555/",
         "timestamp": 1656076968,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 9:22 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "television",
         "link": "https://www.slashfilm.com/893915/butterfly-in-the-sky-review-a-loving-tribute-to-the-power-of-reading-rainbow-and-the-magic-of-levar-burton-tribeca/",
         "timestamp": 1656078262,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 9:44 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "news",
         "link": "https://apnews.com/article/854f60302f21c2c35129e58cf8d8a7b0",
         "timestamp": 1656080046,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 10:14 AM"
     },
     {
@@ -180,31 +180,13 @@
         "published": "June 24, 2022 10:48 AM"
     },
     {
-        "title": "Same-Sex Marriage and Contraception Should Be Next on Chopping Block: Clarence Thomas",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/same-sex-marriage-contraception-roe-v-wade-decision-1373759/",
-        "timestamp": 1656082497,
-        "sentiment": -1,
-        "published": "June 24, 2022 10:54 AM"
-    },
-    {
         "title": "After telling Susan Collins that Roe was ‘settled law,’ Brett Kavanaugh calls it ‘wrongly decided’",
         "domain": "bangordailynews.com",
         "category": "politics",
         "link": "https://www.bangordailynews.com/2022/06/24/politics/after-telling-susan-collins-that-roe-was-settled-law-brett-kavanaugh-calls-it-wrongly-decided/",
         "timestamp": 1656082557,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 10:55 AM"
-    },
-    {
-        "title": "Black congresswomen urge Biden to declare public health and national emergency around abortion",
-        "domain": "usatoday.com",
-        "category": "politics",
-        "link": "https://www.usatoday.com/story/news/politics/2022/06/24/abortion-black-congresswomen-ask-biden-declare-national-emergency/7712543001/",
-        "timestamp": 1656082591,
-        "sentiment": -1,
-        "published": "June 24, 2022 10:56 AM"
     },
     {
         "title": "Kremlin planning terrorist attack on Mozyr to draw Belarus into war with Ukraine – Ukrainian intelligence",
@@ -212,7 +194,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/24/7354451/",
         "timestamp": 1656083451,
-        "sentiment": 9,
+        "sentiment": -5,
         "published": "June 24, 2022 11:10 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3535841-thomas-calls-for-overturning-precedents-on-contraceptives-lgbtq-rights/",
         "timestamp": 1656083646,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 11:14 AM"
-    },
-    {
-        "title": "We’re Not Going Back to the Time Before Roe. We’re Going Somewhere Worse",
-        "domain": "newyorker.com",
-        "category": "politics",
-        "link": "https://www.newyorker.com/magazine/2022/07/04/we-are-not-going-back-to-the-time-before-roe-we-are-going-somewhere-worse/amp",
-        "timestamp": 1656083750,
-        "sentiment": -1,
-        "published": "June 24, 2022 11:15 AM"
     },
     {
         "title": "‘We didn’t sign up to die’: US transit workers sound alarm over rising violence",
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/24/us-transport-workers-rising-violence-job-unions",
         "timestamp": 1656084950,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 11:35 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "television",
         "link": "https://www.avclub.com/steve-o-says-the-early-years-of-jackass-were-a-bad-inf-1849104982?",
         "timestamp": 1656086018,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 11:53 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "politics",
         "link": "https://variety.com/2022/film/news/paramount-disney-netflix-employee-abortion-travel-costs-1235302706/",
         "timestamp": 1656086939,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 12:08 PM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/politics-news/pelosi-blasting-abortion-decision-suggests-kavanaugh-gorsuch-lied-hear-rcna35208?cid=sm_npd_nn_fb_ma&fbclid=IwAR39Fm0q54ahxyqvJr3iDgXliiAVzsgirqLZ1wkMQlUe4Dq80toWhbsL3HE&fs=e&s=cl",
         "timestamp": 1656087781,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 12:23 PM"
     },
     {
@@ -311,8 +284,17 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html",
         "timestamp": 1656088571,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 12:36 PM"
+    },
+    {
+        "title": "Auschwitz Museum says it's a target of Russian propaganda",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-religion-poland-social-media-42071c41564e7816645009e5f9e8b0fa",
+        "timestamp": 1656089314,
+        "sentiment": -2,
+        "published": "June 24, 2022 12:48 PM"
     },
     {
         "title": "AG Garland says states can't ban FDA-approved abortion pills",
@@ -320,7 +302,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/24/merrick-garland-fda-abortion-pills-state-bans",
         "timestamp": 1656090460,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 1:07 PM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "news",
         "link": "https://www.kansascity.com/news/politics-government/article262796208.html",
         "timestamp": 1656091938,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 1:32 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/24/plummets-to-all-time-low-poll-shows-americans-have-no-confidence-in-conservatives/",
         "timestamp": 1656093000,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 1:50 PM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "ukraine",
         "link": "https://www.tf1info.fr/international/en-direct-guerre-en-ukraine-russie-adhesion-ue-donbass-severodonetsk-vladimir-poutine-volodymyr-zelensky-union-europeenne-bruxelles-les-informations-de-ce-vendredi-24-juin-2224191.html",
         "timestamp": 1656093627,
-        "sentiment": 9,
+        "sentiment": -5,
         "published": "June 24, 2022 2:00 PM"
     },
     {
@@ -374,7 +356,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/disney-says-it-will-offer-travel-benefits-employees-seeking-reproductive-care-2022-06-24/",
         "timestamp": 1656094017,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 2:06 PM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-roe-v-wade-singing-b2108959.html",
         "timestamp": 1656094804,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 24, 2022 2:20 PM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/the-boys-star-tomer-capone-frenchie-1235171490/",
         "timestamp": 1656095305,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 2:28 PM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "news",
         "link": "https://www.arkansasonline.com/news/2022/jun/24/watch-live-arkansas-attorney-general-governor-to-certify-trigger-law-discuss-rulings-effect-on-state/?utm_medium=email&utm_campaign=breaking2-6-24-22&utm_content=breaking2-6-24-22+CID_9a60723469d6a1ff7b9f2a9161c57ae5&utm_source=Email%20Marketing%20Platform&utm_term=READ%20MORE",
         "timestamp": 1656099203,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 3:33 PM"
     },
     {
@@ -419,17 +401,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/serhiyprytula/status/1540394135202430980?t=QkleolU3DFI3fWbAjHmEOg&s=19",
         "timestamp": 1656099590,
-        "sentiment": 9,
+        "sentiment": -5,
         "published": "June 24, 2022 3:39 PM"
-    },
-    {
-        "title": "After Dobbs decision, nearly all abortions now illegal in Kentucky",
-        "domain": "wfpl.org",
-        "category": "news",
-        "link": "https://wfpl.org/after-dobbs-decision-nearly-all-abortions-now-illegal-in-kentucky/",
-        "timestamp": 1656099889,
-        "sentiment": -3,
-        "published": "June 24, 2022 3:44 PM"
     },
     {
         "title": "Army relaxes tattoo policy, approves some hand, neck ink as it faces recruiting shortfall",
@@ -437,17 +410,17 @@
         "category": "news",
         "link": "https://www.stripes.com/branches/army/2022-06-23/army-tattoo-policy-recruits-6435811.html",
         "timestamp": 1656100195,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 3:49 PM"
     },
     {
-        "title": "Ukrainian soldier buys eight Pinzgauer armored vehicles at own expense",
-        "domain": "ukrinform.net",
-        "category": "worldnews",
-        "link": "https://www.ukrinform.net/rubric-ato/3514436-ukrainian-soldier-buys-eight-pinzgauer-armored-vehicles-at-own-expense.html",
-        "timestamp": 1656100406,
-        "sentiment": -2,
-        "published": "June 24, 2022 3:53 PM"
+        "title": "Clarence Thomas Says Why Stop at Abortion When We Can Undo the Entire 20th Century",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/88qa9v/abortion-clarence-thomas-trans-rights",
+        "timestamp": 1656100451,
+        "sentiment": 1,
+        "published": "June 24, 2022 3:54 PM"
     },
     {
         "title": "‘Woke’ Canceled By Hulu After Two Seasons",
@@ -455,7 +428,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/woke-canceled-hulu-after-two-seasons-1235051543/",
         "timestamp": 1656100888,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 4:01 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "news",
         "link": "https://www.theadvertiser.com/story/news/2022/06/24/abortion-louisiana-illegal-now-after-supreme-court-ruling/7694143001/",
         "timestamp": 1656101480,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 24, 2022 4:11 PM"
     },
     {
@@ -491,7 +464,7 @@
         "category": "television",
         "link": "https://ew.com/tv/duffer-brothers-stranger-things-spinoff-different-than-anyone-is-expecting/",
         "timestamp": 1656102332,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 4:25 PM"
     },
     {
@@ -531,6 +504,15 @@
         "published": "June 24, 2022 5:34 PM"
     },
     {
+        "title": "Patagonia will post bail for any employees arrested at abortion protests",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/roe-v-wade-abortion-patagonia-protest-bail-out-2022-6",
+        "timestamp": 1656106889,
+        "sentiment": 1,
+        "published": "June 24, 2022 5:41 PM"
+    },
+    {
         "title": "Organize",
         "domain": "map.wewontgoback.com",
         "category": "miami",
@@ -547,6 +529,15 @@
         "timestamp": 1656107895,
         "sentiment": 0,
         "published": "June 24, 2022 5:58 PM"
+    },
+    {
+        "title": "Senator Elizabeth Warren calls on Biden to use federal lands to protect abortion access",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/06/24/metro/senator-elizabeth-warren-calls-biden-use-federal-lands-protect-abortion-access/",
+        "timestamp": 1656108437,
+        "sentiment": 1,
+        "published": "June 24, 2022 6:07 PM"
     },
     {
         "title": "Here’s Google’s letter saying employees can relocate to states with abortion rights",
@@ -581,17 +572,62 @@
         "category": "television",
         "link": "https://www.thewrap.com/the-umbrella-academy-season-4-ending/",
         "timestamp": 1656115473,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 24, 2022 8:04 PM"
     },
     {
-        "title": "Auschwitz Museum says it's a target of Russian propaganda",
-        "domain": "apnews.com",
+        "title": "DHS warns of potential violent extremist activity in response to abortion ruling",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/24/politics/dhs-warning-abortion-ruling/index.html",
+        "timestamp": 1656117237,
+        "sentiment": 0,
+        "published": "June 24, 2022 8:33 PM"
+    },
+    {
+        "title": "Same-Sex Marriage and Contraception Should Be Next on Chopping Block: Clarence Thomas",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/same-sex-marriage-contraception-roe-v-wade-decision-1373759/",
+        "timestamp": 1656082497,
+        "sentiment": -1,
+        "published": "June 24, 2022 10:54 AM"
+    },
+    {
+        "title": "Black congresswomen urge Biden to declare public health and national emergency around abortion",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2022/06/24/abortion-black-congresswomen-ask-biden-declare-national-emergency/7712543001/",
+        "timestamp": 1656082591,
+        "sentiment": -1,
+        "published": "June 24, 2022 10:56 AM"
+    },
+    {
+        "title": "We’re Not Going Back to the Time Before Roe. We’re Going Somewhere Worse",
+        "domain": "newyorker.com",
+        "category": "politics",
+        "link": "https://www.newyorker.com/magazine/2022/07/04/we-are-not-going-back-to-the-time-before-roe-we-are-going-somewhere-worse/amp",
+        "timestamp": 1656083750,
+        "sentiment": -1,
+        "published": "June 24, 2022 11:15 AM"
+    },
+    {
+        "title": "After Dobbs decision, nearly all abortions now illegal in Kentucky",
+        "domain": "wfpl.org",
+        "category": "news",
+        "link": "https://wfpl.org/after-dobbs-decision-nearly-all-abortions-now-illegal-in-kentucky/",
+        "timestamp": 1656099889,
+        "sentiment": -3,
+        "published": "June 24, 2022 3:44 PM"
+    },
+    {
+        "title": "Ukrainian soldier buys eight Pinzgauer armored vehicles at own expense",
+        "domain": "ukrinform.net",
         "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-religion-poland-social-media-42071c41564e7816645009e5f9e8b0fa",
-        "timestamp": 1656089314,
+        "link": "https://www.ukrinform.net/rubric-ato/3514436-ukrainian-soldier-buys-eight-pinzgauer-armored-vehicles-at-own-expense.html",
+        "timestamp": 1656100406,
         "sentiment": -2,
-        "published": "June 24, 2022 12:48 PM"
+        "published": "June 24, 2022 3:53 PM"
     },
     {
         "title": "Kremlin Official Sees NATO Preparing for War With Russia",
