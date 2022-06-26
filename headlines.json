@@ -81,6 +81,15 @@
         "published": "June 26, 2022 2:31 AM"
     },
     {
+        "title": "Deborah Birx Says Trump Officials Made Her Change COVID Data Sent To States",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/deborah-birx-covid-testimony_n_62b57aa7e4b06169caa4fce9",
+        "timestamp": 1656229471,
+        "sentiment": 0,
+        "published": "June 26, 2022 3:44 AM"
+    },
+    {
         "title": "G-7 nations to announce import ban on Russian gold as Moscow sanctions widen",
         "domain": "cnbc.com",
         "category": "worldnews",
@@ -88,6 +97,15 @@
         "timestamp": 1656230226,
         "sentiment": 0,
         "published": "June 26, 2022 3:57 AM"
+    },
+    {
+        "title": "Westworld Brings Itself Back Online for an Ambitious, Uneven, and Weirdly Promising Season 4",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/hbo/westworld-season-4-review/",
+        "timestamp": 1656231359,
+        "sentiment": 7,
+        "published": "June 26, 2022 4:15 AM"
     },
     {
         "title": "India provides safety certification to Russian oil tankers | The move is expected to help Russia keep its fleet operational and supply Russian crude oil abroad.",
@@ -113,7 +131,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
         "timestamp": 1656233648,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 26, 2022 4:54 AM"
     },
     {
@@ -124,15 +142,6 @@
         "timestamp": 1656234424,
         "sentiment": 0,
         "published": "June 26, 2022 5:07 AM"
-    },
-    {
-        "title": "Switzerland’s driverless underground freight project gets start date",
-        "domain": "lenews.ch",
-        "category": "technology",
-        "link": "https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/",
-        "timestamp": 1656236167,
-        "sentiment": 0,
-        "published": "June 26, 2022 5:36 AM"
     },
     {
         "title": "Every new passenger car sold in the world will be electric by 2040, says Exxon Mobil CEO Darren Woods",
@@ -162,15 +171,6 @@
         "published": "June 26, 2022 6:18 AM"
     },
     {
-        "title": "‘Butcher of Aleppo’ sacked as Vladimir Putin shakes up Russian top command again",
-        "domain": "telegraph.co.uk",
-        "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/world-news/2022/06/25/russia-shakes-up-top-command-ex-syria-war-general-sacked/",
-        "timestamp": 1656238722,
-        "sentiment": 0,
-        "published": "June 26, 2022 6:18 AM"
-    },
-    {
         "title": "For people seeking abortions, digital privacy is suddenly critical",
         "domain": "washingtonpost.com",
         "category": "technology",
@@ -178,6 +178,15 @@
         "timestamp": 1656239288,
         "sentiment": 0,
         "published": "June 26, 2022 6:28 AM"
+    },
+    {
+        "title": "FBI seizes disputed Basquiat artwork from Florida museum",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
+        "timestamp": 1656240025,
+        "sentiment": -3,
+        "published": "June 26, 2022 6:40 AM"
     },
     {
         "title": "Russian strikes on Kyiv are \"more of their barbarism\", Biden says",
@@ -205,6 +214,78 @@
         "timestamp": 1656243313,
         "sentiment": 0,
         "published": "June 26, 2022 7:35 AM"
+    },
+    {
+        "title": "As Senate-confirmed justices end Roe, how will voters react?",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/abortion-us-supreme-court-presidential-elections-barack-obama-donald-trump-d83e4352e80094ca360854a984cdbb09",
+        "timestamp": 1656245421,
+        "sentiment": 0,
+        "published": "June 26, 2022 8:10 AM"
+    },
+    {
+        "title": "20 people dead in mysterious circumstances in SA nightclub",
+        "domain": "wrvo.org",
+        "category": "news",
+        "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
+        "timestamp": 1656246663,
+        "sentiment": -3,
+        "published": "June 26, 2022 8:31 AM"
+    },
+    {
+        "title": "Giant Sunspot Doubles Size in 24 Hours and Points Right at Earth",
+        "domain": "greekreporter.com",
+        "category": "news",
+        "link": "https://greekreporter.com/2022/06/25/giant-sunspot-points-earth/",
+        "timestamp": 1656247808,
+        "sentiment": -3,
+        "published": "June 26, 2022 8:50 AM"
+    },
+    {
+        "title": "Biden arrives in Europe to keep allies united against Russia as a grinding war in Ukraine takes its toll",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
+        "timestamp": 1656249424,
+        "sentiment": 0,
+        "published": "June 26, 2022 9:17 AM"
+    },
+    {
+        "title": "Donald Trump Jr. suggested Roe v. Wade was overturned as a direct result of Obama making fun of his father in 2011",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://businessinsider.com/donald-jr-roe-v-wade-obama-trump-2022-6",
+        "timestamp": 1656249815,
+        "sentiment": 0,
+        "published": "June 26, 2022 9:23 AM"
+    },
+    {
+        "title": "Tesla Is Sacking Staff Who Recently Started and Withdrawing Job Offers",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-is-sacking-staff-who-recently-started-withdrawing-job-offers-2022-6",
+        "timestamp": 1656252390,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:06 AM"
+    },
+    {
+        "title": "Switzerland’s driverless underground freight project gets start date",
+        "domain": "lenews.ch",
+        "category": "technology",
+        "link": "https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/",
+        "timestamp": 1656236167,
+        "sentiment": 0,
+        "published": "June 26, 2022 5:36 AM"
+    },
+    {
+        "title": "‘Butcher of Aleppo’ sacked as Vladimir Putin shakes up Russian top command again",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/world-news/2022/06/25/russia-shakes-up-top-command-ex-syria-war-general-sacked/",
+        "timestamp": 1656238722,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:18 AM"
     },
     {
         "title": "Ukrainian missiles struck 3 gas platforms in the Black Sea that Russia had converted into 'small garrisons'",
