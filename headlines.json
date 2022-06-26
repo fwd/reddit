@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": -8,
+        "sentiment": -2,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/us/supreme-court-roe-v-wade-protests/index.html",
         "timestamp": 1656217729,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
         "timestamp": 1656219591,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 26, 2022 12:59 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -50,8 +50,26 @@
         "category": "news",
         "link": "https://www.ktvh.com/news/fromberg-clears-muck-water-from-basements-fema-says-manage-expectations-about-federal-aid",
         "timestamp": 1656224663,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 26, 2022 2:24 AM"
+    },
+    {
+        "title": "Twelve hospitalised after fentanyl found for the first time in New Zealand.",
+        "domain": "stuff.co.nz",
+        "category": "worldnews",
+        "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
+        "timestamp": 1656225107,
+        "sentiment": -4,
+        "published": "June 26, 2022 2:31 AM"
+    },
+    {
+        "title": "Video shows man pointing gun at driver in NW Miami-Dade encounter described as road rage",
+        "domain": "wsvn.com",
+        "category": "miami",
+        "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
+        "timestamp": 1656233648,
+        "sentiment": 2,
+        "published": "June 26, 2022 4:54 AM"
     },
     {
         "title": "Women pro cyclists take a knee during national anthem at US Pro Nationals to protest abortion ruling",
