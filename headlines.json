@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/24/covid-infections-last-week-levels-continue-rise-uk/",
         "timestamp": 1656219845,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 1:04 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "sports",
         "link": "https://www.sportsnet.ca/cfl/article/nathan-rourke-sets-single-game-cfl-passing-record-by-a-canadian-qb/",
         "timestamp": 1656221645,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 26, 2022 1:34 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
         "timestamp": 1656225107,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 2:31 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
         "timestamp": 1656230226,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 3:57 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
         "timestamp": 1656232414,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 4:33 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/jellysmack-laid-off-employees-economic-slowdown-email-ceo-to-employees-2022-6",
         "timestamp": 1656232931,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 4:42 AM"
     },
     {
@@ -117,12 +117,21 @@
         "published": "June 26, 2022 4:54 AM"
     },
     {
+        "title": "Dutch Cabinet will reveal plans for 2 new nuclear power plants this week",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
+        "timestamp": 1656234424,
+        "sentiment": 0,
+        "published": "June 26, 2022 5:07 AM"
+    },
+    {
         "title": "Switzerland’s driverless underground freight project gets start date",
         "domain": "lenews.ch",
         "category": "technology",
         "link": "https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/",
         "timestamp": 1656236167,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 5:36 AM"
     },
     {
@@ -131,8 +140,17 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/25/exxon-mobil-ceo-all-new-passenger-cars-will-be-electric-by-2040.html",
         "timestamp": 1656237382,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 5:56 AM"
+    },
+    {
+        "title": "New Zealand sea sponge populations 'dying by the millions' due to climate change",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
+        "timestamp": 1656238531,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:15 AM"
     },
     {
         "title": "New Israeli military technology allows operators to 'see through walls'",
@@ -140,7 +158,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/new-israeli-military-technology-allows-operators-to-see-through-walls-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656238703,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 6:18 AM"
     },
     {
@@ -149,8 +167,44 @@
         "category": "worldnews",
         "link": "https://www.telegraph.co.uk/world-news/2022/06/25/russia-shakes-up-top-command-ex-syria-war-general-sacked/",
         "timestamp": 1656238722,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 6:18 AM"
+    },
+    {
+        "title": "For people seeking abortions, digital privacy is suddenly critical",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/",
+        "timestamp": 1656239288,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:28 AM"
+    },
+    {
+        "title": "Russian strikes on Kyiv are \"more of their barbarism\", Biden says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russian-strikes-kyiv-are-more-their-barbarism-biden-says-2022-06-26/",
+        "timestamp": 1656240666,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:51 AM"
+    },
+    {
+        "title": "22 found dead in South African nightclub",
+        "domain": "timeslive.co.za",
+        "category": "worldnews",
+        "link": "https://www.timeslive.co.za/news/south-africa/2022-06-26-22-killed-in-east-london-nightclub/#Echobox=1656223911",
+        "timestamp": 1656242168,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:16 AM"
+    },
+    {
+        "title": "Google and Apple may face another FTC probe over 'harmful' mobile trackers",
+        "domain": "androidcentral.com",
+        "category": "technology",
+        "link": "https://www.androidcentral.com/apps-software/ftc-could-probe-google-and-apple-over-mobile-tracking",
+        "timestamp": 1656243313,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:35 AM"
     },
     {
         "title": "Ukrainian missiles struck 3 gas platforms in the Black Sea that Russia had converted into 'small garrisons'",
@@ -162,15 +216,6 @@
         "published": "June 26, 2022 6:20 AM"
     },
     {
-        "title": "For people seeking abortions, digital privacy is suddenly critical",
-        "domain": "washingtonpost.com",
-        "category": "technology",
-        "link": "https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/",
-        "timestamp": 1656239288,
-        "sentiment": -2,
-        "published": "June 26, 2022 6:28 AM"
-    },
-    {
         "title": "JPMorgan Chase tells employees the bank will pay for travel to states that allow abortion",
         "domain": "cnbc.com",
         "category": "worldnews",
@@ -178,15 +223,6 @@
         "timestamp": 1656241502,
         "sentiment": -1,
         "published": "June 26, 2022 7:05 AM"
-    },
-    {
-        "title": "22 found dead in South African nightclub",
-        "domain": "timeslive.co.za",
-        "category": "worldnews",
-        "link": "https://www.timeslive.co.za/news/south-africa/2022-06-26-22-killed-in-east-london-nightclub/#Echobox=1656223911",
-        "timestamp": 1656242168,
-        "sentiment": -1,
-        "published": "June 26, 2022 7:16 AM"
     },
     {
         "title": "Women pro cyclists take a knee during national anthem at US Pro Nationals to protest abortion ruling",
