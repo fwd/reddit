@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -63,30 +63,12 @@
         "published": "June 26, 2022 2:24 AM"
     },
     {
-        "title": "Twelve hospitalised after fentanyl found for the first time in New Zealand.",
-        "domain": "stuff.co.nz",
-        "category": "worldnews",
-        "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
-        "timestamp": 1656225107,
-        "sentiment": 1,
-        "published": "June 26, 2022 2:31 AM"
-    },
-    {
-        "title": "Deborah Birx Says Trump Officials Made Her Change COVID Data Sent To States",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/deborah-birx-covid-testimony_n_62b57aa7e4b06169caa4fce9",
-        "timestamp": 1656229471,
-        "sentiment": -1,
-        "published": "June 26, 2022 3:44 AM"
-    },
-    {
         "title": "G-7 nations to announce import ban on Russian gold as Moscow sanctions widen",
         "domain": "cnbc.com",
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
         "timestamp": 1656230226,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 26, 2022 3:57 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
         "timestamp": 1656232414,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 26, 2022 4:33 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/jellysmack-laid-off-employees-economic-slowdown-email-ceo-to-employees-2022-6",
         "timestamp": 1656232931,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 26, 2022 4:42 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
         "timestamp": 1656234424,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 26, 2022 5:07 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/25/exxon-mobil-ceo-all-new-passenger-cars-will-be-electric-by-2040.html",
         "timestamp": 1656237382,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 26, 2022 5:56 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
         "timestamp": 1656238531,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "June 26, 2022 6:15 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/new-israeli-military-technology-allows-operators-to-see-through-walls-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656238703,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 26, 2022 6:18 AM"
     },
     {
@@ -167,8 +149,269 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/",
         "timestamp": 1656239288,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 26, 2022 6:28 AM"
+    },
+    {
+        "title": "Russia slides towards default as payment deadline expires",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/",
+        "timestamp": 1656243973,
+        "sentiment": -2,
+        "published": "June 26, 2022 7:46 AM"
+    },
+    {
+        "title": "As Senate-confirmed justices end Roe, how will voters react?",
+        "domain": "apnews.com",
+        "category": "politics",
+        "link": "https://apnews.com/article/abortion-us-supreme-court-presidential-elections-barack-obama-donald-trump-d83e4352e80094ca360854a984cdbb09",
+        "timestamp": 1656245421,
+        "sentiment": 0,
+        "published": "June 26, 2022 8:10 AM"
+    },
+    {
+        "title": "20 people dead in mysterious circumstances in SA nightclub",
+        "domain": "wrvo.org",
+        "category": "news",
+        "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
+        "timestamp": 1656246663,
+        "sentiment": -2,
+        "published": "June 26, 2022 8:31 AM"
+    },
+    {
+        "title": "Biden arrives in Europe to keep allies united against Russia as a grinding war in Ukraine takes its toll",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
+        "timestamp": 1656249424,
+        "sentiment": -2,
+        "published": "June 26, 2022 9:17 AM"
+    },
+    {
+        "title": "Google engineer identifies anonymous faces in WWII photos with AI facial recognition",
+        "domain": "timesofisrael.com",
+        "category": "technology",
+        "link": "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/",
+        "timestamp": 1656250119,
+        "sentiment": 1,
+        "published": "June 26, 2022 9:28 AM"
+    },
+    {
+        "title": "South Dakota governor says she will ban abortion pills prescribed online",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/3537363-south-dakota-governor-says-she-will-ban-abortion-pills-prescribed-online/",
+        "timestamp": 1656251187,
+        "sentiment": 0,
+        "published": "June 26, 2022 9:46 AM"
+    },
+    {
+        "title": "Tesla Is Sacking Staff Who Recently Started and Withdrawing Job Offers",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-is-sacking-staff-who-recently-started-withdrawing-job-offers-2022-6",
+        "timestamp": 1656252390,
+        "sentiment": 1,
+        "published": "June 26, 2022 10:06 AM"
+    },
+    {
+        "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
+        "timestamp": 1656253218,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:20 AM"
+    },
+    {
+        "title": "A Russian oligarch's seized $75 million superyacht will be first up for auction, report says",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russian-seized-superyacht-will-be-first-to-be-auctioned-2022-6",
+        "timestamp": 1656253667,
+        "sentiment": -2,
+        "published": "June 26, 2022 10:27 AM"
+    },
+    {
+        "title": "The Supreme Court Is Now Forcing Taxpayers to Pay for Anti-Gay Religious Schools",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
+        "timestamp": 1656254030,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:33 AM"
+    },
+    {
+        "title": "Alito said women seeking abortions should have to listen to distressing details about fetal development as 'part of the responsibility of moral choice'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/alito-women-seeking-abortions-should-be-told-about-fetal-development-2022-6",
+        "timestamp": 1656254183,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:36 AM"
+    },
+    {
+        "title": "GOP privately worrying overturning Roe v. Wade could impact midterms: 'This is a losing issue for Republicans,' report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/republicans-fear-overturning-roe-v-wade-is-midterms-losing-issue-2022-6",
+        "timestamp": 1656254408,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:40 AM"
+    },
+    {
+        "title": "A record low 25 percent of Americans have confidence in the Supreme Court: poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/25-percent-americans-confidence-supreme-court-poll-2022-6",
+        "timestamp": 1656254950,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:49 AM"
+    },
+    {
+        "title": "At least 8 people shot at rave dance party in Tacoma, Washington",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/people-shot-rave-dance-party-tacoma-washington/story?id=85735774",
+        "timestamp": 1656255342,
+        "sentiment": -2,
+        "published": "June 26, 2022 10:55 AM"
+    },
+    {
+        "title": "Capitol attack hearings: if Republicans did nothing wrong, why were pardons sought?",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
+        "timestamp": 1656255419,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:56 AM"
+    },
+    {
+        "title": "‘My Aching Heart Is Shattered Into Little Pieces’ - “A year ago, Champlain Towers South collapsed in Surfside, Fla. The lives of those who lost loved ones and homes have never been the same.”",
+        "domain": "nytimes.com",
+        "category": "florida",
+        "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
+        "timestamp": 1656255519,
+        "sentiment": 2,
+        "published": "June 26, 2022 10:58 AM"
+    },
+    {
+        "title": "Ocasio-Cortez says conservative justices lied under oath, should be impeached",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
+        "timestamp": 1656256596,
+        "sentiment": 0,
+        "published": "June 26, 2022 11:16 AM"
+    },
+    {
+        "title": "AOC questions legitimacy of Supreme Court and calls Biden ‘historically weak’ on abortion",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
+        "timestamp": 1656256699,
+        "sentiment": 0,
+        "published": "June 26, 2022 11:18 AM"
+    },
+    {
+        "title": "Turkish police break up Istanbul Pride, arrest dozens including journalists",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/06/26/turkish-police-break-up-istanbul-pride-arrest-dozens-including-journalists",
+        "timestamp": 1656256992,
+        "sentiment": -2,
+        "published": "June 26, 2022 11:23 AM"
+    },
+    {
+        "title": "‘Schitt’s Creek’ Reunion Wanted on New Amazon Series ‘The Lake’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/streaming/news/schitts-creek-the-lake-amazon-1235303070/",
+        "timestamp": 1656257455,
+        "sentiment": 4,
+        "published": "June 26, 2022 11:30 AM"
+    },
+    {
+        "title": "Russia's Putin to make first foreign trip since launching Ukraine war",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/russia-s-putin-to-make-first-foreign-trip-since-launching-ukraine-war/ar-AAYSVFM?ocid=msedgdhphdr&cvid=f08c0c3614274c2db7ab21686907a67c",
+        "timestamp": 1656258511,
+        "sentiment": -2,
+        "published": "June 26, 2022 11:48 AM"
+    },
+    {
+        "title": "dawg here we fcking go",
+        "domain": "wfla.com",
+        "category": "miami",
+        "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
+        "timestamp": 1656259255,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:00 PM"
+    },
+    {
+        "title": "Taliban say they will not interfere with Afghanistan earthquake aid.",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/25/taliban-say-they-will-not-interfere-with-afghanistan-earthquake-aid",
+        "timestamp": 1656259618,
+        "sentiment": -2,
+        "published": "June 26, 2022 12:06 PM"
+    },
+    {
+        "title": "Prince Charles 'accepted a suitcase with 1m euros', report claims",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/uk-61941113",
+        "timestamp": 1656262480,
+        "sentiment": -2,
+        "published": "June 26, 2022 12:54 PM"
+    },
+    {
+        "title": "Fintechs face reckoning as easy money dries up",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/2c0028ad-72a7-4176-8922-6729f6a3cc75",
+        "timestamp": 1656262674,
+        "sentiment": 1,
+        "published": "June 26, 2022 12:57 PM"
+    },
+    {
+        "title": "Large crowds protest at US embassy in Dublin over abortion ruling",
+        "domain": "irishexaminer.com",
+        "category": "worldnews",
+        "link": "https://www.irishexaminer.com/news/arid-40904375.html",
+        "timestamp": 1656264962,
+        "sentiment": -2,
+        "published": "June 26, 2022 1:36 PM"
+    },
+    {
+        "title": "Group aims to strip Fox News of ad revenue over ‘fueling next insurrection’",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/media/2022/jun/24/campaign-strip-fox-news-site-of-ad-revenue",
+        "timestamp": 1656265280,
+        "sentiment": -2,
+        "published": "June 26, 2022 1:41 PM"
+    },
+    {
+        "title": "Twelve hospitalised after fentanyl found for the first time in New Zealand.",
+        "domain": "stuff.co.nz",
+        "category": "worldnews",
+        "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
+        "timestamp": 1656225107,
+        "sentiment": 1,
+        "published": "June 26, 2022 2:31 AM"
+    },
+    {
+        "title": "Deborah Birx Says Trump Officials Made Her Change COVID Data Sent To States",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/deborah-birx-covid-testimony_n_62b57aa7e4b06169caa4fce9",
+        "timestamp": 1656229471,
+        "sentiment": -1,
+        "published": "June 26, 2022 3:44 AM"
     },
     {
         "title": "FBI seizes disputed Basquiat artwork from Florida museum",
@@ -207,24 +450,6 @@
         "published": "June 26, 2022 7:25 AM"
     },
     {
-        "title": "As Senate-confirmed justices end Roe, how will voters react?",
-        "domain": "apnews.com",
-        "category": "politics",
-        "link": "https://apnews.com/article/abortion-us-supreme-court-presidential-elections-barack-obama-donald-trump-d83e4352e80094ca360854a984cdbb09",
-        "timestamp": 1656245421,
-        "sentiment": -1,
-        "published": "June 26, 2022 8:10 AM"
-    },
-    {
-        "title": "20 people dead in mysterious circumstances in SA nightclub",
-        "domain": "wrvo.org",
-        "category": "news",
-        "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
-        "timestamp": 1656246663,
-        "sentiment": -2,
-        "published": "June 26, 2022 8:31 AM"
-    },
-    {
         "title": "The USA are ready to provide Ukraine with additional weapons. In particular, Western or American systems to allow the Ukrainian military to fight in the Donbas, - said Pentagon Speaker John Kirby",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
@@ -232,24 +457,6 @@
         "timestamp": 1656249076,
         "sentiment": -1,
         "published": "June 26, 2022 9:11 AM"
-    },
-    {
-        "title": "Biden arrives in Europe to keep allies united against Russia as a grinding war in Ukraine takes its toll",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
-        "timestamp": 1656249424,
-        "sentiment": 1,
-        "published": "June 26, 2022 9:17 AM"
-    },
-    {
-        "title": "Google engineer identifies anonymous faces in WWII photos with AI facial recognition",
-        "domain": "timesofisrael.com",
-        "category": "technology",
-        "link": "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/",
-        "timestamp": 1656250119,
-        "sentiment": -5,
-        "published": "June 26, 2022 9:28 AM"
     },
     {
         "title": "Boris Johnson warns Russian victory in Ukraine would be 'absolutely catastrophic'",
@@ -261,123 +468,6 @@
         "published": "June 26, 2022 9:34 AM"
     },
     {
-        "title": "South Dakota governor says she will ban abortion pills prescribed online",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/3537363-south-dakota-governor-says-she-will-ban-abortion-pills-prescribed-online/",
-        "timestamp": 1656251187,
-        "sentiment": -1,
-        "published": "June 26, 2022 9:46 AM"
-    },
-    {
-        "title": "Tesla Is Sacking Staff Who Recently Started and Withdrawing Job Offers",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/tesla-is-sacking-staff-who-recently-started-withdrawing-job-offers-2022-6",
-        "timestamp": 1656252390,
-        "sentiment": -5,
-        "published": "June 26, 2022 10:06 AM"
-    },
-    {
-        "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
-        "timestamp": 1656253218,
-        "sentiment": -1,
-        "published": "June 26, 2022 10:20 AM"
-    },
-    {
-        "title": "A Russian oligarch's seized $75 million superyacht will be first up for auction, report says",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/russian-seized-superyacht-will-be-first-to-be-auctioned-2022-6",
-        "timestamp": 1656253667,
-        "sentiment": 1,
-        "published": "June 26, 2022 10:27 AM"
-    },
-    {
-        "title": "The Supreme Court Is Now Forcing Taxpayers to Pay for Anti-Gay Religious Schools",
-        "domain": "truthout.org",
-        "category": "politics",
-        "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
-        "timestamp": 1656254030,
-        "sentiment": -1,
-        "published": "June 26, 2022 10:33 AM"
-    },
-    {
-        "title": "GOP privately worrying overturning Roe v. Wade could impact midterms: 'This is a losing issue for Republicans,' report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/republicans-fear-overturning-roe-v-wade-is-midterms-losing-issue-2022-6",
-        "timestamp": 1656254408,
-        "sentiment": -1,
-        "published": "June 26, 2022 10:40 AM"
-    },
-    {
-        "title": "A record low 25 percent of Americans have confidence in the Supreme Court: poll",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/25-percent-americans-confidence-supreme-court-poll-2022-6",
-        "timestamp": 1656254950,
-        "sentiment": -1,
-        "published": "June 26, 2022 10:49 AM"
-    },
-    {
-        "title": "At least 8 people shot at rave dance party in Tacoma, Washington",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/people-shot-rave-dance-party-tacoma-washington/story?id=85735774",
-        "timestamp": 1656255342,
-        "sentiment": -2,
-        "published": "June 26, 2022 10:55 AM"
-    },
-    {
-        "title": "Capitol attack hearings: if Republicans did nothing wrong, why were pardons sought?",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
-        "timestamp": 1656255419,
-        "sentiment": -1,
-        "published": "June 26, 2022 10:56 AM"
-    },
-    {
-        "title": "‘My Aching Heart Is Shattered Into Little Pieces’ - “A year ago, Champlain Towers South collapsed in Surfside, Fla. The lives of those who lost loved ones and homes have never been the same.”",
-        "domain": "nytimes.com",
-        "category": "florida",
-        "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
-        "timestamp": 1656255519,
-        "sentiment": 2,
-        "published": "June 26, 2022 10:58 AM"
-    },
-    {
-        "title": "Ocasio-Cortez says conservative justices lied under oath, should be impeached",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
-        "timestamp": 1656256596,
-        "sentiment": -1,
-        "published": "June 26, 2022 11:16 AM"
-    },
-    {
-        "title": "AOC questions legitimacy of Supreme Court and calls Biden ‘historically weak’ on abortion",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
-        "timestamp": 1656256699,
-        "sentiment": -1,
-        "published": "June 26, 2022 11:18 AM"
-    },
-    {
-        "title": "‘Schitt’s Creek’ Reunion Wanted on New Amazon Series ‘The Lake’",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/streaming/news/schitts-creek-the-lake-amazon-1235303070/",
-        "timestamp": 1656257455,
-        "sentiment": 4,
-        "published": "June 26, 2022 11:30 AM"
-    },
-    {
         "title": "Thousands protest in Madrid against NATO summit",
         "domain": "msn.com",
         "category": "worldnews",
@@ -385,24 +475,6 @@
         "timestamp": 1656258540,
         "sentiment": 1,
         "published": "June 26, 2022 11:49 AM"
-    },
-    {
-        "title": "dawg here we fcking go",
-        "domain": "wfla.com",
-        "category": "miami",
-        "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
-        "timestamp": 1656259255,
-        "sentiment": 0,
-        "published": "June 26, 2022 12:00 PM"
-    },
-    {
-        "title": "Taliban say they will not interfere with Afghanistan earthquake aid.",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/25/taliban-say-they-will-not-interfere-with-afghanistan-earthquake-aid",
-        "timestamp": 1656259618,
-        "sentiment": -2,
-        "published": "June 26, 2022 12:06 PM"
     },
     {
         "title": "22 found dead in South African nightclub",
