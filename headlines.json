@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
         "timestamp": 1656155700,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 7:15 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
         "timestamp": 1656156148,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 7:22 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
         "timestamp": 1656163202,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 9:20 AM"
     },
     {
@@ -122,17 +122,8 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
         "timestamp": 1656164829,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 9:47 AM"
-    },
-    {
-        "title": "'The dog that caught the car': Republicans brace for the impact of reversing Roe",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
-        "timestamp": 1656165221,
-        "sentiment": -6,
-        "published": "June 25, 2022 9:53 AM"
     },
     {
         "title": "TV Line Performers of the Week: The Cast of ‘The Boys’",
@@ -149,17 +140,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
         "timestamp": 1656166203,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 10:10 AM"
-    },
-    {
-        "title": "Community mourns 3-year-old found decomposing in freezer: 'We're supposed to protect them'",
-        "domain": "freep.com",
-        "category": "news",
-        "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
-        "timestamp": 1656166553,
-        "sentiment": 0,
-        "published": "June 25, 2022 10:15 AM"
     },
     {
         "title": "The Constitution Is Whatever the Right Wing Says It Is",
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
         "timestamp": 1656166640,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 10:17 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-europe-61933817",
         "timestamp": 1656172538,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 11:55 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/clarence-thomas-told-clerks-he-wants-to-make-liberals-miserable-2022-6",
         "timestamp": 1656173942,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 12:19 PM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "news",
         "link": "https://washingtoncitypaper.com/article/560895/shane-lamond-mpd-lieutenant-under-investigation-for-ties-to-proud-boys-was-accused-of-time-theft-two-years-prior/",
         "timestamp": 1656175818,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 12:50 PM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/gun-control-biden-bill-into-law/",
         "timestamp": 1656177544,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 1:19 PM"
     },
     {
@@ -306,6 +288,15 @@
         "published": "June 25, 2022 1:34 PM"
     },
     {
+        "title": "US to Join G-7 in Ban of New Russian Gold Imports to Hit Putin",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-25/us-to-join-g-7-in-ban-of-new-russian-gold-imports-to-hit-putin?srnd=premium",
+        "timestamp": 1656178477,
+        "sentiment": 1,
+        "published": "June 25, 2022 1:34 PM"
+    },
+    {
         "title": "Accepting the Daytime Emmy for Outstanding Game Show, ‘Jeopardy!’ executive producer Michael Davies says a hosting announcement will come “very, very soon”, says the franchise will expand with different versions and “multiple hosts to represent the entire audience, to represent the entire country.”",
         "domain": "variety.com",
         "category": "television",
@@ -315,21 +306,12 @@
         "published": "June 25, 2022 1:34 PM"
     },
     {
-        "title": "Banning tourists from cannabis cafes will cut back on crime: Amsterdam Mayor Fernke Halsema",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/banning-tourists-from-cannabis-cafes-will-cut-back-on-crime-halsema/",
-        "timestamp": 1656178875,
-        "sentiment": 1,
-        "published": "June 25, 2022 1:41 PM"
-    },
-    {
         "title": "Gay and bi men in Florida should get the meningococcal vaccine, CDC says",
         "domain": "cnn.com",
         "category": "miami",
         "link": "https://www.cnn.com/2022/06/24/health/gay-bi-men-need-meningococcal-vaccine/index.html",
         "timestamp": 1656178955,
-        "sentiment": 6,
+        "sentiment": -3,
         "published": "June 25, 2022 1:42 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "miami",
         "link": "https://www.tampabay.com/news/health/2022/06/24/why-florida-isnt-losing-the-right-to-an-abortion-yet/",
         "timestamp": 1656181377,
-        "sentiment": 6,
+        "sentiment": -3,
         "published": "June 25, 2022 2:22 PM"
     },
     {
@@ -356,17 +338,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-passes-230k-signatures-1716379",
         "timestamp": 1656182038,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 2:33 PM"
-    },
-    {
-        "title": "Electric Mercedes Completes 747-Mile Drive Without Charging",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/mercedes-electric-car-longest-range-tesla-model-s-eqs-eqxx-2022-6",
-        "timestamp": 1656182224,
-        "sentiment": -8,
-        "published": "June 25, 2022 2:37 PM"
     },
     {
         "title": "Peaky Blinders Season 6 Proves Thomas Shelby Is the Most Underrated Leading Man on TV",
@@ -383,7 +356,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/25/europe/russia-invasion-ukraine-06-25-intl/index.html",
         "timestamp": 1656183304,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 2:55 PM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "politics",
         "link": "https://www.kpvi.com/news/national_news/crist-calls-for-kavanaugh-gorsuch-to-be-impeached-over-abortion-ruling/article_73614887-1ece-58d5-b353-388aad8bb3de.html",
         "timestamp": 1656183498,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 2:58 PM"
     },
     {
@@ -428,7 +401,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/25/us/weathertech-bolingbrook-shooting-illinois/index.html",
         "timestamp": 1656186966,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 3:56 PM"
     },
     {
@@ -437,7 +410,7 @@
         "category": "news",
         "link": "https://www.abc6.com/providence-police-off-duty-officer-under-investigation-after-woman-assaulted-at-protest/",
         "timestamp": 1656187017,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 3:56 PM"
     },
     {
@@ -446,7 +419,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/wisconsin-governor-tony-evers-says-hell-stop-state-abortion-ban-from-being-enforced",
         "timestamp": 1656187761,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 4:09 PM"
     },
     {
@@ -468,6 +441,15 @@
         "published": "June 25, 2022 4:58 PM"
     },
     {
+        "title": "Why Democrats should impeach Justice Clarence Thomas",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/opinion/msnbc-opinion/why-supreme-court-justice-clarence-thomas-could-be-impeached-n1292076?cid=sm_npd_ms_tw_ma",
+        "timestamp": 1656191192,
+        "sentiment": 0,
+        "published": "June 25, 2022 5:06 PM"
+    },
+    {
         "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
         "domain": "msn.com",
         "category": "ukraine",
@@ -482,8 +464,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/ginni-thomas-asked-anita-hill-to-apologize-to-clarence-thomas-2022-6",
         "timestamp": 1656193052,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 25, 2022 5:37 PM"
+    },
+    {
+        "title": "Google warns of 'hermit spyware' infecting Android and iOS devices",
+        "domain": "mashable.com",
+        "category": "technology",
+        "link": "https://mashable.com/article/google-warns-spyware-android-ios",
+        "timestamp": 1656196133,
+        "sentiment": -8,
+        "published": "June 25, 2022 6:28 PM"
     },
     {
         "title": "USFL playoffs 2022: Semifinals scores, live updates, highlights for Stars-Generals and Breakers-Stallions",
@@ -495,13 +486,31 @@
         "published": "June 25, 2022 6:52 PM"
     },
     {
+        "title": "Motorcade rushing Putin to the Kremlin at 23:00 local time in Moscow.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/OAlexanderDK/status/1540803472114667522",
+        "timestamp": 1656198481,
+        "sentiment": -1,
+        "published": "June 25, 2022 7:08 PM"
+    },
+    {
         "title": "Frozen baby mammoth discovered in Yukon",
         "domain": "bbc.com",
         "category": "news",
         "link": "https://www.bbc.com/news/world-us-canada-61936818",
         "timestamp": 1656199373,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 25, 2022 7:22 PM"
+    },
+    {
+        "title": "UN concludes Israelis killed Al Jazeera journalist - BBC News",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-middle-east-61916554",
+        "timestamp": 1656199445,
+        "sentiment": -3,
+        "published": "June 25, 2022 7:24 PM"
     },
     {
         "title": "The NFL Prepares to Push for an Indefinite Suspension of Deshaun Watson",
@@ -511,6 +520,42 @@
         "timestamp": 1656201935,
         "sentiment": 0,
         "published": "June 25, 2022 8:05 PM"
+    },
+    {
+        "title": "'The dog that caught the car': Republicans brace for the impact of reversing Roe",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
+        "timestamp": 1656165221,
+        "sentiment": -6,
+        "published": "June 25, 2022 9:53 AM"
+    },
+    {
+        "title": "Community mourns 3-year-old found decomposing in freezer: 'We're supposed to protect them'",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
+        "timestamp": 1656166553,
+        "sentiment": 0,
+        "published": "June 25, 2022 10:15 AM"
+    },
+    {
+        "title": "Banning tourists from cannabis cafes will cut back on crime: Amsterdam Mayor Fernke Halsema",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/banning-tourists-from-cannabis-cafes-will-cut-back-on-crime-halsema/",
+        "timestamp": 1656178875,
+        "sentiment": 1,
+        "published": "June 25, 2022 1:41 PM"
+    },
+    {
+        "title": "Electric Mercedes Completes 747-Mile Drive Without Charging",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mercedes-electric-car-longest-range-tesla-model-s-eqs-eqxx-2022-6",
+        "timestamp": 1656182224,
+        "sentiment": -8,
+        "published": "June 25, 2022 2:37 PM"
     },
     {
         "title": "Sydney McLaughlin Does It Again, Breaks Own World Record | Sports News | US News",
@@ -565,15 +610,6 @@
         "timestamp": 1656174097,
         "sentiment": 0,
         "published": "June 25, 2022 12:21 PM"
-    },
-    {
-        "title": "US to Join G-7 in Ban of New Russian Gold Imports to Hit Putin",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-25/us-to-join-g-7-in-ban-of-new-russian-gold-imports-to-hit-putin?srnd=premium",
-        "timestamp": 1656178477,
-        "sentiment": 1,
-        "published": "June 25, 2022 1:34 PM"
     },
     {
         "title": "The Supreme Court rulings represent the tyranny of the minority",
