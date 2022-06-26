@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": -2,
+        "sentiment": -8,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -25,6 +25,15 @@
         "timestamp": 1656219591,
         "sentiment": -1,
         "published": "June 26, 2022 12:59 AM"
+    },
+    {
+        "title": "1.7m people in the UK had Covid last week as levels continue to rise | Coronavirus",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/24/covid-infections-last-week-levels-continue-rise-uk/",
+        "timestamp": 1656219845,
+        "sentiment": -4,
+        "published": "June 26, 2022 1:04 AM"
     },
     {
         "title": "Canada's Nathan Rourke throws record-setting 436 yards, sets single-game passing record for a Canadian QB",
@@ -61,6 +70,24 @@
         "timestamp": 1656225107,
         "sentiment": -4,
         "published": "June 26, 2022 2:31 AM"
+    },
+    {
+        "title": "India provides safety certification to Russian oil tankers | The move is expected to help Russia keep its fleet operational and supply Russian crude oil abroad.",
+        "domain": "ship-technology.com",
+        "category": "worldnews",
+        "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
+        "timestamp": 1656232414,
+        "sentiment": -4,
+        "published": "June 26, 2022 4:33 AM"
+    },
+    {
+        "title": "Creator economy startup Jellysmack has laid off 8% of its staff amid concerns of an ad downturn. Here's the email the cofounders sent to employees.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/jellysmack-laid-off-employees-economic-slowdown-email-ceo-to-employees-2022-6",
+        "timestamp": 1656232931,
+        "sentiment": -8,
+        "published": "June 26, 2022 4:42 AM"
     },
     {
         "title": "Video shows man pointing gun at driver in NW Miami-Dade encounter described as road rage",
