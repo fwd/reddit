@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -27,15 +27,6 @@
         "published": "June 26, 2022 12:59 AM"
     },
     {
-        "title": "1.7m people in the UK had Covid last week as levels continue to rise | Coronavirus",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/24/covid-infections-last-week-levels-continue-rise-uk/",
-        "timestamp": 1656219845,
-        "sentiment": 1,
-        "published": "June 26, 2022 1:04 AM"
-    },
-    {
         "title": "Canada's Nathan Rourke throws record-setting 436 yards, sets single-game passing record for a Canadian QB",
         "domain": "sportsnet.ca",
         "category": "sports",
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
         "timestamp": 1656225107,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 2:31 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
         "timestamp": 1656230226,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 3:57 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
         "timestamp": 1656232414,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 4:33 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/jellysmack-laid-off-employees-economic-slowdown-email-ceo-to-employees-2022-6",
         "timestamp": 1656232931,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 4:42 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
         "timestamp": 1656233648,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 26, 2022 4:54 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
         "timestamp": 1656234424,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 5:07 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/25/exxon-mobil-ceo-all-new-passenger-cars-will-be-electric-by-2040.html",
         "timestamp": 1656237382,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 5:56 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
         "timestamp": 1656238531,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 6:15 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/new-israeli-military-technology-allows-operators-to-see-through-walls-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656238703,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 6:18 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/",
         "timestamp": 1656239288,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 6:28 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/russian-strikes-kyiv-are-more-their-barbarism-biden-says-2022-06-26/",
         "timestamp": 1656240666,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 6:51 AM"
     },
     {
@@ -203,8 +194,26 @@
         "category": "worldnews",
         "link": "https://www.timeslive.co.za/news/south-africa/2022-06-26-22-killed-in-east-london-nightclub/#Echobox=1656223911",
         "timestamp": 1656242168,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 7:16 AM"
+    },
+    {
+        "title": "Russia loses 150 troops, 21 tanks and 14 armoured combat vehicles during the past 24-hours",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/26/7354733/",
+        "timestamp": 1656242498,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:21 AM"
+    },
+    {
+        "title": "Sainsbury’s under new pressure to pay living wage for all workers",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
+        "timestamp": 1656242748,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:25 AM"
     },
     {
         "title": "As Senate-confirmed justices end Roe, how will voters react?",
@@ -225,13 +234,13 @@
         "published": "June 26, 2022 8:31 AM"
     },
     {
-        "title": "Giant Sunspot Doubles Size in 24 Hours and Points Right at Earth",
-        "domain": "greekreporter.com",
-        "category": "news",
-        "link": "https://greekreporter.com/2022/06/25/giant-sunspot-points-earth/",
-        "timestamp": 1656247808,
+        "title": "The USA are ready to provide Ukraine with additional weapons. In particular, Western or American systems to allow the Ukrainian military to fight in the Donbas, - said Pentagon Speaker John Kirby",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1541040822208155654",
+        "timestamp": 1656249076,
         "sentiment": 0,
-        "published": "June 26, 2022 8:50 AM"
+        "published": "June 26, 2022 9:11 AM"
     },
     {
         "title": "Biden arrives in Europe to keep allies united against Russia as a grinding war in Ukraine takes its toll",
@@ -239,17 +248,8 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
         "timestamp": 1656249424,
-        "sentiment": 1,
-        "published": "June 26, 2022 9:17 AM"
-    },
-    {
-        "title": "Donald Trump Jr. suggested Roe v. Wade was overturned as a direct result of Obama making fun of his father in 2011",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://businessinsider.com/donald-jr-roe-v-wade-obama-trump-2022-6",
-        "timestamp": 1656249815,
         "sentiment": 0,
-        "published": "June 26, 2022 9:23 AM"
+        "published": "June 26, 2022 9:17 AM"
     },
     {
         "title": "Google engineer identifies anonymous faces in WWII photos with AI facial recognition",
@@ -257,7 +257,7 @@
         "category": "technology",
         "link": "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/",
         "timestamp": 1656250119,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 9:28 AM"
     },
     {
@@ -275,17 +275,44 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-is-sacking-staff-who-recently-started-withdrawing-job-offers-2022-6",
         "timestamp": 1656252390,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "June 26, 2022 10:06 AM"
     },
     {
-        "title": "Prince Charles: Slave trade history should be taught as widely as the Holocaust",
-        "domain": "telegraph.co.uk",
+        "title": "Glastonbury: Greta Thunberg appears at music festival to urge society to take action against climate change crisis",
+        "domain": "news.sky.com",
         "category": "worldnews",
-        "link": "https://www.telegraph.co.uk/royal-family/2022/06/26/prince-charles-slave-trade-history-should-taught-widely-holocaust/",
-        "timestamp": 1656253075,
-        "sentiment": 1,
-        "published": "June 26, 2022 10:17 AM"
+        "link": "https://news.sky.com/story/glastonbury-greta-thunberg-appears-at-music-festival-to-urge-society-to-take-action-against-climate-change-crisis-12640446",
+        "timestamp": 1656252956,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:15 AM"
+    },
+    {
+        "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
+        "timestamp": 1656253218,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:20 AM"
+    },
+    {
+        "title": "A Russian oligarch's seized $75 million superyacht will be first up for auction, report says",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russian-seized-superyacht-will-be-first-to-be-auctioned-2022-6",
+        "timestamp": 1656253667,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:27 AM"
+    },
+    {
+        "title": "The Supreme Court Is Now Forcing Taxpayers to Pay for Anti-Gay Religious Schools",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
+        "timestamp": 1656254030,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:33 AM"
     },
     {
         "title": "GOP privately worrying overturning Roe v. Wade could impact midterms: 'This is a losing issue for Republicans,' report says",
@@ -313,6 +340,69 @@
         "timestamp": 1656255519,
         "sentiment": -6,
         "published": "June 26, 2022 10:58 AM"
+    },
+    {
+        "title": "Ocasio-Cortez says conservative justices lied under oath, should be impeached",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
+        "timestamp": 1656256596,
+        "sentiment": 0,
+        "published": "June 26, 2022 11:16 AM"
+    },
+    {
+        "title": "AOC questions legitimacy of Supreme Court and calls Biden ‘historically weak’ on abortion",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
+        "timestamp": 1656256699,
+        "sentiment": 0,
+        "published": "June 26, 2022 11:18 AM"
+    },
+    {
+        "title": "dawg here we fcking go",
+        "domain": "wfla.com",
+        "category": "miami",
+        "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
+        "timestamp": 1656259255,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:00 PM"
+    },
+    {
+        "title": "1.7m people in the UK had Covid last week as levels continue to rise | Coronavirus",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/24/covid-infections-last-week-levels-continue-rise-uk/",
+        "timestamp": 1656219845,
+        "sentiment": 1,
+        "published": "June 26, 2022 1:04 AM"
+    },
+    {
+        "title": "Giant Sunspot Doubles Size in 24 Hours and Points Right at Earth",
+        "domain": "greekreporter.com",
+        "category": "news",
+        "link": "https://greekreporter.com/2022/06/25/giant-sunspot-points-earth/",
+        "timestamp": 1656247808,
+        "sentiment": 0,
+        "published": "June 26, 2022 8:50 AM"
+    },
+    {
+        "title": "Donald Trump Jr. suggested Roe v. Wade was overturned as a direct result of Obama making fun of his father in 2011",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://businessinsider.com/donald-jr-roe-v-wade-obama-trump-2022-6",
+        "timestamp": 1656249815,
+        "sentiment": 0,
+        "published": "June 26, 2022 9:23 AM"
+    },
+    {
+        "title": "Prince Charles: Slave trade history should be taught as widely as the Holocaust",
+        "domain": "telegraph.co.uk",
+        "category": "worldnews",
+        "link": "https://www.telegraph.co.uk/royal-family/2022/06/26/prince-charles-slave-trade-history-should-taught-widely-holocaust/",
+        "timestamp": 1656253075,
+        "sentiment": 1,
+        "published": "June 26, 2022 10:17 AM"
     },
     {
         "title": "Google and Apple may face another FTC probe over 'harmful' mobile trackers",
