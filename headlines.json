@@ -32,7 +32,7 @@
         "category": "sports",
         "link": "https://www.sportsnet.ca/cfl/article/nathan-rourke-sets-single-game-cfl-passing-record-by-a-canadian-qb/",
         "timestamp": 1656221645,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 26, 2022 1:34 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656224061,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 2:14 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
         "timestamp": 1656230226,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 3:57 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/hbo/westworld-season-4-review/",
         "timestamp": 1656231359,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 4:15 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
         "timestamp": 1656232414,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 4:33 AM"
     },
     {
@@ -104,17 +104,8 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
         "timestamp": 1656233648,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 26, 2022 4:54 AM"
-    },
-    {
-        "title": "Dutch Cabinet will reveal plans for 2 new nuclear power plants this week",
-        "domain": "nltimes.nl",
-        "category": "worldnews",
-        "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
-        "timestamp": 1656234424,
-        "sentiment": -8,
-        "published": "June 26, 2022 5:07 AM"
     },
     {
         "title": "Every new passenger car sold in the world will be electric by 2040, says Exxon Mobil CEO Darren Woods",
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
         "timestamp": 1656238531,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 6:15 AM"
     },
     {
@@ -162,13 +153,13 @@
         "published": "June 26, 2022 6:40 AM"
     },
     {
-        "title": "Russia slides towards default as payment deadline expires",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/",
-        "timestamp": 1656243973,
-        "sentiment": -8,
-        "published": "June 26, 2022 7:46 AM"
+        "title": "Sainsbury’s under new pressure to pay living wage for all workers",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
+        "timestamp": 1656242748,
+        "sentiment": -2,
+        "published": "June 26, 2022 7:25 AM"
     },
     {
         "title": "20 people dead in mysterious circumstances in SA nightclub",
@@ -194,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
         "timestamp": 1656249424,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 9:17 AM"
     },
     {
@@ -216,15 +207,6 @@
         "published": "June 26, 2022 9:46 AM"
     },
     {
-        "title": "Russian Propagandists in Panic: Western Artillery and Missile Systems Target Operational Centres and Ammunition Depots Far Behind the Front with Deadly Accuracy",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/ChrisO_wiki/status/1540668239059079169",
-        "timestamp": 1656252177,
-        "sentiment": 0,
-        "published": "June 26, 2022 10:02 AM"
-    },
-    {
         "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
         "domain": "businessinsider.com",
         "category": "politics",
@@ -239,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russian-seized-superyacht-will-be-first-to-be-auctioned-2022-6",
         "timestamp": 1656253667,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 10:27 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
         "timestamp": 1656255519,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 10:58 AM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/26/turkish-police-break-up-istanbul-pride-arrest-dozens-including-journalists",
         "timestamp": 1656256992,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 11:23 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russia-s-putin-to-make-first-foreign-trip-since-launching-ukraine-war/ar-AAYSVFM?ocid=msedgdhphdr&cvid=f08c0c3614274c2db7ab21686907a67c",
         "timestamp": 1656258511,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 11:48 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "miami",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656259255,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 26, 2022 12:00 PM"
     },
     {
@@ -358,6 +340,15 @@
         "timestamp": 1656259618,
         "sentiment": -2,
         "published": "June 26, 2022 12:06 PM"
+    },
+    {
+        "title": "U.S. aims to raise $200 billion as part of G7 rival to China's Belt & Road",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/refile-us-aims-raise-200-bln-part-g7-rival-chinas-belt-road-2022-06-26/",
+        "timestamp": 1656259701,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:08 PM"
     },
     {
         "title": "Fintechs face reckoning as easy money dries up",
@@ -374,16 +365,16 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/hbo-westworld-season-4-lisa-joy-aaron-paul-1235171309/",
         "timestamp": 1656264674,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 1:31 PM"
     },
     {
-        "title": "Group aims to strip Fox News of ad revenue over ‘fueling next insurrection’",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/media/2022/jun/24/campaign-strip-fox-news-site-of-ad-revenue",
-        "timestamp": 1656265280,
-        "sentiment": -2,
+        "title": "Thousands protest in Madrid against NATO summit",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/thousands-protest-madrid-against-nato-summit-2022-06-26/",
+        "timestamp": 1656265319,
+        "sentiment": 0,
         "published": "June 26, 2022 1:41 PM"
     },
     {
@@ -410,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/now/several-thousand-dolphins-died-black-193502383.html",
         "timestamp": 1656267232,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "June 26, 2022 2:13 PM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "television",
         "link": "https://collider.com/upcoming-game-of-thrones-spinoffs-hbo-other-than-house-of-the-dragon/",
         "timestamp": 1656268403,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 2:33 PM"
     },
     {
@@ -428,7 +419,7 @@
         "category": "television",
         "link": "https://ew.com/awards/emmys-oughta-get-a-nod-we-own-this-city-jon-bernthal/",
         "timestamp": 1656269351,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 2:49 PM"
     },
     {
@@ -437,8 +428,53 @@
         "category": "miami",
         "link": "https://www.instagram.com/stories/peopleplacesthingsmiami/2869301555164496063/",
         "timestamp": 1656270653,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 26, 2022 3:10 PM"
+    },
+    {
+        "title": "Gunman on the loose after 5-month-old girl killed sitting in car in Chicago",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/gunman-loose-month-girl-killed-sitting-car-chicago/story?id=85737679",
+        "timestamp": 1656271064,
+        "sentiment": -2,
+        "published": "June 26, 2022 3:17 PM"
+    },
+    {
+        "title": "Dutch Cabinet will reveal plans for 2 new nuclear power plants this week",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
+        "timestamp": 1656234424,
+        "sentiment": -8,
+        "published": "June 26, 2022 5:07 AM"
+    },
+    {
+        "title": "Russia slides towards default as payment deadline expires",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/",
+        "timestamp": 1656243973,
+        "sentiment": -8,
+        "published": "June 26, 2022 7:46 AM"
+    },
+    {
+        "title": "Russian Propagandists in Panic: Western Artillery and Missile Systems Target Operational Centres and Ammunition Depots Far Behind the Front with Deadly Accuracy",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/ChrisO_wiki/status/1540668239059079169",
+        "timestamp": 1656252177,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:02 AM"
+    },
+    {
+        "title": "Group aims to strip Fox News of ad revenue over ‘fueling next insurrection’",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/media/2022/jun/24/campaign-strip-fox-news-site-of-ad-revenue",
+        "timestamp": 1656265280,
+        "sentiment": -2,
+        "published": "June 26, 2022 1:41 PM"
     },
     {
         "title": "As Senate-confirmed justices end Roe, how will voters react?",
@@ -522,15 +558,6 @@
         "published": "June 26, 2022 7:21 AM"
     },
     {
-        "title": "Sainsbury’s under new pressure to pay living wage for all workers",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
-        "timestamp": 1656242748,
-        "sentiment": -2,
-        "published": "June 26, 2022 7:25 AM"
-    },
-    {
         "title": "The USA are ready to provide Ukraine with additional weapons. In particular, Western or American systems to allow the Ukrainian military to fight in the Donbas, - said Pentagon Speaker John Kirby",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
@@ -547,15 +574,6 @@
         "timestamp": 1656250494,
         "sentiment": 1,
         "published": "June 26, 2022 9:34 AM"
-    },
-    {
-        "title": "Thousands protest in Madrid against NATO summit",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-gb/news/world/thousands-protest-in-madrid-against-nato-summit/ar-AAYT34B?ocid=msedgdhphdr&cvid=f08c0c3614274c2db7ab21686907a67c",
-        "timestamp": 1656258540,
-        "sentiment": 1,
-        "published": "June 26, 2022 11:49 AM"
     },
     {
         "title": "22 found dead in South African nightclub",
