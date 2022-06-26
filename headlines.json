@@ -14,17 +14,8 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/us/supreme-court-roe-v-wade-protests/index.html",
         "timestamp": 1656217729,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 12:28 AM"
-    },
-    {
-        "title": "Ghislaine Maxwell put on suicide watch, may seek sentencing delay, lawyer says",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
-        "timestamp": 1656219591,
-        "sentiment": -5,
-        "published": "June 26, 2022 12:59 AM"
     },
     {
         "title": "Canada's Nathan Rourke throws record-setting 436 yards, sets single-game passing record for a Canadian QB",
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.ktvh.com/news/fromberg-clears-muck-water-from-basements-fema-says-manage-expectations-about-federal-aid",
         "timestamp": 1656224663,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 2:24 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/hbo/westworld-season-4-review/",
         "timestamp": 1656231359,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 4:15 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "news",
         "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
         "timestamp": 1656246663,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 8:31 AM"
     },
     {
@@ -151,15 +142,6 @@
         "timestamp": 1656251187,
         "sentiment": -2,
         "published": "June 26, 2022 9:46 AM"
-    },
-    {
-        "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
-        "timestamp": 1656253218,
-        "sentiment": -2,
-        "published": "June 26, 2022 10:20 AM"
     },
     {
         "title": "A Russian oligarch's seized $75 million superyacht will be first up for auction, report says",
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/people-shot-rave-dance-party-tacoma-washington/story?id=85735774",
         "timestamp": 1656255342,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 10:55 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
         "timestamp": 1656255519,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 26, 2022 10:58 AM"
     },
     {
@@ -270,12 +252,21 @@
         "published": "June 26, 2022 12:00 PM"
     },
     {
+        "title": "Concerns grow that India is ‘back door’ into Europe for Russian oil | Oil",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/business/2022/jun/26/concerns-india-back-door-into-europe-for-russian-oil",
+        "timestamp": 1656259283,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:01 PM"
+    },
+    {
         "title": "Taliban say they will not interfere with Afghanistan earthquake aid.",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/taliban-say-they-will-not-interfere-with-afghanistan-earthquake-aid",
         "timestamp": 1656259618,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 12:06 PM"
     },
     {
@@ -288,15 +279,6 @@
         "published": "June 26, 2022 12:08 PM"
     },
     {
-        "title": "Trump Privately 'Sh**ting' On Roe Reversal, Fearing GOP, Midterm Backlash: Report",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-roe-reversal-upset-gop-midterm-impact_n_62b78aade4b0cdccbe6c7197",
-        "timestamp": 1656261993,
-        "sentiment": -2,
-        "published": "June 26, 2022 12:46 PM"
-    },
-    {
         "title": "Fintechs face reckoning as easy money dries up",
         "domain": "ft.com",
         "category": "technology",
@@ -306,21 +288,12 @@
         "published": "June 26, 2022 12:57 PM"
     },
     {
-        "title": "FBI seizes disputed Basquiat artwork from Florida museum",
-        "domain": "abcnews.go.com",
-        "category": "florida",
-        "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
-        "timestamp": 1656263763,
-        "sentiment": -1,
-        "published": "June 26, 2022 1:16 PM"
-    },
-    {
         "title": "‘Westworld’ Team on Exploring (Un)Reliable Narrators and the Nature of Reality in a Season 4 That’s “Easier to Grasp”",
         "domain": "hollywoodreporter.com",
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/hbo-westworld-season-4-lisa-joy-aaron-paul-1235171309/",
         "timestamp": 1656264674,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 1:31 PM"
     },
     {
@@ -342,21 +315,12 @@
         "published": "June 26, 2022 2:12 PM"
     },
     {
-        "title": "At least 3000 dolphins have starved to death in the Black Sea since the beginning of the Russian invasion. Loud explosions destroy their navigation system which precludes them from finding food.",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/now/several-thousand-dolphins-died-black-193502383.html",
-        "timestamp": 1656267232,
-        "sentiment": 0,
-        "published": "June 26, 2022 2:13 PM"
-    },
-    {
         "title": "All the Upcoming 'Game of Thrones Spinoffs' in Development at HBO (Other than 'House of the Dragon')",
         "domain": "collider.com",
         "category": "television",
         "link": "https://collider.com/upcoming-game-of-thrones-spinoffs-hbo-other-than-house-of-the-dragon/",
         "timestamp": 1656268403,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 2:33 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "television",
         "link": "https://ew.com/awards/emmys-oughta-get-a-nod-we-own-this-city-jon-bernthal/",
         "timestamp": 1656269351,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 2:49 PM"
     },
     {
@@ -401,8 +365,17 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/gunman-loose-month-girl-killed-sitting-car-chicago/story?id=85737679",
         "timestamp": 1656271064,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 3:17 PM"
+    },
+    {
+        "title": "Warren: Voters Must Elect Dems In Midterms Who Would Nix Filibuster To Codify Roe",
+        "domain": "talkingpointsmemo.com",
+        "category": "politics",
+        "link": "https://talkingpointsmemo.com/news/warren-midterm-elections-democrats-filibuster-roe-abortion",
+        "timestamp": 1656271301,
+        "sentiment": -2,
+        "published": "June 26, 2022 3:21 PM"
     },
     {
         "title": "Boris Johnson: Russian Win in Ukraine Would Be 'Absolutely Catastrophic'",
@@ -419,8 +392,17 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/26/gold-miner-in-canada-finds-mummified-35000-year-old-woolly-mammoth",
         "timestamp": 1656272752,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 3:45 PM"
+    },
+    {
+        "title": "Republicans call abortion rights protest a Capitol \"insurrection\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/abortion-rights-protest-capitol-insurrection-republicans-1719257",
+        "timestamp": 1656274512,
+        "sentiment": -2,
+        "published": "June 26, 2022 4:15 PM"
     },
     {
         "title": "Florida man wrongfully convicted of murder is freed by an attorney fresh out of law school",
@@ -428,7 +410,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/new-attorney-helped-clear-innocent-man-murder-sentence-32-years-prison-rcna35298",
         "timestamp": 1656274629,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 4:17 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/natasha-lyonne-pee-wees-playhouse-1235168139/",
         "timestamp": 1656275069,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 4:24 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/family-pregnant-teen-killed-undercover-police-awarded-21m-rcna35388",
         "timestamp": 1656276257,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 26, 2022 4:44 PM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "television",
         "link": "https://www.usatoday.com/story/entertainment/tv/2022/06/09/for-all-mankind-review-apple-space-drama-tv-best-show/7454146001/",
         "timestamp": 1656278593,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 26, 2022 5:23 PM"
     },
     {
@@ -477,6 +459,15 @@
         "published": "June 26, 2022 5:57 PM"
     },
     {
+        "title": "PLAN C: Learn to access at-home abortion pill options online",
+        "domain": "plancpills.org",
+        "category": "florida",
+        "link": "https://www.plancpills.org/",
+        "timestamp": 1656282393,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:26 PM"
+    },
+    {
         "title": "Calls for mass walkout of women across America if Roe v. Wade is overturned",
         "domain": "newsweek.com",
         "category": "miami",
@@ -484,6 +475,69 @@
         "timestamp": 1656282882,
         "sentiment": 0,
         "published": "June 26, 2022 6:34 PM"
+    },
+    {
+        "title": "Ex-NYC Mayor Rudy Giuliani Assaulted By Grocery Store Worker In Staten Island",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2022/06/former-mayor-rudy-giuliani-assaulted-by-grocery-store-worker-staten-island-while-campaigning-1235052273/",
+        "timestamp": 1656283765,
+        "sentiment": -3,
+        "published": "June 26, 2022 6:49 PM"
+    },
+    {
+        "title": "Mariners, Angels clear the benches in brawl at Anaheim game, 8 ejected",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/bleacherreport/status/1541159150297792514?s=21&t=JCebs04YiHLjx0HCWA_kwg",
+        "timestamp": 1656286372,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:32 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell put on suicide watch, may seek sentencing delay, lawyer says",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
+        "timestamp": 1656219591,
+        "sentiment": -5,
+        "published": "June 26, 2022 12:59 AM"
+    },
+    {
+        "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
+        "timestamp": 1656253218,
+        "sentiment": -2,
+        "published": "June 26, 2022 10:20 AM"
+    },
+    {
+        "title": "Trump Privately 'Sh**ting' On Roe Reversal, Fearing GOP, Midterm Backlash: Report",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-roe-reversal-upset-gop-midterm-impact_n_62b78aade4b0cdccbe6c7197",
+        "timestamp": 1656261993,
+        "sentiment": -2,
+        "published": "June 26, 2022 12:46 PM"
+    },
+    {
+        "title": "FBI seizes disputed Basquiat artwork from Florida museum",
+        "domain": "abcnews.go.com",
+        "category": "florida",
+        "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
+        "timestamp": 1656263763,
+        "sentiment": -1,
+        "published": "June 26, 2022 1:16 PM"
+    },
+    {
+        "title": "At least 3000 dolphins have starved to death in the Black Sea since the beginning of the Russian invasion. Loud explosions destroy their navigation system which precludes them from finding food.",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/now/several-thousand-dolphins-died-black-193502383.html",
+        "timestamp": 1656267232,
+        "sentiment": 0,
+        "published": "June 26, 2022 2:13 PM"
     },
     {
         "title": "Police prepare to enforce Florida’s new loud music law",
