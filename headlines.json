@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/us/supreme-court-roe-v-wade-protests/index.html",
         "timestamp": 1656217729,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
         "timestamp": 1656219591,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 26, 2022 12:59 AM"
     },
     {
@@ -34,6 +34,24 @@
         "timestamp": 1656221645,
         "sentiment": 0,
         "published": "June 26, 2022 1:34 AM"
+    },
+    {
+        "title": "Ukrainians were among tens of thousands of LGBTQ activits who took part in the Polish capital's Pride parade Saturday, in a country hosting tens of thousands of Ukrainians who have fled the Russian invasion",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
+        "timestamp": 1656222652,
+        "sentiment": 0,
+        "published": "June 26, 2022 1:50 AM"
+    },
+    {
+        "title": "FEMA to uninsured Montanans: ‘Take responsibility for your own disaster recovery'",
+        "domain": "ktvh.com",
+        "category": "news",
+        "link": "https://www.ktvh.com/news/fromberg-clears-muck-water-from-basements-fema-says-manage-expectations-about-federal-aid",
+        "timestamp": 1656224663,
+        "sentiment": -2,
+        "published": "June 26, 2022 2:24 AM"
     },
     {
         "title": "Women pro cyclists take a knee during national anthem at US Pro Nationals to protest abortion ruling",
