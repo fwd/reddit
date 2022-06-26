@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/us/supreme-court-roe-v-wade-protests/index.html",
         "timestamp": 1656217729,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
         "timestamp": 1656219591,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 12:59 AM"
     },
     {
@@ -36,21 +36,12 @@
         "published": "June 26, 2022 1:34 AM"
     },
     {
-        "title": "Ukrainians were among tens of thousands of LGBTQ activits who took part in the Polish capital's Pride parade Saturday, in a country hosting tens of thousands of Ukrainians who have fled the Russian invasion",
-        "domain": "france24.com",
-        "category": "worldnews",
-        "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
-        "timestamp": 1656222652,
-        "sentiment": 0,
-        "published": "June 26, 2022 1:50 AM"
-    },
-    {
         "title": "Police prepare to enforce Florida’s new loud music law",
         "domain": "wfla.com",
         "category": "florida",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656224061,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 26, 2022 2:14 AM"
     },
     {
@@ -59,17 +50,8 @@
         "category": "news",
         "link": "https://www.ktvh.com/news/fromberg-clears-muck-water-from-basements-fema-says-manage-expectations-about-federal-aid",
         "timestamp": 1656224663,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 2:24 AM"
-    },
-    {
-        "title": "G-7 nations to announce import ban on Russian gold as Moscow sanctions widen",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
-        "timestamp": 1656230226,
-        "sentiment": 0,
-        "published": "June 26, 2022 3:57 AM"
     },
     {
         "title": "Westworld Brings Itself Back Online for an Ambitious, Uneven, and Weirdly Promising Season 4",
@@ -77,7 +59,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/hbo/westworld-season-4-review/",
         "timestamp": 1656231359,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 26, 2022 4:15 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
         "timestamp": 1656233648,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 26, 2022 4:54 AM"
     },
     {
@@ -115,15 +97,6 @@
         "timestamp": 1656237382,
         "sentiment": 0,
         "published": "June 26, 2022 5:56 AM"
-    },
-    {
-        "title": "New Zealand sea sponge populations 'dying by the millions' due to climate change",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
-        "timestamp": 1656238531,
-        "sentiment": 0,
-        "published": "June 26, 2022 6:15 AM"
     },
     {
         "title": "New Israeli military technology allows operators to 'see through walls'",
@@ -144,40 +117,13 @@
         "published": "June 26, 2022 6:28 AM"
     },
     {
-        "title": "FBI seizes disputed Basquiat artwork from Florida museum",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
-        "timestamp": 1656240025,
-        "sentiment": -2,
-        "published": "June 26, 2022 6:40 AM"
-    },
-    {
-        "title": "Sainsbury’s under new pressure to pay living wage for all workers",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
-        "timestamp": 1656242748,
-        "sentiment": -2,
-        "published": "June 26, 2022 7:25 AM"
-    },
-    {
         "title": "20 people dead in mysterious circumstances in SA nightclub",
         "domain": "wrvo.org",
         "category": "news",
         "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
         "timestamp": 1656246663,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 8:31 AM"
-    },
-    {
-        "title": "GOP lawmaker calls Roe ruling ‘victory for white life’ as Trump rally cheers",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/nation/2022/06/26/mary-miller-white-life-trump-rally/",
-        "timestamp": 1656247394,
-        "sentiment": 2,
-        "published": "June 26, 2022 8:43 AM"
     },
     {
         "title": "Biden arrives in Europe to keep allies united against Russia as a grinding war in Ukraine takes its toll",
@@ -203,7 +149,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537363-south-dakota-governor-says-she-will-ban-abortion-pills-prescribed-online/",
         "timestamp": 1656251187,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 9:46 AM"
     },
     {
@@ -212,7 +158,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
         "timestamp": 1656253218,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:20 AM"
     },
     {
@@ -230,7 +176,7 @@
         "category": "politics",
         "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
         "timestamp": 1656254030,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:33 AM"
     },
     {
@@ -239,7 +185,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/alito-women-seeking-abortions-should-be-told-about-fetal-development-2022-6",
         "timestamp": 1656254183,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:36 AM"
     },
     {
@@ -248,7 +194,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republicans-fear-overturning-roe-v-wade-is-midterms-losing-issue-2022-6",
         "timestamp": 1656254408,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:40 AM"
     },
     {
@@ -257,7 +203,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/25-percent-americans-confidence-supreme-court-poll-2022-6",
         "timestamp": 1656254950,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:49 AM"
     },
     {
@@ -266,7 +212,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/people-shot-rave-dance-party-tacoma-washington/story?id=85735774",
         "timestamp": 1656255342,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 10:55 AM"
     },
     {
@@ -275,7 +221,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
         "timestamp": 1656255419,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 10:56 AM"
     },
     {
@@ -284,8 +230,17 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
         "timestamp": 1656255519,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 26, 2022 10:58 AM"
+    },
+    {
+        "title": "Paralyzed race driver completes Goodwood hill climb using head movement to steer",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/goodwood-hill-climb-using-head-arrow-mclaren-213022308.html",
+        "timestamp": 1656256156,
+        "sentiment": 0,
+        "published": "June 26, 2022 11:09 AM"
     },
     {
         "title": "Ocasio-Cortez says conservative justices lied under oath, should be impeached",
@@ -293,7 +248,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
         "timestamp": 1656256596,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 11:16 AM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
         "timestamp": 1656256699,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 26, 2022 11:18 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "miami",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656259255,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 26, 2022 12:00 PM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jun/25/taliban-say-they-will-not-interfere-with-afghanistan-earthquake-aid",
         "timestamp": 1656259618,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 12:06 PM"
     },
     {
@@ -351,6 +306,24 @@
         "published": "June 26, 2022 12:08 PM"
     },
     {
+        "title": "Trump Privately 'Sh**ting' On Roe Reversal, Fearing GOP, Midterm Backlash: Report",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-roe-reversal-upset-gop-midterm-impact_n_62b78aade4b0cdccbe6c7197",
+        "timestamp": 1656261993,
+        "sentiment": -2,
+        "published": "June 26, 2022 12:46 PM"
+    },
+    {
+        "title": "Prince Charles 'accepted a suitcase with 1m euros', report claims",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-61941113",
+        "timestamp": 1656262384,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:53 PM"
+    },
+    {
         "title": "Fintechs face reckoning as easy money dries up",
         "domain": "ft.com",
         "category": "technology",
@@ -360,12 +333,30 @@
         "published": "June 26, 2022 12:57 PM"
     },
     {
+        "title": "Russians in Enerhodar are abducting people for money: the going rate is 50,000 hryvnias - mayor",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/26/7354766/",
+        "timestamp": 1656262683,
+        "sentiment": 0,
+        "published": "June 26, 2022 12:58 PM"
+    },
+    {
+        "title": "FBI seizes disputed Basquiat artwork from Florida museum",
+        "domain": "abcnews.go.com",
+        "category": "florida",
+        "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
+        "timestamp": 1656263763,
+        "sentiment": 2,
+        "published": "June 26, 2022 1:16 PM"
+    },
+    {
         "title": "‘Westworld’ Team on Exploring (Un)Reliable Narrators and the Nature of Reality in a Season 4 That’s “Easier to Grasp”",
         "domain": "hollywoodreporter.com",
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/hbo-westworld-season-4-lisa-joy-aaron-paul-1235171309/",
         "timestamp": 1656264674,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 26, 2022 1:31 PM"
     },
     {
@@ -410,7 +401,7 @@
         "category": "television",
         "link": "https://collider.com/upcoming-game-of-thrones-spinoffs-hbo-other-than-house-of-the-dragon/",
         "timestamp": 1656268403,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 26, 2022 2:33 PM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "television",
         "link": "https://ew.com/awards/emmys-oughta-get-a-nod-we-own-this-city-jon-bernthal/",
         "timestamp": 1656269351,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 26, 2022 2:49 PM"
     },
     {
@@ -428,8 +419,17 @@
         "category": "miami",
         "link": "https://www.instagram.com/stories/peopleplacesthingsmiami/2869301555164496063/",
         "timestamp": 1656270653,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 26, 2022 3:10 PM"
+    },
+    {
+        "title": "House passes resolution demanding Russia release Brittney Griner",
+        "domain": "arunrathi.com",
+        "category": "news",
+        "link": "https://arunrathi.com/quick-news/house-passes-resolution-demanding-russia-release-brittney-griner/",
+        "timestamp": 1656270978,
+        "sentiment": 1,
+        "published": "June 26, 2022 3:16 PM"
     },
     {
         "title": "Gunman on the loose after 5-month-old girl killed sitting in car in Chicago",
@@ -437,8 +437,89 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/gunman-loose-month-girl-killed-sitting-car-chicago/story?id=85737679",
         "timestamp": 1656271064,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "June 26, 2022 3:17 PM"
+    },
+    {
+        "title": "Johnson, Trudeau Joke About Going Shirtless And Threaten Putin With 'our Pecs'",
+        "domain": "nationworldnews.com",
+        "category": "worldnews",
+        "link": "https://nationworldnews.com/johnson-trudeau-joke-about-going-shirtless-and-threaten-putin-with-our-pecs/",
+        "timestamp": 1656272030,
+        "sentiment": 0,
+        "published": "June 26, 2022 3:33 PM"
+    },
+    {
+        "title": "Gold miner in Canada finds mummified 35,000-year-old woolly mammoth",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/26/gold-miner-in-canada-finds-mummified-35000-year-old-woolly-mammoth",
+        "timestamp": 1656272752,
+        "sentiment": 1,
+        "published": "June 26, 2022 3:45 PM"
+    },
+    {
+        "title": "Florida man wrongfully convicted of murder is freed by an attorney fresh out of law school",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/nbcblk/new-attorney-helped-clear-innocent-man-murder-sentence-32-years-prison-rcna35298",
+        "timestamp": 1656274629,
+        "sentiment": 1,
+        "published": "June 26, 2022 4:17 PM"
+    },
+    {
+        "title": "Hollywood Flashback: Natasha Lyonne Made Her TV Debut on ‘Pee-wee’s Playhouse’",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/natasha-lyonne-pee-wees-playhouse-1235168139/",
+        "timestamp": 1656275069,
+        "sentiment": 0,
+        "published": "June 26, 2022 4:24 PM"
+    },
+    {
+        "title": "Ukrainians were among tens of thousands of LGBTQ activits who took part in the Polish capital's Pride parade Saturday, in a country hosting tens of thousands of Ukrainians who have fled the Russian invasion",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
+        "timestamp": 1656222652,
+        "sentiment": 0,
+        "published": "June 26, 2022 1:50 AM"
+    },
+    {
+        "title": "G-7 nations to announce import ban on Russian gold as Moscow sanctions widen",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
+        "timestamp": 1656230226,
+        "sentiment": 0,
+        "published": "June 26, 2022 3:57 AM"
+    },
+    {
+        "title": "New Zealand sea sponge populations 'dying by the millions' due to climate change",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
+        "timestamp": 1656238531,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:15 AM"
+    },
+    {
+        "title": "Sainsbury’s under new pressure to pay living wage for all workers",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
+        "timestamp": 1656242748,
+        "sentiment": -2,
+        "published": "June 26, 2022 7:25 AM"
+    },
+    {
+        "title": "GOP lawmaker calls Roe ruling ‘victory for white life’ as Trump rally cheers",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/nation/2022/06/26/mary-miller-white-life-trump-rally/",
+        "timestamp": 1656247394,
+        "sentiment": 2,
+        "published": "June 26, 2022 8:43 AM"
     },
     {
         "title": "Dutch Cabinet will reveal plans for 2 new nuclear power plants this week",
@@ -502,15 +583,6 @@
         "timestamp": 1656257455,
         "sentiment": 4,
         "published": "June 26, 2022 11:30 AM"
-    },
-    {
-        "title": "Prince Charles 'accepted a suitcase with 1m euros', report claims",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/uk-61941113",
-        "timestamp": 1656262480,
-        "sentiment": -2,
-        "published": "June 26, 2022 12:54 PM"
     },
     {
         "title": "Large crowds protest at US embassy in Dublin over abortion ruling",
