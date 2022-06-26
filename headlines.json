@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/24/us/supreme-court-roe-v-wade-protests/index.html",
         "timestamp": 1656217729,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/",
         "timestamp": 1656219591,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 12:59 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/europe/20220625-polish-and-ukrainian-activists-march-for-lgbtq-rights-in-warsaw",
         "timestamp": 1656222652,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 1:50 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656224061,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "June 26, 2022 2:14 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.ktvh.com/news/fromberg-clears-muck-water-from-basements-fema-says-manage-expectations-about-federal-aid",
         "timestamp": 1656224663,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 2:24 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.stuff.co.nz/national/129085481/twelve-hospitalised-after-powdered-fentanyl-found-for-first-time-in-nz",
         "timestamp": 1656225107,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 2:31 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/deborah-birx-covid-testimony_n_62b57aa7e4b06169caa4fce9",
         "timestamp": 1656229471,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 3:44 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/26/g-7-nations-to-announce-import-ban-on-russian-gold.html",
         "timestamp": 1656230226,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 3:57 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.ship-technology.com/news/india-safety-certification-russian-tankers/",
         "timestamp": 1656232414,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 4:33 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://nltimes.nl/2022/06/26/cabinet-will-reveal-plans-2-new-nuclear-power-stations-week",
         "timestamp": 1656234424,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 5:07 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
         "timestamp": 1656238531,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 6:15 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/Entertainment/wireStory/fbi-seizes-disputed-basquiat-artwork-florida-museum-85669831",
         "timestamp": 1656240025,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 6:40 AM"
     },
     {
@@ -185,17 +185,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/russian-strikes-kyiv-are-more-their-barbarism-biden-says-2022-06-26/",
         "timestamp": 1656240666,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 6:51 AM"
-    },
-    {
-        "title": "22 found dead in South African nightclub",
-        "domain": "timeslive.co.za",
-        "category": "worldnews",
-        "link": "https://www.timeslive.co.za/news/south-africa/2022-06-26-22-killed-in-east-london-nightclub/#Echobox=1656223911",
-        "timestamp": 1656242168,
-        "sentiment": 0,
-        "published": "June 26, 2022 7:16 AM"
     },
     {
         "title": "Russia loses 150 troops, 21 tanks and 14 armoured combat vehicles during the past 24-hours",
@@ -203,7 +194,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/26/7354733/",
         "timestamp": 1656242498,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 7:21 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/business/2022/jun/26/sainsburys-under-new-pressure-to-pay-living-wage-for-all-workers",
         "timestamp": 1656242748,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 7:25 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "politics",
         "link": "https://apnews.com/article/abortion-us-supreme-court-presidential-elections-barack-obama-donald-trump-d83e4352e80094ca360854a984cdbb09",
         "timestamp": 1656245421,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 8:10 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "news",
         "link": "https://www.wrvo.org/2022-06-26/police-are-investigating-the-deaths-of-at-least-20-at-a-south-african-nightclub",
         "timestamp": 1656246663,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 8:31 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541040822208155654",
         "timestamp": 1656249076,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 9:11 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/25/politics/what-to-watch-from-biden-at-the-g7-and-nato/index.html",
         "timestamp": 1656249424,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 9:17 AM"
     },
     {
@@ -261,12 +252,21 @@
         "published": "June 26, 2022 9:28 AM"
     },
     {
+        "title": "Boris Johnson warns Russian victory in Ukraine would be 'absolutely catastrophic'",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/06/26/politics/boris-johnson-cnntv/index.html",
+        "timestamp": 1656250494,
+        "sentiment": 1,
+        "published": "June 26, 2022 9:34 AM"
+    },
+    {
         "title": "South Dakota governor says she will ban abortion pills prescribed online",
         "domain": "thehill.com",
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537363-south-dakota-governor-says-she-will-ban-abortion-pills-prescribed-online/",
         "timestamp": 1656251187,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 9:46 AM"
     },
     {
@@ -279,21 +279,12 @@
         "published": "June 26, 2022 10:06 AM"
     },
     {
-        "title": "Glastonbury: Greta Thunberg appears at music festival to urge society to take action against climate change crisis",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/glastonbury-greta-thunberg-appears-at-music-festival-to-urge-society-to-take-action-against-climate-change-crisis-12640446",
-        "timestamp": 1656252956,
-        "sentiment": 0,
-        "published": "June 26, 2022 10:15 AM"
-    },
-    {
         "title": "Congress made school meals free for 2 years. Now, Republicans don't want to extend the program.",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/free-school-lunches-in-america-republicans-will-end-2022-6",
         "timestamp": 1656253218,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 10:20 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/russian-seized-superyacht-will-be-first-to-be-auctioned-2022-6",
         "timestamp": 1656253667,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 26, 2022 10:27 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "politics",
         "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
         "timestamp": 1656254030,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 10:33 AM"
     },
     {
@@ -320,8 +311,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republicans-fear-overturning-roe-v-wade-is-midterms-losing-issue-2022-6",
         "timestamp": 1656254408,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 10:40 AM"
+    },
+    {
+        "title": "A record low 25 percent of Americans have confidence in the Supreme Court: poll",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/25-percent-americans-confidence-supreme-court-poll-2022-6",
+        "timestamp": 1656254950,
+        "sentiment": -1,
+        "published": "June 26, 2022 10:49 AM"
     },
     {
         "title": "At least 8 people shot at rave dance party in Tacoma, Washington",
@@ -329,8 +329,17 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/people-shot-rave-dance-party-tacoma-washington/story?id=85735774",
         "timestamp": 1656255342,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 26, 2022 10:55 AM"
+    },
+    {
+        "title": "Capitol attack hearings: if Republicans did nothing wrong, why were pardons sought?",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
+        "timestamp": 1656255419,
+        "sentiment": -1,
+        "published": "June 26, 2022 10:56 AM"
     },
     {
         "title": "‘My Aching Heart Is Shattered Into Little Pieces’ - “A year ago, Champlain Towers South collapsed in Surfside, Fla. The lives of those who lost loved ones and homes have never been the same.”",
@@ -338,7 +347,7 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/24/us/surfside-condo-collapse.html",
         "timestamp": 1656255519,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "June 26, 2022 10:58 AM"
     },
     {
@@ -347,7 +356,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
         "timestamp": 1656256596,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 11:16 AM"
     },
     {
@@ -356,8 +365,26 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
         "timestamp": 1656256699,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 26, 2022 11:18 AM"
+    },
+    {
+        "title": "‘Schitt’s Creek’ Reunion Wanted on New Amazon Series ‘The Lake’",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/streaming/news/schitts-creek-the-lake-amazon-1235303070/",
+        "timestamp": 1656257455,
+        "sentiment": 4,
+        "published": "June 26, 2022 11:30 AM"
+    },
+    {
+        "title": "Thousands protest in Madrid against NATO summit",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/news/world/thousands-protest-in-madrid-against-nato-summit/ar-AAYT34B?ocid=msedgdhphdr&cvid=f08c0c3614274c2db7ab21686907a67c",
+        "timestamp": 1656258540,
+        "sentiment": 1,
+        "published": "June 26, 2022 11:49 AM"
     },
     {
         "title": "dawg here we fcking go",
@@ -367,6 +394,33 @@
         "timestamp": 1656259255,
         "sentiment": 0,
         "published": "June 26, 2022 12:00 PM"
+    },
+    {
+        "title": "Taliban say they will not interfere with Afghanistan earthquake aid.",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/25/taliban-say-they-will-not-interfere-with-afghanistan-earthquake-aid",
+        "timestamp": 1656259618,
+        "sentiment": -2,
+        "published": "June 26, 2022 12:06 PM"
+    },
+    {
+        "title": "22 found dead in South African nightclub",
+        "domain": "timeslive.co.za",
+        "category": "worldnews",
+        "link": "https://www.timeslive.co.za/news/south-africa/2022-06-26-22-killed-in-east-london-nightclub/#Echobox=1656223911",
+        "timestamp": 1656242168,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:16 AM"
+    },
+    {
+        "title": "Glastonbury: Greta Thunberg appears at music festival to urge society to take action against climate change crisis",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/glastonbury-greta-thunberg-appears-at-music-festival-to-urge-society-to-take-action-against-climate-change-crisis-12640446",
+        "timestamp": 1656252956,
+        "sentiment": 0,
+        "published": "June 26, 2022 10:15 AM"
     },
     {
         "title": "1.7m people in the UK had Covid last week as levels continue to rise | Coronavirus",
