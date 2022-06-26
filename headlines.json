@@ -1,5 +1,527 @@
 [
     {
+        "title": "Berlin mayor holds 15-minute video call with deepfake of Kyiv mayor Vitali Klitschko",
+        "domain": "p.dw.com",
+        "category": "technology",
+        "link": "https://p.dw.com/p/4DDxp",
+        "timestamp": 1656143787,
+        "sentiment": -8,
+        "published": "June 25, 2022 3:56 AM"
+    },
+    {
+        "title": "Westworld: how the most glorious show on TV became the biggest mess",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
+        "timestamp": 1656146005,
+        "sentiment": 7,
+        "published": "June 25, 2022 4:33 AM"
+    },
+    {
+        "title": "Meta clamps down on internal discussion of Roe v. Wade’s overturning.",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
+        "timestamp": 1656146824,
+        "sentiment": -8,
+        "published": "June 25, 2022 4:47 AM"
+    },
+    {
+        "title": "Internet Explorer shutdown to cause Japan problems ‘for months’",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://ft.com/content/a71ace1b-37b8-49f4-b8a5-baddbdb67b8b",
+        "timestamp": 1656151240,
+        "sentiment": -8,
+        "published": "June 25, 2022 6:00 AM"
+    },
+    {
+        "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
+        "timestamp": 1656154397,
+        "sentiment": 1,
+        "published": "June 25, 2022 6:53 AM"
+    },
+    {
+        "title": "Standing among protestors after the fall of Roe vs. Wade, AOC calls on Biden to create abortion clinics on federal land",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
+        "timestamp": 1656155700,
+        "sentiment": -6,
+        "published": "June 25, 2022 7:15 AM"
+    },
+    {
+        "title": "How Abortion Misinformation and Disinformation Spread Online",
+        "domain": "scientificamerican.com",
+        "category": "technology",
+        "link": "https://www.scientificamerican.com/article/how-abortion-misinformation-and-disinformation-spread-online/",
+        "timestamp": 1656155860,
+        "sentiment": -8,
+        "published": "June 25, 2022 7:17 AM"
+    },
+    {
+        "title": "Fiji sing the 'Noqu Masu' hymn",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/NRLonNine/status/1540637916573175808?t=usLiDpn4gyy8ozjLb5u2gQ&s=19",
+        "timestamp": 1656156060,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:21 AM"
+    },
+    {
+        "title": "U.S. Army private admits plotting attack on military unit",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
+        "timestamp": 1656156148,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:22 AM"
+    },
+    {
+        "title": "‘Obi-Wan Kenobi’ embraced the prequels. Disney still doesn’t understand them. The latest ‘Star Wars’ series managed to rehabilitate George Lucas’s prequels while still overlooking the more youthful qualities that earned the prequels so much nostalgia in the first place.",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/star-wars/2022/6/23/23180029/obi-wan-kenobi-prequels-nostalgia-disney-ewan-mcgregor",
+        "timestamp": 1656157949,
+        "sentiment": 7,
+        "published": "June 25, 2022 7:52 AM"
+    },
+    {
+        "title": "French center and left parties vow to bring in a bill to enshrine constitutional right to abortion",
+        "domain": "lemonde.fr",
+        "category": "worldnews",
+        "link": "https://www.lemonde.fr/en/france/article/2022/06/25/french-center-and-left-parties-vow-to-bring-in-a-bill-to-enshrine-constitutional-right-to-abortion_5987943_7.html",
+        "timestamp": 1656158555,
+        "sentiment": 1,
+        "published": "June 25, 2022 8:02 AM"
+    },
+    {
+        "title": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
+        "timestamp": 1656163202,
+        "sentiment": -6,
+        "published": "June 25, 2022 9:20 AM"
+    },
+    {
+        "title": "'Young and Restless' Mishael Morgan Makes Daytime Emmys History as First Black Woman to Win Lead Actress in a Drama",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/06/24/daytime-emmys-mishael-morgan-first-black-lead-actress-winner/",
+        "timestamp": 1656163485,
+        "sentiment": 7,
+        "published": "June 25, 2022 9:24 AM"
+    },
+    {
+        "title": "Mass. governor, rare pro-choice Republican, signs order to protect health care providers who provide abortion services to out-of-state residents",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
+        "timestamp": 1656164829,
+        "sentiment": -6,
+        "published": "June 25, 2022 9:47 AM"
+    },
+    {
+        "title": "'The dog that caught the car': Republicans brace for the impact of reversing Roe",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
+        "timestamp": 1656165221,
+        "sentiment": -6,
+        "published": "June 25, 2022 9:53 AM"
+    },
+    {
+        "title": "TV Line Performers of the Week: The Cast of ‘The Boys’",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/06/25/the-boys-herogasm-season-3-episode-6-cast-performances",
+        "timestamp": 1656165785,
+        "sentiment": 7,
+        "published": "June 25, 2022 10:03 AM"
+    },
+    {
+        "title": "Norway on highest terror alert after two killed in mass shootings",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
+        "timestamp": 1656166203,
+        "sentiment": 0,
+        "published": "June 25, 2022 10:10 AM"
+    },
+    {
+        "title": "Community mourns 3-year-old found decomposing in freezer: 'We're supposed to protect them'",
+        "domain": "freep.com",
+        "category": "news",
+        "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
+        "timestamp": 1656166553,
+        "sentiment": 0,
+        "published": "June 25, 2022 10:15 AM"
+    },
+    {
+        "title": "The Constitution Is Whatever the Right Wing Says It Is",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
+        "timestamp": 1656166640,
+        "sentiment": -6,
+        "published": "June 25, 2022 10:17 AM"
+    },
+    {
+        "title": "Meta bans staff from open discussion of Roe v. Wade decision and is deleting internal messages that mention abortion: report",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6",
+        "timestamp": 1656166742,
+        "sentiment": -8,
+        "published": "June 25, 2022 10:19 AM"
+    },
+    {
+        "title": "Moscow removes Polish flag from Soviet massacre memorial.",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/25/Moscow-removes-Polish-flag-from-Soviet-massacre-memorial",
+        "timestamp": 1656169983,
+        "sentiment": 1,
+        "published": "June 25, 2022 11:13 AM"
+    },
+    {
+        "title": "Oslo shooting: Norway attack being treated as Islamist terrorism, police say",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-61933817",
+        "timestamp": 1656172538,
+        "sentiment": 0,
+        "published": "June 25, 2022 11:55 AM"
+    },
+    {
+        "title": "Severodonetsk: Russia has full control of eastern city, Ukraine says",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-61936820",
+        "timestamp": 1656173268,
+        "sentiment": 1,
+        "published": "June 25, 2022 12:07 PM"
+    },
+    {
+        "title": "Inside Herogasm: How The Boys finally pulled off the superhero orgy",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/herogasm-explained-how-the-boys-season-3-pulled-off-superhero-orgy",
+        "timestamp": 1656173530,
+        "sentiment": 7,
+        "published": "June 25, 2022 12:12 PM"
+    },
+    {
+        "title": "Supreme Court Justice Clarence Thomas told his law clerks in the '90s that he wanted to serve for 43 years to make liberals' lives 'miserable'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/clarence-thomas-told-clerks-he-wants-to-make-liberals-miserable-2022-6",
+        "timestamp": 1656173942,
+        "sentiment": -6,
+        "published": "June 25, 2022 12:19 PM"
+    },
+    {
+        "title": "Russia Carried Out Airstrikes From Territory Of Belarus For First Time – Defense Intelligence",
+        "domain": "ukranews.com",
+        "category": "worldnews",
+        "link": "https://ukranews.com/en/news/865184-russia-carried-out-airstrikes-from-territory-of-belarus-for-first-time-defense-intelligence",
+        "timestamp": 1656174026,
+        "sentiment": 1,
+        "published": "June 25, 2022 12:20 PM"
+    },
+    {
+        "title": "US, Japan and allies form new Pacific group to blunt China’s influence",
+        "domain": "jpost.com",
+        "category": "worldnews",
+        "link": "https://www.jpost.com/international/article-710350",
+        "timestamp": 1656174111,
+        "sentiment": 1,
+        "published": "June 25, 2022 12:21 PM"
+    },
+    {
+        "title": "An electric Mercedes-Benz drove 747 miles without recharging, nearly twice the range of Tesla's Model S",
+        "domain": "news.yahoo.com",
+        "category": "technology",
+        "link": "https://news.yahoo.com/electric-mercedes-benz-drove-747-115500242.html",
+        "timestamp": 1656175164,
+        "sentiment": -8,
+        "published": "June 25, 2022 12:39 PM"
+    },
+    {
+        "title": "'She's perfect and she's beautiful': Frozen baby woolly mammoth discovered in Yukon gold fields",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128",
+        "timestamp": 1656175387,
+        "sentiment": 1,
+        "published": "June 25, 2022 12:43 PM"
+    },
+    {
+        "title": "Shane Lamond, MPD Lieutenant Under Investigation For Ties to Proud Boys, Accused of Time Theft Two Years Ago",
+        "domain": "washingtoncitypaper.com",
+        "category": "news",
+        "link": "https://washingtoncitypaper.com/article/560895/shane-lamond-mpd-lieutenant-under-investigation-for-ties-to-proud-boys-was-accused-of-time-theft-two-years-prior/",
+        "timestamp": 1656175818,
+        "sentiment": 0,
+        "published": "June 25, 2022 12:50 PM"
+    },
+    {
+        "title": "18 people spent a week working in the metaverse. 2 dropped out and the rest felt frustrated and said their eyes hurt, study finds.",
+        "domain": "msn.com",
+        "category": "technology",
+        "link": "https://www.msn.com/en-us/money/other/18-people-spent-a-week-working-in-the-metaverse-2-dropped-out-and-the-rest-felt-frustrated-and-said-their-eyes-hurt-study-finds/ar-AAYEZ7m",
+        "timestamp": 1656176948,
+        "sentiment": -8,
+        "published": "June 25, 2022 1:09 PM"
+    },
+    {
+        "title": "Biden signs bipartisan gun control bill into law",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/gun-control-biden-bill-into-law/",
+        "timestamp": 1656177544,
+        "sentiment": 0,
+        "published": "June 25, 2022 1:19 PM"
+    },
+    {
+        "title": "Katie Ledecky dominated her best event so thoroughly that she waited 10 seconds for the second-place finisher",
+        "domain": "insider.com",
+        "category": "sports",
+        "link": "https://www.insider.com/katie-ledecky-dominates-best-race-waits-10-seconds-next-swimmer-2022-6",
+        "timestamp": 1656177844,
+        "sentiment": 0,
+        "published": "June 25, 2022 1:24 PM"
+    },
+    {
+        "title": "Russia says EU candidate status for Ukraine, Moldova will have negative consequences",
+        "domain": "news.yahoo.com",
+        "category": "ukraine",
+        "link": "https://news.yahoo.com/russia-eu-candidate-status-ukraine-170003501.html",
+        "timestamp": 1656178442,
+        "sentiment": -1,
+        "published": "June 25, 2022 1:34 PM"
+    },
+    {
+        "title": "Accepting the Daytime Emmy for Outstanding Game Show, ‘Jeopardy!’ executive producer Michael Davies says a hosting announcement will come “very, very soon”, says the franchise will expand with different versions and “multiple hosts to represent the entire audience, to represent the entire country.”",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/awards/daytime-emmys-2022-winners-list-1235303165/",
+        "timestamp": 1656178488,
+        "sentiment": 7,
+        "published": "June 25, 2022 1:34 PM"
+    },
+    {
+        "title": "Banning tourists from cannabis cafes will cut back on crime: Amsterdam Mayor Fernke Halsema",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/banning-tourists-from-cannabis-cafes-will-cut-back-on-crime-halsema/",
+        "timestamp": 1656178875,
+        "sentiment": 1,
+        "published": "June 25, 2022 1:41 PM"
+    },
+    {
+        "title": "Gay and bi men in Florida should get the meningococcal vaccine, CDC says",
+        "domain": "cnn.com",
+        "category": "miami",
+        "link": "https://www.cnn.com/2022/06/24/health/gay-bi-men-need-meningococcal-vaccine/index.html",
+        "timestamp": 1656178955,
+        "sentiment": 6,
+        "published": "June 25, 2022 1:42 PM"
+    },
+    {
+        "title": "\"The Handsmaid’s Tale\" EP Warren Littlefield on “hauntingly relevant” dystopian drama, finding hope & mobilizing after Roe vs. Wade is overturned",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/handmaids-tale-series-roe-v-wade-decision-reaction-warren-littlefield-1235051953/",
+        "timestamp": 1656180732,
+        "sentiment": 7,
+        "published": "June 25, 2022 2:12 PM"
+    },
+    {
+        "title": "Why Florida isn’t losing the right to an abortion … yet",
+        "domain": "tampabay.com",
+        "category": "miami",
+        "link": "https://www.tampabay.com/news/health/2022/06/24/why-florida-isnt-losing-the-right-to-an-abortion-yet/",
+        "timestamp": 1656181377,
+        "sentiment": 6,
+        "published": "June 25, 2022 2:22 PM"
+    },
+    {
+        "title": "\"Impeach Justice Clarence Thomas\" petition passes 230K signatures",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-passes-230k-signatures-1716379",
+        "timestamp": 1656182038,
+        "sentiment": -6,
+        "published": "June 25, 2022 2:33 PM"
+    },
+    {
+        "title": "Electric Mercedes Completes 747-Mile Drive Without Charging",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mercedes-electric-car-longest-range-tesla-model-s-eqs-eqxx-2022-6",
+        "timestamp": 1656182224,
+        "sentiment": -8,
+        "published": "June 25, 2022 2:37 PM"
+    },
+    {
+        "title": "Peaky Blinders Season 6 Proves Thomas Shelby Is the Most Underrated Leading Man on TV",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-season-6-tommy-shelby-cillian-murphy-underrated-/",
+        "timestamp": 1656183055,
+        "sentiment": 7,
+        "published": "June 25, 2022 2:50 PM"
+    },
+    {
+        "title": "Ukrainian city of Severodonetsk now 'completely under Russian occupation' after months of fighting",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/25/europe/russia-invasion-ukraine-06-25-intl/index.html",
+        "timestamp": 1656183304,
+        "sentiment": 0,
+        "published": "June 25, 2022 2:55 PM"
+    },
+    {
+        "title": "Crist calls for Kavanaugh, Gorsuch to be impeached over abortion ruling",
+        "domain": "kpvi.com",
+        "category": "politics",
+        "link": "https://www.kpvi.com/news/national_news/crist-calls-for-kavanaugh-gorsuch-to-be-impeached-over-abortion-ruling/article_73614887-1ece-58d5-b353-388aad8bb3de.html",
+        "timestamp": 1656183498,
+        "sentiment": -6,
+        "published": "June 25, 2022 2:58 PM"
+    },
+    {
+        "title": "Tech firms under pressure to safeguard user data as abortion prosecutions loom | Roe v Wade",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/us-news/2022/jun/25/tech-companies-health-data-security-abortion-prosecution",
+        "timestamp": 1656184655,
+        "sentiment": -8,
+        "published": "June 25, 2022 3:17 PM"
+    },
+    {
+        "title": "Putin promises Belarus nuclear-capable missiles to counter aggressive West",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/?utm_source=reddit.com",
+        "timestamp": 1656186145,
+        "sentiment": 1,
+        "published": "June 25, 2022 3:42 PM"
+    },
+    {
+        "title": "New Colombian president pledges to protect rainforest",
+        "domain": "washingtontimes.com",
+        "category": "worldnews",
+        "link": "https://www.washingtontimes.com/news/2022/jun/25/new-colombian-president-pledges-to-protect-rainfor/?utm_source=RSS_Feed&utm_medium=RSS",
+        "timestamp": 1656186947,
+        "sentiment": 1,
+        "published": "June 25, 2022 3:55 PM"
+    },
+    {
+        "title": "One killed, two others shot at Illinois WeatherTech facility",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/25/us/weathertech-bolingbrook-shooting-illinois/index.html",
+        "timestamp": 1656186966,
+        "sentiment": 0,
+        "published": "June 25, 2022 3:56 PM"
+    },
+    {
+        "title": "Off-duty officer under investigation after woman assaulted at protest in Providence, police say",
+        "domain": "abc6.com",
+        "category": "news",
+        "link": "https://www.abc6.com/providence-police-off-duty-officer-under-investigation-after-woman-assaulted-at-protest/",
+        "timestamp": 1656187017,
+        "sentiment": 0,
+        "published": "June 25, 2022 3:56 PM"
+    },
+    {
+        "title": "Wisconsin Governor Says He’ll Stop State Abortion Ban From Being Enforced",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/wisconsin-governor-tony-evers-says-hell-stop-state-abortion-ban-from-being-enforced",
+        "timestamp": 1656187761,
+        "sentiment": -6,
+        "published": "June 25, 2022 4:09 PM"
+    },
+    {
+        "title": "Flawed AI makes robots racist, sexist",
+        "domain": "eurekalert.org",
+        "category": "technology",
+        "link": "https://www.eurekalert.org/news-releases/957065",
+        "timestamp": 1656190445,
+        "sentiment": -8,
+        "published": "June 25, 2022 4:54 PM"
+    },
+    {
+        "title": "Russian ally Belarus unleashes rocket air strike into northern Ukraine",
+        "domain": "nypost.com",
+        "category": "worldnews",
+        "link": "https://nypost.com/2022/06/25/russian-ally-belarus-hits-ukraine-with-rocket-air-strike/",
+        "timestamp": 1656190704,
+        "sentiment": 1,
+        "published": "June 25, 2022 4:58 PM"
+    },
+    {
+        "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
+        "domain": "msn.com",
+        "category": "ukraine",
+        "link": "https://www.msn.com/ru-xl/news/newsworld/russia-will-soon-exhaust-its-combat-capabilities-western-assessments-predict/ar-AAYQXFi",
+        "timestamp": 1656192780,
+        "sentiment": -1,
+        "published": "June 25, 2022 5:33 PM"
+    },
+    {
+        "title": "Ginni Thomas left a voicemail for Anita Hill asking her to apologize for accusing Clarence Thomas of sexual harassment",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/ginni-thomas-asked-anita-hill-to-apologize-to-clarence-thomas-2022-6",
+        "timestamp": 1656193052,
+        "sentiment": -6,
+        "published": "June 25, 2022 5:37 PM"
+    },
+    {
+        "title": "USFL playoffs 2022: Semifinals scores, live updates, highlights for Stars-Generals and Breakers-Stallions",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/usfl/news/usfl-playoffs-2022-semifinals-scores-live-updates-highlights-for-stars-generals-and-breakers-stallions/live/",
+        "timestamp": 1656197547,
+        "sentiment": 0,
+        "published": "June 25, 2022 6:52 PM"
+    },
+    {
+        "title": "Frozen baby mammoth discovered in Yukon",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-us-canada-61936818",
+        "timestamp": 1656199373,
+        "sentiment": 0,
+        "published": "June 25, 2022 7:22 PM"
+    },
+    {
+        "title": "The NFL Prepares to Push for an Indefinite Suspension of Deshaun Watson",
+        "domain": "wsj.com",
+        "category": "sports",
+        "link": "https://www.wsj.com/articles/deshaun-watson-nfl-suspension-contract-11656194645",
+        "timestamp": 1656201935,
+        "sentiment": 0,
+        "published": "June 25, 2022 8:05 PM"
+    },
+    {
+        "title": "Sydney McLaughlin Does It Again, Breaks Own World Record | Sports News | US News",
+        "domain": "usnews.com",
+        "category": "sports",
+        "link": "https://www.usnews.com/news/sports/articles/2022-06-25/sydney-mclaughlin-does-it-again-breaks-own-world-record",
+        "timestamp": 1656202754,
+        "sentiment": 0,
+        "published": "June 25, 2022 8:19 PM"
+    },
+    {
         "title": "Women pro cyclists take a knee during national anthem at US Pro Nationals to protest abortion ruling",
         "domain": "cyclingweekly.com",
         "category": "sports",
@@ -18,51 +540,6 @@
         "published": "June 25, 2022 2:39 AM"
     },
     {
-        "title": "Berlin mayor holds 15-minute video call with deepfake of Kyiv mayor Vitali Klitschko",
-        "domain": "p.dw.com",
-        "category": "technology",
-        "link": "https://p.dw.com/p/4DDxp",
-        "timestamp": 1656143787,
-        "sentiment": 0,
-        "published": "June 25, 2022 3:56 AM"
-    },
-    {
-        "title": "Westworld: how the most glorious show on TV became the biggest mess",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/tv-and-radio/2022/jun/25/westworld-how-the-most-glorious-show-on-tv-became-the-biggest-mess",
-        "timestamp": 1656146005,
-        "sentiment": -7,
-        "published": "June 25, 2022 4:33 AM"
-    },
-    {
-        "title": "Meta clamps down on internal discussion of Roe v. Wade’s overturning.",
-        "domain": "nytimes.com",
-        "category": "technology",
-        "link": "https://www.nytimes.com/2022/06/24/business/meta-abortion-employees-discussions.html",
-        "timestamp": 1656146824,
-        "sentiment": 0,
-        "published": "June 25, 2022 4:47 AM"
-    },
-    {
-        "title": "Internet Explorer shutdown to cause Japan problems ‘for months’",
-        "domain": "ft.com",
-        "category": "technology",
-        "link": "https://ft.com/content/a71ace1b-37b8-49f4-b8a5-baddbdb67b8b",
-        "timestamp": 1656151240,
-        "sentiment": 0,
-        "published": "June 25, 2022 6:00 AM"
-    },
-    {
-        "title": "Restricting Abortion Just Makes It More Deadly, Says U.N. After U.S. Ruling",
-        "domain": "usnews.com",
-        "category": "worldnews",
-        "link": "https://www.usnews.com/news/us/articles/2022-06-24/restricting-abortion-just-makes-it-more-deadly-says-u-n-after-u-s-ruling",
-        "timestamp": 1656154397,
-        "sentiment": 1,
-        "published": "June 25, 2022 6:53 AM"
-    },
-    {
         "title": "It’s time to say it: the US supreme court has become an illegitimate institution",
         "domain": "theguardian.com",
         "category": "politics",
@@ -70,60 +547,6 @@
         "timestamp": 1656155577,
         "sentiment": 4,
         "published": "June 25, 2022 7:12 AM"
-    },
-    {
-        "title": "Standing among protestors after the fall of Roe vs. Wade, AOC calls on Biden to create abortion clinics on federal land",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/aoc-calls-on-biden-create-abortion-clinics-on-federal-land-2022-6",
-        "timestamp": 1656155700,
-        "sentiment": 4,
-        "published": "June 25, 2022 7:15 AM"
-    },
-    {
-        "title": "How Abortion Misinformation and Disinformation Spread Online",
-        "domain": "scientificamerican.com",
-        "category": "technology",
-        "link": "https://www.scientificamerican.com/article/how-abortion-misinformation-and-disinformation-spread-online/",
-        "timestamp": 1656155860,
-        "sentiment": 0,
-        "published": "June 25, 2022 7:17 AM"
-    },
-    {
-        "title": "Fiji sing the 'Noqu Masu' hymn",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/NRLonNine/status/1540637916573175808?t=usLiDpn4gyy8ozjLb5u2gQ&s=19",
-        "timestamp": 1656156060,
-        "sentiment": 0,
-        "published": "June 25, 2022 7:21 AM"
-    },
-    {
-        "title": "U.S. Army private admits plotting attack on military unit",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/new-york-manhattan-kentucky-louisville-us-army-c2d9ec281cca5267c25c6395f8cb1761",
-        "timestamp": 1656156148,
-        "sentiment": 2,
-        "published": "June 25, 2022 7:22 AM"
-    },
-    {
-        "title": "‘Obi-Wan Kenobi’ embraced the prequels. Disney still doesn’t understand them. The latest ‘Star Wars’ series managed to rehabilitate George Lucas’s prequels while still overlooking the more youthful qualities that earned the prequels so much nostalgia in the first place.",
-        "domain": "theringer.com",
-        "category": "television",
-        "link": "https://www.theringer.com/star-wars/2022/6/23/23180029/obi-wan-kenobi-prequels-nostalgia-disney-ewan-mcgregor",
-        "timestamp": 1656157949,
-        "sentiment": -7,
-        "published": "June 25, 2022 7:52 AM"
-    },
-    {
-        "title": "French center and left parties vow to bring in a bill to enshrine constitutional right to abortion",
-        "domain": "lemonde.fr",
-        "category": "worldnews",
-        "link": "https://www.lemonde.fr/en/france/article/2022/06/25/french-center-and-left-parties-vow-to-bring-in-a-bill-to-enshrine-constitutional-right-to-abortion_5987943_7.html",
-        "timestamp": 1656158555,
-        "sentiment": 1,
-        "published": "June 25, 2022 8:02 AM"
     },
     {
         "title": "Dutch power grid can't handle influx of electric car charging points",
@@ -135,141 +558,6 @@
         "published": "June 25, 2022 8:46 AM"
     },
     {
-        "title": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/obergefell-telling-clarence-thomas-didnt-bring-up-loving-v-virginia-2022-6",
-        "timestamp": 1656163202,
-        "sentiment": 4,
-        "published": "June 25, 2022 9:20 AM"
-    },
-    {
-        "title": "'Young and Restless' Mishael Morgan Makes Daytime Emmys History as First Black Woman to Win Lead Actress in a Drama",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/06/24/daytime-emmys-mishael-morgan-first-black-lead-actress-winner/",
-        "timestamp": 1656163485,
-        "sentiment": -7,
-        "published": "June 25, 2022 9:24 AM"
-    },
-    {
-        "title": "Mass. governor, rare pro-choice Republican, signs order to protect health care providers who provide abortion services to out-of-state residents",
-        "domain": "bostonglobe.com",
-        "category": "politics",
-        "link": "https://www.bostonglobe.com/2022/06/24/metro/charlie-baker-signs-executive-order-protect-health-care-providers-who-provide-abortion-out-of-state-residents/",
-        "timestamp": 1656164829,
-        "sentiment": 4,
-        "published": "June 25, 2022 9:47 AM"
-    },
-    {
-        "title": "'The dog that caught the car': Republicans brace for the impact of reversing Roe",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/06/25/the-dog-that-caught-the-car-republicans-brace-for-the-impact-of-reversing-roe-00042387?cid=apn",
-        "timestamp": 1656165221,
-        "sentiment": 4,
-        "published": "June 25, 2022 9:53 AM"
-    },
-    {
-        "title": "TV Line Performers of the Week: The Cast of ‘The Boys’",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/06/25/the-boys-herogasm-season-3-episode-6-cast-performances",
-        "timestamp": 1656165785,
-        "sentiment": -7,
-        "published": "June 25, 2022 10:03 AM"
-    },
-    {
-        "title": "Norway on highest terror alert after two killed in mass shootings",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jun/25/mass-shooting-at-oslo-pub-leaves-two-dead",
-        "timestamp": 1656166203,
-        "sentiment": 2,
-        "published": "June 25, 2022 10:10 AM"
-    },
-    {
-        "title": "Community mourns 3-year-old found decomposing in freezer: 'We're supposed to protect them'",
-        "domain": "freep.com",
-        "category": "news",
-        "link": "https://www.freep.com/story/news/local/michigan/detroit/2022/06/24/3-year-old-found-decomposing-freezer/7724338001/",
-        "timestamp": 1656166553,
-        "sentiment": 2,
-        "published": "June 25, 2022 10:15 AM"
-    },
-    {
-        "title": "The Constitution Is Whatever the Right Wing Says It Is",
-        "domain": "theatlantic.com",
-        "category": "politics",
-        "link": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/",
-        "timestamp": 1656166640,
-        "sentiment": 4,
-        "published": "June 25, 2022 10:17 AM"
-    },
-    {
-        "title": "Meta bans staff from open discussion of Roe v. Wade decision and is deleting internal messages that mention abortion: report",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6",
-        "timestamp": 1656166742,
-        "sentiment": 0,
-        "published": "June 25, 2022 10:19 AM"
-    },
-    {
-        "title": "Moscow removes Polish flag from Soviet massacre memorial.",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/25/Moscow-removes-Polish-flag-from-Soviet-massacre-memorial",
-        "timestamp": 1656169983,
-        "sentiment": 1,
-        "published": "June 25, 2022 11:13 AM"
-    },
-    {
-        "title": "Oslo shooting: Norway attack being treated as Islamist terrorism, police say",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-europe-61933817",
-        "timestamp": 1656172538,
-        "sentiment": 2,
-        "published": "June 25, 2022 11:55 AM"
-    },
-    {
-        "title": "Severodonetsk: Russia has full control of eastern city, Ukraine says",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-61936820",
-        "timestamp": 1656173268,
-        "sentiment": 1,
-        "published": "June 25, 2022 12:07 PM"
-    },
-    {
-        "title": "Inside Herogasm: How The Boys finally pulled off the superhero orgy",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/herogasm-explained-how-the-boys-season-3-pulled-off-superhero-orgy",
-        "timestamp": 1656173530,
-        "sentiment": -7,
-        "published": "June 25, 2022 12:12 PM"
-    },
-    {
-        "title": "Supreme Court Justice Clarence Thomas told his law clerks in the '90s that he wanted to serve for 43 years to make liberals' lives 'miserable'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/clarence-thomas-told-clerks-he-wants-to-make-liberals-miserable-2022-6",
-        "timestamp": 1656173942,
-        "sentiment": 4,
-        "published": "June 25, 2022 12:19 PM"
-    },
-    {
-        "title": "Russia Carried Out Airstrikes From Territory Of Belarus For First Time – Defense Intelligence",
-        "domain": "ukranews.com",
-        "category": "worldnews",
-        "link": "https://ukranews.com/en/news/865184-russia-carried-out-airstrikes-from-territory-of-belarus-for-first-time-defense-intelligence",
-        "timestamp": 1656174026,
-        "sentiment": 1,
-        "published": "June 25, 2022 12:20 PM"
-    },
-    {
         "title": "USA: Which (Alleged) Crime Did Florida Republican US House Rep. Matt Gaetz Want A Presidential Pardon For?",
         "domain": "thedailybeast.com",
         "category": "florida",
@@ -277,78 +565,6 @@
         "timestamp": 1656174097,
         "sentiment": 0,
         "published": "June 25, 2022 12:21 PM"
-    },
-    {
-        "title": "US, Japan and allies form new Pacific group to blunt China’s influence",
-        "domain": "jpost.com",
-        "category": "worldnews",
-        "link": "https://www.jpost.com/international/article-710350",
-        "timestamp": 1656174111,
-        "sentiment": 1,
-        "published": "June 25, 2022 12:21 PM"
-    },
-    {
-        "title": "An electric Mercedes-Benz drove 747 miles without recharging, nearly twice the range of Tesla's Model S",
-        "domain": "news.yahoo.com",
-        "category": "technology",
-        "link": "https://news.yahoo.com/electric-mercedes-benz-drove-747-115500242.html",
-        "timestamp": 1656175164,
-        "sentiment": 0,
-        "published": "June 25, 2022 12:39 PM"
-    },
-    {
-        "title": "'She's perfect and she's beautiful': Frozen baby woolly mammoth discovered in Yukon gold fields",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128",
-        "timestamp": 1656175387,
-        "sentiment": 1,
-        "published": "June 25, 2022 12:43 PM"
-    },
-    {
-        "title": "Shane Lamond, MPD Lieutenant Under Investigation For Ties to Proud Boys, Accused of Time Theft Two Years Ago",
-        "domain": "washingtoncitypaper.com",
-        "category": "news",
-        "link": "https://washingtoncitypaper.com/article/560895/shane-lamond-mpd-lieutenant-under-investigation-for-ties-to-proud-boys-was-accused-of-time-theft-two-years-prior/",
-        "timestamp": 1656175818,
-        "sentiment": 2,
-        "published": "June 25, 2022 12:50 PM"
-    },
-    {
-        "title": "18 people spent a week working in the metaverse. 2 dropped out and the rest felt frustrated and said their eyes hurt, study finds.",
-        "domain": "msn.com",
-        "category": "technology",
-        "link": "https://www.msn.com/en-us/money/other/18-people-spent-a-week-working-in-the-metaverse-2-dropped-out-and-the-rest-felt-frustrated-and-said-their-eyes-hurt-study-finds/ar-AAYEZ7m",
-        "timestamp": 1656176948,
-        "sentiment": 0,
-        "published": "June 25, 2022 1:09 PM"
-    },
-    {
-        "title": "Biden signs bipartisan gun control bill into law",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/news/gun-control-biden-bill-into-law/",
-        "timestamp": 1656177544,
-        "sentiment": 2,
-        "published": "June 25, 2022 1:19 PM"
-    },
-    {
-        "title": "Katie Ledecky dominated her best event so thoroughly that she waited 10 seconds for the second-place finisher",
-        "domain": "insider.com",
-        "category": "sports",
-        "link": "https://www.insider.com/katie-ledecky-dominates-best-race-waits-10-seconds-next-swimmer-2022-6",
-        "timestamp": 1656177844,
-        "sentiment": 0,
-        "published": "June 25, 2022 1:24 PM"
-    },
-    {
-        "title": "Russia says EU candidate status for Ukraine, Moldova will have negative consequences",
-        "domain": "news.yahoo.com",
-        "category": "ukraine",
-        "link": "https://news.yahoo.com/russia-eu-candidate-status-ukraine-170003501.html",
-        "timestamp": 1656178442,
-        "sentiment": 0,
-        "published": "June 25, 2022 1:34 PM"
     },
     {
         "title": "US to Join G-7 in Ban of New Russian Gold Imports to Hit Putin",
@@ -360,51 +576,6 @@
         "published": "June 25, 2022 1:34 PM"
     },
     {
-        "title": "Accepting the Daytime Emmy for Outstanding Game Show, ‘Jeopardy!’ executive producer Michael Davies says a hosting announcement will come “very, very soon”, says the franchise will expand with different versions and “multiple hosts to represent the entire audience, to represent the entire country.”",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/awards/daytime-emmys-2022-winners-list-1235303165/",
-        "timestamp": 1656178488,
-        "sentiment": -7,
-        "published": "June 25, 2022 1:34 PM"
-    },
-    {
-        "title": "Banning tourists from cannabis cafes will cut back on crime: Amsterdam Mayor Fernke Halsema",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/banning-tourists-from-cannabis-cafes-will-cut-back-on-crime-halsema/",
-        "timestamp": 1656178875,
-        "sentiment": 1,
-        "published": "June 25, 2022 1:41 PM"
-    },
-    {
-        "title": "Gay and bi men in Florida should get the meningococcal vaccine, CDC says",
-        "domain": "cnn.com",
-        "category": "miami",
-        "link": "https://www.cnn.com/2022/06/24/health/gay-bi-men-need-meningococcal-vaccine/index.html",
-        "timestamp": 1656178955,
-        "sentiment": -2,
-        "published": "June 25, 2022 1:42 PM"
-    },
-    {
-        "title": "\"The Handsmaid’s Tale\" EP Warren Littlefield on “hauntingly relevant” dystopian drama, finding hope & mobilizing after Roe vs. Wade is overturned",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/06/handmaids-tale-series-roe-v-wade-decision-reaction-warren-littlefield-1235051953/",
-        "timestamp": 1656180732,
-        "sentiment": -7,
-        "published": "June 25, 2022 2:12 PM"
-    },
-    {
-        "title": "Why Florida isn’t losing the right to an abortion … yet",
-        "domain": "tampabay.com",
-        "category": "miami",
-        "link": "https://www.tampabay.com/news/health/2022/06/24/why-florida-isnt-losing-the-right-to-an-abortion-yet/",
-        "timestamp": 1656181377,
-        "sentiment": -2,
-        "published": "June 25, 2022 2:22 PM"
-    },
-    {
         "title": "The Supreme Court rulings represent the tyranny of the minority",
         "domain": "washingtonpost.com",
         "category": "politics",
@@ -414,87 +585,6 @@
         "published": "June 25, 2022 2:32 PM"
     },
     {
-        "title": "\"Impeach Justice Clarence Thomas\" petition passes 230K signatures",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-passes-230k-signatures-1716379",
-        "timestamp": 1656182038,
-        "sentiment": 4,
-        "published": "June 25, 2022 2:33 PM"
-    },
-    {
-        "title": "Electric Mercedes Completes 747-Mile Drive Without Charging",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/mercedes-electric-car-longest-range-tesla-model-s-eqs-eqxx-2022-6",
-        "timestamp": 1656182224,
-        "sentiment": 0,
-        "published": "June 25, 2022 2:37 PM"
-    },
-    {
-        "title": "Peaky Blinders Season 6 Proves Thomas Shelby Is the Most Underrated Leading Man on TV",
-        "domain": "pastemagazine.com",
-        "category": "television",
-        "link": "https://www.pastemagazine.com/tv/netflix/peaky-blinders-season-6-tommy-shelby-cillian-murphy-underrated-/",
-        "timestamp": 1656183055,
-        "sentiment": -7,
-        "published": "June 25, 2022 2:50 PM"
-    },
-    {
-        "title": "Ukrainian city of Severodonetsk now 'completely under Russian occupation' after months of fighting",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/25/europe/russia-invasion-ukraine-06-25-intl/index.html",
-        "timestamp": 1656183304,
-        "sentiment": 2,
-        "published": "June 25, 2022 2:55 PM"
-    },
-    {
-        "title": "Crist calls for Kavanaugh, Gorsuch to be impeached over abortion ruling",
-        "domain": "kpvi.com",
-        "category": "politics",
-        "link": "https://www.kpvi.com/news/national_news/crist-calls-for-kavanaugh-gorsuch-to-be-impeached-over-abortion-ruling/article_73614887-1ece-58d5-b353-388aad8bb3de.html",
-        "timestamp": 1656183498,
-        "sentiment": 4,
-        "published": "June 25, 2022 2:58 PM"
-    },
-    {
-        "title": "Tech firms under pressure to safeguard user data as abortion prosecutions loom | Roe v Wade",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/us-news/2022/jun/25/tech-companies-health-data-security-abortion-prosecution",
-        "timestamp": 1656184655,
-        "sentiment": 0,
-        "published": "June 25, 2022 3:17 PM"
-    },
-    {
-        "title": "Putin promises Belarus nuclear-capable missiles to counter aggressive West",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/?utm_source=reddit.com",
-        "timestamp": 1656186145,
-        "sentiment": 1,
-        "published": "June 25, 2022 3:42 PM"
-    },
-    {
-        "title": "One killed, two others shot at Illinois WeatherTech facility",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/25/us/weathertech-bolingbrook-shooting-illinois/index.html",
-        "timestamp": 1656186966,
-        "sentiment": 2,
-        "published": "June 25, 2022 3:56 PM"
-    },
-    {
-        "title": "Off-duty officer under investigation after woman assaulted at protest in Providence, police say",
-        "domain": "abc6.com",
-        "category": "news",
-        "link": "https://www.abc6.com/providence-police-off-duty-officer-under-investigation-after-woman-assaulted-at-protest/",
-        "timestamp": 1656187017,
-        "sentiment": 2,
-        "published": "June 25, 2022 3:56 PM"
-    },
-    {
         "title": "New video shows the moment a motorist drives through Rincon’s ‘Let Freedom Ring Parade’",
         "domain": "wtoc.com",
         "category": "news",
@@ -502,33 +592,6 @@
         "timestamp": 1656187123,
         "sentiment": 2,
         "published": "June 25, 2022 3:58 PM"
-    },
-    {
-        "title": "Russian ally Belarus unleashes rocket air strike into northern Ukraine",
-        "domain": "nypost.com",
-        "category": "worldnews",
-        "link": "https://nypost.com/2022/06/25/russian-ally-belarus-hits-ukraine-with-rocket-air-strike/",
-        "timestamp": 1656190704,
-        "sentiment": 1,
-        "published": "June 25, 2022 4:58 PM"
-    },
-    {
-        "title": "Russia will soon exhaust its combat capabilities, Western assessments predict",
-        "domain": "msn.com",
-        "category": "ukraine",
-        "link": "https://www.msn.com/ru-xl/news/newsworld/russia-will-soon-exhaust-its-combat-capabilities-western-assessments-predict/ar-AAYQXFi",
-        "timestamp": 1656192780,
-        "sentiment": 0,
-        "published": "June 25, 2022 5:33 PM"
-    },
-    {
-        "title": "USFL playoffs 2022: Semifinals scores, live updates, highlights for Stars-Generals and Breakers-Stallions",
-        "domain": "cbssports.com",
-        "category": "sports",
-        "link": "https://www.cbssports.com/usfl/news/usfl-playoffs-2022-semifinals-scores-live-updates-highlights-for-stars-generals-and-breakers-stallions/live/",
-        "timestamp": 1656197547,
-        "sentiment": 0,
-        "published": "June 25, 2022 6:52 PM"
     },
     {
         "title": "Barack Obama Blasted for Not Codifying Roe v. Wade: 'Dem Failure'",
