@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40421320/the-boys-karl-urban-fake-sperm-herogasm/",
         "timestamp": 1656307066,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 27, 2022 1:17 AM"
     },
     {
@@ -14,8 +14,476 @@
         "category": "worldnews",
         "link": "https://www.outlookindia.com/travel/india-bans-single-use-plastic-products-from-july-1-news-203887",
         "timestamp": 1656321024,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 27, 2022 5:10 AM"
+    },
+    {
+        "title": "Ilhan Omar Says Plan to Fix Supreme Court Must Include Impeachment Probes",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/27/ilhan-omar-says-plan-fix-supreme-court-must-include-impeachment-probes",
+        "timestamp": 1656327000,
+        "sentiment": -5,
+        "published": "June 27, 2022 6:50 AM"
+    },
+    {
+        "title": "Israel and Saudi Arabia ‘in talks over joint defence against Iran’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/27/israel-and-saudi-arabia-in-talks-over-joint-defence-against-iran",
+        "timestamp": 1656328280,
+        "sentiment": 0,
+        "published": "June 27, 2022 7:11 AM"
+    },
+    {
+        "title": "Let’s call the overturning of Roe v Wade what it is: state-sanctioned forced birth",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/27/roe-wade-forced-birth-america-abortion-ban-misogyny",
+        "timestamp": 1656329414,
+        "sentiment": -5,
+        "published": "June 27, 2022 7:30 AM"
+    },
+    {
+        "title": "Russia slides into historic debt default as payment period expires",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/27/russia-on-the-brink-of-historic-debt-default-as-payment-period-expires.html",
+        "timestamp": 1656331267,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:01 AM"
+    },
+    {
+        "title": "Ukraine war: The price of freedom is worth paying, says Boris Johnson",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-politics-61949714",
+        "timestamp": 1656331391,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:03 AM"
+    },
+    {
+        "title": "Democrats more likely to vote in midterms after abortion ruling: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/3537982-democrats-more-likely-to-vote-in-midterms-after-abortion-ruling-poll/",
+        "timestamp": 1656331859,
+        "sentiment": -5,
+        "published": "June 27, 2022 8:10 AM"
+    },
+    {
+        "title": "States With Abortion Bans to Mothers: Drop Dead — No, red states aren’t going to suddenly adopt social programs to help caretakers. The goal has always been cruelty.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/06/abortion-roe-scotus-conservative-social-safety-net-fantasy/",
+        "timestamp": 1656332177,
+        "sentiment": -5,
+        "published": "June 27, 2022 8:16 AM"
+    },
+    {
+        "title": "Zelensky warns Belarusians: Don't let Putin drag you into war",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/zelensky-warns-belarusians-putin-drag-war-ukraine-nuclear-missiles-1719367",
+        "timestamp": 1656332246,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:17 AM"
+    },
+    {
+        "title": "All England Club chairman Ian Hewitt explains Wimbledon's banning of Russian, Belarusian players as 'beyond the interests of tennis alone'",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34155443/all-england-club-chairman-ian-hewitt-explains-wimbledon-banning-russian-belarusian-players-interests-tennis-alone",
+        "timestamp": 1656332444,
+        "sentiment": 4,
+        "published": "June 27, 2022 8:20 AM"
+    },
+    {
+        "title": "Ethereum Mining Is Going Away, and Miners Are Not Happy - The shift from proof-of-work to proof-of-stake will cut power consumption sharply—and leave some expensive technology searching for new uses.",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-16/ethereum-mining-tweak-renders-some-crypto-tech-worthless",
+        "timestamp": 1656333275,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:34 AM"
+    },
+    {
+        "title": "Clarence Thomas says American citizens are seemingly 'more interested in their iPhones' than 'their Constitution'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/clarence-thomas-iphones-constitution-liberties-due-process-abortion-2022-6",
+        "timestamp": 1656333844,
+        "sentiment": -5,
+        "published": "June 27, 2022 8:44 AM"
+    },
+    {
+        "title": "Abortion providers to fight Florida’s 15-week ban in court",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/abortion-providers-fight-floridas-15-week-ban-in-court/",
+        "timestamp": 1656333963,
+        "sentiment": 2,
+        "published": "June 27, 2022 8:46 AM"
+    },
+    {
+        "title": "Carol Burnett to Guest Star on 'Better Call Saul'",
+        "domain": "moviemaker.com",
+        "category": "television",
+        "link": "https://www.moviemaker.com/carol-burnett-to-guest-on-better-call-saul-exclusive/",
+        "timestamp": 1656334078,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:47 AM"
+    },
+    {
+        "title": "Progressives Turn Up the Heat on Biden to Do Literally Anything About the Supreme Court - Alternatives to “please vote”.",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/06/biden-filibuster-expand-court-roe/",
+        "timestamp": 1656334971,
+        "sentiment": -5,
+        "published": "June 27, 2022 9:02 AM"
+    },
+    {
+        "title": "Man with gun turned children's reading book event to chaos at Sparks Library",
+        "domain": "mynews4.com",
+        "category": "news",
+        "link": "https://mynews4.com/news/local/man-with-gun-turned-childrens-reading-book-event-to-chaos-in-sparks-library-drag-queen-storytime-sparks-library-nevada-washoe-county-lgbtq",
+        "timestamp": 1656335827,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:17 AM"
+    },
+    {
+        "title": "RIP Bernie Stolar, Who Helped Launch Both The PlayStation And Dreamcast",
+        "domain": "kotaku.com",
+        "category": "technology",
+        "link": "https://kotaku.com/bernie-stolar-bernard-sega-playstation-dreamcast-rip-de-1849111587",
+        "timestamp": 1656336148,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:22 AM"
+    },
+    {
+        "title": "NATO to dramatically increase forces on high alert to over 300,000 from 40,000 amid Russia threat",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/nato-to-significantly-increase-forces-on-high-alert-to-over-300000-from-40000-amid-russia-threat-12641191",
+        "timestamp": 1656336273,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:24 AM"
+    },
+    {
+        "title": "U.S. likely to announce this week purchase of missile defense system for Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/europe/us-likely-announce-this-week-purchase-advanced-missile-defense-system-ukraine-2022-06-27/",
+        "timestamp": 1656336280,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:24 AM"
+    },
+    {
+        "title": "Alexandria Ocasio-Cortez calls for supreme court justices to be impeached",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/27/alexandria-ocasio-cortez-supreme-court-justices-impeach-kavanaugh-gorsuch-thomas?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1656336199",
+        "timestamp": 1656337161,
+        "sentiment": -5,
+        "published": "June 27, 2022 9:39 AM"
+    },
+    {
+        "title": "Serena Williams is back. Could it be her Wimbledon farewell?",
+        "domain": "nbcnews.com",
+        "category": "sports",
+        "link": "https://www.nbcnews.com/news/world/serena-williams-wimbledon-tennis-preview-rcna34699?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1656337696,
+        "sentiment": 4,
+        "published": "June 27, 2022 9:48 AM"
+    },
+    {
+        "title": "Lithuania hit with 'intensive' cyber attacks amid Kaliningrad row",
+        "domain": "lrt.lt",
+        "category": "worldnews",
+        "link": "https://www.lrt.lt/en/news-in-english/19/1727836/lithuania-hit-with-intensive-cyber-attacks-amid-kaliningrad-row",
+        "timestamp": 1656337875,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:51 AM"
+    },
+    {
+        "title": "Brickell Office Tower for $287M in Largest Post-COVID Sale in Miami (Same Citadel Group that bought lot one block over for towers)",
+        "domain": "commercialobserver.com",
+        "category": "miami",
+        "link": "https://commercialobserver.com/2022/06/rockpoint-1221-brickell-randall-davis/",
+        "timestamp": 1656338581,
+        "sentiment": 3,
+        "published": "June 27, 2022 10:03 AM"
+    },
+    {
+        "title": "Supreme Court rules for coach in public school prayer case",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-coach-public-school-prayer-case-rcna31662",
+        "timestamp": 1656338790,
+        "sentiment": 0,
+        "published": "June 27, 2022 10:06 AM"
+    },
+    {
+        "title": "Majority of people disagree with Supreme Court’s decision to overturn Roe v. Wade, new poll shows",
+        "domain": "news4jax.com",
+        "category": "politics",
+        "link": "https://www.news4jax.com/news/local/2022/06/27/majority-of-people-disagree-with-supreme-courts-decision-to-overturn-roe-v-wade-new-poll-shows/",
+        "timestamp": 1656340880,
+        "sentiment": -5,
+        "published": "June 27, 2022 10:41 AM"
+    },
+    {
+        "title": "Jens Stoltenberg: \"A broad dialogue between NATO and #Russia is no longer possible\" #NATO will increase the number of rapid reaction forces from 40,000 to 300,000 people. In addition, the alliance promises to increase support for #Georgia and conduct more exercises there",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/nexta_tv/status/1541404465747697666",
+        "timestamp": 1656340957,
+        "sentiment": 0,
+        "published": "June 27, 2022 10:42 AM"
+    },
+    {
+        "title": "Missile attack on Kremenchuk hit shopping mall with over 1,000 civilians, building is on fire – Zelensky",
+        "domain": "en.interfax.com.ua",
+        "category": "worldnews",
+        "link": "https://en.interfax.com.ua/news/general/841939.html",
+        "timestamp": 1656341178,
+        "sentiment": 0,
+        "published": "June 27, 2022 10:46 AM"
+    },
+    {
+        "title": "'Game of Thrones' Still One of the World's Biggest Shows: Data shows",
+        "domain": "businessinsider.com",
+        "category": "television",
+        "link": "https://www.businessinsider.com/game-of-thrones-still-one-of-worlds-biggest-shows-data-2022-6",
+        "timestamp": 1656341507,
+        "sentiment": 0,
+        "published": "June 27, 2022 10:51 AM"
+    },
+    {
+        "title": "T-Mobile Sells Its Customers App Usage Data To Advertisers: Report",
+        "domain": "androidheadlines.com",
+        "category": "technology",
+        "link": "https://www.androidheadlines.com/2022/06/t-mobile-sells-customer-app-usage-data-to-advertisers.html",
+        "timestamp": 1656341898,
+        "sentiment": 0,
+        "published": "June 27, 2022 10:58 AM"
+    },
+    {
+        "title": "One of the most prominent crypto hedge funds just defaulted on a $670 million loan",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html",
+        "timestamp": 1656342249,
+        "sentiment": 0,
+        "published": "June 27, 2022 11:04 AM"
+    },
+    {
+        "title": "'Q-Force' Canceled at Netflix After 1 Season; No Season 2 Planned",
+        "domain": "whats-on-netflix.com",
+        "category": "television",
+        "link": "https://www.whats-on-netflix.com/news/q-force-canceled-at-netflix-after-1-season-no-season-2-planned/",
+        "timestamp": 1656343806,
+        "sentiment": 0,
+        "published": "June 27, 2022 11:30 AM"
+    },
+    {
+        "title": "More than half of Americans live paycheck to paycheck amid inflation",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/27/more-than-half-of-americans-live-paycheck-to-paycheck-amid-inflation.html",
+        "timestamp": 1656344472,
+        "sentiment": 0,
+        "published": "June 27, 2022 11:41 AM"
+    },
+    {
+        "title": "Libraries in Canada hit by wave of hate, threats, as right-wing groups protest all-age drag events",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/investigates/libraries-threats-all-age-drag-1.6501247",
+        "timestamp": 1656345065,
+        "sentiment": 0,
+        "published": "June 27, 2022 11:51 AM"
+    },
+    {
+        "title": "Hundreds of children taken from Ukraine found in Russia’s Taganrog",
+        "domain": "kyivpost.com",
+        "category": "worldnews",
+        "link": "https://www.kyivpost.com/ukraine-politics/hundreds-of-children-taken-from-ukraine-found-in-russias-taganrog.html",
+        "timestamp": 1656345611,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:00 PM"
+    },
+    {
+        "title": "Idris Elba May Soon Own a Major Stake in British Broadcaster Channel 4 - Other bidders for Channel 4 currently likely include Comcast, Paramount which already owns Channel 5, Vivendi and Discovery",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/idris-elba-miroma-group-channel-4-purchase-bid-1-billion/",
+        "timestamp": 1656347141,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:25 PM"
+    },
+    {
+        "title": "In the event of a strike from Transnistria on Ukraine, people in Transnistria should know: for us it will not be a blow, but a slap, and we will respond with a blow, - Zelenskyy",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/TpyxaNews/status/1541455445038174210",
+        "timestamp": 1656347499,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:31 PM"
+    },
+    {
+        "title": "The #1 Period Tracker on the App Store Will Hand Over Data Without a Warrant",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/y3pgvg/the-1-period-tracker-on-the-app-store-will-hand-over-data-without-a-warrant",
+        "timestamp": 1656348206,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:43 PM"
+    },
+    {
+        "title": "Customer kills Atlanta Subway worker, injures another in argument over mayo, police say",
+        "domain": "fox5atlanta.com",
+        "category": "news",
+        "link": "http://www.fox5atlanta.com/news/downtown-atlanta-subway-shooting-mayo-fight.amp",
+        "timestamp": 1656348435,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:47 PM"
+    },
+    {
+        "title": "Petition to impeach Clarence Thomas passes 300,000 signatures",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/clarence-thomas-impeach-petition-signature-abortion-rights-january-6-insurrection-1719467?utm_medium=Social&utm_source=Twitter#Echobox=1656344544",
+        "timestamp": 1656348732,
+        "sentiment": -5,
+        "published": "June 27, 2022 12:52 PM"
+    },
+    {
+        "title": "Putin confirms his attendance at G20 summit in which Zelenskyy is set to participate",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/27/7355003/",
+        "timestamp": 1656349151,
+        "sentiment": 0,
+        "published": "June 27, 2022 12:59 PM"
+    },
+    {
+        "title": "N.Y. Supreme Court strikes down NYC law granting voting rights to non-citizen residents",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/newyork/news/n-y-supreme-court-strikes-down-nyc-law-granting-voting-rights-to-noncitizen-residents/",
+        "timestamp": 1656349282,
+        "sentiment": 0,
+        "published": "June 27, 2022 1:01 PM"
+    },
+    {
+        "title": "Jan. 6 panel adds last-minute hearing Tuesday afternoon",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/congress/jan-6-panel-adds-last-minute-hearing-tuesday-afternoon-rcna35509",
+        "timestamp": 1656349617,
+        "sentiment": -5,
+        "published": "June 27, 2022 1:06 PM"
+    },
+    {
+        "title": "DeSantis signs bill to expand Bright Futures coverage",
+        "domain": "thecapitolist.com",
+        "category": "florida",
+        "link": "https://thecapitolist.com/desantis-expands-bright-futures-scholarship-coverage/",
+        "timestamp": 1656349632,
+        "sentiment": 2,
+        "published": "June 27, 2022 1:07 PM"
+    },
+    {
+        "title": "‘Only Murders in the Building’ Shines With Selena Gomez’s Career-Best Work in Season 2",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/reviews/only-murders-in-the-building-season-2-review-hulu-1235302592/",
+        "timestamp": 1656350205,
+        "sentiment": 0,
+        "published": "June 27, 2022 1:16 PM"
+    },
+    {
+        "title": "Louisiana judge issues temporary restraining order blocking enforcement of state abortion ban",
+        "domain": "nola.com",
+        "category": "news",
+        "link": "https://www.nola.com/news/courts/article_0de6b466-f62f-11ec-8d80-fb3657487884.html",
+        "timestamp": 1656350355,
+        "sentiment": 0,
+        "published": "June 27, 2022 1:19 PM"
+    },
+    {
+        "title": "Fish leather is here, it’s sustainable – and it’s made from invasive species to boot. An avid diver saw how lionfish have devastated populations of Florida’s native tropical fish and resolved to help solve the problem.",
+        "domain": "theguardian.com",
+        "category": "florida",
+        "link": "https://www.theguardian.com/environment/2022/jun/12/fish-leather-lionfish-sustainable-invasive-species",
+        "timestamp": 1656350925,
+        "sentiment": 2,
+        "published": "June 27, 2022 1:28 PM"
+    },
+    {
+        "title": "Charge Against Giuliani Backslapper Reduced To Misdemeanor; Rudy Calls Video “Deceptive”",
+        "domain": "deadline.com",
+        "category": "news",
+        "link": "https://deadline.com/2022/06/former-mayor-rudy-giuliani-press-conference-new-yok-assaulted-grocery-store-worker-staten-island-campaigning-1235052589/",
+        "timestamp": 1656353294,
+        "sentiment": 0,
+        "published": "June 27, 2022 2:08 PM"
+    },
+    {
+        "title": "Russia Says Putin Will Be Part Of G20 Summit—Setting Stage For Showdown With Western Leaders",
+        "domain": "forbes.com",
+        "category": "worldnews",
+        "link": "https://www.forbes.com/sites/dereksaul/2022/06/27/russia-says-putin-will-be-part-of-g20-summit-setting-stage-for-showdown-with-western-leaders/",
+        "timestamp": 1656354373,
+        "sentiment": 0,
+        "published": "June 27, 2022 2:26 PM"
+    },
+    {
+        "title": "Chess - Nino Batsiashvili wins Georgian Women’s Chess Championship, for the 4th time, same number of times as Nona Gaprindashvili, the 1st female grandmaster.",
+        "domain": "chessdom.com",
+        "category": "sports",
+        "link": "https://www.chessdom.com/gm-nino-batsiashvili-wins-79th-georgian-womens-chess-championship/",
+        "timestamp": 1656354678,
+        "sentiment": 4,
+        "published": "June 27, 2022 2:31 PM"
+    },
+    {
+        "title": "‘Severance’ Is the Year’s Best Series So Far Because It’s Not a Puzzle. It’s a Portrait.",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/06/severance-not-puzzle-box-series-best-series-2022-1234736675/",
+        "timestamp": 1656354893,
+        "sentiment": 0,
+        "published": "June 27, 2022 2:34 PM"
+    },
+    {
+        "title": "Google Hangouts is shutting down in November",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/6/27/23185012/google-hangouts-shutting-down-november-chat-migration",
+        "timestamp": 1656355975,
+        "sentiment": 0,
+        "published": "June 27, 2022 2:52 PM"
+    },
+    {
+        "title": "Kentucky's 2022 Teacher of the Year quits profession, citing homophobia",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/kentuckys-2022-teacher-year-quits-profession-citing-homophobia-rcna35224",
+        "timestamp": 1656357501,
+        "sentiment": 0,
+        "published": "June 27, 2022 3:18 PM"
+    },
+    {
+        "title": "Anti-abortion centers find pregnant teens online, then save their data",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data?srnd=technology-vp",
+        "timestamp": 1656359094,
+        "sentiment": 0,
+        "published": "June 27, 2022 3:44 PM"
     },
     {
         "title": "Spurred by Roe overturn, senators seek FTC probe of iOS and Android tracking | Phone-tracking enables \"constant sale of Americans' personal data,\" Democrats say.",
@@ -27,13 +495,13 @@
         "published": "June 27, 2022 6:41 AM"
     },
     {
-        "title": "Ilhan Omar Says Plan to Fix Supreme Court Must Include Impeachment Probes",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/27/ilhan-omar-says-plan-fix-supreme-court-must-include-impeachment-probes",
-        "timestamp": 1656327000,
-        "sentiment": 0,
-        "published": "June 27, 2022 6:50 AM"
+        "title": "Indianapolis won't prosecute abortion cases if state outlaws procedure, prosecutor says",
+        "domain": "indystar.com",
+        "category": "news",
+        "link": "https://www.indystar.com/story/news/2022/06/24/roe-v-wade-decision-2022-indiana-democrats-abortion-rights-legislation/7722523001/",
+        "timestamp": 1656351010,
+        "sentiment": 1,
+        "published": "June 27, 2022 1:30 PM"
     },
     {
         "title": "Greenville County Republican Party overturns primary over alleged voting irregularities",
@@ -54,69 +522,6 @@
         "published": "June 27, 2022 7:07 AM"
     },
     {
-        "title": "Israel and Saudi Arabia ‘in talks over joint defence against Iran’",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jun/27/israel-and-saudi-arabia-in-talks-over-joint-defence-against-iran",
-        "timestamp": 1656328280,
-        "sentiment": -1,
-        "published": "June 27, 2022 7:11 AM"
-    },
-    {
-        "title": "Let’s call the overturning of Roe v Wade what it is: state-sanctioned forced birth",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/commentisfree/2022/jun/27/roe-wade-forced-birth-america-abortion-ban-misogyny",
-        "timestamp": 1656329414,
-        "sentiment": 0,
-        "published": "June 27, 2022 7:30 AM"
-    },
-    {
-        "title": "Russia slides into historic debt default as payment period expires",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/27/russia-on-the-brink-of-historic-debt-default-as-payment-period-expires.html",
-        "timestamp": 1656331267,
-        "sentiment": -2,
-        "published": "June 27, 2022 8:01 AM"
-    },
-    {
-        "title": "Ukraine war: The price of freedom is worth paying, says Boris Johnson",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/uk-politics-61949714",
-        "timestamp": 1656331391,
-        "sentiment": -1,
-        "published": "June 27, 2022 8:03 AM"
-    },
-    {
-        "title": "Democrats more likely to vote in midterms after abortion ruling: poll",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/3537982-democrats-more-likely-to-vote-in-midterms-after-abortion-ruling-poll/",
-        "timestamp": 1656331859,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:10 AM"
-    },
-    {
-        "title": "States With Abortion Bans to Mothers: Drop Dead — No, red states aren’t going to suddenly adopt social programs to help caretakers. The goal has always been cruelty.",
-        "domain": "motherjones.com",
-        "category": "politics",
-        "link": "https://www.motherjones.com/politics/2022/06/abortion-roe-scotus-conservative-social-safety-net-fantasy/",
-        "timestamp": 1656332177,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:16 AM"
-    },
-    {
-        "title": "Zelensky warns Belarusians: Don't let Putin drag you into war",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/zelensky-warns-belarusians-putin-drag-war-ukraine-nuclear-missiles-1719367",
-        "timestamp": 1656332246,
-        "sentiment": -1,
-        "published": "June 27, 2022 8:17 AM"
-    },
-    {
         "title": "NATO to massively increase high-readiness forces to 300,000 - Stoltenberg",
         "domain": "reuters.com",
         "category": "news",
@@ -124,51 +529,6 @@
         "timestamp": 1656332768,
         "sentiment": -2,
         "published": "June 27, 2022 8:26 AM"
-    },
-    {
-        "title": "Ethereum Mining Is Going Away, and Miners Are Not Happy - The shift from proof-of-work to proof-of-stake will cut power consumption sharply—and leave some expensive technology searching for new uses.",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-16/ethereum-mining-tweak-renders-some-crypto-tech-worthless",
-        "timestamp": 1656333275,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:34 AM"
-    },
-    {
-        "title": "Clarence Thomas says American citizens are seemingly 'more interested in their iPhones' than 'their Constitution'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/clarence-thomas-iphones-constitution-liberties-due-process-abortion-2022-6",
-        "timestamp": 1656333844,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:44 AM"
-    },
-    {
-        "title": "Abortion providers to fight Florida’s 15-week ban in court",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/florida/abortion-providers-fight-floridas-15-week-ban-in-court/",
-        "timestamp": 1656333963,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:46 AM"
-    },
-    {
-        "title": "Carol Burnett to Guest Star on 'Better Call Saul'",
-        "domain": "moviemaker.com",
-        "category": "television",
-        "link": "https://www.moviemaker.com/carol-burnett-to-guest-on-better-call-saul-exclusive/",
-        "timestamp": 1656334078,
-        "sentiment": 2,
-        "published": "June 27, 2022 8:47 AM"
-    },
-    {
-        "title": "Progressives Turn Up the Heat on Biden to Do Literally Anything About the Supreme Court - Alternatives to “please vote”.",
-        "domain": "motherjones.com",
-        "category": "politics",
-        "link": "https://www.motherjones.com/politics/2022/06/biden-filibuster-expand-court-roe/",
-        "timestamp": 1656334971,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:02 AM"
     },
     {
         "title": "Umbrella Academy - Viktor (Elliot Page) is welcomed into the family by his brothers",
@@ -180,15 +540,6 @@
         "published": "June 27, 2022 9:04 AM"
     },
     {
-        "title": "Man with gun turned children's reading book event to chaos at Sparks Library",
-        "domain": "mynews4.com",
-        "category": "news",
-        "link": "https://mynews4.com/news/local/man-with-gun-turned-childrens-reading-book-event-to-chaos-in-sparks-library-drag-queen-storytime-sparks-library-nevada-washoe-county-lgbtq",
-        "timestamp": 1656335827,
-        "sentiment": -2,
-        "published": "June 27, 2022 9:17 AM"
-    },
-    {
         "title": "Train carrying vital supplies derails as Russia’s ammo at critical level",
         "domain": "express.co.uk",
         "category": "ukraine",
@@ -196,60 +547,6 @@
         "timestamp": 1656335840,
         "sentiment": -2,
         "published": "June 27, 2022 9:17 AM"
-    },
-    {
-        "title": "RIP Bernie Stolar, Who Helped Launch Both The PlayStation And Dreamcast",
-        "domain": "kotaku.com",
-        "category": "technology",
-        "link": "https://kotaku.com/bernie-stolar-bernard-sega-playstation-dreamcast-rip-de-1849111587",
-        "timestamp": 1656336148,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:22 AM"
-    },
-    {
-        "title": "NATO to dramatically increase forces on high alert to over 300,000 from 40,000 amid Russia threat",
-        "domain": "news.sky.com",
-        "category": "ukraine",
-        "link": "https://news.sky.com/story/nato-to-significantly-increase-forces-on-high-alert-to-over-300000-from-40000-amid-russia-threat-12641191",
-        "timestamp": 1656336273,
-        "sentiment": -2,
-        "published": "June 27, 2022 9:24 AM"
-    },
-    {
-        "title": "U.S. likely to announce this week purchase of missile defense system for Ukraine",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/markets/europe/us-likely-announce-this-week-purchase-advanced-missile-defense-system-ukraine-2022-06-27/",
-        "timestamp": 1656336280,
-        "sentiment": -1,
-        "published": "June 27, 2022 9:24 AM"
-    },
-    {
-        "title": "Alexandria Ocasio-Cortez calls for supreme court justices to be impeached",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jun/27/alexandria-ocasio-cortez-supreme-court-justices-impeach-kavanaugh-gorsuch-thomas?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1656336199",
-        "timestamp": 1656337161,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:39 AM"
-    },
-    {
-        "title": "Serena Williams is back. Could it be her Wimbledon farewell?",
-        "domain": "nbcnews.com",
-        "category": "sports",
-        "link": "https://www.nbcnews.com/news/world/serena-williams-wimbledon-tennis-preview-rcna34699?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1656337696,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:48 AM"
-    },
-    {
-        "title": "Lithuania hit with 'intensive' cyber attacks amid Kaliningrad row",
-        "domain": "lrt.lt",
-        "category": "worldnews",
-        "link": "https://www.lrt.lt/en/news-in-english/19/1727836/lithuania-hit-with-intensive-cyber-attacks-amid-kaliningrad-row",
-        "timestamp": 1656337875,
-        "sentiment": -1,
-        "published": "June 27, 2022 9:51 AM"
     },
     {
         "title": "Cisco to quit Russia and Belarus due to Ukraine war",
@@ -261,96 +558,6 @@
         "published": "June 27, 2022 10:02 AM"
     },
     {
-        "title": "Brickell Office Tower for $287M in Largest Post-COVID Sale in Miami (Same Citadel Group that bought lot one block over for towers)",
-        "domain": "commercialobserver.com",
-        "category": "miami",
-        "link": "https://commercialobserver.com/2022/06/rockpoint-1221-brickell-randall-davis/",
-        "timestamp": 1656338581,
-        "sentiment": 1,
-        "published": "June 27, 2022 10:03 AM"
-    },
-    {
-        "title": "Supreme Court rules for coach in public school prayer case",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-coach-public-school-prayer-case-rcna31662",
-        "timestamp": 1656338790,
-        "sentiment": -2,
-        "published": "June 27, 2022 10:06 AM"
-    },
-    {
-        "title": "Majority of people disagree with Supreme Court’s decision to overturn Roe v. Wade, new poll shows",
-        "domain": "news4jax.com",
-        "category": "politics",
-        "link": "https://www.news4jax.com/news/local/2022/06/27/majority-of-people-disagree-with-supreme-courts-decision-to-overturn-roe-v-wade-new-poll-shows/",
-        "timestamp": 1656340880,
-        "sentiment": 0,
-        "published": "June 27, 2022 10:41 AM"
-    },
-    {
-        "title": "Jens Stoltenberg: \"A broad dialogue between NATO and #Russia is no longer possible\" #NATO will increase the number of rapid reaction forces from 40,000 to 300,000 people. In addition, the alliance promises to increase support for #Georgia and conduct more exercises there",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/nexta_tv/status/1541404465747697666",
-        "timestamp": 1656340957,
-        "sentiment": -2,
-        "published": "June 27, 2022 10:42 AM"
-    },
-    {
-        "title": "Missile attack on Kremenchuk hit shopping mall with over 1,000 civilians, building is on fire – Zelensky",
-        "domain": "en.interfax.com.ua",
-        "category": "worldnews",
-        "link": "https://en.interfax.com.ua/news/general/841939.html",
-        "timestamp": 1656341178,
-        "sentiment": -1,
-        "published": "June 27, 2022 10:46 AM"
-    },
-    {
-        "title": "'Game of Thrones' Still One of the World's Biggest Shows: Data shows",
-        "domain": "businessinsider.com",
-        "category": "television",
-        "link": "https://www.businessinsider.com/game-of-thrones-still-one-of-worlds-biggest-shows-data-2022-6",
-        "timestamp": 1656341507,
-        "sentiment": 2,
-        "published": "June 27, 2022 10:51 AM"
-    },
-    {
-        "title": "T-Mobile Sells Its Customers App Usage Data To Advertisers: Report",
-        "domain": "androidheadlines.com",
-        "category": "technology",
-        "link": "https://www.androidheadlines.com/2022/06/t-mobile-sells-customer-app-usage-data-to-advertisers.html",
-        "timestamp": 1656341898,
-        "sentiment": 0,
-        "published": "June 27, 2022 10:58 AM"
-    },
-    {
-        "title": "One of the most prominent crypto hedge funds just defaulted on a $670 million loan",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html",
-        "timestamp": 1656342249,
-        "sentiment": -2,
-        "published": "June 27, 2022 11:04 AM"
-    },
-    {
-        "title": "'Q-Force' Canceled at Netflix After 1 Season; No Season 2 Planned",
-        "domain": "whats-on-netflix.com",
-        "category": "television",
-        "link": "https://www.whats-on-netflix.com/news/q-force-canceled-at-netflix-after-1-season-no-season-2-planned/",
-        "timestamp": 1656343806,
-        "sentiment": 2,
-        "published": "June 27, 2022 11:30 AM"
-    },
-    {
-        "title": "More than half of Americans live paycheck to paycheck amid inflation",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/27/more-than-half-of-americans-live-paycheck-to-paycheck-amid-inflation.html",
-        "timestamp": 1656344472,
-        "sentiment": -2,
-        "published": "June 27, 2022 11:41 AM"
-    },
-    {
         "title": "Nato increases forces on high alert from 40,000 to more than 300,000 amid Russia threat",
         "domain": "msn.com",
         "category": "worldnews",
@@ -358,33 +565,6 @@
         "timestamp": 1656344480,
         "sentiment": -1,
         "published": "June 27, 2022 11:41 AM"
-    },
-    {
-        "title": "Hundreds of children taken from Ukraine found in Russia’s Taganrog",
-        "domain": "kyivpost.com",
-        "category": "worldnews",
-        "link": "https://www.kyivpost.com/ukraine-politics/hundreds-of-children-taken-from-ukraine-found-in-russias-taganrog.html",
-        "timestamp": 1656345611,
-        "sentiment": -1,
-        "published": "June 27, 2022 12:00 PM"
-    },
-    {
-        "title": "Idris Elba May Soon Own a Major Stake in British Broadcaster Channel 4 - Other bidders for Channel 4 currently likely include Comcast, Paramount which already owns Channel 5, Vivendi and Discovery",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/idris-elba-miroma-group-channel-4-purchase-bid-1-billion/",
-        "timestamp": 1656347141,
-        "sentiment": 2,
-        "published": "June 27, 2022 12:25 PM"
-    },
-    {
-        "title": "The #1 Period Tracker on the App Store Will Hand Over Data Without a Warrant",
-        "domain": "vice.com",
-        "category": "technology",
-        "link": "https://www.vice.com/en/article/y3pgvg/the-1-period-tracker-on-the-app-store-will-hand-over-data-without-a-warrant",
-        "timestamp": 1656348206,
-        "sentiment": 0,
-        "published": "June 27, 2022 12:43 PM"
     },
     {
         "title": "Pentagon: Russia’s latest nuclear threats ‘irresponsible’",
@@ -396,24 +576,6 @@
         "published": "June 27, 2022 12:46 PM"
     },
     {
-        "title": "Customer kills Atlanta Subway worker, injures another in argument over mayo, police say",
-        "domain": "fox5atlanta.com",
-        "category": "news",
-        "link": "http://www.fox5atlanta.com/news/downtown-atlanta-subway-shooting-mayo-fight.amp",
-        "timestamp": 1656348435,
-        "sentiment": -2,
-        "published": "June 27, 2022 12:47 PM"
-    },
-    {
-        "title": "Petition to impeach Clarence Thomas passes 300,000 signatures",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/clarence-thomas-impeach-petition-signature-abortion-rights-january-6-insurrection-1719467?utm_medium=Social&utm_source=Twitter#Echobox=1656344544",
-        "timestamp": 1656348732,
-        "sentiment": 0,
-        "published": "June 27, 2022 12:52 PM"
-    },
-    {
         "title": "Miami-Dade GOP Chairman Responds to Criticism of Proud Boys in Leadership",
         "domain": "news.google.com",
         "category": "miami",
@@ -421,42 +583,6 @@
         "timestamp": 1656348991,
         "sentiment": 1,
         "published": "June 27, 2022 12:56 PM"
-    },
-    {
-        "title": "Putin confirms his attendance at G20 summit in which Zelenskyy is set to participate",
-        "domain": "pravda.com.ua",
-        "category": "ukraine",
-        "link": "https://www.pravda.com.ua/eng/news/2022/06/27/7355003/",
-        "timestamp": 1656349151,
-        "sentiment": -2,
-        "published": "June 27, 2022 12:59 PM"
-    },
-    {
-        "title": "N.Y. Supreme Court strikes down NYC law granting voting rights to non-citizen residents",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/newyork/news/n-y-supreme-court-strikes-down-nyc-law-granting-voting-rights-to-noncitizen-residents/",
-        "timestamp": 1656349282,
-        "sentiment": -2,
-        "published": "June 27, 2022 1:01 PM"
-    },
-    {
-        "title": "‘Only Murders in the Building’ Shines With Selena Gomez’s Career-Best Work in Season 2",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/reviews/only-murders-in-the-building-season-2-review-hulu-1235302592/",
-        "timestamp": 1656350205,
-        "sentiment": 2,
-        "published": "June 27, 2022 1:16 PM"
-    },
-    {
-        "title": "Fish leather is here, it’s sustainable – and it’s made from invasive species to boot. An avid diver saw how lionfish have devastated populations of Florida’s native tropical fish and resolved to help solve the problem.",
-        "domain": "theguardian.com",
-        "category": "florida",
-        "link": "https://www.theguardian.com/environment/2022/jun/12/fish-leather-lionfish-sustainable-invasive-species",
-        "timestamp": 1656350925,
-        "sentiment": 0,
-        "published": "June 27, 2022 1:28 PM"
     },
     {
         "title": "3 dead, 2 injured after Amtrak train collides with car in California",
@@ -484,15 +610,6 @@
         "timestamp": 1656324212,
         "sentiment": -4,
         "published": "June 27, 2022 6:03 AM"
-    },
-    {
-        "title": "All England Club chairman Ian Hewitt explains Wimbledon's banning of Russian, Belarusian players as 'beyond the interests of tennis alone'",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/tennis/story/_/id/34155443/all-england-club-chairman-ian-hewitt-explains-wimbledon-banning-russian-belarusian-players-interests-tennis-alone",
-        "timestamp": 1656332444,
-        "sentiment": 1,
-        "published": "June 27, 2022 8:20 AM"
     },
     {
         "title": "Supreme Court Sides With Coach Over Prayers on 50-Yard Line",
