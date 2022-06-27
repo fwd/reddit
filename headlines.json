@@ -5,7 +5,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40421320/the-boys-karl-urban-fake-sperm-herogasm/",
         "timestamp": 1656307066,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 1:17 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/27/ilhan-omar-says-plan-fix-supreme-court-must-include-impeachment-probes",
         "timestamp": 1656327000,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 6:50 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jun/27/roe-wade-forced-birth-america-abortion-ban-misogyny",
         "timestamp": 1656329414,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 7:30 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/27/russia-on-the-brink-of-historic-debt-default-as-payment-period-expires.html",
         "timestamp": 1656331267,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 8:01 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/3537982-democrats-more-likely-to-vote-in-midterms-after-abortion-ruling-poll/",
         "timestamp": 1656331859,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 8:10 AM"
     },
     {
@@ -70,15 +70,6 @@
         "timestamp": 1656332246,
         "sentiment": -1,
         "published": "June 27, 2022 8:17 AM"
-    },
-    {
-        "title": "All England Club chairman Ian Hewitt explains Wimbledon's banning of Russian, Belarusian players as 'beyond the interests of tennis alone'",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/tennis/story/_/id/34155443/all-england-club-chairman-ian-hewitt-explains-wimbledon-banning-russian-belarusian-players-interests-tennis-alone",
-        "timestamp": 1656332444,
-        "sentiment": 0,
-        "published": "June 27, 2022 8:20 AM"
     },
     {
         "title": "Ethereum Mining Is Going Away, and Miners Are Not Happy - The shift from proof-of-work to proof-of-stake will cut power consumption sharply—and leave some expensive technology searching for new uses.",
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/clarence-thomas-iphones-constitution-liberties-due-process-abortion-2022-6",
         "timestamp": 1656333844,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 8:44 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida/abortion-providers-fight-floridas-15-week-ban-in-court/",
         "timestamp": 1656333963,
-        "sentiment": 2,
+        "sentiment": 5,
         "published": "June 27, 2022 8:46 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "television",
         "link": "https://www.moviemaker.com/carol-burnett-to-guest-on-better-call-saul-exclusive/",
         "timestamp": 1656334078,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 8:47 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/06/biden-filibuster-expand-court-roe/",
         "timestamp": 1656334971,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 9:02 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "news",
         "link": "https://mynews4.com/news/local/man-with-gun-turned-childrens-reading-book-event-to-chaos-in-sparks-library-drag-queen-storytime-sparks-library-nevada-washoe-county-lgbtq",
         "timestamp": 1656335827,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 9:17 AM"
     },
     {
@@ -149,15 +140,6 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/nato-to-significantly-increase-forces-on-high-alert-to-over-300000-from-40000-amid-russia-threat-12641191",
         "timestamp": 1656336273,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:24 AM"
-    },
-    {
-        "title": "U.S. likely to announce this week purchase of missile defense system for Ukraine",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/markets/europe/us-likely-announce-this-week-purchase-advanced-missile-defense-system-ukraine-2022-06-27/",
-        "timestamp": 1656336280,
         "sentiment": -1,
         "published": "June 27, 2022 9:24 AM"
     },
@@ -167,17 +149,8 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/27/alexandria-ocasio-cortez-supreme-court-justices-impeach-kavanaugh-gorsuch-thomas?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1656336199",
         "timestamp": 1656337161,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 9:39 AM"
-    },
-    {
-        "title": "Serena Williams is back. Could it be her Wimbledon farewell?",
-        "domain": "nbcnews.com",
-        "category": "sports",
-        "link": "https://www.nbcnews.com/news/world/serena-williams-wimbledon-tennis-preview-rcna34699?cid=sm_npd_nn_tw_ma",
-        "timestamp": 1656337696,
-        "sentiment": 0,
-        "published": "June 27, 2022 9:48 AM"
     },
     {
         "title": "Lithuania hit with 'intensive' cyber attacks amid Kaliningrad row",
@@ -203,7 +176,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-coach-public-school-prayer-case-rcna31662",
         "timestamp": 1656338790,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 10:06 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "politics",
         "link": "https://www.news4jax.com/news/local/2022/06/27/majority-of-people-disagree-with-supreme-courts-decision-to-overturn-roe-v-wade-new-poll-shows/",
         "timestamp": 1656340880,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 10:41 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1541404465747697666",
         "timestamp": 1656340957,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 27, 2022 10:42 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "television",
         "link": "https://www.businessinsider.com/game-of-thrones-still-one-of-worlds-biggest-shows-data-2022-6",
         "timestamp": 1656341507,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 10:51 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html",
         "timestamp": 1656342249,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 11:04 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "television",
         "link": "https://www.whats-on-netflix.com/news/q-force-canceled-at-netflix-after-1-season-no-season-2-planned/",
         "timestamp": 1656343806,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 11:30 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/27/more-than-half-of-americans-live-paycheck-to-paycheck-amid-inflation.html",
         "timestamp": 1656344472,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 11:41 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "television",
         "link": "https://collider.com/idris-elba-miroma-group-channel-4-purchase-bid-1-billion/",
         "timestamp": 1656347141,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 12:25 PM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/TpyxaNews/status/1541455445038174210",
         "timestamp": 1656347499,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 27, 2022 12:31 PM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "news",
         "link": "http://www.fox5atlanta.com/news/downtown-atlanta-subway-shooting-mayo-fight.amp",
         "timestamp": 1656348435,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 12:47 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/clarence-thomas-impeach-petition-signature-abortion-rights-january-6-insurrection-1719467?utm_medium=Social&utm_source=Twitter#Echobox=1656344544",
         "timestamp": 1656348732,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 12:52 PM"
     },
     {
@@ -347,17 +320,8 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/27/7355003/",
         "timestamp": 1656349151,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 27, 2022 12:59 PM"
-    },
-    {
-        "title": "N.Y. Supreme Court strikes down NYC law granting voting rights to non-citizen residents",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/newyork/news/n-y-supreme-court-strikes-down-nyc-law-granting-voting-rights-to-noncitizen-residents/",
-        "timestamp": 1656349282,
-        "sentiment": 4,
-        "published": "June 27, 2022 1:01 PM"
     },
     {
         "title": "Jan. 6 panel adds last-minute hearing Tuesday afternoon",
@@ -365,7 +329,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/congress/jan-6-panel-adds-last-minute-hearing-tuesday-afternoon-rcna35509",
         "timestamp": 1656349617,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 1:06 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "florida",
         "link": "https://thecapitolist.com/desantis-expands-bright-futures-scholarship-coverage/",
         "timestamp": 1656349632,
-        "sentiment": 2,
+        "sentiment": 5,
         "published": "June 27, 2022 1:07 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/06/27/us-supreme-court-now-fascist-institution",
         "timestamp": 1656350194,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 27, 2022 1:16 PM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/reviews/only-murders-in-the-building-season-2-review-hulu-1235302592/",
         "timestamp": 1656350205,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 1:16 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "news",
         "link": "https://www.nola.com/news/courts/article_0de6b466-f62f-11ec-8d80-fb3657487884.html",
         "timestamp": 1656350355,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 1:19 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "florida",
         "link": "https://www.theguardian.com/environment/2022/jun/12/fish-leather-lionfish-sustainable-invasive-species",
         "timestamp": 1656350925,
-        "sentiment": 2,
+        "sentiment": 5,
         "published": "June 27, 2022 1:28 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "news",
         "link": "https://deadline.com/2022/06/former-mayor-rudy-giuliani-press-conference-new-yok-assaulted-grocery-store-worker-staten-island-campaigning-1235052589/",
         "timestamp": 1656353294,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 2:08 PM"
     },
     {
@@ -432,12 +396,21 @@
         "published": "June 27, 2022 2:26 PM"
     },
     {
+        "title": "Chess - Nino Batsiashvili wins Georgian Women’s Chess Championship, for the 4th time, same number of times as Nona Gaprindashvili, the 1st female grandmaster.",
+        "domain": "chessdom.com",
+        "category": "sports",
+        "link": "https://www.chessdom.com/gm-nino-batsiashvili-wins-79th-georgian-womens-chess-championship/",
+        "timestamp": 1656354678,
+        "sentiment": 2,
+        "published": "June 27, 2022 2:31 PM"
+    },
+    {
         "title": "‘Severance’ Is the Year’s Best Series So Far Because It’s Not a Puzzle. It’s a Portrait.",
         "domain": "indiewire.com",
         "category": "television",
         "link": "https://www.indiewire.com/2022/06/severance-not-puzzle-box-series-best-series-2022-1234736675/",
         "timestamp": 1656354893,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 2:34 PM"
     },
     {
@@ -455,7 +428,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/kentuckys-2022-teacher-year-quits-profession-citing-homophobia-rcna35224",
         "timestamp": 1656357501,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "June 27, 2022 3:18 PM"
     },
     {
@@ -482,8 +455,17 @@
         "category": "television",
         "link": "https://www.thewrap.com/succession-season-4-filming-cast-synopsis/",
         "timestamp": 1656360081,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 27, 2022 4:01 PM"
+    },
+    {
+        "title": "China has plans to make Minority Report a reality for its citizens",
+        "domain": "techspot.com",
+        "category": "technology",
+        "link": "https://www.techspot.com/news/95091-china-has-plans-make-minority-report-reality-citizens.html",
+        "timestamp": 1656361073,
+        "sentiment": 0,
+        "published": "June 27, 2022 4:17 PM"
     },
     {
         "title": "Marlin Briscoe, a former Bronco and the AFL's first black quarterback, dies at age 76",
@@ -491,8 +473,89 @@
         "category": "sports",
         "link": "https://gazette.com/sports/marlin-briscoe-a-former-bronco-and-the-afls-first-black-quarterback-dies-at-age-76/article_a6be37fa-f651-11ec-9ff8-eb25ad6a98fe.html",
         "timestamp": 1656362831,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 27, 2022 4:47 PM"
+    },
+    {
+        "title": "8-year-old Florida boy accidentally shoots and kills baby",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/florida-accidents-pensacola-4e157bcc00e3b7de4050314fe568e507",
+        "timestamp": 1656365495,
+        "sentiment": 2,
+        "published": "June 27, 2022 5:31 PM"
+    },
+    {
+        "title": "'The Old Man' Renewed for Season 2 at FX",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/the-old-man-season-2-renewed-jeff-bridges/",
+        "timestamp": 1656365724,
+        "sentiment": 0,
+        "published": "June 27, 2022 5:35 PM"
+    },
+    {
+        "title": "Kentucky Amazon Workers Are Starting to Organize a Union",
+        "domain": "jacobin.com",
+        "category": "technology",
+        "link": "https://jacobin.com/2022/06/campbellsville-ky-amazon-facility-unionizing/",
+        "timestamp": 1656365953,
+        "sentiment": 0,
+        "published": "June 27, 2022 5:39 PM"
+    },
+    {
+        "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
+        "domain": "smh.com.au",
+        "category": "worldnews",
+        "link": "https://www.smh.com.au/national/abandoning-god-christianity-plummets-as-non-religious-surges-in-census-20220627-p5awvz.html",
+        "timestamp": 1656366080,
+        "sentiment": -1,
+        "published": "June 27, 2022 5:41 PM"
+    },
+    {
+        "title": "All the Non-sanctioned NCAA Sports Champions - Part 1",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/SickosCommittee/status/1541437970150031361/photo/1",
+        "timestamp": 1656366238,
+        "sentiment": 2,
+        "published": "June 27, 2022 5:43 PM"
+    },
+    {
+        "title": "All England Club chairman Ian Hewitt explains Wimbledon's banning of Russian, Belarusian players as 'beyond the interests of tennis alone'",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34155443/all-england-club-chairman-ian-hewitt-explains-wimbledon-banning-russian-belarusian-players-interests-tennis-alone",
+        "timestamp": 1656332444,
+        "sentiment": 0,
+        "published": "June 27, 2022 8:20 AM"
+    },
+    {
+        "title": "U.S. likely to announce this week purchase of missile defense system for Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/markets/europe/us-likely-announce-this-week-purchase-advanced-missile-defense-system-ukraine-2022-06-27/",
+        "timestamp": 1656336280,
+        "sentiment": -1,
+        "published": "June 27, 2022 9:24 AM"
+    },
+    {
+        "title": "Serena Williams is back. Could it be her Wimbledon farewell?",
+        "domain": "nbcnews.com",
+        "category": "sports",
+        "link": "https://www.nbcnews.com/news/world/serena-williams-wimbledon-tennis-preview-rcna34699?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1656337696,
+        "sentiment": 0,
+        "published": "June 27, 2022 9:48 AM"
+    },
+    {
+        "title": "N.Y. Supreme Court strikes down NYC law granting voting rights to non-citizen residents",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/newyork/news/n-y-supreme-court-strikes-down-nyc-law-granting-voting-rights-to-noncitizen-residents/",
+        "timestamp": 1656349282,
+        "sentiment": 4,
+        "published": "June 27, 2022 1:01 PM"
     },
     {
         "title": "Israel and Saudi Arabia ‘in talks over joint defence against Iran’",
@@ -511,15 +574,6 @@
         "timestamp": 1656332177,
         "sentiment": -5,
         "published": "June 27, 2022 8:16 AM"
-    },
-    {
-        "title": "Chess - Nino Batsiashvili wins Georgian Women’s Chess Championship, for the 4th time, same number of times as Nona Gaprindashvili, the 1st female grandmaster.",
-        "domain": "chessdom.com",
-        "category": "sports",
-        "link": "https://www.chessdom.com/gm-nino-batsiashvili-wins-79th-georgian-womens-chess-championship/",
-        "timestamp": 1656354678,
-        "sentiment": 4,
-        "published": "June 27, 2022 2:31 PM"
     },
     {
         "title": "Spurred by Roe overturn, senators seek FTC probe of iOS and Android tracking | Phone-tracking enables \"constant sale of Americans' personal data,\" Democrats say.",
