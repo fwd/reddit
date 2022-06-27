@@ -95,7 +95,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida/abortion-providers-fight-floridas-15-week-ban-in-court/",
         "timestamp": 1656333963,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 27, 2022 8:46 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/nato-to-significantly-increase-forces-on-high-alert-to-over-300000-from-40000-amid-russia-threat-12641191",
         "timestamp": 1656336273,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 27, 2022 9:24 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1541404465747697666",
         "timestamp": 1656340957,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 27, 2022 10:42 AM"
     },
     {
@@ -279,15 +279,6 @@
         "published": "June 27, 2022 12:25 PM"
     },
     {
-        "title": "In the event of a strike from Transnistria on Ukraine, people in Transnistria should know: for us it will not be a blow, but a slap, and we will respond with a blow, - Zelenskyy",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/TpyxaNews/status/1541455445038174210",
-        "timestamp": 1656347499,
-        "sentiment": -1,
-        "published": "June 27, 2022 12:31 PM"
-    },
-    {
         "title": "The #1 Period Tracker on the App Store Will Hand Over Data Without a Warrant",
         "domain": "vice.com",
         "category": "technology",
@@ -320,7 +311,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/06/27/7355003/",
         "timestamp": 1656349151,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "June 27, 2022 12:59 PM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "florida",
         "link": "https://thecapitolist.com/desantis-expands-bright-futures-scholarship-coverage/",
         "timestamp": 1656349632,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 27, 2022 1:07 PM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "florida",
         "link": "https://www.theguardian.com/environment/2022/jun/12/fish-leather-lionfish-sustainable-invasive-species",
         "timestamp": 1656350925,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 27, 2022 1:28 PM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "sports",
         "link": "https://www.chessdom.com/gm-nino-batsiashvili-wins-79th-georgian-womens-chess-championship/",
         "timestamp": 1656354678,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "June 27, 2022 2:31 PM"
     },
     {
@@ -441,6 +432,15 @@
         "published": "June 27, 2022 3:44 PM"
     },
     {
+        "title": "Volodymyr Zelenskyi: The Russian state has become the largest terrorist organization in the world. It is a fact. And it should be a legal fact. And everyone in the world should know that buying or transporting Russian oil,",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1541506849941463040",
+        "timestamp": 1656359343,
+        "sentiment": 4,
+        "published": "June 27, 2022 3:49 PM"
+    },
+    {
         "title": "France says Russia must answer for missile strike on Ukrainian mall",
         "domain": "reuters.com",
         "category": "worldnews",
@@ -459,6 +459,15 @@
         "published": "June 27, 2022 4:01 PM"
     },
     {
+        "title": "UK doctors demand pay rise of up to 30% over five years",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/society/2022/jun/27/uk-doctors-demand-pay-rise-of-up-to-30-over-five-years",
+        "timestamp": 1656360713,
+        "sentiment": -1,
+        "published": "June 27, 2022 4:11 PM"
+    },
+    {
         "title": "China has plans to make Minority Report a reality for its citizens",
         "domain": "techspot.com",
         "category": "technology",
@@ -473,7 +482,7 @@
         "category": "sports",
         "link": "https://gazette.com/sports/marlin-briscoe-a-former-bronco-and-the-afls-first-black-quarterback-dies-at-age-76/article_a6be37fa-f651-11ec-9ff8-eb25ad6a98fe.html",
         "timestamp": 1656362831,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "June 27, 2022 4:47 PM"
     },
     {
@@ -502,6 +511,15 @@
         "timestamp": 1656365953,
         "sentiment": 0,
         "published": "June 27, 2022 5:39 PM"
+    },
+    {
+        "title": "In the event of a strike from Transnistria on Ukraine, people in Transnistria should know: for us it will not be a blow, but a slap, and we will respond with a blow, - Zelenskyy",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/TpyxaNews/status/1541455445038174210",
+        "timestamp": 1656347499,
+        "sentiment": -1,
+        "published": "June 27, 2022 12:31 PM"
     },
     {
         "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
