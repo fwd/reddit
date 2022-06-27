@@ -1,31 +1,48 @@
-# News Headlines Dataset
+# Headline Dataset
 
-For research purposes. Available in JSON format. 
+Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) file. 
 
-See **headlines.json** file for dataset. And **script.js** file for scraping script written in javascript.  
-
-Compiled by the team at **[Fresh Web Designs](https://github.com/fwd)**
-
-**Sentiment**: Data includes sentiment score. We use a AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of input text. 
-
-**Source:** Headlines are compiled from Reddit.com every 30 minutes. Please note, 'published' data point is when a headline was published on Reddit, not the article's website.
-
-**Subreddits**: r/news, r/worldnews, r/technology, r/television, r/entertaiment, r/politics, r/sports
-
-## Need Custom Scraping?
-
-We're a software company based out of Miami, Florida, US. We work on projects all over the world, large and small. We accept most Crypto. Everything is done on Github. Reach out @ hello@fwd.dev 
-
-## Donate
-
-We accept Crypto donations at the following addresses: 
+File Size: ~**3MB** (+0.1MB per day)
 
 ```
-# Nano
-nano_37y6iq8m1zx9inwkkcgqh34kqsihzpjfwgp9jir8xpb9jrcwhkmoxpo61f4o
+[
+    {
+        "title": "The Boys' Karl Urban says they ran out of fake sperm filming Herogasm",
+        "domain": "digitalspy.com",
+        "category": "television",
+        "link": "https://www.digitalspy.com/tv/ustv/a40421320/the-boys-karl-urban-fake-sperm-herogasm/",
+        "timestamp": 1656307066,
+        "sentiment": 0,
+        "published": "June 27, 2022 1:17 AM"
+    },
+    {
+        "title": "3 dead, 2 injured after Amtrak train collides with car in California",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/dead-injured-amtrak-collision-report/story?id=85761564",
+        "timestamp": 1656308108,
+        "sentiment": -6,
+        "published": "June 27, 2022 1:35 AM"
+    },
+    ..
+]
 ```
+
+### Topics
+
+- World News
+- Technology
+- Television
+- Entertaiment
+- Politics
+- Sport
+- More Coming Soon
 
 ---
+
+### Contact 
+
+Twitter: [@nano2dev](https://twitter.com/nano2dev)
 
 ## Github Stars
 
