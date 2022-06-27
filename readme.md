@@ -1,5 +1,9 @@
 # Headline Dataset
 
+Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) file. 
+
+File Size: ~**3MB** (+0.1MB per day)
+
 ```
 [
     {
@@ -34,13 +38,11 @@
 - Sport
 - More Coming Soon
 
-### Dataset File
-
-See the /dataset.json file. 
-
-File Size: ~**3MB** (+0.1MB per day)
-
 ---
+
+### Contact 
+
+Twitter: [@nano2dev](https://twitter.com/nano2dev)
 
 ## Github Stars
 
