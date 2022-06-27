@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://www.defensenews.com/pentagon/2022/06/24/raytheon-northrop-advance-in-competition-to-develop-hypersonic-weapons-interceptor/",
         "timestamp": 1656217703,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 12:28 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "sports",
         "link": "https://www.sportsnet.ca/cfl/article/nathan-rourke-sets-single-game-cfl-passing-record-by-a-canadian-qb/",
         "timestamp": 1656221645,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 1:34 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/jellysmack-laid-off-employees-economic-slowdown-email-ceo-to-employees-2022-6",
         "timestamp": 1656232931,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 4:42 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/miami-dade/video-shows-man-pointing-gun-at-driver-in-nw-miami-dade-encounter-described-as-road-rage/",
         "timestamp": 1656233648,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 4:54 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/25/exxon-mobil-ceo-all-new-passenger-cars-will-be-electric-by-2040.html",
         "timestamp": 1656237382,
-        "sentiment": 1,
-        "published": "June 26, 2022 5:56 AM"
-    },
-    {
-        "title": "New Zealand sea sponge populations 'dying by the millions' due to climate change",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
-        "timestamp": 1656238531,
         "sentiment": 0,
-        "published": "June 26, 2022 6:15 AM"
+        "published": "June 26, 2022 5:56 AM"
     },
     {
         "title": "New Israeli military technology allows operators to 'see through walls'",
@@ -95,7 +86,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/new-israeli-military-technology-allows-operators-to-see-through-walls-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656238703,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 6:18 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/",
         "timestamp": 1656239288,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 6:28 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/",
         "timestamp": 1656250119,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 9:28 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537363-south-dakota-governor-says-she-will-ban-abortion-pills-prescribed-online/",
         "timestamp": 1656251187,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 9:46 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "politics",
         "link": "https://truthout.org/articles/the-supreme-court-is-now-forcing-taxpayers-to-pay-for-anti-gay-religious-schools/",
         "timestamp": 1656254030,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 10:33 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republicans-fear-overturning-roe-v-wade-is-midterms-losing-issue-2022-6",
         "timestamp": 1656254408,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 10:40 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/25-percent-americans-confidence-supreme-court-poll-2022-6",
         "timestamp": 1656254950,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 10:49 AM"
     },
     {
@@ -187,15 +178,6 @@
         "timestamp": 1656255342,
         "sentiment": -3,
         "published": "June 26, 2022 10:55 AM"
-    },
-    {
-        "title": "Capitol attack hearings: if Republicans did nothing wrong, why were pardons sought?",
-        "domain": "theguardian.com",
-        "category": "politics",
-        "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
-        "timestamp": 1656255419,
-        "sentiment": -2,
-        "published": "June 26, 2022 10:56 AM"
     },
     {
         "title": "‘My Aching Heart Is Shattered Into Little Pieces’ - “A year ago, Champlain Towers South collapsed in Surfside, Fla. The lives of those who lost loved ones and homes have never been the same.”",
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3537393-ocasio-cortez-says-conservative-justices-lied-under-oath-should-be-impeached/",
         "timestamp": 1656256596,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 11:16 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/alexandria-ocasiocortez-supreme-court-biden-abortion-b2109487.html",
         "timestamp": 1656256699,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 11:18 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "miami",
         "link": "https://www.wfla.com/news/polk-county/police-prepare-to-enforce-floridas-new-loud-music-law/",
         "timestamp": 1656259255,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 12:00 PM"
     },
     {
@@ -279,15 +261,6 @@
         "published": "June 26, 2022 12:08 PM"
     },
     {
-        "title": "Fintechs face reckoning as easy money dries up",
-        "domain": "ft.com",
-        "category": "technology",
-        "link": "https://www.ft.com/content/2c0028ad-72a7-4176-8922-6729f6a3cc75",
-        "timestamp": 1656262674,
-        "sentiment": 1,
-        "published": "June 26, 2022 12:57 PM"
-    },
-    {
         "title": "‘Westworld’ Team on Exploring (Un)Reliable Narrators and the Nature of Reality in a Season 4 That’s “Easier to Grasp”",
         "domain": "hollywoodreporter.com",
         "category": "television",
@@ -302,7 +275,7 @@
         "category": "technology",
         "link": "https://www.protocol.com/newsletters/sourcecode/post-roe-data-tech-companies",
         "timestamp": 1656266998,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 2:09 PM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/26/why-the-us-has-a-massive-power-line-problem.html",
         "timestamp": 1656267168,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 2:12 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/26/infuriating-biden-rebuked-continued-opposition-supreme-court-expansion",
         "timestamp": 1656269923,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 2:58 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "miami",
         "link": "https://www.instagram.com/stories/peopleplacesthingsmiami/2869301555164496063/",
         "timestamp": 1656270653,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 3:10 PM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/warren-midterm-elections-democrats-filibuster-roe-abortion",
         "timestamp": 1656271301,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 3:21 PM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/abortion-rights-protest-capitol-insurrection-republicans-1719257",
         "timestamp": 1656274512,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 26, 2022 4:15 PM"
     },
     {
@@ -421,6 +394,15 @@
         "timestamp": 1656275069,
         "sentiment": 0,
         "published": "June 26, 2022 4:24 PM"
+    },
+    {
+        "title": "‘Shaman’ special forces take the fight across the border into Russia",
+        "domain": "thetimes.co.uk",
+        "category": "ukraine",
+        "link": "https://www.thetimes.co.uk/article/shaman-special-forces-take-the-fight-across-the-border-into-russia-0l6srllwk",
+        "timestamp": 1656276219,
+        "sentiment": 0,
+        "published": "June 26, 2022 4:43 PM"
     },
     {
         "title": "Family of pregnant teen killed by undercover police is awarded $21M",
@@ -450,12 +432,21 @@
         "published": "June 26, 2022 5:23 PM"
     },
     {
+        "title": "Protester: ‘My rights should not be a fundraising point for the Democrats’",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/yasmin-vossoughian/watch/protester-receives-text-from-biden-administration-to-donate-after-roe-v-wade-ruling-142866501790",
+        "timestamp": 1656279326,
+        "sentiment": 0,
+        "published": "June 26, 2022 5:35 PM"
+    },
+    {
         "title": "Amazon Is Intimidating and Harassing Organizing Workers in Montreal",
         "domain": "jacobin.com",
         "category": "technology",
         "link": "https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/",
         "timestamp": 1656280640,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 26, 2022 5:57 PM"
     },
     {
@@ -473,7 +464,7 @@
         "category": "miami",
         "link": "https://www.newsweek.com/calls-mass-walk-out-women-roe-wade-repealed-abortion-1710855",
         "timestamp": 1656282882,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 6:34 PM"
     },
     {
@@ -486,13 +477,67 @@
         "published": "June 26, 2022 6:49 PM"
     },
     {
+        "title": "Internet history, texts, and location data could all be used as criminal evidence in states where abortion becomes illegal post-Roe, digital rights advocates warn",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/roe-abortion-surveillance-location-data-scotus-computer-search-history-2022-6",
+        "timestamp": 1656286074,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:27 PM"
+    },
+    {
         "title": "Mariners, Angels clear the benches in brawl at Anaheim game, 8 ejected",
         "domain": "twitter.com",
         "category": "sports",
         "link": "https://twitter.com/bleacherreport/status/1541159150297792514?s=21&t=JCebs04YiHLjx0HCWA_kwg",
         "timestamp": 1656286372,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 26, 2022 7:32 PM"
+    },
+    {
+        "title": "Russia Defaults on Foreign Debt for First Time Since 1918",
+        "domain": "bnnbloomberg.ca",
+        "category": "worldnews",
+        "link": "https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183",
+        "timestamp": 1656286701,
+        "sentiment": 0,
+        "published": "June 26, 2022 7:38 PM"
+    },
+    {
+        "title": "Sha'Carri Richardson's 'mind-blowing' flop stuns athletics world",
+        "domain": "au.sports.yahoo.com",
+        "category": "sports",
+        "link": "https://au.sports.yahoo.com/athletics-2022-sha-carri-richardson-100m-sprint-heat-flop-us-championships-051859838.html",
+        "timestamp": 1656287400,
+        "sentiment": 3,
+        "published": "June 26, 2022 7:50 PM"
+    },
+    {
+        "title": "New Zealand sea sponge populations 'dying by the millions' due to climate change",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/06/24/asia/new-zealand-sea-sponge-bleaching-climate-change-intl-hnk/index.html",
+        "timestamp": 1656238531,
+        "sentiment": 0,
+        "published": "June 26, 2022 6:15 AM"
+    },
+    {
+        "title": "Capitol attack hearings: if Republicans did nothing wrong, why were pardons sought?",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/26/capitol-attack-hearings-republicans-sought-pardons",
+        "timestamp": 1656255419,
+        "sentiment": -2,
+        "published": "June 26, 2022 10:56 AM"
+    },
+    {
+        "title": "Fintechs face reckoning as easy money dries up",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/2c0028ad-72a7-4176-8922-6729f6a3cc75",
+        "timestamp": 1656262674,
+        "sentiment": 1,
+        "published": "June 26, 2022 12:57 PM"
     },
     {
         "title": "Ghislaine Maxwell put on suicide watch, may seek sentencing delay, lawyer says",
