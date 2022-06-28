@@ -5,17 +5,8 @@
         "category": "news",
         "link": "https://www.wistv.com/2022/06/27/fetal-heartbeat-law-now-effect-south-carolina/",
         "timestamp": 1656389012,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 28, 2022 12:03 AM"
-    },
-    {
-        "title": "100-Year-Old Giant Sturgeon Caught In Canada, Thrown Back In River",
-        "domain": "ndtv.com",
-        "category": "worldnews",
-        "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
-        "timestamp": 1656389689,
-        "sentiment": 0,
-        "published": "June 28, 2022 12:14 AM"
     },
     {
         "title": "Robots With Flawed AI Make Sexist And Racist Decisions, Experiment Shows. \"We're at risk of creating a generation of racist and sexist robots, but people and organizations have decided it's OK to create these products without addressing the issues.\"",
@@ -23,8 +14,17 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 12:46 AM"
+    },
+    {
+        "title": "45% of Streaming Moochers Wouldn’t Purchase Their Favorite Subscription Service If They Couldn’t Use Someone Else’s Login",
+        "domain": "lendingtree.com",
+        "category": "television",
+        "link": "https://www.lendingtree.com/credit-cards/study/streaming-subscriptions/",
+        "timestamp": 1656391749,
+        "sentiment": -1,
+        "published": "June 28, 2022 12:49 AM"
     },
     {
         "title": "Homeowner assistance program put in place for homeowners who are financially struggling",
@@ -32,7 +32,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/broward/homeowner-assistance-program-put-in-place-for-homeowners-who-are-financially-struggling/amp/",
         "timestamp": 1656393737,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 1:22 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "science",
         "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
         "timestamp": 1656393830,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 1:23 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.thedrive.com/the-war-zone/ukraine-to-get-same-surface-to-air-missiles-that-protect-u-s-capital-report",
         "timestamp": 1656394298,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "June 28, 2022 1:31 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 1:32 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "nottheonion",
         "link": "https://newsunrolled.com/world/45970.html",
         "timestamp": 1656397156,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 2:19 AM"
-    },
-    {
-        "title": "Germany abolishes Nazi-era abortion law.",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/world/europe/germany-abolishes-nazi-era-abortion-law-2022-06-24/",
-        "timestamp": 1656401048,
-        "sentiment": 1,
-        "published": "June 28, 2022 3:24 AM"
     },
     {
         "title": "Occupied Perevalsk. Locals report that there are now many ambulances and many wounded Russian soldiers. The \"LPR\" confirmed the strike and stated that Ukrainian troops for the first time struck the military base of Perevalsk from the American MLRS HIMARS.",
@@ -95,7 +86,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "June 28, 2022 3:50 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957100",
         "timestamp": 1656404016,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 4:13 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
         "timestamp": 1656404203,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 4:16 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/EuromaidanPress/status/1541702441694928898",
         "timestamp": 1656406161,
-        "sentiment": -4,
+        "sentiment": 1,
         "published": "June 28, 2022 4:49 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/drunk-mayor-crashes-car-after-meeting-families-drunk-driving-victims-1719613",
         "timestamp": 1656410372,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 5:59 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
         "timestamp": 1656410441,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 6:00 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "nottheonion",
         "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
         "timestamp": 1656410641,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 6:04 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s43247-022-00452-3",
         "timestamp": 1656412469,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 6:34 AM"
     },
     {
@@ -261,6 +252,15 @@
         "published": "June 28, 2022 7:05 AM"
     },
     {
+        "title": "Chlorine gas leak kills 12, injures 251 at Jordan port",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/middle-east/four-dead-70-injured-toxic-gas-leak-jordans-aqaba-port-state-tv-2022-06-27/",
+        "timestamp": 1656414744,
+        "sentiment": -4,
+        "published": "June 28, 2022 7:12 AM"
+    },
+    {
         "title": "Sexualized video games are not causing harm to male or female players, according to new research",
         "domain": "psypost.org",
         "category": "UpliftingNews",
@@ -270,12 +270,48 @@
         "published": "June 28, 2022 7:25 AM"
     },
     {
+        "title": "Florida Journalist Gets DUI Charges Dropped for the 3rd time! Could help that his attorney is the Mayor of one of the cities he covers?",
+        "domain": "parklandtalk.com",
+        "category": "florida",
+        "link": "https://parklandtalk.com/local-journalist-gets-dui-charges-dropped-15864",
+        "timestamp": 1656415817,
+        "sentiment": 3,
+        "published": "June 28, 2022 7:30 AM"
+    },
+    {
+        "title": "Ukrainians who come to UK illegally could be sent to Rwanda, Johnson says",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/uk-news/2022/jun/23/ukrainians-who-come-to-uk-illegally-could-be-sent-to-rwanda-johnson-says",
+        "timestamp": 1656416476,
+        "sentiment": -5,
+        "published": "June 28, 2022 7:41 AM"
+    },
+    {
+        "title": "Fears of violence against pro-choice protests intensify amid wave of attacks",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
+        "timestamp": 1656417246,
+        "sentiment": -4,
+        "published": "June 28, 2022 7:54 AM"
+    },
+    {
+        "title": "Did violence follow Roe decision? Yes — almost all of it against pro-choice protesters",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
+        "timestamp": 1656417387,
+        "sentiment": 2,
+        "published": "June 28, 2022 7:56 AM"
+    },
+    {
         "title": "People with a higher conspiracy mentality have a general tendency to judge others as untrustworthy",
         "domain": "psypost.org",
         "category": "science",
         "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
         "timestamp": 1656417463,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 28, 2022 7:57 AM"
     },
     {
@@ -284,8 +320,17 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
         "timestamp": 1656417611,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 8:00 AM"
+    },
+    {
+        "title": "A Ukrainian TV host crowdfunded $20 million to buy Bayraktar drones. The company making them refused the money and said it'd donate the aircraft instead.",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
+        "timestamp": 1656418439,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:13 AM"
     },
     {
         "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
@@ -295,6 +340,51 @@
         "timestamp": 1656418846,
         "sentiment": 1,
         "published": "June 28, 2022 8:20 AM"
+    },
+    {
+        "title": "Zelenskyy says Russia bombed a shopping mall because seeing Ukrainians try to live a normal life made it ‘angry’",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
+        "timestamp": 1656419302,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:28 AM"
+    },
+    {
+        "title": "First photos of WNBA’s Brittney Griner appearing in a Russian court",
+        "domain": "latimes.com",
+        "category": "sports",
+        "link": "https://www.latimes.com/sports/story/2022-06-27/first-photos-of-wnbas-brittney-griner-appearing-in-a-russian-court",
+        "timestamp": 1656420793,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:53 AM"
+    },
+    {
+        "title": "Boy missing for eight days in Germany found alive in sewer",
+        "domain": "news.sky.com",
+        "category": "UpliftingNews",
+        "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
+        "timestamp": 1656422433,
+        "sentiment": 1,
+        "published": "June 28, 2022 9:20 AM"
+    },
+    {
+        "title": "100-Year-Old Giant Sturgeon Caught In Canada, Thrown Back In River",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
+        "timestamp": 1656389689,
+        "sentiment": 0,
+        "published": "June 28, 2022 12:14 AM"
+    },
+    {
+        "title": "Germany abolishes Nazi-era abortion law.",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/germany-abolishes-nazi-era-abortion-law-2022-06-24/",
+        "timestamp": 1656401048,
+        "sentiment": 1,
+        "published": "June 28, 2022 3:24 AM"
     },
     {
         "title": "One dead, one injured in shooting over too much mayo on sandwich at Atlanta Subway.",
@@ -916,15 +1006,6 @@
         "timestamp": 1656372832,
         "sentiment": -2,
         "published": "June 27, 2022 7:33 PM"
-    },
-    {
-        "title": "45% of Streaming Moochers Wouldn’t Purchase Their Favorite Subscription Service If They Couldn’t Use Someone Else’s Login",
-        "domain": "lendingtree.com",
-        "category": "technology",
-        "link": "https://www.lendingtree.com/credit-cards/study/streaming-subscriptions/",
-        "timestamp": 1656372847,
-        "sentiment": 0,
-        "published": "June 27, 2022 7:34 PM"
     },
     {
         "title": "Los Angeles 2028: ‘Ninja Warrior’ Considered for Inclusion in Olympics",
