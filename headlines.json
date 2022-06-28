@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.wsbtv.com/news/local/atlanta/too-much-mayo-sandwich-1-dead-1-surgery-after-being-shot-by-customer-apd-says/ERSZ6VTFOBDY5K7ELGH4IXU2WY/",
         "timestamp": 1656390911,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 28, 2022 12:35 AM"
     },
     {
@@ -32,8 +32,26 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "June 28, 2022 1:32 AM"
+    },
+    {
+        "title": "This seems more appropriate here....",
+        "domain": "ktla.com",
+        "category": "nottheonion",
+        "link": "https://ktla.com/news/local-news/california-sending-out-inflation-relief-checks-up-to-1050-heres-how-much-youll-get/",
+        "timestamp": 1656396208,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:03 AM"
+    },
+    {
+        "title": "In Australia, a drunk mayor crashed after meeting with the families of crash victims.",
+        "domain": "newsunrolled.com",
+        "category": "nottheonion",
+        "link": "https://newsunrolled.com/world/45970.html",
+        "timestamp": 1656397156,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:19 AM"
     },
     {
         "title": "The Boys' Karl Urban says they ran out of fake sperm filming Herogasm",
