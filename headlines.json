@@ -5,17 +5,8 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 12:46 AM"
-    },
-    {
-        "title": "45% of Streaming Moochers Wouldn’t Purchase Their Favorite Subscription Service If They Couldn’t Use Someone Else’s Login",
-        "domain": "lendingtree.com",
-        "category": "television",
-        "link": "https://www.lendingtree.com/credit-cards/study/streaming-subscriptions/",
-        "timestamp": 1656391749,
-        "sentiment": 2,
-        "published": "June 28, 2022 12:49 AM"
     },
     {
         "title": "Putin will be held responsible for shopping centre 'war crime', say G7",
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -32,17 +23,8 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": -3,
+        "sentiment": 5,
         "published": "June 28, 2022 3:50 AM"
-    },
-    {
-        "title": "Louisiana woman says her rapist was given custody of her child in ongoing court dispute",
-        "domain": "nbcnews.com",
-        "category": "nottheonion",
-        "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
-        "timestamp": 1656404203,
-        "sentiment": 0,
-        "published": "June 28, 2022 4:16 AM"
     },
     {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
@@ -54,21 +36,12 @@
         "published": "June 28, 2022 4:36 AM"
     },
     {
-        "title": "Nicola Sturgeon to announce second Scottish independence vote, defying Westminster | Scottish first minister on collision course with Boris Johnson over plans for second referendum next year.",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/scotland-uk-nicola-sturgeon-prepares-to-defy-westminster-and-announce-second-independence-vote/",
-        "timestamp": 1656407552,
-        "sentiment": -2,
-        "published": "June 28, 2022 5:12 AM"
-    },
-    {
         "title": "Roe Was Overturned Because of Politics, Not the Constitution",
         "domain": "politico.com",
         "category": "politics",
         "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
         "timestamp": 1656409290,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 5:41 AM"
     },
     {
@@ -77,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
         "timestamp": 1656410441,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 6:00 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
         "timestamp": 1656411466,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 6:17 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s43247-022-00452-3",
         "timestamp": 1656412469,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 6:34 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656414309,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 7:05 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "UpliftingNews",
         "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
         "timestamp": 1656415527,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 28, 2022 7:25 AM"
     },
     {
@@ -162,21 +135,12 @@
         "published": "June 28, 2022 7:41 AM"
     },
     {
-        "title": "Former KGB officer detained in Lviv Oblast for correcting Russian missile strikes",
-        "domain": "pravda.com.ua",
-        "category": "ukraine",
-        "link": "https://www.pravda.com.ua/eng/news/2022/06/28/7355135/",
-        "timestamp": 1656417061,
-        "sentiment": -3,
-        "published": "June 28, 2022 7:51 AM"
-    },
-    {
         "title": "Fears of violence against pro-choice protests intensify amid wave of attacks",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
         "timestamp": 1656417246,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 7:54 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
         "timestamp": 1656417387,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 7:56 AM"
     },
     {
@@ -194,17 +158,17 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
         "timestamp": 1656417463,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 7:57 AM"
     },
     {
-        "title": "Accounting giant Ernst & Young admits its employees cheated on ethics exams",
-        "domain": "npr.org",
+        "title": "For killing 60 Lab Mice, An Egyptian Teaching Assistant Was Sentenced To Six Months In Prison",
+        "domain": "hasanjasim.com",
         "category": "nottheonion",
-        "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
-        "timestamp": 1656417611,
+        "link": "https://hasanjasim.com/K6vW",
+        "timestamp": 1656417497,
         "sentiment": 0,
-        "published": "June 28, 2022 8:00 AM"
+        "published": "June 28, 2022 7:58 AM"
     },
     {
         "title": "Partisans in Melitopol: Russian, do you sleep at night? We have already stabbed more than 300 of your comrades. Partisans don't sleep at night, they hunt",
@@ -212,7 +176,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/AllDigitsbiz/status/1541754513769504769",
         "timestamp": 1656417955,
-        "sentiment": -3,
+        "sentiment": 5,
         "published": "June 28, 2022 8:05 AM"
     },
     {
@@ -221,17 +185,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
         "timestamp": 1656418439,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 8:13 AM"
-    },
-    {
-        "title": "Supreme Court pushes divided nation closer to breaking point with new fights over abortion",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/06/28/politics/abortion-supreme-court-divided-nation-breaking-point/index.html",
-        "timestamp": 1656418693,
-        "sentiment": -2,
-        "published": "June 28, 2022 8:18 AM"
     },
     {
         "title": "Zelenskyy says Russia bombed a shopping mall because seeing Ukrainians try to live a normal life made it ‘angry’",
@@ -239,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
         "timestamp": 1656419302,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 8:28 AM"
     },
     {
@@ -252,15 +207,6 @@
         "published": "June 28, 2022 8:36 AM"
     },
     {
-        "title": "Indian Groom runs from Wedding so New Groom Found in 2hrs",
-        "domain": "desiblitz.com",
-        "category": "nottheonion",
-        "link": "https://www.desiblitz.com/content/indian-groom-runs-from-wedding-so-new-groom-found-in-2hrs",
-        "timestamp": 1656420558,
-        "sentiment": 0,
-        "published": "June 28, 2022 8:49 AM"
-    },
-    {
         "title": "T-Mobile is now selling app usage data to advertisers, but iPhone users are in the clear",
         "domain": "9to5mac.com",
         "category": "technology",
@@ -268,15 +214,6 @@
         "timestamp": 1656420656,
         "sentiment": -1,
         "published": "June 28, 2022 8:50 AM"
-    },
-    {
-        "title": "Mayor of Kherson Kidnapped by Russian Forces",
-        "domain": "kyivpost.com",
-        "category": "worldnews",
-        "link": "https://www.kyivpost.com/russias-war/mayor-of-kherson-kidnapped-by-russian-forces.html",
-        "timestamp": 1656420773,
-        "sentiment": -2,
-        "published": "June 28, 2022 8:52 AM"
     },
     {
         "title": "First photos of WNBA’s Brittney Griner appearing in a Russian court",
@@ -293,7 +230,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
         "timestamp": 1656421398,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 9:03 AM"
     },
     {
@@ -302,7 +239,7 @@
         "category": "television",
         "link": "https://time.com/6190642/only-murders-in-the-building-season-2-review/",
         "timestamp": 1656421604,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:06 AM"
     },
     {
@@ -311,7 +248,7 @@
         "category": "science",
         "link": "https://www.aeaweb.org/articles?id=10.1257/app.20190549",
         "timestamp": 1656422781,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 9:26 AM"
     },
     {
@@ -320,7 +257,7 @@
         "category": "science",
         "link": "https://www.aeaweb.org/articles?id=10.1257/app.20200467",
         "timestamp": 1656422953,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 9:29 AM"
     },
     {
@@ -329,7 +266,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-church-founding-fathers-government-colorado-1719760",
         "timestamp": 1656423682,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:41 AM"
     },
     {
@@ -338,17 +275,8 @@
         "category": "worldnews",
         "link": "https://www.walesonline.co.uk/news/politics/wales-basic-income-trial-how-24333095",
         "timestamp": 1656424179,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 9:49 AM"
-    },
-    {
-        "title": "Zelensky labels Russian strike on shopping mall ‘terrorist attack",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/international/3539254-zelensky-labels-russian-strike-on-shopping-mall-terrorist-attack/",
-        "timestamp": 1656424207,
-        "sentiment": -2,
-        "published": "June 28, 2022 9:50 AM"
     },
     {
         "title": "Scottish government seeks independence vote in Oct. 2023",
@@ -356,7 +284,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/scottish-first-minister-sturgeon-plans-independence-vote-oct-2023-2022-06-28/",
         "timestamp": 1656424314,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 9:51 AM"
     },
     {
@@ -374,7 +302,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/true-detective-kali-reis-cast-jodie-foster-season-4-hbo-night-country-1235053150/",
         "timestamp": 1656424963,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 10:02 AM"
     },
     {
@@ -383,17 +311,8 @@
         "category": "television",
         "link": "https://variety.com/2022/digital/news/netflix-lowest-value-must-have-service-survey-1235301080/",
         "timestamp": 1656425121,
-        "sentiment": 2,
-        "published": "June 28, 2022 10:05 AM"
-    },
-    {
-        "title": "Man on a date charged in woman’s murder after fight over bowling ball, Atlanta police say",
-        "domain": "wsbtv.com",
-        "category": "nottheonion",
-        "link": "https://www.wsbtv.com/news/local/atlanta/police-man-date-charged-with-murdering-woman-atlanta-bowling-alley/LQF4SBY2JJEKHH5WIERDGOQBRQ/",
-        "timestamp": 1656425161,
         "sentiment": 0,
-        "published": "June 28, 2022 10:06 AM"
+        "published": "June 28, 2022 10:05 AM"
     },
     {
         "title": "Macron says Russia can't win in Ukraine after strike on mall",
@@ -401,17 +320,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-politics-united-nations-terrorist-attacks-be890f11b0a5abfb41ddb1cfc8d5b212",
         "timestamp": 1656425897,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 28, 2022 10:18 AM"
-    },
-    {
-        "title": "Texas Gov. Abbott lauded his state's efforts to 'secure the border.' Hours later, he blamed Biden after dozens of migrants were found dead in a semi-truck.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/texas-greg-abbott-border-policy-blamed-president-biden-migrant-deaths-2022-6",
-        "timestamp": 1656425994,
-        "sentiment": -2,
-        "published": "June 28, 2022 10:19 AM"
     },
     {
         "title": "Ghislaine Maxwell to be sentenced in Epstein sex abuse case",
@@ -419,8 +329,17 @@
         "category": "news",
         "link": "https://apnews.com/article/aeac127f9cc3811d975ce8e10d171260",
         "timestamp": 1656426155,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 10:22 AM"
+    },
+    {
+        "title": "Ontario's new minister of natural resources faces environmental charges",
+        "domain": "cbc.ca",
+        "category": "nottheonion",
+        "link": "https://www.cbc.ca/news/canada/toronto/graydon-smith-cabinet-minister-charged-endangered-species-1.6502961",
+        "timestamp": 1656426225,
+        "sentiment": 0,
+        "published": "June 28, 2022 10:23 AM"
     },
     {
         "title": "Chicago’s lesbian mayor shouted “F**k Clarence Thomas” at Pride rally & the crowd loved it | \"I said what I said.\"",
@@ -428,7 +347,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/chicagos-lesbian-mayor-shouted-fk-clarence-thomas-pride-rally-crowd-loved/",
         "timestamp": 1656426766,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 10:32 AM"
     },
     {
@@ -437,7 +356,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/956880",
         "timestamp": 1656426861,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 10:34 AM"
     },
     {
@@ -455,7 +374,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/06/28/lapd-officer-training-death/",
         "timestamp": 1656427333,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 10:42 AM"
     },
     {
@@ -464,7 +383,7 @@
         "category": "politics",
         "link": "https://www.currentaffairs.org/2022/06/the-supreme-court-has-destroyed-its-legitimacy",
         "timestamp": 1656427474,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 10:44 AM"
     },
     {
@@ -473,7 +392,7 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/140884-the-pentagon-said-that-ukraine-is-very-effective-in-using-the-himars-mlrs-and-other-weapons/",
         "timestamp": 1656427637,
-        "sentiment": -3,
+        "sentiment": 5,
         "published": "June 28, 2022 10:47 AM"
     },
     {
@@ -482,7 +401,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/06/28/lauren-boebert-church-state-colorado/",
         "timestamp": 1656427652,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 10:47 AM"
     },
     {
@@ -491,7 +410,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/boston/news/worcester-nativity-school-donations-black-lives-matter-pride-flags/",
         "timestamp": 1656428754,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 28, 2022 11:05 AM"
     },
     {
@@ -504,12 +423,21 @@
         "published": "June 28, 2022 11:07 AM"
     },
     {
+        "title": "Florida rapper arrested in Miami jet ski chase",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/florida-rapper-arrested-in-miami-jet-ski-chase/amp/",
+        "timestamp": 1656429494,
+        "sentiment": 0,
+        "published": "June 28, 2022 11:18 AM"
+    },
+    {
         "title": "New Florida Law Makes Blasting Music in Car A Punishable Offense",
         "domain": "nbcmiami.com",
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/new-florida-law-makes-blasting-music-in-car-a-punishable-offense/2791819/",
         "timestamp": 1656429670,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 11:21 AM"
     },
     {
@@ -518,7 +446,7 @@
         "category": "science",
         "link": "https://theconversation.com/women-are-at-greater-risk-of-stroke-the-more-miscarriages-or-stillbirths-theyve-had-185490",
         "timestamp": 1656430377,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 11:32 AM"
     },
     {
@@ -527,7 +455,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/texas-official-death-count-san-antonio-migrant-tragedy-85856695",
         "timestamp": 1656430937,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 11:42 AM"
     },
     {
@@ -545,7 +473,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/melissa-benoist-hbo-max-girls-on-the-bus-series/",
         "timestamp": 1656432029,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:00 PM"
     },
     {
@@ -567,12 +495,21 @@
         "published": "June 28, 2022 12:14 PM"
     },
     {
+        "title": "'Yeah, And?': Ocasio-Cortez Embraces GOP Freakout Over Helping Women Skirt Abortion Bans",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/28/yeah-and-ocasio-cortez-embraces-gop-freakout-over-helping-women-skirt-abortion-bans",
+        "timestamp": 1656433122,
+        "sentiment": 0,
+        "published": "June 28, 2022 12:18 PM"
+    },
+    {
         "title": "Texas judge blocks enforcement of pre-Roe v. Wade abortion ban: clinics' lawyers",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-judge-blocks-enforcement-pre-roe-v-wade-abortion-ban-clinics-lawyers-2022-06-28/",
         "timestamp": 1656433615,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 28, 2022 12:26 PM"
     },
     {
@@ -581,7 +518,7 @@
         "category": "science",
         "link": "https://www.statnews.com/2022/06/28/placebo-response-bias-against-female-black-physicians/?utm_campaign=rss",
         "timestamp": 1656433678,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 12:27 PM"
     },
     {
@@ -590,7 +527,7 @@
         "category": "ukraine",
         "link": "https://www.foxnews.com/world/russia-warns-ukraine-attempts-retake-crimea-seen-declaration-war",
         "timestamp": 1656433910,
-        "sentiment": -3,
+        "sentiment": 5,
         "published": "June 28, 2022 12:31 PM"
     },
     {
@@ -608,17 +545,8 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/28/harley-quinn-season-3-release-date-teaser/",
         "timestamp": 1656434412,
-        "sentiment": 2,
-        "published": "June 28, 2022 12:40 PM"
-    },
-    {
-        "title": "California sending out ‘inflation relief’ checks up to $1,050. Will other states follow?",
-        "domain": "wgntv.com",
-        "category": "nottheonion",
-        "link": "https://wgntv.com/news/california-sending-out-inflation-relief-checks-up-to-1050-will-other-states-follow/",
-        "timestamp": 1656435146,
         "sentiment": 0,
-        "published": "June 28, 2022 12:52 PM"
+        "published": "June 28, 2022 12:40 PM"
     },
     {
         "title": "The Terminal List Review: Chris Pratt's Military 'Thriller' Is Terminally Bad",
@@ -626,7 +554,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/27/the-terminal-list-review-amazon-chris-pratt/",
         "timestamp": 1656435524,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:58 PM"
     },
     {
@@ -635,8 +563,17 @@
         "category": "UpliftingNews",
         "link": "https://climeworks.com/news/climeworks-announces-groundbreaking-on-mammoth",
         "timestamp": 1656437041,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 28, 2022 1:24 PM"
+    },
+    {
+        "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
+        "timestamp": 1656437132,
+        "sentiment": -5,
+        "published": "June 28, 2022 1:25 PM"
     },
     {
         "title": "Sarasota judge rules for Florida newspaper in Marsy’s Law case",
@@ -648,13 +585,238 @@
         "published": "June 28, 2022 1:53 PM"
     },
     {
+        "title": "‘I don’t f***ing care that they have weapons’: Trump was aware his supporters were armed before he ordered them to march on Capitol, Jan 6 hearing told",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-trump-armed-committee-b2111429.html",
+        "timestamp": 1656438923,
+        "sentiment": 0,
+        "published": "June 28, 2022 1:55 PM"
+    },
+    {
+        "title": "Russia publishes Pentagon coordinates, says Western satellites \"work for our enemy\"",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russia-publishes-pentagon-coordinates-says-western-satellites-work-our-enemy-2022-06-28/",
+        "timestamp": 1656439253,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:00 PM"
+    },
+    {
+        "title": "'Fallout' Amazon Show Adds Three to Cast, Kyle MacLachlan Xelia Mendes-Jones, Aaron Moten",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/fallout-amazon-series-cast-kyle-maclachlan-xelia-mendes-jones-aaron-moten-1235305085/",
+        "timestamp": 1656439326,
+        "sentiment": 0,
+        "published": "June 28, 2022 2:02 PM"
+    },
+    {
         "title": "Trump lunged at Secret Service agent in rage when told he couldn’t go to Capitol on Jan. 6, aide testifies",
         "domain": "cnbc.com",
         "category": "politics",
         "link": "https://www.cnbc.com/2022/06/28/trump-lunged-at-secret-service-agent-in-rage-when-told-he-couldnt-go-to-capitol-on-jan-6-aide-testifies.html",
         "timestamp": 1656439530,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 2:05 PM"
+    },
+    {
+        "title": "Nick Kyrgios spits in direction of fan who allegedy was verbally abusive during Wimbledon match.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34162153/nick-kyrgios-spits-direction-fan-allegedy-was-verbally-abusive-wimbledon-match",
+        "timestamp": 1656439919,
+        "sentiment": 4,
+        "published": "June 28, 2022 2:11 PM"
+    },
+    {
+        "title": "Florida's New Loud Music Law Goes Into Effect July 1: What to Know",
+        "domain": "nbcmiami.com",
+        "category": "miami",
+        "link": "https://www.nbcmiami.com/news/local/new-florida-law-makes-blasting-music-in-car-a-punishable-offense/2791819/",
+        "timestamp": 1656440641,
+        "sentiment": 3,
+        "published": "June 28, 2022 2:24 PM"
+    },
+    {
+        "title": "Visegrád 24 on Twitter: BREAKING: Turkey satisfied with Sweden, Finland response in NATO talks. Turkey is likely to give the two countries the green light to join NATO. 🇸🇪🇫🇮🇺🇦",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/visegrad24/status/1541849023090401281?s=21&t=-fQh0rkW3N6QCfJWE7VdOA",
+        "timestamp": 1656440855,
+        "sentiment": 5,
+        "published": "June 28, 2022 2:27 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell sentenced to 20 years in prison for helping millionaire Jeffrey Epstein sexually abuse teen girls",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/ghislaine-maxwell-sentenced-20-years-prison-helping-millionaire-85875088",
+        "timestamp": 1656441274,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:34 PM"
+    },
+    {
+        "title": "Finnish President Niinisto says Turkey has agreed to back Finnish and Swedish NATO membership",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/finnish-president-niinisto-says-turkey-has-agreed-back-finnish-swedish-nato-2022-06-28/",
+        "timestamp": 1656441321,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:35 PM"
+    },
+    {
+        "title": "NATO: Turkey agrees to back Finland and Sweden's bid to join alliance",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/nato-turkey-agrees-to-back-finland-and-swedens-bid-to-join-alliance-12642100",
+        "timestamp": 1656441866,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:44 PM"
+    },
+    {
+        "title": "Italian hairdressers face fines for shampooing amid heatwave",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/world/2022/jun/28/italian-hairdressers-face-fines-for-shampooing-amid-heatwave-castenaso-bologna",
+        "timestamp": 1656443193,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:06 PM"
+    },
+    {
+        "title": "A new, PET-like plastic has been developed that is easily made from the non-edible parts of plants, which is a promising candidate for food packaging. It can be chemically recycled and degrade back to harmless sugars.",
+        "domain": "actu.epfl.ch",
+        "category": "UpliftingNews",
+        "link": "https://actu.epfl.ch/news/new-pet-like-plastic-made-directly-from-waste-biom/",
+        "timestamp": 1656443567,
+        "sentiment": 5,
+        "published": "June 28, 2022 3:12 PM"
+    },
+    {
+        "title": "Jupiter CEO Quits $68 Billion Firm to Sit at the Beach and ‘Do Nothing’",
+        "domain": "bnnbloomberg.ca",
+        "category": "nottheonion",
+        "link": "https://www.bnnbloomberg.ca/jupiter-ceo-quits-68-billion-firm-to-sit-at-the-beach-and-do-nothing-1.1784775",
+        "timestamp": 1656443849,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:17 PM"
+    },
+    {
+        "title": "‘Tigger come back’: B.C. house cat chases black bear out of family’s yard",
+        "domain": "globalnews.ca",
+        "category": "nottheonion",
+        "link": "https://globalnews.ca/news/8948346/tigger-come-back-house-cat-chasing-large-black-bear/",
+        "timestamp": 1656444850,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:34 PM"
+    },
+    {
+        "title": "45% of Streaming Moochers Wouldn’t Purchase Their Favorite Subscription Service If They Couldn’t Use Someone Else’s Login",
+        "domain": "lendingtree.com",
+        "category": "television",
+        "link": "https://www.lendingtree.com/credit-cards/study/streaming-subscriptions/",
+        "timestamp": 1656391749,
+        "sentiment": 2,
+        "published": "June 28, 2022 12:49 AM"
+    },
+    {
+        "title": "Louisiana woman says her rapist was given custody of her child in ongoing court dispute",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
+        "timestamp": 1656404203,
+        "sentiment": 0,
+        "published": "June 28, 2022 4:16 AM"
+    },
+    {
+        "title": "Nicola Sturgeon to announce second Scottish independence vote, defying Westminster | Scottish first minister on collision course with Boris Johnson over plans for second referendum next year.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/scotland-uk-nicola-sturgeon-prepares-to-defy-westminster-and-announce-second-independence-vote/",
+        "timestamp": 1656407552,
+        "sentiment": -2,
+        "published": "June 28, 2022 5:12 AM"
+    },
+    {
+        "title": "Former KGB officer detained in Lviv Oblast for correcting Russian missile strikes",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2022/06/28/7355135/",
+        "timestamp": 1656417061,
+        "sentiment": -3,
+        "published": "June 28, 2022 7:51 AM"
+    },
+    {
+        "title": "Accounting giant Ernst & Young admits its employees cheated on ethics exams",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
+        "timestamp": 1656417611,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:00 AM"
+    },
+    {
+        "title": "Supreme Court pushes divided nation closer to breaking point with new fights over abortion",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/06/28/politics/abortion-supreme-court-divided-nation-breaking-point/index.html",
+        "timestamp": 1656418693,
+        "sentiment": -2,
+        "published": "June 28, 2022 8:18 AM"
+    },
+    {
+        "title": "Indian Groom runs from Wedding so New Groom Found in 2hrs",
+        "domain": "desiblitz.com",
+        "category": "nottheonion",
+        "link": "https://www.desiblitz.com/content/indian-groom-runs-from-wedding-so-new-groom-found-in-2hrs",
+        "timestamp": 1656420558,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:49 AM"
+    },
+    {
+        "title": "Mayor of Kherson Kidnapped by Russian Forces",
+        "domain": "kyivpost.com",
+        "category": "worldnews",
+        "link": "https://www.kyivpost.com/russias-war/mayor-of-kherson-kidnapped-by-russian-forces.html",
+        "timestamp": 1656420773,
+        "sentiment": -2,
+        "published": "June 28, 2022 8:52 AM"
+    },
+    {
+        "title": "Zelensky labels Russian strike on shopping mall ‘terrorist attack",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/3539254-zelensky-labels-russian-strike-on-shopping-mall-terrorist-attack/",
+        "timestamp": 1656424207,
+        "sentiment": -2,
+        "published": "June 28, 2022 9:50 AM"
+    },
+    {
+        "title": "Man on a date charged in woman’s murder after fight over bowling ball, Atlanta police say",
+        "domain": "wsbtv.com",
+        "category": "nottheonion",
+        "link": "https://www.wsbtv.com/news/local/atlanta/police-man-date-charged-with-murdering-woman-atlanta-bowling-alley/LQF4SBY2JJEKHH5WIERDGOQBRQ/",
+        "timestamp": 1656425161,
+        "sentiment": 0,
+        "published": "June 28, 2022 10:06 AM"
+    },
+    {
+        "title": "Texas Gov. Abbott lauded his state's efforts to 'secure the border.' Hours later, he blamed Biden after dozens of migrants were found dead in a semi-truck.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/texas-greg-abbott-border-policy-blamed-president-biden-migrant-deaths-2022-6",
+        "timestamp": 1656425994,
+        "sentiment": -2,
+        "published": "June 28, 2022 10:19 AM"
+    },
+    {
+        "title": "California sending out ‘inflation relief’ checks up to $1,050. Will other states follow?",
+        "domain": "wgntv.com",
+        "category": "nottheonion",
+        "link": "https://wgntv.com/news/california-sending-out-inflation-relief-checks-up-to-1050-will-other-states-follow/",
+        "timestamp": 1656435146,
+        "sentiment": 0,
+        "published": "June 28, 2022 12:52 PM"
     },
     {
         "title": "New FL law makes blasting music in a car a punishable offense.",
@@ -763,15 +925,6 @@
         "timestamp": 1656422177,
         "sentiment": 1,
         "published": "June 28, 2022 9:16 AM"
-    },
-    {
-        "title": "Ontario's new minister of natural resources faces environmental charges",
-        "domain": "cbc.ca",
-        "category": "nottheonion",
-        "link": "https://www.cbc.ca/news/canada/toronto/graydon-smith-cabinet-minister-charged-endangered-species-1.6502961",
-        "timestamp": 1656426225,
-        "sentiment": -1,
-        "published": "June 28, 2022 10:23 AM"
     },
     {
         "title": "58% of Americans are living paycheck to paycheck after inflation spike — including 30% of those earning $250,000 or more",
