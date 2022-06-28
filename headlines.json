@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
         "timestamp": 1656389689,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 28, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.wsbtv.com/news/local/atlanta/too-much-mayo-sandwich-1-dead-1-surgery-after-being-shot-by-customer-apd-says/ERSZ6VTFOBDY5K7ELGH4IXU2WY/",
         "timestamp": 1656390911,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 12:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:46 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html",
         "timestamp": 1656392967,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 28, 2022 1:09 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "science",
         "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
         "timestamp": 1656393830,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 1:23 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://www.thedrive.com/the-war-zone/ukraine-to-get-same-surface-to-air-missiles-that-protect-u-s-capital-report",
         "timestamp": 1656394298,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 1:31 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 1:32 AM"
-    },
-    {
-        "title": "This seems more appropriate here....",
-        "domain": "ktla.com",
-        "category": "nottheonion",
-        "link": "https://ktla.com/news/local-news/california-sending-out-inflation-relief-checks-up-to-1050-heres-how-much-youll-get/",
-        "timestamp": 1656396208,
-        "sentiment": 2,
-        "published": "June 28, 2022 2:03 AM"
     },
     {
         "title": "Putin will be held responsible for shopping centre 'war crime', say G7",
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "nottheonion",
         "link": "https://newsunrolled.com/world/45970.html",
         "timestamp": 1656397156,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 2:19 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 3:50 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957100",
         "timestamp": 1656404016,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 4:13 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
         "timestamp": 1656404203,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 4:16 AM"
     },
     {
@@ -153,6 +144,15 @@
         "published": "June 28, 2022 4:36 AM"
     },
     {
+        "title": "A woman's brutal killing shocks the Arab world",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/06/24/middleeast/egypt-woman-killing-mime-intl/index.html",
+        "timestamp": 1656406622,
+        "sentiment": 0,
+        "published": "June 28, 2022 4:57 AM"
+    },
+    {
         "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
         "domain": "m.timesofindia.com",
         "category": "UpliftingNews",
@@ -160,6 +160,51 @@
         "timestamp": 1656409320,
         "sentiment": -2,
         "published": "June 28, 2022 5:42 AM"
+    },
+    {
+        "title": "Facebook and Instagram removed posts about abortion pills immediately after the Roe v. Wade decision, reports say.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
+        "timestamp": 1656410206,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:56 AM"
+    },
+    {
+        "title": "Drunk mayor crashes car after meeting families of drunk driving victims",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/drunk-mayor-crashes-car-after-meeting-families-drunk-driving-victims-1719613",
+        "timestamp": 1656410372,
+        "sentiment": -4,
+        "published": "June 28, 2022 5:59 AM"
+    },
+    {
+        "title": "New psychology research has found that celebrity worship predicts impulsive buying behavior",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
+        "timestamp": 1656410441,
+        "sentiment": 0,
+        "published": "June 28, 2022 6:00 AM"
+    },
+    {
+        "title": "Indian government censors tweets critical of Indian internet censorship",
+        "domain": "entrackr.com",
+        "category": "nottheonion",
+        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
+        "timestamp": 1656410641,
+        "sentiment": -4,
+        "published": "June 28, 2022 6:04 AM"
+    },
+    {
+        "title": "This seems more appropriate here....",
+        "domain": "ktla.com",
+        "category": "nottheonion",
+        "link": "https://ktla.com/news/local-news/california-sending-out-inflation-relief-checks-up-to-1050-heres-how-much-youll-get/",
+        "timestamp": 1656396208,
+        "sentiment": 2,
+        "published": "June 28, 2022 2:03 AM"
     },
     {
         "title": "The Boys' Karl Urban says they ran out of fake sperm filming Herogasm",
