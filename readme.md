@@ -2,4 +2,8 @@
 
 This project builds a graph of related subreddits.
 
-Play with it here: https://fwd.github.io/reddit
+Demo: https://fwd.github.io/reddit
+
+# Credits
+
+This project is a fork of: https://github.com/anvaka/sayit
