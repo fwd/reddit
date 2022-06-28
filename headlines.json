@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
         "timestamp": 1656389689,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 12:14 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 28, 2022 12:46 AM"
-    },
-    {
-        "title": "The government of Lithuania announced on Monday that it had been hit by an “intense” cyberattack, likely launched from Moscow",
-        "domain": "securityaffairs.co",
-        "category": "worldnews",
-        "link": "https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html",
-        "timestamp": 1656392967,
-        "sentiment": 0,
-        "published": "June 28, 2022 1:09 AM"
     },
     {
         "title": "Homeowner assistance program put in place for homeowners who are financially struggling",
@@ -59,7 +50,7 @@
         "category": "science",
         "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
         "timestamp": 1656393830,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 28, 2022 1:23 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "ukraine",
         "link": "https://www.thedrive.com/the-war-zone/ukraine-to-get-same-surface-to-air-missiles-that-protect-u-s-capital-report",
         "timestamp": 1656394298,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 28, 2022 1:31 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/germany-abolishes-nazi-era-abortion-law-2022-06-24/",
         "timestamp": 1656401048,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 3:24 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 28, 2022 3:50 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957100",
         "timestamp": 1656404016,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 28, 2022 4:13 AM"
     },
     {
@@ -135,12 +126,21 @@
         "published": "June 28, 2022 4:16 AM"
     },
     {
+        "title": "Germany: 101-year-old ex-Nazi camp guard sentenced to 5 years in jail",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://dw.com/en/germany-101-year-old-ex-nazi-camp-guard-sentenced-to-5-years-in-jail/a-62284994",
+        "timestamp": 1656404831,
+        "sentiment": 2,
+        "published": "June 28, 2022 4:27 AM"
+    },
+    {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
         "domain": "smh.com.au",
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 4:36 AM"
     },
     {
@@ -149,8 +149,17 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/middleeast/egypt-woman-killing-mime-intl/index.html",
         "timestamp": 1656406622,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 4:57 AM"
+    },
+    {
+        "title": "Xi Jinping says China has consulted millions of citizens about its government as part of a 'whole-process democracy' that Beijing claims is better than the West's",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/xi-jinping-says-china-has-consulted-millions-of-citizens-about-its-government-as-part-of-a-whole-process-democracy-that-beijing-claims-is-better-than-the-west-s/ar-AAYWJIl?ocid=EMMX&cvid=3c700d5938d34f548101b166c5a2d1ee",
+        "timestamp": 1656409046,
+        "sentiment": 2,
+        "published": "June 28, 2022 5:37 AM"
     },
     {
         "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
@@ -158,7 +167,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -167,7 +176,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
         "timestamp": 1656410206,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 5:56 AM"
     },
     {
@@ -185,7 +194,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
         "timestamp": 1656410441,
-        "sentiment": 0,
+        "sentiment": -9,
         "published": "June 28, 2022 6:00 AM"
     },
     {
@@ -196,6 +205,42 @@
         "timestamp": 1656410641,
         "sentiment": -4,
         "published": "June 28, 2022 6:04 AM"
+    },
+    {
+        "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
+        "timestamp": 1656411738,
+        "sentiment": -1,
+        "published": "June 28, 2022 6:22 AM"
+    },
+    {
+        "title": "The Supreme Court may issue a ruling that could hurt Biden's climate change plans",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/06/22/1106863267/the-supreme-court-may-issue-a-ruling-that-could-hurt-bidens-climate-change-plans",
+        "timestamp": 1656412482,
+        "sentiment": 2,
+        "published": "June 28, 2022 6:34 AM"
+    },
+    {
+        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
+        "domain": "psypost.org",
+        "category": "UpliftingNews",
+        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
+        "timestamp": 1656415527,
+        "sentiment": 0,
+        "published": "June 28, 2022 7:25 AM"
+    },
+    {
+        "title": "The government of Lithuania announced on Monday that it had been hit by an “intense” cyberattack, likely launched from Moscow",
+        "domain": "securityaffairs.co",
+        "category": "worldnews",
+        "link": "https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html",
+        "timestamp": 1656392967,
+        "sentiment": 0,
+        "published": "June 28, 2022 1:09 AM"
     },
     {
         "title": "This seems more appropriate here....",
@@ -771,15 +816,6 @@
         "link": "https://meaww.com/billie-eilish-new-wax-figure-trolled-hollywood-wax-museum-twitter-fans-glastonbury-2022",
         "timestamp": 1656370656,
         "sentiment": 2,
-        "published": "June 27, 2022 6:57 PM"
-    },
-    {
-        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
-        "timestamp": 1656370672,
-        "sentiment": 0,
         "published": "June 27, 2022 6:57 PM"
     },
     {
