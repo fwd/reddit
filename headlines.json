@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
         "timestamp": 1656389689,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 28, 2022 12:14 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.wsbtv.com/news/local/atlanta/too-much-mayo-sandwich-1-dead-1-surgery-after-being-shot-by-customer-apd-says/ERSZ6VTFOBDY5K7ELGH4IXU2WY/",
         "timestamp": 1656390911,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 12:35 AM"
     },
     {
@@ -36,12 +36,21 @@
         "published": "June 28, 2022 12:46 AM"
     },
     {
+        "title": "The government of Lithuania announced on Monday that it had been hit by an “intense” cyberattack, likely launched from Moscow",
+        "domain": "securityaffairs.co",
+        "category": "worldnews",
+        "link": "https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html",
+        "timestamp": 1656392967,
+        "sentiment": 1,
+        "published": "June 28, 2022 1:09 AM"
+    },
+    {
         "title": "Homeowner assistance program put in place for homeowners who are financially struggling",
         "domain": "wsvn.com",
         "category": "miami",
         "link": "https://wsvn.com/news/local/broward/homeowner-assistance-program-put-in-place-for-homeowners-who-are-financially-struggling/amp/",
         "timestamp": 1656393737,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 1:22 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "ukraine",
         "link": "https://www.thedrive.com/the-war-zone/ukraine-to-get-same-surface-to-air-missiles-that-protect-u-s-capital-report",
         "timestamp": 1656394298,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 1:31 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 1:32 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://ktla.com/news/local-news/california-sending-out-inflation-relief-checks-up-to-1050-heres-how-much-youll-get/",
         "timestamp": 1656396208,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 2:03 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://newsunrolled.com/world/45970.html",
         "timestamp": 1656397156,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 2:19 AM"
     },
     {
@@ -104,8 +113,26 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/germany-abolishes-nazi-era-abortion-law-2022-06-24/",
         "timestamp": 1656401048,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 3:24 AM"
+    },
+    {
+        "title": "Occupied Perevalsk. Locals report that there are now many ambulances and many wounded Russian soldiers. The \"LPR\" confirmed the strike and stated that Ukrainian troops for the first time struck the military base of Perevalsk from the American MLRS HIMARS.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
+        "timestamp": 1656402634,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:50 AM"
+    },
+    {
+        "title": "Hate sites are using the wider abortion argument to spread racism and extremism",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957100",
+        "timestamp": 1656404016,
+        "sentiment": -2,
+        "published": "June 28, 2022 4:13 AM"
     },
     {
         "title": "Louisiana woman says her rapist was given custody of her child in ongoing court dispute",
@@ -113,8 +140,26 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
         "timestamp": 1656404203,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 4:16 AM"
+    },
+    {
+        "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
+        "domain": "smh.com.au",
+        "category": "technology",
+        "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
+        "timestamp": 1656405400,
+        "sentiment": 0,
+        "published": "June 28, 2022 4:36 AM"
+    },
+    {
+        "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
+        "domain": "m.timesofindia.com",
+        "category": "UpliftingNews",
+        "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
+        "timestamp": 1656409320,
+        "sentiment": -2,
+        "published": "June 28, 2022 5:42 AM"
     },
     {
         "title": "The Boys' Karl Urban says they ran out of fake sperm filming Herogasm",
