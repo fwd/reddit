@@ -1,28 +1,60 @@
 {
-  "name": "news",
+  "name": "sayit-ui",
   "version": "1.0.0",
-  "description": "For research purposes. Available in JSON format.",
-  "main": "script.js",
+  "description": "When a comment is more than a comment",
+  "author": "Andrei Kashcha",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fwd/news.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fwd/news/issues"
-  },
-  "homepage": "https://github.com/fwd/news#readme",
   "dependencies": {
-    "@fwd/server": "^2.0.0",
-    "dotenv": "^10.0.0",
-    "fs": "^0.0.1-security",
-    "lodash": "^4.17.21",
-    "moment": "^2.29.1",
-    "sentiment": "^5.0.2",
-    "snoowrap": "^1.23.0"
-  }
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "delaunator": "^3.0.2",
+    "fuse.js": "^3.3.0",
+    "fuzzysort": "^1.1.4",
+    "ngraph.events": "0.0.4",
+    "ngraph.forcelayout": "^1.0.1",
+    "ngraph.graph": "^19.1.0",
+    "ngraph.kruskal": "^1.0.0",
+    "ngraph.random": "^1.0.0",
+    "panzoom": "^9.2.4",
+    "query-state": "^4.3.0",
+    "simplesvg": "^0.1.1",
+    "splaytree": "^2.0.3",
+    "vue": "^2.6.11",
+    "vuereddit": "^0.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "postcss-loader": "^5.3.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }
