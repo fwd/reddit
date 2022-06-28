@@ -9,12 +9,21 @@
         "published": "June 28, 2022 12:03 AM"
     },
     {
+        "title": "100-Year-Old Giant Sturgeon Caught In Canada, Thrown Back In River",
+        "domain": "ndtv.com",
+        "category": "worldnews",
+        "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
+        "timestamp": 1656389689,
+        "sentiment": 0,
+        "published": "June 28, 2022 12:14 AM"
+    },
+    {
         "title": "Robots With Flawed AI Make Sexist And Racist Decisions, Experiment Shows. \"We're at risk of creating a generation of racist and sexist robots, but people and organizations have decided it's OK to create these products without addressing the issues.\"",
         "domain": "research.gatech.edu",
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 28, 2022 12:46 AM"
     },
     {
@@ -23,7 +32,7 @@
         "category": "television",
         "link": "https://www.lendingtree.com/credit-cards/study/streaming-subscriptions/",
         "timestamp": 1656391749,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "June 28, 2022 12:49 AM"
     },
     {
@@ -32,17 +41,8 @@
         "category": "miami",
         "link": "https://wsvn.com/news/local/broward/homeowner-assistance-program-put-in-place-for-homeowners-who-are-financially-struggling/amp/",
         "timestamp": 1656393737,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 28, 2022 1:22 AM"
-    },
-    {
-        "title": "Robotic arms connected directly to brain of partially paralyzed man allows him to feed himself",
-        "domain": "blog.frontiersin.org",
-        "category": "science",
-        "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
-        "timestamp": 1656393830,
-        "sentiment": -2,
-        "published": "June 28, 2022 1:23 AM"
     },
     {
         "title": "Ukraine To Get Same Surface-To-Air Missiles That Protect U.S. Capital: Report",
@@ -59,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 28, 2022 1:32 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://newsunrolled.com/world/45970.html",
         "timestamp": 1656397156,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 28, 2022 2:19 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957100",
         "timestamp": 1656404016,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 28, 2022 4:13 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
         "timestamp": 1656404203,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "June 28, 2022 4:16 AM"
     },
     {
@@ -122,8 +122,323 @@
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 28, 2022 4:36 AM"
+    },
+    {
+        "title": "Nicola Sturgeon to announce second Scottish independence vote, defying Westminster | Scottish first minister on collision course with Boris Johnson over plans for second referendum next year.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/scotland-uk-nicola-sturgeon-prepares-to-defy-westminster-and-announce-second-independence-vote/",
+        "timestamp": 1656407552,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:12 AM"
+    },
+    {
+        "title": "Xi Jinping says China has consulted millions of citizens about its government as part of a 'whole-process democracy' that Beijing claims is better than the West's",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/xi-jinping-says-china-has-consulted-millions-of-citizens-about-its-government-as-part-of-a-whole-process-democracy-that-beijing-claims-is-better-than-the-west-s/ar-AAYWJIl?ocid=EMMX&cvid=3c700d5938d34f548101b166c5a2d1ee",
+        "timestamp": 1656409046,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:37 AM"
+    },
+    {
+        "title": "Roe Was Overturned Because of Politics, Not the Constitution",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
+        "timestamp": 1656409290,
+        "sentiment": 1,
+        "published": "June 28, 2022 5:41 AM"
+    },
+    {
+        "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
+        "domain": "m.timesofindia.com",
+        "category": "UpliftingNews",
+        "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
+        "timestamp": 1656409320,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:42 AM"
+    },
+    {
+        "title": "Facebook and Instagram removed posts about abortion pills immediately after the Roe v. Wade decision, reports say.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
+        "timestamp": 1656410206,
+        "sentiment": -3,
+        "published": "June 28, 2022 5:56 AM"
+    },
+    {
+        "title": "Drunk mayor crashes car after meeting families of drunk driving victims",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/drunk-mayor-crashes-car-after-meeting-families-drunk-driving-victims-1719613",
+        "timestamp": 1656410372,
+        "sentiment": -3,
+        "published": "June 28, 2022 5:59 AM"
+    },
+    {
+        "title": "New psychology research has found that celebrity worship predicts impulsive buying behavior",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
+        "timestamp": 1656410441,
+        "sentiment": 4,
+        "published": "June 28, 2022 6:00 AM"
+    },
+    {
+        "title": "Indian government censors tweets critical of Indian internet censorship",
+        "domain": "entrackr.com",
+        "category": "nottheonion",
+        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
+        "timestamp": 1656410641,
+        "sentiment": -3,
+        "published": "June 28, 2022 6:04 AM"
+    },
+    {
+        "title": "US couple to sue Maltese government over abortion denial: couple was denied a request to terminate a miscarried and non-viable pregnancy while holidaying in Malta and had to be airlifted to Spain",
+        "domain": "timesofmalta.com",
+        "category": "worldnews",
+        "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
+        "timestamp": 1656411466,
+        "sentiment": 0,
+        "published": "June 28, 2022 6:17 AM"
+    },
+    {
+        "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
+        "timestamp": 1656411738,
+        "sentiment": -3,
+        "published": "June 28, 2022 6:22 AM"
+    },
+    {
+        "title": "U.S. Supreme Court takes aim at separation of church and state",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/legal/government/us-supreme-court-takes-aim-separation-church-state-2022-06-28/",
+        "timestamp": 1656412173,
+        "sentiment": 1,
+        "published": "June 28, 2022 6:29 AM"
+    },
+    {
+        "title": "Less animal protein (especially beef) and more whole grain in US school lunches could greatly reduce their environmental impacts",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/s43247-022-00452-3",
+        "timestamp": 1656412469,
+        "sentiment": 4,
+        "published": "June 28, 2022 6:34 AM"
+    },
+    {
+        "title": "Germany: Record numbers leaving churches | Hundreds of thousands of people have resigned their memberships in Germany's Protestant and Catholic churches. Fifteen years ago, 61% of Germans belonged to churches, a number that has now dropped below 50%.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-record-numbers-leaving-churches/a-62286684",
+        "timestamp": 1656413330,
+        "sentiment": 0,
+        "published": "June 28, 2022 6:48 AM"
+    },
+    {
+        "title": "The GOP would overturn the filibuster to impose a national abortion ban if it wins the midterms, ex-RNC chief suggests",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656414309,
+        "sentiment": 1,
+        "published": "June 28, 2022 7:05 AM"
+    },
+    {
+        "title": "Chlorine gas leak kills 12, injures 251 at Jordan port",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/middle-east/four-dead-70-injured-toxic-gas-leak-jordans-aqaba-port-state-tv-2022-06-27/",
+        "timestamp": 1656414744,
+        "sentiment": -4,
+        "published": "June 28, 2022 7:12 AM"
+    },
+    {
+        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
+        "domain": "psypost.org",
+        "category": "UpliftingNews",
+        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
+        "timestamp": 1656415527,
+        "sentiment": 0,
+        "published": "June 28, 2022 7:25 AM"
+    },
+    {
+        "title": "Florida Journalist Gets DUI Charges Dropped for the 3rd time! Could help that his attorney is the Mayor of one of the cities he covers?",
+        "domain": "parklandtalk.com",
+        "category": "florida",
+        "link": "https://parklandtalk.com/local-journalist-gets-dui-charges-dropped-15864",
+        "timestamp": 1656415817,
+        "sentiment": 2,
+        "published": "June 28, 2022 7:30 AM"
+    },
+    {
+        "title": "Ukrainians who come to UK illegally could be sent to Rwanda, Johnson says",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/uk-news/2022/jun/23/ukrainians-who-come-to-uk-illegally-could-be-sent-to-rwanda-johnson-says",
+        "timestamp": 1656416476,
+        "sentiment": -3,
+        "published": "June 28, 2022 7:41 AM"
+    },
+    {
+        "title": "Fears of violence against pro-choice protests intensify amid wave of attacks",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
+        "timestamp": 1656417246,
+        "sentiment": -4,
+        "published": "June 28, 2022 7:54 AM"
+    },
+    {
+        "title": "Did violence follow Roe decision? Yes — almost all of it against pro-choice protesters",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
+        "timestamp": 1656417387,
+        "sentiment": 1,
+        "published": "June 28, 2022 7:56 AM"
+    },
+    {
+        "title": "People with a higher conspiracy mentality have a general tendency to judge others as untrustworthy",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
+        "timestamp": 1656417463,
+        "sentiment": 4,
+        "published": "June 28, 2022 7:57 AM"
+    },
+    {
+        "title": "Accounting giant Ernst & Young admits its employees cheated on ethics exams",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
+        "timestamp": 1656417611,
+        "sentiment": -3,
+        "published": "June 28, 2022 8:00 AM"
+    },
+    {
+        "title": "A Ukrainian TV host crowdfunded $20 million to buy Bayraktar drones. The company making them refused the money and said it'd donate the aircraft instead.",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
+        "timestamp": 1656418439,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:13 AM"
+    },
+    {
+        "title": "Zelenskyy says Russia bombed a shopping mall because seeing Ukrainians try to live a normal life made it ‘angry’",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
+        "timestamp": 1656419302,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:28 AM"
+    },
+    {
+        "title": "Pope Francis urges mothers to stop ironing son's shirts and urge them to get married",
+        "domain": "somersetlive.co.uk",
+        "category": "nottheonion",
+        "link": "https://www.somersetlive.co.uk/news/uk-world-news/pope-francis-tells-mums-stop-7262759",
+        "timestamp": 1656419792,
+        "sentiment": -3,
+        "published": "June 28, 2022 8:36 AM"
+    },
+    {
+        "title": "T-Mobile is now selling app usage data to advertisers, but iPhone users are in the clear",
+        "domain": "9to5mac.com",
+        "category": "technology",
+        "link": "https://9to5mac.com/2022/06/27/t-mobile-selling-user-data/",
+        "timestamp": 1656420656,
+        "sentiment": -3,
+        "published": "June 28, 2022 8:50 AM"
+    },
+    {
+        "title": "First photos of WNBA’s Brittney Griner appearing in a Russian court",
+        "domain": "latimes.com",
+        "category": "sports",
+        "link": "https://www.latimes.com/sports/story/2022-06-27/first-photos-of-wnbas-brittney-griner-appearing-in-a-russian-court",
+        "timestamp": 1656420793,
+        "sentiment": 0,
+        "published": "June 28, 2022 8:53 AM"
+    },
+    {
+        "title": "Boy missing for eight days in Germany found alive in sewer",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
+        "timestamp": 1656421398,
+        "sentiment": -4,
+        "published": "June 28, 2022 9:03 AM"
+    },
+    {
+        "title": "The Truth Behind The Terrible Resale Value Of Electric Cars",
+        "domain": "slashgear.com",
+        "category": "technology",
+        "link": "https://www.slashgear.com/909209/the-truth-behind-the-terrible-resale-value-of-electric-cars/",
+        "timestamp": 1656421512,
+        "sentiment": -3,
+        "published": "June 28, 2022 9:05 AM"
+    },
+    {
+        "title": "'Only Murders in the Building' season 2 wisely sticks to a winning formula. Narrative formulas can be deeply satisfying when executed well—and none more so than that of the cozy mystery.",
+        "domain": "time.com",
+        "category": "television",
+        "link": "https://time.com/6190642/only-murders-in-the-building-season-2-review/",
+        "timestamp": 1656421604,
+        "sentiment": -2,
+        "published": "June 28, 2022 9:06 AM"
+    },
+    {
+        "title": "Counties with higher rates of historical lynchings have lower voter Black registration rates today (controlling for all relevant factors). The mechanism appears to be that lynchings caused Black people to avoid the voting process and these voting norms were passed to subsequent generations.",
+        "domain": "aeaweb.org",
+        "category": "science",
+        "link": "https://www.aeaweb.org/articles?id=10.1257/app.20190549",
+        "timestamp": 1656422781,
+        "sentiment": 4,
+        "published": "June 28, 2022 9:26 AM"
+    },
+    {
+        "title": "Investment in school facilities lead to better test scores, attendance, and house prices. Each dollar spent generated $1.62 in household value, with about 24% coming directly through test score gains and 76% from capitalization of non-test-score amenities.",
+        "domain": "aeaweb.org",
+        "category": "science",
+        "link": "https://www.aeaweb.org/articles?id=10.1257/app.20200467",
+        "timestamp": 1656422953,
+        "sentiment": 4,
+        "published": "June 28, 2022 9:29 AM"
+    },
+    {
+        "title": "Lauren Boebert says the church is supposed to direct the government",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/lauren-boebert-church-founding-fathers-government-colorado-1719760",
+        "timestamp": 1656423682,
+        "sentiment": 1,
+        "published": "June 28, 2022 9:41 AM"
+    },
+    {
+        "title": "146 new Florida laws take effect July 1",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/politics/146-new-florida-laws-take-effect-july-1/",
+        "timestamp": 1656424456,
+        "sentiment": 2,
+        "published": "June 28, 2022 9:54 AM"
+    },
+    {
+        "title": "Robotic arms connected directly to brain of partially paralyzed man allows him to feed himself",
+        "domain": "blog.frontiersin.org",
+        "category": "science",
+        "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
+        "timestamp": 1656393830,
+        "sentiment": -2,
+        "published": "June 28, 2022 1:23 AM"
     },
     {
         "title": "France plans to deliver VAB armored personnel carriers to Ukraine \"in significant quantities\", and 6 more Caesar howitzers - ￼Def Min Sébastien Lecornu France is also considering the possibility of supplying Ukraine with Exocet anti-ship missiles.",
@@ -144,195 +459,6 @@
         "published": "June 28, 2022 4:57 AM"
     },
     {
-        "title": "Xi Jinping says China has consulted millions of citizens about its government as part of a 'whole-process democracy' that Beijing claims is better than the West's",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/xi-jinping-says-china-has-consulted-millions-of-citizens-about-its-government-as-part-of-a-whole-process-democracy-that-beijing-claims-is-better-than-the-west-s/ar-AAYWJIl?ocid=EMMX&cvid=3c700d5938d34f548101b166c5a2d1ee",
-        "timestamp": 1656409046,
-        "sentiment": 0,
-        "published": "June 28, 2022 5:37 AM"
-    },
-    {
-        "title": "Roe Was Overturned Because of Politics, Not the Constitution",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
-        "timestamp": 1656409290,
-        "sentiment": 2,
-        "published": "June 28, 2022 5:41 AM"
-    },
-    {
-        "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
-        "domain": "m.timesofindia.com",
-        "category": "UpliftingNews",
-        "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
-        "timestamp": 1656409320,
-        "sentiment": 1,
-        "published": "June 28, 2022 5:42 AM"
-    },
-    {
-        "title": "Facebook and Instagram removed posts about abortion pills immediately after the Roe v. Wade decision, reports say.",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
-        "timestamp": 1656410206,
-        "sentiment": 0,
-        "published": "June 28, 2022 5:56 AM"
-    },
-    {
-        "title": "Drunk mayor crashes car after meeting families of drunk driving victims",
-        "domain": "newsweek.com",
-        "category": "nottheonion",
-        "link": "https://www.newsweek.com/drunk-mayor-crashes-car-after-meeting-families-drunk-driving-victims-1719613",
-        "timestamp": 1656410372,
-        "sentiment": -5,
-        "published": "June 28, 2022 5:59 AM"
-    },
-    {
-        "title": "New psychology research has found that celebrity worship predicts impulsive buying behavior",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
-        "timestamp": 1656410441,
-        "sentiment": -2,
-        "published": "June 28, 2022 6:00 AM"
-    },
-    {
-        "title": "Indian government censors tweets critical of Indian internet censorship",
-        "domain": "entrackr.com",
-        "category": "nottheonion",
-        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
-        "timestamp": 1656410641,
-        "sentiment": -5,
-        "published": "June 28, 2022 6:04 AM"
-    },
-    {
-        "title": "US couple to sue Maltese government over abortion denial: couple was denied a request to terminate a miscarried and non-viable pregnancy while holidaying in Malta and had to be airlifted to Spain",
-        "domain": "timesofmalta.com",
-        "category": "worldnews",
-        "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
-        "timestamp": 1656411466,
-        "sentiment": 0,
-        "published": "June 28, 2022 6:17 AM"
-    },
-    {
-        "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
-        "timestamp": 1656411738,
-        "sentiment": 0,
-        "published": "June 28, 2022 6:22 AM"
-    },
-    {
-        "title": "Less animal protein (especially beef) and more whole grain in US school lunches could greatly reduce their environmental impacts",
-        "domain": "nature.com",
-        "category": "science",
-        "link": "https://www.nature.com/articles/s43247-022-00452-3",
-        "timestamp": 1656412469,
-        "sentiment": -2,
-        "published": "June 28, 2022 6:34 AM"
-    },
-    {
-        "title": "Germany: Record numbers leaving churches | Hundreds of thousands of people have resigned their memberships in Germany's Protestant and Catholic churches. Fifteen years ago, 61% of Germans belonged to churches, a number that has now dropped below 50%.",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://www.dw.com/en/germany-record-numbers-leaving-churches/a-62286684",
-        "timestamp": 1656413330,
-        "sentiment": 0,
-        "published": "June 28, 2022 6:48 AM"
-    },
-    {
-        "title": "The GOP would overturn the filibuster to impose a national abortion ban if it wins the midterms, ex-RNC chief suggests",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1656414309,
-        "sentiment": 2,
-        "published": "June 28, 2022 7:05 AM"
-    },
-    {
-        "title": "Chlorine gas leak kills 12, injures 251 at Jordan port",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/middle-east/four-dead-70-injured-toxic-gas-leak-jordans-aqaba-port-state-tv-2022-06-27/",
-        "timestamp": 1656414744,
-        "sentiment": -4,
-        "published": "June 28, 2022 7:12 AM"
-    },
-    {
-        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
-        "domain": "psypost.org",
-        "category": "UpliftingNews",
-        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
-        "timestamp": 1656415527,
-        "sentiment": 1,
-        "published": "June 28, 2022 7:25 AM"
-    },
-    {
-        "title": "Florida Journalist Gets DUI Charges Dropped for the 3rd time! Could help that his attorney is the Mayor of one of the cities he covers?",
-        "domain": "parklandtalk.com",
-        "category": "florida",
-        "link": "https://parklandtalk.com/local-journalist-gets-dui-charges-dropped-15864",
-        "timestamp": 1656415817,
-        "sentiment": 3,
-        "published": "June 28, 2022 7:30 AM"
-    },
-    {
-        "title": "Ukrainians who come to UK illegally could be sent to Rwanda, Johnson says",
-        "domain": "theguardian.com",
-        "category": "nottheonion",
-        "link": "https://www.theguardian.com/uk-news/2022/jun/23/ukrainians-who-come-to-uk-illegally-could-be-sent-to-rwanda-johnson-says",
-        "timestamp": 1656416476,
-        "sentiment": -5,
-        "published": "June 28, 2022 7:41 AM"
-    },
-    {
-        "title": "Fears of violence against pro-choice protests intensify amid wave of attacks",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
-        "timestamp": 1656417246,
-        "sentiment": -4,
-        "published": "June 28, 2022 7:54 AM"
-    },
-    {
-        "title": "Did violence follow Roe decision? Yes — almost all of it against pro-choice protesters",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
-        "timestamp": 1656417387,
-        "sentiment": 2,
-        "published": "June 28, 2022 7:56 AM"
-    },
-    {
-        "title": "People with a higher conspiracy mentality have a general tendency to judge others as untrustworthy",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
-        "timestamp": 1656417463,
-        "sentiment": -2,
-        "published": "June 28, 2022 7:57 AM"
-    },
-    {
-        "title": "Accounting giant Ernst & Young admits its employees cheated on ethics exams",
-        "domain": "npr.org",
-        "category": "nottheonion",
-        "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
-        "timestamp": 1656417611,
-        "sentiment": -5,
-        "published": "June 28, 2022 8:00 AM"
-    },
-    {
-        "title": "A Ukrainian TV host crowdfunded $20 million to buy Bayraktar drones. The company making them refused the money and said it'd donate the aircraft instead.",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
-        "timestamp": 1656418439,
-        "sentiment": 0,
-        "published": "June 28, 2022 8:13 AM"
-    },
-    {
         "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
         "domain": "smh.com.au",
         "category": "UpliftingNews",
@@ -340,42 +466,6 @@
         "timestamp": 1656418846,
         "sentiment": 1,
         "published": "June 28, 2022 8:20 AM"
-    },
-    {
-        "title": "Zelenskyy says Russia bombed a shopping mall because seeing Ukrainians try to live a normal life made it ‘angry’",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
-        "timestamp": 1656419302,
-        "sentiment": 0,
-        "published": "June 28, 2022 8:28 AM"
-    },
-    {
-        "title": "First photos of WNBA’s Brittney Griner appearing in a Russian court",
-        "domain": "latimes.com",
-        "category": "sports",
-        "link": "https://www.latimes.com/sports/story/2022-06-27/first-photos-of-wnbas-brittney-griner-appearing-in-a-russian-court",
-        "timestamp": 1656420793,
-        "sentiment": 0,
-        "published": "June 28, 2022 8:53 AM"
-    },
-    {
-        "title": "Boy missing for eight days in Germany found alive in sewer",
-        "domain": "news.sky.com",
-        "category": "UpliftingNews",
-        "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
-        "timestamp": 1656422433,
-        "sentiment": 1,
-        "published": "June 28, 2022 9:20 AM"
-    },
-    {
-        "title": "100-Year-Old Giant Sturgeon Caught In Canada, Thrown Back In River",
-        "domain": "ndtv.com",
-        "category": "worldnews",
-        "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
-        "timestamp": 1656389689,
-        "sentiment": 0,
-        "published": "June 28, 2022 12:14 AM"
     },
     {
         "title": "Germany abolishes Nazi-era abortion law.",
