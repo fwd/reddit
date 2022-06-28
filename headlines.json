@@ -14,17 +14,8 @@
         "category": "worldnews",
         "link": "https://www.ndtv.com/offbeat/100-year-old-giant-sturgeon-caught-in-canada-thrown-back-in-river-3101968",
         "timestamp": 1656389689,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:14 AM"
-    },
-    {
-        "title": "One dead, one injured in shooting over too much mayo on sandwich at Atlanta Subway.",
-        "domain": "wsbtv.com",
-        "category": "nottheonion",
-        "link": "https://www.wsbtv.com/news/local/atlanta/too-much-mayo-sandwich-1-dead-1-surgery-after-being-shot-by-customer-apd-says/ERSZ6VTFOBDY5K7ELGH4IXU2WY/",
-        "timestamp": 1656390911,
-        "sentiment": -4,
-        "published": "June 28, 2022 12:35 AM"
     },
     {
         "title": "Robots With Flawed AI Make Sexist And Racist Decisions, Experiment Shows. \"We're at risk of creating a generation of racist and sexist robots, but people and organizations have decided it's OK to create these products without addressing the issues.\"",
@@ -32,7 +23,7 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -9,
+        "sentiment": -3,
         "published": "June 28, 2022 12:46 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "science",
         "link": "https://blog.frontiersin.org/2022/06/28/robotic-arms-feed-partially-paralyzed-man-bmi/",
         "timestamp": 1656393830,
-        "sentiment": -9,
+        "sentiment": -3,
         "published": "June 28, 2022 1:23 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.thedrive.com/the-war-zone/ukraine-to-get-same-surface-to-air-missiles-that-protect-u-s-capital-report",
         "timestamp": 1656394298,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 1:31 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://www.blackenterprise.com/rhode-island-cop-charged-with-assault-after-punching-female-senate-rival-during-abortion-rally/",
         "timestamp": 1656394337,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 28, 2022 1:32 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://newsunrolled.com/world/45970.html",
         "timestamp": 1656397156,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 28, 2022 2:19 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/germany-abolishes-nazi-era-abortion-law-2022-06-24/",
         "timestamp": 1656401048,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 28, 2022 3:24 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "June 28, 2022 3:50 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957100",
         "timestamp": 1656404016,
-        "sentiment": -9,
+        "sentiment": -3,
         "published": "June 28, 2022 4:13 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/us-news/louisiana-woman-says-rapist-was-custody-child-ongoing-court-dispute-rcna34140",
         "timestamp": 1656404203,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 28, 2022 4:16 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://dw.com/en/germany-101-year-old-ex-nazi-camp-guard-sentenced-to-5-years-in-jail/a-62284994",
         "timestamp": 1656404831,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 4:27 AM"
     },
     {
@@ -140,8 +131,17 @@
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 4:36 AM"
+    },
+    {
+        "title": "France plans to deliver VAB armored personnel carriers to Ukraine \"in significant quantities\", and 6 more Caesar howitzers - ￼Def Min Sébastien Lecornu France is also considering the possibility of supplying Ukraine with Exocet anti-ship missiles.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/EuromaidanPress/status/1541702441694928898",
+        "timestamp": 1656406161,
+        "sentiment": -4,
+        "published": "June 28, 2022 4:49 AM"
     },
     {
         "title": "A woman's brutal killing shocks the Arab world",
@@ -149,7 +149,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/24/middleeast/egypt-woman-killing-mime-intl/index.html",
         "timestamp": 1656406622,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 4:57 AM"
     },
     {
@@ -158,8 +158,17 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/xi-jinping-says-china-has-consulted-millions-of-citizens-about-its-government-as-part-of-a-whole-process-democracy-that-beijing-claims-is-better-than-the-west-s/ar-AAYWJIl?ocid=EMMX&cvid=3c700d5938d34f548101b166c5a2d1ee",
         "timestamp": 1656409046,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 5:37 AM"
+    },
+    {
+        "title": "Roe Was Overturned Because of Politics, Not the Constitution",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
+        "timestamp": 1656409290,
+        "sentiment": 2,
+        "published": "June 28, 2022 5:41 AM"
     },
     {
         "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
@@ -167,7 +176,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
         "timestamp": 1656410206,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 5:56 AM"
     },
     {
@@ -185,7 +194,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/drunk-mayor-crashes-car-after-meeting-families-drunk-driving-victims-1719613",
         "timestamp": 1656410372,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 28, 2022 5:59 AM"
     },
     {
@@ -194,7 +203,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
         "timestamp": 1656410441,
-        "sentiment": -9,
+        "sentiment": -3,
         "published": "June 28, 2022 6:00 AM"
     },
     {
@@ -203,8 +212,17 @@
         "category": "nottheonion",
         "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
         "timestamp": 1656410641,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "June 28, 2022 6:04 AM"
+    },
+    {
+        "title": "US couple to sue Maltese government over abortion denial: couple was denied a request to terminate a miscarried and non-viable pregnancy while holidaying in Malta and had to be airlifted to Spain",
+        "domain": "timesofmalta.com",
+        "category": "worldnews",
+        "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
+        "timestamp": 1656411466,
+        "sentiment": 0,
+        "published": "June 28, 2022 6:17 AM"
     },
     {
         "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
@@ -212,8 +230,80 @@
         "category": "technology",
         "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
         "timestamp": 1656411738,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 6:22 AM"
+    },
+    {
+        "title": "Less animal protein (especially beef) and more whole grain in US school lunches could greatly reduce their environmental impacts",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/s43247-022-00452-3",
+        "timestamp": 1656412469,
+        "sentiment": -3,
+        "published": "June 28, 2022 6:34 AM"
+    },
+    {
+        "title": "Germany: Record numbers leaving churches | Hundreds of thousands of people have resigned their memberships in Germany's Protestant and Catholic churches. Fifteen years ago, 61% of Germans belonged to churches, a number that has now dropped below 50%.",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/germany-record-numbers-leaving-churches/a-62286684",
+        "timestamp": 1656413330,
+        "sentiment": 0,
+        "published": "June 28, 2022 6:48 AM"
+    },
+    {
+        "title": "The GOP would overturn the filibuster to impose a national abortion ban if it wins the midterms, ex-RNC chief suggests",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656414309,
+        "sentiment": 2,
+        "published": "June 28, 2022 7:05 AM"
+    },
+    {
+        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
+        "domain": "psypost.org",
+        "category": "UpliftingNews",
+        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
+        "timestamp": 1656415527,
+        "sentiment": 1,
+        "published": "June 28, 2022 7:25 AM"
+    },
+    {
+        "title": "People with a higher conspiracy mentality have a general tendency to judge others as untrustworthy",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
+        "timestamp": 1656417463,
+        "sentiment": -3,
+        "published": "June 28, 2022 7:57 AM"
+    },
+    {
+        "title": "Accounting giant Ernst & Young admits its employees cheated on ethics exams",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/06/28/1108044858/accounting-giant-ernst-young-admits-its-employees-cheated-on-ethics-exams",
+        "timestamp": 1656417611,
+        "sentiment": -2,
+        "published": "June 28, 2022 8:00 AM"
+    },
+    {
+        "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
+        "domain": "smh.com.au",
+        "category": "UpliftingNews",
+        "link": "https://www.smh.com.au/national/abandoning-god-christianity-plummets-as-non-religious-surges-in-census-20220627-p5awvz.html",
+        "timestamp": 1656418846,
+        "sentiment": 1,
+        "published": "June 28, 2022 8:20 AM"
+    },
+    {
+        "title": "One dead, one injured in shooting over too much mayo on sandwich at Atlanta Subway.",
+        "domain": "wsbtv.com",
+        "category": "nottheonion",
+        "link": "https://www.wsbtv.com/news/local/atlanta/too-much-mayo-sandwich-1-dead-1-surgery-after-being-shot-by-customer-apd-says/ERSZ6VTFOBDY5K7ELGH4IXU2WY/",
+        "timestamp": 1656390911,
+        "sentiment": -4,
+        "published": "June 28, 2022 12:35 AM"
     },
     {
         "title": "The Supreme Court may issue a ruling that could hurt Biden's climate change plans",
@@ -223,15 +313,6 @@
         "timestamp": 1656412482,
         "sentiment": 2,
         "published": "June 28, 2022 6:34 AM"
-    },
-    {
-        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
-        "domain": "psypost.org",
-        "category": "UpliftingNews",
-        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
-        "timestamp": 1656415527,
-        "sentiment": 0,
-        "published": "June 28, 2022 7:25 AM"
     },
     {
         "title": "The government of Lithuania announced on Monday that it had been hit by an “intense” cyberattack, likely launched from Moscow",
@@ -1294,15 +1375,6 @@
         "timestamp": 1656347499,
         "sentiment": -1,
         "published": "June 27, 2022 12:31 PM"
-    },
-    {
-        "title": "Census Australia 2022 results: Christianity plummets as ‘non-religious’ surges in census",
-        "domain": "smh.com.au",
-        "category": "worldnews",
-        "link": "https://www.smh.com.au/national/abandoning-god-christianity-plummets-as-non-religious-surges-in-census-20220627-p5awvz.html",
-        "timestamp": 1656366080,
-        "sentiment": -1,
-        "published": "June 27, 2022 5:41 PM"
     },
     {
         "title": "All the Non-sanctioned NCAA Sports Champions - Part 1",
